@@ -8818,6 +8818,9 @@
 [submodule "gw/ri/ooj"]
 	path = gw/ri/ooj
 	url = .
+[submodule "gw/ux/ega"]
+	path = gw/ux/ega
+	url = .
 [submodule "gw/yv/apr"]
 	path = gw/yv/apr
 	url = .
