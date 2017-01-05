@@ -10429,6 +10429,9 @@
 [submodule "yo/xi/zsh"]
 	path = yo/xi/zsh
 	url = .
+[submodule "yp/ff/fdn"]
+	path = yp/ff/fdn
+	url = .
 [submodule "yp/nh/uep"]
 	path = yp/nh/uep
 	url = .
