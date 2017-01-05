@@ -11677,6 +11677,9 @@
 [submodule "ob/ya/gsa"]
 	path = ob/ya/gsa
 	url = .
+[submodule "ob/yr/gwz"]
+	path = ob/yr/gwz
+	url = .
 [submodule "oc/at/apd"]
 	path = oc/at/apd
 	url = .
