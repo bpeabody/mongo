@@ -14896,6 +14896,9 @@
 [submodule "jb/cx/lbz"]
 	path = jb/cx/lbz
 	url = .
+[submodule "jb/ea/szb"]
+	path = jb/ea/szb
+	url = .
 [submodule "jb/gp/dql"]
 	path = jb/gp/dql
 	url = .
