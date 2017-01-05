@@ -2677,6 +2677,9 @@
 [submodule "iy/xw/riv"]
 	path = iy/xw/riv
 	url = .
+[submodule "iy/ze/rmq"]
+	path = iy/ze/rmq
+	url = .
 [submodule "ja/ba/smw"]
 	path = ja/ba/smw
 	url = .
