@@ -21406,6 +21406,9 @@
 [submodule "ka/bz/sxn"]
 	path = ka/bz/sxn
 	url = .
+[submodule "ka/cs/yjo"]
+	path = ka/cs/yjo
+	url = .
 [submodule "ka/dj/spy"]
 	path = ka/dj/spy
 	url = .
