@@ -3802,6 +3802,9 @@
 [submodule "ml/md/jqg"]
 	path = ml/md/jqg
 	url = .
+[submodule "ml/xb/mkr"]
+	path = ml/xb/mkr
+	url = .
 [submodule "ml/xc/kqo"]
 	path = ml/xc/kqo
 	url = .
