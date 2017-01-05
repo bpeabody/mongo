@@ -38812,6 +38812,9 @@
 [submodule "qs/cy/xic"]
 	path = qs/cy/xic
 	url = .
+[submodule "qs/eb/xea"]
+	path = qs/eb/xea
+	url = .
 [submodule "qs/eq/yrr"]
 	path = qs/eq/yrr
 	url = .
