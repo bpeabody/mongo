@@ -4111,6 +4111,9 @@
 [submodule "mv/jm/gqw"]
 	path = mv/jm/gqw
 	url = .
+[submodule "mv/kr/woq"]
+	path = mv/kr/woq
+	url = .
 [submodule "mv/nj/qcw"]
 	path = mv/nj/qcw
 	url = .
