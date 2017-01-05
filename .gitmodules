@@ -49408,6 +49408,9 @@
 [submodule "ve/hp/boy"]
 	path = ve/hp/boy
 	url = .
+[submodule "ve/iv/psq"]
+	path = ve/iv/psq
+	url = .
 [submodule "ve/kf/mcz"]
 	path = ve/kf/mcz
 	url = .
