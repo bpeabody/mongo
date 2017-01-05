@@ -2446,6 +2446,9 @@
 [submodule "er/bt/erq"]
 	path = er/bt/erq
 	url = .
+[submodule "er/eb/gyy"]
+	path = er/eb/gyy
+	url = .
 [submodule "er/ih/nrk"]
 	path = er/ih/nrk
 	url = .
