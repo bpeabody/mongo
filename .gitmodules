@@ -28561,6 +28561,9 @@
 [submodule "kl/qp/yyr"]
 	path = kl/qp/yyr
 	url = .
+[submodule "kl/sl/sqx"]
+	path = kl/sl/sqx
+	url = .
 [submodule "kl/ue/dwr"]
 	path = kl/ue/dwr
 	url = .
