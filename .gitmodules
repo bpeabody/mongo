@@ -12916,6 +12916,9 @@
 [submodule "fn/ux/cpt"]
 	path = fn/ux/cpt
 	url = .
+[submodule "fn/vg/igz"]
+	path = fn/vg/igz
+	url = .
 [submodule "fn/wt/kxt"]
 	path = fn/wt/kxt
 	url = .
