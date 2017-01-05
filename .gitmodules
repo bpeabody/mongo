@@ -2347,6 +2347,9 @@
 [submodule "hj/sc/pvj"]
 	path = hj/sc/pvj
 	url = .
+[submodule "hj/sg/lkq"]
+	path = hj/sg/lkq
+	url = .
 [submodule "hk/as/hsg"]
 	path = hk/as/hsg
 	url = .
