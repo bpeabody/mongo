@@ -14935,6 +14935,9 @@
 [submodule "fu/ec/clh"]
 	path = fu/ec/clh
 	url = .
+[submodule "fu/fk/sad"]
+	path = fu/fk/sad
+	url = .
 [submodule "fu/fl/jup"]
 	path = fu/fl/jup
 	url = .
