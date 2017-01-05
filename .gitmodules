@@ -4111,6 +4111,9 @@
 [submodule "bm/vk/pcu"]
 	path = bm/vk/pcu
 	url = .
+[submodule "bm/vr/qpt"]
+	path = bm/vr/qpt
+	url = .
 [submodule "bm/wm/znx"]
 	path = bm/wm/znx
 	url = .
