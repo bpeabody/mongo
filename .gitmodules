@@ -18925,6 +18925,9 @@
 [submodule "pa/uy/poi"]
 	path = pa/uy/poi
 	url = .
+[submodule "pa/zg/nir"]
+	path = pa/zg/nir
+	url = .
 [submodule "pb/bd/rpx"]
 	path = pb/bd/rpx
 	url = .
