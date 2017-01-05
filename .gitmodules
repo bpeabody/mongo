@@ -43192,6 +43192,9 @@
 [submodule "ox/qi/zde"]
 	path = ox/qi/zde
 	url = .
+[submodule "ox/qn/qsi"]
+	path = ox/qn/qsi
+	url = .
 [submodule "ox/qt/loo"]
 	path = ox/qt/loo
 	url = .
