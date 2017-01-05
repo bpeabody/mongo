@@ -21712,6 +21712,9 @@
 [submodule "iq/kd/mwz"]
 	path = iq/kd/mwz
 	url = .
+[submodule "iq/li/izb"]
+	path = iq/li/izb
+	url = .
 [submodule "iq/ll/ilk"]
 	path = iq/ll/ilk
 	url = .
