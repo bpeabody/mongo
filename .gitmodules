@@ -23347,6 +23347,9 @@
 [submodule "wd/ym/ooh"]
 	path = wd/ym/ooh
 	url = .
+[submodule "we/al/svd"]
+	path = we/al/svd
+	url = .
 [submodule "we/bh/rvw"]
 	path = we/bh/rvw
 	url = .
