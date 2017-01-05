@@ -47062,6 +47062,9 @@
 [submodule "pr/aw/asp"]
 	path = pr/aw/asp
 	url = .
+[submodule "pr/ca/eur"]
+	path = pr/ca/eur
+	url = .
 [submodule "pr/cq/qwf"]
 	path = pr/cq/qwf
 	url = .
