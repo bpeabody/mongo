@@ -2197,6 +2197,9 @@
 [submodule "gs/so/qdt"]
 	path = gs/so/qdt
 	url = .
+[submodule "gs/ts/jgj"]
+	path = gs/ts/jgj
+	url = .
 [submodule "gs/tv/wqq"]
 	path = gs/tv/wqq
 	url = .
