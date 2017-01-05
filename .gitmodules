@@ -12196,6 +12196,9 @@
 [submodule "ku/bl/nuw"]
 	path = ku/bl/nuw
 	url = .
+[submodule "ku/jg/web"]
+	path = ku/jg/web
+	url = .
 [submodule "ku/ko/rty"]
 	path = ku/ko/rty
 	url = .
