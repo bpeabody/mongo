@@ -18616,6 +18616,9 @@
 [submodule "pi/dx/qlr"]
 	path = pi/dx/qlr
 	url = .
+[submodule "pi/is/viw"]
+	path = pi/is/viw
+	url = .
 [submodule "pi/lf/gcb"]
 	path = pi/lf/gcb
 	url = .
