@@ -4102,6 +4102,9 @@
 [submodule "sw/th/rtc"]
 	path = sw/th/rtc
 	url = .
+[submodule "sw/zc/yxk"]
+	path = sw/zc/yxk
+	url = .
 [submodule "sx/bo/ilu"]
 	path = sx/bo/ilu
 	url = .
