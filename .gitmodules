@@ -9979,6 +9979,9 @@
 [submodule "ft/xl/kvc"]
 	path = ft/xl/kvc
 	url = .
+[submodule "ft/xp/qtl"]
+	path = ft/xp/qtl
+	url = .
 [submodule "ft/zw/pqe"]
 	path = ft/zw/pqe
 	url = .
