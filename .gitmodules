@@ -2821,6 +2821,9 @@
 [submodule "dg/xx/xgx"]
 	path = dg/xx/xgx
 	url = .
+[submodule "dg/ya/cin"]
+	path = dg/ya/cin
+	url = .
 [submodule "dg/zx/kqa"]
 	path = dg/zx/kqa
 	url = .
