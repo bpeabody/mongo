@@ -17914,6 +17914,9 @@
 [submodule "vi/sl/wid"]
 	path = vi/sl/wid
 	url = .
+[submodule "vi/wc/uxw"]
+	path = vi/wc/uxw
+	url = .
 [submodule "vi/wf/sac"]
 	path = vi/wf/sac
 	url = .
