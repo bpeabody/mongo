@@ -9193,6 +9193,9 @@
 [submodule "hv/aa/tfv"]
 	path = hv/aa/tfv
 	url = .
+[submodule "hv/bn/hha"]
+	path = hv/bn/hha
+	url = .
 [submodule "hv/es/bcn"]
 	path = hv/es/bcn
 	url = .
