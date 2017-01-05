@@ -34033,6 +34033,9 @@
 [submodule "nj/rg/uif"]
 	path = nj/rg/uif
 	url = .
+[submodule "nj/rp/bqb"]
+	path = nj/rp/bqb
+	url = .
 [submodule "nj/sl/gra"]
 	path = nj/sl/gra
 	url = .
