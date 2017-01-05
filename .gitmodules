@@ -24496,6 +24496,9 @@
 [submodule "kd/zg/ubm"]
 	path = kd/zg/ubm
 	url = .
+[submodule "ke/bc/duc"]
+	path = ke/bc/duc
+	url = .
 [submodule "ke/cm/evl"]
 	path = ke/cm/evl
 	url = .
