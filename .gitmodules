@@ -3304,6 +3304,9 @@
 [submodule "bu/sg/cin"]
 	path = bu/sg/cin
 	url = .
+[submodule "bu/tg/qgz"]
+	path = bu/tg/qgz
+	url = .
 [submodule "bu/vp/bdn"]
 	path = bu/vp/bdn
 	url = .
