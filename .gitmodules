@@ -23980,6 +23980,9 @@
 [submodule "ks/vd/mnc"]
 	path = ks/vd/mnc
 	url = .
+[submodule "ks/yc/cyi"]
+	path = ks/yc/cyi
+	url = .
 [submodule "ks/zl/xik"]
 	path = ks/zl/xik
 	url = .
