@@ -745,6 +745,9 @@
 [submodule "tn/ku/lqh"]
 	path = tn/ku/lqh
 	url = .
+[submodule "tq/em/foy"]
+	path = tq/em/foy
+	url = .
 [submodule "tq/lg/kin"]
 	path = tq/lg/kin
 	url = .
