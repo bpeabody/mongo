@@ -2032,6 +2032,9 @@
 [submodule "nz/qr/rdi"]
 	path = nz/qr/rdi
 	url = .
+[submodule "nz/wi/kvg"]
+	path = nz/wi/kvg
+	url = .
 [submodule "oa/dv/yri"]
 	path = oa/dv/yri
 	url = .
