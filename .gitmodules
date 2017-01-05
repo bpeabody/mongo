@@ -21781,6 +21781,9 @@
 [submodule "hi/tj/kle"]
 	path = hi/tj/kle
 	url = .
+[submodule "hi/tz/qde"]
+	path = hi/tz/qde
+	url = .
 [submodule "hi/vs/xls"]
 	path = hi/vs/xls
 	url = .
