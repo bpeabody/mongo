@@ -29704,6 +29704,9 @@
 [submodule "pa/uy/poi"]
 	path = pa/uy/poi
 	url = .
+[submodule "pa/vg/pzg"]
+	path = pa/vg/pzg
+	url = .
 [submodule "pa/wg/vmo"]
 	path = pa/wg/vmo
 	url = .
