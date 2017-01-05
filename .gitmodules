@@ -4519,6 +4519,9 @@
 [submodule "ft/xj/jcl"]
 	path = ft/xj/jcl
 	url = .
+[submodule "fu/ba/sif"]
+	path = fu/ba/sif
+	url = .
 [submodule "fu/cg/mlf"]
 	path = fu/cg/mlf
 	url = .
