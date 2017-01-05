@@ -2191,6 +2191,9 @@
 [submodule "ng/io/njq"]
 	path = ng/io/njq
 	url = .
+[submodule "ng/pc/kvl"]
+	path = ng/pc/kvl
+	url = .
 [submodule "ng/wz/pzc"]
 	path = ng/wz/pzc
 	url = .
