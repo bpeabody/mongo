@@ -33169,6 +33169,9 @@
 [submodule "kz/hr/cus"]
 	path = kz/hr/cus
 	url = .
+[submodule "kz/il/tga"]
+	path = kz/il/tga
+	url = .
 [submodule "kz/ka/rnd"]
 	path = kz/ka/rnd
 	url = .
