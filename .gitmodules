@@ -22237,6 +22237,9 @@
 [submodule "sv/fq/hvs"]
 	path = sv/fq/hvs
 	url = .
+[submodule "sv/fv/nuw"]
+	path = sv/fv/nuw
+	url = .
 [submodule "sv/fx/lkt"]
 	path = sv/fx/lkt
 	url = .
