@@ -39802,6 +39802,9 @@
 [submodule "sq/xw/eva"]
 	path = sq/xw/eva
 	url = .
+[submodule "sr/bq/lhe"]
+	path = sr/bq/lhe
+	url = .
 [submodule "sr/cb/bjf"]
 	path = sr/cb/bjf
 	url = .
