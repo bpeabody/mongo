@@ -121,6 +121,9 @@
 [submodule "jd/un/htu"]
 	path = jd/un/htu
 	url = .
+[submodule "jj/vc/pii"]
+	path = jj/vc/pii
+	url = .
 [submodule "jw/vs/xin"]
 	path = jw/vs/xin
 	url = .
