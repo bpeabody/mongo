@@ -12742,6 +12742,9 @@
 [submodule "lb/eb/mxu"]
 	path = lb/eb/mxu
 	url = .
+[submodule "lb/gm/bxq"]
+	path = lb/gm/bxq
+	url = .
 [submodule "lb/he/okd"]
 	path = lb/he/okd
 	url = .
