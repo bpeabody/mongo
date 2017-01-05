@@ -21088,6 +21088,9 @@
 [submodule "qv/ca/dhs"]
 	path = qv/ca/dhs
 	url = .
+[submodule "qv/dc/uqs"]
+	path = qv/dc/uqs
+	url = .
 [submodule "qv/dl/emu"]
 	path = qv/dl/emu
 	url = .
