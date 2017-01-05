@@ -3130,6 +3130,9 @@
 [submodule "dr/cl/qaq"]
 	path = dr/cl/qaq
 	url = .
+[submodule "dr/dx/wnt"]
+	path = dr/dx/wnt
+	url = .
 [submodule "dr/gx/zou"]
 	path = dr/gx/zou
 	url = .
