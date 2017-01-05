@@ -22489,6 +22489,9 @@
 [submodule "qi/jk/hjq"]
 	path = qi/jk/hjq
 	url = .
+[submodule "qi/lt/ssa"]
+	path = qi/lt/ssa
+	url = .
 [submodule "qi/qa/dpi"]
 	path = qi/qa/dpi
 	url = .
