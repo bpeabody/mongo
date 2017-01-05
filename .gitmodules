@@ -6994,6 +6994,9 @@
 [submodule "gs/ef/jlg"]
 	path = gs/ef/jlg
 	url = .
+[submodule "gs/gs/ydp"]
+	path = gs/gs/ydp
+	url = .
 [submodule "gs/ir/ore"]
 	path = gs/ir/ore
 	url = .
