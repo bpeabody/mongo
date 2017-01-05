@@ -27532,6 +27532,9 @@
 [submodule "nk/lx/uov"]
 	path = nk/lx/uov
 	url = .
+[submodule "nk/mm/gkd"]
+	path = nk/mm/gkd
+	url = .
 [submodule "nk/pr/pmc"]
 	path = nk/pr/pmc
 	url = .
