@@ -20782,6 +20782,9 @@
 [submodule "hn/rl/twm"]
 	path = hn/rl/twm
 	url = .
+[submodule "hn/rw/hhj"]
+	path = hn/rw/hhj
+	url = .
 [submodule "hn/ut/eml"]
 	path = hn/ut/eml
 	url = .
