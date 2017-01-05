@@ -16156,6 +16156,9 @@
 [submodule "hj/lm/cjo"]
 	path = hj/lm/cjo
 	url = .
+[submodule "hj/nv/cso"]
+	path = hj/nv/cso
+	url = .
 [submodule "hj/ob/krn"]
 	path = hj/ob/krn
 	url = .
