@@ -2290,6 +2290,9 @@
 [submodule "bs/ue/wwp"]
 	path = bs/ue/wwp
 	url = .
+[submodule "bs/zl/upi"]
+	path = bs/zl/upi
+	url = .
 [submodule "bt/ay/uad"]
 	path = bt/ay/uad
 	url = .
