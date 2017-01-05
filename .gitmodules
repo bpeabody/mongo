@@ -25072,6 +25072,9 @@
 [submodule "yp/sx/fgv"]
 	path = yp/sx/fgv
 	url = .
+[submodule "yp/tc/nmx"]
+	path = yp/tc/nmx
+	url = .
 [submodule "yp/vq/iys"]
 	path = yp/vq/iys
 	url = .
