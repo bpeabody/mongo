@@ -9154,6 +9154,9 @@
 [submodule "ku/ut/swn"]
 	path = ku/ut/swn
 	url = .
+[submodule "ku/vo/yor"]
+	path = ku/vo/yor
+	url = .
 [submodule "ku/vv/azs"]
 	path = ku/vv/azs
 	url = .
