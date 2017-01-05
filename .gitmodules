@@ -6328,6 +6328,9 @@
 [submodule "db/lr/whq"]
 	path = db/lr/whq
 	url = .
+[submodule "db/lv/anh"]
+	path = db/lv/anh
+	url = .
 [submodule "db/lw/ptl"]
 	path = db/lw/ptl
 	url = .
