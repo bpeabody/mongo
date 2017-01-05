@@ -3922,6 +3922,9 @@
 [submodule "gj/vf/qge"]
 	path = gj/vf/qge
 	url = .
+[submodule "gj/vf/vqk"]
+	path = gj/vf/vqk
+	url = .
 [submodule "gj/xr/yfd"]
 	path = gj/xr/yfd
 	url = .
