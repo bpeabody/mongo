@@ -3457,6 +3457,9 @@
 [submodule "bi/dq/feo"]
 	path = bi/dq/feo
 	url = .
+[submodule "bi/ef/qni"]
+	path = bi/ef/qni
+	url = .
 [submodule "bi/fn/qfg"]
 	path = bi/fn/qfg
 	url = .
