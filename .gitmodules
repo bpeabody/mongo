@@ -16198,6 +16198,9 @@
 [submodule "iy/sv/mov"]
 	path = iy/sv/mov
 	url = .
+[submodule "iy/ta/ajl"]
+	path = iy/ta/ajl
+	url = .
 [submodule "iy/ue/xqw"]
 	path = iy/ue/xqw
 	url = .
