@@ -65935,6 +65935,9 @@
 [submodule "zp/lx/hmz"]
 	path = zp/lx/hmz
 	url = .
+[submodule "zp/me/aie"]
+	path = zp/me/aie
+	url = .
 [submodule "zp/ml/nvu"]
 	path = zp/ml/nvu
 	url = .
