@@ -11272,6 +11272,9 @@
 [submodule "yj/ld/lfd"]
 	path = yj/ld/lfd
 	url = .
+[submodule "yj/sy/zbb"]
+	path = yj/sy/zbb
+	url = .
 [submodule "yj/tx/qrm"]
 	path = yj/tx/qrm
 	url = .
