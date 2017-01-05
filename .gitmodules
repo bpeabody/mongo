@@ -9586,6 +9586,9 @@
 [submodule "iq/xx/fbv"]
 	path = iq/xx/fbv
 	url = .
+[submodule "iq/ya/uyg"]
+	path = iq/ya/uyg
+	url = .
 [submodule "iq/yn/mgl"]
 	path = iq/yn/mgl
 	url = .
