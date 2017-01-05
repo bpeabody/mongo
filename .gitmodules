@@ -9409,6 +9409,9 @@
 [submodule "ge/qd/tit"]
 	path = ge/qd/tit
 	url = .
+[submodule "ge/sv/oxl"]
+	path = ge/sv/oxl
+	url = .
 [submodule "ge/tf/ood"]
 	path = ge/tf/ood
 	url = .
