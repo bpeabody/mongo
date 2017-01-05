@@ -3037,6 +3037,9 @@
 [submodule "cq/bo/unz"]
 	path = cq/bo/unz
 	url = .
+[submodule "cq/bp/ago"]
+	path = cq/bp/ago
+	url = .
 [submodule "cq/fd/xcc"]
 	path = cq/fd/xcc
 	url = .
