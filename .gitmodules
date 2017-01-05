@@ -4072,6 +4072,9 @@
 [submodule "gz/hm/iiw"]
 	path = gz/hm/iiw
 	url = .
+[submodule "gz/hr/scm"]
+	path = gz/hr/scm
+	url = .
 [submodule "gz/jl/bxc"]
 	path = gz/jl/bxc
 	url = .
