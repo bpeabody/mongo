@@ -42262,6 +42262,9 @@
 [submodule "rg/iw/qpq"]
 	path = rg/iw/qpq
 	url = .
+[submodule "rg/kh/frl"]
+	path = rg/kh/frl
+	url = .
 [submodule "rg/le/etc"]
 	path = rg/le/etc
 	url = .
