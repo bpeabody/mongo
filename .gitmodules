@@ -32746,6 +32746,9 @@
 [submodule "mj/pb/iqe"]
 	path = mj/pb/iqe
 	url = .
+[submodule "mj/pc/nxr"]
+	path = mj/pc/nxr
+	url = .
 [submodule "mj/qc/bkp"]
 	path = mj/qc/bkp
 	url = .
