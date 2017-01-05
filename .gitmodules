@@ -23254,6 +23254,9 @@
 [submodule "xb/lq/brj"]
 	path = xb/lq/brj
 	url = .
+[submodule "xb/md/yjz"]
+	path = xb/md/yjz
+	url = .
 [submodule "xb/na/alr"]
 	path = xb/na/alr
 	url = .
