@@ -32755,6 +32755,9 @@
 [submodule "qn/xn/jmd"]
 	path = qn/xn/jmd
 	url = .
+[submodule "qn/zd/aej"]
+	path = qn/zd/aej
+	url = .
 [submodule "qn/zh/bvv"]
 	path = qn/zh/bvv
 	url = .
