@@ -13336,6 +13336,9 @@
 [submodule "xu/lr/izs"]
 	path = xu/lr/izs
 	url = .
+[submodule "xu/qp/uwh"]
+	path = xu/qp/uwh
+	url = .
 [submodule "xu/us/hul"]
 	path = xu/us/hul
 	url = .
