@@ -556,6 +556,9 @@
 [submodule "bb/dk/bzw"]
 	path = bb/dk/bzw
 	url = .
+[submodule "bb/ki/fpt"]
+	path = bb/ki/fpt
+	url = .
 [submodule "bb/mn/nvt"]
 	path = bb/mn/nvt
 	url = .
