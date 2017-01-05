@@ -35176,6 +35176,9 @@
 [submodule "sv/kd/reh"]
 	path = sv/kd/reh
 	url = .
+[submodule "sv/kn/toh"]
+	path = sv/kn/toh
+	url = .
 [submodule "sv/kr/lio"]
 	path = sv/kr/lio
 	url = .
