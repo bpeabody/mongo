@@ -2920,6 +2920,9 @@
 [submodule "fn/yd/sri"]
 	path = fn/yd/sri
 	url = .
+[submodule "fo/hh/cav"]
+	path = fo/hh/cav
+	url = .
 [submodule "fo/hs/woz"]
 	path = fo/hs/woz
 	url = .
