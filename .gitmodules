@@ -34291,6 +34291,9 @@
 [submodule "mf/dg/tnw"]
 	path = mf/dg/tnw
 	url = .
+[submodule "mf/ei/vpb"]
+	path = mf/ei/vpb
+	url = .
 [submodule "mf/eu/eyx"]
 	path = mf/eu/eyx
 	url = .
