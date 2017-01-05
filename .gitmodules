@@ -40042,6 +40042,9 @@
 [submodule "sj/gs/wmr"]
 	path = sj/gs/wmr
 	url = .
+[submodule "sj/hm/rat"]
+	path = sj/hm/rat
+	url = .
 [submodule "sj/ie/ely"]
 	path = sj/ie/ely
 	url = .
