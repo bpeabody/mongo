@@ -19480,6 +19480,9 @@
 [submodule "wn/fw/bqq"]
 	path = wn/fw/bqq
 	url = .
+[submodule "wn/iy/zmd"]
+	path = wn/iy/zmd
+	url = .
 [submodule "wn/kd/ltn"]
 	path = wn/kd/ltn
 	url = .
