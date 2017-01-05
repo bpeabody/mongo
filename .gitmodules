@@ -9655,6 +9655,9 @@
 [submodule "pr/gq/bqg"]
 	path = pr/gq/bqg
 	url = .
+[submodule "pr/ij/ktk"]
+	path = pr/ij/ktk
+	url = .
 [submodule "pr/ko/jva"]
 	path = pr/ko/jva
 	url = .
