@@ -11680,6 +11680,9 @@
 [submodule "ni/nz/onf"]
 	path = ni/nz/onf
 	url = .
+[submodule "ni/qp/bix"]
+	path = ni/qp/bix
+	url = .
 [submodule "ni/te/jdt"]
 	path = ni/te/jdt
 	url = .
