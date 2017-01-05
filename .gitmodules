@@ -20704,6 +20704,9 @@
 [submodule "gx/et/kpr"]
 	path = gx/et/kpr
 	url = .
+[submodule "gx/fk/iyj"]
+	path = gx/fk/iyj
+	url = .
 [submodule "gx/hi/bma"]
 	path = gx/hi/bma
 	url = .
