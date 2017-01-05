@@ -5674,6 +5674,9 @@
 [submodule "xb/di/hgl"]
 	path = xb/di/hgl
 	url = .
+[submodule "xb/lq/brj"]
+	path = xb/lq/brj
+	url = .
 [submodule "xb/na/alr"]
 	path = xb/na/alr
 	url = .
