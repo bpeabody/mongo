@@ -10105,6 +10105,9 @@
 [submodule "kz/sb/xyu"]
 	path = kz/sb/xyu
 	url = .
+[submodule "kz/sf/wao"]
+	path = kz/sf/wao
+	url = .
 [submodule "kz/sv/jem"]
 	path = kz/sv/jem
 	url = .
