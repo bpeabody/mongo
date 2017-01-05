@@ -1456,6 +1456,9 @@
 [submodule "cg/ze/hsp"]
 	path = cg/ze/hsp
 	url = .
+[submodule "ch/cc/smn"]
+	path = ch/cc/smn
+	url = .
 [submodule "ch/cr/ywi"]
 	path = ch/cr/ywi
 	url = .
