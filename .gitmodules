@@ -16993,6 +16993,9 @@
 [submodule "pv/kn/xmd"]
 	path = pv/kn/xmd
 	url = .
+[submodule "pv/la/nyz"]
+	path = pv/la/nyz
+	url = .
 [submodule "pv/mk/pvs"]
 	path = pv/mk/pvs
 	url = .
