@@ -6571,6 +6571,9 @@
 [submodule "fg/qc/sxs"]
 	path = fg/qc/sxs
 	url = .
+[submodule "fg/qs/wdx"]
+	path = fg/qs/wdx
+	url = .
 [submodule "fg/sc/lml"]
 	path = fg/sc/lml
 	url = .
