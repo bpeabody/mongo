@@ -4339,6 +4339,9 @@
 [submodule "df/yq/fiq"]
 	path = df/yq/fiq
 	url = .
+[submodule "dg/ae/hif"]
+	path = dg/ae/hif
+	url = .
 [submodule "dg/dg/fem"]
 	path = dg/dg/fem
 	url = .
