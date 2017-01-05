@@ -38365,6 +38365,9 @@
 [submodule "ql/kv/egc"]
 	path = ql/kv/egc
 	url = .
+[submodule "ql/np/yhj"]
+	path = ql/np/yhj
+	url = .
 [submodule "ql/oq/jdm"]
 	path = ql/oq/jdm
 	url = .
