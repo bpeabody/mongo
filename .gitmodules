@@ -7555,6 +7555,9 @@
 [submodule "om/if/kau"]
 	path = om/if/kau
 	url = .
+[submodule "om/ob/nek"]
+	path = om/ob/nek
+	url = .
 [submodule "om/oq/tfn"]
 	path = om/oq/tfn
 	url = .
