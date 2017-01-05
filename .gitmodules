@@ -4102,6 +4102,9 @@
 [submodule "gx/kl/mlf"]
 	path = gx/kl/mlf
 	url = .
+[submodule "gx/ra/voq"]
+	path = gx/ra/voq
+	url = .
 [submodule "gx/ry/hqv"]
 	path = gx/ry/hqv
 	url = .
