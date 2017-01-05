@@ -38401,6 +38401,9 @@
 [submodule "wn/qg/cxx"]
 	path = wn/qg/cxx
 	url = .
+[submodule "wn/qj/hel"]
+	path = wn/qj/hel
+	url = .
 [submodule "wn/sp/iaf"]
 	path = wn/sp/iaf
 	url = .
