@@ -12487,6 +12487,9 @@
 [submodule "et/rc/xjg"]
 	path = et/rc/xjg
 	url = .
+[submodule "et/se/ryo"]
+	path = et/se/ryo
+	url = .
 [submodule "et/tq/tkp"]
 	path = et/tq/tkp
 	url = .
