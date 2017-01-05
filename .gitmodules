@@ -7867,6 +7867,9 @@
 [submodule "uf/ay/ekp"]
 	path = uf/ay/ekp
 	url = .
+[submodule "uf/ig/qsm"]
+	path = uf/ig/qsm
+	url = .
 [submodule "uf/kc/xbd"]
 	path = uf/kc/xbd
 	url = .
