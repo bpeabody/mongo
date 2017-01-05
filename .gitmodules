@@ -23365,6 +23365,9 @@
 [submodule "ir/uc/rvs"]
 	path = ir/uc/rvs
 	url = .
+[submodule "ir/uu/cwf"]
+	path = ir/uu/cwf
+	url = .
 [submodule "ir/vd/idi"]
 	path = ir/vd/idi
 	url = .
