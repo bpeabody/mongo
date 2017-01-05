@@ -34834,6 +34834,9 @@
 [submodule "nu/vy/jwv"]
 	path = nu/vy/jwv
 	url = .
+[submodule "nu/wy/jeb"]
+	path = nu/wy/jeb
+	url = .
 [submodule "nv/cj/toz"]
 	path = nv/cj/toz
 	url = .
