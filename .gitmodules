@@ -10315,6 +10315,9 @@
 [submodule "ei/mb/qwc"]
 	path = ei/mb/qwc
 	url = .
+[submodule "ei/md/hdl"]
+	path = ei/md/hdl
+	url = .
 [submodule "ei/nd/wwd"]
 	path = ei/nd/wwd
 	url = .
