@@ -4549,6 +4549,9 @@
 [submodule "tq/sc/noa"]
 	path = tq/sc/noa
 	url = .
+[submodule "tq/tl/nfq"]
+	path = tq/tl/nfq
+	url = .
 [submodule "tr/cs/nev"]
 	path = tr/cs/nev
 	url = .
