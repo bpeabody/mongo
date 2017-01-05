@@ -24247,6 +24247,9 @@
 [submodule "po/ug/ybw"]
 	path = po/ug/ybw
 	url = .
+[submodule "po/uw/pbg"]
+	path = po/uw/pbg
+	url = .
 [submodule "po/vk/sry"]
 	path = po/vk/sry
 	url = .
