@@ -1105,6 +1105,9 @@
 [submodule "gn/ad/scv"]
 	path = gn/ad/scv
 	url = .
+[submodule "gn/aj/thv"]
+	path = gn/aj/thv
+	url = .
 [submodule "gn/ij/ywb"]
 	path = gn/ij/ywb
 	url = .
