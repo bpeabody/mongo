@@ -1855,6 +1855,9 @@
 [submodule "aq/bx/ywu"]
 	path = aq/bx/ywu
 	url = .
+[submodule "aq/ce/jcn"]
+	path = aq/ce/jcn
+	url = .
 [submodule "aq/db/qhy"]
 	path = aq/db/qhy
 	url = .
