@@ -14899,6 +14899,9 @@
 [submodule "ul/nr/uno"]
 	path = ul/nr/uno
 	url = .
+[submodule "ul/pm/ngv"]
+	path = ul/pm/ngv
+	url = .
 [submodule "um/cf/sqk"]
 	path = um/cf/sqk
 	url = .
