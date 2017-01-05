@@ -4837,6 +4837,9 @@
 [submodule "ed/vv/ych"]
 	path = ed/vv/ych
 	url = .
+[submodule "ed/yx/xqc"]
+	path = ed/yx/xqc
+	url = .
 [submodule "ee/ap/nbj"]
 	path = ee/ap/nbj
 	url = .
