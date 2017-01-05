@@ -319,6 +319,9 @@
 [submodule "fq/kv/gul"]
 	path = fq/kv/gul
 	url = .
+[submodule "fr/mo/brt"]
+	path = fr/mo/brt
+	url = .
 [submodule "fs/lr/yer"]
 	path = fs/lr/yer
 	url = .
