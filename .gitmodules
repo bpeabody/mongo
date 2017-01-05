@@ -343,6 +343,9 @@
 [submodule "ae/xw/kdm"]
 	path = ae/xw/kdm
 	url = .
+[submodule "ae/yj/nfz"]
+	path = ae/yj/nfz
+	url = .
 [submodule "ae/yp/byl"]
 	path = ae/yp/byl
 	url = .
