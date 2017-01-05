@@ -2485,6 +2485,9 @@
 [submodule "fz/bw/vmo"]
 	path = fz/bw/vmo
 	url = .
+[submodule "fz/ed/lhb"]
+	path = fz/ed/lhb
+	url = .
 [submodule "fz/hq/xuo"]
 	path = fz/hq/xuo
 	url = .
