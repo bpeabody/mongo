@@ -15412,6 +15412,9 @@
 [submodule "hg/dr/muy"]
 	path = hg/dr/muy
 	url = .
+[submodule "hg/ex/tom"]
+	path = hg/ex/tom
+	url = .
 [submodule "hg/gt/tks"]
 	path = hg/gt/tks
 	url = .
