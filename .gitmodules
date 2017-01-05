@@ -1918,6 +1918,9 @@
 [submodule "sc/sm/ezq"]
 	path = sc/sm/ezq
 	url = .
+[submodule "sd/eg/nnl"]
+	path = sd/eg/nnl
+	url = .
 [submodule "sd/vb/gsg"]
 	path = sd/vb/gsg
 	url = .
