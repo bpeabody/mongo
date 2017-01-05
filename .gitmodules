@@ -1588,6 +1588,9 @@
 [submodule "cs/bh/ibg"]
 	path = cs/bh/ibg
 	url = .
+[submodule "cs/mh/hgh"]
+	path = cs/mh/hgh
+	url = .
 [submodule "cs/rp/jpk"]
 	path = cs/rp/jpk
 	url = .
