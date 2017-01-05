@@ -4870,6 +4870,9 @@
 [submodule "th/dh/yuf"]
 	path = th/dh/yuf
 	url = .
+[submodule "th/pw/phd"]
+	path = th/pw/phd
+	url = .
 [submodule "ti/jy/agu"]
 	path = ti/jy/agu
 	url = .
