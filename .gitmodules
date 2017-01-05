@@ -31426,6 +31426,9 @@
 [submodule "mi/lv/kel"]
 	path = mi/lv/kel
 	url = .
+[submodule "mi/mu/cyc"]
+	path = mi/mu/cyc
+	url = .
 [submodule "mi/oa/uis"]
 	path = mi/oa/uis
 	url = .
