@@ -21970,6 +21970,9 @@
 [submodule "jh/mt/dzn"]
 	path = jh/mt/dzn
 	url = .
+[submodule "jh/nq/ech"]
+	path = jh/nq/ech
+	url = .
 [submodule "jh/nv/rlg"]
 	path = jh/nv/rlg
 	url = .
