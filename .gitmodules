@@ -3232,6 +3232,9 @@
 [submodule "dn/rx/kgq"]
 	path = dn/rx/kgq
 	url = .
+[submodule "dn/sq/ayn"]
+	path = dn/sq/ayn
+	url = .
 [submodule "dn/sw/tgs"]
 	path = dn/sw/tgs
 	url = .
