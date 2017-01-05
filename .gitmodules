@@ -2560,6 +2560,9 @@
 [submodule "uo/ca/jyg"]
 	path = uo/ca/jyg
 	url = .
+[submodule "uo/qv/nrn"]
+	path = uo/qv/nrn
+	url = .
 [submodule "uq/at/vvl"]
 	path = uq/at/vvl
 	url = .
