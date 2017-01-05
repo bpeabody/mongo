@@ -6265,6 +6265,9 @@
 [submodule "di/dx/bgw"]
 	path = di/dx/bgw
 	url = .
+[submodule "di/hs/eew"]
+	path = di/hs/eew
+	url = .
 [submodule "di/jb/ltt"]
 	path = di/jb/ltt
 	url = .
