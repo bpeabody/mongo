@@ -30286,6 +30286,9 @@
 [submodule "yt/kk/uzv"]
 	path = yt/kk/uzv
 	url = .
+[submodule "yt/ls/wej"]
+	path = yt/ls/wej
+	url = .
 [submodule "yt/or/ylp"]
 	path = yt/or/ylp
 	url = .
