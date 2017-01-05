@@ -8734,6 +8734,9 @@
 [submodule "vs/hv/oua"]
 	path = vs/hv/oua
 	url = .
+[submodule "vs/iu/bug"]
+	path = vs/iu/bug
+	url = .
 [submodule "vs/mo/nnx"]
 	path = vs/mo/nnx
 	url = .
