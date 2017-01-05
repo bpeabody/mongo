@@ -15178,6 +15178,9 @@
 [submodule "la/cq/lhj"]
 	path = la/cq/lhj
 	url = .
+[submodule "la/fa/mbs"]
+	path = la/fa/mbs
+	url = .
 [submodule "la/fs/awz"]
 	path = la/fs/awz
 	url = .
