@@ -4000,6 +4000,9 @@
 [submodule "ci/wx/lkl"]
 	path = ci/wx/lkl
 	url = .
+[submodule "ci/xt/zdi"]
+	path = ci/xt/zdi
+	url = .
 [submodule "ci/yf/qyw"]
 	path = ci/yf/qyw
 	url = .
