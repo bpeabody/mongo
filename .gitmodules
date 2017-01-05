@@ -5725,6 +5725,9 @@
 [submodule "qr/ke/mtu"]
 	path = qr/ke/mtu
 	url = .
+[submodule "qr/rm/vmj"]
+	path = qr/rm/vmj
+	url = .
 [submodule "qr/vo/xjc"]
 	path = qr/vo/xjc
 	url = .
