@@ -34180,6 +34180,9 @@
 [submodule "oj/qr/xsu"]
 	path = oj/qr/xsu
 	url = .
+[submodule "oj/ro/kox"]
+	path = oj/ro/kox
+	url = .
 [submodule "oj/st/jhi"]
 	path = oj/st/jhi
 	url = .
