@@ -100,6 +100,9 @@
 [submodule "ac/ur/wwf"]
 	path = ac/ur/wwf
 	url = .
+[submodule "ac/us/qcw"]
+	path = ac/us/qcw
+	url = .
 [submodule "ac/wk/cya"]
 	path = ac/wk/cya
 	url = .
