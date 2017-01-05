@@ -54709,6 +54709,9 @@
 [submodule "so/es/dac"]
 	path = so/es/dac
 	url = .
+[submodule "so/fi/uct"]
+	path = so/fi/uct
+	url = .
 [submodule "so/fs/qcu"]
 	path = so/fs/qcu
 	url = .
