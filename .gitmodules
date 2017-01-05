@@ -6466,6 +6466,9 @@
 [submodule "gb/pr/wxx"]
 	path = gb/pr/wxx
 	url = .
+[submodule "gb/px/yed"]
+	path = gb/px/yed
+	url = .
 [submodule "gb/re/jsu"]
 	path = gb/re/jsu
 	url = .
