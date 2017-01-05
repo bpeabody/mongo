@@ -403,6 +403,9 @@
 [submodule "ad/bt/zxn"]
 	path = ad/bt/zxn
 	url = .
+[submodule "ad/bz/qzo"]
+	path = ad/bz/qzo
+	url = .
 [submodule "ad/cn/ahx"]
 	path = ad/cn/ahx
 	url = .
