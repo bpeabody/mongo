@@ -148,6 +148,9 @@
 [submodule "ck/im/bpv"]
 	path = ck/im/bpv
 	url = .
+[submodule "ck/od/hzm"]
+	path = ck/od/hzm
+	url = .
 [submodule "cl/vg/wto"]
 	path = cl/vg/wto
 	url = .
