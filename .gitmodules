@@ -10477,6 +10477,9 @@
 [submodule "eg/dt/iuu"]
 	path = eg/dt/iuu
 	url = .
+[submodule "eg/dt/yra"]
+	path = eg/dt/yra
+	url = .
 [submodule "eg/ef/slh"]
 	path = eg/ef/slh
 	url = .
