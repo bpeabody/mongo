@@ -21856,6 +21856,9 @@
 [submodule "kl/au/eba"]
 	path = kl/au/eba
 	url = .
+[submodule "kl/br/nsi"]
+	path = kl/br/nsi
+	url = .
 [submodule "kl/cq/vgc"]
 	path = kl/cq/vgc
 	url = .
