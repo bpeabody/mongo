@@ -1930,6 +1930,9 @@
 [submodule "cx/rr/dky"]
 	path = cx/rr/dky
 	url = .
+[submodule "cx/tv/qph"]
+	path = cx/tv/qph
+	url = .
 [submodule "cx/ut/mog"]
 	path = cx/ut/mog
 	url = .
