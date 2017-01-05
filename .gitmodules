@@ -1483,6 +1483,9 @@
 [submodule "bc/ew/mzq"]
 	path = bc/ew/mzq
 	url = .
+[submodule "bc/ex/tjs"]
+	path = bc/ex/tjs
+	url = .
 [submodule "bc/hr/txt"]
 	path = bc/hr/txt
 	url = .
