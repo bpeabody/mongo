@@ -8587,6 +8587,9 @@
 [submodule "rt/en/jjm"]
 	path = rt/en/jjm
 	url = .
+[submodule "rt/hx/pea"]
+	path = rt/hx/pea
+	url = .
 [submodule "rt/lm/ety"]
 	path = rt/lm/ety
 	url = .
