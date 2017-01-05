@@ -14413,6 +14413,9 @@
 [submodule "mb/ce/cpf"]
 	path = mb/ce/cpf
 	url = .
+[submodule "mb/hs/mmb"]
+	path = mb/hs/mmb
+	url = .
 [submodule "mb/la/did"]
 	path = mb/la/did
 	url = .
