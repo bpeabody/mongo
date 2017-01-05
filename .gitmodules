@@ -7789,6 +7789,9 @@
 [submodule "fy/mp/shk"]
 	path = fy/mp/shk
 	url = .
+[submodule "fy/nv/ixi"]
+	path = fy/nv/ixi
+	url = .
 [submodule "fy/or/xsj"]
 	path = fy/or/xsj
 	url = .
