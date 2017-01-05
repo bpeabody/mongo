@@ -337,6 +337,9 @@
 [submodule "ac/yf/fed"]
 	path = ac/yf/fed
 	url = .
+[submodule "ac/yg/lij"]
+	path = ac/yg/lij
+	url = .
 [submodule "ac/yj/tvr"]
 	path = ac/yj/tvr
 	url = .
