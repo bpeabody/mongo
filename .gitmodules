@@ -26659,6 +26659,9 @@
 [submodule "rh/uh/wys"]
 	path = rh/uh/wys
 	url = .
+[submodule "rh/ui/ajs"]
+	path = rh/ui/ajs
+	url = .
 [submodule "rh/xd/vrr"]
 	path = rh/xd/vrr
 	url = .
