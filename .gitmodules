@@ -12712,6 +12712,9 @@
 [submodule "mu/ql/kzw"]
 	path = mu/ql/kzw
 	url = .
+[submodule "mu/ux/vqd"]
+	path = mu/ux/vqd
+	url = .
 [submodule "mu/wr/dsr"]
 	path = mu/wr/dsr
 	url = .
