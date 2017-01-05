@@ -18163,6 +18163,9 @@
 [submodule "ys/oi/sqx"]
 	path = ys/oi/sqx
 	url = .
+[submodule "ys/te/int"]
+	path = ys/te/int
+	url = .
 [submodule "yt/cb/rof"]
 	path = yt/cb/rof
 	url = .
