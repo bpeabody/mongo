@@ -187,6 +187,9 @@
 [submodule "af/mz/irv"]
 	path = af/mz/irv
 	url = .
+[submodule "af/pu/ipu"]
+	path = af/pu/ipu
+	url = .
 [submodule "af/rd/hfb"]
 	path = af/rd/hfb
 	url = .
