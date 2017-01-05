@@ -20377,6 +20377,9 @@
 [submodule "xr/bs/kum"]
 	path = xr/bs/kum
 	url = .
+[submodule "xr/bv/zbb"]
+	path = xr/bv/zbb
+	url = .
 [submodule "xr/gm/txc"]
 	path = xr/gm/txc
 	url = .
