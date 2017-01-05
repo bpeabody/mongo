@@ -3751,6 +3751,9 @@
 [submodule "bk/ho/hjf"]
 	path = bk/ho/hjf
 	url = .
+[submodule "bk/io/ocr"]
+	path = bk/io/ocr
+	url = .
 [submodule "bk/la/wfw"]
 	path = bk/la/wfw
 	url = .
