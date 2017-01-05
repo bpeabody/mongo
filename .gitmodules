@@ -2689,6 +2689,9 @@
 [submodule "cq/gy/vcw"]
 	path = cq/gy/vcw
 	url = .
+[submodule "cq/jq/biz"]
+	path = cq/jq/biz
+	url = .
 [submodule "cq/nq/gje"]
 	path = cq/nq/gje
 	url = .
