@@ -9196,6 +9196,9 @@
 [submodule "jk/vs/cih"]
 	path = jk/vs/cih
 	url = .
+[submodule "jk/xl/gqn"]
+	path = jk/xl/gqn
+	url = .
 [submodule "jk/xn/sle"]
 	path = jk/xn/sle
 	url = .
