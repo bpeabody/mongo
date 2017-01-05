@@ -7150,6 +7150,9 @@
 [submodule "eu/jm/vce"]
 	path = eu/jm/vce
 	url = .
+[submodule "eu/ka/jhn"]
+	path = eu/ka/jhn
+	url = .
 [submodule "eu/mj/xyz"]
 	path = eu/mj/xyz
 	url = .
