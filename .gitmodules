@@ -27640,6 +27640,9 @@
 [submodule "ld/bm/cff"]
 	path = ld/bm/cff
 	url = .
+[submodule "ld/bn/syl"]
+	path = ld/bn/syl
+	url = .
 [submodule "ld/bn/url"]
 	path = ld/bn/url
 	url = .
