@@ -1939,6 +1939,9 @@
 [submodule "wl/uf/ghb"]
 	path = wl/uf/ghb
 	url = .
+[submodule "wl/uo/wld"]
+	path = wl/uo/wld
+	url = .
 [submodule "wn/nq/yug"]
 	path = wn/nq/yug
 	url = .
