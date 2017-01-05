@@ -238,6 +238,9 @@
 [submodule "do/rw/xag"]
 	path = do/rw/xag
 	url = .
+[submodule "dp/et/pli"]
+	path = dp/et/pli
+	url = .
 [submodule "dr/ad/bei"]
 	path = dr/ad/bei
 	url = .
