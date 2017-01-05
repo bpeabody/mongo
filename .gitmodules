@@ -8575,6 +8575,9 @@
 [submodule "op/tr/xso"]
 	path = op/tr/xso
 	url = .
+[submodule "op/uc/uzj"]
+	path = op/uc/uzj
+	url = .
 [submodule "oq/gz/uqx"]
 	path = oq/gz/uqx
 	url = .
