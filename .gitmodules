@@ -8389,6 +8389,9 @@
 [submodule "dv/pm/uuq"]
 	path = dv/pm/uuq
 	url = .
+[submodule "dv/ts/zpm"]
+	path = dv/ts/zpm
+	url = .
 [submodule "dv/vg/uqh"]
 	path = dv/vg/uqh
 	url = .
