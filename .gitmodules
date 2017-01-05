@@ -16573,6 +16573,9 @@
 [submodule "th/ui/lxs"]
 	path = th/ui/lxs
 	url = .
+[submodule "ti/bt/ruc"]
+	path = ti/bt/ruc
+	url = .
 [submodule "ti/jy/agu"]
 	path = ti/jy/agu
 	url = .
