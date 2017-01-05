@@ -49921,6 +49921,9 @@
 [submodule "vz/wg/bao"]
 	path = vz/wg/bao
 	url = .
+[submodule "vz/xo/vgs"]
+	path = vz/xo/vgs
+	url = .
 [submodule "vz/xv/zwu"]
 	path = vz/xv/zwu
 	url = .
