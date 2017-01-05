@@ -17968,6 +17968,9 @@
 [submodule "io/rz/wut"]
 	path = io/rz/wut
 	url = .
+[submodule "io/tx/eso"]
+	path = io/tx/eso
+	url = .
 [submodule "io/vk/eqf"]
 	path = io/vk/eqf
 	url = .
