@@ -14713,6 +14713,9 @@
 [submodule "yw/pf/ion"]
 	path = yw/pf/ion
 	url = .
+[submodule "yw/vg/hse"]
+	path = yw/vg/hse
+	url = .
 [submodule "yw/vr/cad"]
 	path = yw/vr/cad
 	url = .
