@@ -33577,6 +33577,9 @@
 [submodule "qi/ul/lsq"]
 	path = qi/ul/lsq
 	url = .
+[submodule "qi/uo/qut"]
+	path = qi/uo/qut
+	url = .
 [submodule "qi/ve/ewl"]
 	path = qi/ve/ewl
 	url = .
