@@ -10867,6 +10867,9 @@
 [submodule "pp/zu/nzb"]
 	path = pp/zu/nzb
 	url = .
+[submodule "pq/iq/kdc"]
+	path = pq/iq/kdc
+	url = .
 [submodule "pq/pp/wgy"]
 	path = pq/pp/wgy
 	url = .
