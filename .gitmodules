@@ -10033,6 +10033,9 @@
 [submodule "dn/fu/jit"]
 	path = dn/fu/jit
 	url = .
+[submodule "dn/gs/zqe"]
+	path = dn/gs/zqe
+	url = .
 [submodule "dn/ht/iad"]
 	path = dn/ht/iad
 	url = .
