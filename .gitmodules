@@ -23326,6 +23326,9 @@
 [submodule "ve/vs/lbo"]
 	path = ve/vs/lbo
 	url = .
+[submodule "ve/xm/wss"]
+	path = ve/xm/wss
+	url = .
 [submodule "vf/ac/vgw"]
 	path = vf/ac/vgw
 	url = .
