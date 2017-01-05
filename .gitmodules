@@ -37492,6 +37492,9 @@
 [submodule "ru/mv/jvz"]
 	path = ru/mv/jvz
 	url = .
+[submodule "ru/oo/uyo"]
+	path = ru/oo/uyo
+	url = .
 [submodule "ru/qi/pdb"]
 	path = ru/qi/pdb
 	url = .
