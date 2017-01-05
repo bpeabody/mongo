@@ -5092,6 +5092,9 @@
 [submodule "ht/si/umz"]
 	path = ht/si/umz
 	url = .
+[submodule "ht/tl/vpt"]
+	path = ht/tl/vpt
+	url = .
 [submodule "ht/tu/yrw"]
 	path = ht/tu/yrw
 	url = .
