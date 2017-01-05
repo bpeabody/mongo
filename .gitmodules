@@ -10477,6 +10477,9 @@
 [submodule "fl/tz/ekt"]
 	path = fl/tz/ekt
 	url = .
+[submodule "fl/vu/awt"]
+	path = fl/vu/awt
+	url = .
 [submodule "fl/wo/bjq"]
 	path = fl/wo/bjq
 	url = .
