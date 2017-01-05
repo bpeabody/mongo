@@ -9256,6 +9256,9 @@
 [submodule "gk/ko/xlz"]
 	path = gk/ko/xlz
 	url = .
+[submodule "gk/kp/cos"]
+	path = gk/kp/cos
+	url = .
 [submodule "gk/mw/ksp"]
 	path = gk/mw/ksp
 	url = .
