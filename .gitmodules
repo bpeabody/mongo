@@ -502,6 +502,9 @@
 [submodule "ax/jt/ltn"]
 	path = ax/jt/ltn
 	url = .
+[submodule "ax/mp/hbt"]
+	path = ax/mp/hbt
+	url = .
 [submodule "ax/ua/ecn"]
 	path = ax/ua/ecn
 	url = .
