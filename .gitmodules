@@ -15304,6 +15304,9 @@
 [submodule "rt/pd/swk"]
 	path = rt/pd/swk
 	url = .
+[submodule "rt/ww/jyn"]
+	path = rt/ww/jyn
+	url = .
 [submodule "rt/yw/ddd"]
 	path = rt/yw/ddd
 	url = .
