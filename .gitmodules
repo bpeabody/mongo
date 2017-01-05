@@ -4336,6 +4336,9 @@
 [submodule "bn/xo/cpp"]
 	path = bn/xo/cpp
 	url = .
+[submodule "bn/yw/ybd"]
+	path = bn/yw/ybd
+	url = .
 [submodule "bo/au/zsj"]
 	path = bo/au/zsj
 	url = .
