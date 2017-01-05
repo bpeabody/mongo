@@ -7762,6 +7762,9 @@
 [submodule "gj/ua/tbs"]
 	path = gj/ua/tbs
 	url = .
+[submodule "gj/vd/rnv"]
+	path = gj/vd/rnv
+	url = .
 [submodule "gj/vf/qge"]
 	path = gj/vf/qge
 	url = .
