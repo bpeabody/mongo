@@ -6718,6 +6718,9 @@
 [submodule "eq/qo/wkm"]
 	path = eq/qo/wkm
 	url = .
+[submodule "eq/sh/gat"]
+	path = eq/sh/gat
+	url = .
 [submodule "eq/ug/soi"]
 	path = eq/ug/soi
 	url = .
