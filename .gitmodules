@@ -49099,6 +49099,9 @@
 [submodule "vo/lp/gml"]
 	path = vo/lp/gml
 	url = .
+[submodule "vo/mf/kut"]
+	path = vo/mf/kut
+	url = .
 [submodule "vo/ni/tec"]
 	path = vo/ni/tec
 	url = .
