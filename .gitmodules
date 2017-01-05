@@ -2674,6 +2674,9 @@
 [submodule "bi/qq/xqp"]
 	path = bi/qq/xqp
 	url = .
+[submodule "bi/rn/bht"]
+	path = bi/rn/bht
+	url = .
 [submodule "bi/rq/rdc"]
 	path = bi/rq/rdc
 	url = .
