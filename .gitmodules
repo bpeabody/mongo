@@ -19543,6 +19543,9 @@
 [submodule "sp/fw/hys"]
 	path = sp/fw/hys
 	url = .
+[submodule "sp/hi/tms"]
+	path = sp/hi/tms
+	url = .
 [submodule "sp/ir/mmz"]
 	path = sp/ir/mmz
 	url = .
