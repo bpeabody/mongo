@@ -33946,6 +33946,9 @@
 [submodule "nq/hh/tzl"]
 	path = nq/hh/tzl
 	url = .
+[submodule "nq/io/dtc"]
+	path = nq/io/dtc
+	url = .
 [submodule "nq/is/wab"]
 	path = nq/is/wab
 	url = .
