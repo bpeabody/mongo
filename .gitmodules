@@ -27739,6 +27739,9 @@
 [submodule "pz/bo/pfp"]
 	path = pz/bo/pfp
 	url = .
+[submodule "pz/ca/nyj"]
+	path = pz/ca/nyj
+	url = .
 [submodule "pz/ci/vmh"]
 	path = pz/ci/vmh
 	url = .
