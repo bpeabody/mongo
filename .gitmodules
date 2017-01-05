@@ -9064,6 +9064,9 @@
 [submodule "si/ek/tbg"]
 	path = si/ek/tbg
 	url = .
+[submodule "si/mk/lcx"]
+	path = si/mk/lcx
+	url = .
 [submodule "sj/wj/nyy"]
 	path = sj/wj/nyy
 	url = .
