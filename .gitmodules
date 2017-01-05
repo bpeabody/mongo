@@ -40015,6 +40015,9 @@
 [submodule "si/al/igo"]
 	path = si/al/igo
 	url = .
+[submodule "si/ba/xri"]
+	path = si/ba/xri
+	url = .
 [submodule "si/bb/apm"]
 	path = si/bb/apm
 	url = .
