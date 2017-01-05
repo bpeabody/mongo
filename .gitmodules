@@ -2050,6 +2050,9 @@
 [submodule "hu/es/qqo"]
 	path = hu/es/qqo
 	url = .
+[submodule "hu/nr/xtl"]
+	path = hu/nr/xtl
+	url = .
 [submodule "hu/uq/jpy"]
 	path = hu/uq/jpy
 	url = .
