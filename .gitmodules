@@ -29650,6 +29650,9 @@
 [submodule "kj/qq/uwi"]
 	path = kj/qq/uwi
 	url = .
+[submodule "kj/qv/xik"]
+	path = kj/qv/xik
+	url = .
 [submodule "kj/rk/rlw"]
 	path = kj/rk/rlw
 	url = .
