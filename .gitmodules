@@ -20356,6 +20356,9 @@
 [submodule "py/xu/nqw"]
 	path = py/xu/nqw
 	url = .
+[submodule "py/xv/wsp"]
+	path = py/xv/wsp
+	url = .
 [submodule "py/xz/fia"]
 	path = py/xz/fia
 	url = .
