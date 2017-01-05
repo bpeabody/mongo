@@ -20002,6 +20002,9 @@
 [submodule "gx/vw/usw"]
 	path = gx/vw/usw
 	url = .
+[submodule "gx/vy/bmk"]
+	path = gx/vy/bmk
+	url = .
 [submodule "gx/wo/qnj"]
 	path = gx/wo/qnj
 	url = .
