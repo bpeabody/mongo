@@ -20269,6 +20269,9 @@
 [submodule "in/qe/oom"]
 	path = in/qe/oom
 	url = .
+[submodule "in/qk/gqg"]
+	path = in/qk/gqg
+	url = .
 [submodule "in/qm/vgk"]
 	path = in/qm/vgk
 	url = .
