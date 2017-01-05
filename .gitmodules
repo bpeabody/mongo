@@ -229,6 +229,9 @@
 [submodule "fx/aw/oab"]
 	path = fx/aw/oab
 	url = .
+[submodule "fz/xp/pti"]
+	path = fz/xp/pti
+	url = .
 [submodule "gc/gi/ghl"]
 	path = gc/gi/ghl
 	url = .
