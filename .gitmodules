@@ -28846,6 +28846,9 @@
 [submodule "lg/ed/bbo"]
 	path = lg/ed/bbo
 	url = .
+[submodule "lg/el/deo"]
+	path = lg/el/deo
+	url = .
 [submodule "lg/fr/omj"]
 	path = lg/fr/omj
 	url = .
