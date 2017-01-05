@@ -12460,6 +12460,9 @@
 [submodule "er/cd/usj"]
 	path = er/cd/usj
 	url = .
+[submodule "er/cr/jdh"]
+	path = er/cr/jdh
+	url = .
 [submodule "er/dg/ejc"]
 	path = er/dg/ejc
 	url = .
