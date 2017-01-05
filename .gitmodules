@@ -11626,6 +11626,9 @@
 [submodule "jo/ic/xtu"]
 	path = jo/ic/xtu
 	url = .
+[submodule "jo/im/xwk"]
+	path = jo/im/xwk
+	url = .
 [submodule "jo/ja/ctf"]
 	path = jo/ja/ctf
 	url = .
