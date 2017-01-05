@@ -7477,6 +7477,9 @@
 [submodule "jt/kx/nyq"]
 	path = jt/kx/nyq
 	url = .
+[submodule "jt/lj/upn"]
+	path = jt/lj/upn
+	url = .
 [submodule "jt/tb/ioi"]
 	path = jt/tb/ioi
 	url = .
