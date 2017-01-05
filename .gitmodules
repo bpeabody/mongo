@@ -20026,6 +20026,9 @@
 [submodule "pj/hp/oyv"]
 	path = pj/hp/oyv
 	url = .
+[submodule "pj/io/zie"]
+	path = pj/io/zie
+	url = .
 [submodule "pj/ir/fvo"]
 	path = pj/ir/fvo
 	url = .
