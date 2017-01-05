@@ -47677,6 +47677,9 @@
 [submodule "sf/mm/yhg"]
 	path = sf/mm/yhg
 	url = .
+[submodule "sf/mo/wby"]
+	path = sf/mo/wby
+	url = .
 [submodule "sf/mr/cwz"]
 	path = sf/mr/cwz
 	url = .
