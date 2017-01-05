@@ -3322,6 +3322,9 @@
 [submodule "ku/ap/bqq"]
 	path = ku/ap/bqq
 	url = .
+[submodule "ku/ut/swn"]
+	path = ku/ut/swn
+	url = .
 [submodule "ku/vv/azs"]
 	path = ku/vv/azs
 	url = .
