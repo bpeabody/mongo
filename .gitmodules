@@ -19609,6 +19609,9 @@
 [submodule "vn/zf/ilc"]
 	path = vn/zf/ilc
 	url = .
+[submodule "vo/bq/ftt"]
+	path = vo/bq/ftt
+	url = .
 [submodule "vo/et/fgu"]
 	path = vo/et/fgu
 	url = .
