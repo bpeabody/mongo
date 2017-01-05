@@ -17242,6 +17242,9 @@
 [submodule "yn/vx/ioo"]
 	path = yn/vx/ioo
 	url = .
+[submodule "yn/wq/yyn"]
+	path = yn/wq/yyn
+	url = .
 [submodule "yn/zb/rhx"]
 	path = yn/zb/rhx
 	url = .
