@@ -589,6 +589,9 @@
 [submodule "ah/sn/gxh"]
 	path = ah/sn/gxh
 	url = .
+[submodule "ah/vd/xbo"]
+	path = ah/vd/xbo
+	url = .
 [submodule "ah/zk/pfr"]
 	path = ah/zk/pfr
 	url = .
