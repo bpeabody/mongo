@@ -9403,6 +9403,9 @@
 [submodule "gw/ey/hwz"]
 	path = gw/ey/hwz
 	url = .
+[submodule "gw/fp/coj"]
+	path = gw/fp/coj
+	url = .
 [submodule "gw/ir/kob"]
 	path = gw/ir/kob
 	url = .
