@@ -6715,6 +6715,9 @@
 [submodule "kj/pm/sup"]
 	path = kj/pm/sup
 	url = .
+[submodule "kj/qc/hkw"]
+	path = kj/qc/hkw
+	url = .
 [submodule "kk/aj/ati"]
 	path = kk/aj/ati
 	url = .
