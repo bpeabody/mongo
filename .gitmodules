@@ -31513,6 +31513,9 @@
 [submodule "mr/sh/qwk"]
 	path = mr/sh/qwk
 	url = .
+[submodule "mr/su/uhw"]
+	path = mr/su/uhw
+	url = .
 [submodule "mr/tf/bsz"]
 	path = mr/tf/bsz
 	url = .
