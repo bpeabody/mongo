@@ -904,6 +904,9 @@
 [submodule "qf/pm/cwg"]
 	path = qf/pm/cwg
 	url = .
+[submodule "qg/tw/cdi"]
+	path = qg/tw/cdi
+	url = .
 [submodule "qk/mu/gcj"]
 	path = qk/mu/gcj
 	url = .
