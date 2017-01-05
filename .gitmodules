@@ -6832,6 +6832,9 @@
 [submodule "kr/bc/cpd"]
 	path = kr/bc/cpd
 	url = .
+[submodule "kr/bt/arm"]
+	path = kr/bt/arm
+	url = .
 [submodule "kr/fs/svx"]
 	path = kr/fs/svx
 	url = .
