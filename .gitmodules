@@ -298,6 +298,9 @@
 [submodule "hh/pm/ezo"]
 	path = hh/pm/ezo
 	url = .
+[submodule "hj/bo/xyv"]
+	path = hj/bo/xyv
+	url = .
 [submodule "hm/cu/rqs"]
 	path = hm/cu/rqs
 	url = .
