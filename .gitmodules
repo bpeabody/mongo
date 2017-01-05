@@ -31852,6 +31852,9 @@
 [submodule "sc/jl/epy"]
 	path = sc/jl/epy
 	url = .
+[submodule "sc/km/cjy"]
+	path = sc/km/cjy
+	url = .
 [submodule "sc/kz/rly"]
 	path = sc/kz/rly
 	url = .
