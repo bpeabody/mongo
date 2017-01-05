@@ -30778,6 +30778,9 @@
 [submodule "kq/xb/dcp"]
 	path = kq/xb/dcp
 	url = .
+[submodule "kq/xt/hti"]
+	path = kq/xt/hti
+	url = .
 [submodule "kq/zb/dcx"]
 	path = kq/zb/dcx
 	url = .
