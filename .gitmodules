@@ -826,6 +826,9 @@
 [submodule "bq/bm/cmy"]
 	path = bq/bm/cmy
 	url = .
+[submodule "bq/cn/qcf"]
+	path = bq/cn/qcf
+	url = .
 [submodule "bq/ev/jis"]
 	path = bq/ev/jis
 	url = .
