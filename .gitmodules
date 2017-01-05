@@ -7723,6 +7723,9 @@
 [submodule "ib/hc/whx"]
 	path = ib/hc/whx
 	url = .
+[submodule "ib/lc/xin"]
+	path = ib/lc/xin
+	url = .
 [submodule "ib/lz/fni"]
 	path = ib/lz/fni
 	url = .
