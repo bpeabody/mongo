@@ -1114,6 +1114,9 @@
 [submodule "iv/ga/veo"]
 	path = iv/ga/veo
 	url = .
+[submodule "iv/ry/jkg"]
+	path = iv/ry/jkg
+	url = .
 [submodule "iw/ik/riv"]
 	path = iw/ik/riv
 	url = .
