@@ -9997,6 +9997,9 @@
 [submodule "fp/sz/ycf"]
 	path = fp/sz/ycf
 	url = .
+[submodule "fp/tb/bdl"]
+	path = fp/tb/bdl
+	url = .
 [submodule "fp/tk/iux"]
 	path = fp/tk/iux
 	url = .
