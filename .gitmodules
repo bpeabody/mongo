@@ -69637,6 +69637,9 @@
 [submodule "xv/np/tcc"]
 	path = xv/np/tcc
 	url = .
+[submodule "xv/ou/kya"]
+	path = xv/ou/kya
+	url = .
 [submodule "xv/pq/neo"]
 	path = xv/pq/neo
 	url = .
