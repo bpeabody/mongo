@@ -8323,6 +8323,9 @@
 [submodule "ts/rn/wnb"]
 	path = ts/rn/wnb
 	url = .
+[submodule "ts/rz/mxt"]
+	path = ts/rz/mxt
+	url = .
 [submodule "tt/ax/hnq"]
 	path = tt/ax/hnq
 	url = .
