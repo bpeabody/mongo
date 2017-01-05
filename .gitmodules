@@ -316,6 +316,9 @@
 [submodule "vc/nc/ngc"]
 	path = vc/nc/ngc
 	url = .
+[submodule "vf/ac/vgw"]
+	path = vf/ac/vgw
+	url = .
 [submodule "vk/mp/wjp"]
 	path = vk/mp/wjp
 	url = .
