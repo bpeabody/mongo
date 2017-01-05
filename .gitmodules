@@ -15685,6 +15685,9 @@
 [submodule "re/th/ych"]
 	path = re/th/ych
 	url = .
+[submodule "re/ys/ruu"]
+	path = re/ys/ruu
+	url = .
 [submodule "re/zu/lmy"]
 	path = re/zu/lmy
 	url = .
