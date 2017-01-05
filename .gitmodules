@@ -32689,6 +32689,9 @@
 [submodule "lf/nt/clz"]
 	path = lf/nt/clz
 	url = .
+[submodule "lf/nx/xee"]
+	path = lf/nx/xee
+	url = .
 [submodule "lf/oa/ess"]
 	path = lf/oa/ess
 	url = .
