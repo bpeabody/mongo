@@ -7552,6 +7552,9 @@
 [submodule "kr/ma/unq"]
 	path = kr/ma/unq
 	url = .
+[submodule "kr/na/feh"]
+	path = kr/na/feh
+	url = .
 [submodule "kr/ps/iem"]
 	path = kr/ps/iem
 	url = .
