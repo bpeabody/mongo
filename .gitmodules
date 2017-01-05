@@ -28078,6 +28078,9 @@
 [submodule "wb/en/zaq"]
 	path = wb/en/zaq
 	url = .
+[submodule "wb/fh/jux"]
+	path = wb/fh/jux
+	url = .
 [submodule "wb/fo/trv"]
 	path = wb/fo/trv
 	url = .
