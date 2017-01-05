@@ -2608,6 +2608,9 @@
 [submodule "bx/fs/usq"]
 	path = bx/fs/usq
 	url = .
+[submodule "bx/gr/nqz"]
+	path = bx/gr/nqz
+	url = .
 [submodule "bx/gx/own"]
 	path = bx/gx/own
 	url = .
