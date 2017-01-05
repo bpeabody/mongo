@@ -13933,6 +13933,9 @@
 [submodule "kd/pm/can"]
 	path = kd/pm/can
 	url = .
+[submodule "kd/po/via"]
+	path = kd/po/via
+	url = .
 [submodule "kd/yu/ped"]
 	path = kd/yu/ped
 	url = .
