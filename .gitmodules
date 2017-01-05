@@ -10963,6 +10963,9 @@
 [submodule "hi/mf/bje"]
 	path = hi/mf/bje
 	url = .
+[submodule "hi/mq/agl"]
+	path = hi/mq/agl
+	url = .
 [submodule "hi/nk/dht"]
 	path = hi/nk/dht
 	url = .
