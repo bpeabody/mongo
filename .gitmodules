@@ -553,6 +553,9 @@
 [submodule "no/qw/oes"]
 	path = no/qw/oes
 	url = .
+[submodule "ns/ws/rci"]
+	path = ns/ws/rci
+	url = .
 [submodule "nx/bs/wir"]
 	path = nx/bs/wir
 	url = .
