@@ -2551,6 +2551,9 @@
 [submodule "bc/mz/mmr"]
 	path = bc/mz/mmr
 	url = .
+[submodule "bc/oe/uby"]
+	path = bc/oe/uby
+	url = .
 [submodule "bc/om/zcn"]
 	path = bc/om/zcn
 	url = .
