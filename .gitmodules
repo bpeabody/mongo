@@ -10945,6 +10945,9 @@
 [submodule "kl/dk/iti"]
 	path = kl/dk/iti
 	url = .
+[submodule "kl/fk/cqk"]
+	path = kl/fk/cqk
+	url = .
 [submodule "kl/nj/hve"]
 	path = kl/nj/hve
 	url = .
