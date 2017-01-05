@@ -18916,6 +18916,9 @@
 [submodule "np/cs/vsu"]
 	path = np/cs/vsu
 	url = .
+[submodule "np/cv/sec"]
+	path = np/cv/sec
+	url = .
 [submodule "np/cz/awe"]
 	path = np/cz/awe
 	url = .
