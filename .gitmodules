@@ -52225,6 +52225,9 @@
 [submodule "sj/dg/vbd"]
 	path = sj/dg/vbd
 	url = .
+[submodule "sj/em/mmo"]
+	path = sj/em/mmo
+	url = .
 [submodule "sj/fr/ojt"]
 	path = sj/fr/ojt
 	url = .
