@@ -6580,6 +6580,9 @@
 [submodule "fw/bw/ngq"]
 	path = fw/bw/ngq
 	url = .
+[submodule "fw/dr/lwd"]
+	path = fw/dr/lwd
+	url = .
 [submodule "fw/dz/otp"]
 	path = fw/dz/otp
 	url = .
