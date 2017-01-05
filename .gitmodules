@@ -1033,6 +1033,9 @@
 [submodule "wl/uf/ghb"]
 	path = wl/uf/ghb
 	url = .
+[submodule "wn/nw/xkv"]
+	path = wn/nw/xkv
+	url = .
 [submodule "wn/sp/iaf"]
 	path = wn/sp/iaf
 	url = .
