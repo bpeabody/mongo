@@ -43732,6 +43732,9 @@
 [submodule "qh/ei/fai"]
 	path = qh/ei/fai
 	url = .
+[submodule "qh/ev/mpi"]
+	path = qh/ev/mpi
+	url = .
 [submodule "qh/gg/qij"]
 	path = qh/gg/qij
 	url = .
