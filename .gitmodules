@@ -13804,6 +13804,9 @@
 [submodule "sk/iq/lku"]
 	path = sk/iq/lku
 	url = .
+[submodule "sk/me/tnx"]
+	path = sk/me/tnx
+	url = .
 [submodule "sk/uv/ada"]
 	path = sk/uv/ada
 	url = .
