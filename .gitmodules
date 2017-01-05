@@ -6685,6 +6685,9 @@
 [submodule "er/bt/erq"]
 	path = er/bt/erq
 	url = .
+[submodule "er/cd/usj"]
+	path = er/cd/usj
+	url = .
 [submodule "er/eb/gyy"]
 	path = er/eb/gyy
 	url = .
