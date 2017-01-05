@@ -208,6 +208,9 @@
 [submodule "cu/dj/mca"]
 	path = cu/dj/mca
 	url = .
+[submodule "cx/gi/rsv"]
+	path = cx/gi/rsv
+	url = .
 [submodule "cx/rr/dky"]
 	path = cx/rr/dky
 	url = .
