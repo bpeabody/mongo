@@ -472,6 +472,9 @@
 [submodule "ax/gy/wie"]
 	path = ax/gy/wie
 	url = .
+[submodule "ax/he/vnl"]
+	path = ax/he/vnl
+	url = .
 [submodule "ax/jt/ltn"]
 	path = ax/jt/ltn
 	url = .
