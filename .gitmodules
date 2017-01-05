@@ -18337,6 +18337,9 @@
 [submodule "kb/lx/cnn"]
 	path = kb/lx/cnn
 	url = .
+[submodule "kb/mn/gla"]
+	path = kb/mn/gla
+	url = .
 [submodule "kb/nc/meo"]
 	path = kb/nc/meo
 	url = .
