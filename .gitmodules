@@ -4939,6 +4939,9 @@
 [submodule "uq/at/vvl"]
 	path = uq/at/vvl
 	url = .
+[submodule "uq/jz/pjb"]
+	path = uq/jz/pjb
+	url = .
 [submodule "uq/xb/xuw"]
 	path = uq/xb/xuw
 	url = .
