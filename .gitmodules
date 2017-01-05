@@ -5773,6 +5773,9 @@
 [submodule "ho/mf/xpl"]
 	path = ho/mf/xpl
 	url = .
+[submodule "ho/nq/gll"]
+	path = ho/nq/gll
+	url = .
 [submodule "ho/sg/pwu"]
 	path = ho/sg/pwu
 	url = .
