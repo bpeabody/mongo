@@ -13393,6 +13393,9 @@
 [submodule "oe/mq/woq"]
 	path = oe/mq/woq
 	url = .
+[submodule "oe/nd/hcj"]
+	path = oe/nd/hcj
+	url = .
 [submodule "oe/pk/tub"]
 	path = oe/pk/tub
 	url = .
