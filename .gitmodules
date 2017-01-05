@@ -12025,6 +12025,9 @@
 [submodule "gs/xw/iro"]
 	path = gs/xw/iro
 	url = .
+[submodule "gt/cu/waq"]
+	path = gt/cu/waq
+	url = .
 [submodule "gt/er/zjk"]
 	path = gt/er/zjk
 	url = .
