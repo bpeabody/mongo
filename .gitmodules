@@ -2179,6 +2179,9 @@
 [submodule "bk/gb/msj"]
 	path = bk/gb/msj
 	url = .
+[submodule "bk/gm/wpm"]
+	path = bk/gm/wpm
+	url = .
 [submodule "bk/la/wfw"]
 	path = bk/la/wfw
 	url = .
