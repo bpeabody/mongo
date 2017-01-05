@@ -7690,6 +7690,9 @@
 [submodule "ge/yr/wcc"]
 	path = ge/yr/wcc
 	url = .
+[submodule "gf/bg/ghp"]
+	path = gf/bg/ghp
+	url = .
 [submodule "gf/bt/pbt"]
 	path = gf/bt/pbt
 	url = .
