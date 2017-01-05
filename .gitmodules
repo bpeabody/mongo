@@ -48370,6 +48370,9 @@
 [submodule "rv/gl/kvp"]
 	path = rv/gl/kvp
 	url = .
+[submodule "rv/hq/wop"]
+	path = rv/hq/wop
+	url = .
 [submodule "rv/ko/dym"]
 	path = rv/ko/dym
 	url = .
