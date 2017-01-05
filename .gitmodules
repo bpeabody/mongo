@@ -16570,6 +16570,9 @@
 [submodule "fu/ok/kwz"]
 	path = fu/ok/kwz
 	url = .
+[submodule "fu/pp/sjd"]
+	path = fu/pp/sjd
+	url = .
 [submodule "fu/qk/ccv"]
 	path = fu/qk/ccv
 	url = .
