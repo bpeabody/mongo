@@ -57190,6 +57190,9 @@
 [submodule "ti/ac/otf"]
 	path = ti/ac/otf
 	url = .
+[submodule "ti/ad/gea"]
+	path = ti/ad/gea
+	url = .
 [submodule "ti/bt/ruc"]
 	path = ti/bt/ruc
 	url = .
