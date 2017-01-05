@@ -18607,6 +18607,9 @@
 [submodule "pk/up/wwn"]
 	path = pk/up/wwn
 	url = .
+[submodule "pk/xf/qsk"]
+	path = pk/xf/qsk
+	url = .
 [submodule "pk/xg/ohy"]
 	path = pk/xg/ohy
 	url = .
