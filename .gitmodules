@@ -967,6 +967,9 @@
 [submodule "jr/yh/uka"]
 	path = jr/yh/uka
 	url = .
+[submodule "js/ju/tkq"]
+	path = js/ju/tkq
+	url = .
 [submodule "js/pc/iks"]
 	path = js/pc/iks
 	url = .
