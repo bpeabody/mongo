@@ -8320,6 +8320,9 @@
 [submodule "cz/ii/zrh"]
 	path = cz/ii/zrh
 	url = .
+[submodule "cz/jd/bgm"]
+	path = cz/jd/bgm
+	url = .
 [submodule "cz/ku/nbl"]
 	path = cz/ku/nbl
 	url = .
