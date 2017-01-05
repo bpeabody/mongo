@@ -13780,6 +13780,9 @@
 [submodule "hf/dx/yao"]
 	path = hf/dx/yao
 	url = .
+[submodule "hf/dy/jdk"]
+	path = hf/dy/jdk
+	url = .
 [submodule "hf/fu/cfi"]
 	path = hf/fu/cfi
 	url = .
