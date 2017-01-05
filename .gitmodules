@@ -2686,6 +2686,9 @@
 [submodule "gm/pn/qce"]
 	path = gm/pn/qce
 	url = .
+[submodule "gm/ux/psr"]
+	path = gm/ux/psr
+	url = .
 [submodule "gm/xb/baq"]
 	path = gm/xb/baq
 	url = .
