@@ -27268,6 +27268,9 @@
 [submodule "uk/hm/kio"]
 	path = uk/hm/kio
 	url = .
+[submodule "uk/hy/pct"]
+	path = uk/hy/pct
+	url = .
 [submodule "uk/ip/hib"]
 	path = uk/ip/hib
 	url = .
