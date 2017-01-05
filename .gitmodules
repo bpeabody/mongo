@@ -21874,6 +21874,9 @@
 [submodule "vz/nm/zcu"]
 	path = vz/nm/zcu
 	url = .
+[submodule "vz/pl/rap"]
+	path = vz/pl/rap
+	url = .
 [submodule "vz/vh/cge"]
 	path = vz/vh/cge
 	url = .
