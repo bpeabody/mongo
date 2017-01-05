@@ -48754,6 +48754,9 @@
 [submodule "yw/xp/ves"]
 	path = yw/xp/ves
 	url = .
+[submodule "yw/zc/xqk"]
+	path = yw/zc/xqk
+	url = .
 [submodule "yw/zs/qww"]
 	path = yw/zs/qww
 	url = .
