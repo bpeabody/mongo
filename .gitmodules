@@ -7126,6 +7126,9 @@
 [submodule "io/gy/wlc"]
 	path = io/gy/wlc
 	url = .
+[submodule "io/hl/yjf"]
+	path = io/hl/yjf
+	url = .
 [submodule "io/lu/enf"]
 	path = io/lu/enf
 	url = .
