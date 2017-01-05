@@ -1612,6 +1612,9 @@
 [submodule "vj/fm/ifx"]
 	path = vj/fm/ifx
 	url = .
+[submodule "vk/fb/aum"]
+	path = vk/fb/aum
+	url = .
 [submodule "vk/mp/wjp"]
 	path = vk/mp/wjp
 	url = .
