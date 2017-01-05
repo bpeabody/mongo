@@ -7255,6 +7255,9 @@
 [submodule "cu/ba/tsd"]
 	path = cu/ba/tsd
 	url = .
+[submodule "cu/by/xqx"]
+	path = cu/by/xqx
+	url = .
 [submodule "cu/ck/idm"]
 	path = cu/ck/idm
 	url = .
