@@ -5620,6 +5620,9 @@
 [submodule "of/pn/ypn"]
 	path = of/pn/ypn
 	url = .
+[submodule "of/sv/oen"]
+	path = of/sv/oen
+	url = .
 [submodule "of/te/dec"]
 	path = of/te/dec
 	url = .
