@@ -46633,6 +46633,9 @@
 [submodule "xq/xo/qbv"]
 	path = xq/xo/qbv
 	url = .
+[submodule "xq/xv/jcc"]
+	path = xq/xv/jcc
+	url = .
 [submodule "xq/zi/inj"]
 	path = xq/zi/inj
 	url = .
