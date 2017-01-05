@@ -12514,6 +12514,9 @@
 [submodule "gy/wk/nmt"]
 	path = gy/wk/nmt
 	url = .
+[submodule "gy/xz/nmq"]
+	path = gy/xz/nmq
+	url = .
 [submodule "gy/ye/wzo"]
 	path = gy/ye/wzo
 	url = .
