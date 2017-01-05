@@ -3190,6 +3190,9 @@
 [submodule "bg/ax/rzw"]
 	path = bg/ax/rzw
 	url = .
+[submodule "bg/bv/sqr"]
+	path = bg/bv/sqr
+	url = .
 [submodule "bg/dl/aee"]
 	path = bg/dl/aee
 	url = .
