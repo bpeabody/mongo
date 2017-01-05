@@ -50410,6 +50410,9 @@
 [submodule "rz/st/idc"]
 	path = rz/st/idc
 	url = .
+[submodule "rz/tu/ayi"]
+	path = rz/tu/ayi
+	url = .
 [submodule "rz/vm/lse"]
 	path = rz/vm/lse
 	url = .
