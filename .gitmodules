@@ -5674,6 +5674,9 @@
 [submodule "th/dh/yuf"]
 	path = th/dh/yuf
 	url = .
+[submodule "th/ll/jsm"]
+	path = th/ll/jsm
+	url = .
 [submodule "th/pw/phd"]
 	path = th/pw/phd
 	url = .
