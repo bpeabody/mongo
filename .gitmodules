@@ -23209,6 +23209,9 @@
 [submodule "rh/ti/oad"]
 	path = rh/ti/oad
 	url = .
+[submodule "rh/tp/mtc"]
+	path = rh/tp/mtc
+	url = .
 [submodule "rh/uh/wys"]
 	path = rh/uh/wys
 	url = .
