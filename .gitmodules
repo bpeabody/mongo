@@ -45850,6 +45850,9 @@
 [submodule "pf/gz/bcb"]
 	path = pf/gz/bcb
 	url = .
+[submodule "pf/hg/siw"]
+	path = pf/hg/siw
+	url = .
 [submodule "pf/hr/rvy"]
 	path = pf/hr/rvy
 	url = .
