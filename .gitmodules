@@ -5620,6 +5620,9 @@
 [submodule "cr/vu/sig"]
 	path = cr/vu/sig
 	url = .
+[submodule "cr/vz/ajx"]
+	path = cr/vz/ajx
+	url = .
 [submodule "cr/wx/qht"]
 	path = cr/wx/qht
 	url = .
