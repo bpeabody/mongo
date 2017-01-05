@@ -1735,6 +1735,9 @@
 [submodule "xr/pm/ivw"]
 	path = xr/pm/ivw
 	url = .
+[submodule "xs/st/nwr"]
+	path = xs/st/nwr
+	url = .
 [submodule "xw/jn/ivq"]
 	path = xw/jn/ivq
 	url = .
