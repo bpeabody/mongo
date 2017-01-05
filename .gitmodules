@@ -25618,6 +25618,9 @@
 [submodule "uj/kb/kub"]
 	path = uj/kb/kub
 	url = .
+[submodule "uj/lk/iht"]
+	path = uj/lk/iht
+	url = .
 [submodule "uj/mc/gva"]
 	path = uj/mc/gva
 	url = .
