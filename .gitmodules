@@ -13120,6 +13120,9 @@
 [submodule "ru/je/qom"]
 	path = ru/je/qom
 	url = .
+[submodule "ru/jq/adg"]
+	path = ru/jq/adg
+	url = .
 [submodule "ru/kb/vmu"]
 	path = ru/kb/vmu
 	url = .
