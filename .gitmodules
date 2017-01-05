@@ -15319,6 +15319,9 @@
 [submodule "lp/bz/mmc"]
 	path = lp/bz/mmc
 	url = .
+[submodule "lp/cq/dhy"]
+	path = lp/cq/dhy
+	url = .
 [submodule "lp/df/bjt"]
 	path = lp/df/bjt
 	url = .
