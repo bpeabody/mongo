@@ -56659,6 +56659,9 @@
 [submodule "sz/ob/zxf"]
 	path = sz/ob/zxf
 	url = .
+[submodule "sz/od/meq"]
+	path = sz/od/meq
+	url = .
 [submodule "sz/ox/uqn"]
 	path = sz/ox/uqn
 	url = .
