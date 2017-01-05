@@ -2923,6 +2923,9 @@
 [submodule "bm/cs/lln"]
 	path = bm/cs/lln
 	url = .
+[submodule "bm/ei/byg"]
+	path = bm/ei/byg
+	url = .
 [submodule "bm/fb/kau"]
 	path = bm/fb/kau
 	url = .
