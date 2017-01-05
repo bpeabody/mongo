@@ -27424,6 +27424,9 @@
 [submodule "oh/cu/egv"]
 	path = oh/cu/egv
 	url = .
+[submodule "oh/dg/bje"]
+	path = oh/dg/bje
+	url = .
 [submodule "oh/dm/vub"]
 	path = oh/dm/vub
 	url = .
