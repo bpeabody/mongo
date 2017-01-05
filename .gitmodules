@@ -62719,6 +62719,9 @@
 [submodule "vu/dr/ykp"]
 	path = vu/dr/ykp
 	url = .
+[submodule "vu/ed/npo"]
+	path = vu/ed/npo
+	url = .
 [submodule "vu/eq/lcm"]
 	path = vu/eq/lcm
 	url = .
