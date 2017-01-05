@@ -21067,6 +21067,9 @@
 [submodule "se/yi/lyf"]
 	path = se/yi/lyf
 	url = .
+[submodule "se/yn/aoj"]
+	path = se/yn/aoj
+	url = .
 [submodule "sf/bi/vad"]
 	path = sf/bi/vad
 	url = .
