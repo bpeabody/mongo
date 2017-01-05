@@ -10618,6 +10618,9 @@
 [submodule "no/ie/dvh"]
 	path = no/ie/dvh
 	url = .
+[submodule "no/iq/wsi"]
+	path = no/iq/wsi
+	url = .
 [submodule "no/mb/tbp"]
 	path = no/mb/tbp
 	url = .
