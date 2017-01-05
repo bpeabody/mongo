@@ -44992,6 +44992,9 @@
 [submodule "xf/tx/znt"]
 	path = xf/tx/znt
 	url = .
+[submodule "xf/vr/gar"]
+	path = xf/vr/gar
+	url = .
 [submodule "xf/vr/nai"]
 	path = xf/vr/nai
 	url = .
