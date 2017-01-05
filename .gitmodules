@@ -21388,6 +21388,9 @@
 [submodule "ie/rj/vqu"]
 	path = ie/rj/vqu
 	url = .
+[submodule "ie/sc/rdz"]
+	path = ie/sc/rdz
+	url = .
 [submodule "ie/td/mma"]
 	path = ie/td/mma
 	url = .
