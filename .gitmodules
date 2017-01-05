@@ -3100,6 +3100,9 @@
 [submodule "bs/po/ydz"]
 	path = bs/po/ydz
 	url = .
+[submodule "bs/qc/apl"]
+	path = bs/qc/apl
+	url = .
 [submodule "bs/rx/idn"]
 	path = bs/rx/idn
 	url = .
