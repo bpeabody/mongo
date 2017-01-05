@@ -62629,6 +62629,9 @@
 [submodule "yn/gz/fzg"]
 	path = yn/gz/fzg
 	url = .
+[submodule "yn/ha/nqs"]
+	path = yn/ha/nqs
+	url = .
 [submodule "yn/hd/usn"]
 	path = yn/hd/usn
 	url = .
