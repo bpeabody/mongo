@@ -2125,6 +2125,9 @@
 [submodule "bv/cy/qvp"]
 	path = bv/cy/qvp
 	url = .
+[submodule "bv/hx/ryf"]
+	path = bv/hx/ryf
+	url = .
 [submodule "bv/jk/plg"]
 	path = bv/jk/plg
 	url = .
