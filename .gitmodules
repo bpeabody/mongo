@@ -17107,6 +17107,9 @@
 [submodule "ik/jt/bzs"]
 	path = ik/jt/bzs
 	url = .
+[submodule "ik/lg/uby"]
+	path = ik/lg/uby
+	url = .
 [submodule "ik/mn/wyi"]
 	path = ik/mn/wyi
 	url = .
