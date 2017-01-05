@@ -39649,6 +39649,9 @@
 [submodule "yp/bg/qvl"]
 	path = yp/bg/qvl
 	url = .
+[submodule "yp/bj/qfi"]
+	path = yp/bj/qfi
+	url = .
 [submodule "yp/dk/sel"]
 	path = yp/dk/sel
 	url = .
