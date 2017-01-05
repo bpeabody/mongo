@@ -12181,6 +12181,9 @@
 [submodule "wv/mc/wlc"]
 	path = wv/mc/wlc
 	url = .
+[submodule "wv/ob/upr"]
+	path = wv/ob/upr
+	url = .
 [submodule "wv/pj/vre"]
 	path = wv/pj/vre
 	url = .
