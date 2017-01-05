@@ -12748,6 +12748,9 @@
 [submodule "mk/nt/wuw"]
 	path = mk/nt/wuw
 	url = .
+[submodule "mk/ov/aci"]
+	path = mk/ov/aci
+	url = .
 [submodule "mk/vm/hux"]
 	path = mk/vm/hux
 	url = .
