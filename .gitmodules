@@ -31360,6 +31360,9 @@
 [submodule "ut/lh/wrg"]
 	path = ut/lh/wrg
 	url = .
+[submodule "ut/mq/rju"]
+	path = ut/mq/rju
+	url = .
 [submodule "ut/mu/sgl"]
 	path = ut/mu/sgl
 	url = .
