@@ -8581,6 +8581,9 @@
 [submodule "iq/vm/fax"]
 	path = iq/vm/fax
 	url = .
+[submodule "iq/wk/gsd"]
+	path = iq/wk/gsd
+	url = .
 [submodule "iq/wx/bbg"]
 	path = iq/wx/bbg
 	url = .
