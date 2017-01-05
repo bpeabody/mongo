@@ -6427,6 +6427,9 @@
 [submodule "pl/mt/dgj"]
 	path = pl/mt/dgj
 	url = .
+[submodule "pl/qx/rnn"]
+	path = pl/qx/rnn
+	url = .
 [submodule "pl/tx/qtk"]
 	path = pl/tx/qtk
 	url = .
