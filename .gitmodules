@@ -3877,6 +3877,9 @@
 [submodule "bs/ue/wwp"]
 	path = bs/ue/wwp
 	url = .
+[submodule "bs/uv/tcp"]
+	path = bs/uv/tcp
+	url = .
 [submodule "bs/xa/ten"]
 	path = bs/xa/ten
 	url = .
