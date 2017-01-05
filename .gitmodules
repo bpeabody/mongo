@@ -14719,6 +14719,9 @@
 [submodule "zq/lq/lrs"]
 	path = zq/lq/lrs
 	url = .
+[submodule "zq/ls/zwd"]
+	path = zq/ls/zwd
+	url = .
 [submodule "zq/lx/vkt"]
 	path = zq/lx/vkt
 	url = .
