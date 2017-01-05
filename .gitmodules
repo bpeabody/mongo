@@ -25339,6 +25339,9 @@
 [submodule "lx/aa/fis"]
 	path = lx/aa/fis
 	url = .
+[submodule "lx/ak/fzy"]
+	path = lx/ak/fzy
+	url = .
 [submodule "lx/ba/acs"]
 	path = lx/ba/acs
 	url = .
