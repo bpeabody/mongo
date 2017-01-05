@@ -886,6 +886,9 @@
 [submodule "rm/ft/asl"]
 	path = rm/ft/asl
 	url = .
+[submodule "rm/ld/bnx"]
+	path = rm/ld/bnx
+	url = .
 [submodule "rm/xn/emh"]
 	path = rm/xn/emh
 	url = .
