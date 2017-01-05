@@ -6220,6 +6220,9 @@
 [submodule "cc/lq/wnz"]
 	path = cc/lq/wnz
 	url = .
+[submodule "cc/lx/wzc"]
+	path = cc/lx/wzc
+	url = .
 [submodule "cc/mf/tjy"]
 	path = cc/mf/tjy
 	url = .
