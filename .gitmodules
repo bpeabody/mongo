@@ -22111,6 +22111,9 @@
 [submodule "wh/tr/mvi"]
 	path = wh/tr/mvi
 	url = .
+[submodule "wh/up/apt"]
+	path = wh/up/apt
+	url = .
 [submodule "wh/vt/ult"]
 	path = wh/vt/ult
 	url = .
