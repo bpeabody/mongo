@@ -9394,6 +9394,9 @@
 [submodule "df/xy/ssq"]
 	path = df/xy/ssq
 	url = .
+[submodule "df/yk/mca"]
+	path = df/yk/mca
+	url = .
 [submodule "df/yq/fiq"]
 	path = df/yq/fiq
 	url = .
