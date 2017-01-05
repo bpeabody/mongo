@@ -775,6 +775,9 @@
 [submodule "be/ho/wnk"]
 	path = be/ho/wnk
 	url = .
+[submodule "be/la/emw"]
+	path = be/la/emw
+	url = .
 [submodule "be/rw/iym"]
 	path = be/rw/iym
 	url = .
