@@ -31471,6 +31471,9 @@
 [submodule "pj/qn/agm"]
 	path = pj/qn/agm
 	url = .
+[submodule "pj/qy/dud"]
+	path = pj/qy/dud
+	url = .
 [submodule "pj/ua/upn"]
 	path = pj/ua/upn
 	url = .
