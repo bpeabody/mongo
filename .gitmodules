@@ -39850,6 +39850,9 @@
 [submodule "oj/jc/ssu"]
 	path = oj/jc/ssu
 	url = .
+[submodule "oj/jd/dsq"]
+	path = oj/jd/dsq
+	url = .
 [submodule "oj/lw/vzo"]
 	path = oj/lw/vzo
 	url = .
