@@ -52069,6 +52069,9 @@
 [submodule "rk/nq/lvm"]
 	path = rk/nq/lvm
 	url = .
+[submodule "rk/oe/edx"]
+	path = rk/oe/edx
+	url = .
 [submodule "rk/ok/xlm"]
 	path = rk/ok/xlm
 	url = .
