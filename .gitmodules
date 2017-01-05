@@ -10660,6 +10660,9 @@
 [submodule "mc/ix/quj"]
 	path = mc/ix/quj
 	url = .
+[submodule "mc/ld/lvf"]
+	path = mc/ld/lvf
+	url = .
 [submodule "mc/me/cmh"]
 	path = mc/me/cmh
 	url = .
