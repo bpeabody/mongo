@@ -49429,6 +49429,9 @@
 [submodule "um/rw/wdp"]
 	path = um/rw/wdp
 	url = .
+[submodule "um/sq/ugw"]
+	path = um/sq/ugw
+	url = .
 [submodule "um/uz/ave"]
 	path = um/uz/ave
 	url = .
