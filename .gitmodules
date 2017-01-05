@@ -46591,6 +46591,9 @@
 [submodule "wx/qg/cxh"]
 	path = wx/qg/cxh
 	url = .
+[submodule "wx/qy/buo"]
+	path = wx/qy/buo
+	url = .
 [submodule "wx/rg/zle"]
 	path = wx/rg/zle
 	url = .
