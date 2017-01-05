@@ -66907,6 +66907,9 @@
 [submodule "xk/ee/jqt"]
 	path = xk/ee/jqt
 	url = .
+[submodule "xk/ep/lcn"]
+	path = xk/ep/lcn
+	url = .
 [submodule "xk/fa/tvt"]
 	path = xk/fa/tvt
 	url = .
