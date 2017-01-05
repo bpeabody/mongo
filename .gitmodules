@@ -15481,6 +15481,9 @@
 [submodule "fi/rn/hre"]
 	path = fi/rn/hre
 	url = .
+[submodule "fi/sm/awk"]
+	path = fi/sm/awk
+	url = .
 [submodule "fi/tl/pjq"]
 	path = fi/tl/pjq
 	url = .
