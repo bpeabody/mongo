@@ -41080,6 +41080,9 @@
 [submodule "um/uz/ave"]
 	path = um/uz/ave
 	url = .
+[submodule "um/vv/azi"]
+	path = um/vv/azi
+	url = .
 [submodule "um/xl/wsl"]
 	path = um/xl/wsl
 	url = .
