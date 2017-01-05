@@ -2830,6 +2830,9 @@
 [submodule "de/ab/eqo"]
 	path = de/ab/eqo
 	url = .
+[submodule "de/bv/wov"]
+	path = de/bv/wov
+	url = .
 [submodule "de/dd/ekh"]
 	path = de/dd/ekh
 	url = .
