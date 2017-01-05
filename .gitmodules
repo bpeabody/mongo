@@ -1831,6 +1831,9 @@
 [submodule "ir/rt/qei"]
 	path = ir/rt/qei
 	url = .
+[submodule "ir/vd/idi"]
+	path = ir/vd/idi
+	url = .
 [submodule "is/ll/blk"]
 	path = is/ll/blk
 	url = .
