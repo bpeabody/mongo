@@ -35437,6 +35437,9 @@
 [submodule "mc/cj/sob"]
 	path = mc/cj/sob
 	url = .
+[submodule "mc/ct/ntt"]
+	path = mc/ct/ntt
+	url = .
 [submodule "mc/db/jts"]
 	path = mc/db/jts
 	url = .
