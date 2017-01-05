@@ -3046,6 +3046,9 @@
 [submodule "ed/pb/pyq"]
 	path = ed/pb/pyq
 	url = .
+[submodule "ed/rb/wer"]
+	path = ed/rb/wer
+	url = .
 [submodule "ed/vv/ych"]
 	path = ed/vv/ych
 	url = .
