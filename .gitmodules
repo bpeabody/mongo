@@ -12334,6 +12334,9 @@
 [submodule "pp/ag/nyg"]
 	path = pp/ag/nyg
 	url = .
+[submodule "pp/cc/fuq"]
+	path = pp/cc/fuq
+	url = .
 [submodule "pp/fd/vtw"]
 	path = pp/fd/vtw
 	url = .
