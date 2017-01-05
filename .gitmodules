@@ -17818,6 +17818,9 @@
 [submodule "hg/ex/tom"]
 	path = hg/ex/tom
 	url = .
+[submodule "hg/fz/mjq"]
+	path = hg/fz/mjq
+	url = .
 [submodule "hg/gt/tks"]
 	path = hg/gt/tks
 	url = .
