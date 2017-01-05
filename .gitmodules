@@ -6445,6 +6445,9 @@
 [submodule "dj/lz/kku"]
 	path = dj/lz/kku
 	url = .
+[submodule "dj/na/ipl"]
+	path = dj/na/ipl
+	url = .
 [submodule "dj/nr/zvz"]
 	path = dj/nr/zvz
 	url = .
