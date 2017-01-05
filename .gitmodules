@@ -44761,6 +44761,9 @@
 [submodule "qq/sv/ttr"]
 	path = qq/sv/ttr
 	url = .
+[submodule "qq/sz/ehe"]
+	path = qq/sz/ehe
+	url = .
 [submodule "qq/tb/ibk"]
 	path = qq/tb/ibk
 	url = .
