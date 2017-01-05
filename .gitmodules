@@ -31819,6 +31819,9 @@
 [submodule "uh/ej/law"]
 	path = uh/ej/law
 	url = .
+[submodule "uh/hi/wic"]
+	path = uh/hi/wic
+	url = .
 [submodule "uh/it/buv"]
 	path = uh/it/buv
 	url = .
