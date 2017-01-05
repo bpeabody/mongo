@@ -23728,6 +23728,9 @@
 [submodule "yk/vm/ygq"]
 	path = yk/vm/ygq
 	url = .
+[submodule "yl/ai/bwy"]
+	path = yl/ai/bwy
+	url = .
 [submodule "yl/by/gsa"]
 	path = yl/by/gsa
 	url = .
