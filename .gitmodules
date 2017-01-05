@@ -45418,6 +45418,9 @@
 [submodule "qg/lx/fal"]
 	path = qg/lx/fal
 	url = .
+[submodule "qg/nf/vba"]
+	path = qg/nf/vba
+	url = .
 [submodule "qg/nk/lzi"]
 	path = qg/nk/lzi
 	url = .
