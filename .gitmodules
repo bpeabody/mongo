@@ -40534,6 +40534,9 @@
 [submodule "yd/dd/ewn"]
 	path = yd/dd/ewn
 	url = .
+[submodule "yd/du/vsg"]
+	path = yd/du/vsg
+	url = .
 [submodule "yd/em/vdd"]
 	path = yd/em/vdd
 	url = .
