@@ -8698,6 +8698,9 @@
 [submodule "tz/ma/kzz"]
 	path = tz/ma/kzz
 	url = .
+[submodule "tz/ou/how"]
+	path = tz/ou/how
+	url = .
 [submodule "tz/rd/qnb"]
 	path = tz/rd/qnb
 	url = .
