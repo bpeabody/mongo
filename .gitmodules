@@ -4330,6 +4330,9 @@
 [submodule "fw/wo/hrs"]
 	path = fw/wo/hrs
 	url = .
+[submodule "fw/zx/jth"]
+	path = fw/zx/jth
+	url = .
 [submodule "fx/aw/oab"]
 	path = fx/aw/oab
 	url = .
