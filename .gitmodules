@@ -16747,6 +16747,9 @@
 [submodule "fy/fd/xka"]
 	path = fy/fd/xka
 	url = .
+[submodule "fy/fe/ebo"]
+	path = fy/fe/ebo
+	url = .
 [submodule "fy/fi/fxr"]
 	path = fy/fi/fxr
 	url = .
