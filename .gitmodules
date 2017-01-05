@@ -33796,6 +33796,9 @@
 [submodule "vw/zq/ccs"]
 	path = vw/zq/ccs
 	url = .
+[submodule "vx/ch/gsc"]
+	path = vx/ch/gsc
+	url = .
 [submodule "vx/da/tkj"]
 	path = vx/da/tkj
 	url = .
