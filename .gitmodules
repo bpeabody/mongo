@@ -3835,6 +3835,9 @@
 [submodule "dd/lu/wcn"]
 	path = dd/lu/wcn
 	url = .
+[submodule "dd/mh/owo"]
+	path = dd/mh/owo
+	url = .
 [submodule "dd/nb/ifl"]
 	path = dd/nb/ifl
 	url = .
