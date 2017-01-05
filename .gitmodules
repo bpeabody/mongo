@@ -38257,6 +38257,9 @@
 [submodule "pb/qa/chu"]
 	path = pb/qa/chu
 	url = .
+[submodule "pb/qh/kri"]
+	path = pb/qh/kri
+	url = .
 [submodule "pb/qh/mhp"]
 	path = pb/qh/mhp
 	url = .
