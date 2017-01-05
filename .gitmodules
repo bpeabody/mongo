@@ -26677,6 +26677,9 @@
 [submodule "jo/kd/mdk"]
 	path = jo/kd/mdk
 	url = .
+[submodule "jo/kh/lnk"]
+	path = jo/kh/lnk
+	url = .
 [submodule "jo/kr/gdd"]
 	path = jo/kr/gdd
 	url = .
