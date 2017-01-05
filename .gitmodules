@@ -9601,6 +9601,9 @@
 [submodule "um/pu/enj"]
 	path = um/pu/enj
 	url = .
+[submodule "um/uz/ave"]
+	path = um/uz/ave
+	url = .
 [submodule "um/xl/wsl"]
 	path = um/xl/wsl
 	url = .
