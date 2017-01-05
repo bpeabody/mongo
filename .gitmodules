@@ -13369,6 +13369,9 @@
 [submodule "en/kk/mkw"]
 	path = en/kk/mkw
 	url = .
+[submodule "en/ld/kro"]
+	path = en/ld/kro
+	url = .
 [submodule "en/lk/gkq"]
 	path = en/lk/gkq
 	url = .
