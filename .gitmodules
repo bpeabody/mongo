@@ -6076,6 +6076,9 @@
 [submodule "up/qs/fbu"]
 	path = up/qs/fbu
 	url = .
+[submodule "up/sr/aen"]
+	path = up/sr/aen
+	url = .
 [submodule "up/tc/bpq"]
 	path = up/tc/bpq
 	url = .
