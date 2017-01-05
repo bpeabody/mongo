@@ -25534,6 +25534,9 @@
 [submodule "ky/uv/zjr"]
 	path = ky/uv/zjr
 	url = .
+[submodule "ky/vc/yog"]
+	path = ky/vc/yog
+	url = .
 [submodule "ky/xx/cdf"]
 	path = ky/xx/cdf
 	url = .
