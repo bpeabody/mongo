@@ -10264,6 +10264,9 @@
 [submodule "ok/fi/htg"]
 	path = ok/fi/htg
 	url = .
+[submodule "ok/ih/niq"]
+	path = ok/ih/niq
+	url = .
 [submodule "ok/im/nvy"]
 	path = ok/im/nvy
 	url = .
