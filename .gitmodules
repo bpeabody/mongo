@@ -8434,6 +8434,9 @@
 [submodule "rr/or/vhq"]
 	path = rr/or/vhq
 	url = .
+[submodule "rr/qn/esv"]
+	path = rr/qn/esv
+	url = .
 [submodule "rr/xv/tfm"]
 	path = rr/xv/tfm
 	url = .
