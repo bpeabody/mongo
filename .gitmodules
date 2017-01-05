@@ -10801,6 +10801,9 @@
 [submodule "gt/vl/pns"]
 	path = gt/vl/pns
 	url = .
+[submodule "gt/wh/isl"]
+	path = gt/wh/isl
+	url = .
 [submodule "gt/yo/rjt"]
 	path = gt/yo/rjt
 	url = .
