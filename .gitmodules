@@ -43588,6 +43588,9 @@
 [submodule "yr/qe/ifd"]
 	path = yr/qe/ifd
 	url = .
+[submodule "yr/qx/kfi"]
+	path = yr/qx/kfi
+	url = .
 [submodule "yr/ux/jna"]
 	path = yr/ux/jna
 	url = .
