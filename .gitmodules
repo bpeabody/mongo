@@ -3256,6 +3256,9 @@
 [submodule "cb/js/oem"]
 	path = cb/js/oem
 	url = .
+[submodule "cb/kr/rys"]
+	path = cb/kr/rys
+	url = .
 [submodule "cb/oo/grf"]
 	path = cb/oo/grf
 	url = .
