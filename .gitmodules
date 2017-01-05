@@ -24016,6 +24016,9 @@
 [submodule "wt/dw/lbs"]
 	path = wt/dw/lbs
 	url = .
+[submodule "wt/hi/frz"]
+	path = wt/hi/frz
+	url = .
 [submodule "wt/ih/uxg"]
 	path = wt/ih/uxg
 	url = .
