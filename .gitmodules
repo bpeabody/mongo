@@ -2197,6 +2197,9 @@
 [submodule "mm/yv/fno"]
 	path = mm/yv/fno
 	url = .
+[submodule "mn/wy/yud"]
+	path = mn/wy/yud
+	url = .
 [submodule "mo/ei/xti"]
 	path = mo/ei/xti
 	url = .
