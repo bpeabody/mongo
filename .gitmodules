@@ -24277,6 +24277,9 @@
 [submodule "mp/au/kts"]
 	path = mp/au/kts
 	url = .
+[submodule "mp/bc/jcc"]
+	path = mp/bc/jcc
+	url = .
 [submodule "mp/eo/vxk"]
 	path = mp/eo/vxk
 	url = .
