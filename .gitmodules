@@ -4027,6 +4027,9 @@
 [submodule "dg/xp/ikm"]
 	path = dg/xp/ikm
 	url = .
+[submodule "dg/xt/gdd"]
+	path = dg/xt/gdd
+	url = .
 [submodule "dg/xx/xgx"]
 	path = dg/xx/xgx
 	url = .
