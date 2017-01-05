@@ -23101,6 +23101,9 @@
 [submodule "qy/nk/kxh"]
 	path = qy/nk/kxh
 	url = .
+[submodule "qy/nm/abb"]
+	path = qy/nm/abb
+	url = .
 [submodule "qy/si/tut"]
 	path = qy/si/tut
 	url = .
