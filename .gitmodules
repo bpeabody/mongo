@@ -6358,6 +6358,9 @@
 [submodule "hk/di/frz"]
 	path = hk/di/frz
 	url = .
+[submodule "hk/dv/fvs"]
+	path = hk/dv/fvs
+	url = .
 [submodule "hk/ka/ukm"]
 	path = hk/ka/ukm
 	url = .
