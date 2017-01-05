@@ -8113,6 +8113,9 @@
 [submodule "rx/yj/wes"]
 	path = rx/yj/wes
 	url = .
+[submodule "ry/cb/dqe"]
+	path = ry/cb/dqe
+	url = .
 [submodule "ry/dt/gck"]
 	path = ry/dt/gck
 	url = .
