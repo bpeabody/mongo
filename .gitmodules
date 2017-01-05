@@ -3172,6 +3172,9 @@
 [submodule "bh/vj/jjj"]
 	path = bh/vj/jjj
 	url = .
+[submodule "bh/xj/rmn"]
+	path = bh/xj/rmn
+	url = .
 [submodule "bh/yp/gnt"]
 	path = bh/yp/gnt
 	url = .
