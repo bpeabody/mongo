@@ -28069,6 +28069,9 @@
 [submodule "nv/ic/qwa"]
 	path = nv/ic/qwa
 	url = .
+[submodule "nv/ng/plb"]
+	path = nv/ng/plb
+	url = .
 [submodule "nv/nj/gxz"]
 	path = nv/nj/gxz
 	url = .
