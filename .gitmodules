@@ -724,6 +724,9 @@
 [submodule "bk/op/qic"]
 	path = bk/op/qic
 	url = .
+[submodule "bk/pj/crg"]
+	path = bk/pj/crg
+	url = .
 [submodule "bk/qc/sxt"]
 	path = bk/qc/sxt
 	url = .
