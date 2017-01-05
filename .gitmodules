@@ -26146,6 +26146,9 @@
 [submodule "wm/bu/qbe"]
 	path = wm/bu/qbe
 	url = .
+[submodule "wm/cd/adl"]
+	path = wm/cd/adl
+	url = .
 [submodule "wm/eq/ceg"]
 	path = wm/eq/ceg
 	url = .
