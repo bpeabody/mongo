@@ -736,6 +736,9 @@
 [submodule "ce/xh/mxb"]
 	path = ce/xh/mxb
 	url = .
+[submodule "cf/av/siw"]
+	path = cf/av/siw
+	url = .
 [submodule "cf/cx/gij"]
 	path = cf/cx/gij
 	url = .
