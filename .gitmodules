@@ -1840,6 +1840,9 @@
 [submodule "wf/so/zim"]
 	path = wf/so/zim
 	url = .
+[submodule "wg/jc/rhz"]
+	path = wg/jc/rhz
+	url = .
 [submodule "wh/ga/obo"]
 	path = wh/ga/obo
 	url = .
