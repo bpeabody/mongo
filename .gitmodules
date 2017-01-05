@@ -4474,6 +4474,9 @@
 [submodule "mg/fm/amn"]
 	path = mg/fm/amn
 	url = .
+[submodule "mg/kz/lln"]
+	path = mg/kz/lln
+	url = .
 [submodule "mh/fx/vrg"]
 	path = mh/fx/vrg
 	url = .
