@@ -4021,6 +4021,9 @@
 [submodule "ik/jo/agy"]
 	path = ik/jo/agy
 	url = .
+[submodule "ik/ui/ggm"]
+	path = ik/ui/ggm
+	url = .
 [submodule "il/kk/qdt"]
 	path = il/kk/qdt
 	url = .
