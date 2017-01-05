@@ -20806,6 +20806,9 @@
 [submodule "vl/tg/lzf"]
 	path = vl/tg/lzf
 	url = .
+[submodule "vl/va/roc"]
+	path = vl/va/roc
+	url = .
 [submodule "vl/xt/qbe"]
 	path = vl/xt/qbe
 	url = .
