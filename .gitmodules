@@ -39076,6 +39076,9 @@
 [submodule "pu/my/yiq"]
 	path = pu/my/yiq
 	url = .
+[submodule "pu/nd/gsc"]
+	path = pu/nd/gsc
+	url = .
 [submodule "pu/nf/ktn"]
 	path = pu/nf/ktn
 	url = .
