@@ -10882,6 +10882,9 @@
 [submodule "ka/ni/blj"]
 	path = ka/ni/blj
 	url = .
+[submodule "ka/nk/kbi"]
+	path = ka/nk/kbi
+	url = .
 [submodule "ka/oc/wmo"]
 	path = ka/oc/wmo
 	url = .
