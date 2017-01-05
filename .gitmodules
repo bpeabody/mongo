@@ -46819,6 +46819,9 @@
 [submodule "rx/ix/nty"]
 	path = rx/ix/nty
 	url = .
+[submodule "rx/jm/heh"]
+	path = rx/jm/heh
+	url = .
 [submodule "rx/kd/nlv"]
 	path = rx/kd/nlv
 	url = .
