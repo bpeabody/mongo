@@ -25324,6 +25324,9 @@
 [submodule "vk/mp/wjp"]
 	path = vk/mp/wjp
 	url = .
+[submodule "vk/mz/pue"]
+	path = vk/mz/pue
+	url = .
 [submodule "vk/nb/hdt"]
 	path = vk/nb/hdt
 	url = .
