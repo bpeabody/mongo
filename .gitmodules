@@ -1972,6 +1972,9 @@
 [submodule "xf/ou/lup"]
 	path = xf/ou/lup
 	url = .
+[submodule "xg/bm/svd"]
+	path = xg/bm/svd
+	url = .
 [submodule "xg/os/amf"]
 	path = xg/os/amf
 	url = .
