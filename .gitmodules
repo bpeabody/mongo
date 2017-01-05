@@ -1714,6 +1714,9 @@
 [submodule "xn/wr/mws"]
 	path = xn/wr/mws
 	url = .
+[submodule "xo/gn/ixe"]
+	path = xo/gn/ixe
+	url = .
 [submodule "xo/ms/pvz"]
 	path = xo/ms/pvz
 	url = .
