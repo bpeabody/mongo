@@ -12931,6 +12931,9 @@
 [submodule "tg/az/lyy"]
 	path = tg/az/lyy
 	url = .
+[submodule "tg/cw/uls"]
+	path = tg/cw/uls
+	url = .
 [submodule "tg/db/bsx"]
 	path = tg/db/bsx
 	url = .
