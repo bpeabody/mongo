@@ -35884,6 +35884,9 @@
 [submodule "ti/ta/tcc"]
 	path = ti/ta/tcc
 	url = .
+[submodule "ti/tf/uzj"]
+	path = ti/tf/uzj
+	url = .
 [submodule "ti/ur/rdq"]
 	path = ti/ur/rdq
 	url = .
