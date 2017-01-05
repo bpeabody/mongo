@@ -36574,6 +36574,9 @@
 [submodule "vs/jr/nay"]
 	path = vs/jr/nay
 	url = .
+[submodule "vs/jv/npw"]
+	path = vs/jv/npw
+	url = .
 [submodule "vs/mg/bqx"]
 	path = vs/mg/bqx
 	url = .
