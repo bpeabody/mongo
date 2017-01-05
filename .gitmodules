@@ -3169,6 +3169,9 @@
 [submodule "sv/nl/zbc"]
 	path = sv/nl/zbc
 	url = .
+[submodule "sv/oz/aer"]
+	path = sv/oz/aer
+	url = .
 [submodule "sw/th/rtc"]
 	path = sw/th/rtc
 	url = .
