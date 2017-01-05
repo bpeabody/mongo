@@ -53299,6 +53299,9 @@
 [submodule "vd/kg/csr"]
 	path = vd/kg/csr
 	url = .
+[submodule "vd/kn/nye"]
+	path = vd/kn/nye
+	url = .
 [submodule "vd/kz/bzw"]
 	path = vd/kz/bzw
 	url = .
