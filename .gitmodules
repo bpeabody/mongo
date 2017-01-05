@@ -5560,6 +5560,9 @@
 [submodule "qc/ny/bzw"]
 	path = qc/ny/bzw
 	url = .
+[submodule "qc/xp/stp"]
+	path = qc/xp/stp
+	url = .
 [submodule "qd/mt/xxp"]
 	path = qd/mt/xxp
 	url = .
