@@ -12454,6 +12454,9 @@
 [submodule "ei/jw/nli"]
 	path = ei/jw/nli
 	url = .
+[submodule "ei/kt/slp"]
+	path = ei/kt/slp
+	url = .
 [submodule "ei/kv/uas"]
 	path = ei/kv/uas
 	url = .
