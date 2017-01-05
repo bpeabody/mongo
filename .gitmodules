@@ -175,6 +175,9 @@
 [submodule "jt/go/jbn"]
 	path = jt/go/jbn
 	url = .
+[submodule "jt/xz/hfr"]
+	path = jt/xz/hfr
+	url = .
 [submodule "jw/vs/xin"]
 	path = jw/vs/xin
 	url = .
