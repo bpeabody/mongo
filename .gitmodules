@@ -637,6 +637,9 @@
 [submodule "hc/ns/ejv"]
 	path = hc/ns/ejv
 	url = .
+[submodule "hd/ta/qpk"]
+	path = hd/ta/qpk
+	url = .
 [submodule "hf/dx/yao"]
 	path = hf/dx/yao
 	url = .
