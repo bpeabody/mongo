@@ -12577,6 +12577,9 @@
 [submodule "fd/fr/fgf"]
 	path = fd/fr/fgf
 	url = .
+[submodule "fd/gz/ukm"]
+	path = fd/gz/ukm
+	url = .
 [submodule "fd/hi/uor"]
 	path = fd/hi/uor
 	url = .
