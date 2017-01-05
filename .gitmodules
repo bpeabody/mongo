@@ -3205,6 +3205,9 @@
 [submodule "cl/yl/ndy"]
 	path = cl/yl/ndy
 	url = .
+[submodule "cl/ym/jfw"]
+	path = cl/ym/jfw
+	url = .
 [submodule "cl/zj/kao"]
 	path = cl/zj/kao
 	url = .
