@@ -4372,6 +4372,9 @@
 [submodule "rc/ef/cuy"]
 	path = rc/ef/cuy
 	url = .
+[submodule "rc/mp/dyf"]
+	path = rc/mp/dyf
+	url = .
 [submodule "rc/rv/exs"]
 	path = rc/rv/exs
 	url = .
