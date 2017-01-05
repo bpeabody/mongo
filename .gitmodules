@@ -14782,6 +14782,9 @@
 [submodule "on/no/lyk"]
 	path = on/no/lyk
 	url = .
+[submodule "on/pk/irn"]
+	path = on/pk/irn
+	url = .
 [submodule "on/rg/qyg"]
 	path = on/rg/qyg
 	url = .
