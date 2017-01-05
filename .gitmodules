@@ -10060,6 +10060,9 @@
 [submodule "hh/lr/uzl"]
 	path = hh/lr/uzl
 	url = .
+[submodule "hh/nu/fis"]
+	path = hh/nu/fis
+	url = .
 [submodule "hh/pm/ezo"]
 	path = hh/pm/ezo
 	url = .
