@@ -12682,6 +12682,9 @@
 [submodule "nq/kl/oek"]
 	path = nq/kl/oek
 	url = .
+[submodule "nq/lv/jxl"]
+	path = nq/lv/jxl
+	url = .
 [submodule "nq/ow/rrh"]
 	path = nq/ow/rrh
 	url = .
