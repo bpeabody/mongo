@@ -41488,6 +41488,9 @@
 [submodule "tn/ku/lqh"]
 	path = tn/ku/lqh
 	url = .
+[submodule "tn/la/deg"]
+	path = tn/la/deg
+	url = .
 [submodule "tn/ma/xne"]
 	path = tn/ma/xne
 	url = .
