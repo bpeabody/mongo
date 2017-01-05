@@ -6559,6 +6559,9 @@
 [submodule "rj/hh/qmv"]
 	path = rj/hh/qmv
 	url = .
+[submodule "rj/mh/lcw"]
+	path = rj/mh/lcw
+	url = .
 [submodule "rj/wk/xrl"]
 	path = rj/wk/xrl
 	url = .
