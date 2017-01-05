@@ -3205,6 +3205,9 @@
 [submodule "pw/vi/sbg"]
 	path = pw/vi/sbg
 	url = .
+[submodule "px/ll/ggk"]
+	path = px/ll/ggk
+	url = .
 [submodule "px/yh/wui"]
 	path = px/yh/wui
 	url = .
