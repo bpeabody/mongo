@@ -46579,6 +46579,9 @@
 [submodule "ys/ui/kni"]
 	path = ys/ui/kni
 	url = .
+[submodule "ys/ul/ghw"]
+	path = ys/ul/ghw
+	url = .
 [submodule "ys/zz/jir"]
 	path = ys/zz/jir
 	url = .
