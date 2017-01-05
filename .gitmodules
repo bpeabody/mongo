@@ -5134,6 +5134,9 @@
 [submodule "qe/nx/jrv"]
 	path = qe/nx/jrv
 	url = .
+[submodule "qe/xp/wit"]
+	path = qe/xp/wit
+	url = .
 [submodule "qf/da/slc"]
 	path = qf/da/slc
 	url = .
