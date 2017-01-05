@@ -9430,6 +9430,9 @@
 [submodule "gd/im/yyb"]
 	path = gd/im/yyb
 	url = .
+[submodule "gd/iu/pbv"]
+	path = gd/iu/pbv
+	url = .
 [submodule "gd/iv/lfc"]
 	path = gd/iv/lfc
 	url = .
