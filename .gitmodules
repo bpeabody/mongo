@@ -18328,6 +18328,9 @@
 [submodule "mm/yv/fno"]
 	path = mm/yv/fno
 	url = .
+[submodule "mm/zu/izp"]
+	path = mm/zu/izp
+	url = .
 [submodule "mn/ad/ise"]
 	path = mn/ad/ise
 	url = .
