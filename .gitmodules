@@ -45874,6 +45874,9 @@
 [submodule "uc/nd/pcr"]
 	path = uc/nd/pcr
 	url = .
+[submodule "uc/nd/val"]
+	path = uc/nd/val
+	url = .
 [submodule "uc/nt/vpp"]
 	path = uc/nt/vpp
 	url = .
