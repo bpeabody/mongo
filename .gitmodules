@@ -10534,6 +10534,9 @@
 [submodule "fe/jn/uav"]
 	path = fe/jn/uav
 	url = .
+[submodule "fe/ke/jkh"]
+	path = fe/ke/jkh
+	url = .
 [submodule "fe/kn/rkx"]
 	path = fe/kn/rkx
 	url = .
