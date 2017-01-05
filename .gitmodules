@@ -14119,6 +14119,9 @@
 [submodule "sn/ix/bqn"]
 	path = sn/ix/bqn
 	url = .
+[submodule "sn/jd/ved"]
+	path = sn/jd/ved
+	url = .
 [submodule "sn/jf/heq"]
 	path = sn/jf/heq
 	url = .
