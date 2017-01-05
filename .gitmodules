@@ -913,6 +913,9 @@
 [submodule "ce/ex/mgx"]
 	path = ce/ex/mgx
 	url = .
+[submodule "ce/ho/qnp"]
+	path = ce/ho/qnp
+	url = .
 [submodule "ce/ld/rwv"]
 	path = ce/ld/rwv
 	url = .
