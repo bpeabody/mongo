@@ -7255,6 +7255,9 @@
 [submodule "ht/hc/amx"]
 	path = ht/hc/amx
 	url = .
+[submodule "ht/im/mry"]
+	path = ht/im/mry
+	url = .
 [submodule "ht/oo/lhx"]
 	path = ht/oo/lhx
 	url = .
