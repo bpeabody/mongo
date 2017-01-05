@@ -28762,6 +28762,9 @@
 [submodule "ng/cb/cdc"]
 	path = ng/cb/cdc
 	url = .
+[submodule "ng/ce/qtd"]
+	path = ng/ce/qtd
+	url = .
 [submodule "ng/cr/qqv"]
 	path = ng/cr/qqv
 	url = .
