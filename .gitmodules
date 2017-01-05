@@ -37090,6 +37090,9 @@
 [submodule "nm/pk/mwy"]
 	path = nm/pk/mwy
 	url = .
+[submodule "nm/pn/sny"]
+	path = nm/pn/sny
+	url = .
 [submodule "nm/ps/pjx"]
 	path = nm/ps/pjx
 	url = .
