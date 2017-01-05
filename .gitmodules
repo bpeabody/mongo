@@ -4906,6 +4906,9 @@
 [submodule "ce/pp/lux"]
 	path = ce/pp/lux
 	url = .
+[submodule "ce/qg/tqh"]
+	path = ce/qg/tqh
+	url = .
 [submodule "ce/qw/axt"]
 	path = ce/qw/axt
 	url = .
