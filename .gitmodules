@@ -50422,6 +50422,9 @@
 [submodule "rk/jk/eoi"]
 	path = rk/jk/eoi
 	url = .
+[submodule "rk/jp/qeb"]
+	path = rk/jp/qeb
+	url = .
 [submodule "rk/kd/tmw"]
 	path = rk/kd/tmw
 	url = .
