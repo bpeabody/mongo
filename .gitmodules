@@ -9319,6 +9319,9 @@
 [submodule "eu/wg/aoz"]
 	path = eu/wg/aoz
 	url = .
+[submodule "eu/wo/mcw"]
+	path = eu/wo/mcw
+	url = .
 [submodule "eu/xy/jya"]
 	path = eu/xy/jya
 	url = .
