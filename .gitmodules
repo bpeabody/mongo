@@ -1108,6 +1108,9 @@
 [submodule "bl/jm/zij"]
 	path = bl/jm/zij
 	url = .
+[submodule "bl/jt/olr"]
+	path = bl/jt/olr
+	url = .
 [submodule "bl/lv/qou"]
 	path = bl/lv/qou
 	url = .
