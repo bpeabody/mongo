@@ -205,6 +205,9 @@
 [submodule "at/kx/nhz"]
 	path = at/kx/nhz
 	url = .
+[submodule "at/mc/are"]
+	path = at/mc/are
+	url = .
 [submodule "au/cv/tai"]
 	path = au/cv/tai
 	url = .
