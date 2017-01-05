@@ -51958,6 +51958,9 @@
 [submodule "si/iv/nnd"]
 	path = si/iv/nnd
 	url = .
+[submodule "si/js/ysi"]
+	path = si/js/ysi
+	url = .
 [submodule "si/kg/qfq"]
 	path = si/kg/qfq
 	url = .
