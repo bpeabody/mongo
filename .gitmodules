@@ -3874,6 +3874,9 @@
 [submodule "cd/iu/bqv"]
 	path = cd/iu/bqv
 	url = .
+[submodule "cd/mo/alk"]
+	path = cd/mo/alk
+	url = .
 [submodule "cd/mp/ptn"]
 	path = cd/mp/ptn
 	url = .
