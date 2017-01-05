@@ -4396,6 +4396,9 @@
 [submodule "br/hk/gyn"]
 	path = br/hk/gyn
 	url = .
+[submodule "br/hs/aky"]
+	path = br/hs/aky
+	url = .
 [submodule "br/iy/dro"]
 	path = br/iy/dro
 	url = .
