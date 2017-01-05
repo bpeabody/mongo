@@ -8569,6 +8569,9 @@
 [submodule "io/hl/yjf"]
 	path = io/hl/yjf
 	url = .
+[submodule "io/ib/xat"]
+	path = io/ib/xat
+	url = .
 [submodule "io/js/yiu"]
 	path = io/js/yiu
 	url = .
