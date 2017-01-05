@@ -6607,6 +6607,9 @@
 [submodule "jl/vm/fpu"]
 	path = jl/vm/fpu
 	url = .
+[submodule "jl/xb/dhd"]
+	path = jl/xb/dhd
+	url = .
 [submodule "jl/xg/jto"]
 	path = jl/xg/jto
 	url = .
