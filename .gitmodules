@@ -5131,6 +5131,9 @@
 [submodule "bx/kp/wsq"]
 	path = bx/kp/wsq
 	url = .
+[submodule "bx/la/rlt"]
+	path = bx/la/rlt
+	url = .
 [submodule "bx/ln/soh"]
 	path = bx/ln/soh
 	url = .
