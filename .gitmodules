@@ -51919,6 +51919,9 @@
 [submodule "xo/vu/gso"]
 	path = xo/vu/gso
 	url = .
+[submodule "xo/yp/mhc"]
+	path = xo/yp/mhc
+	url = .
 [submodule "xo/yr/tex"]
 	path = xo/yr/tex
 	url = .
