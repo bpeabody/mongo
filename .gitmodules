@@ -8215,6 +8215,9 @@
 [submodule "pu/bb/hdk"]
 	path = pu/bb/hdk
 	url = .
+[submodule "pu/vb/yyv"]
+	path = pu/vb/yyv
+	url = .
 [submodule "pu/wr/gfn"]
 	path = pu/wr/gfn
 	url = .
