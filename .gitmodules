@@ -2233,6 +2233,9 @@
 [submodule "au/bu/yei"]
 	path = au/bu/yei
 	url = .
+[submodule "au/cc/scq"]
+	path = au/cc/scq
+	url = .
 [submodule "au/cv/tai"]
 	path = au/cv/tai
 	url = .
