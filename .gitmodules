@@ -751,6 +751,9 @@
 [submodule "zp/jw/tfi"]
 	path = zp/jw/tfi
 	url = .
+[submodule "zu/os/whd"]
+	path = zu/os/whd
+	url = .
 [submodule "zx/od/dtp"]
 	path = zx/od/dtp
 	url = .
