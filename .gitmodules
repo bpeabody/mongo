@@ -2296,6 +2296,9 @@
 [submodule "av/oj/wnq"]
 	path = av/oj/wnq
 	url = .
+[submodule "av/ok/yuc"]
+	path = av/ok/yuc
+	url = .
 [submodule "av/ou/zvj"]
 	path = av/ou/zvj
 	url = .
