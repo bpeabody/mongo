@@ -11257,6 +11257,9 @@
 [submodule "dv/dv/aeh"]
 	path = dv/dv/aeh
 	url = .
+[submodule "dv/ed/wji"]
+	path = dv/ed/wji
+	url = .
 [submodule "dv/et/nhf"]
 	path = dv/et/nhf
 	url = .
