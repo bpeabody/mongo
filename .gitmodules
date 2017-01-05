@@ -40321,6 +40321,9 @@
 [submodule "ve/le/sbm"]
 	path = ve/le/sbm
 	url = .
+[submodule "ve/lx/dlc"]
+	path = ve/lx/dlc
+	url = .
 [submodule "ve/pl/rxm"]
 	path = ve/pl/rxm
 	url = .
