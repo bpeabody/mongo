@@ -6220,6 +6220,9 @@
 [submodule "mg/kz/lln"]
 	path = mg/kz/lln
 	url = .
+[submodule "mg/lb/wkw"]
+	path = mg/lb/wkw
+	url = .
 [submodule "mg/vm/mej"]
 	path = mg/vm/mej
 	url = .
