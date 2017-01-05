@@ -15838,6 +15838,9 @@
 [submodule "fr/ki/kkl"]
 	path = fr/ki/kkl
 	url = .
+[submodule "fr/kq/aza"]
+	path = fr/kq/aza
+	url = .
 [submodule "fr/lq/ang"]
 	path = fr/lq/ang
 	url = .
