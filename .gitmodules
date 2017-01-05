@@ -997,6 +997,9 @@
 [submodule "aq/vl/ojt"]
 	path = aq/vl/ojt
 	url = .
+[submodule "aq/xx/rez"]
+	path = aq/xx/rez
+	url = .
 [submodule "aq/zo/tvz"]
 	path = aq/zo/tvz
 	url = .
