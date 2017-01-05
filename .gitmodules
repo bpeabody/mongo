@@ -850,6 +850,9 @@
 [submodule "ex/zw/pnj"]
 	path = ex/zw/pnj
 	url = .
+[submodule "ey/gd/gjj"]
+	path = ey/gd/gjj
+	url = .
 [submodule "ey/za/jib"]
 	path = ey/za/jib
 	url = .
