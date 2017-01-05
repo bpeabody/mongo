@@ -58987,6 +58987,9 @@
 [submodule "uy/go/gmo"]
 	path = uy/go/gmo
 	url = .
+[submodule "uy/gq/lvt"]
+	path = uy/gq/lvt
+	url = .
 [submodule "uy/gr/vgk"]
 	path = uy/gr/vgk
 	url = .
