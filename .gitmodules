@@ -54892,6 +54892,9 @@
 [submodule "xn/wr/mws"]
 	path = xn/wr/mws
 	url = .
+[submodule "xn/wr/wxs"]
+	path = xn/wr/wxs
+	url = .
 [submodule "xn/xm/hvi"]
 	path = xn/xm/hvi
 	url = .
