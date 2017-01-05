@@ -23278,6 +23278,9 @@
 [submodule "jr/dp/sqt"]
 	path = jr/dp/sqt
 	url = .
+[submodule "jr/ec/qqr"]
+	path = jr/ec/qqr
+	url = .
 [submodule "jr/fa/brd"]
 	path = jr/fa/brd
 	url = .
