@@ -10576,6 +10576,9 @@
 [submodule "dz/bw/ccu"]
 	path = dz/bw/ccu
 	url = .
+[submodule "dz/bx/vhs"]
+	path = dz/bx/vhs
+	url = .
 [submodule "dz/cb/nww"]
 	path = dz/cb/nww
 	url = .
