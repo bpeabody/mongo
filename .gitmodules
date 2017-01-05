@@ -6628,6 +6628,9 @@
 [submodule "jv/uq/irk"]
 	path = jv/uq/irk
 	url = .
+[submodule "jv/xp/azn"]
+	path = jv/xp/azn
+	url = .
 [submodule "jv/xz/mzn"]
 	path = jv/xz/mzn
 	url = .
