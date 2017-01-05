@@ -27997,6 +27997,9 @@
 [submodule "jp/wx/lqf"]
 	path = jp/wx/lqf
 	url = .
+[submodule "jp/yt/vuu"]
+	path = jp/yt/vuu
+	url = .
 [submodule "jp/zf/jsh"]
 	path = jp/zf/jsh
 	url = .
