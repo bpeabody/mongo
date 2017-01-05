@@ -2527,6 +2527,9 @@
 [submodule "eg/bv/kbh"]
 	path = eg/bv/kbh
 	url = .
+[submodule "eg/ef/slh"]
+	path = eg/ef/slh
+	url = .
 [submodule "eg/en/qth"]
 	path = eg/en/qth
 	url = .
