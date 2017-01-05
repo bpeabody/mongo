@@ -38149,6 +38149,9 @@
 [submodule "od/lw/aln"]
 	path = od/lw/aln
 	url = .
+[submodule "od/mj/chd"]
+	path = od/mj/chd
+	url = .
 [submodule "od/mq/ofh"]
 	path = od/mq/ofh
 	url = .
