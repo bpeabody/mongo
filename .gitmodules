@@ -35848,6 +35848,9 @@
 [submodule "ya/fo/jkn"]
 	path = ya/fo/jkn
 	url = .
+[submodule "ya/ke/cdo"]
+	path = ya/ke/cdo
+	url = .
 [submodule "ya/la/gof"]
 	path = ya/la/gof
 	url = .
