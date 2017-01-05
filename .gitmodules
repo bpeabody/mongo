@@ -5155,6 +5155,9 @@
 [submodule "ri/yk/gtb"]
 	path = ri/yk/gtb
 	url = .
+[submodule "rj/dm/obm"]
+	path = rj/dm/obm
+	url = .
 [submodule "rj/wk/xrl"]
 	path = rj/wk/xrl
 	url = .
