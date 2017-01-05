@@ -13114,6 +13114,9 @@
 [submodule "iw/wi/tso"]
 	path = iw/wi/tso
 	url = .
+[submodule "iw/xe/jnr"]
+	path = iw/xe/jnr
+	url = .
 [submodule "iw/xl/osz"]
 	path = iw/xl/osz
 	url = .
