@@ -574,6 +574,9 @@
 [submodule "at/ce/kma"]
 	path = at/ce/kma
 	url = .
+[submodule "at/cq/nga"]
+	path = at/cq/nga
+	url = .
 [submodule "at/gl/unp"]
 	path = at/gl/unp
 	url = .
