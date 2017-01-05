@@ -1528,6 +1528,9 @@
 [submodule "ip/lj/hii"]
 	path = ip/lj/hii
 	url = .
+[submodule "ip/ux/xfc"]
+	path = ip/ux/xfc
+	url = .
 [submodule "iq/fa/wgu"]
 	path = iq/fa/wgu
 	url = .
