@@ -42094,6 +42094,9 @@
 [submodule "ry/ss/gmj"]
 	path = ry/ss/gmj
 	url = .
+[submodule "ry/to/bzj"]
+	path = ry/to/bzj
+	url = .
 [submodule "ry/ub/wqy"]
 	path = ry/ub/wqy
 	url = .
