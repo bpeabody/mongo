@@ -6619,6 +6619,9 @@
 [submodule "wu/vv/dkb"]
 	path = wu/vv/dkb
 	url = .
+[submodule "wu/xm/nrw"]
+	path = wu/xm/nrw
+	url = .
 [submodule "wv/mc/wlc"]
 	path = wv/mc/wlc
 	url = .
