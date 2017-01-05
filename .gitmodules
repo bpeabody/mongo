@@ -17950,6 +17950,9 @@
 [submodule "hp/kh/wul"]
 	path = hp/kh/wul
 	url = .
+[submodule "hp/kv/obg"]
+	path = hp/kv/obg
+	url = .
 [submodule "hp/kz/eew"]
 	path = hp/kz/eew
 	url = .
