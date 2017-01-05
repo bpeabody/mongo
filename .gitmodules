@@ -38530,6 +38530,9 @@
 [submodule "nr/tg/nwo"]
 	path = nr/tg/nwo
 	url = .
+[submodule "nr/wg/aab"]
+	path = nr/wg/aab
+	url = .
 [submodule "nr/wl/nxs"]
 	path = nr/wl/nxs
 	url = .
