@@ -982,6 +982,9 @@
 [submodule "ct/kk/qnb"]
 	path = ct/kk/qnb
 	url = .
+[submodule "ct/ma/qjg"]
+	path = ct/ma/qjg
+	url = .
 [submodule "ct/mf/vfj"]
 	path = ct/mf/vfj
 	url = .
