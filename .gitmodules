@@ -3505,6 +3505,9 @@
 [submodule "dw/fe/qca"]
 	path = dw/fe/qca
 	url = .
+[submodule "dw/ji/amb"]
+	path = dw/ji/amb
+	url = .
 [submodule "dw/kg/def"]
 	path = dw/kg/def
 	url = .
