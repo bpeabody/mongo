@@ -4621,6 +4621,9 @@
 [submodule "xm/fy/usr"]
 	path = xm/fy/usr
 	url = .
+[submodule "xm/ly/vps"]
+	path = xm/ly/vps
+	url = .
 [submodule "xm/rd/lmc"]
 	path = xm/rd/lmc
 	url = .
