@@ -30511,6 +30511,9 @@
 [submodule "ka/pu/hfw"]
 	path = ka/pu/hfw
 	url = .
+[submodule "ka/rp/obb"]
+	path = ka/rp/obb
+	url = .
 [submodule "ka/ru/noi"]
 	path = ka/ru/noi
 	url = .
