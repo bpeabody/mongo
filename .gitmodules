@@ -27511,6 +27511,9 @@
 [submodule "vt/ce/akd"]
 	path = vt/ce/akd
 	url = .
+[submodule "vt/cg/jug"]
+	path = vt/cg/jug
+	url = .
 [submodule "vt/cr/bsj"]
 	path = vt/cr/bsj
 	url = .
