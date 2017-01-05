@@ -41860,6 +41860,9 @@
 [submodule "po/xw/ckl"]
 	path = po/xw/ckl
 	url = .
+[submodule "po/yh/dvm"]
+	path = po/yh/dvm
+	url = .
 [submodule "po/zq/crw"]
 	path = po/zq/crw
 	url = .
