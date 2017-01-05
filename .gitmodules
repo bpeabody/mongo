@@ -3643,6 +3643,9 @@
 [submodule "bs/xa/ten"]
 	path = bs/xa/ten
 	url = .
+[submodule "bs/yk/jay"]
+	path = bs/yk/jay
+	url = .
 [submodule "bs/zl/upi"]
 	path = bs/zl/upi
 	url = .
