@@ -20338,6 +20338,9 @@
 [submodule "gx/cn/ztc"]
 	path = gx/cn/ztc
 	url = .
+[submodule "gx/ed/scu"]
+	path = gx/ed/scu
+	url = .
 [submodule "gx/hi/bma"]
 	path = gx/hi/bma
 	url = .
