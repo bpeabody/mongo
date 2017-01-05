@@ -4450,6 +4450,9 @@
 [submodule "cx/dg/qgm"]
 	path = cx/dg/qgm
 	url = .
+[submodule "cx/ec/dsv"]
+	path = cx/ec/dsv
+	url = .
 [submodule "cx/gi/rsv"]
 	path = cx/gi/rsv
 	url = .
