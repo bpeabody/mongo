@@ -12049,6 +12049,9 @@
 [submodule "hw/tr/brt"]
 	path = hw/tr/brt
 	url = .
+[submodule "hw/wb/feg"]
+	path = hw/wb/feg
+	url = .
 [submodule "hw/xk/obv"]
 	path = hw/xk/obv
 	url = .
