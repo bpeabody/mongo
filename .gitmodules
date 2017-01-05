@@ -40042,6 +40042,9 @@
 [submodule "wz/ml/nyj"]
 	path = wz/ml/nyj
 	url = .
+[submodule "wz/na/vrm"]
+	path = wz/na/vrm
+	url = .
 [submodule "wz/pr/rwr"]
 	path = wz/pr/rwr
 	url = .
