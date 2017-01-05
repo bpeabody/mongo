@@ -1621,6 +1621,9 @@
 [submodule "ar/lc/ark"]
 	path = ar/lc/ark
 	url = .
+[submodule "ar/li/sti"]
+	path = ar/li/sti
+	url = .
 [submodule "ar/mf/elr"]
 	path = ar/mf/elr
 	url = .
