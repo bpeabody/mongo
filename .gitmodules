@@ -12238,6 +12238,9 @@
 [submodule "mr/du/jfb"]
 	path = mr/du/jfb
 	url = .
+[submodule "mr/ef/bqx"]
+	path = mr/ef/bqx
+	url = .
 [submodule "mr/ej/nus"]
 	path = mr/ej/nus
 	url = .
