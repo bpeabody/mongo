@@ -25093,6 +25093,9 @@
 [submodule "pn/vw/shw"]
 	path = pn/vw/shw
 	url = .
+[submodule "pn/vz/xad"]
+	path = pn/vz/xad
+	url = .
 [submodule "pn/wf/ecj"]
 	path = pn/wf/ecj
 	url = .
