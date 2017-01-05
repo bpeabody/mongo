@@ -20215,6 +20215,9 @@
 [submodule "jg/cn/qfa"]
 	path = jg/cn/qfa
 	url = .
+[submodule "jg/fg/yjq"]
+	path = jg/fg/yjq
+	url = .
 [submodule "jg/fv/wqb"]
 	path = jg/fv/wqb
 	url = .
