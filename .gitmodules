@@ -28855,6 +28855,9 @@
 [submodule "ww/ln/bpd"]
 	path = ww/ln/bpd
 	url = .
+[submodule "ww/mm/vaj"]
+	path = ww/mm/vaj
+	url = .
 [submodule "ww/mx/gwp"]
 	path = ww/mx/gwp
 	url = .
