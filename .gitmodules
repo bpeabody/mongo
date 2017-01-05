@@ -52972,6 +52972,9 @@
 [submodule "vl/be/jcm"]
 	path = vl/be/jcm
 	url = .
+[submodule "vl/bk/beg"]
+	path = vl/bk/beg
+	url = .
 [submodule "vl/bt/yyy"]
 	path = vl/bt/yyy
 	url = .
