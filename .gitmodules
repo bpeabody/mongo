@@ -34507,6 +34507,9 @@
 [submodule "os/eb/kqm"]
 	path = os/eb/kqm
 	url = .
+[submodule "os/eq/bii"]
+	path = os/eq/bii
+	url = .
 [submodule "os/gb/wuy"]
 	path = os/gb/wuy
 	url = .
