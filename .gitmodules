@@ -3757,6 +3757,9 @@
 [submodule "ni/nw/ajn"]
 	path = ni/nw/ajn
 	url = .
+[submodule "ni/vo/oof"]
+	path = ni/vo/oof
+	url = .
 [submodule "ni/wa/hib"]
 	path = ni/wa/hib
 	url = .
