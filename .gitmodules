@@ -244,6 +244,9 @@
 [submodule "ef/lf/tes"]
 	path = ef/lf/tes
 	url = .
+[submodule "eh/ur/hiv"]
+	path = eh/ur/hiv
+	url = .
 [submodule "ei/fo/lhw"]
 	path = ei/fo/lhw
 	url = .
