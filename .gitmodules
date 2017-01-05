@@ -58612,6 +58612,9 @@
 [submodule "uc/se/owm"]
 	path = uc/se/owm
 	url = .
+[submodule "uc/uq/oom"]
+	path = uc/uq/oom
+	url = .
 [submodule "uc/vt/xfc"]
 	path = uc/vt/xfc
 	url = .
