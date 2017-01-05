@@ -18433,6 +18433,9 @@
 [submodule "vf/mn/wlp"]
 	path = vf/mn/wlp
 	url = .
+[submodule "vf/nu/auj"]
+	path = vf/nu/auj
+	url = .
 [submodule "vf/ob/epk"]
 	path = vf/ob/epk
 	url = .
