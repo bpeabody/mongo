@@ -13141,6 +13141,9 @@
 [submodule "gs/md/jwx"]
 	path = gs/md/jwx
 	url = .
+[submodule "gs/nj/cgn"]
+	path = gs/nj/cgn
+	url = .
 [submodule "gs/of/lyq"]
 	path = gs/of/lyq
 	url = .
