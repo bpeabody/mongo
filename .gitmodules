@@ -9016,6 +9016,9 @@
 [submodule "ju/mi/kuv"]
 	path = ju/mi/kuv
 	url = .
+[submodule "ju/ol/uug"]
+	path = ju/ol/uug
+	url = .
 [submodule "ju/pb/pjo"]
 	path = ju/pb/pjo
 	url = .
