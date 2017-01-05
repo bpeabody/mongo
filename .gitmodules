@@ -5269,6 +5269,9 @@
 [submodule "cc/tc/khu"]
 	path = cc/tc/khu
 	url = .
+[submodule "cc/tp/yqc"]
+	path = cc/tp/yqc
+	url = .
 [submodule "cc/ts/qhh"]
 	path = cc/ts/qhh
 	url = .
