@@ -6565,6 +6565,9 @@
 [submodule "fx/lz/kyc"]
 	path = fx/lz/kyc
 	url = .
+[submodule "fx/mx/krm"]
+	path = fx/mx/krm
+	url = .
 [submodule "fx/na/vkm"]
 	path = fx/na/vkm
 	url = .
