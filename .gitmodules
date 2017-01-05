@@ -35389,6 +35389,9 @@
 [submodule "oh/qe/pry"]
 	path = oh/qe/pry
 	url = .
+[submodule "oh/qj/wpf"]
+	path = oh/qj/wpf
+	url = .
 [submodule "oh/qt/kwz"]
 	path = oh/qt/kwz
 	url = .
