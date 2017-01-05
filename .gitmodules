@@ -187,6 +187,9 @@
 [submodule "ab/vh/pgv"]
 	path = ab/vh/pgv
 	url = .
+[submodule "ab/vo/kje"]
+	path = ab/vo/kje
+	url = .
 [submodule "ab/wh/zde"]
 	path = ab/wh/zde
 	url = .
