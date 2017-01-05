@@ -7882,6 +7882,9 @@
 [submodule "fu/mz/jch"]
 	path = fu/mz/jch
 	url = .
+[submodule "fu/oi/mud"]
+	path = fu/oi/mud
+	url = .
 [submodule "fu/qk/ccv"]
 	path = fu/qk/ccv
 	url = .
