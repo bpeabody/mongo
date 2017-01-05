@@ -802,6 +802,9 @@
 [submodule "cc/mv/ptg"]
 	path = cc/mv/ptg
 	url = .
+[submodule "cc/rf/dhd"]
+	path = cc/rf/dhd
+	url = .
 [submodule "cc/zh/gsw"]
 	path = cc/zh/gsw
 	url = .
