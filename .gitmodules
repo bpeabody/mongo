@@ -20092,6 +20092,9 @@
 [submodule "sv/vq/dmh"]
 	path = sv/vq/dmh
 	url = .
+[submodule "sv/xt/bls"]
+	path = sv/xt/bls
+	url = .
 [submodule "sw/bz/guc"]
 	path = sw/bz/guc
 	url = .
