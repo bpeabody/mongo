@@ -21310,6 +21310,9 @@
 [submodule "lx/vz/mbp"]
 	path = lx/vz/mbp
 	url = .
+[submodule "lx/wq/puy"]
+	path = lx/wq/puy
+	url = .
 [submodule "lx/xy/hhz"]
 	path = lx/xy/hhz
 	url = .
