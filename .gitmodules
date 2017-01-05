@@ -2173,6 +2173,9 @@
 [submodule "tt/rj/yjf"]
 	path = tt/rj/yjf
 	url = .
+[submodule "tt/yt/uix"]
+	path = tt/yt/uix
+	url = .
 [submodule "tu/ay/tuy"]
 	path = tu/ay/tuy
 	url = .
