@@ -4801,6 +4801,9 @@
 [submodule "nn/ra/evb"]
 	path = nn/ra/evb
 	url = .
+[submodule "nn/tr/brw"]
+	path = nn/tr/brw
+	url = .
 [submodule "nn/vn/slo"]
 	path = nn/vn/slo
 	url = .
