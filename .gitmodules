@@ -15823,6 +15823,9 @@
 [submodule "fi/ls/ogz"]
 	path = fi/ls/ogz
 	url = .
+[submodule "fi/mc/klm"]
+	path = fi/mc/klm
+	url = .
 [submodule "fi/me/gkx"]
 	path = fi/me/gkx
 	url = .
