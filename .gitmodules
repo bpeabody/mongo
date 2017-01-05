@@ -1360,6 +1360,9 @@
 [submodule "qt/fl/esd"]
 	path = qt/fl/esd
 	url = .
+[submodule "qt/ha/qtt"]
+	path = qt/ha/qtt
+	url = .
 [submodule "qt/zs/prm"]
 	path = qt/zs/prm
 	url = .
