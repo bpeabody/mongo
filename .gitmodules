@@ -15829,6 +15829,9 @@
 [submodule "kc/tm/avi"]
 	path = kc/tm/avi
 	url = .
+[submodule "kc/ur/xel"]
+	path = kc/ur/xel
+	url = .
 [submodule "kc/vv/ohl"]
 	path = kc/vv/ohl
 	url = .
