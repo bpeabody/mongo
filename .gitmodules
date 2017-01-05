@@ -5563,6 +5563,9 @@
 [submodule "ko/xh/ucl"]
 	path = ko/xh/ucl
 	url = .
+[submodule "ko/xn/qnx"]
+	path = ko/xn/qnx
+	url = .
 [submodule "ko/ya/rhn"]
 	path = ko/ya/rhn
 	url = .
