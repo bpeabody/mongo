@@ -1408,6 +1408,9 @@
 [submodule "bz/ms/ila"]
 	path = bz/ms/ila
 	url = .
+[submodule "bz/tb/enc"]
+	path = bz/tb/enc
+	url = .
 [submodule "bz/tp/dgj"]
 	path = bz/tp/dgj
 	url = .
