@@ -4525,6 +4525,9 @@
 [submodule "ca/el/wxg"]
 	path = ca/el/wxg
 	url = .
+[submodule "ca/eu/rfr"]
+	path = ca/eu/rfr
+	url = .
 [submodule "ca/gg/tqc"]
 	path = ca/gg/tqc
 	url = .
