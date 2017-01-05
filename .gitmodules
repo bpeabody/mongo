@@ -2236,6 +2236,9 @@
 [submodule "dc/zx/qhn"]
 	path = dc/zx/qhn
 	url = .
+[submodule "dd/bm/mqu"]
+	path = dd/bm/mqu
+	url = .
 [submodule "dd/bq/uth"]
 	path = dd/bq/uth
 	url = .
