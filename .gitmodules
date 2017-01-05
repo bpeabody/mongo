@@ -1213,6 +1213,9 @@
 [submodule "cx/rr/dky"]
 	path = cx/rr/dky
 	url = .
+[submodule "cx/ut/mog"]
+	path = cx/ut/mog
+	url = .
 [submodule "cx/uy/gab"]
 	path = cx/uy/gab
 	url = .
