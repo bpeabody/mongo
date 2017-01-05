@@ -8725,6 +8725,9 @@
 [submodule "gu/xt/kjj"]
 	path = gu/xt/kjj
 	url = .
+[submodule "gu/ze/kca"]
+	path = gu/ze/kca
+	url = .
 [submodule "gu/zj/mep"]
 	path = gu/zj/mep
 	url = .
