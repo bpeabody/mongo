@@ -19807,6 +19807,9 @@
 [submodule "ry/dt/gck"]
 	path = ry/dt/gck
 	url = .
+[submodule "ry/ez/oxc"]
+	path = ry/ez/oxc
+	url = .
 [submodule "ry/gm/kun"]
 	path = ry/gm/kun
 	url = .
