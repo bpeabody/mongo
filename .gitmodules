@@ -2176,6 +2176,9 @@
 [submodule "bq/xi/fte"]
 	path = bq/xi/fte
 	url = .
+[submodule "bq/xn/doh"]
+	path = bq/xn/doh
+	url = .
 [submodule "bq/zh/tom"]
 	path = bq/zh/tom
 	url = .
