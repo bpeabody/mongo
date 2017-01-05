@@ -571,6 +571,9 @@
 [submodule "ec/vp/kwm"]
 	path = ec/vp/kwm
 	url = .
+[submodule "ec/zb/kln"]
+	path = ec/zb/kln
+	url = .
 [submodule "ed/pb/pyq"]
 	path = ed/pb/pyq
 	url = .
