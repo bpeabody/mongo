@@ -889,6 +889,9 @@
 [submodule "jo/ic/xtu"]
 	path = jo/ic/xtu
 	url = .
+[submodule "jo/vp/sni"]
+	path = jo/vp/sni
+	url = .
 [submodule "jp/mk/tqt"]
 	path = jp/mk/tqt
 	url = .
