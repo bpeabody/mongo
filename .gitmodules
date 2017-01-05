@@ -39106,6 +39106,9 @@
 [submodule "ud/oc/lzu"]
 	path = ud/oc/lzu
 	url = .
+[submodule "ud/pv/wqy"]
+	path = ud/pv/wqy
+	url = .
 [submodule "ud/qh/nin"]
 	path = ud/qh/nin
 	url = .
