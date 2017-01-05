@@ -3220,6 +3220,9 @@
 [submodule "by/sf/hgm"]
 	path = by/sf/hgm
 	url = .
+[submodule "by/wo/dbk"]
+	path = by/wo/dbk
+	url = .
 [submodule "by/xd/ebg"]
 	path = by/xd/ebg
 	url = .
