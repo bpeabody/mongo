@@ -1093,6 +1093,9 @@
 [submodule "qs/in/sgf"]
 	path = qs/in/sgf
 	url = .
+[submodule "qs/yw/pez"]
+	path = qs/yw/pez
+	url = .
 [submodule "qt/fl/esd"]
 	path = qt/fl/esd
 	url = .
