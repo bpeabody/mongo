@@ -21541,6 +21541,9 @@
 [submodule "hn/rw/hhj"]
 	path = hn/rw/hhj
 	url = .
+[submodule "hn/ug/moa"]
+	path = hn/ug/moa
+	url = .
 [submodule "hn/ut/eml"]
 	path = hn/ut/eml
 	url = .
