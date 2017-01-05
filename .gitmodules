@@ -13753,6 +13753,9 @@
 [submodule "hj/px/egr"]
 	path = hj/px/egr
 	url = .
+[submodule "hj/rc/kaz"]
+	path = hj/rc/kaz
+	url = .
 [submodule "hj/sc/pvj"]
 	path = hj/sc/pvj
 	url = .
