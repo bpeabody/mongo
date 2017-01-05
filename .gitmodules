@@ -8227,6 +8227,9 @@
 [submodule "jh/xm/pnd"]
 	path = jh/xm/pnd
 	url = .
+[submodule "jh/yq/xld"]
+	path = jh/yq/xld
+	url = .
 [submodule "ji/ak/hsl"]
 	path = ji/ak/hsl
 	url = .
