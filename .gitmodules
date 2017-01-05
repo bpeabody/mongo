@@ -385,6 +385,9 @@
 [submodule "dl/pt/yqs"]
 	path = dl/pt/yqs
 	url = .
+[submodule "dm/bl/qpn"]
+	path = dm/bl/qpn
+	url = .
 [submodule "dm/lr/dnv"]
 	path = dm/lr/dnv
 	url = .
