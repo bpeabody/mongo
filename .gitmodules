@@ -39382,6 +39382,9 @@
 [submodule "qs/ch/coe"]
 	path = qs/ch/coe
 	url = .
+[submodule "qs/ck/ghz"]
+	path = qs/ck/ghz
+	url = .
 [submodule "qs/ck/usm"]
 	path = qs/ck/usm
 	url = .
