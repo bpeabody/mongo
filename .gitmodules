@@ -9826,6 +9826,9 @@
 [submodule "ip/ck/fck"]
 	path = ip/ck/fck
 	url = .
+[submodule "ip/co/cpb"]
+	path = ip/co/cpb
+	url = .
 [submodule "ip/eo/ldc"]
 	path = ip/eo/ldc
 	url = .
