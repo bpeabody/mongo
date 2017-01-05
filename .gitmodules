@@ -39670,6 +39670,9 @@
 [submodule "sd/yt/ina"]
 	path = sd/yt/ina
 	url = .
+[submodule "sd/yu/ljq"]
+	path = sd/yu/ljq
+	url = .
 [submodule "sd/zz/cas"]
 	path = sd/zz/cas
 	url = .
