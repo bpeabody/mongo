@@ -11140,6 +11140,9 @@
 [submodule "fx/ow/nnf"]
 	path = fx/ow/nnf
 	url = .
+[submodule "fx/rd/xny"]
+	path = fx/rd/xny
+	url = .
 [submodule "fx/rk/mhw"]
 	path = fx/rk/mhw
 	url = .
