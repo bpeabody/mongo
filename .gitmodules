@@ -5683,6 +5683,9 @@
 [submodule "mg/kz/lln"]
 	path = mg/kz/lln
 	url = .
+[submodule "mg/vm/mej"]
+	path = mg/vm/mej
+	url = .
 [submodule "mh/fx/vrg"]
 	path = mh/fx/vrg
 	url = .
