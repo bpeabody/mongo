@@ -29014,6 +29014,9 @@
 [submodule "ng/pp/xte"]
 	path = ng/pp/xte
 	url = .
+[submodule "ng/sl/ppy"]
+	path = ng/sl/ppy
+	url = .
 [submodule "ng/sn/ass"]
 	path = ng/sn/ass
 	url = .
