@@ -19339,6 +19339,9 @@
 [submodule "sc/yb/pje"]
 	path = sc/yb/pje
 	url = .
+[submodule "sd/bf/pof"]
+	path = sd/bf/pof
+	url = .
 [submodule "sd/cp/hmm"]
 	path = sd/cp/hmm
 	url = .
