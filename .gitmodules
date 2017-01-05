@@ -40,6 +40,9 @@
 [submodule "ac/ld/kss"]
 	path = ac/ld/kss
 	url = .
+[submodule "ac/mj/bfb"]
+	path = ac/mj/bfb
+	url = .
 [submodule "ac/mt/loe"]
 	path = ac/mt/loe
 	url = .
