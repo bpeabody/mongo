@@ -11614,6 +11614,9 @@
 [submodule "uh/oc/wfm"]
 	path = uh/oc/wfm
 	url = .
+[submodule "uh/wz/ipe"]
+	path = uh/wz/ipe
+	url = .
 [submodule "ui/hj/rli"]
 	path = ui/hj/rli
 	url = .
