@@ -964,6 +964,9 @@
 [submodule "am/sr/jka"]
 	path = am/sr/jka
 	url = .
+[submodule "am/tj/srm"]
+	path = am/tj/srm
+	url = .
 [submodule "am/tk/bxu"]
 	path = am/tk/bxu
 	url = .
