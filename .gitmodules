@@ -9217,6 +9217,9 @@
 [submodule "kr/zz/pan"]
 	path = kr/zz/pan
 	url = .
+[submodule "ks/aa/chd"]
+	path = ks/aa/chd
+	url = .
 [submodule "ks/cs/sdh"]
 	path = ks/cs/sdh
 	url = .
