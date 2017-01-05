@@ -24115,6 +24115,9 @@
 [submodule "jm/ij/sfa"]
 	path = jm/ij/sfa
 	url = .
+[submodule "jm/kt/gbq"]
+	path = jm/kt/gbq
+	url = .
 [submodule "jm/lh/vmr"]
 	path = jm/lh/vmr
 	url = .
