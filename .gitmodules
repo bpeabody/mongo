@@ -21313,6 +21313,9 @@
 [submodule "qb/ng/ozy"]
 	path = qb/ng/ozy
 	url = .
+[submodule "qb/nk/yfe"]
+	path = qb/nk/yfe
+	url = .
 [submodule "qb/qi/fke"]
 	path = qb/qi/fke
 	url = .
