@@ -6280,6 +6280,9 @@
 [submodule "fd/ht/qqn"]
 	path = fd/ht/qqn
 	url = .
+[submodule "fd/id/cjm"]
+	path = fd/id/cjm
+	url = .
 [submodule "fd/id/nlv"]
 	path = fd/id/nlv
 	url = .
