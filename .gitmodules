@@ -24973,6 +24973,9 @@
 [submodule "sp/dp/skd"]
 	path = sp/dp/skd
 	url = .
+[submodule "sp/dy/jfo"]
+	path = sp/dy/jfo
+	url = .
 [submodule "sp/ef/vsa"]
 	path = sp/ef/vsa
 	url = .
