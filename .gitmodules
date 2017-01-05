@@ -23791,6 +23791,9 @@
 [submodule "mt/ub/jxk"]
 	path = mt/ub/jxk
 	url = .
+[submodule "mt/uq/ypc"]
+	path = mt/uq/ypc
+	url = .
 [submodule "mt/wp/aea"]
 	path = mt/wp/aea
 	url = .
