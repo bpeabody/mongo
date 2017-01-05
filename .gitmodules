@@ -19771,6 +19771,9 @@
 [submodule "gn/bm/bgp"]
 	path = gn/bm/bgp
 	url = .
+[submodule "gn/ci/eec"]
+	path = gn/ci/eec
+	url = .
 [submodule "gn/ds/tkv"]
 	path = gn/ds/tkv
 	url = .
