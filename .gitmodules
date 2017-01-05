@@ -5164,6 +5164,9 @@
 [submodule "mp/hh/qcs"]
 	path = mp/hh/qcs
 	url = .
+[submodule "mp/iq/dof"]
+	path = mp/iq/dof
+	url = .
 [submodule "mp/ke/xfm"]
 	path = mp/ke/xfm
 	url = .
