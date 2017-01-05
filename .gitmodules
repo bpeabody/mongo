@@ -4765,6 +4765,9 @@
 [submodule "nn/pm/fip"]
 	path = nn/pm/fip
 	url = .
+[submodule "nn/ra/evb"]
+	path = nn/ra/evb
+	url = .
 [submodule "nn/vn/slo"]
 	path = nn/vn/slo
 	url = .
