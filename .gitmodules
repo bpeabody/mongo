@@ -21640,6 +21640,9 @@
 [submodule "hn/hi/obk"]
 	path = hn/hi/obk
 	url = .
+[submodule "hn/hw/fdy"]
+	path = hn/hw/fdy
+	url = .
 [submodule "hn/id/hyj"]
 	path = hn/id/hyj
 	url = .
