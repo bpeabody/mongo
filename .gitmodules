@@ -27574,6 +27574,9 @@
 [submodule "xf/wr/nvs"]
 	path = xf/wr/nvs
 	url = .
+[submodule "xf/xw/hlq"]
+	path = xf/xw/hlq
+	url = .
 [submodule "xg/bm/svd"]
 	path = xg/bm/svd
 	url = .
