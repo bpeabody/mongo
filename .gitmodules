@@ -28861,6 +28861,9 @@
 [submodule "up/cc/pds"]
 	path = up/cc/pds
 	url = .
+[submodule "up/du/hze"]
+	path = up/du/hze
+	url = .
 [submodule "up/fw/xud"]
 	path = up/fw/xud
 	url = .
