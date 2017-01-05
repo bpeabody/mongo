@@ -8317,6 +8317,9 @@
 [submodule "rk/jk/eoi"]
 	path = rk/jk/eoi
 	url = .
+[submodule "rk/qg/hzj"]
+	path = rk/qg/hzj
+	url = .
 [submodule "rk/sm/uba"]
 	path = rk/sm/uba
 	url = .
