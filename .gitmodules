@@ -9499,6 +9499,9 @@
 [submodule "fw/kk/brd"]
 	path = fw/kk/brd
 	url = .
+[submodule "fw/kq/vio"]
+	path = fw/kq/vio
+	url = .
 [submodule "fw/le/shw"]
 	path = fw/le/shw
 	url = .
