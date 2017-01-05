@@ -73033,6 +73033,9 @@
 [submodule "ye/eb/naz"]
 	path = ye/eb/naz
 	url = .
+[submodule "ye/ev/jlc"]
+	path = ye/ev/jlc
+	url = .
 [submodule "ye/gw/jhj"]
 	path = ye/gw/jhj
 	url = .
