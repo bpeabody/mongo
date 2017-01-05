@@ -8209,6 +8209,9 @@
 [submodule "ex/ly/nbm"]
 	path = ex/ly/nbm
 	url = .
+[submodule "ex/nd/nwj"]
+	path = ex/nd/nwj
+	url = .
 [submodule "ex/oa/gjo"]
 	path = ex/oa/gjo
 	url = .
