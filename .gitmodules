@@ -9115,6 +9115,9 @@
 [submodule "si/ek/tbg"]
 	path = si/ek/tbg
 	url = .
+[submodule "si/kg/qfq"]
+	path = si/kg/qfq
+	url = .
 [submodule "si/mk/lcx"]
 	path = si/mk/lcx
 	url = .
