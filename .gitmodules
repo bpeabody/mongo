@@ -43168,6 +43168,9 @@
 [submodule "yo/me/gin"]
 	path = yo/me/gin
 	url = .
+[submodule "yo/nk/bot"]
+	path = yo/nk/bot
+	url = .
 [submodule "yo/oh/wqc"]
 	path = yo/oh/wqc
 	url = .
