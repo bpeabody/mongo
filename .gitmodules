@@ -9958,6 +9958,9 @@
 [submodule "vg/ih/jvi"]
 	path = vg/ih/jvi
 	url = .
+[submodule "vg/sb/jci"]
+	path = vg/sb/jci
+	url = .
 [submodule "vg/sd/vns"]
 	path = vg/sd/vns
 	url = .
