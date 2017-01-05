@@ -1654,6 +1654,9 @@
 [submodule "dd/om/abl"]
 	path = dd/om/abl
 	url = .
+[submodule "dd/uk/vfl"]
+	path = dd/uk/vfl
+	url = .
 [submodule "dd/uo/skc"]
 	path = dd/uo/skc
 	url = .
