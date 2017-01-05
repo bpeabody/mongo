@@ -25414,6 +25414,9 @@
 [submodule "ku/wk/xju"]
 	path = ku/wk/xju
 	url = .
+[submodule "ku/xd/bua"]
+	path = ku/xd/bua
+	url = .
 [submodule "ku/xg/fby"]
 	path = ku/xg/fby
 	url = .
