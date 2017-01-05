@@ -2668,6 +2668,9 @@
 [submodule "eq/xk/wdn"]
 	path = eq/xk/wdn
 	url = .
+[submodule "er/av/ipe"]
+	path = er/av/ipe
+	url = .
 [submodule "er/bt/erq"]
 	path = er/bt/erq
 	url = .
