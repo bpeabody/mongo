@@ -934,6 +934,9 @@
 [submodule "ds/yc/sla"]
 	path = ds/yc/sla
 	url = .
+[submodule "dt/mn/kgd"]
+	path = dt/mn/kgd
+	url = .
 [submodule "dt/yp/igf"]
 	path = dt/yp/igf
 	url = .
