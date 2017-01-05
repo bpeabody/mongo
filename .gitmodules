@@ -8044,6 +8044,9 @@
 [submodule "si/ek/tbg"]
 	path = si/ek/tbg
 	url = .
+[submodule "sj/wj/nyy"]
+	path = sj/wj/nyy
+	url = .
 [submodule "sj/yu/yyi"]
 	path = sj/yu/yyi
 	url = .
