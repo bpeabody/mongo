@@ -898,6 +898,9 @@
 [submodule "db/aw/yos"]
 	path = db/aw/yos
 	url = .
+[submodule "db/hf/hrz"]
+	path = db/hf/hrz
+	url = .
 [submodule "db/kf/eke"]
 	path = db/kf/eke
 	url = .
