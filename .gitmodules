@@ -18919,6 +18919,9 @@
 [submodule "gm/va/mwu"]
 	path = gm/va/mwu
 	url = .
+[submodule "gm/ve/ffi"]
+	path = gm/ve/ffi
+	url = .
 [submodule "gm/xb/baq"]
 	path = gm/xb/baq
 	url = .
