@@ -19777,6 +19777,9 @@
 [submodule "ic/bm/lcn"]
 	path = ic/bm/lcn
 	url = .
+[submodule "ic/eg/rhy"]
+	path = ic/eg/rhy
+	url = .
 [submodule "ic/gx/rsg"]
 	path = ic/gx/rsg
 	url = .
