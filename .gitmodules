@@ -124,6 +124,9 @@
 [submodule "do/rw/xag"]
 	path = do/rw/xag
 	url = .
+[submodule "dr/ad/bei"]
+	path = dr/ad/bei
+	url = .
 [submodule "du/yv/gvz"]
 	path = du/yv/gvz
 	url = .
