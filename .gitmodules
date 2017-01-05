@@ -5119,6 +5119,9 @@
 [submodule "ev/dp/xfi"]
 	path = ev/dp/xfi
 	url = .
+[submodule "ev/fg/ccc"]
+	path = ev/fg/ccc
+	url = .
 [submodule "ev/fn/yrj"]
 	path = ev/fn/yrj
 	url = .
