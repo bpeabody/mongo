@@ -3970,6 +3970,9 @@
 [submodule "cc/pj/myy"]
 	path = cc/pj/myy
 	url = .
+[submodule "cc/qn/ceu"]
+	path = cc/qn/ceu
+	url = .
 [submodule "cc/rf/dhd"]
 	path = cc/rf/dhd
 	url = .
