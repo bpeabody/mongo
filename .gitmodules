@@ -1702,6 +1702,9 @@
 [submodule "fs/lr/yer"]
 	path = fs/lr/yer
 	url = .
+[submodule "fs/vh/xqg"]
+	path = fs/vh/xqg
+	url = .
 [submodule "ft/az/mqt"]
 	path = ft/az/mqt
 	url = .
