@@ -4873,6 +4873,9 @@
 [submodule "jb/jw/pyz"]
 	path = jb/jw/pyz
 	url = .
+[submodule "jb/sq/ibi"]
+	path = jb/sq/ibi
+	url = .
 [submodule "jb/wy/csi"]
 	path = jb/wy/csi
 	url = .
