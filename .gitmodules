@@ -5692,6 +5692,9 @@
 [submodule "dp/se/teo"]
 	path = dp/se/teo
 	url = .
+[submodule "dp/tg/koi"]
+	path = dp/tg/koi
+	url = .
 [submodule "dp/uu/wnz"]
 	path = dp/uu/wnz
 	url = .
