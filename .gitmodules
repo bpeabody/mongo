@@ -12178,6 +12178,9 @@
 [submodule "ed/lk/rlo"]
 	path = ed/lk/rlo
 	url = .
+[submodule "ed/lk/zxu"]
+	path = ed/lk/zxu
+	url = .
 [submodule "ed/ll/hqu"]
 	path = ed/ll/hqu
 	url = .
