@@ -4333,6 +4333,9 @@
 [submodule "et/gx/xjh"]
 	path = et/gx/xjh
 	url = .
+[submodule "et/la/shi"]
+	path = et/la/shi
+	url = .
 [submodule "et/mo/pfa"]
 	path = et/mo/pfa
 	url = .
