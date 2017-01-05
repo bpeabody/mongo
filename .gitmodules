@@ -6625,6 +6625,9 @@
 [submodule "do/hm/ccy"]
 	path = do/hm/ccy
 	url = .
+[submodule "do/hq/fsu"]
+	path = do/hq/fsu
+	url = .
 [submodule "do/jt/xoc"]
 	path = do/jt/xoc
 	url = .
