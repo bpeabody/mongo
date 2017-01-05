@@ -27385,6 +27385,9 @@
 [submodule "ul/st/ulm"]
 	path = ul/st/ulm
 	url = .
+[submodule "ul/sv/rjs"]
+	path = ul/sv/rjs
+	url = .
 [submodule "ul/uu/uzk"]
 	path = ul/uu/uzk
 	url = .
