@@ -34777,6 +34777,9 @@
 [submodule "nw/vb/kyh"]
 	path = nw/vb/kyh
 	url = .
+[submodule "nw/vb/pma"]
+	path = nw/vb/pma
+	url = .
 [submodule "nw/vq/udv"]
 	path = nw/vq/udv
 	url = .
