@@ -4639,6 +4639,9 @@
 [submodule "cy/jl/wme"]
 	path = cy/jl/wme
 	url = .
+[submodule "cy/kp/vdu"]
+	path = cy/kp/vdu
+	url = .
 [submodule "cy/li/rcg"]
 	path = cy/li/rcg
 	url = .
