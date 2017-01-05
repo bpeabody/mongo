@@ -13765,6 +13765,9 @@
 [submodule "hp/iz/ygs"]
 	path = hp/iz/ygs
 	url = .
+[submodule "hp/jt/szj"]
+	path = hp/jt/szj
+	url = .
 [submodule "hp/kh/wul"]
 	path = hp/kh/wul
 	url = .
