@@ -27574,6 +27574,9 @@
 [submodule "lc/nk/wre"]
 	path = lc/nk/wre
 	url = .
+[submodule "lc/qp/uvp"]
+	path = lc/qp/uvp
+	url = .
 [submodule "lc/rh/gbx"]
 	path = lc/rh/gbx
 	url = .
