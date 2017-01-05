@@ -17269,6 +17269,9 @@
 [submodule "ky/sj/nop"]
 	path = ky/sj/nop
 	url = .
+[submodule "ky/ut/vox"]
+	path = ky/ut/vox
+	url = .
 [submodule "ky/uu/ejl"]
 	path = ky/uu/ejl
 	url = .
