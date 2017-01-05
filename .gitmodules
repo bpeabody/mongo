@@ -19315,6 +19315,9 @@
 [submodule "qa/xz/hzx"]
 	path = qa/xz/hzx
 	url = .
+[submodule "qa/yn/ekg"]
+	path = qa/yn/ekg
+	url = .
 [submodule "qb/cv/avo"]
 	path = qb/cv/avo
 	url = .
