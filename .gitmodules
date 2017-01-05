@@ -16375,6 +16375,9 @@
 [submodule "px/ls/oot"]
 	path = px/ls/oot
 	url = .
+[submodule "px/qt/eyq"]
+	path = px/qt/eyq
+	url = .
 [submodule "px/vf/pve"]
 	path = px/vf/pve
 	url = .
