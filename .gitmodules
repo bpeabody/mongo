@@ -4972,6 +4972,9 @@
 [submodule "bq/tn/mqs"]
 	path = bq/tn/mqs
 	url = .
+[submodule "bq/uc/taz"]
+	path = bq/uc/taz
+	url = .
 [submodule "bq/un/rpi"]
 	path = bq/un/rpi
 	url = .
