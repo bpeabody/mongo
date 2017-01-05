@@ -9169,6 +9169,9 @@
 [submodule "fr/rs/ygf"]
 	path = fr/rs/ygf
 	url = .
+[submodule "fr/sd/wly"]
+	path = fr/sd/wly
+	url = .
 [submodule "fr/wm/acz"]
 	path = fr/wm/acz
 	url = .
