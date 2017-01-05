@@ -15364,6 +15364,9 @@
 [submodule "ri/us/qdo"]
 	path = ri/us/qdo
 	url = .
+[submodule "ri/vg/bgf"]
+	path = ri/vg/bgf
+	url = .
 [submodule "ri/xz/bmm"]
 	path = ri/xz/bmm
 	url = .
