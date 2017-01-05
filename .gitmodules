@@ -3592,6 +3592,9 @@
 [submodule "mo/xd/mbc"]
 	path = mo/xd/mbc
 	url = .
+[submodule "mp/fx/tus"]
+	path = mp/fx/tus
+	url = .
 [submodule "mp/hh/qcs"]
 	path = mp/hh/qcs
 	url = .
