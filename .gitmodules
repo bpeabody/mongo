@@ -379,6 +379,9 @@
 [submodule "af/mz/irv"]
 	path = af/mz/irv
 	url = .
+[submodule "af/nl/wgi"]
+	path = af/nl/wgi
+	url = .
 [submodule "af/pu/ipu"]
 	path = af/pu/ipu
 	url = .
