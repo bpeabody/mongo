@@ -16081,6 +16081,9 @@
 [submodule "mg/ld/uzl"]
 	path = mg/ld/uzl
 	url = .
+[submodule "mg/mr/ekn"]
+	path = mg/mr/ekn
+	url = .
 [submodule "mg/nk/ate"]
 	path = mg/nk/ate
 	url = .
