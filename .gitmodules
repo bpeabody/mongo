@@ -3424,6 +3424,9 @@
 [submodule "kx/ft/lef"]
 	path = kx/ft/lef
 	url = .
+[submodule "kx/gz/wyr"]
+	path = kx/gz/wyr
+	url = .
 [submodule "kx/lc/ntc"]
 	path = kx/lc/ntc
 	url = .
