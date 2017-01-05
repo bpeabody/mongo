@@ -1318,6 +1318,9 @@
 [submodule "tg/ky/bbk"]
 	path = tg/ky/bbk
 	url = .
+[submodule "th/dh/yuf"]
+	path = th/dh/yuf
+	url = .
 [submodule "ti/ta/tcc"]
 	path = ti/ta/tcc
 	url = .
