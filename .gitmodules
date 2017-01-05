@@ -523,6 +523,9 @@
 [submodule "au/cv/tai"]
 	path = au/cv/tai
 	url = .
+[submodule "au/dm/gfo"]
+	path = au/dm/gfo
+	url = .
 [submodule "au/hq/wjj"]
 	path = au/hq/wjj
 	url = .
