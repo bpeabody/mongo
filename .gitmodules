@@ -2827,6 +2827,9 @@
 [submodule "bg/mn/nlf"]
 	path = bg/mn/nlf
 	url = .
+[submodule "bg/np/nze"]
+	path = bg/np/nze
+	url = .
 [submodule "bg/ob/qte"]
 	path = bg/ob/qte
 	url = .
