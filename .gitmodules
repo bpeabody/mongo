@@ -31825,6 +31825,9 @@
 [submodule "uu/md/avy"]
 	path = uu/md/avy
 	url = .
+[submodule "uu/mp/aps"]
+	path = uu/mp/aps
+	url = .
 [submodule "uu/pi/nxi"]
 	path = uu/pi/nxi
 	url = .
