@@ -7039,6 +7039,9 @@
 [submodule "nt/xe/rix"]
 	path = nt/xe/rix
 	url = .
+[submodule "nt/xm/zvb"]
+	path = nt/xm/zvb
+	url = .
 [submodule "nu/az/bkl"]
 	path = nu/az/bkl
 	url = .
