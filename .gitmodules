@@ -10099,6 +10099,9 @@
 [submodule "ig/ga/bvp"]
 	path = ig/ga/bvp
 	url = .
+[submodule "ig/gd/afw"]
+	path = ig/gd/afw
+	url = .
 [submodule "ig/jw/lxt"]
 	path = ig/jw/lxt
 	url = .
