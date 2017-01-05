@@ -17371,6 +17371,9 @@
 [submodule "sh/xf/ixx"]
 	path = sh/xf/ixx
 	url = .
+[submodule "sh/xq/xys"]
+	path = sh/xq/xys
+	url = .
 [submodule "sh/zc/ttj"]
 	path = sh/zc/ttj
 	url = .
