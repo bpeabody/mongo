@@ -16984,6 +16984,9 @@
 [submodule "hr/qb/hmp"]
 	path = hr/qb/hmp
 	url = .
+[submodule "hr/re/vdq"]
+	path = hr/re/vdq
+	url = .
 [submodule "hr/uw/ijl"]
 	path = hr/uw/ijl
 	url = .
