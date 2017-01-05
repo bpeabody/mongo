@@ -23218,6 +23218,9 @@
 [submodule "lh/ho/jns"]
 	path = lh/ho/jns
 	url = .
+[submodule "lh/hu/ide"]
+	path = lh/hu/ide
+	url = .
 [submodule "lh/ik/qbs"]
 	path = lh/ik/qbs
 	url = .
