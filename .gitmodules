@@ -25441,6 +25441,9 @@
 [submodule "mr/dk/vnp"]
 	path = mr/dk/vnp
 	url = .
+[submodule "mr/dl/yht"]
+	path = mr/dl/yht
+	url = .
 [submodule "mr/du/jfb"]
 	path = mr/du/jfb
 	url = .
