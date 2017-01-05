@@ -40594,6 +40594,9 @@
 [submodule "pk/pa/eou"]
 	path = pk/pa/eou
 	url = .
+[submodule "pk/pd/cvo"]
+	path = pk/pd/cvo
+	url = .
 [submodule "pk/pt/hum"]
 	path = pk/pt/hum
 	url = .
