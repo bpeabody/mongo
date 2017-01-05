@@ -33967,6 +33967,9 @@
 [submodule "rq/gf/oyy"]
 	path = rq/gf/oyy
 	url = .
+[submodule "rq/gi/fhn"]
+	path = rq/gi/fhn
+	url = .
 [submodule "rq/he/uhf"]
 	path = rq/he/uhf
 	url = .
