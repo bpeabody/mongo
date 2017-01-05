@@ -10531,6 +10531,9 @@
 [submodule "gf/so/mfn"]
 	path = gf/so/mfn
 	url = .
+[submodule "gf/sr/snr"]
+	path = gf/sr/snr
+	url = .
 [submodule "gf/tf/whs"]
 	path = gf/tf/whs
 	url = .
