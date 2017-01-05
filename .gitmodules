@@ -39511,6 +39511,9 @@
 [submodule "py/qa/tbk"]
 	path = py/qa/tbk
 	url = .
+[submodule "py/qd/qjl"]
+	path = py/qd/qjl
+	url = .
 [submodule "py/qr/uep"]
 	path = py/qr/uep
 	url = .
