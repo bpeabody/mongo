@@ -10192,6 +10192,9 @@
 [submodule "yo/lz/ttw"]
 	path = yo/lz/ttw
 	url = .
+[submodule "yo/op/ayy"]
+	path = yo/op/ayy
+	url = .
 [submodule "yo/xi/zsh"]
 	path = yo/xi/zsh
 	url = .
