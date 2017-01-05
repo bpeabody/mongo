@@ -7837,6 +7837,9 @@
 [submodule "fu/cu/mrp"]
 	path = fu/cu/mrp
 	url = .
+[submodule "fu/dd/gtm"]
+	path = fu/dd/gtm
+	url = .
 [submodule "fu/dm/nlg"]
 	path = fu/dm/nlg
 	url = .
