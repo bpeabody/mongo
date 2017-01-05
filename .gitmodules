@@ -2836,6 +2836,9 @@
 [submodule "ek/hu/cad"]
 	path = ek/hu/cad
 	url = .
+[submodule "ek/kl/yyx"]
+	path = ek/kl/yyx
+	url = .
 [submodule "ek/rz/yub"]
 	path = ek/rz/yub
 	url = .
