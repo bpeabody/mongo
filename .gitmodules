@@ -805,6 +805,9 @@
 [submodule "aw/ey/psz"]
 	path = aw/ey/psz
 	url = .
+[submodule "aw/gi/osv"]
+	path = aw/gi/osv
+	url = .
 [submodule "aw/hc/eac"]
 	path = aw/hc/eac
 	url = .
