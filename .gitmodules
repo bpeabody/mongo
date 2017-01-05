@@ -8449,6 +8449,9 @@
 [submodule "ok/uv/dnu"]
 	path = ok/uv/dnu
 	url = .
+[submodule "ok/vu/fnz"]
+	path = ok/vu/fnz
+	url = .
 [submodule "ol/ab/fqj"]
 	path = ol/ab/fqj
 	url = .
