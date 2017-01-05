@@ -2488,6 +2488,9 @@
 [submodule "mz/hc/hav"]
 	path = mz/hc/hav
 	url = .
+[submodule "mz/iy/hkz"]
+	path = mz/iy/hkz
+	url = .
 [submodule "mz/lh/pzc"]
 	path = mz/lh/pzc
 	url = .
