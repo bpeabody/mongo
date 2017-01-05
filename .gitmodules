@@ -28981,6 +28981,9 @@
 [submodule "tu/ld/wex"]
 	path = tu/ld/wex
 	url = .
+[submodule "tu/mb/jbz"]
+	path = tu/mb/jbz
+	url = .
 [submodule "tu/or/cfi"]
 	path = tu/or/cfi
 	url = .
