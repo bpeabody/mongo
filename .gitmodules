@@ -706,6 +706,9 @@
 [submodule "ag/mu/cvl"]
 	path = ag/mu/cvl
 	url = .
+[submodule "ag/or/lbx"]
+	path = ag/or/lbx
+	url = .
 [submodule "ag/pg/dwq"]
 	path = ag/pg/dwq
 	url = .
