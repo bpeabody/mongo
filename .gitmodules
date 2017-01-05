@@ -6064,6 +6064,9 @@
 [submodule "sn/un/ieq"]
 	path = sn/un/ieq
 	url = .
+[submodule "sn/vd/jwk"]
+	path = sn/vd/jwk
+	url = .
 [submodule "so/bw/ayw"]
 	path = so/bw/ayw
 	url = .
