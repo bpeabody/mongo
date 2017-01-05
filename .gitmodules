@@ -11344,6 +11344,9 @@
 [submodule "ib/xw/yrd"]
 	path = ib/xw/yrd
 	url = .
+[submodule "ic/ab/bmo"]
+	path = ic/ab/bmo
+	url = .
 [submodule "ic/ac/jrs"]
 	path = ic/ac/jrs
 	url = .
