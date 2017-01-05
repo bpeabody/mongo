@@ -796,6 +796,9 @@
 [submodule "bw/qr/fck"]
 	path = bw/qr/fck
 	url = .
+[submodule "bw/rs/qds"]
+	path = bw/rs/qds
+	url = .
 [submodule "bw/wk/zyf"]
 	path = bw/wk/zyf
 	url = .
