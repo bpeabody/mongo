@@ -33574,6 +33574,9 @@
 [submodule "lf/ym/bby"]
 	path = lf/ym/bby
 	url = .
+[submodule "lf/yn/gth"]
+	path = lf/yn/gth
+	url = .
 [submodule "lf/zf/zdy"]
 	path = lf/zf/zdy
 	url = .
