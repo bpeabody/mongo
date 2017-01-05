@@ -2110,6 +2110,9 @@
 [submodule "mw/dp/miu"]
 	path = mw/dp/miu
 	url = .
+[submodule "mw/ie/tqn"]
+	path = mw/ie/tqn
+	url = .
 [submodule "mw/nl/hft"]
 	path = mw/nl/hft
 	url = .
