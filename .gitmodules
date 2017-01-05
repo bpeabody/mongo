@@ -5827,6 +5827,9 @@
 [submodule "dg/je/noh"]
 	path = dg/je/noh
 	url = .
+[submodule "dg/nj/elh"]
+	path = dg/nj/elh
+	url = .
 [submodule "dg/ob/fle"]
 	path = dg/ob/fle
 	url = .
