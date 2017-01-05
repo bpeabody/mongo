@@ -3196,6 +3196,9 @@
 [submodule "ej/lb/pmk"]
 	path = ej/lb/pmk
 	url = .
+[submodule "ej/ln/zgt"]
+	path = ej/ln/zgt
+	url = .
 [submodule "ej/lz/tfw"]
 	path = ej/lz/tfw
 	url = .
