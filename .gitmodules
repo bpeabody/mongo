@@ -23968,6 +23968,9 @@
 [submodule "ii/li/sdx"]
 	path = ii/li/sdx
 	url = .
+[submodule "ii/lz/skp"]
+	path = ii/lz/skp
+	url = .
 [submodule "ii/me/gam"]
 	path = ii/me/gam
 	url = .
