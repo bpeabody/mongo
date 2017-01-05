@@ -11638,6 +11638,9 @@
 [submodule "sp/fw/hys"]
 	path = sp/fw/hys
 	url = .
+[submodule "sp/ir/mmz"]
+	path = sp/ir/mmz
+	url = .
 [submodule "sp/lc/ngv"]
 	path = sp/lc/ngv
 	url = .
