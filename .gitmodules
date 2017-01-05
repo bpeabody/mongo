@@ -32815,6 +32815,9 @@
 [submodule "ot/ge/pvm"]
 	path = ot/ge/pvm
 	url = .
+[submodule "ot/ht/xhd"]
+	path = ot/ht/xhd
+	url = .
 [submodule "ot/hw/owu"]
 	path = ot/hw/owu
 	url = .
