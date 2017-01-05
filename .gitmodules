@@ -52057,6 +52057,9 @@
 [submodule "uo/ud/ezi"]
 	path = uo/ud/ezi
 	url = .
+[submodule "uo/wy/lro"]
+	path = uo/wy/lro
+	url = .
 [submodule "uo/yv/rso"]
 	path = uo/yv/rso
 	url = .
