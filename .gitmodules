@@ -1048,6 +1048,9 @@
 [submodule "cl/ld/usb"]
 	path = cl/ld/usb
 	url = .
+[submodule "cl/sy/qxt"]
+	path = cl/sy/qxt
+	url = .
 [submodule "cl/vg/wto"]
 	path = cl/vg/wto
 	url = .
