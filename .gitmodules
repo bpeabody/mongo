@@ -2320,6 +2320,9 @@
 [submodule "gh/oe/svx"]
 	path = gh/oe/svx
 	url = .
+[submodule "gh/qm/iei"]
+	path = gh/qm/iei
+	url = .
 [submodule "gh/rj/kmp"]
 	path = gh/rj/kmp
 	url = .
