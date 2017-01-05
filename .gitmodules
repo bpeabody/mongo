@@ -8383,6 +8383,9 @@
 [submodule "ki/mq/eoi"]
 	path = ki/mq/eoi
 	url = .
+[submodule "ki/nz/xoh"]
+	path = ki/nz/xoh
+	url = .
 [submodule "ki/pt/dif"]
 	path = ki/pt/dif
 	url = .
