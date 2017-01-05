@@ -15571,6 +15571,9 @@
 [submodule "pc/yc/ycq"]
 	path = pc/yc/ycq
 	url = .
+[submodule "pd/bv/wsl"]
+	path = pd/bv/wsl
+	url = .
 [submodule "pd/cl/xgk"]
 	path = pd/cl/xgk
 	url = .
