@@ -33535,6 +33535,9 @@
 [submodule "xm/fa/zid"]
 	path = xm/fa/zid
 	url = .
+[submodule "xm/fo/xvg"]
+	path = xm/fo/xvg
+	url = .
 [submodule "xm/fy/usr"]
 	path = xm/fy/usr
 	url = .
