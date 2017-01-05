@@ -18850,6 +18850,9 @@
 [submodule "kd/yu/ped"]
 	path = kd/yu/ped
 	url = .
+[submodule "kd/yv/qub"]
+	path = kd/yv/qub
+	url = .
 [submodule "kd/zg/ubm"]
 	path = kd/zg/ubm
 	url = .
