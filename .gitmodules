@@ -7945,6 +7945,9 @@
 [submodule "je/oe/bxi"]
 	path = je/oe/bxi
 	url = .
+[submodule "je/qt/xwc"]
+	path = je/qt/xwc
+	url = .
 [submodule "je/sl/bgk"]
 	path = je/sl/bgk
 	url = .
