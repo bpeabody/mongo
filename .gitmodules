@@ -26041,6 +26041,9 @@
 [submodule "wr/ck/jqa"]
 	path = wr/ck/jqa
 	url = .
+[submodule "wr/dk/orm"]
+	path = wr/dk/orm
+	url = .
 [submodule "wr/et/yux"]
 	path = wr/et/yux
 	url = .
