@@ -1120,6 +1120,9 @@
 [submodule "nh/js/wmn"]
 	path = nh/js/wmn
 	url = .
+[submodule "nk/ag/vcr"]
+	path = nk/ag/vcr
+	url = .
 [submodule "no/qw/oes"]
 	path = no/qw/oes
 	url = .
