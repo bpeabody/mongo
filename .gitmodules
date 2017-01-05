@@ -24226,6 +24226,9 @@
 [submodule "sg/fi/ojl"]
 	path = sg/fi/ojl
 	url = .
+[submodule "sg/hy/ugo"]
+	path = sg/hy/ugo
+	url = .
 [submodule "sg/jw/cmm"]
 	path = sg/jw/cmm
 	url = .
