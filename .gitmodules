@@ -3136,6 +3136,9 @@
 [submodule "xb/na/alr"]
 	path = xb/na/alr
 	url = .
+[submodule "xb/wy/kpn"]
+	path = xb/wy/kpn
+	url = .
 [submodule "xc/cf/yku"]
 	path = xc/cf/yku
 	url = .
