@@ -17554,6 +17554,9 @@
 [submodule "hu/ks/jma"]
 	path = hu/ks/jma
 	url = .
+[submodule "hu/kw/jsf"]
+	path = hu/kw/jsf
+	url = .
 [submodule "hu/lc/gjw"]
 	path = hu/lc/gjw
 	url = .
