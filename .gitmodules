@@ -10501,6 +10501,9 @@
 [submodule "pv/kn/xmd"]
 	path = pv/kn/xmd
 	url = .
+[submodule "pv/mk/pvs"]
+	path = pv/mk/pvs
+	url = .
 [submodule "pv/qd/wpf"]
 	path = pv/qd/wpf
 	url = .
