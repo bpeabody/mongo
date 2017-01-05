@@ -16681,6 +16681,9 @@
 [submodule "gy/cu/yeq"]
 	path = gy/cu/yeq
 	url = .
+[submodule "gy/cx/cqc"]
+	path = gy/cx/cqc
+	url = .
 [submodule "gy/dk/cnm"]
 	path = gy/dk/cnm
 	url = .
