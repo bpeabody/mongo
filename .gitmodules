@@ -14386,6 +14386,9 @@
 [submodule "gj/ru/ggr"]
 	path = gj/ru/ggr
 	url = .
+[submodule "gj/rx/edq"]
+	path = gj/rx/edq
+	url = .
 [submodule "gj/tg/mta"]
 	path = gj/tg/mta
 	url = .
