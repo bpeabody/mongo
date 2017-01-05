@@ -34306,6 +34306,9 @@
 [submodule "sd/eg/nnl"]
 	path = sd/eg/nnl
 	url = .
+[submodule "sd/er/maw"]
+	path = sd/er/maw
+	url = .
 [submodule "sd/fm/euz"]
 	path = sd/fm/euz
 	url = .
