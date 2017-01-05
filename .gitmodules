@@ -1210,6 +1210,9 @@
 [submodule "au/om/hap"]
 	path = au/om/hap
 	url = .
+[submodule "au/on/qkh"]
+	path = au/on/qkh
+	url = .
 [submodule "au/po/jse"]
 	path = au/po/jse
 	url = .
