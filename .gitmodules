@@ -58483,6 +58483,9 @@
 [submodule "tz/lr/dyn"]
 	path = tz/lr/dyn
 	url = .
+[submodule "tz/lr/ipj"]
+	path = tz/lr/ipj
+	url = .
 [submodule "tz/ma/kzz"]
 	path = tz/ma/kzz
 	url = .
