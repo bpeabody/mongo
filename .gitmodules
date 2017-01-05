@@ -3835,6 +3835,9 @@
 [submodule "bq/bm/rqp"]
 	path = bq/bm/rqp
 	url = .
+[submodule "bq/ci/hxj"]
+	path = bq/ci/hxj
+	url = .
 [submodule "bq/cl/pzy"]
 	path = bq/cl/pzy
 	url = .
