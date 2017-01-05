@@ -57949,6 +57949,9 @@
 [submodule "yn/by/fqs"]
 	path = yn/by/fqs
 	url = .
+[submodule "yn/db/qas"]
+	path = yn/db/qas
+	url = .
 [submodule "yn/di/izh"]
 	path = yn/di/izh
 	url = .
