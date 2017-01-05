@@ -57727,6 +57727,9 @@
 [submodule "vg/kh/boz"]
 	path = vg/kh/boz
 	url = .
+[submodule "vg/kp/mgy"]
+	path = vg/kp/mgy
+	url = .
 [submodule "vg/kq/xpo"]
 	path = vg/kq/xpo
 	url = .
