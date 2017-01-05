@@ -24259,6 +24259,9 @@
 [submodule "vr/pg/bfy"]
 	path = vr/pg/bfy
 	url = .
+[submodule "vr/qn/vvk"]
+	path = vr/qn/vvk
+	url = .
 [submodule "vr/ti/bno"]
 	path = vr/ti/bno
 	url = .
