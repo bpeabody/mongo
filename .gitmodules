@@ -18577,6 +18577,9 @@
 [submodule "vy/ez/zec"]
 	path = vy/ez/zec
 	url = .
+[submodule "vy/kp/zta"]
+	path = vy/kp/zta
+	url = .
 [submodule "vy/lr/dpn"]
 	path = vy/lr/dpn
 	url = .
