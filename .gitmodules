@@ -33958,6 +33958,9 @@
 [submodule "oe/kp/mie"]
 	path = oe/kp/mie
 	url = .
+[submodule "oe/kq/hrg"]
+	path = oe/kq/hrg
+	url = .
 [submodule "oe/ly/rbr"]
 	path = oe/ly/rbr
 	url = .
