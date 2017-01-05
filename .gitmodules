@@ -937,6 +937,9 @@
 [submodule "cf/dr/phu"]
 	path = cf/dr/phu
 	url = .
+[submodule "cf/km/fzr"]
+	path = cf/km/fzr
+	url = .
 [submodule "cf/kp/zcz"]
 	path = cf/kp/zcz
 	url = .
