@@ -706,6 +706,9 @@
 [submodule "ah/qy/stj"]
 	path = ah/qy/stj
 	url = .
+[submodule "ah/sd/ync"]
+	path = ah/sd/ync
+	url = .
 [submodule "ah/sh/miy"]
 	path = ah/sh/miy
 	url = .
