@@ -40336,6 +40336,9 @@
 [submodule "vc/wk/cap"]
 	path = vc/wk/cap
 	url = .
+[submodule "vc/yd/bjr"]
+	path = vc/yd/bjr
+	url = .
 [submodule "vc/ze/rhp"]
 	path = vc/ze/rhp
 	url = .
