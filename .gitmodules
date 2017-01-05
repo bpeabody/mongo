@@ -41356,6 +41356,9 @@
 [submodule "ri/bm/jma"]
 	path = ri/bm/jma
 	url = .
+[submodule "ri/bs/lgr"]
+	path = ri/bs/lgr
+	url = .
 [submodule "ri/bs/nfo"]
 	path = ri/bs/nfo
 	url = .
