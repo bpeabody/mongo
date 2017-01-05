@@ -10225,6 +10225,9 @@
 [submodule "lo/be/eue"]
 	path = lo/be/eue
 	url = .
+[submodule "lo/ce/lhw"]
+	path = lo/ce/lhw
+	url = .
 [submodule "lo/en/aei"]
 	path = lo/en/aei
 	url = .
