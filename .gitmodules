@@ -106,6 +106,9 @@
 [submodule "ac/yf/fed"]
 	path = ac/yf/fed
 	url = .
+[submodule "ad/cn/ahx"]
+	path = ad/cn/ahx
+	url = .
 [submodule "ad/dn/amk"]
 	path = ad/dn/amk
 	url = .
