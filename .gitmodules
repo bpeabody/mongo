@@ -17029,6 +17029,9 @@
 [submodule "lw/ea/poo"]
 	path = lw/ea/poo
 	url = .
+[submodule "lw/fp/ljh"]
+	path = lw/fp/ljh
+	url = .
 [submodule "lw/gk/mup"]
 	path = lw/gk/mup
 	url = .
