@@ -30064,6 +30064,9 @@
 [submodule "mz/ly/eni"]
 	path = mz/ly/eni
 	url = .
+[submodule "mz/mi/dds"]
+	path = mz/mi/dds
+	url = .
 [submodule "mz/mm/gws"]
 	path = mz/mm/gws
 	url = .
