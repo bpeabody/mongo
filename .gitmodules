@@ -3229,6 +3229,9 @@
 [submodule "bi/uh/jzu"]
 	path = bi/uh/jzu
 	url = .
+[submodule "bi/uk/cjr"]
+	path = bi/uk/cjr
+	url = .
 [submodule "bi/vm/emc"]
 	path = bi/vm/emc
 	url = .
