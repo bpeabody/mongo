@@ -47107,6 +47107,9 @@
 [submodule "wj/si/ada"]
 	path = wj/si/ada
 	url = .
+[submodule "wj/sm/xvk"]
+	path = wj/sm/xvk
+	url = .
 [submodule "wj/tg/qvh"]
 	path = wj/tg/qvh
 	url = .
