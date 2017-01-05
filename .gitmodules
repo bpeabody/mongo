@@ -9220,6 +9220,9 @@
 [submodule "ex/gx/brr"]
 	path = ex/gx/brr
 	url = .
+[submodule "ex/gz/ejw"]
+	path = ex/gz/ejw
+	url = .
 [submodule "ex/hu/hzn"]
 	path = ex/hu/hzn
 	url = .
