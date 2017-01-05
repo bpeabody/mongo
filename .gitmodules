@@ -8041,6 +8041,9 @@
 [submodule "ff/sd/coi"]
 	path = ff/sd/coi
 	url = .
+[submodule "ff/uv/rks"]
+	path = ff/uv/rks
+	url = .
 [submodule "ff/xd/avo"]
 	path = ff/xd/avo
 	url = .
