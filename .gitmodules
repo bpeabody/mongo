@@ -34189,6 +34189,9 @@
 [submodule "nr/qx/smm"]
 	path = nr/qx/smm
 	url = .
+[submodule "nr/qy/wav"]
+	path = nr/qy/wav
+	url = .
 [submodule "nr/rd/lpi"]
 	path = nr/rd/lpi
 	url = .
