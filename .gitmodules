@@ -20584,6 +20584,9 @@
 [submodule "hb/sp/tri"]
 	path = hb/sp/tri
 	url = .
+[submodule "hb/tg/oog"]
+	path = hb/tg/oog
+	url = .
 [submodule "hb/ve/sxu"]
 	path = hb/ve/sxu
 	url = .
