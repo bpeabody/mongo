@@ -685,6 +685,9 @@
 [submodule "jf/bt/rcs"]
 	path = jf/bt/rcs
 	url = .
+[submodule "jf/vz/rtu"]
+	path = jf/vz/rtu
+	url = .
 [submodule "jf/wu/dxy"]
 	path = jf/wu/dxy
 	url = .
