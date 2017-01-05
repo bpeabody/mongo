@@ -2155,6 +2155,9 @@
 [submodule "bc/hr/txt"]
 	path = bc/hr/txt
 	url = .
+[submodule "bc/hv/uut"]
+	path = bc/hv/uut
+	url = .
 [submodule "bc/ie/ovw"]
 	path = bc/ie/ovw
 	url = .
