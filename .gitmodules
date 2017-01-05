@@ -10816,6 +10816,9 @@
 [submodule "lz/rm/hsl"]
 	path = lz/rm/hsl
 	url = .
+[submodule "lz/so/ahb"]
+	path = lz/so/ahb
+	url = .
 [submodule "lz/sp/bjb"]
 	path = lz/sp/bjb
 	url = .
