@@ -2992,6 +2992,9 @@
 [submodule "cr/qj/ldb"]
 	path = cr/qj/ldb
 	url = .
+[submodule "cr/qj/oec"]
+	path = cr/qj/oec
+	url = .
 [submodule "cr/rl/tdw"]
 	path = cr/rl/tdw
 	url = .
