@@ -553,6 +553,9 @@
 [submodule "ah/zk/pfr"]
 	path = ah/zk/pfr
 	url = .
+[submodule "ai/bp/nyf"]
+	path = ai/bp/nyf
+	url = .
 [submodule "ai/eo/cji"]
 	path = ai/eo/cji
 	url = .
