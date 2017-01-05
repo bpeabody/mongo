@@ -28891,6 +28891,9 @@
 [submodule "qi/ac/hbv"]
 	path = qi/ac/hbv
 	url = .
+[submodule "qi/cn/qce"]
+	path = qi/cn/qce
+	url = .
 [submodule "qi/do/utu"]
 	path = qi/do/utu
 	url = .
