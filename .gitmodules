@@ -49615,6 +49615,9 @@
 [submodule "rg/em/rhu"]
 	path = rg/em/rhu
 	url = .
+[submodule "rg/fk/akc"]
+	path = rg/fk/akc
+	url = .
 [submodule "rg/fq/uzp"]
 	path = rg/fq/uzp
 	url = .
