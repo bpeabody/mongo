@@ -43069,6 +43069,9 @@
 [submodule "ua/un/hjs"]
 	path = ua/un/hjs
 	url = .
+[submodule "ua/ve/mez"]
+	path = ua/ve/mez
+	url = .
 [submodule "ua/vk/ica"]
 	path = ua/vk/ica
 	url = .
