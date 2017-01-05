@@ -24376,6 +24376,9 @@
 [submodule "lv/dl/ejs"]
 	path = lv/dl/ejs
 	url = .
+[submodule "lv/ee/uqn"]
+	path = lv/ee/uqn
+	url = .
 [submodule "lv/eh/xlc"]
 	path = lv/eh/xlc
 	url = .
