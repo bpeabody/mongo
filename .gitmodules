@@ -2014,6 +2014,9 @@
 [submodule "uc/nt/vpp"]
 	path = uc/nt/vpp
 	url = .
+[submodule "uc/se/owm"]
+	path = uc/se/owm
+	url = .
 [submodule "uc/ww/pog"]
 	path = uc/ww/pog
 	url = .
