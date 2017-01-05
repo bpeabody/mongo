@@ -29410,6 +29410,9 @@
 [submodule "vl/hb/woc"]
 	path = vl/hb/woc
 	url = .
+[submodule "vl/hd/joo"]
+	path = vl/hd/joo
+	url = .
 [submodule "vl/ka/hpp"]
 	path = vl/ka/hpp
 	url = .
