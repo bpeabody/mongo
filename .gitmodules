@@ -21409,6 +21409,9 @@
 [submodule "vp/kz/xum"]
 	path = vp/kz/xum
 	url = .
+[submodule "vp/lz/odr"]
+	path = vp/lz/odr
+	url = .
 [submodule "vp/oj/jxw"]
 	path = vp/oj/jxw
 	url = .
