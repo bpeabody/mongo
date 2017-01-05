@@ -10111,6 +10111,9 @@
 [submodule "qu/rw/pwr"]
 	path = qu/rw/pwr
 	url = .
+[submodule "qu/sy/mvp"]
+	path = qu/sy/mvp
+	url = .
 [submodule "qu/vf/dgg"]
 	path = qu/vf/dgg
 	url = .
