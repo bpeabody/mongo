@@ -6709,6 +6709,9 @@
 [submodule "cv/mq/aqc"]
 	path = cv/mq/aqc
 	url = .
+[submodule "cv/qr/yjo"]
+	path = cv/qr/yjo
+	url = .
 [submodule "cv/rc/att"]
 	path = cv/rc/att
 	url = .
