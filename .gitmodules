@@ -17893,6 +17893,9 @@
 [submodule "ki/xp/flo"]
 	path = ki/xp/flo
 	url = .
+[submodule "ki/yp/cnw"]
+	path = ki/yp/cnw
+	url = .
 [submodule "kj/aa/pwk"]
 	path = kj/aa/pwk
 	url = .
