@@ -5047,6 +5047,9 @@
 [submodule "bx/vo/twn"]
 	path = bx/vo/twn
 	url = .
+[submodule "bx/vs/ysi"]
+	path = bx/vs/ysi
+	url = .
 [submodule "bx/ws/fdi"]
 	path = bx/ws/fdi
 	url = .
