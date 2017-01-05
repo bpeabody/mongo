@@ -28921,6 +28921,9 @@
 [submodule "vt/nj/jle"]
 	path = vt/nj/jle
 	url = .
+[submodule "vt/re/oyo"]
+	path = vt/re/oyo
+	url = .
 [submodule "vt/su/guw"]
 	path = vt/su/guw
 	url = .
