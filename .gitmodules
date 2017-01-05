@@ -18502,6 +18502,9 @@
 [submodule "hr/ht/ypw"]
 	path = hr/ht/ypw
 	url = .
+[submodule "hr/hw/qul"]
+	path = hr/hw/qul
+	url = .
 [submodule "hr/ip/kau"]
 	path = hr/ip/kau
 	url = .
