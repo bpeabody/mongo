@@ -20335,6 +20335,9 @@
 [submodule "gz/qg/jta"]
 	path = gz/qg/jta
 	url = .
+[submodule "gz/qr/mjm"]
+	path = gz/qr/mjm
+	url = .
 [submodule "gz/qr/zag"]
 	path = gz/qr/zag
 	url = .
