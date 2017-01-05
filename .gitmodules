@@ -10945,6 +10945,9 @@
 [submodule "dv/ts/zpm"]
 	path = dv/ts/zpm
 	url = .
+[submodule "dv/uu/pfk"]
+	path = dv/uu/pfk
+	url = .
 [submodule "dv/vg/uqh"]
 	path = dv/vg/uqh
 	url = .
