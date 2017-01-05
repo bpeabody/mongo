@@ -6427,6 +6427,9 @@
 [submodule "wr/et/yux"]
 	path = wr/et/yux
 	url = .
+[submodule "wr/kt/pqq"]
+	path = wr/kt/pqq
+	url = .
 [submodule "wr/rx/gad"]
 	path = wr/rx/gad
 	url = .
