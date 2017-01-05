@@ -38824,6 +38824,9 @@
 [submodule "nn/kg/zld"]
 	path = nn/kg/zld
 	url = .
+[submodule "nn/ll/nck"]
+	path = nn/ll/nck
+	url = .
 [submodule "nn/md/awy"]
 	path = nn/md/awy
 	url = .
