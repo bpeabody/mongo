@@ -4348,6 +4348,9 @@
 [submodule "kl/qc/qqa"]
 	path = kl/qc/qqa
 	url = .
+[submodule "kl/xx/ces"]
+	path = kl/xx/ces
+	url = .
 [submodule "kl/zn/tra"]
 	path = kl/zn/tra
 	url = .
