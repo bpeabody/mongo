@@ -35485,6 +35485,9 @@
 [submodule "uw/bn/xzs"]
 	path = uw/bn/xzs
 	url = .
+[submodule "uw/ec/qcd"]
+	path = uw/ec/qcd
+	url = .
 [submodule "uw/ep/krw"]
 	path = uw/ep/krw
 	url = .
