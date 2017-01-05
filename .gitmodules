@@ -22981,6 +22981,9 @@
 [submodule "lq/lv/nzb"]
 	path = lq/lv/nzb
 	url = .
+[submodule "lq/lz/sdp"]
+	path = lq/lz/sdp
+	url = .
 [submodule "lq/my/dod"]
 	path = lq/my/dod
 	url = .
