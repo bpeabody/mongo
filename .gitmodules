@@ -6727,6 +6727,9 @@
 [submodule "gl/vb/cge"]
 	path = gl/vb/cge
 	url = .
+[submodule "gl/vj/ofr"]
+	path = gl/vj/ofr
+	url = .
 [submodule "gl/wb/qst"]
 	path = gl/wb/qst
 	url = .
