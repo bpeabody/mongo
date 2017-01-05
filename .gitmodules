@@ -1054,6 +1054,9 @@
 [submodule "bd/hp/dsx"]
 	path = bd/hp/dsx
 	url = .
+[submodule "bd/ni/reu"]
+	path = bd/ni/reu
+	url = .
 [submodule "bd/ve/rmt"]
 	path = bd/ve/rmt
 	url = .
