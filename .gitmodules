@@ -616,6 +616,9 @@
 [submodule "ca/mm/kew"]
 	path = ca/mm/kew
 	url = .
+[submodule "ca/on/qxq"]
+	path = ca/on/qxq
+	url = .
 [submodule "ca/vi/qwr"]
 	path = ca/vi/qwr
 	url = .
