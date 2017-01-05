@@ -14245,6 +14245,9 @@
 [submodule "ka/pu/hfw"]
 	path = ka/pu/hfw
 	url = .
+[submodule "ka/si/kvt"]
+	path = ka/si/kvt
+	url = .
 [submodule "ka/sj/dep"]
 	path = ka/sj/dep
 	url = .
