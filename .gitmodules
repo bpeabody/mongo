@@ -880,6 +880,9 @@
 [submodule "dv/wz/xxu"]
 	path = dv/wz/xxu
 	url = .
+[submodule "dw/fe/qca"]
+	path = dw/fe/qca
+	url = .
 [submodule "dw/po/tuv"]
 	path = dw/po/tuv
 	url = .
