@@ -49351,6 +49351,9 @@
 [submodule "yv/ie/jmj"]
 	path = yv/ie/jmj
 	url = .
+[submodule "yv/jc/inu"]
+	path = yv/jc/inu
+	url = .
 [submodule "yv/je/bih"]
 	path = yv/je/bih
 	url = .
