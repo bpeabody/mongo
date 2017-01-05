@@ -41995,6 +41995,9 @@
 [submodule "ou/up/cxz"]
 	path = ou/up/cxz
 	url = .
+[submodule "ou/vp/rkz"]
+	path = ou/vp/rkz
+	url = .
 [submodule "ou/wr/era"]
 	path = ou/wr/era
 	url = .
