@@ -19801,6 +19801,9 @@
 [submodule "we/nw/jgn"]
 	path = we/nw/jgn
 	url = .
+[submodule "we/qk/loo"]
+	path = we/qk/loo
+	url = .
 [submodule "we/ss/hlq"]
 	path = we/ss/hlq
 	url = .
