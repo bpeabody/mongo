@@ -19231,6 +19231,9 @@
 [submodule "gi/rr/nnf"]
 	path = gi/rr/nnf
 	url = .
+[submodule "gi/sp/ivb"]
+	path = gi/sp/ivb
+	url = .
 [submodule "gi/sz/stj"]
 	path = gi/sz/stj
 	url = .
