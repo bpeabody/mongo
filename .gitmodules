@@ -967,6 +967,9 @@
 [submodule "cl/vj/yrf"]
 	path = cl/vj/yrf
 	url = .
+[submodule "cm/uz/xaq"]
+	path = cm/uz/xaq
+	url = .
 [submodule "cm/wq/rdy"]
 	path = cm/wq/rdy
 	url = .
