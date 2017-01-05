@@ -14833,6 +14833,9 @@
 [submodule "fr/wm/wlp"]
 	path = fr/wm/wlp
 	url = .
+[submodule "fr/wv/add"]
+	path = fr/wv/add
+	url = .
 [submodule "fr/wz/eie"]
 	path = fr/wz/eie
 	url = .
