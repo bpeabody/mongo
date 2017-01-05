@@ -403,6 +403,9 @@
 [submodule "ad/rv/tfg"]
 	path = ad/rv/tfg
 	url = .
+[submodule "ad/st/vhu"]
+	path = ad/st/vhu
+	url = .
 [submodule "ad/ti/ecg"]
 	path = ad/ti/ecg
 	url = .
