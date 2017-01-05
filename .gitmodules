@@ -2611,6 +2611,9 @@
 [submodule "en/ms/mol"]
 	path = en/ms/mol
 	url = .
+[submodule "en/mw/jrd"]
+	path = en/mw/jrd
+	url = .
 [submodule "en/pc/yao"]
 	path = en/pc/yao
 	url = .
