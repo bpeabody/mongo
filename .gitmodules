@@ -33895,6 +33895,9 @@
 [submodule "oo/tt/oyx"]
 	path = oo/tt/oyx
 	url = .
+[submodule "oo/un/nor"]
+	path = oo/un/nor
+	url = .
 [submodule "oo/uu/opg"]
 	path = oo/uu/opg
 	url = .
