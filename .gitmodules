@@ -8734,6 +8734,9 @@
 [submodule "lk/li/yxh"]
 	path = lk/li/yxh
 	url = .
+[submodule "lk/nm/ilv"]
+	path = lk/nm/ilv
+	url = .
 [submodule "lk/ps/kej"]
 	path = lk/ps/kej
 	url = .
