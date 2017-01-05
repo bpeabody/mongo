@@ -51466,6 +51466,9 @@
 [submodule "wh/tr/mvi"]
 	path = wh/tr/mvi
 	url = .
+[submodule "wh/ui/rch"]
+	path = wh/ui/rch
+	url = .
 [submodule "wh/up/apt"]
 	path = wh/up/apt
 	url = .
