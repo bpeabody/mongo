@@ -71236,6 +71236,9 @@
 [submodule "xq/qo/uhg"]
 	path = xq/qo/uhg
 	url = .
+[submodule "xq/rv/vij"]
+	path = xq/rv/vij
+	url = .
 [submodule "xq/si/pon"]
 	path = xq/si/pon
 	url = .
