@@ -21604,6 +21604,9 @@
 [submodule "if/rg/vhp"]
 	path = if/rg/vhp
 	url = .
+[submodule "if/ri/xvv"]
+	path = if/ri/xvv
+	url = .
 [submodule "if/rs/jbx"]
 	path = if/rs/jbx
 	url = .
