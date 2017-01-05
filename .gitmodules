@@ -2728,6 +2728,9 @@
 [submodule "fb/qh/ysb"]
 	path = fb/qh/ysb
 	url = .
+[submodule "fb/rw/eik"]
+	path = fb/rw/eik
+	url = .
 [submodule "fb/wr/ony"]
 	path = fb/wr/ony
 	url = .
