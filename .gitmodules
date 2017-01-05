@@ -54052,6 +54052,9 @@
 [submodule "si/kg/qfq"]
 	path = si/kg/qfq
 	url = .
+[submodule "si/kl/kfr"]
+	path = si/kl/kfr
+	url = .
 [submodule "si/lg/hsb"]
 	path = si/lg/hsb
 	url = .
