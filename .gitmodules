@@ -2545,6 +2545,9 @@
 [submodule "bt/gf/ero"]
 	path = bt/gf/ero
 	url = .
+[submodule "bt/gg/jsv"]
+	path = bt/gg/jsv
+	url = .
 [submodule "bt/gx/xlr"]
 	path = bt/gx/xlr
 	url = .
