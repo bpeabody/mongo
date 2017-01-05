@@ -5026,6 +5026,9 @@
 [submodule "kh/az/yuu"]
 	path = kh/az/yuu
 	url = .
+[submodule "kh/ca/waw"]
+	path = kh/ca/waw
+	url = .
 [submodule "kh/cf/oqf"]
 	path = kh/cf/oqf
 	url = .
