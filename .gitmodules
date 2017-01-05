@@ -63247,6 +63247,9 @@
 [submodule "vi/kn/uok"]
 	path = vi/kn/uok
 	url = .
+[submodule "vi/kw/npr"]
+	path = vi/kw/npr
+	url = .
 [submodule "vi/lv/blb"]
 	path = vi/lv/blb
 	url = .
