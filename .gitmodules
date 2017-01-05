@@ -10336,6 +10336,9 @@
 [submodule "nm/re/dwi"]
 	path = nm/re/dwi
 	url = .
+[submodule "nm/xb/eqh"]
+	path = nm/xb/eqh
+	url = .
 [submodule "nn/az/hds"]
 	path = nn/az/hds
 	url = .
