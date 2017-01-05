@@ -36757,6 +36757,9 @@
 [submodule "ms/fz/lja"]
 	path = ms/fz/lja
 	url = .
+[submodule "ms/gu/zfq"]
+	path = ms/gu/zfq
+	url = .
 [submodule "ms/he/orj"]
 	path = ms/he/orj
 	url = .
