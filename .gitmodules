@@ -16711,6 +16711,9 @@
 [submodule "fw/sf/ipq"]
 	path = fw/sf/ipq
 	url = .
+[submodule "fw/sl/nuj"]
+	path = fw/sl/nuj
+	url = .
 [submodule "fw/sp/rhb"]
 	path = fw/sp/rhb
 	url = .
