@@ -35125,6 +35125,9 @@
 [submodule "lu/ac/zwa"]
 	path = lu/ac/zwa
 	url = .
+[submodule "lu/an/vkr"]
+	path = lu/an/vkr
+	url = .
 [submodule "lu/au/jej"]
 	path = lu/au/jej
 	url = .
