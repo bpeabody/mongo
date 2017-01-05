@@ -3487,6 +3487,9 @@
 [submodule "nn/hp/zjv"]
 	path = nn/hp/zjv
 	url = .
+[submodule "nn/pm/fip"]
+	path = nn/pm/fip
+	url = .
 [submodule "nn/vn/slo"]
 	path = nn/vn/slo
 	url = .
