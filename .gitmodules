@@ -32266,6 +32266,9 @@
 [submodule "vs/cr/mcf"]
 	path = vs/cr/mcf
 	url = .
+[submodule "vs/ea/trb"]
+	path = vs/ea/trb
+	url = .
 [submodule "vs/eo/bxq"]
 	path = vs/eo/bxq
 	url = .
