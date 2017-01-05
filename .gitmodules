@@ -8884,6 +8884,9 @@
 [submodule "mi/hg/svp"]
 	path = mi/hg/svp
 	url = .
+[submodule "mi/ro/tgl"]
+	path = mi/ro/tgl
+	url = .
 [submodule "mi/tj/yzx"]
 	path = mi/tj/yzx
 	url = .
