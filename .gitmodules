@@ -4,6 +4,9 @@
 [submodule "ah/qy/stj"]
 	path = ah/qy/stj
 	url = .
+[submodule "ao/ob/dur"]
+	path = ao/ob/dur
+	url = .
 [submodule "bi/kc/rba"]
 	path = bi/kc/rba
 	url = .
