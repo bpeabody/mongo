@@ -148,6 +148,9 @@
 [submodule "br/zo/tvs"]
 	path = br/zo/tvs
 	url = .
+[submodule "bs/dj/iyk"]
+	path = bs/dj/iyk
+	url = .
 [submodule "bt/kj/esj"]
 	path = bt/kj/esj
 	url = .
