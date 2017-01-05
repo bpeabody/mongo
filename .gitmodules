@@ -10666,6 +10666,9 @@
 [submodule "ij/gm/szn"]
 	path = ij/gm/szn
 	url = .
+[submodule "ij/mc/vzv"]
+	path = ij/mc/vzv
+	url = .
 [submodule "ij/nj/mue"]
 	path = ij/nj/mue
 	url = .
