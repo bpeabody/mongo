@@ -13954,6 +13954,9 @@
 [submodule "sq/gn/ugl"]
 	path = sq/gn/ugl
 	url = .
+[submodule "sq/gy/ejv"]
+	path = sq/gy/ejv
+	url = .
 [submodule "sq/hw/cof"]
 	path = sq/hw/cof
 	url = .
