@@ -38431,6 +38431,9 @@
 [submodule "qn/lg/lci"]
 	path = qn/lg/lci
 	url = .
+[submodule "qn/mq/zzl"]
+	path = qn/mq/zzl
+	url = .
 [submodule "qn/ny/ljn"]
 	path = qn/ny/ljn
 	url = .
