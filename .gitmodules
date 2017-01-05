@@ -4729,6 +4729,9 @@
 [submodule "ek/kl/yyx"]
 	path = ek/kl/yyx
 	url = .
+[submodule "ek/op/nfw"]
+	path = ek/op/nfw
+	url = .
 [submodule "ek/rz/yub"]
 	path = ek/rz/yub
 	url = .
