@@ -24178,6 +24178,9 @@
 [submodule "mh/yd/iwx"]
 	path = mh/yd/iwx
 	url = .
+[submodule "mh/ym/nur"]
+	path = mh/ym/nur
+	url = .
 [submodule "mh/zu/otw"]
 	path = mh/zu/otw
 	url = .
