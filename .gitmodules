@@ -53755,6 +53755,9 @@
 [submodule "xu/tk/jyb"]
 	path = xu/tk/jyb
 	url = .
+[submodule "xu/up/wgv"]
+	path = xu/up/wgv
+	url = .
 [submodule "xu/us/hul"]
 	path = xu/us/hul
 	url = .
