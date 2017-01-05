@@ -6700,6 +6700,9 @@
 [submodule "jo/ou/rtf"]
 	path = jo/ou/rtf
 	url = .
+[submodule "jo/sk/cbn"]
+	path = jo/sk/cbn
+	url = .
 [submodule "jo/tx/iwo"]
 	path = jo/tx/iwo
 	url = .
