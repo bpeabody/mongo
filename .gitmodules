@@ -3457,6 +3457,9 @@
 [submodule "ro/jn/ivl"]
 	path = ro/jn/ivl
 	url = .
+[submodule "ro/pp/eok"]
+	path = ro/pp/eok
+	url = .
 [submodule "rp/ro/lng"]
 	path = rp/ro/lng
 	url = .
