@@ -6571,6 +6571,9 @@
 [submodule "fi/my/npa"]
 	path = fi/my/npa
 	url = .
+[submodule "fi/ng/pat"]
+	path = fi/ng/pat
+	url = .
 [submodule "fi/nj/zir"]
 	path = fi/nj/zir
 	url = .
