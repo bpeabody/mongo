@@ -2503,6 +2503,9 @@
 [submodule "bm/vd/mxy"]
 	path = bm/vd/mxy
 	url = .
+[submodule "bm/vk/daf"]
+	path = bm/vk/daf
+	url = .
 [submodule "bm/vk/pcu"]
 	path = bm/vk/pcu
 	url = .
