@@ -15652,6 +15652,9 @@
 [submodule "kh/pt/ioh"]
 	path = kh/pt/ioh
 	url = .
+[submodule "kh/qw/ipm"]
+	path = kh/qw/ipm
+	url = .
 [submodule "kh/rd/zme"]
 	path = kh/rd/zme
 	url = .
