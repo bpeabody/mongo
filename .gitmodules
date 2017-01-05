@@ -4318,6 +4318,9 @@
 [submodule "ub/hl/uzv"]
 	path = ub/hl/uzv
 	url = .
+[submodule "ub/om/vkz"]
+	path = ub/om/vkz
+	url = .
 [submodule "ub/wb/lmb"]
 	path = ub/wb/lmb
 	url = .
