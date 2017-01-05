@@ -45943,6 +45943,9 @@
 [submodule "rv/at/kqt"]
 	path = rv/at/kqt
 	url = .
+[submodule "rv/bj/agx"]
+	path = rv/bj/agx
+	url = .
 [submodule "rv/by/xgt"]
 	path = rv/by/xgt
 	url = .
