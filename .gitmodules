@@ -19522,6 +19522,9 @@
 [submodule "pn/tc/trz"]
 	path = pn/tc/trz
 	url = .
+[submodule "pn/vk/rvx"]
+	path = pn/vk/rvx
+	url = .
 [submodule "pn/wf/ecj"]
 	path = pn/wf/ecj
 	url = .
