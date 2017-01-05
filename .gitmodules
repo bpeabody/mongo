@@ -43750,6 +43750,9 @@
 [submodule "rc/fz/ivm"]
 	path = rc/fz/ivm
 	url = .
+[submodule "rc/gk/hlp"]
+	path = rc/gk/hlp
+	url = .
 [submodule "rc/hf/kxo"]
 	path = rc/hf/kxo
 	url = .
