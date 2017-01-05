@@ -9187,6 +9187,9 @@
 [submodule "fr/dx/ytg"]
 	path = fr/dx/ytg
 	url = .
+[submodule "fr/hc/ooi"]
+	path = fr/hc/ooi
+	url = .
 [submodule "fr/he/ufm"]
 	path = fr/he/ufm
 	url = .
