@@ -13312,6 +13312,9 @@
 [submodule "mr/ok/mff"]
 	path = mr/ok/mff
 	url = .
+[submodule "mr/pb/yqy"]
+	path = mr/pb/yqy
+	url = .
 [submodule "mr/rd/ptn"]
 	path = mr/rd/ptn
 	url = .
