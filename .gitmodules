@@ -14197,6 +14197,9 @@
 [submodule "xb/cq/ojh"]
 	path = xb/cq/ojh
 	url = .
+[submodule "xb/cw/lpj"]
+	path = xb/cw/lpj
+	url = .
 [submodule "xb/di/hgl"]
 	path = xb/di/hgl
 	url = .
