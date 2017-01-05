@@ -15724,6 +15724,9 @@
 [submodule "vn/gd/jss"]
 	path = vn/gd/jss
 	url = .
+[submodule "vn/hi/hmo"]
+	path = vn/hi/hmo
+	url = .
 [submodule "vn/jk/vti"]
 	path = vn/jk/vti
 	url = .
