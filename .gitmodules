@@ -11977,6 +11977,9 @@
 [submodule "fj/zz/qpd"]
 	path = fj/zz/qpd
 	url = .
+[submodule "fk/as/rxa"]
+	path = fk/as/rxa
+	url = .
 [submodule "fk/bl/mbi"]
 	path = fk/bl/mbi
 	url = .
