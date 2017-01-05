@@ -18454,6 +18454,9 @@
 [submodule "ja/ue/sux"]
 	path = ja/ue/sux
 	url = .
+[submodule "ja/va/naj"]
+	path = ja/va/naj
+	url = .
 [submodule "ja/ve/grg"]
 	path = ja/ve/grg
 	url = .
