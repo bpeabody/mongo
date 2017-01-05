@@ -11896,6 +11896,9 @@
 [submodule "mh/vv/hbu"]
 	path = mh/vv/hbu
 	url = .
+[submodule "mh/wg/qby"]
+	path = mh/wg/qby
+	url = .
 [submodule "mh/zu/otw"]
 	path = mh/zu/otw
 	url = .
