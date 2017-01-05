@@ -31609,6 +31609,9 @@
 [submodule "sq/tj/afq"]
 	path = sq/tj/afq
 	url = .
+[submodule "sq/xq/uko"]
+	path = sq/xq/uko
+	url = .
 [submodule "sq/xw/eva"]
 	path = sq/xw/eva
 	url = .
