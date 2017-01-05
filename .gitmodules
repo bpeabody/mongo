@@ -9046,6 +9046,9 @@
 [submodule "gh/fo/ydi"]
 	path = gh/fo/ydi
 	url = .
+[submodule "gh/hf/aom"]
+	path = gh/hf/aom
+	url = .
 [submodule "gh/hk/ehl"]
 	path = gh/hk/ehl
 	url = .
