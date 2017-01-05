@@ -30844,6 +30844,9 @@
 [submodule "sk/sg/alr"]
 	path = sk/sg/alr
 	url = .
+[submodule "sk/sq/cpa"]
+	path = sk/sq/cpa
+	url = .
 [submodule "sk/uv/ada"]
 	path = sk/uv/ada
 	url = .
