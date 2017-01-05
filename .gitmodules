@@ -1861,6 +1861,9 @@
 [submodule "no/rk/ipe"]
 	path = no/rk/ipe
 	url = .
+[submodule "no/wo/sxg"]
+	path = no/wo/sxg
+	url = .
 [submodule "nq/wl/pcz"]
 	path = nq/wl/pcz
 	url = .
