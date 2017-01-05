@@ -15859,6 +15859,9 @@
 [submodule "ge/ms/pwg"]
 	path = ge/ms/pwg
 	url = .
+[submodule "ge/pt/xjw"]
+	path = ge/pt/xjw
+	url = .
 [submodule "ge/qd/tit"]
 	path = ge/qd/tit
 	url = .
