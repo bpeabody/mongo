@@ -36484,6 +36484,9 @@
 [submodule "vi/nn/rpb"]
 	path = vi/nn/rpb
 	url = .
+[submodule "vi/np/grq"]
+	path = vi/np/grq
+	url = .
 [submodule "vi/sk/mew"]
 	path = vi/sk/mew
 	url = .
