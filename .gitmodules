@@ -18217,6 +18217,9 @@
 [submodule "gp/kp/wcf"]
 	path = gp/kp/wcf
 	url = .
+[submodule "gp/mn/uoi"]
+	path = gp/mn/uoi
+	url = .
 [submodule "gp/mr/mji"]
 	path = gp/mr/mji
 	url = .
