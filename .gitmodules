@@ -32971,6 +32971,9 @@
 [submodule "sp/ef/vsa"]
 	path = sp/ef/vsa
 	url = .
+[submodule "sp/eg/fzn"]
+	path = sp/eg/fzn
+	url = .
 [submodule "sp/ei/lzd"]
 	path = sp/ei/lzd
 	url = .
