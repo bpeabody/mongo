@@ -15844,6 +15844,9 @@
 [submodule "hd/ci/zky"]
 	path = hd/ci/zky
 	url = .
+[submodule "hd/dq/lsz"]
+	path = hd/dq/lsz
+	url = .
 [submodule "hd/fp/ywa"]
 	path = hd/fp/ywa
 	url = .
