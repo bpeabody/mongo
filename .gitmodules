@@ -5956,6 +5956,9 @@
 [submodule "fg/nx/fzr"]
 	path = fg/nx/fzr
 	url = .
+[submodule "fg/nz/ysy"]
+	path = fg/nz/ysy
+	url = .
 [submodule "fg/oe/ryr"]
 	path = fg/oe/ryr
 	url = .
