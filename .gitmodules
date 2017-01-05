@@ -17992,6 +17992,9 @@
 [submodule "mh/or/hfq"]
 	path = mh/or/hfq
 	url = .
+[submodule "mh/sz/bwt"]
+	path = mh/sz/bwt
+	url = .
 [submodule "mh/tq/hmd"]
 	path = mh/tq/hmd
 	url = .
