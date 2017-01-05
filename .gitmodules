@@ -484,6 +484,9 @@
 [submodule "ee/li/zdc"]
 	path = ee/li/zdc
 	url = .
+[submodule "ee/vs/lyn"]
+	path = ee/vs/lyn
+	url = .
 [submodule "ef/lf/tes"]
 	path = ef/lf/tes
 	url = .
