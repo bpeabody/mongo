@@ -62203,6 +62203,9 @@
 [submodule "yu/lk/svk"]
 	path = yu/lk/svk
 	url = .
+[submodule "yu/mu/xpg"]
+	path = yu/mu/xpg
+	url = .
 [submodule "yu/oy/pgf"]
 	path = yu/oy/pgf
 	url = .
