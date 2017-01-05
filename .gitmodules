@@ -31498,6 +31498,9 @@
 [submodule "mx/qr/hsa"]
 	path = mx/qr/hsa
 	url = .
+[submodule "mx/so/flb"]
+	path = mx/so/flb
+	url = .
 [submodule "mx/sq/mvm"]
 	path = mx/sq/mvm
 	url = .
