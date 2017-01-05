@@ -22708,6 +22708,9 @@
 [submodule "nx/do/ndy"]
 	path = nx/do/ndy
 	url = .
+[submodule "nx/ec/oxe"]
+	path = nx/ec/oxe
+	url = .
 [submodule "nx/fu/chj"]
 	path = nx/fu/chj
 	url = .
