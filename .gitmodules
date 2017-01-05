@@ -2752,6 +2752,9 @@
 [submodule "lp/df/bjt"]
 	path = lp/df/bjt
 	url = .
+[submodule "lp/hm/vxx"]
+	path = lp/hm/vxx
+	url = .
 [submodule "lr/nl/ukl"]
 	path = lr/nl/ukl
 	url = .
