@@ -301,6 +301,9 @@
 [submodule "ix/yt/okh"]
 	path = ix/yt/okh
 	url = .
+[submodule "jc/fs/rxr"]
+	path = jc/fs/rxr
+	url = .
 [submodule "jc/qq/ruo"]
 	path = jc/qq/ruo
 	url = .
