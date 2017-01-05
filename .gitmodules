@@ -4537,6 +4537,9 @@
 [submodule "xe/qv/bka"]
 	path = xe/qv/bka
 	url = .
+[submodule "xe/rv/bnp"]
+	path = xe/rv/bnp
+	url = .
 [submodule "xf/bp/fsw"]
 	path = xf/bp/fsw
 	url = .
