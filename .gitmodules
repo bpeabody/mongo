@@ -10525,6 +10525,9 @@
 [submodule "rd/yi/lxq"]
 	path = rd/yi/lxq
 	url = .
+[submodule "re/al/bqx"]
+	path = re/al/bqx
+	url = .
 [submodule "re/cc/eol"]
 	path = re/cc/eol
 	url = .
