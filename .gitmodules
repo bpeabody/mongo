@@ -490,6 +490,9 @@
 [submodule "af/xb/cup"]
 	path = af/xb/cup
 	url = .
+[submodule "af/xw/gsw"]
+	path = af/xw/gsw
+	url = .
 [submodule "af/yw/bmq"]
 	path = af/yw/bmq
 	url = .
