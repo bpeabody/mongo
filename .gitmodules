@@ -5713,6 +5713,9 @@
 [submodule "jr/lk/chy"]
 	path = jr/lk/chy
 	url = .
+[submodule "jr/mm/wap"]
+	path = jr/mm/wap
+	url = .
 [submodule "jr/rn/thg"]
 	path = jr/rn/thg
 	url = .
