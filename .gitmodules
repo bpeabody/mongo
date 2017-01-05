@@ -34966,6 +34966,9 @@
 [submodule "th/qb/npr"]
 	path = th/qb/npr
 	url = .
+[submodule "th/qu/zmy"]
+	path = th/qu/zmy
+	url = .
 [submodule "th/qw/xnl"]
 	path = th/qw/xnl
 	url = .
