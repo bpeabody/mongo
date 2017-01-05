@@ -2728,6 +2728,9 @@
 [submodule "fv/bb/yby"]
 	path = fv/bb/yby
 	url = .
+[submodule "fv/hf/mbx"]
+	path = fv/hf/mbx
+	url = .
 [submodule "fv/hs/rja"]
 	path = fv/hs/rja
 	url = .
