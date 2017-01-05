@@ -8314,6 +8314,9 @@
 [submodule "jz/lx/bup"]
 	path = jz/lx/bup
 	url = .
+[submodule "jz/nz/hcy"]
+	path = jz/nz/hcy
+	url = .
 [submodule "jz/ox/hej"]
 	path = jz/ox/hej
 	url = .
