@@ -18556,6 +18556,9 @@
 [submodule "nb/si/cwi"]
 	path = nb/si/cwi
 	url = .
+[submodule "nc/bg/dmo"]
+	path = nc/bg/dmo
+	url = .
 [submodule "nc/cg/mjn"]
 	path = nc/cg/mjn
 	url = .
