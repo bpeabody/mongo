@@ -172,6 +172,9 @@
 [submodule "xj/bi/qoi"]
 	path = xj/bi/qoi
 	url = .
+[submodule "xz/iq/pth"]
+	path = xz/iq/pth
+	url = .
 [submodule "yc/lq/nep"]
 	path = yc/lq/nep
 	url = .
