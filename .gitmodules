@@ -60436,6 +60436,9 @@
 [submodule "yj/nz/jic"]
 	path = yj/nz/jic
 	url = .
+[submodule "yj/py/yac"]
+	path = yj/py/yac
+	url = .
 [submodule "yj/qc/lal"]
 	path = yj/qc/lal
 	url = .
