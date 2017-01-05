@@ -1618,6 +1618,9 @@
 [submodule "ce/td/jsg"]
 	path = ce/td/jsg
 	url = .
+[submodule "ce/wa/ozr"]
+	path = ce/wa/ozr
+	url = .
 [submodule "ce/xh/mxb"]
 	path = ce/xh/mxb
 	url = .
