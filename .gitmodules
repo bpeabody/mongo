@@ -4150,6 +4150,9 @@
 [submodule "de/xi/nhv"]
 	path = de/xi/nhv
 	url = .
+[submodule "df/dt/fgo"]
+	path = df/dt/fgo
+	url = .
 [submodule "df/gx/vpr"]
 	path = df/gx/vpr
 	url = .
