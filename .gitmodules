@@ -8227,6 +8227,9 @@
 [submodule "dt/jp/eqm"]
 	path = dt/jp/eqm
 	url = .
+[submodule "dt/jy/csf"]
+	path = dt/jy/csf
+	url = .
 [submodule "dt/kn/dxs"]
 	path = dt/kn/dxs
 	url = .
