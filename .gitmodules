@@ -35032,6 +35032,9 @@
 [submodule "th/iw/upp"]
 	path = th/iw/upp
 	url = .
+[submodule "th/kb/uop"]
+	path = th/kb/uop
+	url = .
 [submodule "th/ll/jsm"]
 	path = th/ll/jsm
 	url = .
