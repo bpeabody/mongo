@@ -10372,6 +10372,9 @@
 [submodule "el/tp/hxg"]
 	path = el/tp/hxg
 	url = .
+[submodule "el/wo/wko"]
+	path = el/wo/wko
+	url = .
 [submodule "el/xe/nea"]
 	path = el/xe/nea
 	url = .
