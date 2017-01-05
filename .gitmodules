@@ -1945,6 +1945,9 @@
 [submodule "dc/ls/ojq"]
 	path = dc/ls/ojq
 	url = .
+[submodule "dc/oo/ict"]
+	path = dc/oo/ict
+	url = .
 [submodule "dc/vm/ltf"]
 	path = dc/vm/ltf
 	url = .
