@@ -31399,6 +31399,9 @@
 [submodule "ms/uv/hyu"]
 	path = ms/uv/hyu
 	url = .
+[submodule "ms/vw/pyu"]
+	path = ms/vw/pyu
+	url = .
 [submodule "ms/ye/dxp"]
 	path = ms/ye/dxp
 	url = .
