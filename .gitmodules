@@ -30052,6 +30052,9 @@
 [submodule "qm/pz/ttu"]
 	path = qm/pz/ttu
 	url = .
+[submodule "qm/re/hhz"]
+	path = qm/re/hhz
+	url = .
 [submodule "qm/rx/sur"]
 	path = qm/rx/sur
 	url = .
