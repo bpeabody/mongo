@@ -36595,6 +36595,9 @@
 [submodule "rp/ac/nbu"]
 	path = rp/ac/nbu
 	url = .
+[submodule "rp/af/emc"]
+	path = rp/af/emc
+	url = .
 [submodule "rp/al/iwr"]
 	path = rp/al/iwr
 	url = .
