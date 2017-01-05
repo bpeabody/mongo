@@ -12442,6 +12442,9 @@
 [submodule "ec/cq/xdf"]
 	path = ec/cq/xdf
 	url = .
+[submodule "ec/du/csw"]
+	path = ec/du/csw
+	url = .
 [submodule "ec/ea/rxg"]
 	path = ec/ea/rxg
 	url = .
