@@ -4897,6 +4897,9 @@
 [submodule "em/me/irr"]
 	path = em/me/irr
 	url = .
+[submodule "em/mf/ycp"]
+	path = em/mf/ycp
+	url = .
 [submodule "em/mw/vqe"]
 	path = em/mw/vqe
 	url = .
