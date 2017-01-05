@@ -51955,6 +51955,9 @@
 [submodule "ud/md/aco"]
 	path = ud/md/aco
 	url = .
+[submodule "ud/nu/hzn"]
+	path = ud/nu/hzn
+	url = .
 [submodule "ud/oc/lzu"]
 	path = ud/oc/lzu
 	url = .
