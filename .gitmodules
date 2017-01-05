@@ -19648,6 +19648,9 @@
 [submodule "kz/sv/jem"]
 	path = kz/sv/jem
 	url = .
+[submodule "kz/tr/qxk"]
+	path = kz/tr/qxk
+	url = .
 [submodule "kz/tt/fbt"]
 	path = kz/tt/fbt
 	url = .
