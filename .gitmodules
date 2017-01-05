@@ -12844,6 +12844,9 @@
 [submodule "gv/yh/goo"]
 	path = gv/yh/goo
 	url = .
+[submodule "gw/ba/omk"]
+	path = gw/ba/omk
+	url = .
 [submodule "gw/dh/luv"]
 	path = gw/dh/luv
 	url = .
