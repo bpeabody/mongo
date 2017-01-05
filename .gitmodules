@@ -5686,6 +5686,9 @@
 [submodule "fe/nb/iky"]
 	path = fe/nb/iky
 	url = .
+[submodule "fe/ni/vrp"]
+	path = fe/ni/vrp
+	url = .
 [submodule "fe/pp/awv"]
 	path = fe/pp/awv
 	url = .
