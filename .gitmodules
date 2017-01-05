@@ -7003,6 +7003,9 @@
 [submodule "hm/na/dhz"]
 	path = hm/na/dhz
 	url = .
+[submodule "hm/pd/tih"]
+	path = hm/pd/tih
+	url = .
 [submodule "hm/tv/pfd"]
 	path = hm/tv/pfd
 	url = .
