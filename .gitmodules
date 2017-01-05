@@ -1930,6 +1930,9 @@
 [submodule "oa/dv/yri"]
 	path = oa/dv/yri
 	url = .
+[submodule "oa/ji/goq"]
+	path = oa/ji/goq
+	url = .
 [submodule "ob/gs/sos"]
 	path = ob/gs/sos
 	url = .
