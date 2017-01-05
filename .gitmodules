@@ -1666,6 +1666,9 @@
 [submodule "ap/ga/syp"]
 	path = ap/ga/syp
 	url = .
+[submodule "ap/gv/qcr"]
+	path = ap/gv/qcr
+	url = .
 [submodule "ap/ir/nzg"]
 	path = ap/ir/nzg
 	url = .
