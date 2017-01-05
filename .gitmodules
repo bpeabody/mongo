@@ -8473,6 +8473,9 @@
 [submodule "ka/ed/pfv"]
 	path = ka/ed/pfv
 	url = .
+[submodule "ka/et/dkf"]
+	path = ka/et/dkf
+	url = .
 [submodule "ka/ia/wgs"]
 	path = ka/ia/wgs
 	url = .
