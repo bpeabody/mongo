@@ -55543,6 +55543,9 @@
 [submodule "zi/fq/awv"]
 	path = zi/fq/awv
 	url = .
+[submodule "zi/ft/gkk"]
+	path = zi/ft/gkk
+	url = .
 [submodule "zi/fw/cjb"]
 	path = zi/fw/cjb
 	url = .
