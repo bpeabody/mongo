@@ -18673,6 +18673,9 @@
 [submodule "ic/lq/mqv"]
 	path = ic/lq/mqv
 	url = .
+[submodule "ic/mc/abd"]
+	path = ic/mc/abd
+	url = .
 [submodule "ic/mf/ugw"]
 	path = ic/mf/ugw
 	url = .
