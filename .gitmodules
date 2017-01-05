@@ -11620,6 +11620,9 @@
 [submodule "pg/do/crg"]
 	path = pg/do/crg
 	url = .
+[submodule "pg/eb/wru"]
+	path = pg/eb/wru
+	url = .
 [submodule "pg/gs/mdz"]
 	path = pg/gs/mdz
 	url = .
