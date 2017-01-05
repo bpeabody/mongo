@@ -3991,6 +3991,9 @@
 [submodule "do/ar/abw"]
 	path = do/ar/abw
 	url = .
+[submodule "do/hm/ccy"]
+	path = do/hm/ccy
+	url = .
 [submodule "do/kb/jev"]
 	path = do/kb/jev
 	url = .
