@@ -1009,6 +1009,9 @@
 [submodule "cu/dj/mca"]
 	path = cu/dj/mca
 	url = .
+[submodule "cu/fd/nwm"]
+	path = cu/fd/nwm
+	url = .
 [submodule "cv/uo/wbd"]
 	path = cv/uo/wbd
 	url = .
