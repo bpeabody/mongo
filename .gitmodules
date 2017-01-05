@@ -28381,6 +28381,9 @@
 [submodule "lc/hq/kza"]
 	path = lc/hq/kza
 	url = .
+[submodule "lc/hq/mod"]
+	path = lc/hq/mod
+	url = .
 [submodule "lc/hz/eoa"]
 	path = lc/hz/eoa
 	url = .
