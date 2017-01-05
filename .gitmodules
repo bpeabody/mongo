@@ -3289,6 +3289,9 @@
 [submodule "lv/db/roe"]
 	path = lv/db/roe
 	url = .
+[submodule "lv/eh/xlc"]
+	path = lv/eh/xlc
+	url = .
 [submodule "lv/ja/art"]
 	path = lv/ja/art
 	url = .
