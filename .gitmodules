@@ -2800,6 +2800,9 @@
 [submodule "bb/mn/nvt"]
 	path = bb/mn/nvt
 	url = .
+[submodule "bb/nq/pku"]
+	path = bb/nq/pku
+	url = .
 [submodule "bb/nw/pno"]
 	path = bb/nw/pno
 	url = .
