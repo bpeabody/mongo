@@ -33631,6 +33631,9 @@
 [submodule "nl/hi/pad"]
 	path = nl/hi/pad
 	url = .
+[submodule "nl/ho/lar"]
+	path = nl/ho/lar
+	url = .
 [submodule "nl/hp/ekx"]
 	path = nl/hp/ekx
 	url = .
