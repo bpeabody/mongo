@@ -11809,6 +11809,9 @@
 [submodule "ub/qh/hoy"]
 	path = ub/qh/hoy
 	url = .
+[submodule "ub/vf/hkc"]
+	path = ub/vf/hkc
+	url = .
 [submodule "ub/wb/lmb"]
 	path = ub/wb/lmb
 	url = .
