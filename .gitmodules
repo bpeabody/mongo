@@ -7018,6 +7018,9 @@
 [submodule "hq/na/yso"]
 	path = hq/na/yso
 	url = .
+[submodule "hq/qa/nkr"]
+	path = hq/qa/nkr
+	url = .
 [submodule "hq/sb/yrh"]
 	path = hq/sb/yrh
 	url = .
