@@ -7174,6 +7174,9 @@
 [submodule "lp/xx/uep"]
 	path = lp/xx/uep
 	url = .
+[submodule "lq/bj/jfm"]
+	path = lq/bj/jfm
+	url = .
 [submodule "lq/ho/agn"]
 	path = lq/ho/agn
 	url = .
