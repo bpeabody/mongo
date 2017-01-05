@@ -1636,6 +1636,9 @@
 [submodule "nm/fz/iya"]
 	path = nm/fz/iya
 	url = .
+[submodule "nm/oo/kpv"]
+	path = nm/oo/kpv
+	url = .
 [submodule "nm/re/dwi"]
 	path = nm/re/dwi
 	url = .
