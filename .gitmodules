@@ -22141,6 +22141,9 @@
 [submodule "rc/ca/ydl"]
 	path = rc/ca/ydl
 	url = .
+[submodule "rc/cm/xmd"]
+	path = rc/cm/xmd
+	url = .
 [submodule "rc/ee/uyr"]
 	path = rc/ee/uyr
 	url = .
