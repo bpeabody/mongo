@@ -8524,6 +8524,9 @@
 [submodule "ek/mi/czj"]
 	path = ek/mi/czj
 	url = .
+[submodule "ek/no/jed"]
+	path = ek/no/jed
+	url = .
 [submodule "ek/op/nfw"]
 	path = ek/op/nfw
 	url = .
