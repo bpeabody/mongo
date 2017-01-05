@@ -280,6 +280,9 @@
 [submodule "ak/af/wwz"]
 	path = ak/af/wwz
 	url = .
+[submodule "ak/as/mxt"]
+	path = ak/as/mxt
+	url = .
 [submodule "ak/dt/xfc"]
 	path = ak/dt/xfc
 	url = .
