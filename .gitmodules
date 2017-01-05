@@ -5956,6 +5956,9 @@
 [submodule "fv/wk/luh"]
 	path = fv/wk/luh
 	url = .
+[submodule "fw/bw/ngq"]
+	path = fw/bw/ngq
+	url = .
 [submodule "fw/dz/otp"]
 	path = fw/dz/otp
 	url = .
