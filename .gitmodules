@@ -23170,6 +23170,9 @@
 [submodule "kh/me/lub"]
 	path = kh/me/lub
 	url = .
+[submodule "kh/mm/sji"]
+	path = kh/mm/sji
+	url = .
 [submodule "kh/mw/mhm"]
 	path = kh/mw/mhm
 	url = .
