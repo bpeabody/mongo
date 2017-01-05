@@ -41551,6 +41551,9 @@
 [submodule "yu/ij/vfa"]
 	path = yu/ij/vfa
 	url = .
+[submodule "yu/js/yaf"]
+	path = yu/js/yaf
+	url = .
 [submodule "yu/kg/wwm"]
 	path = yu/kg/wwm
 	url = .
