@@ -10126,6 +10126,9 @@
 [submodule "rq/ej/dxp"]
 	path = rq/ej/dxp
 	url = .
+[submodule "rq/fs/mot"]
+	path = rq/fs/mot
+	url = .
 [submodule "rq/gf/oyy"]
 	path = rq/gf/oyy
 	url = .
