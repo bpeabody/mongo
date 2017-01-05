@@ -15046,6 +15046,9 @@
 [submodule "go/xo/guk"]
 	path = go/xo/guk
 	url = .
+[submodule "go/yo/vaf"]
+	path = go/yo/vaf
+	url = .
 [submodule "gp/aa/ily"]
 	path = gp/aa/ily
 	url = .
