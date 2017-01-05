@@ -13048,6 +13048,9 @@
 [submodule "op/pv/wqq"]
 	path = op/pv/wqq
 	url = .
+[submodule "op/sd/shs"]
+	path = op/sd/shs
+	url = .
 [submodule "op/tr/xso"]
 	path = op/tr/xso
 	url = .
