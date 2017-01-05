@@ -6637,6 +6637,9 @@
 [submodule "vd/jp/duc"]
 	path = vd/jp/duc
 	url = .
+[submodule "vd/tv/ruj"]
+	path = vd/tv/ruj
+	url = .
 [submodule "ve/dn/lgy"]
 	path = ve/dn/lgy
 	url = .
