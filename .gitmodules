@@ -6259,6 +6259,9 @@
 [submodule "ph/jd/sdz"]
 	path = ph/jd/sdz
 	url = .
+[submodule "ph/nm/qep"]
+	path = ph/nm/qep
+	url = .
 [submodule "ph/pa/lph"]
 	path = ph/pa/lph
 	url = .
