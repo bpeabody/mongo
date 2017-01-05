@@ -50752,6 +50752,9 @@
 [submodule "yd/mh/fdp"]
 	path = yd/mh/fdp
 	url = .
+[submodule "yd/nw/pjk"]
+	path = yd/nw/pjk
+	url = .
 [submodule "yd/qd/qbe"]
 	path = yd/qd/qbe
 	url = .
