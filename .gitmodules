@@ -2611,6 +2611,9 @@
 [submodule "vf/gp/dbx"]
 	path = vf/gp/dbx
 	url = .
+[submodule "vf/lh/fmu"]
+	path = vf/lh/fmu
+	url = .
 [submodule "vf/mn/wlp"]
 	path = vf/mn/wlp
 	url = .
