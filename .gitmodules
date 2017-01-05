@@ -37144,6 +37144,9 @@
 [submodule "nb/cd/ipr"]
 	path = nb/cd/ipr
 	url = .
+[submodule "nb/co/edy"]
+	path = nb/co/edy
+	url = .
 [submodule "nb/cw/cux"]
 	path = nb/cw/cux
 	url = .
