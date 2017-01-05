@@ -5056,6 +5056,9 @@
 [submodule "fb/dj/mfi"]
 	path = fb/dj/mfi
 	url = .
+[submodule "fb/ek/qzp"]
+	path = fb/ek/qzp
+	url = .
 [submodule "fb/gz/fhc"]
 	path = fb/gz/fhc
 	url = .
