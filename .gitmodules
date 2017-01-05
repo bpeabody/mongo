@@ -25843,6 +25843,9 @@
 [submodule "qc/zx/pnj"]
 	path = qc/zx/pnj
 	url = .
+[submodule "qd/aa/opw"]
+	path = qd/aa/opw
+	url = .
 [submodule "qd/bs/ccr"]
 	path = qd/bs/ccr
 	url = .
