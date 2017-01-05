@@ -51133,6 +51133,9 @@
 [submodule "vk/fz/dkl"]
 	path = vk/fz/dkl
 	url = .
+[submodule "vk/hb/arj"]
+	path = vk/hb/arj
+	url = .
 [submodule "vk/hb/dbr"]
 	path = vk/hb/dbr
 	url = .
