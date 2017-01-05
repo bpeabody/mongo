@@ -41116,6 +41116,9 @@
 [submodule "vs/ea/trb"]
 	path = vs/ea/trb
 	url = .
+[submodule "vs/eh/hou"]
+	path = vs/eh/hou
+	url = .
 [submodule "vs/eo/bxq"]
 	path = vs/eo/bxq
 	url = .
