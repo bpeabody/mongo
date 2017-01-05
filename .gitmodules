@@ -30637,6 +30637,9 @@
 [submodule "lo/ce/lhw"]
 	path = lo/ce/lhw
 	url = .
+[submodule "lo/da/ipt"]
+	path = lo/da/ipt
+	url = .
 [submodule "lo/en/aei"]
 	path = lo/en/aei
 	url = .
