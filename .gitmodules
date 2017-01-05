@@ -5821,6 +5821,9 @@
 [submodule "cw/hf/fta"]
 	path = cw/hf/fta
 	url = .
+[submodule "cw/if/ylq"]
+	path = cw/if/ylq
+	url = .
 [submodule "cw/ju/gxf"]
 	path = cw/ju/gxf
 	url = .
