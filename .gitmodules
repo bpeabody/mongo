@@ -6514,6 +6514,9 @@
 [submodule "sh/tg/pwe"]
 	path = sh/tg/pwe
 	url = .
+[submodule "sh/vp/sxs"]
+	path = sh/vp/sxs
+	url = .
 [submodule "si/ek/tbg"]
 	path = si/ek/tbg
 	url = .
