@@ -5977,6 +5977,9 @@
 [submodule "fj/dd/wnp"]
 	path = fj/dd/wnp
 	url = .
+[submodule "fj/du/nbp"]
+	path = fj/du/nbp
+	url = .
 [submodule "fj/ed/rox"]
 	path = fj/ed/rox
 	url = .
