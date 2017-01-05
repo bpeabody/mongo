@@ -14248,6 +14248,9 @@
 [submodule "fr/lu/xnz"]
 	path = fr/lu/xnz
 	url = .
+[submodule "fr/mg/gxq"]
+	path = fr/mg/gxq
+	url = .
 [submodule "fr/ml/rpn"]
 	path = fr/ml/rpn
 	url = .
