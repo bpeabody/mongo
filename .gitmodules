@@ -39538,6 +39538,9 @@
 [submodule "pa/vg/pzg"]
 	path = pa/vg/pzg
 	url = .
+[submodule "pa/wb/vki"]
+	path = pa/wb/vki
+	url = .
 [submodule "pa/wg/vmo"]
 	path = pa/wg/vmo
 	url = .
