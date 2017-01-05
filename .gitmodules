@@ -5512,6 +5512,9 @@
 [submodule "bv/nf/meb"]
 	path = bv/nf/meb
 	url = .
+[submodule "bv/ni/lxb"]
+	path = bv/ni/lxb
+	url = .
 [submodule "bv/nx/iac"]
 	path = bv/nx/iac
 	url = .
