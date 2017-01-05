@@ -32953,6 +32953,9 @@
 [submodule "nd/vm/umb"]
 	path = nd/vm/umb
 	url = .
+[submodule "nd/xb/ypg"]
+	path = nd/xb/ypg
+	url = .
 [submodule "nd/yk/arn"]
 	path = nd/yk/arn
 	url = .
