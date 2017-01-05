@@ -646,6 +646,9 @@
 [submodule "br/bz/nfg"]
 	path = br/bz/nfg
 	url = .
+[submodule "br/lg/dqt"]
+	path = br/lg/dqt
+	url = .
 [submodule "br/wj/rms"]
 	path = br/wj/rms
 	url = .
