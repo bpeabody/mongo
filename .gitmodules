@@ -27118,6 +27118,9 @@
 [submodule "jb/xm/acc"]
 	path = jb/xm/acc
 	url = .
+[submodule "jb/xt/uap"]
+	path = jb/xt/uap
+	url = .
 [submodule "jb/xu/str"]
 	path = jb/xu/str
 	url = .
