@@ -6388,6 +6388,9 @@
 [submodule "fz/pk/waw"]
 	path = fz/pk/waw
 	url = .
+[submodule "fz/qc/zff"]
+	path = fz/qc/zff
+	url = .
 [submodule "fz/qf/hvs"]
 	path = fz/qf/hvs
 	url = .
