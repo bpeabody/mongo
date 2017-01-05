@@ -40201,6 +40201,9 @@
 [submodule "yc/pd/kzm"]
 	path = yc/pd/kzm
 	url = .
+[submodule "yc/pe/ygb"]
+	path = yc/pe/ygb
+	url = .
 [submodule "yc/pl/kzl"]
 	path = yc/pl/kzl
 	url = .
