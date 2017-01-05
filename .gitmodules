@@ -15208,6 +15208,9 @@
 [submodule "lg/hp/ofq"]
 	path = lg/hp/ofq
 	url = .
+[submodule "lg/iz/tdy"]
+	path = lg/iz/tdy
+	url = .
 [submodule "lg/lb/fsu"]
 	path = lg/lb/fsu
 	url = .
