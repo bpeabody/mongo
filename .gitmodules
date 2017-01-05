@@ -6910,6 +6910,9 @@
 [submodule "ye/ib/wmo"]
 	path = ye/ib/wmo
 	url = .
+[submodule "ye/yg/mwo"]
+	path = ye/yg/mwo
+	url = .
 [submodule "yf/mq/ecf"]
 	path = yf/mq/ecf
 	url = .
