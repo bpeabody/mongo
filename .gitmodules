@@ -2833,6 +2833,9 @@
 [submodule "bx/gr/nqz"]
 	path = bx/gr/nqz
 	url = .
+[submodule "bx/gw/jzr"]
+	path = bx/gw/jzr
+	url = .
 [submodule "bx/gx/own"]
 	path = bx/gx/own
 	url = .
