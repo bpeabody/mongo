@@ -7936,6 +7936,9 @@
 [submodule "eo/dd/asm"]
 	path = eo/dd/asm
 	url = .
+[submodule "eo/gw/ltd"]
+	path = eo/gw/ltd
+	url = .
 [submodule "eo/hb/hnz"]
 	path = eo/hb/hnz
 	url = .
