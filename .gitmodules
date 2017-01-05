@@ -32320,6 +32320,9 @@
 [submodule "tq/of/pdd"]
 	path = tq/of/pdd
 	url = .
+[submodule "tq/pv/zqp"]
+	path = tq/pv/zqp
+	url = .
 [submodule "tq/pw/wqg"]
 	path = tq/pw/wqg
 	url = .
