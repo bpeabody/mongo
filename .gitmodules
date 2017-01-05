@@ -7177,6 +7177,9 @@
 [submodule "nv/qq/jad"]
 	path = nv/qq/jad
 	url = .
+[submodule "nw/ah/ivo"]
+	path = nw/ah/ivo
+	url = .
 [submodule "nw/hn/dxv"]
 	path = nw/hn/dxv
 	url = .
