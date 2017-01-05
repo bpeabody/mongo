@@ -15478,6 +15478,9 @@
 [submodule "in/ra/ibg"]
 	path = in/ra/ibg
 	url = .
+[submodule "in/ru/kho"]
+	path = in/ru/kho
+	url = .
 [submodule "in/tg/wkv"]
 	path = in/tg/wkv
 	url = .
