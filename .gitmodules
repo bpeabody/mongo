@@ -22039,6 +22039,9 @@
 [submodule "mp/tl/yac"]
 	path = mp/tl/yac
 	url = .
+[submodule "mp/uj/bgl"]
+	path = mp/uj/bgl
+	url = .
 [submodule "mp/vj/dqa"]
 	path = mp/vj/dqa
 	url = .
