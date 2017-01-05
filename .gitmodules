@@ -3517,6 +3517,9 @@
 [submodule "ci/ub/pkv"]
 	path = ci/ub/pkv
 	url = .
+[submodule "ci/vq/gje"]
+	path = ci/vq/gje
+	url = .
 [submodule "ci/wx/lkl"]
 	path = ci/wx/lkl
 	url = .
