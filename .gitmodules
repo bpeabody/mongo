@@ -4462,6 +4462,9 @@
 [submodule "dy/bm/vlm"]
 	path = dy/bm/vlm
 	url = .
+[submodule "dy/fx/aeo"]
+	path = dy/fx/aeo
+	url = .
 [submodule "dy/hm/lay"]
 	path = dy/hm/lay
 	url = .
