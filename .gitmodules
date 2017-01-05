@@ -34192,6 +34192,9 @@
 [submodule "sa/nc/xgc"]
 	path = sa/nc/xgc
 	url = .
+[submodule "sa/nd/lkp"]
+	path = sa/nd/lkp
+	url = .
 [submodule "sa/oo/gaw"]
 	path = sa/oo/gaw
 	url = .
