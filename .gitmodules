@@ -15028,6 +15028,9 @@
 [submodule "yq/zr/cvz"]
 	path = yq/zr/cvz
 	url = .
+[submodule "yr/cq/qmm"]
+	path = yr/cq/qmm
+	url = .
 [submodule "yr/dx/zax"]
 	path = yr/dx/zax
 	url = .
