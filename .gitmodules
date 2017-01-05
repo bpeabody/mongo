@@ -2089,6 +2089,9 @@
 [submodule "bk/db/wzw"]
 	path = bk/db/wzw
 	url = .
+[submodule "bk/ea/kuq"]
+	path = bk/ea/kuq
+	url = .
 [submodule "bk/eh/mvp"]
 	path = bk/eh/mvp
 	url = .
