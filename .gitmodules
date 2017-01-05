@@ -39340,6 +39340,9 @@
 [submodule "qq/cx/bwj"]
 	path = qq/cx/bwj
 	url = .
+[submodule "qq/fy/icy"]
+	path = qq/fy/icy
+	url = .
 [submodule "qq/hg/mnq"]
 	path = qq/hg/mnq
 	url = .
