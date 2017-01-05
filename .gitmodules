@@ -24481,6 +24481,9 @@
 [submodule "po/eh/hxl"]
 	path = po/eh/hxl
 	url = .
+[submodule "po/jl/yap"]
+	path = po/jl/yap
+	url = .
 [submodule "po/me/ftk"]
 	path = po/me/ftk
 	url = .
