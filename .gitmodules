@@ -1807,6 +1807,9 @@
 [submodule "ok/ce/akb"]
 	path = ok/ce/akb
 	url = .
+[submodule "ok/im/nvy"]
+	path = ok/im/nvy
+	url = .
 [submodule "ok/sf/qxt"]
 	path = ok/sf/qxt
 	url = .
