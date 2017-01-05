@@ -820,6 +820,9 @@
 [submodule "ea/zy/wdn"]
 	path = ea/zy/wdn
 	url = .
+[submodule "eb/ba/blr"]
+	path = eb/ba/blr
+	url = .
 [submodule "ec/vp/kwm"]
 	path = ec/vp/kwm
 	url = .
