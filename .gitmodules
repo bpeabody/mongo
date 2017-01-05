@@ -20377,6 +20377,9 @@
 [submodule "gu/xt/kjj"]
 	path = gu/xt/kjj
 	url = .
+[submodule "gu/ya/imu"]
+	path = gu/ya/imu
+	url = .
 [submodule "gu/ze/kca"]
 	path = gu/ze/kca
 	url = .
