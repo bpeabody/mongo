@@ -1081,6 +1081,9 @@
 [submodule "vz/br/lko"]
 	path = vz/br/lko
 	url = .
+[submodule "wf/pe/aww"]
+	path = wf/pe/aww
+	url = .
 [submodule "wh/ga/obo"]
 	path = wh/ga/obo
 	url = .
