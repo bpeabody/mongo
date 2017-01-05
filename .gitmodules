@@ -5953,6 +5953,9 @@
 [submodule "cs/rj/pcn"]
 	path = cs/rj/pcn
 	url = .
+[submodule "cs/ro/zsp"]
+	path = cs/ro/zsp
+	url = .
 [submodule "cs/rp/jpk"]
 	path = cs/rp/jpk
 	url = .
