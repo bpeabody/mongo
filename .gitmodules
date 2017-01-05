@@ -91,6 +91,9 @@
 [submodule "ab/tp/iho"]
 	path = ab/tp/iho
 	url = .
+[submodule "ab/wq/jxi"]
+	path = ab/wq/jxi
+	url = .
 [submodule "ab/xh/lza"]
 	path = ab/xh/lza
 	url = .
