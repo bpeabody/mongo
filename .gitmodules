@@ -11587,6 +11587,9 @@
 [submodule "ut/gg/jqv"]
 	path = ut/gg/jqv
 	url = .
+[submodule "ut/hr/wei"]
+	path = ut/hr/wei
+	url = .
 [submodule "ut/il/bjn"]
 	path = ut/il/bjn
 	url = .
