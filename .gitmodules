@@ -54376,6 +54376,9 @@
 [submodule "ve/fh/kvq"]
 	path = ve/fh/kvq
 	url = .
+[submodule "ve/gc/rcl"]
+	path = ve/gc/rcl
+	url = .
 [submodule "ve/gd/lav"]
 	path = ve/gd/lav
 	url = .
