@@ -7615,6 +7615,9 @@
 [submodule "ei/nd/wwd"]
 	path = ei/nd/wwd
 	url = .
+[submodule "ei/np/hzn"]
+	path = ei/np/hzn
+	url = .
 [submodule "ei/nt/zkm"]
 	path = ei/nt/zkm
 	url = .
