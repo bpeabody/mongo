@@ -13843,6 +13843,9 @@
 [submodule "ln/tz/wvm"]
 	path = ln/tz/wvm
 	url = .
+[submodule "ln/uj/tkm"]
+	path = ln/uj/tkm
+	url = .
 [submodule "ln/uz/uaa"]
 	path = ln/uz/uaa
 	url = .
