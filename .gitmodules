@@ -22996,6 +22996,9 @@
 [submodule "oe/is/uqx"]
 	path = oe/is/uqx
 	url = .
+[submodule "oe/jl/yud"]
+	path = oe/jl/yud
+	url = .
 [submodule "oe/kp/mie"]
 	path = oe/kp/mie
 	url = .
