@@ -1033,6 +1033,9 @@
 [submodule "an/tc/pvv"]
 	path = an/tc/pvv
 	url = .
+[submodule "an/tg/cgb"]
+	path = an/tg/cgb
+	url = .
 [submodule "an/tp/fys"]
 	path = an/tp/fys
 	url = .
