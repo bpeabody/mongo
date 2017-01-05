@@ -2599,6 +2599,9 @@
 [submodule "bz/tb/enc"]
 	path = bz/tb/enc
 	url = .
+[submodule "bz/te/scy"]
+	path = bz/te/scy
+	url = .
 [submodule "bz/tp/dgj"]
 	path = bz/tp/dgj
 	url = .
