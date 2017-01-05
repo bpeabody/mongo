@@ -583,6 +583,9 @@
 [submodule "wt/ns/qgx"]
 	path = wt/ns/qgx
 	url = .
+[submodule "wu/eg/jnl"]
+	path = wu/eg/jnl
+	url = .
 [submodule "wy/uy/gtt"]
 	path = wy/uy/gtt
 	url = .
