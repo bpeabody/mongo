@@ -31168,6 +31168,9 @@
 [submodule "mk/gi/mho"]
 	path = mk/gi/mho
 	url = .
+[submodule "mk/gt/hqe"]
+	path = mk/gt/hqe
+	url = .
 [submodule "mk/hb/qfl"]
 	path = mk/hb/qfl
 	url = .
