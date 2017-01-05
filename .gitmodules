@@ -14476,6 +14476,9 @@
 [submodule "ld/ho/xus"]
 	path = ld/ho/xus
 	url = .
+[submodule "ld/jo/hmm"]
+	path = ld/jo/hmm
+	url = .
 [submodule "ld/jo/plu"]
 	path = ld/jo/plu
 	url = .
