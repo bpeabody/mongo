@@ -10213,6 +10213,9 @@
 [submodule "qj/as/snn"]
 	path = qj/as/snn
 	url = .
+[submodule "qj/dj/qdy"]
+	path = qj/dj/qdy
+	url = .
 [submodule "qj/gs/ogd"]
 	path = qj/gs/ogd
 	url = .
