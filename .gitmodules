@@ -19852,6 +19852,9 @@
 [submodule "ie/ab/eyk"]
 	path = ie/ab/eyk
 	url = .
+[submodule "ie/bd/rug"]
+	path = ie/bd/rug
+	url = .
 [submodule "ie/bh/rni"]
 	path = ie/bh/rni
 	url = .
