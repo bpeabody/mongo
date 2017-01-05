@@ -7939,6 +7939,9 @@
 [submodule "ds/rh/amp"]
 	path = ds/rh/amp
 	url = .
+[submodule "ds/sk/dko"]
+	path = ds/sk/dko
+	url = .
 [submodule "ds/sx/gdg"]
 	path = ds/sx/gdg
 	url = .
