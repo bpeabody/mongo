@@ -2419,6 +2419,9 @@
 [submodule "cl/ht/ioq"]
 	path = cl/ht/ioq
 	url = .
+[submodule "cl/jb/ttu"]
+	path = cl/jb/ttu
+	url = .
 [submodule "cl/jl/kid"]
 	path = cl/jl/kid
 	url = .
