@@ -3568,6 +3568,9 @@
 [submodule "jh/nv/rlg"]
 	path = jh/nv/rlg
 	url = .
+[submodule "jh/rd/sfk"]
+	path = jh/rd/sfk
+	url = .
 [submodule "jh/st/tuj"]
 	path = jh/st/tuj
 	url = .
