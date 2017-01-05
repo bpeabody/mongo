@@ -184,6 +184,9 @@
 [submodule "bt/lv/fax"]
 	path = bt/lv/fax
 	url = .
+[submodule "bu/ll/grq"]
+	path = bu/ll/grq
+	url = .
 [submodule "bu/pw/you"]
 	path = bu/pw/you
 	url = .
