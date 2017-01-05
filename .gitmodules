@@ -10666,6 +10666,9 @@
 [submodule "hi/fk/orn"]
 	path = hi/fk/orn
 	url = .
+[submodule "hi/fw/ena"]
+	path = hi/fw/ena
+	url = .
 [submodule "hi/gj/ibw"]
 	path = hi/gj/ibw
 	url = .
