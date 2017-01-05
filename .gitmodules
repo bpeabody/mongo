@@ -20047,6 +20047,9 @@
 [submodule "wt/ns/qgx"]
 	path = wt/ns/qgx
 	url = .
+[submodule "wt/rn/xel"]
+	path = wt/rn/xel
+	url = .
 [submodule "wt/zi/jpq"]
 	path = wt/zi/jpq
 	url = .
