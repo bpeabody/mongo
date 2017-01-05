@@ -36733,6 +36733,9 @@
 [submodule "rs/be/kmk"]
 	path = rs/be/kmk
 	url = .
+[submodule "rs/bn/qii"]
+	path = rs/bn/qii
+	url = .
 [submodule "rs/cv/xnp"]
 	path = rs/cv/xnp
 	url = .
