@@ -56026,6 +56026,9 @@
 [submodule "yx/bk/mpf"]
 	path = yx/bk/mpf
 	url = .
+[submodule "yx/dd/fvs"]
+	path = yx/dd/fvs
+	url = .
 [submodule "yx/dl/dmn"]
 	path = yx/dl/dmn
 	url = .
