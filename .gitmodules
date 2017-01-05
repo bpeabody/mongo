@@ -97,6 +97,9 @@
 [submodule "ae/sk/qvr"]
 	path = ae/sk/qvr
 	url = .
+[submodule "ae/yp/byl"]
+	path = ae/yp/byl
+	url = .
 [submodule "af/so/yoz"]
 	path = af/so/yoz
 	url = .
