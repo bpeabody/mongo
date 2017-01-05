@@ -58150,6 +58150,9 @@
 [submodule "ub/at/uag"]
 	path = ub/at/uag
 	url = .
+[submodule "ub/br/jqk"]
+	path = ub/br/jqk
+	url = .
 [submodule "ub/cw/yhl"]
 	path = ub/cw/yhl
 	url = .
