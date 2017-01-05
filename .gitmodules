@@ -20044,6 +20044,9 @@
 [submodule "jl/py/tgc"]
 	path = jl/py/tgc
 	url = .
+[submodule "jl/tt/irm"]
+	path = jl/tt/irm
+	url = .
 [submodule "jl/ua/wck"]
 	path = jl/ua/wck
 	url = .
