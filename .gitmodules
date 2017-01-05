@@ -1297,6 +1297,9 @@
 [submodule "ey/gd/gjj"]
 	path = ey/gd/gjj
 	url = .
+[submodule "ey/nb/ufs"]
+	path = ey/nb/ufs
+	url = .
 [submodule "ey/za/jib"]
 	path = ey/za/jib
 	url = .
