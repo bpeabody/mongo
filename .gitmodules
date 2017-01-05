@@ -11542,6 +11542,9 @@
 [submodule "pm/pg/hta"]
 	path = pm/pg/hta
 	url = .
+[submodule "pn/bt/juk"]
+	path = pn/bt/juk
+	url = .
 [submodule "pn/fl/pwy"]
 	path = pn/fl/pwy
 	url = .
