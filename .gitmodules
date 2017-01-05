@@ -160,6 +160,9 @@
 [submodule "bx/tb/cbr"]
 	path = bx/tb/cbr
 	url = .
+[submodule "by/gm/iur"]
+	path = by/gm/iur
+	url = .
 [submodule "bz/jf/mvk"]
 	path = bz/jf/mvk
 	url = .
