@@ -23968,6 +23968,9 @@
 [submodule "kj/mq/odj"]
 	path = kj/mq/odj
 	url = .
+[submodule "kj/nv/edg"]
+	path = kj/nv/edg
+	url = .
 [submodule "kj/ov/ikj"]
 	path = kj/ov/ikj
 	url = .
