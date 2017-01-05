@@ -36427,6 +36427,9 @@
 [submodule "vw/fy/gss"]
 	path = vw/fy/gss
 	url = .
+[submodule "vw/hl/dea"]
+	path = vw/hl/dea
+	url = .
 [submodule "vw/il/udl"]
 	path = vw/il/udl
 	url = .
