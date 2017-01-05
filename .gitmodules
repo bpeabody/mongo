@@ -19645,6 +19645,9 @@
 [submodule "kq/ro/ido"]
 	path = kq/ro/ido
 	url = .
+[submodule "kq/ss/cpp"]
+	path = kq/ss/cpp
+	url = .
 [submodule "kq/th/itg"]
 	path = kq/th/itg
 	url = .
