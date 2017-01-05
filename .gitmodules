@@ -20503,6 +20503,9 @@
 [submodule "oe/gz/oqg"]
 	path = oe/gz/oqg
 	url = .
+[submodule "oe/is/uqx"]
+	path = oe/is/uqx
+	url = .
 [submodule "oe/kp/mie"]
 	path = oe/kp/mie
 	url = .
