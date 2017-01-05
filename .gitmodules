@@ -13540,6 +13540,9 @@
 [submodule "xm/se/pav"]
 	path = xm/se/pav
 	url = .
+[submodule "xm/sp/bgk"]
+	path = xm/sp/bgk
+	url = .
 [submodule "xm/ym/vvk"]
 	path = xm/ym/vvk
 	url = .
