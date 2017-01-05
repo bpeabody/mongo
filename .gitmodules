@@ -4588,6 +4588,9 @@
 [submodule "bw/sc/pcm"]
 	path = bw/sc/pcm
 	url = .
+[submodule "bw/sg/xfz"]
+	path = bw/sg/xfz
+	url = .
 [submodule "bw/sk/wyu"]
 	path = bw/sk/wyu
 	url = .
