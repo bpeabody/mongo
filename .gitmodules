@@ -2539,6 +2539,9 @@
 [submodule "sk/uv/ada"]
 	path = sk/uv/ada
 	url = .
+[submodule "sl/gl/dfv"]
+	path = sl/gl/dfv
+	url = .
 [submodule "sm/ai/qfy"]
 	path = sm/ai/qfy
 	url = .
