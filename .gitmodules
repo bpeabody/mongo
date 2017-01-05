@@ -4423,6 +4423,9 @@
 [submodule "ga/fs/ast"]
 	path = ga/fs/ast
 	url = .
+[submodule "ga/ja/gqs"]
+	path = ga/ja/gqs
+	url = .
 [submodule "ga/mk/wbw"]
 	path = ga/mk/wbw
 	url = .
