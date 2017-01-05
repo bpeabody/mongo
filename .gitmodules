@@ -112,6 +112,9 @@
 [submodule "at/ce/kma"]
 	path = at/ce/kma
 	url = .
+[submodule "at/kx/nhz"]
+	path = at/kx/nhz
+	url = .
 [submodule "au/cv/tai"]
 	path = au/cv/tai
 	url = .
