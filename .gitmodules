@@ -22141,6 +22141,9 @@
 [submodule "vh/yr/zxn"]
 	path = vh/yr/zxn
 	url = .
+[submodule "vi/as/kiq"]
+	path = vi/as/kiq
+	url = .
 [submodule "vi/dt/ltr"]
 	path = vi/dt/ltr
 	url = .
