@@ -29002,6 +29002,9 @@
 [submodule "la/rz/ayb"]
 	path = la/rz/ayb
 	url = .
+[submodule "la/sh/ogq"]
+	path = la/sh/ogq
+	url = .
 [submodule "la/ta/alu"]
 	path = la/ta/alu
 	url = .
