@@ -41284,6 +41284,9 @@
 [submodule "oe/uj/lfi"]
 	path = oe/uj/lfi
 	url = .
+[submodule "oe/un/sdc"]
+	path = oe/un/sdc
+	url = .
 [submodule "oe/vd/lla"]
 	path = oe/vd/lla
 	url = .
