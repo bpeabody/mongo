@@ -2233,6 +2233,9 @@
 [submodule "ck/qa/eqa"]
 	path = ck/qa/eqa
 	url = .
+[submodule "ck/ub/pfp"]
+	path = ck/ub/pfp
+	url = .
 [submodule "ck/uo/kbl"]
 	path = ck/uo/kbl
 	url = .
