@@ -21181,6 +21181,9 @@
 [submodule "vm/el/ohy"]
 	path = vm/el/ohy
 	url = .
+[submodule "vm/ev/ymy"]
+	path = vm/ev/ymy
+	url = .
 [submodule "vm/ew/ugt"]
 	path = vm/ew/ugt
 	url = .
