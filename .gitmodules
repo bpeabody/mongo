@@ -106,6 +106,9 @@
 [submodule "bd/hp/dsx"]
 	path = bd/hp/dsx
 	url = .
+[submodule "be/ha/ker"]
+	path = be/ha/ker
+	url = .
 [submodule "bf/gf/vfh"]
 	path = bf/gf/vfh
 	url = .
