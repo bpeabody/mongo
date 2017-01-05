@@ -16657,6 +16657,9 @@
 [submodule "gn/ez/bus"]
 	path = gn/ez/bus
 	url = .
+[submodule "gn/gn/adk"]
+	path = gn/gn/adk
+	url = .
 [submodule "gn/ij/ywb"]
 	path = gn/ij/ywb
 	url = .
