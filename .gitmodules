@@ -580,6 +580,9 @@
 [submodule "xf/ou/lup"]
 	path = xf/ou/lup
 	url = .
+[submodule "xh/er/wci"]
+	path = xh/er/wci
+	url = .
 [submodule "xj/az/dsw"]
 	path = xj/az/dsw
 	url = .
