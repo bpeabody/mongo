@@ -9253,6 +9253,9 @@
 [submodule "tn/me/nbn"]
 	path = tn/me/nbn
 	url = .
+[submodule "tn/qn/yiu"]
+	path = tn/qn/yiu
+	url = .
 [submodule "tn/uk/ijp"]
 	path = tn/uk/ijp
 	url = .
