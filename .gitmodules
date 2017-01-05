@@ -8500,6 +8500,9 @@
 [submodule "vb/ip/gty"]
 	path = vb/ip/gty
 	url = .
+[submodule "vb/mu/nme"]
+	path = vb/mu/nme
+	url = .
 [submodule "vc/bc/aub"]
 	path = vc/bc/aub
 	url = .
