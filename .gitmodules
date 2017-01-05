@@ -21457,6 +21457,9 @@
 [submodule "ye/yg/mwo"]
 	path = ye/yg/mwo
 	url = .
+[submodule "ye/zk/qmm"]
+	path = ye/zk/qmm
+	url = .
 [submodule "yf/eg/fsn"]
 	path = yf/eg/fsn
 	url = .
