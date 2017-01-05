@@ -20692,6 +20692,9 @@
 [submodule "lv/vx/rks"]
 	path = lv/vx/rks
 	url = .
+[submodule "lv/vy/qqs"]
+	path = lv/vy/qqs
+	url = .
 [submodule "lv/wc/gsj"]
 	path = lv/wc/gsj
 	url = .
