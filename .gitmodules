@@ -19444,6 +19444,9 @@
 [submodule "hr/zg/zhz"]
 	path = hr/zg/zhz
 	url = .
+[submodule "hr/zk/ead"]
+	path = hr/zk/ead
+	url = .
 [submodule "hs/ae/gvg"]
 	path = hs/ae/gvg
 	url = .
