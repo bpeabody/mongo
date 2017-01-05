@@ -6220,6 +6220,9 @@
 [submodule "ha/tz/vbb"]
 	path = ha/tz/vbb
 	url = .
+[submodule "ha/ui/qlf"]
+	path = ha/ui/qlf
+	url = .
 [submodule "ha/wg/fje"]
 	path = ha/wg/fje
 	url = .
