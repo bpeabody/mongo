@@ -8896,6 +8896,9 @@
 [submodule "eg/ix/ryu"]
 	path = eg/ix/ryu
 	url = .
+[submodule "eg/kb/ymf"]
+	path = eg/kb/ymf
+	url = .
 [submodule "eg/kd/fdn"]
 	path = eg/kd/fdn
 	url = .
