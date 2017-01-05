@@ -22549,6 +22549,9 @@
 [submodule "hv/bn/hha"]
 	path = hv/bn/hha
 	url = .
+[submodule "hv/bx/ldi"]
+	path = hv/bx/ldi
+	url = .
 [submodule "hv/db/wan"]
 	path = hv/db/wan
 	url = .
