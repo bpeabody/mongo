@@ -26800,6 +26800,9 @@
 [submodule "zc/qq/civ"]
 	path = zc/qq/civ
 	url = .
+[submodule "zc/rp/avp"]
+	path = zc/rp/avp
+	url = .
 [submodule "zc/sh/wqz"]
 	path = zc/sh/wqz
 	url = .
