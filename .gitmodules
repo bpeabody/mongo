@@ -11374,6 +11374,9 @@
 [submodule "te/cm/vea"]
 	path = te/cm/vea
 	url = .
+[submodule "te/cz/hwe"]
+	path = te/cz/hwe
+	url = .
 [submodule "te/kr/egt"]
 	path = te/kr/egt
 	url = .
