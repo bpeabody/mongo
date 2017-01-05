@@ -16342,6 +16342,9 @@
 [submodule "jx/bw/mma"]
 	path = jx/bw/mma
 	url = .
+[submodule "jx/cn/gvr"]
+	path = jx/cn/gvr
+	url = .
 [submodule "jx/dz/rhd"]
 	path = jx/dz/rhd
 	url = .
