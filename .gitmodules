@@ -15259,6 +15259,9 @@
 [submodule "ib/hv/xxm"]
 	path = ib/hv/xxm
 	url = .
+[submodule "ib/it/uaj"]
+	path = ib/it/uaj
+	url = .
 [submodule "ib/lc/xin"]
 	path = ib/lc/xin
 	url = .
