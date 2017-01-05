@@ -14647,6 +14647,9 @@
 [submodule "jg/uy/mjn"]
 	path = jg/uy/mjn
 	url = .
+[submodule "jg/va/byj"]
+	path = jg/va/byj
+	url = .
 [submodule "jg/vs/wcy"]
 	path = jg/vs/wcy
 	url = .
