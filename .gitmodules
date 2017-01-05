@@ -8611,6 +8611,9 @@
 [submodule "ps/zj/nvi"]
 	path = ps/zj/nvi
 	url = .
+[submodule "ps/zn/zsk"]
+	path = ps/zn/zsk
+	url = .
 [submodule "ps/zy/hxr"]
 	path = ps/zy/hxr
 	url = .
