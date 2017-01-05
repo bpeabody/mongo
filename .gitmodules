@@ -5785,6 +5785,9 @@
 [submodule "he/jz/lay"]
 	path = he/jz/lay
 	url = .
+[submodule "he/km/rba"]
+	path = he/km/rba
+	url = .
 [submodule "he/pb/wlt"]
 	path = he/pb/wlt
 	url = .
