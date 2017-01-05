@@ -13189,6 +13189,9 @@
 [submodule "jb/cx/lbz"]
 	path = jb/cx/lbz
 	url = .
+[submodule "jb/gp/dql"]
+	path = jb/gp/dql
+	url = .
 [submodule "jb/jw/pyz"]
 	path = jb/jw/pyz
 	url = .
