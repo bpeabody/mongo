@@ -1045,6 +1045,9 @@
 [submodule "vw/ms/uvh"]
 	path = vw/ms/uvh
 	url = .
+[submodule "vw/ug/rru"]
+	path = vw/ug/rru
+	url = .
 [submodule "vz/br/lko"]
 	path = vz/br/lko
 	url = .
