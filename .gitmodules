@@ -14548,6 +14548,9 @@
 [submodule "rs/ia/zvx"]
 	path = rs/ia/zvx
 	url = .
+[submodule "rs/jh/dea"]
+	path = rs/jh/dea
+	url = .
 [submodule "rs/kp/yit"]
 	path = rs/kp/yit
 	url = .
