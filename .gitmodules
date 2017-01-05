@@ -25180,6 +25180,9 @@
 [submodule "rm/ht/djq"]
 	path = rm/ht/djq
 	url = .
+[submodule "rm/iq/etf"]
+	path = rm/iq/etf
+	url = .
 [submodule "rm/iz/vnl"]
 	path = rm/iz/vnl
 	url = .
