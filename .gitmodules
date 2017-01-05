@@ -9811,6 +9811,9 @@
 [submodule "tk/pg/pnq"]
 	path = tk/pg/pnq
 	url = .
+[submodule "tk/pu/mwg"]
+	path = tk/pu/mwg
+	url = .
 [submodule "tk/rt/asr"]
 	path = tk/rt/asr
 	url = .
