@@ -8896,6 +8896,9 @@
 [submodule "ic/ay/vxm"]
 	path = ic/ay/vxm
 	url = .
+[submodule "ic/bm/lcn"]
+	path = ic/bm/lcn
+	url = .
 [submodule "ic/iy/pkl"]
 	path = ic/iy/pkl
 	url = .
