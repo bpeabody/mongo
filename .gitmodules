@@ -1615,6 +1615,9 @@
 [submodule "bg/jm/rtb"]
 	path = bg/jm/rtb
 	url = .
+[submodule "bg/kq/wpu"]
+	path = bg/kq/wpu
+	url = .
 [submodule "bg/kw/swk"]
 	path = bg/kw/swk
 	url = .
