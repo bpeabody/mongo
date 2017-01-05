@@ -24682,6 +24682,9 @@
 [submodule "xi/pf/yei"]
 	path = xi/pf/yei
 	url = .
+[submodule "xi/rd/fig"]
+	path = xi/rd/fig
+	url = .
 [submodule "xi/ro/myu"]
 	path = xi/ro/myu
 	url = .
