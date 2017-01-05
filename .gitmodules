@@ -8446,6 +8446,9 @@
 [submodule "fy/ru/qig"]
 	path = fy/ru/qig
 	url = .
+[submodule "fy/rv/ukh"]
+	path = fy/rv/ukh
+	url = .
 [submodule "fy/rw/zbb"]
 	path = fy/rw/zbb
 	url = .
