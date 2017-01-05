@@ -1582,6 +1582,9 @@
 [submodule "gh/hk/ehl"]
 	path = gh/hk/ehl
 	url = .
+[submodule "gh/oe/svx"]
+	path = gh/oe/svx
+	url = .
 [submodule "gh/rj/kmp"]
 	path = gh/rj/kmp
 	url = .
