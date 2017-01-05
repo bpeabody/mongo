@@ -69187,6 +69187,9 @@
 [submodule "xk/rx/kkx"]
 	path = xk/rx/kkx
 	url = .
+[submodule "xk/si/hqx"]
+	path = xk/si/hqx
+	url = .
 [submodule "xk/tk/bzg"]
 	path = xk/tk/bzg
 	url = .
