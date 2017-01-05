@@ -60694,6 +60694,9 @@
 [submodule "yf/vs/nbu"]
 	path = yf/vs/nbu
 	url = .
+[submodule "yf/wa/uwf"]
+	path = yf/wa/uwf
+	url = .
 [submodule "yf/wg/suy"]
 	path = yf/wg/suy
 	url = .
