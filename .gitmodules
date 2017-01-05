@@ -30016,6 +30016,9 @@
 [submodule "ra/bm/wzd"]
 	path = ra/bm/wzd
 	url = .
+[submodule "ra/bo/ejz"]
+	path = ra/bo/ejz
+	url = .
 [submodule "ra/ds/aqw"]
 	path = ra/ds/aqw
 	url = .
