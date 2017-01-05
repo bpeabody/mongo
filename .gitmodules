@@ -16354,6 +16354,9 @@
 [submodule "or/nv/edw"]
 	path = or/nv/edw
 	url = .
+[submodule "or/ob/yia"]
+	path = or/ob/yia
+	url = .
 [submodule "or/ou/kcu"]
 	path = or/ou/kcu
 	url = .
