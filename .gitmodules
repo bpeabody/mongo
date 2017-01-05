@@ -39946,6 +39946,9 @@
 [submodule "vn/re/olf"]
 	path = vn/re/olf
 	url = .
+[submodule "vn/vj/hhs"]
+	path = vn/vj/hhs
+	url = .
 [submodule "vn/wj/zcq"]
 	path = vn/wj/zcq
 	url = .
