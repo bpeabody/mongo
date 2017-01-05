@@ -4003,6 +4003,9 @@
 [submodule "ih/gd/zwq"]
 	path = ih/gd/zwq
 	url = .
+[submodule "ih/mu/qwz"]
+	path = ih/mu/qwz
+	url = .
 [submodule "ih/sv/zki"]
 	path = ih/sv/zki
 	url = .
