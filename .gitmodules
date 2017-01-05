@@ -9217,6 +9217,9 @@
 [submodule "hd/iy/sgr"]
 	path = hd/iy/sgr
 	url = .
+[submodule "hd/jh/kza"]
+	path = hd/jh/kza
+	url = .
 [submodule "hd/kc/ihu"]
 	path = hd/kc/ihu
 	url = .
