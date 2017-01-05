@@ -7087,6 +7087,9 @@
 [submodule "rv/wf/doj"]
 	path = rv/wf/doj
 	url = .
+[submodule "rv/wh/qlu"]
+	path = rv/wh/qlu
+	url = .
 [submodule "rw/ay/csq"]
 	path = rw/ay/csq
 	url = .
