@@ -6709,6 +6709,9 @@
 [submodule "pd/cl/xgk"]
 	path = pd/cl/xgk
 	url = .
+[submodule "pd/de/xwi"]
+	path = pd/de/xwi
+	url = .
 [submodule "pd/ds/acp"]
 	path = pd/ds/acp
 	url = .
