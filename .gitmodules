@@ -38206,6 +38206,9 @@
 [submodule "te/um/nde"]
 	path = te/um/nde
 	url = .
+[submodule "te/vm/ewd"]
+	path = te/vm/ewd
+	url = .
 [submodule "te/wt/bmn"]
 	path = te/wt/bmn
 	url = .
