@@ -40519,6 +40519,9 @@
 [submodule "ym/ky/qgj"]
 	path = ym/ky/qgj
 	url = .
+[submodule "ym/nb/cnf"]
+	path = ym/nb/cnf
+	url = .
 [submodule "ym/nc/ori"]
 	path = ym/nc/ori
 	url = .
