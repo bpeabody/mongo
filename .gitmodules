@@ -33835,6 +33835,9 @@
 [submodule "pt/lg/pki"]
 	path = pt/lg/pki
 	url = .
+[submodule "pt/nb/yjc"]
+	path = pt/nb/yjc
+	url = .
 [submodule "pt/nr/szk"]
 	path = pt/nr/szk
 	url = .
