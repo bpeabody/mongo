@@ -41254,6 +41254,9 @@
 [submodule "rj/yd/adn"]
 	path = rj/yd/adn
 	url = .
+[submodule "rj/yd/bqn"]
+	path = rj/yd/bqn
+	url = .
 [submodule "rj/yr/bvq"]
 	path = rj/yr/bvq
 	url = .
