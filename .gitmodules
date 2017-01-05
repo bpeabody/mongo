@@ -8821,6 +8821,9 @@
 [submodule "qn/gd/sgi"]
 	path = qn/gd/sgi
 	url = .
+[submodule "qn/kg/yse"]
+	path = qn/kg/yse
+	url = .
 [submodule "qn/rm/ptp"]
 	path = qn/rm/ptp
 	url = .
