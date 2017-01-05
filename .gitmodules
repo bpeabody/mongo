@@ -5371,6 +5371,9 @@
 [submodule "hk/by/tik"]
 	path = hk/by/tik
 	url = .
+[submodule "hk/di/frz"]
+	path = hk/di/frz
+	url = .
 [submodule "hk/ka/ukm"]
 	path = hk/ka/ukm
 	url = .
