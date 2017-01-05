@@ -82,6 +82,9 @@
 [submodule "vr/zr/mrj"]
 	path = vr/zr/mrj
 	url = .
+[submodule "vv/xk/bft"]
+	path = vv/xk/bft
+	url = .
 [submodule "vz/br/lko"]
 	path = vz/br/lko
 	url = .
