@@ -811,6 +811,9 @@
 [submodule "em/ck/sxc"]
 	path = em/ck/sxc
 	url = .
+[submodule "em/fy/xhf"]
+	path = em/fy/xhf
+	url = .
 [submodule "em/zk/ulx"]
 	path = em/zk/ulx
 	url = .
