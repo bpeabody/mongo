@@ -3013,6 +3013,9 @@
 [submodule "dx/cx/dwo"]
 	path = dx/cx/dwo
 	url = .
+[submodule "dx/ga/tjq"]
+	path = dx/ga/tjq
+	url = .
 [submodule "dx/iy/zau"]
 	path = dx/iy/zau
 	url = .
