@@ -38377,6 +38377,9 @@
 [submodule "um/zt/mqc"]
 	path = um/zt/mqc
 	url = .
+[submodule "um/zx/fkw"]
+	path = um/zx/fkw
+	url = .
 [submodule "un/dm/uur"]
 	path = un/dm/uur
 	url = .
