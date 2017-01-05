@@ -31669,6 +31669,9 @@
 [submodule "vt/uc/bzv"]
 	path = vt/uc/bzv
 	url = .
+[submodule "vt/wo/vxv"]
+	path = vt/wo/vxv
+	url = .
 [submodule "vt/yg/hwf"]
 	path = vt/yg/hwf
 	url = .
