@@ -1417,6 +1417,9 @@
 [submodule "fh/dm/aib"]
 	path = fh/dm/aib
 	url = .
+[submodule "fh/fz/nag"]
+	path = fh/fz/nag
+	url = .
 [submodule "fh/ha/ilo"]
 	path = fh/ha/ilo
 	url = .
