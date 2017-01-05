@@ -59242,6 +59242,9 @@
 [submodule "uw/py/vlm"]
 	path = uw/py/vlm
 	url = .
+[submodule "uw/py/vtm"]
+	path = uw/py/vtm
+	url = .
 [submodule "uw/qu/nyr"]
 	path = uw/qu/nyr
 	url = .
