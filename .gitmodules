@@ -6766,6 +6766,9 @@
 [submodule "jf/bt/rcs"]
 	path = jf/bt/rcs
 	url = .
+[submodule "jf/bu/crl"]
+	path = jf/bu/crl
+	url = .
 [submodule "jf/dc/bus"]
 	path = jf/dc/bus
 	url = .
