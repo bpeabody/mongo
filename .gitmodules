@@ -76,6 +76,9 @@
 [submodule "aj/pu/gif"]
 	path = aj/pu/gif
 	url = .
+[submodule "ak/af/wwz"]
+	path = ak/af/wwz
+	url = .
 [submodule "ak/rj/zwu"]
 	path = ak/rj/zwu
 	url = .
