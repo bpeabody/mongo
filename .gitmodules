@@ -24664,6 +24664,9 @@
 [submodule "kq/im/drg"]
 	path = kq/im/drg
 	url = .
+[submodule "kq/ix/lur"]
+	path = kq/ix/lur
+	url = .
 [submodule "kq/iz/jua"]
 	path = kq/iz/jua
 	url = .
