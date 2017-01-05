@@ -17002,6 +17002,9 @@
 [submodule "iv/mf/wma"]
 	path = iv/mf/wma
 	url = .
+[submodule "iv/mj/vpn"]
+	path = iv/mj/vpn
+	url = .
 [submodule "iv/nd/wrf"]
 	path = iv/nd/wrf
 	url = .
