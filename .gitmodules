@@ -1684,6 +1684,9 @@
 [submodule "bq/sk/oxl"]
 	path = bq/sk/oxl
 	url = .
+[submodule "bq/te/rjg"]
+	path = bq/te/rjg
+	url = .
 [submodule "bq/tn/mqs"]
 	path = bq/tn/mqs
 	url = .
