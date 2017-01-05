@@ -484,6 +484,9 @@
 [submodule "db/aw/yos"]
 	path = db/aw/yos
 	url = .
+[submodule "db/kf/eke"]
+	path = db/kf/eke
+	url = .
 [submodule "db/ny/kmc"]
 	path = db/ny/kmc
 	url = .
