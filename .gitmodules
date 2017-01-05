@@ -10087,6 +10087,9 @@
 [submodule "ez/js/kza"]
 	path = ez/js/kza
 	url = .
+[submodule "ez/kp/eaa"]
+	path = ez/kp/eaa
+	url = .
 [submodule "ez/lr/onh"]
 	path = ez/lr/onh
 	url = .
