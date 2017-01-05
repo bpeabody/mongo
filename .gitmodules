@@ -21241,6 +21241,9 @@
 [submodule "sz/cu/ryy"]
 	path = sz/cu/ryy
 	url = .
+[submodule "sz/dt/rly"]
+	path = sz/dt/rly
+	url = .
 [submodule "sz/dv/skx"]
 	path = sz/dv/skx
 	url = .
