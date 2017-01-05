@@ -49033,6 +49033,9 @@
 [submodule "xh/ip/trj"]
 	path = xh/ip/trj
 	url = .
+[submodule "xh/lh/pxr"]
+	path = xh/lh/pxr
+	url = .
 [submodule "xh/na/kpb"]
 	path = xh/na/kpb
 	url = .
