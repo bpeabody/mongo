@@ -4768,6 +4768,9 @@
 [submodule "kb/tp/zov"]
 	path = kb/tp/zov
 	url = .
+[submodule "kb/tt/txe"]
+	path = kb/tt/txe
+	url = .
 [submodule "kc/az/dsp"]
 	path = kc/az/dsp
 	url = .
