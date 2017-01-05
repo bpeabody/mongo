@@ -25747,6 +25747,9 @@
 [submodule "lf/lc/ghs"]
 	path = lf/lc/ghs
 	url = .
+[submodule "lf/mk/eir"]
+	path = lf/mk/eir
+	url = .
 [submodule "lf/mw/itq"]
 	path = lf/mw/itq
 	url = .
