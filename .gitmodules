@@ -2320,6 +2320,9 @@
 [submodule "dd/om/abl"]
 	path = dd/om/abl
 	url = .
+[submodule "dd/tk/uml"]
+	path = dd/tk/uml
+	url = .
 [submodule "dd/uk/vfl"]
 	path = dd/uk/vfl
 	url = .
