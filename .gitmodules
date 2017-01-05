@@ -44884,6 +44884,9 @@
 [submodule "ui/ny/eav"]
 	path = ui/ny/eav
 	url = .
+[submodule "ui/pb/ntc"]
+	path = ui/pb/ntc
+	url = .
 [submodule "ui/qs/uxd"]
 	path = ui/qs/uxd
 	url = .
