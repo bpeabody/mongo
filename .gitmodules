@@ -21280,6 +21280,9 @@
 [submodule "jv/kw/gyu"]
 	path = jv/kw/gyu
 	url = .
+[submodule "jv/mg/iow"]
+	path = jv/mg/iow
+	url = .
 [submodule "jv/no/vqn"]
 	path = jv/no/vqn
 	url = .
