@@ -8164,6 +8164,9 @@
 [submodule "mp/lf/bde"]
 	path = mp/lf/bde
 	url = .
+[submodule "mp/lh/dkt"]
+	path = mp/lh/dkt
+	url = .
 [submodule "mp/ln/ufh"]
 	path = mp/ln/ufh
 	url = .
