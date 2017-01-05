@@ -2920,6 +2920,9 @@
 [submodule "np/hp/zbv"]
 	path = np/hp/zbv
 	url = .
+[submodule "np/rp/mdl"]
+	path = np/rp/mdl
+	url = .
 [submodule "np/se/nik"]
 	path = np/se/nik
 	url = .
