@@ -8545,6 +8545,9 @@
 [submodule "fb/gz/fhc"]
 	path = fb/gz/fhc
 	url = .
+[submodule "fb/ix/azd"]
+	path = fb/ix/azd
+	url = .
 [submodule "fb/ji/hks"]
 	path = fb/ji/hks
 	url = .
