@@ -4012,6 +4012,9 @@
 [submodule "wy/mb/qdd"]
 	path = wy/mb/qdd
 	url = .
+[submodule "wy/sm/aew"]
+	path = wy/sm/aew
+	url = .
 [submodule "wy/uy/gtt"]
 	path = wy/uy/gtt
 	url = .
