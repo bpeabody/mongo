@@ -36292,6 +36292,9 @@
 [submodule "wv/in/gjp"]
 	path = wv/in/gjp
 	url = .
+[submodule "wv/it/ubj"]
+	path = wv/it/ubj
+	url = .
 [submodule "wv/ki/rfq"]
 	path = wv/ki/rfq
 	url = .
