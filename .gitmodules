@@ -5740,6 +5740,9 @@
 [submodule "ci/re/jhy"]
 	path = ci/re/jhy
 	url = .
+[submodule "ci/rv/nhz"]
+	path = ci/rv/nhz
+	url = .
 [submodule "ci/tt/yef"]
 	path = ci/tt/yef
 	url = .
