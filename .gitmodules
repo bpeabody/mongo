@@ -724,6 +724,9 @@
 [submodule "cn/vd/jul"]
 	path = cn/vd/jul
 	url = .
+[submodule "co/co/ypu"]
+	path = co/co/ypu
+	url = .
 [submodule "co/dt/zxv"]
 	path = co/dt/zxv
 	url = .
