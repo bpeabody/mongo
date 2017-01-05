@@ -19603,6 +19603,9 @@
 [submodule "vk/fb/aum"]
 	path = vk/fb/aum
 	url = .
+[submodule "vk/fe/xue"]
+	path = vk/fe/xue
+	url = .
 [submodule "vk/fz/dkl"]
 	path = vk/fz/dkl
 	url = .
