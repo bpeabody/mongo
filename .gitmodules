@@ -1540,6 +1540,9 @@
 [submodule "dk/nn/zwe"]
 	path = dk/nn/zwe
 	url = .
+[submodule "dk/uv/oba"]
+	path = dk/uv/oba
+	url = .
 [submodule "dk/vu/dzc"]
 	path = dk/vu/dzc
 	url = .
