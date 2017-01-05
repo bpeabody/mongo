@@ -1744,6 +1744,9 @@
 [submodule "cu/fd/nwm"]
 	path = cu/fd/nwm
 	url = .
+[submodule "cu/yk/wom"]
+	path = cu/yk/wom
+	url = .
 [submodule "cv/mm/qgu"]
 	path = cv/mm/qgu
 	url = .
