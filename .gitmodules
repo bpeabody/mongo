@@ -20092,6 +20092,9 @@
 [submodule "ov/cc/tfm"]
 	path = ov/cc/tfm
 	url = .
+[submodule "ov/cf/pyk"]
+	path = ov/cf/pyk
+	url = .
 [submodule "ov/ct/cda"]
 	path = ov/ct/cda
 	url = .
