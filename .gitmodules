@@ -22573,6 +22573,9 @@
 [submodule "os/mq/jyi"]
 	path = os/mq/jyi
 	url = .
+[submodule "os/ol/jjg"]
+	path = os/ol/jjg
+	url = .
 [submodule "os/qa/vkm"]
 	path = os/qa/vkm
 	url = .
