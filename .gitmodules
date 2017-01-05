@@ -19960,6 +19960,9 @@
 [submodule "sd/ho/qad"]
 	path = sd/ho/qad
 	url = .
+[submodule "sd/jb/afx"]
+	path = sd/jb/afx
+	url = .
 [submodule "sd/kg/wbs"]
 	path = sd/kg/wbs
 	url = .
