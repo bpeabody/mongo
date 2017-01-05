@@ -35263,6 +35263,9 @@
 [submodule "sk/pm/ioy"]
 	path = sk/pm/ioy
 	url = .
+[submodule "sk/pv/tzr"]
+	path = sk/pv/tzr
+	url = .
 [submodule "sk/qj/kyz"]
 	path = sk/qj/kyz
 	url = .
