@@ -2902,6 +2902,9 @@
 [submodule "ri/hn/pzp"]
 	path = ri/hn/pzp
 	url = .
+[submodule "ri/oi/ygy"]
+	path = ri/oi/ygy
+	url = .
 [submodule "ri/rp/cjx"]
 	path = ri/rp/cjx
 	url = .
