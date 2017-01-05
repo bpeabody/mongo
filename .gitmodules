@@ -38599,6 +38599,9 @@
 [submodule "xb/ed/fjf"]
 	path = xb/ed/fjf
 	url = .
+[submodule "xb/fl/lan"]
+	path = xb/fl/lan
+	url = .
 [submodule "xb/ft/ufw"]
 	path = xb/ft/ufw
 	url = .
