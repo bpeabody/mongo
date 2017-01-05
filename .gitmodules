@@ -4534,6 +4534,9 @@
 [submodule "hp/vz/cjj"]
 	path = hp/vz/cjj
 	url = .
+[submodule "hp/xg/miq"]
+	path = hp/xg/miq
+	url = .
 [submodule "hp/yu/mfe"]
 	path = hp/yu/mfe
 	url = .
