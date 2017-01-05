@@ -30154,6 +30154,9 @@
 [submodule "mq/ts/fky"]
 	path = mq/ts/fky
 	url = .
+[submodule "mq/uv/hzt"]
+	path = mq/uv/hzt
+	url = .
 [submodule "mq/uw/eds"]
 	path = mq/uw/eds
 	url = .
