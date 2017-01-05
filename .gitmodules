@@ -2899,6 +2899,9 @@
 [submodule "hn/ut/eml"]
 	path = hn/ut/eml
 	url = .
+[submodule "hn/wd/uke"]
+	path = hn/wd/uke
+	url = .
 [submodule "ho/dr/jvn"]
 	path = ho/dr/jvn
 	url = .
