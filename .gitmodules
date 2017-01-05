@@ -26080,6 +26080,9 @@
 [submodule "rk/lr/jyf"]
 	path = rk/lr/jyf
 	url = .
+[submodule "rk/mm/usr"]
+	path = rk/mm/usr
+	url = .
 [submodule "rk/pc/uuo"]
 	path = rk/pc/uuo
 	url = .
