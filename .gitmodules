@@ -14428,6 +14428,9 @@
 [submodule "ps/sg/lsk"]
 	path = ps/sg/lsk
 	url = .
+[submodule "ps/vp/uxn"]
+	path = ps/vp/uxn
+	url = .
 [submodule "ps/xj/sar"]
 	path = ps/xj/sar
 	url = .
