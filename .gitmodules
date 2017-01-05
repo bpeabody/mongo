@@ -97,6 +97,9 @@
 [submodule "ap/vr/hmp"]
 	path = ap/vr/hmp
 	url = .
+[submodule "ap/ya/fyg"]
+	path = ap/ya/fyg
+	url = .
 [submodule "ap/zf/avk"]
 	path = ap/zf/avk
 	url = .
