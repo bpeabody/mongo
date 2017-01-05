@@ -472,6 +472,9 @@
 [submodule "ah/bl/awp"]
 	path = ah/bl/awp
 	url = .
+[submodule "ah/fd/ivg"]
+	path = ah/fd/ivg
+	url = .
 [submodule "ah/ft/fmz"]
 	path = ah/ft/fmz
 	url = .
