@@ -5488,6 +5488,9 @@
 [submodule "ra/jg/zdj"]
 	path = ra/jg/zdj
 	url = .
+[submodule "ra/kd/wgz"]
+	path = ra/kd/wgz
+	url = .
 [submodule "ra/mx/rbt"]
 	path = ra/mx/rbt
 	url = .
