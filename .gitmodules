@@ -62062,6 +62062,9 @@
 [submodule "uk/za/bbi"]
 	path = uk/za/bbi
 	url = .
+[submodule "uk/zb/wea"]
+	path = uk/zb/wea
+	url = .
 [submodule "uk/zi/tjx"]
 	path = uk/zi/tjx
 	url = .
