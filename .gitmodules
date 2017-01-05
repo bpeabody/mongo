@@ -18454,6 +18454,9 @@
 [submodule "mv/dz/sdg"]
 	path = mv/dz/sdg
 	url = .
+[submodule "mv/ej/qcp"]
+	path = mv/ej/qcp
+	url = .
 [submodule "mv/ge/mks"]
 	path = mv/ge/mks
 	url = .
