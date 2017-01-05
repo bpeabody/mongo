@@ -1309,6 +1309,9 @@
 [submodule "vf/ac/vgw"]
 	path = vf/ac/vgw
 	url = .
+[submodule "vf/mn/wlp"]
+	path = vf/mn/wlp
+	url = .
 [submodule "vf/pe/yfo"]
 	path = vf/pe/yfo
 	url = .
