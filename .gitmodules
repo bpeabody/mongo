@@ -48058,6 +48058,9 @@
 [submodule "wn/bv/iqm"]
 	path = wn/bv/iqm
 	url = .
+[submodule "wn/cj/sqg"]
+	path = wn/cj/sqg
+	url = .
 [submodule "wn/dd/gbt"]
 	path = wn/dd/gbt
 	url = .
