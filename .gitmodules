@@ -27019,6 +27019,9 @@
 [submodule "jj/tv/kxt"]
 	path = jj/tv/kxt
 	url = .
+[submodule "jj/tv/owx"]
+	path = jj/tv/owx
+	url = .
 [submodule "jj/uz/swu"]
 	path = jj/uz/swu
 	url = .
