@@ -12457,6 +12457,9 @@
 [submodule "hp/ub/jfq"]
 	path = hp/ub/jfq
 	url = .
+[submodule "hp/ul/ruc"]
+	path = hp/ul/ruc
+	url = .
 [submodule "hp/ur/qbi"]
 	path = hp/ur/qbi
 	url = .
