@@ -23893,6 +23893,9 @@
 [submodule "xb/te/vre"]
 	path = xb/te/vre
 	url = .
+[submodule "xb/tg/soq"]
+	path = xb/tg/soq
+	url = .
 [submodule "xb/ti/wvv"]
 	path = xb/ti/wvv
 	url = .
