@@ -4666,6 +4666,9 @@
 [submodule "uz/hx/uec"]
 	path = uz/hx/uec
 	url = .
+[submodule "uz/nt/atf"]
+	path = uz/nt/atf
+	url = .
 [submodule "va/fw/fkt"]
 	path = va/fw/fkt
 	url = .
