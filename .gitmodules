@@ -25720,6 +25720,9 @@
 [submodule "sd/ly/brd"]
 	path = sd/ly/brd
 	url = .
+[submodule "sd/mn/cwn"]
+	path = sd/mn/cwn
+	url = .
 [submodule "sd/ng/zvp"]
 	path = sd/ng/zvp
 	url = .
