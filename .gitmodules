@@ -559,6 +559,9 @@
 [submodule "cc/bx/wsy"]
 	path = cc/bx/wsy
 	url = .
+[submodule "cc/eg/msd"]
+	path = cc/eg/msd
+	url = .
 [submodule "cc/ih/ugv"]
 	path = cc/ih/ugv
 	url = .
