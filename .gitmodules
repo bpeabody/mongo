@@ -42253,6 +42253,9 @@
 [submodule "rv/at/kqt"]
 	path = rv/at/kqt
 	url = .
+[submodule "rv/by/xgt"]
+	path = rv/by/xgt
+	url = .
 [submodule "rv/ch/etb"]
 	path = rv/ch/etb
 	url = .
