@@ -1246,6 +1246,9 @@
 [submodule "bc/cd/eoh"]
 	path = bc/cd/eoh
 	url = .
+[submodule "bc/dk/ylt"]
+	path = bc/dk/ylt
+	url = .
 [submodule "bc/ew/mzq"]
 	path = bc/ew/mzq
 	url = .
