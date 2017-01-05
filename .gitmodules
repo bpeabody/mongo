@@ -3655,6 +3655,9 @@
 [submodule "dm/zr/dyd"]
 	path = dm/zr/dyd
 	url = .
+[submodule "dn/av/urn"]
+	path = dn/av/urn
+	url = .
 [submodule "dn/cz/zmj"]
 	path = dn/cz/zmj
 	url = .
