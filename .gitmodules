@@ -5518,6 +5518,9 @@
 [submodule "dl/wo/rzd"]
 	path = dl/wo/rzd
 	url = .
+[submodule "dl/xa/zqd"]
+	path = dl/xa/zqd
+	url = .
 [submodule "dl/xv/aia"]
 	path = dl/xv/aia
 	url = .
