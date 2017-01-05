@@ -10054,6 +10054,9 @@
 [submodule "ln/tm/uzc"]
 	path = ln/tm/uzc
 	url = .
+[submodule "ln/uz/uaa"]
+	path = ln/uz/uaa
+	url = .
 [submodule "lo/ak/wpv"]
 	path = lo/ak/wpv
 	url = .
