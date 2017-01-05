@@ -11050,6 +11050,9 @@
 [submodule "gc/gm/vny"]
 	path = gc/gm/vny
 	url = .
+[submodule "gc/hx/gkg"]
+	path = gc/hx/gkg
+	url = .
 [submodule "gc/jx/ota"]
 	path = gc/jx/ota
 	url = .
