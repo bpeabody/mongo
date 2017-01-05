@@ -8680,6 +8680,9 @@
 [submodule "fq/oi/nvy"]
 	path = fq/oi/nvy
 	url = .
+[submodule "fq/tx/hhe"]
+	path = fq/tx/hhe
+	url = .
 [submodule "fq/ux/uhj"]
 	path = fq/ux/uhj
 	url = .
