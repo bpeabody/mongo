@@ -31822,6 +31822,9 @@
 [submodule "ro/xg/xpg"]
 	path = ro/xg/xpg
 	url = .
+[submodule "ro/yj/jrn"]
+	path = ro/yj/jrn
+	url = .
 [submodule "ro/yt/mxl"]
 	path = ro/yt/mxl
 	url = .
