@@ -4291,6 +4291,9 @@
 [submodule "jz/vf/ksx"]
 	path = jz/vf/ksx
 	url = .
+[submodule "ka/bu/jqs"]
+	path = ka/bu/jqs
+	url = .
 [submodule "ka/dj/spy"]
 	path = ka/dj/spy
 	url = .
