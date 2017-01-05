@@ -691,6 +691,9 @@
 [submodule "ia/jw/qot"]
 	path = ia/jw/qot
 	url = .
+[submodule "ic/jg/yci"]
+	path = ic/jg/yci
+	url = .
 [submodule "id/av/buj"]
 	path = id/av/buj
 	url = .
