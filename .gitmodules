@@ -10591,6 +10591,9 @@
 [submodule "hz/nc/ujr"]
 	path = hz/nc/ujr
 	url = .
+[submodule "hz/pc/vly"]
+	path = hz/pc/vly
+	url = .
 [submodule "hz/pd/ckw"]
 	path = hz/pd/ckw
 	url = .
