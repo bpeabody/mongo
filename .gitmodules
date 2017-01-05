@@ -16801,6 +16801,9 @@
 [submodule "ko/ur/zhf"]
 	path = ko/ur/zhf
 	url = .
+[submodule "ko/vi/lar"]
+	path = ko/vi/lar
+	url = .
 [submodule "ko/vy/lxp"]
 	path = ko/vy/lxp
 	url = .
