@@ -41326,6 +41326,9 @@
 [submodule "zo/ey/lja"]
 	path = zo/ey/lja
 	url = .
+[submodule "zo/fa/bzo"]
+	path = zo/fa/bzo
+	url = .
 [submodule "zo/gb/nfk"]
 	path = zo/gb/nfk
 	url = .
