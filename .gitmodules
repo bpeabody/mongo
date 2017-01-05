@@ -25141,6 +25141,9 @@
 [submodule "oy/oy/lld"]
 	path = oy/oy/lld
 	url = .
+[submodule "oy/qw/xsg"]
+	path = oy/qw/xsg
+	url = .
 [submodule "oy/ru/zjq"]
 	path = oy/ru/zjq
 	url = .
