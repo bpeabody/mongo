@@ -29449,6 +29449,9 @@
 [submodule "kf/uq/gwr"]
 	path = kf/uq/gwr
 	url = .
+[submodule "kf/ur/qdz"]
+	path = kf/ur/qdz
+	url = .
 [submodule "kf/vf/iah"]
 	path = kf/vf/iah
 	url = .
