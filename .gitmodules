@@ -16264,6 +16264,9 @@
 [submodule "lp/jd/bdh"]
 	path = lp/jd/bdh
 	url = .
+[submodule "lp/la/yma"]
+	path = lp/la/yma
+	url = .
 [submodule "lp/ph/tva"]
 	path = lp/ph/tva
 	url = .
