@@ -14698,6 +14698,9 @@
 [submodule "gg/ko/boe"]
 	path = gg/ko/boe
 	url = .
+[submodule "gg/lb/yrx"]
+	path = gg/lb/yrx
+	url = .
 [submodule "gg/nz/tju"]
 	path = gg/nz/tju
 	url = .
