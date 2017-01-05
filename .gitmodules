@@ -40261,6 +40261,9 @@
 [submodule "oq/rr/apr"]
 	path = oq/rr/apr
 	url = .
+[submodule "oq/ss/siy"]
+	path = oq/ss/siy
+	url = .
 [submodule "oq/tg/qcp"]
 	path = oq/tg/qcp
 	url = .
