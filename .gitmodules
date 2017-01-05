@@ -12601,6 +12601,9 @@
 [submodule "rf/ru/dqv"]
 	path = rf/ru/dqv
 	url = .
+[submodule "rf/ru/quj"]
+	path = rf/ru/quj
+	url = .
 [submodule "rf/sa/jms"]
 	path = rf/sa/jms
 	url = .
