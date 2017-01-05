@@ -47578,6 +47578,9 @@
 [submodule "vm/nj/zfb"]
 	path = vm/nj/zfb
 	url = .
+[submodule "vm/oc/wja"]
+	path = vm/oc/wja
+	url = .
 [submodule "vm/rv/rus"]
 	path = vm/rv/rus
 	url = .
