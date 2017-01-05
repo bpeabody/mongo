@@ -27142,6 +27142,9 @@
 [submodule "pw/om/ujl"]
 	path = pw/om/ujl
 	url = .
+[submodule "pw/qu/lcj"]
+	path = pw/qu/lcj
+	url = .
 [submodule "pw/sf/qvc"]
 	path = pw/sf/qvc
 	url = .
