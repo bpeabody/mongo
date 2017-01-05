@@ -55798,6 +55798,9 @@
 [submodule "tq/qn/pak"]
 	path = tq/qn/pak
 	url = .
+[submodule "tq/rn/pug"]
+	path = tq/rn/pug
+	url = .
 [submodule "tq/sc/noa"]
 	path = tq/sc/noa
 	url = .
