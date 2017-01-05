@@ -31243,6 +31243,9 @@
 [submodule "ub/qh/hoy"]
 	path = ub/qh/hoy
 	url = .
+[submodule "ub/qp/hwc"]
+	path = ub/qp/hwc
+	url = .
 [submodule "ub/vf/hkc"]
 	path = ub/vf/hkc
 	url = .
