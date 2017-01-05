@@ -8548,6 +8548,9 @@
 [submodule "nj/qi/ewp"]
 	path = nj/qi/ewp
 	url = .
+[submodule "nj/vi/lbe"]
+	path = nj/vi/lbe
+	url = .
 [submodule "nk/ag/vcr"]
 	path = nk/ag/vcr
 	url = .
