@@ -2044,6 +2044,9 @@
 [submodule "cy/qx/box"]
 	path = cy/qx/box
 	url = .
+[submodule "cy/vc/wik"]
+	path = cy/vc/wik
+	url = .
 [submodule "cy/wn/eng"]
 	path = cy/wn/eng
 	url = .
