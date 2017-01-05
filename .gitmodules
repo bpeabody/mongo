@@ -7480,6 +7480,9 @@
 [submodule "gm/xb/baq"]
 	path = gm/xb/baq
 	url = .
+[submodule "gm/ye/qse"]
+	path = gm/ye/qse
+	url = .
 [submodule "gm/yf/kis"]
 	path = gm/yf/kis
 	url = .
