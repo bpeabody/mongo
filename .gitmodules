@@ -11068,6 +11068,9 @@
 [submodule "fr/rs/ygf"]
 	path = fr/rs/ygf
 	url = .
+[submodule "fr/sc/xyx"]
+	path = fr/sc/xyx
+	url = .
 [submodule "fr/sd/wly"]
 	path = fr/sd/wly
 	url = .
