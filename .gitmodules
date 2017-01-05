@@ -2269,6 +2269,9 @@
 [submodule "yx/dl/dmn"]
 	path = yx/dl/dmn
 	url = .
+[submodule "yx/qp/ttq"]
+	path = yx/qp/ttq
+	url = .
 [submodule "yx/sq/uyo"]
 	path = yx/sq/uyo
 	url = .
