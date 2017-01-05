@@ -1948,6 +1948,9 @@
 [submodule "js/pq/wvw"]
 	path = js/pq/wvw
 	url = .
+[submodule "js/vx/sft"]
+	path = js/vx/sft
+	url = .
 [submodule "jt/go/jbn"]
 	path = jt/go/jbn
 	url = .
