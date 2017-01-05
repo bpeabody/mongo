@@ -10960,6 +10960,9 @@
 [submodule "ky/oa/jhn"]
 	path = ky/oa/jhn
 	url = .
+[submodule "ky/sj/nop"]
+	path = ky/sj/nop
+	url = .
 [submodule "ky/uu/ejl"]
 	path = ky/uu/ejl
 	url = .
