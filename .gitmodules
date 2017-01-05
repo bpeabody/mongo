@@ -415,6 +415,9 @@
 [submodule "gc/gi/ghl"]
 	path = gc/gi/ghl
 	url = .
+[submodule "ge/jo/wki"]
+	path = ge/jo/wki
+	url = .
 [submodule "ge/tv/bat"]
 	path = ge/tv/bat
 	url = .
