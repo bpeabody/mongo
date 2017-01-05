@@ -8293,6 +8293,9 @@
 [submodule "ga/nb/kbd"]
 	path = ga/nb/kbd
 	url = .
+[submodule "ga/nc/lhl"]
+	path = ga/nc/lhl
+	url = .
 [submodule "ga/nm/hwh"]
 	path = ga/nm/hwh
 	url = .
