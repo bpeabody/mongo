@@ -14149,6 +14149,9 @@
 [submodule "pi/ci/okp"]
 	path = pi/ci/okp
 	url = .
+[submodule "pi/cn/jvn"]
+	path = pi/cn/jvn
+	url = .
 [submodule "pi/ct/drz"]
 	path = pi/ct/drz
 	url = .
