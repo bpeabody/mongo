@@ -6199,6 +6199,9 @@
 [submodule "cr/qj/oec"]
 	path = cr/qj/oec
 	url = .
+[submodule "cr/qu/ylq"]
+	path = cr/qu/ylq
+	url = .
 [submodule "cr/rl/tdw"]
 	path = cr/rl/tdw
 	url = .
