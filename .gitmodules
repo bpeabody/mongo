@@ -3865,6 +3865,9 @@
 [submodule "cd/pr/mwu"]
 	path = cd/pr/mwu
 	url = .
+[submodule "cd/uh/mbp"]
+	path = cd/uh/mbp
+	url = .
 [submodule "cd/wm/acw"]
 	path = cd/wm/acw
 	url = .
