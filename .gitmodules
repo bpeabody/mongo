@@ -11083,6 +11083,9 @@
 [submodule "ic/jg/yci"]
 	path = ic/jg/yci
 	url = .
+[submodule "ic/ky/xad"]
+	path = ic/ky/xad
+	url = .
 [submodule "ic/mf/ugw"]
 	path = ic/mf/ugw
 	url = .
