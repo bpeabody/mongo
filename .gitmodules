@@ -20503,6 +20503,9 @@
 [submodule "kb/sj/ays"]
 	path = kb/sj/ays
 	url = .
+[submodule "kb/sj/ocv"]
+	path = kb/sj/ocv
+	url = .
 [submodule "kb/tp/zov"]
 	path = kb/tp/zov
 	url = .
