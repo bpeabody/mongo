@@ -25846,6 +25846,9 @@
 [submodule "kx/ma/krd"]
 	path = kx/ma/krd
 	url = .
+[submodule "kx/mn/jhb"]
+	path = kx/mn/jhb
+	url = .
 [submodule "kx/mn/zwu"]
 	path = kx/mn/zwu
 	url = .
