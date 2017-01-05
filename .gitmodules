@@ -1513,6 +1513,9 @@
 [submodule "hz/mp/odp"]
 	path = hz/mp/odp
 	url = .
+[submodule "ia/ar/ljy"]
+	path = ia/ar/ljy
+	url = .
 [submodule "ia/bp/tsi"]
 	path = ia/bp/tsi
 	url = .
