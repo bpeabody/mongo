@@ -2851,6 +2851,9 @@
 [submodule "eb/qt/ayl"]
 	path = eb/qt/ayl
 	url = .
+[submodule "eb/tq/ufr"]
+	path = eb/tq/ufr
+	url = .
 [submodule "eb/vf/juj"]
 	path = eb/vf/juj
 	url = .
