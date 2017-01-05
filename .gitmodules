@@ -20920,6 +20920,9 @@
 [submodule "ru/kb/vmu"]
 	path = ru/kb/vmu
 	url = .
+[submodule "ru/qi/pdb"]
+	path = ru/qi/pdb
+	url = .
 [submodule "ru/ss/niv"]
 	path = ru/ss/niv
 	url = .
