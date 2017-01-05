@@ -544,6 +544,9 @@
 [submodule "dg/dn/ixg"]
 	path = dg/dn/ixg
 	url = .
+[submodule "dg/je/noh"]
+	path = dg/je/noh
+	url = .
 [submodule "dh/dz/zfh"]
 	path = dh/dz/zfh
 	url = .
