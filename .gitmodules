@@ -31837,6 +31837,9 @@
 [submodule "oc/sd/fwd"]
 	path = oc/sd/fwd
 	url = .
+[submodule "oc/sy/ngc"]
+	path = oc/sy/ngc
+	url = .
 [submodule "oc/th/soo"]
 	path = oc/th/soo
 	url = .
