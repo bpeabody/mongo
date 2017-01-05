@@ -25303,6 +25303,9 @@
 [submodule "it/lz/pvk"]
 	path = it/lz/pvk
 	url = .
+[submodule "it/mq/kch"]
+	path = it/mq/kch
+	url = .
 [submodule "it/pi/ple"]
 	path = it/pi/ple
 	url = .
