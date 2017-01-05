@@ -27520,6 +27520,9 @@
 [submodule "ry/cb/dqe"]
 	path = ry/cb/dqe
 	url = .
+[submodule "ry/cz/apn"]
+	path = ry/cz/apn
+	url = .
 [submodule "ry/dt/gck"]
 	path = ry/dt/gck
 	url = .
