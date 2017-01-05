@@ -1342,6 +1342,9 @@
 [submodule "as/jt/hbx"]
 	path = as/jt/hbx
 	url = .
+[submodule "as/kf/koh"]
+	path = as/kf/koh
+	url = .
 [submodule "as/oo/rua"]
 	path = as/oo/rua
 	url = .
