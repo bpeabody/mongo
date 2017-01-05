@@ -25228,6 +25228,9 @@
 [submodule "rz/ml/fmq"]
 	path = rz/ml/fmq
 	url = .
+[submodule "rz/nr/jjf"]
+	path = rz/nr/jjf
+	url = .
 [submodule "rz/sn/mfp"]
 	path = rz/sn/mfp
 	url = .
