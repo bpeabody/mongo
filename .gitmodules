@@ -34120,6 +34120,9 @@
 [submodule "nj/hd/nmp"]
 	path = nj/hd/nmp
 	url = .
+[submodule "nj/ht/xlg"]
+	path = nj/ht/xlg
+	url = .
 [submodule "nj/ic/jgp"]
 	path = nj/ic/jgp
 	url = .
