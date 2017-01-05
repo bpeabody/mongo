@@ -29806,6 +29806,9 @@
 [submodule "rg/em/rhu"]
 	path = rg/em/rhu
 	url = .
+[submodule "rg/fq/uzp"]
+	path = rg/fq/uzp
+	url = .
 [submodule "rg/gt/vsy"]
 	path = rg/gt/vsy
 	url = .
