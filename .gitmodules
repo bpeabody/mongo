@@ -6085,6 +6085,9 @@
 [submodule "dn/ih/nnb"]
 	path = dn/ih/nnb
 	url = .
+[submodule "dn/mk/bnb"]
+	path = dn/mk/bnb
+	url = .
 [submodule "dn/nn/czr"]
 	path = dn/nn/czr
 	url = .
