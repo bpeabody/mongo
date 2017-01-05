@@ -10864,6 +10864,9 @@
 [submodule "dw/lw/wcr"]
 	path = dw/lw/wcr
 	url = .
+[submodule "dw/mz/smi"]
+	path = dw/mz/smi
+	url = .
 [submodule "dw/ok/grm"]
 	path = dw/ok/grm
 	url = .
