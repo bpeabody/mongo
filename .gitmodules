@@ -2377,6 +2377,9 @@
 [submodule "cz/dy/dmv"]
 	path = cz/dy/dmv
 	url = .
+[submodule "cz/ej/nde"]
+	path = cz/ej/nde
+	url = .
 [submodule "cz/fr/tlp"]
 	path = cz/fr/tlp
 	url = .
