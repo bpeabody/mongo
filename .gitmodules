@@ -19048,6 +19048,9 @@
 [submodule "jd/yp/eqp"]
 	path = jd/yp/eqp
 	url = .
+[submodule "jd/yw/cej"]
+	path = jd/yw/cej
+	url = .
 [submodule "jd/zj/zss"]
 	path = jd/zj/zss
 	url = .
