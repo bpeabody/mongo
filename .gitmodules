@@ -23863,6 +23863,9 @@
 [submodule "zs/hh/raa"]
 	path = zs/hh/raa
 	url = .
+[submodule "zs/jp/ajn"]
+	path = zs/jp/ajn
+	url = .
 [submodule "zs/lc/gdk"]
 	path = zs/lc/gdk
 	url = .
