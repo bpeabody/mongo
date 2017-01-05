@@ -31765,6 +31765,9 @@
 [submodule "np/mj/euy"]
 	path = np/mj/euy
 	url = .
+[submodule "np/mn/got"]
+	path = np/mn/got
+	url = .
 [submodule "np/mp/dgs"]
 	path = np/mp/dgs
 	url = .
