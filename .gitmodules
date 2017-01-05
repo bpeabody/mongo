@@ -16237,6 +16237,9 @@
 [submodule "ut/hr/wei"]
 	path = ut/hr/wei
 	url = .
+[submodule "ut/hu/mmb"]
+	path = ut/hu/mmb
+	url = .
 [submodule "ut/il/bjn"]
 	path = ut/il/bjn
 	url = .
