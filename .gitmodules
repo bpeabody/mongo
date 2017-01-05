@@ -4765,6 +4765,9 @@
 [submodule "ip/lq/zuo"]
 	path = ip/lq/zuo
 	url = .
+[submodule "ip/oe/fre"]
+	path = ip/oe/fre
+	url = .
 [submodule "ip/op/ajf"]
 	path = ip/op/ajf
 	url = .
