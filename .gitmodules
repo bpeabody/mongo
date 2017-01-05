@@ -6547,6 +6547,9 @@
 [submodule "kc/ec/acn"]
 	path = kc/ec/acn
 	url = .
+[submodule "kc/fs/ndk"]
+	path = kc/fs/ndk
+	url = .
 [submodule "kc/gq/ygz"]
 	path = kc/gq/ygz
 	url = .
