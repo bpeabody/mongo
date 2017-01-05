@@ -37981,6 +37981,9 @@
 [submodule "tt/iy/kzh"]
 	path = tt/iy/kzh
 	url = .
+[submodule "tt/jd/geo"]
+	path = tt/jd/geo
+	url = .
 [submodule "tt/ke/zjd"]
 	path = tt/ke/zjd
 	url = .
