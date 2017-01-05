@@ -6382,6 +6382,9 @@
 [submodule "lk/dq/gkg"]
 	path = lk/dq/gkg
 	url = .
+[submodule "lk/ej/ghn"]
+	path = lk/ej/ghn
+	url = .
 [submodule "lk/je/ikj"]
 	path = lk/je/ikj
 	url = .
