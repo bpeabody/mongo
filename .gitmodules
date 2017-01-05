@@ -8176,6 +8176,9 @@
 [submodule "gf/rw/phq"]
 	path = gf/rw/phq
 	url = .
+[submodule "gf/so/mfn"]
+	path = gf/so/mfn
+	url = .
 [submodule "gf/tf/whs"]
 	path = gf/tf/whs
 	url = .
