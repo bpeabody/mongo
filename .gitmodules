@@ -208,6 +208,9 @@
 [submodule "fb/ji/hks"]
 	path = fb/ji/hks
 	url = .
+[submodule "fc/lp/kav"]
+	path = fc/lp/kav
+	url = .
 [submodule "ff/qz/mcj"]
 	path = ff/qz/mcj
 	url = .
