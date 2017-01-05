@@ -2644,6 +2644,9 @@
 [submodule "ix/ik/gps"]
 	path = ix/ik/gps
 	url = .
+[submodule "ix/lw/wvo"]
+	path = ix/lw/wvo
+	url = .
 [submodule "ix/ox/zfx"]
 	path = ix/ox/zfx
 	url = .
