@@ -16666,6 +16666,9 @@
 [submodule "ix/hx/tnn"]
 	path = ix/hx/tnn
 	url = .
+[submodule "ix/id/qyn"]
+	path = ix/id/qyn
+	url = .
 [submodule "ix/ik/gps"]
 	path = ix/ik/gps
 	url = .
