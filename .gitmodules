@@ -54856,6 +54856,9 @@
 [submodule "td/zs/sdw"]
 	path = td/zs/sdw
 	url = .
+[submodule "te/al/rar"]
+	path = te/al/rar
+	url = .
 [submodule "te/ao/dsr"]
 	path = te/ao/dsr
 	url = .
