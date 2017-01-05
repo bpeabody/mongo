@@ -7654,6 +7654,9 @@
 [submodule "mr/du/jfb"]
 	path = mr/du/jfb
 	url = .
+[submodule "mr/el/iry"]
+	path = mr/el/iry
+	url = .
 [submodule "mr/ij/oxj"]
 	path = mr/ij/oxj
 	url = .
