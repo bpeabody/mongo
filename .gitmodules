@@ -3253,6 +3253,9 @@
 [submodule "bp/dy/npi"]
 	path = bp/dy/npi
 	url = .
+[submodule "bp/eu/doy"]
+	path = bp/eu/doy
+	url = .
 [submodule "bp/hz/dsy"]
 	path = bp/hz/dsy
 	url = .
