@@ -27766,6 +27766,9 @@
 [submodule "uo/fq/cda"]
 	path = uo/fq/cda
 	url = .
+[submodule "uo/gp/nrp"]
+	path = uo/gp/nrp
+	url = .
 [submodule "uo/ir/mjk"]
 	path = uo/ir/mjk
 	url = .
