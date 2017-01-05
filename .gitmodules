@@ -31384,6 +31384,9 @@
 [submodule "mc/hx/qij"]
 	path = mc/hx/qij
 	url = .
+[submodule "mc/iq/dat"]
+	path = mc/iq/dat
+	url = .
 [submodule "mc/ix/quj"]
 	path = mc/ix/quj
 	url = .
