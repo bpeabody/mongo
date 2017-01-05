@@ -59068,6 +59068,9 @@
 [submodule "wd/ry/bka"]
 	path = wd/ry/bka
 	url = .
+[submodule "wd/ry/eks"]
+	path = wd/ry/eks
+	url = .
 [submodule "wd/te/vky"]
 	path = wd/te/vky
 	url = .
