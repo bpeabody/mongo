@@ -50485,6 +50485,9 @@
 [submodule "tw/lt/cin"]
 	path = tw/lt/cin
 	url = .
+[submodule "tw/mp/cht"]
+	path = tw/mp/cht
+	url = .
 [submodule "tw/mx/ixd"]
 	path = tw/mx/ixd
 	url = .
