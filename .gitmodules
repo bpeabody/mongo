@@ -2473,6 +2473,9 @@
 [submodule "bd/df/iqn"]
 	path = bd/df/iqn
 	url = .
+[submodule "bd/dt/vbf"]
+	path = bd/dt/vbf
+	url = .
 [submodule "bd/eu/gcs"]
 	path = bd/eu/gcs
 	url = .
