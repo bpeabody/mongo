@@ -14089,6 +14089,9 @@
 [submodule "vs/ai/gqs"]
 	path = vs/ai/gqs
 	url = .
+[submodule "vs/ca/ksb"]
+	path = vs/ca/ksb
+	url = .
 [submodule "vs/eo/bxq"]
 	path = vs/eo/bxq
 	url = .
