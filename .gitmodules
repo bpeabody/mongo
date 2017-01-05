@@ -17881,6 +17881,9 @@
 [submodule "qa/ne/kqw"]
 	path = qa/ne/kqw
 	url = .
+[submodule "qa/pk/uan"]
+	path = qa/pk/uan
+	url = .
 [submodule "qa/ve/udk"]
 	path = qa/ve/udk
 	url = .
