@@ -37510,6 +37510,9 @@
 [submodule "pd/yc/niu"]
 	path = pd/yc/niu
 	url = .
+[submodule "pd/yg/thc"]
+	path = pd/yg/thc
+	url = .
 [submodule "pd/yi/sde"]
 	path = pd/yi/sde
 	url = .
