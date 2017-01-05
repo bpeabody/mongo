@@ -5275,6 +5275,9 @@
 [submodule "gx/mv/sip"]
 	path = gx/mv/sip
 	url = .
+[submodule "gx/oh/cjk"]
+	path = gx/oh/cjk
+	url = .
 [submodule "gx/ra/voq"]
 	path = gx/ra/voq
 	url = .
