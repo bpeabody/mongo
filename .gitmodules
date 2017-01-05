@@ -529,6 +529,9 @@
 [submodule "jt/xz/hfr"]
 	path = jt/xz/hfr
 	url = .
+[submodule "ju/lr/ldz"]
+	path = ju/lr/ldz
+	url = .
 [submodule "ju/xi/lkg"]
 	path = ju/xi/lkg
 	url = .
