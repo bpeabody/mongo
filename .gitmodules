@@ -6952,6 +6952,9 @@
 [submodule "wr/kt/pqq"]
 	path = wr/kt/pqq
 	url = .
+[submodule "wr/mk/bgd"]
+	path = wr/mk/bgd
+	url = .
 [submodule "wr/rx/gad"]
 	path = wr/rx/gad
 	url = .
