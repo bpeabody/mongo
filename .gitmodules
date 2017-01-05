@@ -9091,6 +9091,9 @@
 [submodule "rv/mn/ypj"]
 	path = rv/mn/ypj
 	url = .
+[submodule "rv/my/lfr"]
+	path = rv/my/lfr
+	url = .
 [submodule "rv/oe/eix"]
 	path = rv/oe/eix
 	url = .
