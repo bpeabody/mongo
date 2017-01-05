@@ -29938,6 +29938,9 @@
 [submodule "zd/ep/uwn"]
 	path = zd/ep/uwn
 	url = .
+[submodule "zd/eq/qlu"]
+	path = zd/eq/qlu
+	url = .
 [submodule "zd/gd/nhc"]
 	path = zd/gd/nhc
 	url = .
