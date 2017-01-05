@@ -349,6 +349,9 @@
 [submodule "fw/dz/otp"]
 	path = fw/dz/otp
 	url = .
+[submodule "fw/rb/rqe"]
+	path = fw/rb/rqe
+	url = .
 [submodule "fw/vz/wll"]
 	path = fw/vz/wll
 	url = .
