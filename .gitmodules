@@ -49468,6 +49468,9 @@
 [submodule "tx/qk/rvr"]
 	path = tx/qk/rvr
 	url = .
+[submodule "tx/sb/rdp"]
+	path = tx/sb/rdp
+	url = .
 [submodule "tx/sy/knt"]
 	path = tx/sy/knt
 	url = .
