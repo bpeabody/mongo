@@ -4420,6 +4420,9 @@
 [submodule "xs/ck/ayc"]
 	path = xs/ck/ayc
 	url = .
+[submodule "xs/qa/xxt"]
+	path = xs/qa/xxt
+	url = .
 [submodule "xs/st/nwr"]
 	path = xs/st/nwr
 	url = .
