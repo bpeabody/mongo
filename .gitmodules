@@ -14755,6 +14755,9 @@
 [submodule "fc/ia/uhf"]
 	path = fc/ia/uhf
 	url = .
+[submodule "fc/ja/nmj"]
+	path = fc/ja/nmj
+	url = .
 [submodule "fc/kj/wid"]
 	path = fc/kj/wid
 	url = .
