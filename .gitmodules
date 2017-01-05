@@ -31936,6 +31936,9 @@
 [submodule "qk/dc/ywi"]
 	path = qk/dc/ywi
 	url = .
+[submodule "qk/dq/xgr"]
+	path = qk/dq/xgr
+	url = .
 [submodule "qk/ds/zda"]
 	path = qk/ds/zda
 	url = .
