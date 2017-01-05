@@ -6385,6 +6385,9 @@
 [submodule "vk/fb/aum"]
 	path = vk/fb/aum
 	url = .
+[submodule "vk/fz/dkl"]
+	path = vk/fz/dkl
+	url = .
 [submodule "vk/mp/wjp"]
 	path = vk/mp/wjp
 	url = .
