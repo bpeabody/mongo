@@ -43990,6 +43990,9 @@
 [submodule "qd/cf/qif"]
 	path = qd/cf/qif
 	url = .
+[submodule "qd/cj/sgn"]
+	path = qd/cj/sgn
+	url = .
 [submodule "qd/ct/vqz"]
 	path = qd/ct/vqz
 	url = .
