@@ -20014,6 +20014,9 @@
 [submodule "jd/wl/vol"]
 	path = jd/wl/vol
 	url = .
+[submodule "jd/xb/azj"]
+	path = jd/xb/azj
+	url = .
 [submodule "jd/xn/rrg"]
 	path = jd/xn/rrg
 	url = .
