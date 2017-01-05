@@ -61624,6 +61624,9 @@
 [submodule "vo/xn/xee"]
 	path = vo/xn/xee
 	url = .
+[submodule "vo/yn/nrz"]
+	path = vo/yn/nrz
+	url = .
 [submodule "vp/aj/arx"]
 	path = vp/aj/arx
 	url = .
