@@ -6409,6 +6409,9 @@
 [submodule "cc/uc/cvz"]
 	path = cc/uc/cvz
 	url = .
+[submodule "cc/uy/qdy"]
+	path = cc/uy/qdy
+	url = .
 [submodule "cc/vi/nbt"]
 	path = cc/vi/nbt
 	url = .
