@@ -3574,6 +3574,9 @@
 [submodule "js/pq/wvw"]
 	path = js/pq/wvw
 	url = .
+[submodule "js/ri/ahv"]
+	path = js/ri/ahv
+	url = .
 [submodule "js/uq/xag"]
 	path = js/uq/xag
 	url = .
