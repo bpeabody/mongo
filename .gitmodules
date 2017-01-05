@@ -5737,6 +5737,9 @@
 [submodule "dr/dx/wnt"]
 	path = dr/dx/wnt
 	url = .
+[submodule "dr/gm/bea"]
+	path = dr/gm/bea
+	url = .
 [submodule "dr/gx/zou"]
 	path = dr/gx/zou
 	url = .
