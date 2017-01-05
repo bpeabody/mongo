@@ -2329,6 +2329,9 @@
 [submodule "ch/pc/csx"]
 	path = ch/pc/csx
 	url = .
+[submodule "ch/rm/kik"]
+	path = ch/rm/kik
+	url = .
 [submodule "ch/vx/tey"]
 	path = ch/vx/tey
 	url = .
