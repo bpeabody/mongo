@@ -23365,6 +23365,9 @@
 [submodule "jw/ut/pql"]
 	path = jw/ut/pql
 	url = .
+[submodule "jw/vs/ils"]
+	path = jw/vs/ils
+	url = .
 [submodule "jw/vs/xin"]
 	path = jw/vs/xin
 	url = .
