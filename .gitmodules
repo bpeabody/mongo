@@ -715,6 +715,9 @@
 [submodule "bo/hg/fzn"]
 	path = bo/hg/fzn
 	url = .
+[submodule "bo/lj/dzs"]
+	path = bo/lj/dzs
+	url = .
 [submodule "bo/qt/tqj"]
 	path = bo/qt/tqj
 	url = .
