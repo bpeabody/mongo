@@ -7006,6 +7006,9 @@
 [submodule "mg/vm/mej"]
 	path = mg/vm/mej
 	url = .
+[submodule "mg/zd/wqj"]
+	path = mg/zd/wqj
+	url = .
 [submodule "mh/fx/vrg"]
 	path = mh/fx/vrg
 	url = .
