@@ -4135,6 +4135,9 @@
 [submodule "kx/lc/ntc"]
 	path = kx/lc/ntc
 	url = .
+[submodule "kx/lf/yhd"]
+	path = kx/lf/yhd
+	url = .
 [submodule "kx/ma/krd"]
 	path = kx/ma/krd
 	url = .
