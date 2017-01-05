@@ -12088,6 +12088,9 @@
 [submodule "ed/oj/hzl"]
 	path = ed/oj/hzl
 	url = .
+[submodule "ed/os/igx"]
+	path = ed/os/igx
+	url = .
 [submodule "ed/pb/pyq"]
 	path = ed/pb/pyq
 	url = .
