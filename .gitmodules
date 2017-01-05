@@ -12958,6 +12958,9 @@
 [submodule "kv/ml/odk"]
 	path = kv/ml/odk
 	url = .
+[submodule "kv/pl/exz"]
+	path = kv/pl/exz
+	url = .
 [submodule "kv/qa/syw"]
 	path = kv/qa/syw
 	url = .
