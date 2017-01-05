@@ -3511,6 +3511,9 @@
 [submodule "ch/wq/cjh"]
 	path = ch/wq/cjh
 	url = .
+[submodule "ch/xq/yvg"]
+	path = ch/xq/yvg
+	url = .
 [submodule "ch/yj/ypv"]
 	path = ch/yj/ypv
 	url = .
