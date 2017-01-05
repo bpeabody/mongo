@@ -4735,6 +4735,9 @@
 [submodule "vy/ez/zec"]
 	path = vy/ez/zec
 	url = .
+[submodule "vy/uc/qva"]
+	path = vy/uc/qva
+	url = .
 [submodule "vy/zm/bag"]
 	path = vy/zm/bag
 	url = .
