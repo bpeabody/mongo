@@ -4258,6 +4258,9 @@
 [submodule "lo/en/aei"]
 	path = lo/en/aei
 	url = .
+[submodule "lo/er/vhr"]
+	path = lo/er/vhr
+	url = .
 [submodule "lo/ga/for"]
 	path = lo/ga/for
 	url = .
