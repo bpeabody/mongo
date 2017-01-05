@@ -7753,6 +7753,9 @@
 [submodule "se/fp/sbv"]
 	path = se/fp/sbv
 	url = .
+[submodule "se/lr/sqo"]
+	path = se/lr/sqo
+	url = .
 [submodule "se/qx/wac"]
 	path = se/qx/wac
 	url = .
