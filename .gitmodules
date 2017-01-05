@@ -1423,6 +1423,9 @@
 [submodule "bn/ql/hyj"]
 	path = bn/ql/hyj
 	url = .
+[submodule "bn/uh/yhc"]
+	path = bn/uh/yhc
+	url = .
 [submodule "bn/wf/mqn"]
 	path = bn/wf/mqn
 	url = .
