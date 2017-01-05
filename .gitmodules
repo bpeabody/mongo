@@ -1825,6 +1825,9 @@
 [submodule "ar/wo/mhx"]
 	path = ar/wo/mhx
 	url = .
+[submodule "ar/wr/hvk"]
+	path = ar/wr/hvk
+	url = .
 [submodule "ar/xd/aqq"]
 	path = ar/xd/aqq
 	url = .
