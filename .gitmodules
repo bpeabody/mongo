@@ -27445,6 +27445,9 @@
 [submodule "jr/sn/aub"]
 	path = jr/sn/aub
 	url = .
+[submodule "jr/sy/cdk"]
+	path = jr/sy/cdk
+	url = .
 [submodule "jr/ue/fxq"]
 	path = jr/ue/fxq
 	url = .
