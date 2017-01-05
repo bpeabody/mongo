@@ -6352,6 +6352,9 @@
 [submodule "jq/ew/ebn"]
 	path = jq/ew/ebn
 	url = .
+[submodule "jq/jw/kqx"]
+	path = jq/jw/kqx
+	url = .
 [submodule "jq/mc/oix"]
 	path = jq/mc/oix
 	url = .
