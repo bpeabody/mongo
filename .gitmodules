@@ -550,6 +550,9 @@
 [submodule "ak/as/mxt"]
 	path = ak/as/mxt
 	url = .
+[submodule "ak/dm/uxn"]
+	path = ak/dm/uxn
+	url = .
 [submodule "ak/dt/xfc"]
 	path = ak/dt/xfc
 	url = .
