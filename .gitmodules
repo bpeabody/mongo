@@ -4,6 +4,9 @@
 [submodule "aa/ts/aja"]
 	path = aa/ts/aja
 	url = .
+[submodule "aa/xu/bcq"]
+	path = aa/xu/bcq
+	url = .
 [submodule "ab/bj/cto"]
 	path = ab/bj/cto
 	url = .
