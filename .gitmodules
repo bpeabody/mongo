@@ -8224,6 +8224,9 @@
 [submodule "fw/tq/hnm"]
 	path = fw/tq/hnm
 	url = .
+[submodule "fw/ve/wig"]
+	path = fw/ve/wig
+	url = .
 [submodule "fw/vw/vps"]
 	path = fw/vw/vps
 	url = .
