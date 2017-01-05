@@ -38251,6 +38251,9 @@
 [submodule "ya/xq/gdm"]
 	path = ya/xq/gdm
 	url = .
+[submodule "ya/xx/nxn"]
+	path = ya/xx/nxn
+	url = .
 [submodule "ya/xy/ofa"]
 	path = ya/xy/ofa
 	url = .
