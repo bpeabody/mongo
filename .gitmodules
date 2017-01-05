@@ -9010,6 +9010,9 @@
 [submodule "mz/cb/cvn"]
 	path = mz/cb/cvn
 	url = .
+[submodule "mz/cx/vgc"]
+	path = mz/cx/vgc
+	url = .
 [submodule "mz/fd/sga"]
 	path = mz/fd/sga
 	url = .
