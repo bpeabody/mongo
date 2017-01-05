@@ -8233,6 +8233,9 @@
 [submodule "pr/xz/zfm"]
 	path = pr/xz/zfm
 	url = .
+[submodule "pr/ya/vug"]
+	path = pr/ya/vug
+	url = .
 [submodule "ps/fy/qhi"]
 	path = ps/fy/qhi
 	url = .
