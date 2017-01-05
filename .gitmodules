@@ -22834,6 +22834,9 @@
 [submodule "wd/gq/ytl"]
 	path = wd/gq/ytl
 	url = .
+[submodule "wd/hk/inr"]
+	path = wd/hk/inr
+	url = .
 [submodule "wd/mu/ntg"]
 	path = wd/mu/ntg
 	url = .
