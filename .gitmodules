@@ -32515,6 +32515,9 @@
 [submodule "mt/gp/lvn"]
 	path = mt/gp/lvn
 	url = .
+[submodule "mt/jo/nft"]
+	path = mt/jo/nft
+	url = .
 [submodule "mt/jt/opk"]
 	path = mt/jt/opk
 	url = .
