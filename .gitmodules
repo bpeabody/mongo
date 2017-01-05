@@ -3652,6 +3652,9 @@
 [submodule "kp/lh/qlf"]
 	path = kp/lh/qlf
 	url = .
+[submodule "kp/qo/ctv"]
+	path = kp/qo/ctv
+	url = .
 [submodule "kp/uk/gek"]
 	path = kp/uk/gek
 	url = .
