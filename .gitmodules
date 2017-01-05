@@ -52930,6 +52930,9 @@
 [submodule "si/bb/apm"]
 	path = si/bb/apm
 	url = .
+[submodule "si/bc/vtk"]
+	path = si/bc/vtk
+	url = .
 [submodule "si/ds/tst"]
 	path = si/ds/tst
 	url = .
