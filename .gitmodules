@@ -58480,6 +58480,9 @@
 [submodule "yj/qc/lal"]
 	path = yj/qc/lal
 	url = .
+[submodule "yj/sv/cfq"]
+	path = yj/sv/cfq
+	url = .
 [submodule "yj/sy/zbb"]
 	path = yj/sy/zbb
 	url = .
