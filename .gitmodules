@@ -1744,6 +1744,9 @@
 [submodule "iu/dd/sxs"]
 	path = iu/dd/sxs
 	url = .
+[submodule "iu/if/eeb"]
+	path = iu/if/eeb
+	url = .
 [submodule "iu/kw/bwh"]
 	path = iu/kw/bwh
 	url = .
