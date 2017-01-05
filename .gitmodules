@@ -301,6 +301,9 @@
 [submodule "ah/qy/stj"]
 	path = ah/qy/stj
 	url = .
+[submodule "ah/zk/pfr"]
+	path = ah/zk/pfr
+	url = .
 [submodule "ai/fw/nee"]
 	path = ai/fw/nee
 	url = .
