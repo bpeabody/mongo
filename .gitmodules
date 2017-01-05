@@ -15613,6 +15613,9 @@
 [submodule "vm/el/ohy"]
 	path = vm/el/ohy
 	url = .
+[submodule "vm/ew/ugt"]
+	path = vm/ew/ugt
+	url = .
 [submodule "vm/sq/tbq"]
 	path = vm/sq/tbq
 	url = .
