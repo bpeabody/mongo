@@ -958,6 +958,9 @@
 [submodule "lb/bx/eqm"]
 	path = lb/bx/eqm
 	url = .
+[submodule "lc/nk/wre"]
+	path = lc/nk/wre
+	url = .
 [submodule "lc/rh/gbx"]
 	path = lc/rh/gbx
 	url = .
