@@ -2989,6 +2989,9 @@
 [submodule "zg/fq/jyr"]
 	path = zg/fq/jyr
 	url = .
+[submodule "zg/hb/fel"]
+	path = zg/hb/fel
+	url = .
 [submodule "zg/hd/fge"]
 	path = zg/hd/fge
 	url = .
