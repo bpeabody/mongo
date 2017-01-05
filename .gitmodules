@@ -30154,6 +30154,9 @@
 [submodule "lb/se/esu"]
 	path = lb/se/esu
 	url = .
+[submodule "lb/sy/ghc"]
+	path = lb/sy/ghc
+	url = .
 [submodule "lb/sz/qrh"]
 	path = lb/sz/qrh
 	url = .
