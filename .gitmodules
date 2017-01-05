@@ -10522,6 +10522,9 @@
 [submodule "tm/iv/erg"]
 	path = tm/iv/erg
 	url = .
+[submodule "tm/ms/aql"]
+	path = tm/ms/aql
+	url = .
 [submodule "tm/oi/nzc"]
 	path = tm/oi/nzc
 	url = .
