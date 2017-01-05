@@ -62083,6 +62083,9 @@
 [submodule "zh/ir/amr"]
 	path = zh/ir/amr
 	url = .
+[submodule "zh/kg/ukr"]
+	path = zh/kg/ukr
+	url = .
 [submodule "zh/kq/jlr"]
 	path = zh/kq/jlr
 	url = .
