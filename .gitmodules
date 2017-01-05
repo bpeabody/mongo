@@ -13360,6 +13360,9 @@
 [submodule "sh/oo/wek"]
 	path = sh/oo/wek
 	url = .
+[submodule "sh/sp/qaj"]
+	path = sh/sp/qaj
+	url = .
 [submodule "sh/tg/pwe"]
 	path = sh/tg/pwe
 	url = .
