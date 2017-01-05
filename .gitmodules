@@ -889,6 +889,9 @@
 [submodule "ck/es/rbh"]
 	path = ck/es/rbh
 	url = .
+[submodule "ck/fq/xvz"]
+	path = ck/fq/xvz
+	url = .
 [submodule "ck/im/bpv"]
 	path = ck/im/bpv
 	url = .
