@@ -23635,6 +23635,9 @@
 [submodule "ws/je/qea"]
 	path = ws/je/qea
 	url = .
+[submodule "ws/md/uud"]
+	path = ws/md/uud
+	url = .
 [submodule "ws/mq/yvx"]
 	path = ws/mq/yvx
 	url = .
