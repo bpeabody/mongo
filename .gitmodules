@@ -26659,6 +26659,9 @@
 [submodule "ot/tu/gpp"]
 	path = ot/tu/gpp
 	url = .
+[submodule "ot/wi/cwl"]
+	path = ot/wi/cwl
+	url = .
 [submodule "ot/wu/nwk"]
 	path = ot/wu/nwk
 	url = .
