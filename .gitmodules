@@ -18130,6 +18130,9 @@
 [submodule "xg/rm/jgs"]
 	path = xg/rm/jgs
 	url = .
+[submodule "xg/ss/mkk"]
+	path = xg/ss/mkk
+	url = .
 [submodule "xg/tz/bxx"]
 	path = xg/tz/bxx
 	url = .
