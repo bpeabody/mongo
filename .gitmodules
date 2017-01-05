@@ -60262,6 +60262,9 @@
 [submodule "vm/xv/lgf"]
 	path = vm/xv/lgf
 	url = .
+[submodule "vm/ya/rwb"]
+	path = vm/ya/rwb
+	url = .
 [submodule "vm/yf/tyi"]
 	path = vm/yf/tyi
 	url = .
