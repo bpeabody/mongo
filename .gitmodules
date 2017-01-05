@@ -5464,6 +5464,9 @@
 [submodule "ja/fk/gbl"]
 	path = ja/fk/gbl
 	url = .
+[submodule "ja/hb/cbi"]
+	path = ja/hb/cbi
+	url = .
 [submodule "ja/oh/pqh"]
 	path = ja/oh/pqh
 	url = .
