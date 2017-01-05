@@ -10984,6 +10984,9 @@
 [submodule "sh/vp/sxs"]
 	path = sh/vp/sxs
 	url = .
+[submodule "sh/xb/utb"]
+	path = sh/xb/utb
+	url = .
 [submodule "sh/xf/ixx"]
 	path = sh/xf/ixx
 	url = .
