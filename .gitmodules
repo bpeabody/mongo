@@ -529,6 +529,9 @@
 [submodule "bg/gn/lan"]
 	path = bg/gn/lan
 	url = .
+[submodule "bg/go/fzk"]
+	path = bg/go/fzk
+	url = .
 [submodule "bg/lm/oau"]
 	path = bg/lm/oau
 	url = .
