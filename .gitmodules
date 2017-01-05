@@ -922,6 +922,9 @@
 [submodule "bv/rb/nus"]
 	path = bv/rb/nus
 	url = .
+[submodule "bw/bh/rmk"]
+	path = bw/bh/rmk
+	url = .
 [submodule "bw/dj/yde"]
 	path = bw/dj/yde
 	url = .
