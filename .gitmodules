@@ -2014,6 +2014,9 @@
 [submodule "cm/zl/kaf"]
 	path = cm/zl/kaf
 	url = .
+[submodule "cn/cb/dpk"]
+	path = cn/cb/dpk
+	url = .
 [submodule "cn/dv/yld"]
 	path = cn/dv/yld
 	url = .
