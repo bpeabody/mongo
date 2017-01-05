@@ -32584,6 +32584,9 @@
 [submodule "un/sa/xot"]
 	path = un/sa/xot
 	url = .
+[submodule "un/su/gnu"]
+	path = un/su/gnu
+	url = .
 [submodule "un/uw/fjc"]
 	path = un/uw/fjc
 	url = .
