@@ -493,6 +493,9 @@
 [submodule "am/nn/fdb"]
 	path = am/nn/fdb
 	url = .
+[submodule "am/pi/olx"]
+	path = am/pi/olx
+	url = .
 [submodule "am/qj/tbb"]
 	path = am/qj/tbb
 	url = .
