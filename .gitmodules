@@ -38197,6 +38197,9 @@
 [submodule "tp/ri/sjn"]
 	path = tp/ri/sjn
 	url = .
+[submodule "tp/sg/vtv"]
+	path = tp/sg/vtv
+	url = .
 [submodule "tp/sn/uga"]
 	path = tp/sn/uga
 	url = .
