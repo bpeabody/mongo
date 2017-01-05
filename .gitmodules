@@ -6823,6 +6823,9 @@
 [submodule "wr/yc/sxp"]
 	path = wr/yc/sxp
 	url = .
+[submodule "ws/ht/lfa"]
+	path = ws/ht/lfa
+	url = .
 [submodule "ws/je/qea"]
 	path = ws/je/qea
 	url = .
