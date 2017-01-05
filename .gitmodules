@@ -2629,6 +2629,9 @@
 [submodule "yv/kt/dqw"]
 	path = yv/kt/dqw
 	url = .
+[submodule "yv/pa/iva"]
+	path = yv/pa/iva
+	url = .
 [submodule "yw/df/nep"]
 	path = yw/df/nep
 	url = .
