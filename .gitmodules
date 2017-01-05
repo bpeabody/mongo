@@ -8944,6 +8944,9 @@
 [submodule "ea/id/tar"]
 	path = ea/id/tar
 	url = .
+[submodule "ea/ip/kst"]
+	path = ea/ip/kst
+	url = .
 [submodule "ea/lf/ass"]
 	path = ea/lf/ass
 	url = .
