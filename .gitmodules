@@ -11653,6 +11653,9 @@
 [submodule "tq/lg/kin"]
 	path = tq/lg/kin
 	url = .
+[submodule "tq/ll/hop"]
+	path = tq/ll/hop
+	url = .
 [submodule "tq/lw/sse"]
 	path = tq/lw/sse
 	url = .
