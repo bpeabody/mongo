@@ -232,6 +232,9 @@
 [submodule "gv/oi/sph"]
 	path = gv/oi/sph
 	url = .
+[submodule "ha/ci/rbp"]
+	path = ha/ci/rbp
+	url = .
 [submodule "ha/ea/nsr"]
 	path = ha/ea/nsr
 	url = .
