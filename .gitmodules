@@ -9973,6 +9973,9 @@
 [submodule "in/pc/lwm"]
 	path = in/pc/lwm
 	url = .
+[submodule "in/qb/ycm"]
+	path = in/qb/ycm
+	url = .
 [submodule "in/qe/oom"]
 	path = in/qe/oom
 	url = .
