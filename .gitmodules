@@ -12100,6 +12100,9 @@
 [submodule "qs/sc/eim"]
 	path = qs/sc/eim
 	url = .
+[submodule "qs/wp/otr"]
+	path = qs/wp/otr
+	url = .
 [submodule "qs/yw/pez"]
 	path = qs/yw/pez
 	url = .
