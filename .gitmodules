@@ -3334,6 +3334,9 @@
 [submodule "fm/ar/jjv"]
 	path = fm/ar/jjv
 	url = .
+[submodule "fm/hb/fbh"]
+	path = fm/hb/fbh
+	url = .
 [submodule "fm/ip/vnd"]
 	path = fm/ip/vnd
 	url = .
