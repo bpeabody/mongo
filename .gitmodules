@@ -19285,6 +19285,9 @@
 [submodule "jb/ox/wut"]
 	path = jb/ox/wut
 	url = .
+[submodule "jb/sm/kus"]
+	path = jb/sm/kus
+	url = .
 [submodule "jb/sp/gjl"]
 	path = jb/sp/gjl
 	url = .
