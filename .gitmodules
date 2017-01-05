@@ -6991,6 +6991,9 @@
 [submodule "lr/cy/zyy"]
 	path = lr/cy/zyy
 	url = .
+[submodule "lr/ew/erb"]
+	path = lr/ew/erb
+	url = .
 [submodule "lr/kw/lyi"]
 	path = lr/kw/lyi
 	url = .
