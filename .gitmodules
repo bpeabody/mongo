@@ -3754,6 +3754,9 @@
 [submodule "ub/wb/lmb"]
 	path = ub/wb/lmb
 	url = .
+[submodule "ub/yg/cvg"]
+	path = ub/yg/cvg
+	url = .
 [submodule "uc/km/twd"]
 	path = uc/km/twd
 	url = .
