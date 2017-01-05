@@ -415,6 +415,9 @@
 [submodule "vf/ac/vgw"]
 	path = vf/ac/vgw
 	url = .
+[submodule "vj/fm/ifx"]
+	path = vj/fm/ifx
+	url = .
 [submodule "vk/mp/wjp"]
 	path = vk/mp/wjp
 	url = .
