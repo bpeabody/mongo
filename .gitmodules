@@ -16552,6 +16552,9 @@
 [submodule "jp/ut/ycz"]
 	path = jp/ut/ycz
 	url = .
+[submodule "jp/vk/zzt"]
+	path = jp/vk/zzt
+	url = .
 [submodule "jq/cf/rgs"]
 	path = jq/cf/rgs
 	url = .
