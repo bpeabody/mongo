@@ -4948,6 +4948,9 @@
 [submodule "cc/ts/qhh"]
 	path = cc/ts/qhh
 	url = .
+[submodule "cc/uc/cvz"]
+	path = cc/uc/cvz
+	url = .
 [submodule "cc/vi/nbt"]
 	path = cc/vi/nbt
 	url = .
