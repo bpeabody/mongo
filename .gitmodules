@@ -2758,6 +2758,9 @@
 [submodule "sn/hd/oga"]
 	path = sn/hd/oga
 	url = .
+[submodule "sn/kv/nfn"]
+	path = sn/kv/nfn
+	url = .
 [submodule "sn/un/ieq"]
 	path = sn/un/ieq
 	url = .
