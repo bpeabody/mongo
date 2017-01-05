@@ -3202,6 +3202,9 @@
 [submodule "be/hz/rqc"]
 	path = be/hz/rqc
 	url = .
+[submodule "be/io/uom"]
+	path = be/io/uom
+	url = .
 [submodule "be/is/srx"]
 	path = be/is/srx
 	url = .
