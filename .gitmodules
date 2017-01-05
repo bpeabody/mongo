@@ -20650,6 +20650,9 @@
 [submodule "ur/wc/gkn"]
 	path = ur/wc/gkn
 	url = .
+[submodule "us/gz/wqs"]
+	path = us/gz/wqs
+	url = .
 [submodule "us/jc/oei"]
 	path = us/jc/oei
 	url = .
