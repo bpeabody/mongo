@@ -18841,6 +18841,9 @@
 [submodule "qj/qi/fkk"]
 	path = qj/qi/fkk
 	url = .
+[submodule "qj/sc/qcf"]
+	path = qj/sc/qcf
+	url = .
 [submodule "qj/sf/nrq"]
 	path = qj/sf/nrq
 	url = .
