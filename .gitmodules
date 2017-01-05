@@ -55723,6 +55723,9 @@
 [submodule "ug/sa/jju"]
 	path = ug/sa/jju
 	url = .
+[submodule "ug/tp/osd"]
+	path = ug/tp/osd
+	url = .
 [submodule "ug/uj/jum"]
 	path = ug/uj/jum
 	url = .
