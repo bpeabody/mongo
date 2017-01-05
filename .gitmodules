@@ -9973,6 +9973,9 @@
 [submodule "qd/wk/hvs"]
 	path = qd/wk/hvs
 	url = .
+[submodule "qe/cc/maj"]
+	path = qe/cc/maj
+	url = .
 [submodule "qe/id/lzf"]
 	path = qe/id/lzf
 	url = .
