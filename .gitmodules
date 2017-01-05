@@ -39307,6 +39307,9 @@
 [submodule "xq/dk/bsv"]
 	path = xq/dk/bsv
 	url = .
+[submodule "xq/ec/sou"]
+	path = xq/ec/sou
+	url = .
 [submodule "xq/eg/jjt"]
 	path = xq/eg/jjt
 	url = .
