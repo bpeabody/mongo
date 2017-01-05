@@ -21583,6 +21583,9 @@
 [submodule "ie/vm/lsv"]
 	path = ie/vm/lsv
 	url = .
+[submodule "ie/vn/fmi"]
+	path = ie/vn/fmi
+	url = .
 [submodule "ie/vu/otr"]
 	path = ie/vu/otr
 	url = .
