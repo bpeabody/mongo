@@ -14632,6 +14632,9 @@
 [submodule "gq/ph/kbd"]
 	path = gq/ph/kbd
 	url = .
+[submodule "gq/pn/qaa"]
+	path = gq/pn/qaa
+	url = .
 [submodule "gq/rr/ewx"]
 	path = gq/rr/ewx
 	url = .
