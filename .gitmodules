@@ -1321,6 +1321,9 @@
 [submodule "au/dm/gfo"]
 	path = au/dm/gfo
 	url = .
+[submodule "au/fx/fdc"]
+	path = au/fx/fdc
+	url = .
 [submodule "au/gw/sgn"]
 	path = au/gw/sgn
 	url = .
