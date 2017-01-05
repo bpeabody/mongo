@@ -1942,6 +1942,9 @@
 [submodule "fb/or/gcu"]
 	path = fb/or/gcu
 	url = .
+[submodule "fb/ou/jzp"]
+	path = fb/ou/jzp
+	url = .
 [submodule "fb/qh/ysb"]
 	path = fb/qh/ysb
 	url = .
