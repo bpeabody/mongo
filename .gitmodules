@@ -6241,6 +6241,9 @@
 [submodule "mw/dp/miu"]
 	path = mw/dp/miu
 	url = .
+[submodule "mw/ic/fub"]
+	path = mw/ic/fub
+	url = .
 [submodule "mw/ie/tqn"]
 	path = mw/ie/tqn
 	url = .
