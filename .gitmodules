@@ -328,6 +328,9 @@
 [submodule "cz/dy/dmv"]
 	path = cz/dy/dmv
 	url = .
+[submodule "cz/fr/tlp"]
+	path = cz/fr/tlp
+	url = .
 [submodule "db/aw/yos"]
 	path = db/aw/yos
 	url = .
