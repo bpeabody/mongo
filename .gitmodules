@@ -29464,6 +29464,9 @@
 [submodule "kp/zj/dck"]
 	path = kp/zj/dck
 	url = .
+[submodule "kp/zv/gdk"]
+	path = kp/zv/gdk
+	url = .
 [submodule "kq/at/equ"]
 	path = kq/at/equ
 	url = .
