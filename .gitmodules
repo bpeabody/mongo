@@ -874,6 +874,9 @@
 [submodule "hx/lw/kgt"]
 	path = hx/lw/kgt
 	url = .
+[submodule "hx/mw/erh"]
+	path = hx/mw/erh
+	url = .
 [submodule "hy/sz/fsm"]
 	path = hy/sz/fsm
 	url = .
