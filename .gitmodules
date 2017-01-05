@@ -1933,6 +1933,9 @@
 [submodule "ax/xa/cvo"]
 	path = ax/xa/cvo
 	url = .
+[submodule "ax/yh/sjc"]
+	path = ax/yh/sjc
+	url = .
 [submodule "ax/yy/bzx"]
 	path = ax/yy/bzx
 	url = .
