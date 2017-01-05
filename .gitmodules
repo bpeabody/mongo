@@ -14371,6 +14371,9 @@
 [submodule "mo/ix/lal"]
 	path = mo/ix/lal
 	url = .
+[submodule "mo/ls/afo"]
+	path = mo/ls/afo
+	url = .
 [submodule "mo/nj/cyl"]
 	path = mo/nj/cyl
 	url = .
