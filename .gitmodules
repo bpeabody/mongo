@@ -820,6 +820,9 @@
 [submodule "fk/wo/wac"]
 	path = fk/wo/wac
 	url = .
+[submodule "fl/gn/jhn"]
+	path = fl/gn/jhn
+	url = .
 [submodule "fl/ie/fnh"]
 	path = fl/ie/fnh
 	url = .
