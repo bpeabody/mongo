@@ -430,6 +430,9 @@
 [submodule "ah/nc/nuh"]
 	path = ah/nc/nuh
 	url = .
+[submodule "ah/ou/izu"]
+	path = ah/ou/izu
+	url = .
 [submodule "ah/qj/hfx"]
 	path = ah/qj/hfx
 	url = .
