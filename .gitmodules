@@ -24835,6 +24835,9 @@
 [submodule "ub/yg/cvg"]
 	path = ub/yg/cvg
 	url = .
+[submodule "ub/yt/avc"]
+	path = ub/yt/avc
+	url = .
 [submodule "ub/yz/pxh"]
 	path = ub/yz/pxh
 	url = .
