@@ -532,6 +532,9 @@
 [submodule "aj/pu/gif"]
 	path = aj/pu/gif
 	url = .
+[submodule "aj/vp/wxu"]
+	path = aj/vp/wxu
+	url = .
 [submodule "aj/xw/ddi"]
 	path = aj/xw/ddi
 	url = .
