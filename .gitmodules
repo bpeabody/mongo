@@ -7552,6 +7552,9 @@
 [submodule "kh/dy/lne"]
 	path = kh/dy/lne
 	url = .
+[submodule "kh/gk/hpp"]
+	path = kh/gk/hpp
+	url = .
 [submodule "kh/jc/lmo"]
 	path = kh/jc/lmo
 	url = .
