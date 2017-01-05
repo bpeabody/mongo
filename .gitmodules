@@ -19000,6 +19000,9 @@
 [submodule "ys/ba/txs"]
 	path = ys/ba/txs
 	url = .
+[submodule "ys/et/vnj"]
+	path = ys/et/vnj
+	url = .
 [submodule "ys/fn/edu"]
 	path = ys/fn/edu
 	url = .
