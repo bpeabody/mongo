@@ -18439,6 +18439,9 @@
 [submodule "zh/ne/yyu"]
 	path = zh/ne/yyu
 	url = .
+[submodule "zh/pn/tsn"]
+	path = zh/pn/tsn
+	url = .
 [submodule "zh/qx/dxe"]
 	path = zh/qx/dxe
 	url = .
