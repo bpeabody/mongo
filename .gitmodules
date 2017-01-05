@@ -7690,6 +7690,9 @@
 [submodule "ey/oc/haf"]
 	path = ey/oc/haf
 	url = .
+[submodule "ey/pl/hwa"]
+	path = ey/pl/hwa
+	url = .
 [submodule "ey/ps/wlh"]
 	path = ey/ps/wlh
 	url = .
