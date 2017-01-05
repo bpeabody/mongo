@@ -3040,6 +3040,9 @@
 [submodule "pc/ii/qei"]
 	path = pc/ii/qei
 	url = .
+[submodule "pc/ji/ydi"]
+	path = pc/ji/ydi
+	url = .
 [submodule "pc/vp/zjj"]
 	path = pc/vp/zjj
 	url = .
