@@ -1603,6 +1603,9 @@
 [submodule "ew/ep/dnr"]
 	path = ew/ep/dnr
 	url = .
+[submodule "ew/fj/wit"]
+	path = ew/fj/wit
+	url = .
 [submodule "ew/ld/qkw"]
 	path = ew/ld/qkw
 	url = .
