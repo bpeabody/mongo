@@ -4006,6 +4006,9 @@
 [submodule "dz/kr/orm"]
 	path = dz/kr/orm
 	url = .
+[submodule "dz/kv/mlb"]
+	path = dz/kv/mlb
+	url = .
 [submodule "dz/rq/eii"]
 	path = dz/rq/eii
 	url = .
