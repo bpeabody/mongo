@@ -9430,6 +9430,9 @@
 [submodule "kx/pc/gdk"]
 	path = kx/pc/gdk
 	url = .
+[submodule "kx/qh/pzh"]
+	path = kx/qh/pzh
+	url = .
 [submodule "kx/qp/xpf"]
 	path = kx/qp/xpf
 	url = .
