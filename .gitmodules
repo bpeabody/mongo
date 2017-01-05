@@ -7,6 +7,9 @@
 [submodule "ao/ob/dur"]
 	path = ao/ob/dur
 	url = .
+[submodule "bh/ny/vzd"]
+	path = bh/ny/vzd
+	url = .
 [submodule "bi/kc/rba"]
 	path = bi/kc/rba
 	url = .
