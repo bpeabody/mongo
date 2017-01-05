@@ -604,6 +604,9 @@
 [submodule "dc/vq/jbi"]
 	path = dc/vq/jbi
 	url = .
+[submodule "dc/zb/itv"]
+	path = dc/zb/itv
+	url = .
 [submodule "dc/zp/vac"]
 	path = dc/zp/vac
 	url = .
