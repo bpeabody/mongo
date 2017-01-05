@@ -4411,6 +4411,9 @@
 [submodule "jp/mk/tqt"]
 	path = jp/mk/tqt
 	url = .
+[submodule "jp/sm/usw"]
+	path = jp/sm/usw
+	url = .
 [submodule "jp/tn/yrn"]
 	path = jp/tn/yrn
 	url = .
