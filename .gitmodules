@@ -47452,6 +47452,9 @@
 [submodule "rk/mm/usr"]
 	path = rk/mm/usr
 	url = .
+[submodule "rk/ok/xlm"]
+	path = rk/ok/xlm
+	url = .
 [submodule "rk/pc/uuo"]
 	path = rk/pc/uuo
 	url = .
