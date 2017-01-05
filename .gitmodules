@@ -1045,6 +1045,9 @@
 [submodule "aj/ag/lfv"]
 	path = aj/ag/lfv
 	url = .
+[submodule "aj/ah/fzu"]
+	path = aj/ah/fzu
+	url = .
 [submodule "aj/aj/rez"]
 	path = aj/aj/rez
 	url = .
