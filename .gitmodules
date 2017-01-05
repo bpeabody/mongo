@@ -29710,6 +29710,9 @@
 [submodule "sb/xg/haw"]
 	path = sb/xg/haw
 	url = .
+[submodule "sb/xg/qeg"]
+	path = sb/xg/qeg
+	url = .
 [submodule "sb/xn/fwt"]
 	path = sb/xn/fwt
 	url = .
