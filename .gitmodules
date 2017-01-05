@@ -5626,6 +5626,9 @@
 [submodule "cq/rg/vnb"]
 	path = cq/rg/vnb
 	url = .
+[submodule "cq/rj/vfy"]
+	path = cq/rj/vfy
+	url = .
 [submodule "cq/ue/fud"]
 	path = cq/ue/fud
 	url = .
