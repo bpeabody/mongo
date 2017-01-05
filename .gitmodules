@@ -4069,6 +4069,9 @@
 [submodule "hs/nc/mmm"]
 	path = hs/nc/mmm
 	url = .
+[submodule "hs/nq/veh"]
+	path = hs/nq/veh
+	url = .
 [submodule "hs/vm/ogf"]
 	path = hs/vm/ogf
 	url = .
