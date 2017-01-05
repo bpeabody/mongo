@@ -21001,6 +21001,9 @@
 [submodule "qt/oq/erq"]
 	path = qt/oq/erq
 	url = .
+[submodule "qt/pg/ccg"]
+	path = qt/pg/ccg
+	url = .
 [submodule "qt/sh/zuf"]
 	path = qt/sh/zuf
 	url = .
