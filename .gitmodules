@@ -1546,6 +1546,9 @@
 [submodule "an/hw/xda"]
 	path = an/hw/xda
 	url = .
+[submodule "an/jg/sxh"]
+	path = an/jg/sxh
+	url = .
 [submodule "an/jh/bok"]
 	path = an/jh/bok
 	url = .
