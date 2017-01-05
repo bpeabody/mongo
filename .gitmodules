@@ -65203,6 +65203,9 @@
 [submodule "ww/le/ogl"]
 	path = ww/le/ogl
 	url = .
+[submodule "ww/lj/qkf"]
+	path = ww/lj/qkf
+	url = .
 [submodule "ww/ln/bpd"]
 	path = ww/ln/bpd
 	url = .
