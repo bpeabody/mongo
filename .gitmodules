@@ -7450,6 +7450,9 @@
 [submodule "yl/ir/cnt"]
 	path = yl/ir/cnt
 	url = .
+[submodule "yl/nd/noi"]
+	path = yl/nd/noi
+	url = .
 [submodule "ym/yc/hfv"]
 	path = ym/yc/hfv
 	url = .
