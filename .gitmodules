@@ -32959,6 +32959,9 @@
 [submodule "sj/ie/ely"]
 	path = sj/ie/ely
 	url = .
+[submodule "sj/kj/qvs"]
+	path = sj/kj/qvs
+	url = .
 [submodule "sj/kk/ylb"]
 	path = sj/kk/ylb
 	url = .
