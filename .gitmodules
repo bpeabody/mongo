@@ -3769,6 +3769,9 @@
 [submodule "bu/zq/sxq"]
 	path = bu/zq/sxq
 	url = .
+[submodule "bv/ad/oce"]
+	path = bv/ad/oce
+	url = .
 [submodule "bv/at/ruc"]
 	path = bv/at/ruc
 	url = .
