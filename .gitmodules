@@ -610,6 +610,9 @@
 [submodule "dp/et/pli"]
 	path = dp/et/pli
 	url = .
+[submodule "dp/fj/xve"]
+	path = dp/fj/xve
+	url = .
 [submodule "dp/se/teo"]
 	path = dp/se/teo
 	url = .
