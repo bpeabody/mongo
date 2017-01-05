@@ -1552,6 +1552,9 @@
 [submodule "as/kf/koh"]
 	path = as/kf/koh
 	url = .
+[submodule "as/lj/yfj"]
+	path = as/lj/yfj
+	url = .
 [submodule "as/oo/rua"]
 	path = as/oo/rua
 	url = .
