@@ -41035,6 +41035,9 @@
 [submodule "op/yy/ryj"]
 	path = op/yy/ryj
 	url = .
+[submodule "op/zz/elc"]
+	path = op/zz/elc
+	url = .
 [submodule "oq/ac/tga"]
 	path = oq/ac/tga
 	url = .
