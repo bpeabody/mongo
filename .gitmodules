@@ -52672,6 +52672,9 @@
 [submodule "vc/rf/pue"]
 	path = vc/rf/pue
 	url = .
+[submodule "vc/rk/kyk"]
+	path = vc/rk/kyk
+	url = .
 [submodule "vc/sw/nec"]
 	path = vc/sw/nec
 	url = .
