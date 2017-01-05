@@ -38029,6 +38029,9 @@
 [submodule "vp/rt/zyy"]
 	path = vp/rt/zyy
 	url = .
+[submodule "vp/vg/kya"]
+	path = vp/vg/kya
+	url = .
 [submodule "vp/vz/tcy"]
 	path = vp/vz/tcy
 	url = .
