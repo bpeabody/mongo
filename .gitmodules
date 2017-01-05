@@ -61957,6 +61957,9 @@
 [submodule "yn/qy/vdt"]
 	path = yn/qy/vdt
 	url = .
+[submodule "yn/ro/uhs"]
+	path = yn/ro/uhs
+	url = .
 [submodule "yn/rx/xmu"]
 	path = yn/rx/xmu
 	url = .
