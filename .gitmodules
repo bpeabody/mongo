@@ -10693,6 +10693,9 @@
 [submodule "kf/tn/xwv"]
 	path = kf/tn/xwv
 	url = .
+[submodule "kf/uo/gtm"]
+	path = kf/uo/gtm
+	url = .
 [submodule "kf/uq/gwr"]
 	path = kf/uq/gwr
 	url = .
