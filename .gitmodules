@@ -12247,6 +12247,9 @@
 [submodule "fn/rd/aex"]
 	path = fn/rd/aex
 	url = .
+[submodule "fn/so/cma"]
+	path = fn/so/cma
+	url = .
 [submodule "fn/tg/eoc"]
 	path = fn/tg/eoc
 	url = .
