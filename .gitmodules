@@ -3424,6 +3424,9 @@
 [submodule "bs/sb/kpb"]
 	path = bs/sb/kpb
 	url = .
+[submodule "bs/sd/cws"]
+	path = bs/sd/cws
+	url = .
 [submodule "bs/tx/tto"]
 	path = bs/tx/tto
 	url = .
