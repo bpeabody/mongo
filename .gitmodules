@@ -9169,6 +9169,9 @@
 [submodule "dw/cx/dhf"]
 	path = dw/cx/dhf
 	url = .
+[submodule "dw/da/nuv"]
+	path = dw/da/nuv
+	url = .
 [submodule "dw/di/jkg"]
 	path = dw/di/jkg
 	url = .
