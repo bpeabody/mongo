@@ -5824,6 +5824,9 @@
 [submodule "ca/wz/aur"]
 	path = ca/wz/aur
 	url = .
+[submodule "ca/xg/qsu"]
+	path = ca/xg/qsu
+	url = .
 [submodule "ca/xj/scs"]
 	path = ca/xj/scs
 	url = .
