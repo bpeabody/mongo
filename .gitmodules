@@ -70027,6 +70027,9 @@
 [submodule "yn/se/bop"]
 	path = yn/se/bop
 	url = .
+[submodule "yn/ub/bob"]
+	path = yn/ub/bob
+	url = .
 [submodule "yn/ue/aqe"]
 	path = yn/ue/aqe
 	url = .
