@@ -7534,6 +7534,9 @@
 [submodule "dy/dy/fvl"]
 	path = dy/dy/fvl
 	url = .
+[submodule "dy/fb/hee"]
+	path = dy/fb/hee
+	url = .
 [submodule "dy/fx/aeo"]
 	path = dy/fx/aeo
 	url = .
