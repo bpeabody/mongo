@@ -9499,6 +9499,9 @@
 [submodule "mx/un/nui"]
 	path = mx/un/nui
 	url = .
+[submodule "mx/vo/mcu"]
+	path = mx/vo/mcu
+	url = .
 [submodule "mx/xy/abs"]
 	path = mx/xy/abs
 	url = .
