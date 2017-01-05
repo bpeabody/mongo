@@ -3409,6 +3409,9 @@
 [submodule "bd/yd/bat"]
 	path = bd/yd/bat
 	url = .
+[submodule "bd/yt/fgx"]
+	path = bd/yt/fgx
+	url = .
 [submodule "bd/yv/ogh"]
 	path = bd/yv/ogh
 	url = .
