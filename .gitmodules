@@ -55,6 +55,9 @@
 [submodule "aa/uz/vij"]
 	path = aa/uz/vij
 	url = .
+[submodule "aa/ws/pmk"]
+	path = aa/ws/pmk
+	url = .
 [submodule "aa/xu/bcq"]
 	path = aa/xu/bcq
 	url = .
