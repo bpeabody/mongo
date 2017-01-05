@@ -19525,6 +19525,9 @@
 [submodule "if/ra/olg"]
 	path = if/ra/olg
 	url = .
+[submodule "if/rg/vhp"]
+	path = if/rg/vhp
+	url = .
 [submodule "if/rs/jbx"]
 	path = if/rs/jbx
 	url = .
