@@ -1804,6 +1804,9 @@
 [submodule "iq/fa/wgu"]
 	path = iq/fa/wgu
 	url = .
+[submodule "iq/wx/bbg"]
+	path = iq/wx/bbg
+	url = .
 [submodule "ir/dx/enz"]
 	path = ir/dx/enz
 	url = .
