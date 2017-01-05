@@ -29686,6 +29686,9 @@
 [submodule "nu/tf/kbp"]
 	path = nu/tf/kbp
 	url = .
+[submodule "nu/tl/cnx"]
+	path = nu/tl/cnx
+	url = .
 [submodule "nv/cj/toz"]
 	path = nv/cj/toz
 	url = .
