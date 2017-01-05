@@ -6376,6 +6376,9 @@
 [submodule "ij/pc/baa"]
 	path = ij/pc/baa
 	url = .
+[submodule "ij/xb/gzu"]
+	path = ij/xb/gzu
+	url = .
 [submodule "ij/zn/bbs"]
 	path = ij/zn/bbs
 	url = .
