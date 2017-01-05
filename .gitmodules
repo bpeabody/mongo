@@ -8800,6 +8800,9 @@
 [submodule "hh/rg/zte"]
 	path = hh/rg/zte
 	url = .
+[submodule "hh/ua/lus"]
+	path = hh/ua/lus
+	url = .
 [submodule "hh/wg/dpz"]
 	path = hh/wg/dpz
 	url = .
