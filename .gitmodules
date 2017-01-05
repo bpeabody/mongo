@@ -2290,6 +2290,9 @@
 [submodule "zu/os/whd"]
 	path = zu/os/whd
 	url = .
+[submodule "zw/su/kwk"]
+	path = zw/su/kwk
+	url = .
 [submodule "zw/ur/irj"]
 	path = zw/ur/irj
 	url = .
