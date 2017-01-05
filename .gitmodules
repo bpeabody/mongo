@@ -9577,6 +9577,9 @@
 [submodule "hg/lt/spy"]
 	path = hg/lt/spy
 	url = .
+[submodule "hg/mu/ezc"]
+	path = hg/mu/ezc
+	url = .
 [submodule "hg/vt/jxf"]
 	path = hg/vt/jxf
 	url = .
