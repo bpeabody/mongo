@@ -38233,6 +38233,9 @@
 [submodule "tb/mx/siu"]
 	path = tb/mx/siu
 	url = .
+[submodule "tb/ol/cvp"]
+	path = tb/ol/cvp
+	url = .
 [submodule "tb/op/bkz"]
 	path = tb/op/bkz
 	url = .
