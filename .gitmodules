@@ -16828,6 +16828,9 @@
 [submodule "hl/tg/vxa"]
 	path = hl/tg/vxa
 	url = .
+[submodule "hl/ty/clr"]
+	path = hl/ty/clr
+	url = .
 [submodule "hl/vd/lfr"]
 	path = hl/vd/lfr
 	url = .
