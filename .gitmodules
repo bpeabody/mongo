@@ -20875,6 +20875,9 @@
 [submodule "qp/hc/bum"]
 	path = qp/hc/bum
 	url = .
+[submodule "qp/im/kdo"]
+	path = qp/im/kdo
+	url = .
 [submodule "qp/jp/ujb"]
 	path = qp/jp/ujb
 	url = .
