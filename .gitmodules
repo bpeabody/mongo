@@ -36049,6 +36049,9 @@
 [submodule "sh/ry/tcn"]
 	path = sh/ry/tcn
 	url = .
+[submodule "sh/rz/ydf"]
+	path = sh/rz/ydf
+	url = .
 [submodule "sh/so/khe"]
 	path = sh/so/khe
 	url = .
