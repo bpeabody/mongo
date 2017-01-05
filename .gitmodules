@@ -17779,6 +17779,9 @@
 [submodule "tv/ks/duf"]
 	path = tv/ks/duf
 	url = .
+[submodule "tv/ky/xfb"]
+	path = tv/ky/xfb
+	url = .
 [submodule "tv/qh/fys"]
 	path = tv/qh/fys
 	url = .
