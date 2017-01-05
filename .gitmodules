@@ -21292,6 +21292,9 @@
 [submodule "rj/ro/ndc"]
 	path = rj/ro/ndc
 	url = .
+[submodule "rj/vd/tmn"]
+	path = rj/vd/tmn
+	url = .
 [submodule "rj/wk/xrl"]
 	path = rj/wk/xrl
 	url = .
