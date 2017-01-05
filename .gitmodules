@@ -3886,6 +3886,9 @@
 [submodule "bw/sk/wyu"]
 	path = bw/sk/wyu
 	url = .
+[submodule "bw/tt/gah"]
+	path = bw/tt/gah
+	url = .
 [submodule "bw/tw/lht"]
 	path = bw/tw/lht
 	url = .
