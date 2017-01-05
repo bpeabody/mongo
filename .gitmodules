@@ -5206,6 +5206,9 @@
 [submodule "de/ki/dvs"]
 	path = de/ki/dvs
 	url = .
+[submodule "de/km/uid"]
+	path = de/km/uid
+	url = .
 [submodule "de/ms/fgk"]
 	path = de/ms/fgk
 	url = .
