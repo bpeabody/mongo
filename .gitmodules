@@ -47074,6 +47074,9 @@
 [submodule "tk/ge/xfh"]
 	path = tk/ge/xfh
 	url = .
+[submodule "tk/gj/sus"]
+	path = tk/gj/sus
+	url = .
 [submodule "tk/ha/uud"]
 	path = tk/ha/uud
 	url = .
