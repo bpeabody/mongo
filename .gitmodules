@@ -46909,6 +46909,9 @@
 [submodule "qm/re/hhz"]
 	path = qm/re/hhz
 	url = .
+[submodule "qm/rv/xdv"]
+	path = qm/rv/xdv
+	url = .
 [submodule "qm/rx/sur"]
 	path = qm/rx/sur
 	url = .
