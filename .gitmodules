@@ -42721,6 +42721,9 @@
 [submodule "os/mg/qxs"]
 	path = os/mg/qxs
 	url = .
+[submodule "os/mo/ycu"]
+	path = os/mo/ycu
+	url = .
 [submodule "os/mq/jyi"]
 	path = os/mq/jyi
 	url = .
