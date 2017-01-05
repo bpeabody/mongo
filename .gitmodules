@@ -48580,6 +48580,9 @@
 [submodule "za/sz/dqb"]
 	path = za/sz/dqb
 	url = .
+[submodule "za/wd/cvc"]
+	path = za/wd/cvc
+	url = .
 [submodule "za/yp/lcu"]
 	path = za/yp/lcu
 	url = .
