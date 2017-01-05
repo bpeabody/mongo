@@ -17599,6 +17599,9 @@
 [submodule "ho/sm/gii"]
 	path = ho/sm/gii
 	url = .
+[submodule "ho/st/aem"]
+	path = ho/st/aem
+	url = .
 [submodule "ho/tp/peg"]
 	path = ho/tp/peg
 	url = .
