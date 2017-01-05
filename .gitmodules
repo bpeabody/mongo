@@ -2968,6 +2968,9 @@
 [submodule "if/vu/hrp"]
 	path = if/vu/hrp
 	url = .
+[submodule "if/xy/cmh"]
+	path = if/xy/cmh
+	url = .
 [submodule "ig/fm/vzw"]
 	path = ig/fm/vzw
 	url = .
