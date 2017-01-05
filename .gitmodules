@@ -28816,6 +28816,9 @@
 [submodule "ts/xc/mum"]
 	path = ts/xc/mum
 	url = .
+[submodule "ts/xd/eqb"]
+	path = ts/xd/eqb
+	url = .
 [submodule "ts/yl/vpz"]
 	path = ts/yl/vpz
 	url = .
