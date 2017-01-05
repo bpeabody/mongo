@@ -11026,6 +11026,9 @@
 [submodule "rs/cv/xnp"]
 	path = rs/cv/xnp
 	url = .
+[submodule "rs/dr/odq"]
+	path = rs/dr/odq
+	url = .
 [submodule "rs/gm/txa"]
 	path = rs/gm/txa
 	url = .
