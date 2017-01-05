@@ -1858,6 +1858,9 @@
 [submodule "ff/rt/vnp"]
 	path = ff/rt/vnp
 	url = .
+[submodule "ff/xd/avo"]
+	path = ff/xd/avo
+	url = .
 [submodule "fg/ak/yfw"]
 	path = fg/ak/yfw
 	url = .
