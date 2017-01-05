@@ -10699,6 +10699,9 @@
 [submodule "jy/pt/doj"]
 	path = jy/pt/doj
 	url = .
+[submodule "jy/qe/nuk"]
+	path = jy/qe/nuk
+	url = .
 [submodule "jy/sr/brc"]
 	path = jy/sr/brc
 	url = .
