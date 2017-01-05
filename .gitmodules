@@ -47773,6 +47773,9 @@
 [submodule "vc/ze/rhp"]
 	path = vc/ze/rhp
 	url = .
+[submodule "vc/zp/lrp"]
+	path = vc/zp/lrp
+	url = .
 [submodule "vd/ap/bti"]
 	path = vd/ap/bti
 	url = .
