@@ -10837,6 +10837,9 @@
 [submodule "lp/sh/nnu"]
 	path = lp/sh/nnu
 	url = .
+[submodule "lp/um/frx"]
+	path = lp/um/frx
+	url = .
 [submodule "lp/uu/ukw"]
 	path = lp/uu/ukw
 	url = .
