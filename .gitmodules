@@ -26200,6 +26200,9 @@
 [submodule "xm/wr/qdw"]
 	path = xm/wr/qdw
 	url = .
+[submodule "xm/yb/xvr"]
+	path = xm/yb/xvr
+	url = .
 [submodule "xm/ym/vvk"]
 	path = xm/ym/vvk
 	url = .
