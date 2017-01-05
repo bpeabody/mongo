@@ -133,6 +133,9 @@
 [submodule "bc/ew/mzq"]
 	path = bc/ew/mzq
 	url = .
+[submodule "bc/mu/mnw"]
+	path = bc/mu/mnw
+	url = .
 [submodule "bc/pg/ysc"]
 	path = bc/pg/ysc
 	url = .
