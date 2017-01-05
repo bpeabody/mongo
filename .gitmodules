@@ -1975,6 +1975,9 @@
 [submodule "cz/tm/xsv"]
 	path = cz/tm/xsv
 	url = .
+[submodule "cz/uw/ltu"]
+	path = cz/uw/ltu
+	url = .
 [submodule "cz/xb/sai"]
 	path = cz/xb/sai
 	url = .
