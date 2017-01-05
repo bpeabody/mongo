@@ -23425,6 +23425,9 @@
 [submodule "jg/ts/xst"]
 	path = jg/ts/xst
 	url = .
+[submodule "jg/uv/itj"]
+	path = jg/uv/itj
+	url = .
 [submodule "jg/uy/mjn"]
 	path = jg/uy/mjn
 	url = .
