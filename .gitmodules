@@ -17212,6 +17212,9 @@
 [submodule "mc/jm/ues"]
 	path = mc/jm/ues
 	url = .
+[submodule "mc/kc/hoc"]
+	path = mc/kc/hoc
+	url = .
 [submodule "mc/ld/lvf"]
 	path = mc/ld/lvf
 	url = .
