@@ -13039,6 +13039,9 @@
 [submodule "iq/cm/qtq"]
 	path = iq/cm/qtq
 	url = .
+[submodule "iq/ec/jsz"]
+	path = iq/ec/jsz
+	url = .
 [submodule "iq/fa/wgu"]
 	path = iq/fa/wgu
 	url = .
