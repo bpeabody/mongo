@@ -58294,6 +58294,9 @@
 [submodule "vg/na/sjy"]
 	path = vg/na/sjy
 	url = .
+[submodule "vg/nx/afo"]
+	path = vg/nx/afo
+	url = .
 [submodule "vg/pt/bst"]
 	path = vg/pt/bst
 	url = .
