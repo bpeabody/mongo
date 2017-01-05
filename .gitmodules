@@ -2008,6 +2008,9 @@
 [submodule "db/aw/yos"]
 	path = db/aw/yos
 	url = .
+[submodule "db/bq/mcm"]
+	path = db/bq/mcm
+	url = .
 [submodule "db/hf/hrz"]
 	path = db/hf/hrz
 	url = .
