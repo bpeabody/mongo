@@ -12721,6 +12721,9 @@
 [submodule "ey/nl/zyd"]
 	path = ey/nl/zyd
 	url = .
+[submodule "ey/np/rsp"]
+	path = ey/np/rsp
+	url = .
 [submodule "ey/oc/haf"]
 	path = ey/oc/haf
 	url = .
