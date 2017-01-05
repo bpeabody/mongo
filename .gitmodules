@@ -12598,6 +12598,9 @@
 [submodule "uq/bn/eyk"]
 	path = uq/bn/eyk
 	url = .
+[submodule "uq/fr/xtq"]
+	path = uq/fr/xtq
+	url = .
 [submodule "uq/jz/pjb"]
 	path = uq/jz/pjb
 	url = .
