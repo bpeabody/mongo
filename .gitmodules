@@ -5467,6 +5467,9 @@
 [submodule "en/gj/nqp"]
 	path = en/gj/nqp
 	url = .
+[submodule "en/gm/jro"]
+	path = en/gm/jro
+	url = .
 [submodule "en/hp/lkg"]
 	path = en/hp/lkg
 	url = .
