@@ -30031,6 +30031,9 @@
 [submodule "uj/kb/kub"]
 	path = uj/kb/kub
 	url = .
+[submodule "uj/lf/eiv"]
+	path = uj/lf/eiv
+	url = .
 [submodule "uj/lk/iht"]
 	path = uj/lk/iht
 	url = .
