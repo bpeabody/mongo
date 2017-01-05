@@ -490,6 +490,9 @@
 [submodule "gp/xj/vyr"]
 	path = gp/xj/vyr
 	url = .
+[submodule "gs/kb/skp"]
+	path = gs/kb/skp
+	url = .
 [submodule "gs/tv/wqq"]
 	path = gs/tv/wqq
 	url = .
