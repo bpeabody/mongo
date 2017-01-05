@@ -17341,6 +17341,9 @@
 [submodule "ho/gv/wjf"]
 	path = ho/gv/wjf
 	url = .
+[submodule "ho/ha/lcr"]
+	path = ho/ha/lcr
+	url = .
 [submodule "ho/it/cln"]
 	path = ho/it/cln
 	url = .
