@@ -814,6 +814,9 @@
 [submodule "js/pc/iks"]
 	path = js/pc/iks
 	url = .
+[submodule "js/pq/wvw"]
+	path = js/pq/wvw
+	url = .
 [submodule "jt/go/jbn"]
 	path = jt/go/jbn
 	url = .
