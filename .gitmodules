@@ -484,6 +484,9 @@
 [submodule "kh/dy/lne"]
 	path = kh/dy/lne
 	url = .
+[submodule "kj/aa/pwk"]
+	path = kj/aa/pwk
+	url = .
 [submodule "kk/xf/mqx"]
 	path = kk/xf/mqx
 	url = .
