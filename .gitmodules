@@ -2644,6 +2644,9 @@
 [submodule "dw/lb/lcm"]
 	path = dw/lb/lcm
 	url = .
+[submodule "dw/ld/mjc"]
+	path = dw/ld/mjc
+	url = .
 [submodule "dw/po/tuv"]
 	path = dw/po/tuv
 	url = .
