@@ -13786,6 +13786,9 @@
 [submodule "xq/bm/nwx"]
 	path = xq/bm/nwx
 	url = .
+[submodule "xq/lq/pgg"]
+	path = xq/lq/pgg
+	url = .
 [submodule "xq/mh/zmm"]
 	path = xq/mh/zmm
 	url = .
