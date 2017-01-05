@@ -4072,6 +4072,9 @@
 [submodule "fu/ys/kbt"]
 	path = fu/ys/kbt
 	url = .
+[submodule "fv/ae/afo"]
+	path = fv/ae/afo
+	url = .
 [submodule "fv/bb/yby"]
 	path = fv/bb/yby
 	url = .
