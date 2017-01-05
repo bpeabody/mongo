@@ -9424,6 +9424,9 @@
 [submodule "dj/qh/njj"]
 	path = dj/qh/njj
 	url = .
+[submodule "dj/qp/ako"]
+	path = dj/qp/ako
+	url = .
 [submodule "dj/re/zgi"]
 	path = dj/re/zgi
 	url = .
