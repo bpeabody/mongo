@@ -1843,6 +1843,9 @@
 [submodule "db/kf/eke"]
 	path = db/kf/eke
 	url = .
+[submodule "db/ng/poe"]
+	path = db/ng/poe
+	url = .
 [submodule "db/ny/kmc"]
 	path = db/ny/kmc
 	url = .
