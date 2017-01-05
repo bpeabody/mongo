@@ -25429,6 +25429,9 @@
 [submodule "ro/dv/htq"]
 	path = ro/dv/htq
 	url = .
+[submodule "ro/dz/adr"]
+	path = ro/dz/adr
+	url = .
 [submodule "ro/eh/ine"]
 	path = ro/eh/ine
 	url = .
