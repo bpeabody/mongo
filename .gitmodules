@@ -3193,6 +3193,9 @@
 [submodule "cf/bb/oad"]
 	path = cf/bb/oad
 	url = .
+[submodule "cf/be/uzf"]
+	path = cf/be/uzf
+	url = .
 [submodule "cf/ch/mhg"]
 	path = cf/ch/mhg
 	url = .
