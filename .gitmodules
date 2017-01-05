@@ -12238,6 +12238,9 @@
 [submodule "fk/yr/ngk"]
 	path = fk/yr/ngk
 	url = .
+[submodule "fl/cq/nib"]
+	path = fl/cq/nib
+	url = .
 [submodule "fl/da/ukq"]
 	path = fl/da/ukq
 	url = .
