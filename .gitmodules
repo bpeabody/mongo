@@ -7807,6 +7807,9 @@
 [submodule "jy/nz/dlk"]
 	path = jy/nz/dlk
 	url = .
+[submodule "jy/pt/doj"]
+	path = jy/pt/doj
+	url = .
 [submodule "jy/sr/brc"]
 	path = jy/sr/brc
 	url = .
