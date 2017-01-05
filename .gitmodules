@@ -6007,6 +6007,9 @@
 [submodule "gd/zg/qqa"]
 	path = gd/zg/qqa
 	url = .
+[submodule "ge/cx/ced"]
+	path = ge/cx/ced
+	url = .
 [submodule "ge/gh/xxl"]
 	path = ge/gh/xxl
 	url = .
