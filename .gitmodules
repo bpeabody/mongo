@@ -12088,6 +12088,9 @@
 [submodule "vd/jp/duc"]
 	path = vd/jp/duc
 	url = .
+[submodule "vd/qi/ngz"]
+	path = vd/qi/ngz
+	url = .
 [submodule "vd/tf/lto"]
 	path = vd/tf/lto
 	url = .
