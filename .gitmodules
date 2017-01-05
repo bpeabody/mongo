@@ -30139,6 +30139,9 @@
 [submodule "vk/dd/lko"]
 	path = vk/dd/lko
 	url = .
+[submodule "vk/du/oxy"]
+	path = vk/du/oxy
+	url = .
 [submodule "vk/fb/aum"]
 	path = vk/fb/aum
 	url = .
