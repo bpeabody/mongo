@@ -1939,6 +1939,9 @@
 [submodule "fg/bv/kes"]
 	path = fg/bv/kes
 	url = .
+[submodule "fg/eq/lbn"]
+	path = fg/eq/lbn
+	url = .
 [submodule "fg/hj/pgd"]
 	path = fg/hj/pgd
 	url = .
