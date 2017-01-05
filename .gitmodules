@@ -3697,6 +3697,9 @@
 [submodule "do/sj/baj"]
 	path = do/sj/baj
 	url = .
+[submodule "do/ta/tey"]
+	path = do/ta/tey
+	url = .
 [submodule "do/wz/fgi"]
 	path = do/wz/fgi
 	url = .
