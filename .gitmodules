@@ -32254,6 +32254,9 @@
 [submodule "qk/or/yio"]
 	path = qk/or/yio
 	url = .
+[submodule "qk/pa/wqq"]
+	path = qk/pa/wqq
+	url = .
 [submodule "qk/pp/jmb"]
 	path = qk/pp/jmb
 	url = .
