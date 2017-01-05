@@ -61,6 +61,9 @@
 [submodule "ab/bj/cto"]
 	path = ab/bj/cto
 	url = .
+[submodule "ab/bo/oay"]
+	path = ab/bo/oay
+	url = .
 [submodule "ab/cw/npg"]
 	path = ab/cw/npg
 	url = .
