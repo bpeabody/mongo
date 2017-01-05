@@ -2629,6 +2629,9 @@
 [submodule "ay/xe/tau"]
 	path = ay/xe/tau
 	url = .
+[submodule "ay/yq/geo"]
+	path = ay/yq/geo
+	url = .
 [submodule "ay/yy/okp"]
 	path = ay/yy/okp
 	url = .
