@@ -17116,6 +17116,9 @@
 [submodule "ui/bp/ncy"]
 	path = ui/bp/ncy
 	url = .
+[submodule "ui/da/tlg"]
+	path = ui/da/tlg
+	url = .
 [submodule "ui/hj/rli"]
 	path = ui/hj/rli
 	url = .
