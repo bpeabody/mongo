@@ -59023,6 +59023,9 @@
 [submodule "xg/ds/eas"]
 	path = xg/ds/eas
 	url = .
+[submodule "xg/gk/lhq"]
+	path = xg/gk/lhq
+	url = .
 [submodule "xg/gw/ewi"]
 	path = xg/gw/ewi
 	url = .
