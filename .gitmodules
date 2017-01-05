@@ -3133,6 +3133,9 @@
 [submodule "cc/rf/dhd"]
 	path = cc/rf/dhd
 	url = .
+[submodule "cc/ts/qhh"]
+	path = cc/ts/qhh
+	url = .
 [submodule "cc/vi/nbt"]
 	path = cc/vi/nbt
 	url = .
