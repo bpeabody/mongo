@@ -60706,6 +60706,9 @@
 [submodule "ur/rc/rpi"]
 	path = ur/rc/rpi
 	url = .
+[submodule "ur/ro/vid"]
+	path = ur/ro/vid
+	url = .
 [submodule "ur/td/bps"]
 	path = ur/td/bps
 	url = .
