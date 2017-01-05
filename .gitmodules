@@ -12238,6 +12238,9 @@
 [submodule "xo/gn/ixe"]
 	path = xo/gn/ixe
 	url = .
+[submodule "xo/hy/nst"]
+	path = xo/hy/nst
+	url = .
 [submodule "xo/kl/edv"]
 	path = xo/kl/edv
 	url = .
