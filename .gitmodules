@@ -34507,6 +34507,9 @@
 [submodule "mz/jq/qdq"]
 	path = mz/jq/qdq
 	url = .
+[submodule "mz/jr/lzu"]
+	path = mz/jr/lzu
+	url = .
 [submodule "mz/kh/rmj"]
 	path = mz/kh/rmj
 	url = .
