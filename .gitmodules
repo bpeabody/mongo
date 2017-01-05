@@ -20122,6 +20122,9 @@
 [submodule "nw/na/fot"]
 	path = nw/na/fot
 	url = .
+[submodule "nw/on/vnk"]
+	path = nw/on/vnk
+	url = .
 [submodule "nw/pf/gux"]
 	path = nw/pf/gux
 	url = .
