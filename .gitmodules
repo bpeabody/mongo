@@ -39220,6 +39220,9 @@
 [submodule "ro/eh/ine"]
 	path = ro/eh/ine
 	url = .
+[submodule "ro/fr/blc"]
+	path = ro/fr/blc
+	url = .
 [submodule "ro/gl/cwo"]
 	path = ro/gl/cwo
 	url = .
