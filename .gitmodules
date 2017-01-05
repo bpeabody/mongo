@@ -10819,6 +10819,9 @@
 [submodule "hu/fi/vec"]
 	path = hu/fi/vec
 	url = .
+[submodule "hu/gx/dst"]
+	path = hu/gx/dst
+	url = .
 [submodule "hu/jw/orq"]
 	path = hu/jw/orq
 	url = .
