@@ -42199,6 +42199,9 @@
 [submodule "py/eq/ace"]
 	path = py/eq/ace
 	url = .
+[submodule "py/fn/avl"]
+	path = py/fn/avl
+	url = .
 [submodule "py/gb/qec"]
 	path = py/gb/qec
 	url = .
