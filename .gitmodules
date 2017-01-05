@@ -16168,6 +16168,9 @@
 [submodule "ix/nh/zxy"]
 	path = ix/nh/zxy
 	url = .
+[submodule "ix/nk/vxy"]
+	path = ix/nk/vxy
+	url = .
 [submodule "ix/ox/zfx"]
 	path = ix/ox/zfx
 	url = .
