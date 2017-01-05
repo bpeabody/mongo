@@ -26674,6 +26674,9 @@
 [submodule "xk/ix/lsf"]
 	path = xk/ix/lsf
 	url = .
+[submodule "xk/kf/zna"]
+	path = xk/kf/zna
+	url = .
 [submodule "xk/lb/ukz"]
 	path = xk/lb/ukz
 	url = .
