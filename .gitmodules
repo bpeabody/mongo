@@ -5755,6 +5755,9 @@
 [submodule "cm/nh/foh"]
 	path = cm/nh/foh
 	url = .
+[submodule "cm/nm/cnq"]
+	path = cm/nm/cnq
+	url = .
 [submodule "cm/og/afj"]
 	path = cm/og/afj
 	url = .
