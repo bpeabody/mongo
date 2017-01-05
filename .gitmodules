@@ -24151,6 +24151,9 @@
 [submodule "qu/ps/qey"]
 	path = qu/ps/qey
 	url = .
+[submodule "qu/rs/uup"]
+	path = qu/rs/uup
+	url = .
 [submodule "qu/rw/pwr"]
 	path = qu/rw/pwr
 	url = .
