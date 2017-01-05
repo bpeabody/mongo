@@ -322,6 +322,9 @@
 [submodule "bd/df/iqn"]
 	path = bd/df/iqn
 	url = .
+[submodule "bd/fw/ktr"]
+	path = bd/fw/ktr
+	url = .
 [submodule "bd/hp/dsx"]
 	path = bd/hp/dsx
 	url = .
