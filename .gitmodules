@@ -10795,6 +10795,9 @@
 [submodule "el/ki/cxo"]
 	path = el/ki/cxo
 	url = .
+[submodule "el/le/rxk"]
+	path = el/le/rxk
+	url = .
 [submodule "el/nb/jsl"]
 	path = el/nb/jsl
 	url = .
