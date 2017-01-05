@@ -1459,6 +1459,9 @@
 [submodule "ha/ea/nsr"]
 	path = ha/ea/nsr
 	url = .
+[submodule "hb/eg/ksr"]
+	path = hb/eg/ksr
+	url = .
 [submodule "hb/gr/oqm"]
 	path = hb/gr/oqm
 	url = .
