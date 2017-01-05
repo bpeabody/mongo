@@ -23182,6 +23182,9 @@
 [submodule "jh/ok/uln"]
 	path = jh/ok/uln
 	url = .
+[submodule "jh/qd/wpt"]
+	path = jh/qd/wpt
+	url = .
 [submodule "jh/rd/sfk"]
 	path = jh/rd/sfk
 	url = .
