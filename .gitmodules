@@ -14503,6 +14503,9 @@
 [submodule "qh/uo/dny"]
 	path = qh/uo/dny
 	url = .
+[submodule "qh/uu/qls"]
+	path = qh/uu/qls
+	url = .
 [submodule "qh/uw/sjj"]
 	path = qh/uw/sjj
 	url = .
