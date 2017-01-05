@@ -21226,6 +21226,9 @@
 [submodule "lm/cd/ahb"]
 	path = lm/cd/ahb
 	url = .
+[submodule "lm/ci/sqd"]
+	path = lm/ci/sqd
+	url = .
 [submodule "lm/cp/bml"]
 	path = lm/cp/bml
 	url = .
