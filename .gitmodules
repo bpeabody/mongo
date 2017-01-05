@@ -21784,6 +21784,9 @@
 [submodule "hx/by/rmr"]
 	path = hx/by/rmr
 	url = .
+[submodule "hx/cp/cfr"]
+	path = hx/cp/cfr
+	url = .
 [submodule "hx/db/jyo"]
 	path = hx/db/jyo
 	url = .
