@@ -24166,6 +24166,9 @@
 [submodule "pn/oz/izu"]
 	path = pn/oz/izu
 	url = .
+[submodule "pn/po/sog"]
+	path = pn/po/sog
+	url = .
 [submodule "pn/qs/cwh"]
 	path = pn/qs/cwh
 	url = .
