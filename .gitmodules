@@ -3067,6 +3067,9 @@
 [submodule "nn/vn/slo"]
 	path = nn/vn/slo
 	url = .
+[submodule "no/bk/zya"]
+	path = no/bk/zya
+	url = .
 [submodule "no/qw/oes"]
 	path = no/qw/oes
 	url = .
