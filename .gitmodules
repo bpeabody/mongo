@@ -30679,6 +30679,9 @@
 [submodule "or/hk/eif"]
 	path = or/hk/eif
 	url = .
+[submodule "or/if/fzq"]
+	path = or/if/fzq
+	url = .
 [submodule "or/iq/xvs"]
 	path = or/iq/xvs
 	url = .
