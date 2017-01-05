@@ -17938,6 +17938,9 @@
 [submodule "gx/ra/voq"]
 	path = gx/ra/voq
 	url = .
+[submodule "gx/re/qxd"]
+	path = gx/re/qxd
+	url = .
 [submodule "gx/ry/hqv"]
 	path = gx/ry/hqv
 	url = .
