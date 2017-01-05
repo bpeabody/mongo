@@ -59947,6 +59947,9 @@
 [submodule "ve/vs/lbo"]
 	path = ve/vs/lbo
 	url = .
+[submodule "ve/vw/nfd"]
+	path = ve/vw/nfd
+	url = .
 [submodule "ve/xm/wss"]
 	path = ve/xm/wss
 	url = .
