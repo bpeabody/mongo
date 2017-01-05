@@ -20170,6 +20170,9 @@
 [submodule "tt/iy/kzh"]
 	path = tt/iy/kzh
 	url = .
+[submodule "tt/mc/sjn"]
+	path = tt/mc/sjn
+	url = .
 [submodule "tt/nz/grf"]
 	path = tt/nz/grf
 	url = .
