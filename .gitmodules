@@ -5356,6 +5356,9 @@
 [submodule "ox/cm/hrr"]
 	path = ox/cm/hrr
 	url = .
+[submodule "ox/ez/noy"]
+	path = ox/ez/noy
+	url = .
 [submodule "ox/lt/jst"]
 	path = ox/lt/jst
 	url = .
