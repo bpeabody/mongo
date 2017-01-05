@@ -3223,6 +3223,9 @@
 [submodule "dl/mh/rjq"]
 	path = dl/mh/rjq
 	url = .
+[submodule "dl/mz/jwd"]
+	path = dl/mz/jwd
+	url = .
 [submodule "dl/pt/yqs"]
 	path = dl/pt/yqs
 	url = .
