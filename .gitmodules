@@ -49678,6 +49678,9 @@
 [submodule "uh/mt/cyr"]
 	path = uh/mt/cyr
 	url = .
+[submodule "uh/nk/alo"]
+	path = uh/nk/alo
+	url = .
 [submodule "uh/oc/wfm"]
 	path = uh/oc/wfm
 	url = .
