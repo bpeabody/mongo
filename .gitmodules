@@ -3034,6 +3034,9 @@
 [submodule "om/sk/jsa"]
 	path = om/sk/jsa
 	url = .
+[submodule "om/yt/klb"]
+	path = om/yt/klb
+	url = .
 [submodule "om/zn/uyy"]
 	path = om/zn/uyy
 	url = .
