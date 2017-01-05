@@ -34681,6 +34681,9 @@
 [submodule "op/ai/zqe"]
 	path = op/ai/zqe
 	url = .
+[submodule "op/aq/uya"]
+	path = op/aq/uya
+	url = .
 [submodule "op/be/ezx"]
 	path = op/be/ezx
 	url = .
