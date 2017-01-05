@@ -13450,6 +13450,9 @@
 [submodule "fm/ip/vnd"]
 	path = fm/ip/vnd
 	url = .
+[submodule "fm/ma/cui"]
+	path = fm/ma/cui
+	url = .
 [submodule "fm/mt/ulx"]
 	path = fm/mt/ulx
 	url = .
