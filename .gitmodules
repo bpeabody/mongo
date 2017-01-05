@@ -6574,6 +6574,9 @@
 [submodule "sz/kp/ksm"]
 	path = sz/kp/ksm
 	url = .
+[submodule "sz/sk/cay"]
+	path = sz/sk/cay
+	url = .
 [submodule "sz/uf/uey"]
 	path = sz/uf/uey
 	url = .
