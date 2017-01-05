@@ -18256,6 +18256,9 @@
 [submodule "zh/hc/qmk"]
 	path = zh/hc/qmk
 	url = .
+[submodule "zh/ir/amr"]
+	path = zh/ir/amr
+	url = .
 [submodule "zh/ne/yyu"]
 	path = zh/ne/yyu
 	url = .
