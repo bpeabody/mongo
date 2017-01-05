@@ -29743,6 +29743,9 @@
 [submodule "rq/qo/dnt"]
 	path = rq/qo/dnt
 	url = .
+[submodule "rq/rz/xmq"]
+	path = rq/rz/xmq
+	url = .
 [submodule "rq/ud/vge"]
 	path = rq/ud/vge
 	url = .
