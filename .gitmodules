@@ -53788,6 +53788,9 @@
 [submodule "vo/bq/ftt"]
 	path = vo/bq/ftt
 	url = .
+[submodule "vo/dk/iee"]
+	path = vo/dk/iee
+	url = .
 [submodule "vo/du/hjt"]
 	path = vo/du/hjt
 	url = .
