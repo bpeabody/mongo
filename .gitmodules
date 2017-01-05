@@ -1291,6 +1291,9 @@
 [submodule "fq/kv/gul"]
 	path = fq/kv/gul
 	url = .
+[submodule "fq/wx/jnk"]
+	path = fq/wx/jnk
+	url = .
 [submodule "fr/mo/brt"]
 	path = fr/mo/brt
 	url = .
