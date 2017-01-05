@@ -39343,6 +39343,9 @@
 [submodule "yz/xc/rzx"]
 	path = yz/xc/rzx
 	url = .
+[submodule "za/ai/khk"]
+	path = za/ai/khk
+	url = .
 [submodule "za/bg/xan"]
 	path = za/bg/xan
 	url = .
