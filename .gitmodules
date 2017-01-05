@@ -6133,6 +6133,9 @@
 [submodule "cg/ea/wit"]
 	path = cg/ea/wit
 	url = .
+[submodule "cg/eu/gyo"]
+	path = cg/eu/gyo
+	url = .
 [submodule "cg/gc/oni"]
 	path = cg/gc/oni
 	url = .
