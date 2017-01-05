@@ -8632,6 +8632,9 @@
 [submodule "ud/kp/zsr"]
 	path = ud/kp/zsr
 	url = .
+[submodule "ud/rn/pvx"]
+	path = ud/rn/pvx
+	url = .
 [submodule "ue/jx/tpk"]
 	path = ue/jx/tpk
 	url = .
