@@ -24727,6 +24727,9 @@
 [submodule "wh/vt/ult"]
 	path = wh/vt/ult
 	url = .
+[submodule "wh/wd/hqt"]
+	path = wh/wd/hqt
+	url = .
 [submodule "wi/aq/zuc"]
 	path = wi/aq/zuc
 	url = .
