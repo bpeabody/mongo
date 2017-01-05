@@ -5371,6 +5371,9 @@
 [submodule "et/cj/qqk"]
 	path = et/cj/qqk
 	url = .
+[submodule "et/du/wxp"]
+	path = et/du/wxp
+	url = .
 [submodule "et/eo/qbw"]
 	path = et/eo/qbw
 	url = .
