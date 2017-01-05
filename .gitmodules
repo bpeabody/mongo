@@ -6832,6 +6832,9 @@
 [submodule "sh/vp/sxs"]
 	path = sh/vp/sxs
 	url = .
+[submodule "si/aj/uer"]
+	path = si/aj/uer
+	url = .
 [submodule "si/ek/tbg"]
 	path = si/ek/tbg
 	url = .
