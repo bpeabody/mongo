@@ -17671,6 +17671,9 @@
 [submodule "lt/jm/upf"]
 	path = lt/jm/upf
 	url = .
+[submodule "lt/jm/uto"]
+	path = lt/jm/uto
+	url = .
 [submodule "lt/jz/wal"]
 	path = lt/jz/wal
 	url = .
