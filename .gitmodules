@@ -8806,6 +8806,9 @@
 [submodule "fo/jm/uke"]
 	path = fo/jm/uke
 	url = .
+[submodule "fo/ln/sfd"]
+	path = fo/ln/sfd
+	url = .
 [submodule "fo/om/jxa"]
 	path = fo/om/jxa
 	url = .
