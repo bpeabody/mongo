@@ -38758,6 +38758,9 @@
 [submodule "ng/bc/etg"]
 	path = ng/bc/etg
 	url = .
+[submodule "ng/br/yia"]
+	path = ng/br/yia
+	url = .
 [submodule "ng/bs/pox"]
 	path = ng/bs/pox
 	url = .
