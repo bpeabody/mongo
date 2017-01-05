@@ -2044,6 +2044,9 @@
 [submodule "sd/eg/nnl"]
 	path = sd/eg/nnl
 	url = .
+[submodule "sd/sf/nwl"]
+	path = sd/sf/nwl
+	url = .
 [submodule "sd/vb/gsg"]
 	path = sd/vb/gsg
 	url = .
