@@ -29332,6 +29332,9 @@
 [submodule "nq/wl/pcz"]
 	path = nq/wl/pcz
 	url = .
+[submodule "nq/wu/exa"]
+	path = nq/wu/exa
+	url = .
 [submodule "nq/yg/bfp"]
 	path = nq/yg/bfp
 	url = .
