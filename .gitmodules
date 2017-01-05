@@ -4033,6 +4033,9 @@
 [submodule "xo/pv/glv"]
 	path = xo/pv/glv
 	url = .
+[submodule "xp/gw/ifb"]
+	path = xp/gw/ifb
+	url = .
 [submodule "xq/bm/nwx"]
 	path = xq/bm/nwx
 	url = .
