@@ -7204,6 +7204,9 @@
 [submodule "kc/ec/acn"]
 	path = kc/ec/acn
 	url = .
+[submodule "kc/ej/ddf"]
+	path = kc/ej/ddf
+	url = .
 [submodule "kc/fs/ndk"]
 	path = kc/fs/ndk
 	url = .
