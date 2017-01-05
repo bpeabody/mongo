@@ -271,6 +271,9 @@
 [submodule "ad/hj/sbc"]
 	path = ad/hj/sbc
 	url = .
+[submodule "ad/hn/xfg"]
+	path = ad/hn/xfg
+	url = .
 [submodule "ad/ia/clb"]
 	path = ad/ia/clb
 	url = .
