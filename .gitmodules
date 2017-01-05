@@ -14422,6 +14422,9 @@
 [submodule "qe/cc/maj"]
 	path = qe/cc/maj
 	url = .
+[submodule "qe/ed/ezh"]
+	path = qe/ed/ezh
+	url = .
 [submodule "qe/id/lzf"]
 	path = qe/id/lzf
 	url = .
