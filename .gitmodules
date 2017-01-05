@@ -19900,6 +19900,9 @@
 [submodule "qk/ea/ynt"]
 	path = qk/ea/ynt
 	url = .
+[submodule "qk/ej/ycu"]
+	path = qk/ej/ycu
+	url = .
 [submodule "qk/gi/wqv"]
 	path = qk/gi/wqv
 	url = .
