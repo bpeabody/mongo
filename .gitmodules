@@ -17350,6 +17350,9 @@
 [submodule "rm/pn/mtq"]
 	path = rm/pn/mtq
 	url = .
+[submodule "rm/rs/pqn"]
+	path = rm/rs/pqn
+	url = .
 [submodule "rm/rw/com"]
 	path = rm/rw/com
 	url = .
