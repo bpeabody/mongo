@@ -12553,6 +12553,9 @@
 [submodule "ly/dp/vsf"]
 	path = ly/dp/vsf
 	url = .
+[submodule "ly/gt/ked"]
+	path = ly/gt/ked
+	url = .
 [submodule "ly/ht/fde"]
 	path = ly/ht/fde
 	url = .
