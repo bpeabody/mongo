@@ -3526,6 +3526,9 @@
 [submodule "sa/ka/biu"]
 	path = sa/ka/biu
 	url = .
+[submodule "sa/ur/xvt"]
+	path = sa/ur/xvt
+	url = .
 [submodule "sb/wh/ovz"]
 	path = sb/wh/ovz
 	url = .
