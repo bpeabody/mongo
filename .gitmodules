@@ -1213,6 +1213,9 @@
 [submodule "gq/jw/mhv"]
 	path = gq/jw/mhv
 	url = .
+[submodule "gr/nx/xhu"]
+	path = gr/nx/xhu
+	url = .
 [submodule "gs/kb/skp"]
 	path = gs/kb/skp
 	url = .
