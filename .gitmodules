@@ -8812,6 +8812,9 @@
 [submodule "fo/co/xtp"]
 	path = fo/co/xtp
 	url = .
+[submodule "fo/dr/ysn"]
+	path = fo/dr/ysn
+	url = .
 [submodule "fo/gp/rxq"]
 	path = fo/gp/rxq
 	url = .
