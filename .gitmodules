@@ -4768,6 +4768,9 @@
 [submodule "nc/od/vzu"]
 	path = nc/od/vzu
 	url = .
+[submodule "nc/pq/dkp"]
+	path = nc/pq/dkp
+	url = .
 [submodule "nc/qr/jkx"]
 	path = nc/qr/jkx
 	url = .
