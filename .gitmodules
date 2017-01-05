@@ -19411,6 +19411,9 @@
 [submodule "qg/fr/ujf"]
 	path = qg/fr/ujf
 	url = .
+[submodule "qg/gh/pte"]
+	path = qg/gh/pte
+	url = .
 [submodule "qg/hg/hyp"]
 	path = qg/hg/hyp
 	url = .
