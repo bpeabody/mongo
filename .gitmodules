@@ -8551,6 +8551,9 @@
 [submodule "dk/cp/auy"]
 	path = dk/cp/auy
 	url = .
+[submodule "dk/cv/chm"]
+	path = dk/cv/chm
+	url = .
 [submodule "dk/da/hbb"]
 	path = dk/da/hbb
 	url = .
