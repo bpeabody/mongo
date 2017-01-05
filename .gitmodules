@@ -5650,6 +5650,9 @@
 [submodule "pi/dx/qlr"]
 	path = pi/dx/qlr
 	url = .
+[submodule "pi/ub/emp"]
+	path = pi/ub/emp
+	url = .
 [submodule "pi/xe/ufa"]
 	path = pi/xe/ufa
 	url = .
