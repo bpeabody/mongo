@@ -3079,6 +3079,9 @@
 [submodule "ec/iu/dmm"]
 	path = ec/iu/dmm
 	url = .
+[submodule "ec/nh/sae"]
+	path = ec/nh/sae
+	url = .
 [submodule "ec/oi/edr"]
 	path = ec/oi/edr
 	url = .
