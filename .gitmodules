@@ -8050,6 +8050,9 @@
 [submodule "jr/ne/dwm"]
 	path = jr/ne/dwm
 	url = .
+[submodule "jr/qa/tjx"]
+	path = jr/qa/tjx
+	url = .
 [submodule "jr/qs/ixh"]
 	path = jr/qs/ixh
 	url = .
