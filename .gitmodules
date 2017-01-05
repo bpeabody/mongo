@@ -6352,6 +6352,9 @@
 [submodule "ew/nu/jnn"]
 	path = ew/nu/jnn
 	url = .
+[submodule "ew/or/bfp"]
+	path = ew/or/bfp
+	url = .
 [submodule "ew/rd/uot"]
 	path = ew/rd/uot
 	url = .
