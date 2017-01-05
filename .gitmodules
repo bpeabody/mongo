@@ -31273,6 +31273,9 @@
 [submodule "ku/th/wun"]
 	path = ku/th/wun
 	url = .
+[submodule "ku/tq/quv"]
+	path = ku/tq/quv
+	url = .
 [submodule "ku/ut/swn"]
 	path = ku/ut/swn
 	url = .
