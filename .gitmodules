@@ -21067,6 +21067,9 @@
 [submodule "xu/fe/gyu"]
 	path = xu/fe/gyu
 	url = .
+[submodule "xu/fp/abo"]
+	path = xu/fp/abo
+	url = .
 [submodule "xu/ig/ccg"]
 	path = xu/ig/ccg
 	url = .
