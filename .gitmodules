@@ -12664,6 +12664,9 @@
 [submodule "qn/gd/sgi"]
 	path = qn/gd/sgi
 	url = .
+[submodule "qn/hk/dvj"]
+	path = qn/hk/dvj
+	url = .
 [submodule "qn/kg/yse"]
 	path = qn/kg/yse
 	url = .
