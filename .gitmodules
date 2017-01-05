@@ -41968,6 +41968,9 @@
 [submodule "rd/na/qmz"]
 	path = rd/na/qmz
 	url = .
+[submodule "rd/nb/pao"]
+	path = rd/nb/pao
+	url = .
 [submodule "rd/ng/ipx"]
 	path = rd/ng/ipx
 	url = .
