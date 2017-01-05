@@ -799,6 +799,9 @@
 [submodule "xj/bi/qoi"]
 	path = xj/bi/qoi
 	url = .
+[submodule "xj/qo/oha"]
+	path = xj/qo/oha
+	url = .
 [submodule "xj/wr/yyk"]
 	path = xj/wr/yyk
 	url = .
