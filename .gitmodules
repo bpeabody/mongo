@@ -21997,6 +21997,9 @@
 [submodule "ns/qb/slc"]
 	path = ns/qb/slc
 	url = .
+[submodule "ns/qt/ehe"]
+	path = ns/qt/ehe
+	url = .
 [submodule "ns/ta/xgx"]
 	path = ns/ta/xgx
 	url = .
