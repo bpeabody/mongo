@@ -124,6 +124,9 @@
 [submodule "aj/pu/gif"]
 	path = aj/pu/gif
 	url = .
+[submodule "aj/yk/vfi"]
+	path = aj/yk/vfi
+	url = .
 [submodule "aj/zc/smu"]
 	path = aj/zc/smu
 	url = .
