@@ -21589,6 +21589,9 @@
 [submodule "pm/ba/aoi"]
 	path = pm/ba/aoi
 	url = .
+[submodule "pm/bj/zhh"]
+	path = pm/bj/zhh
+	url = .
 [submodule "pm/ge/gfd"]
 	path = pm/ge/gfd
 	url = .
