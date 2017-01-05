@@ -4093,6 +4093,9 @@
 [submodule "bw/qe/maq"]
 	path = bw/qe/maq
 	url = .
+[submodule "bw/qh/cft"]
+	path = bw/qh/cft
+	url = .
 [submodule "bw/qp/pob"]
 	path = bw/qp/pob
 	url = .
