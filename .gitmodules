@@ -22072,6 +22072,9 @@
 [submodule "je/ia/inq"]
 	path = je/ia/inq
 	url = .
+[submodule "je/it/zqu"]
+	path = je/it/zqu
+	url = .
 [submodule "je/ky/nya"]
 	path = je/ky/nya
 	url = .
