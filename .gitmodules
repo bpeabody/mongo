@@ -12196,6 +12196,9 @@
 [submodule "qp/mq/ald"]
 	path = qp/mq/ald
 	url = .
+[submodule "qp/nj/aay"]
+	path = qp/nj/aay
+	url = .
 [submodule "qp/oy/atu"]
 	path = qp/oy/atu
 	url = .
