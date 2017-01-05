@@ -12217,6 +12217,9 @@
 [submodule "pk/ei/ttf"]
 	path = pk/ei/ttf
 	url = .
+[submodule "pk/kg/ftt"]
+	path = pk/kg/ftt
+	url = .
 [submodule "pk/mo/zkf"]
 	path = pk/mo/zkf
 	url = .
