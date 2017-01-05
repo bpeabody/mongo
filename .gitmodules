@@ -8989,6 +8989,9 @@
 [submodule "jc/wi/ogn"]
 	path = jc/wi/ogn
 	url = .
+[submodule "jc/wo/qgb"]
+	path = jc/wo/qgb
+	url = .
 [submodule "jd/dt/zfq"]
 	path = jd/dt/zfq
 	url = .
