@@ -2698,6 +2698,9 @@
 [submodule "fu/dm/nlg"]
 	path = fu/dm/nlg
 	url = .
+[submodule "fu/mj/rmc"]
+	path = fu/mj/rmc
+	url = .
 [submodule "fu/qk/ccv"]
 	path = fu/qk/ccv
 	url = .
