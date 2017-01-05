@@ -14164,6 +14164,9 @@
 [submodule "hx/lw/kgt"]
 	path = hx/lw/kgt
 	url = .
+[submodule "hx/mh/qmt"]
+	path = hx/mh/qmt
+	url = .
 [submodule "hx/mw/erh"]
 	path = hx/mw/erh
 	url = .
