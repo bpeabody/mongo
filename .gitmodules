@@ -52,6 +52,9 @@
 [submodule "af/so/yoz"]
 	path = af/so/yoz
 	url = .
+[submodule "af/yw/bmq"]
+	path = af/yw/bmq
+	url = .
 [submodule "ah/ft/fmz"]
 	path = ah/ft/fmz
 	url = .
