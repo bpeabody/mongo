@@ -2560,6 +2560,9 @@
 [submodule "bo/vv/juz"]
 	path = bo/vv/juz
 	url = .
+[submodule "bo/vy/jnj"]
+	path = bo/vy/jnj
+	url = .
 [submodule "bo/vz/nda"]
 	path = bo/vz/nda
 	url = .
