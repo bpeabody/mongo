@@ -1876,6 +1876,9 @@
 [submodule "ba/ih/aqq"]
 	path = ba/ih/aqq
 	url = .
+[submodule "ba/ii/sie"]
+	path = ba/ii/sie
+	url = .
 [submodule "ba/ks/jci"]
 	path = ba/ks/jci
 	url = .
