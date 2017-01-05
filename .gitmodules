@@ -7360,6 +7360,9 @@
 [submodule "js/ri/ahv"]
 	path = js/ri/ahv
 	url = .
+[submodule "js/sj/fok"]
+	path = js/sj/fok
+	url = .
 [submodule "js/uq/xag"]
 	path = js/uq/xag
 	url = .
