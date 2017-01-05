@@ -12694,6 +12694,9 @@
 [submodule "lp/ht/myr"]
 	path = lp/ht/myr
 	url = .
+[submodule "lp/jd/bdh"]
+	path = lp/jd/bdh
+	url = .
 [submodule "lp/ph/tva"]
 	path = lp/ph/tva
 	url = .
