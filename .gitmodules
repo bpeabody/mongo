@@ -9616,6 +9616,9 @@
 [submodule "kb/ok/rlb"]
 	path = kb/ok/rlb
 	url = .
+[submodule "kb/pw/jqh"]
+	path = kb/pw/jqh
+	url = .
 [submodule "kb/rr/edu"]
 	path = kb/rr/edu
 	url = .
