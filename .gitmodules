@@ -45880,6 +45880,9 @@
 [submodule "yt/gi/xvp"]
 	path = yt/gi/xvp
 	url = .
+[submodule "yt/he/ljd"]
+	path = yt/he/ljd
+	url = .
 [submodule "yt/hi/qtu"]
 	path = yt/hi/qtu
 	url = .
