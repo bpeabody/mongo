@@ -4672,6 +4672,9 @@
 [submodule "cj/kr/quc"]
 	path = cj/kr/quc
 	url = .
+[submodule "cj/lt/crn"]
+	path = cj/lt/crn
+	url = .
 [submodule "cj/lw/hsp"]
 	path = cj/lw/hsp
 	url = .
