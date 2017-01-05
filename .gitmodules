@@ -421,6 +421,9 @@
 [submodule "ad/zw/qbx"]
 	path = ad/zw/qbx
 	url = .
+[submodule "ae/bd/kpt"]
+	path = ae/bd/kpt
+	url = .
 [submodule "ae/ci/znd"]
 	path = ae/ci/znd
 	url = .
