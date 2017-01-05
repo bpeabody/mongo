@@ -3751,6 +3751,9 @@
 [submodule "wj/ks/qir"]
 	path = wj/ks/qir
 	url = .
+[submodule "wj/vs/hme"]
+	path = wj/vs/hme
+	url = .
 [submodule "wk/dk/gtz"]
 	path = wk/dk/gtz
 	url = .
