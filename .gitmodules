@@ -4669,6 +4669,9 @@
 [submodule "wk/ks/lpn"]
 	path = wk/ks/lpn
 	url = .
+[submodule "wk/pk/skv"]
+	path = wk/pk/skv
+	url = .
 [submodule "wl/fq/ose"]
 	path = wl/fq/ose
 	url = .
