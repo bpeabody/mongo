@@ -8755,6 +8755,9 @@
 [submodule "dk/qe/lgi"]
 	path = dk/qe/lgi
 	url = .
+[submodule "dk/sj/uaj"]
+	path = dk/sj/uaj
+	url = .
 [submodule "dk/sn/ret"]
 	path = dk/sn/ret
 	url = .
