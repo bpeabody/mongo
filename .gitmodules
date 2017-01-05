@@ -4957,6 +4957,9 @@
 [submodule "eq/io/des"]
 	path = eq/io/des
 	url = .
+[submodule "eq/ob/lby"]
+	path = eq/ob/lby
+	url = .
 [submodule "eq/ug/soi"]
 	path = eq/ug/soi
 	url = .
