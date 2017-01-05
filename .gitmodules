@@ -4252,6 +4252,9 @@
 [submodule "ck/qa/eqa"]
 	path = ck/qa/eqa
 	url = .
+[submodule "ck/ql/fke"]
+	path = ck/ql/fke
+	url = .
 [submodule "ck/ra/lnf"]
 	path = ck/ra/lnf
 	url = .
