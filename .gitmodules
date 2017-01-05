@@ -52567,6 +52567,9 @@
 [submodule "tf/oo/nvd"]
 	path = tf/oo/nvd
 	url = .
+[submodule "tf/ov/yqb"]
+	path = tf/ov/yqb
+	url = .
 [submodule "tf/pf/dfu"]
 	path = tf/pf/dfu
 	url = .
