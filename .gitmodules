@@ -10876,6 +10876,9 @@
 [submodule "sl/ja/oyc"]
 	path = sl/ja/oyc
 	url = .
+[submodule "sl/lb/tgi"]
+	path = sl/lb/tgi
+	url = .
 [submodule "sl/oy/ioq"]
 	path = sl/oy/ioq
 	url = .
