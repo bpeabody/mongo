@@ -760,6 +760,9 @@
 [submodule "as/vf/uja"]
 	path = as/vf/uja
 	url = .
+[submodule "as/vo/smb"]
+	path = as/vo/smb
+	url = .
 [submodule "as/wa/cnl"]
 	path = as/wa/cnl
 	url = .
