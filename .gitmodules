@@ -403,6 +403,9 @@
 [submodule "ao/uq/ekz"]
 	path = ao/uq/ekz
 	url = .
+[submodule "ao/wd/zcb"]
+	path = ao/wd/zcb
+	url = .
 [submodule "ao/yv/ttq"]
 	path = ao/yv/ttq
 	url = .
