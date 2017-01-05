@@ -4699,6 +4699,9 @@
 [submodule "tk/iu/jfn"]
 	path = tk/iu/jfn
 	url = .
+[submodule "tk/rt/asr"]
+	path = tk/rt/asr
+	url = .
 [submodule "tk/uo/ipc"]
 	path = tk/uo/ipc
 	url = .
