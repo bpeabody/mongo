@@ -11767,6 +11767,9 @@
 [submodule "jw/tk/xhw"]
 	path = jw/tk/xhw
 	url = .
+[submodule "jw/ut/pql"]
+	path = jw/ut/pql
+	url = .
 [submodule "jw/vs/xin"]
 	path = jw/vs/xin
 	url = .
