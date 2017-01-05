@@ -3841,6 +3841,9 @@
 [submodule "bj/tk/gsk"]
 	path = bj/tk/gsk
 	url = .
+[submodule "bj/ud/thk"]
+	path = bj/ud/thk
+	url = .
 [submodule "bj/ug/qho"]
 	path = bj/ug/qho
 	url = .
