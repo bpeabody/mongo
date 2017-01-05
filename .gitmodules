@@ -5767,6 +5767,9 @@
 [submodule "dt/zn/tbi"]
 	path = dt/zn/tbi
 	url = .
+[submodule "dt/zq/kuy"]
+	path = dt/zq/kuy
+	url = .
 [submodule "du/aa/opn"]
 	path = du/aa/opn
 	url = .
