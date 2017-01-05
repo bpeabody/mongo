@@ -42616,6 +42616,9 @@
 [submodule "rt/id/oxz"]
 	path = rt/id/oxz
 	url = .
+[submodule "rt/ja/ufb"]
+	path = rt/ja/ufb
+	url = .
 [submodule "rt/lm/ety"]
 	path = rt/lm/ety
 	url = .
