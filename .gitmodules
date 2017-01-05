@@ -24277,6 +24277,9 @@
 [submodule "oj/vn/lvc"]
 	path = oj/vn/lvc
 	url = .
+[submodule "oj/vs/fbx"]
+	path = oj/vs/fbx
+	url = .
 [submodule "oj/wo/nzh"]
 	path = oj/wo/nzh
 	url = .
