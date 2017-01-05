@@ -3046,6 +3046,9 @@
 [submodule "ih/wp/jlc"]
 	path = ih/wp/jlc
 	url = .
+[submodule "ih/zj/ydd"]
+	path = ih/zj/ydd
+	url = .
 [submodule "ii/fe/rbq"]
 	path = ii/fe/rbq
 	url = .
