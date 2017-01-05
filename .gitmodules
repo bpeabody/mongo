@@ -13495,6 +13495,9 @@
 [submodule "ga/hm/bjk"]
 	path = ga/hm/bjk
 	url = .
+[submodule "ga/hv/ten"]
+	path = ga/hv/ten
+	url = .
 [submodule "ga/ja/gqs"]
 	path = ga/ja/gqs
 	url = .
