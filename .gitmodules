@@ -22228,6 +22228,9 @@
 [submodule "ss/pa/vbr"]
 	path = ss/pa/vbr
 	url = .
+[submodule "ss/ul/quh"]
+	path = ss/ul/quh
+	url = .
 [submodule "ss/uu/tbn"]
 	path = ss/uu/tbn
 	url = .
