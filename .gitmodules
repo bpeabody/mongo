@@ -16150,6 +16150,9 @@
 [submodule "yq/af/elq"]
 	path = yq/af/elq
 	url = .
+[submodule "yq/ix/tdc"]
+	path = yq/ix/tdc
+	url = .
 [submodule "yq/sc/drd"]
 	path = yq/sc/drd
 	url = .
