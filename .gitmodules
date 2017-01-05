@@ -57397,6 +57397,9 @@
 [submodule "yr/lf/hvo"]
 	path = yr/lf/hvo
 	url = .
+[submodule "yr/lf/kit"]
+	path = yr/lf/kit
+	url = .
 [submodule "yr/os/wbw"]
 	path = yr/os/wbw
 	url = .
