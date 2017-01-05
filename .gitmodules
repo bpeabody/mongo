@@ -8152,6 +8152,9 @@
 [submodule "ec/fk/zow"]
 	path = ec/fk/zow
 	url = .
+[submodule "ec/gs/eey"]
+	path = ec/gs/eey
+	url = .
 [submodule "ec/iu/dmm"]
 	path = ec/iu/dmm
 	url = .
