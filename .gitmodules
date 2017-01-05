@@ -12640,6 +12640,9 @@
 [submodule "en/gn/hde"]
 	path = en/gn/hde
 	url = .
+[submodule "en/hg/ifq"]
+	path = en/hg/ifq
+	url = .
 [submodule "en/hp/lkg"]
 	path = en/hp/lkg
 	url = .
