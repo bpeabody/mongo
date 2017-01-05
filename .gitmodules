@@ -52150,6 +52150,9 @@
 [submodule "rs/vt/ahl"]
 	path = rs/vt/ahl
 	url = .
+[submodule "rs/vt/eef"]
+	path = rs/vt/eef
+	url = .
 [submodule "rs/wk/bos"]
 	path = rs/wk/bos
 	url = .
