@@ -23959,6 +23959,9 @@
 [submodule "ij/ke/vdm"]
 	path = ij/ke/vdm
 	url = .
+[submodule "ij/kf/zkp"]
+	path = ij/kf/zkp
+	url = .
 [submodule "ij/ld/ryc"]
 	path = ij/ld/ryc
 	url = .
