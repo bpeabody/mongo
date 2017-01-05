@@ -42916,6 +42916,9 @@
 [submodule "tt/sg/lpj"]
 	path = tt/sg/lpj
 	url = .
+[submodule "tt/sr/jea"]
+	path = tt/sr/jea
+	url = .
 [submodule "tt/ux/trt"]
 	path = tt/ux/trt
 	url = .
