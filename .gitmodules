@@ -9787,6 +9787,9 @@
 [submodule "lj/cy/hsq"]
 	path = lj/cy/hsq
 	url = .
+[submodule "lj/ht/jqh"]
+	path = lj/ht/jqh
+	url = .
 [submodule "lj/yu/yfo"]
 	path = lj/yu/yfo
 	url = .
