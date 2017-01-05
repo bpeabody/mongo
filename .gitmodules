@@ -4702,6 +4702,9 @@
 [submodule "yc/lq/nep"]
 	path = yc/lq/nep
 	url = .
+[submodule "yc/rd/zcn"]
+	path = yc/rd/zcn
+	url = .
 [submodule "yc/vl/rha"]
 	path = yc/vl/rha
 	url = .
