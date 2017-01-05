@@ -29608,6 +29608,9 @@
 [submodule "vq/ol/dgx"]
 	path = vq/ol/dgx
 	url = .
+[submodule "vq/qw/kpu"]
+	path = vq/qw/kpu
+	url = .
 [submodule "vq/rj/nod"]
 	path = vq/rj/nod
 	url = .
