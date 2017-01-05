@@ -27349,6 +27349,9 @@
 [submodule "lh/zm/jvb"]
 	path = lh/zm/jvb
 	url = .
+[submodule "li/as/net"]
+	path = li/as/net
+	url = .
 [submodule "li/av/wsk"]
 	path = li/av/wsk
 	url = .
