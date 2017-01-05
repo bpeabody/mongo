@@ -16738,6 +16738,9 @@
 [submodule "gw/kq/nha"]
 	path = gw/kq/nha
 	url = .
+[submodule "gw/kq/oud"]
+	path = gw/kq/oud
+	url = .
 [submodule "gw/nj/gwd"]
 	path = gw/nj/gwd
 	url = .
