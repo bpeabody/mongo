@@ -2257,6 +2257,9 @@
 [submodule "do/rw/xag"]
 	path = do/rw/xag
 	url = .
+[submodule "do/wz/fgi"]
+	path = do/wz/fgi
+	url = .
 [submodule "do/xw/elh"]
 	path = do/xw/elh
 	url = .
