@@ -5245,6 +5245,9 @@
 [submodule "cl/ht/ioq"]
 	path = cl/ht/ioq
 	url = .
+[submodule "cl/ix/smn"]
+	path = cl/ix/smn
+	url = .
 [submodule "cl/jb/ttu"]
 	path = cl/jb/ttu
 	url = .
