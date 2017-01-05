@@ -6415,6 +6415,9 @@
 [submodule "yp/vq/iys"]
 	path = yp/vq/iys
 	url = .
+[submodule "yq/af/elq"]
+	path = yq/af/elq
+	url = .
 [submodule "yq/sc/drd"]
 	path = yq/sc/drd
 	url = .
