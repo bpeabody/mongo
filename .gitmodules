@@ -26353,6 +26353,9 @@
 [submodule "rr/zf/oqn"]
 	path = rr/zf/oqn
 	url = .
+[submodule "rs/am/vee"]
+	path = rs/am/vee
+	url = .
 [submodule "rs/be/kmk"]
 	path = rs/be/kmk
 	url = .
