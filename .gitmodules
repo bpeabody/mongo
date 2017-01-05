@@ -337,6 +337,9 @@
 [submodule "aj/pu/gif"]
 	path = aj/pu/gif
 	url = .
+[submodule "aj/xw/ddi"]
+	path = aj/xw/ddi
+	url = .
 [submodule "aj/yk/vfi"]
 	path = aj/yk/vfi
 	url = .
