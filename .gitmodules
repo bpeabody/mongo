@@ -13234,6 +13234,9 @@
 [submodule "nv/qu/qwm"]
 	path = nv/qu/qwm
 	url = .
+[submodule "nv/vc/nmo"]
+	path = nv/vc/nmo
+	url = .
 [submodule "nv/zx/cll"]
 	path = nv/zx/cll
 	url = .
