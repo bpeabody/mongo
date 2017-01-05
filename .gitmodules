@@ -7066,6 +7066,9 @@
 [submodule "gj/lf/onp"]
 	path = gj/lf/onp
 	url = .
+[submodule "gj/nj/bgm"]
+	path = gj/nj/bgm
+	url = .
 [submodule "gj/nw/qvk"]
 	path = gj/nw/qvk
 	url = .
