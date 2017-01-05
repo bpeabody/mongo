@@ -15658,6 +15658,9 @@
 [submodule "tf/aq/esa"]
 	path = tf/aq/esa
 	url = .
+[submodule "tf/bw/ene"]
+	path = tf/bw/ene
+	url = .
 [submodule "tf/dm/gyi"]
 	path = tf/dm/gyi
 	url = .
