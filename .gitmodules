@@ -13927,6 +13927,9 @@
 [submodule "ib/hc/whx"]
 	path = ib/hc/whx
 	url = .
+[submodule "ib/hv/xxm"]
+	path = ib/hv/xxm
+	url = .
 [submodule "ib/lc/xin"]
 	path = ib/lc/xin
 	url = .
