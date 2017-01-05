@@ -1405,6 +1405,9 @@
 [submodule "xo/pv/glv"]
 	path = xo/pv/glv
 	url = .
+[submodule "xq/bm/nwx"]
+	path = xq/bm/nwx
+	url = .
 [submodule "xq/qo/uhg"]
 	path = xq/qo/uhg
 	url = .
