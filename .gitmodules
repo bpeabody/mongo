@@ -42853,6 +42853,9 @@
 [submodule "qe/id/lzf"]
 	path = qe/id/lzf
 	url = .
+[submodule "qe/iw/yoa"]
+	path = qe/iw/yoa
+	url = .
 [submodule "qe/nj/vti"]
 	path = qe/nj/vti
 	url = .
