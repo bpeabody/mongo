@@ -12028,6 +12028,9 @@
 [submodule "kx/as/zkk"]
 	path = kx/as/zkk
 	url = .
+[submodule "kx/dx/xng"]
+	path = kx/dx/xng
+	url = .
 [submodule "kx/fk/syh"]
 	path = kx/fk/syh
 	url = .
