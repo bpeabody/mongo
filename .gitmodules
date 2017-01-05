@@ -21883,6 +21883,9 @@
 [submodule "jg/li/vrd"]
 	path = jg/li/vrd
 	url = .
+[submodule "jg/lx/bed"]
+	path = jg/lx/bed
+	url = .
 [submodule "jg/lz/scb"]
 	path = jg/lz/scb
 	url = .
