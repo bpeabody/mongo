@@ -39832,6 +39832,9 @@
 [submodule "nn/no/ngq"]
 	path = nn/no/ngq
 	url = .
+[submodule "nn/oz/zne"]
+	path = nn/oz/zne
+	url = .
 [submodule "nn/pm/fip"]
 	path = nn/pm/fip
 	url = .
