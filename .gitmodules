@@ -1078,6 +1078,9 @@
 [submodule "da/gk/keh"]
 	path = da/gk/keh
 	url = .
+[submodule "da/gr/rnd"]
+	path = da/gr/rnd
+	url = .
 [submodule "da/lj/vbj"]
 	path = da/lj/vbj
 	url = .
