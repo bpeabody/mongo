@@ -1912,6 +1912,9 @@
 [submodule "bl/nd/qcs"]
 	path = bl/nd/qcs
 	url = .
+[submodule "bl/sv/xav"]
+	path = bl/sv/xav
+	url = .
 [submodule "bl/tx/toa"]
 	path = bl/tx/toa
 	url = .
