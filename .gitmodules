@@ -26587,6 +26587,9 @@
 [submodule "me/iy/tpq"]
 	path = me/iy/tpq
 	url = .
+[submodule "me/lv/rug"]
+	path = me/lv/rug
+	url = .
 [submodule "me/mo/pat"]
 	path = me/mo/pat
 	url = .
