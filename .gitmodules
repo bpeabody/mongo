@@ -36904,6 +36904,9 @@
 [submodule "qu/yg/dwx"]
 	path = qu/yg/dwx
 	url = .
+[submodule "qu/ys/glp"]
+	path = qu/ys/glp
+	url = .
 [submodule "qu/zc/zxw"]
 	path = qu/zc/zxw
 	url = .
