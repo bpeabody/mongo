@@ -20245,6 +20245,9 @@
 [submodule "ju/et/bwf"]
 	path = ju/et/bwf
 	url = .
+[submodule "ju/gt/knk"]
+	path = ju/gt/knk
+	url = .
 [submodule "ju/ie/lsf"]
 	path = ju/ie/lsf
 	url = .
