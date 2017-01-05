@@ -772,6 +772,9 @@
 [submodule "ai/ll/mes"]
 	path = ai/ll/mes
 	url = .
+[submodule "ai/oi/gkr"]
+	path = ai/oi/gkr
+	url = .
 [submodule "ai/on/lfa"]
 	path = ai/on/lfa
 	url = .
