@@ -33844,6 +33844,9 @@
 [submodule "oj/jc/ssu"]
 	path = oj/jc/ssu
 	url = .
+[submodule "oj/lw/vzo"]
+	path = oj/lw/vzo
+	url = .
 [submodule "oj/lx/mwy"]
 	path = oj/lx/mwy
 	url = .
