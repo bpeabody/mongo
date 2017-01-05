@@ -2380,6 +2380,9 @@
 [submodule "av/ai/vvo"]
 	path = av/ai/vvo
 	url = .
+[submodule "av/aq/xbh"]
+	path = av/aq/xbh
+	url = .
 [submodule "av/ay/jwk"]
 	path = av/ay/jwk
 	url = .
