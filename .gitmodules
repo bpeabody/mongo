@@ -45886,6 +45886,9 @@
 [submodule "rg/kh/frl"]
 	path = rg/kh/frl
 	url = .
+[submodule "rg/kq/feg"]
+	path = rg/kq/feg
+	url = .
 [submodule "rg/le/etc"]
 	path = rg/le/etc
 	url = .
