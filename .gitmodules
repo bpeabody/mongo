@@ -24787,6 +24787,9 @@
 [submodule "jk/eg/fhd"]
 	path = jk/eg/fhd
 	url = .
+[submodule "jk/eh/ass"]
+	path = jk/eh/ass
+	url = .
 [submodule "jk/fk/pty"]
 	path = jk/fk/pty
 	url = .
