@@ -5983,6 +5983,9 @@
 [submodule "ft/xj/jcl"]
 	path = ft/xj/jcl
 	url = .
+[submodule "ft/xl/kvc"]
+	path = ft/xl/kvc
+	url = .
 [submodule "fu/ba/sif"]
 	path = fu/ba/sif
 	url = .
