@@ -1213,6 +1213,9 @@
 [submodule "hf/ju/vnz"]
 	path = hf/ju/vnz
 	url = .
+[submodule "hf/om/nit"]
+	path = hf/om/nit
+	url = .
 [submodule "hg/wr/cps"]
 	path = hg/wr/cps
 	url = .
