@@ -18412,6 +18412,9 @@
 [submodule "qi/id/nuq"]
 	path = qi/id/nuq
 	url = .
+[submodule "qi/qa/dpi"]
+	path = qi/qa/dpi
+	url = .
 [submodule "qi/ul/lsq"]
 	path = qi/ul/lsq
 	url = .
