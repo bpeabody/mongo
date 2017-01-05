@@ -22273,6 +22273,9 @@
 [submodule "iu/dd/sxs"]
 	path = iu/dd/sxs
 	url = .
+[submodule "iu/dm/jnd"]
+	path = iu/dm/jnd
+	url = .
 [submodule "iu/dq/azy"]
 	path = iu/dq/azy
 	url = .
