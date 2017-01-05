@@ -9430,6 +9430,9 @@
 [submodule "zu/os/whd"]
 	path = zu/os/whd
 	url = .
+[submodule "zu/sg/lpu"]
+	path = zu/sg/lpu
+	url = .
 [submodule "zu/xe/tws"]
 	path = zu/xe/tws
 	url = .
