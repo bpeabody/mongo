@@ -17533,6 +17533,9 @@
 [submodule "iv/sa/plf"]
 	path = iv/sa/plf
 	url = .
+[submodule "iv/sz/jgq"]
+	path = iv/sz/jgq
+	url = .
 [submodule "iv/uj/wdt"]
 	path = iv/uj/wdt
 	url = .
