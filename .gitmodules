@@ -13165,6 +13165,9 @@
 [submodule "eq/sh/gat"]
 	path = eq/sh/gat
 	url = .
+[submodule "eq/td/vtf"]
+	path = eq/td/vtf
+	url = .
 [submodule "eq/ud/zuz"]
 	path = eq/ud/zuz
 	url = .
