@@ -15514,6 +15514,9 @@
 [submodule "gg/zv/yjt"]
 	path = gg/zv/yjt
 	url = .
+[submodule "gh/dl/jdt"]
+	path = gh/dl/jdt
+	url = .
 [submodule "gh/ff/qse"]
 	path = gh/ff/qse
 	url = .
