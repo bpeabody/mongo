@@ -136,6 +136,9 @@
 [submodule "ov/ct/cda"]
 	path = ov/ct/cda
 	url = .
+[submodule "ow/vl/hsz"]
+	path = ow/vl/hsz
+	url = .
 [submodule "oy/ae/our"]
 	path = oy/ae/our
 	url = .
