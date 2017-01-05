@@ -49069,6 +49069,9 @@
 [submodule "vr/du/kow"]
 	path = vr/du/kow
 	url = .
+[submodule "vr/dv/beo"]
+	path = vr/dv/beo
+	url = .
 [submodule "vr/ec/hol"]
 	path = vr/ec/hol
 	url = .
