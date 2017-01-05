@@ -568,6 +568,9 @@
 [submodule "ao/tn/caf"]
 	path = ao/tn/caf
 	url = .
+[submodule "ao/tr/hjr"]
+	path = ao/tr/hjr
+	url = .
 [submodule "ao/uq/ekz"]
 	path = ao/uq/ekz
 	url = .
