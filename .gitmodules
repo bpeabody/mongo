@@ -34516,6 +34516,9 @@
 [submodule "lp/aw/ise"]
 	path = lp/aw/ise
 	url = .
+[submodule "lp/bm/lte"]
+	path = lp/bm/lte
+	url = .
 [submodule "lp/bs/vxt"]
 	path = lp/bs/vxt
 	url = .
