@@ -7438,6 +7438,9 @@
 [submodule "xt/lc/mnz"]
 	path = xt/lc/mnz
 	url = .
+[submodule "xt/md/rgj"]
+	path = xt/md/rgj
+	url = .
 [submodule "xt/vr/eog"]
 	path = xt/vr/eog
 	url = .
