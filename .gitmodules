@@ -23551,6 +23551,9 @@
 [submodule "id/rf/dmq"]
 	path = id/rf/dmq
 	url = .
+[submodule "id/rx/ujq"]
+	path = id/rx/ujq
+	url = .
 [submodule "id/sw/oii"]
 	path = id/sw/oii
 	url = .
