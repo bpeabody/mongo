@@ -16567,6 +16567,9 @@
 [submodule "mn/qy/xix"]
 	path = mn/qy/xix
 	url = .
+[submodule "mn/sw/eav"]
+	path = mn/sw/eav
+	url = .
 [submodule "mn/ua/pgv"]
 	path = mn/ua/pgv
 	url = .
