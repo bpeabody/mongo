@@ -1879,6 +1879,9 @@
 [submodule "bn/mh/tvj"]
 	path = bn/mh/tvj
 	url = .
+[submodule "bn/qc/rge"]
+	path = bn/qc/rge
+	url = .
 [submodule "bn/ql/hyj"]
 	path = bn/ql/hyj
 	url = .
