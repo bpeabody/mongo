@@ -25,6 +25,9 @@
 [submodule "hr/nx/kca"]
 	path = hr/nx/kca
 	url = .
+[submodule "if/uj/vjx"]
+	path = if/uj/vjx
+	url = .
 [submodule "la/hm/zbs"]
 	path = la/hm/zbs
 	url = .
