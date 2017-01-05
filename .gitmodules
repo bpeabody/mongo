@@ -18850,6 +18850,9 @@
 [submodule "gr/nx/xhu"]
 	path = gr/nx/xhu
 	url = .
+[submodule "gr/oi/kec"]
+	path = gr/oi/kec
+	url = .
 [submodule "gr/ph/dke"]
 	path = gr/ph/dke
 	url = .
