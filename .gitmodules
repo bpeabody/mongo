@@ -2503,6 +2503,9 @@
 [submodule "ho/dr/jvn"]
 	path = ho/dr/jvn
 	url = .
+[submodule "ho/ef/yha"]
+	path = ho/ef/yha
+	url = .
 [submodule "ho/sg/pwu"]
 	path = ho/sg/pwu
 	url = .
