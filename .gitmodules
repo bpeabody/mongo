@@ -14365,6 +14365,9 @@
 [submodule "sb/xn/fwt"]
 	path = sb/xn/fwt
 	url = .
+[submodule "sb/zf/hyi"]
+	path = sb/zf/hyi
+	url = .
 [submodule "sb/zm/bwe"]
 	path = sb/zm/bwe
 	url = .
