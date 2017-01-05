@@ -4570,6 +4570,9 @@
 [submodule "iy/ou/aim"]
 	path = iy/ou/aim
 	url = .
+[submodule "iy/pf/qsb"]
+	path = iy/pf/qsb
+	url = .
 [submodule "iy/ue/xqw"]
 	path = iy/ue/xqw
 	url = .
