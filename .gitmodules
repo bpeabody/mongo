@@ -34225,6 +34225,9 @@
 [submodule "sp/dy/jfo"]
 	path = sp/dy/jfo
 	url = .
+[submodule "sp/ed/aje"]
+	path = sp/ed/aje
+	url = .
 [submodule "sp/ed/mup"]
 	path = sp/ed/mup
 	url = .
