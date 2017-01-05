@@ -1741,6 +1741,9 @@
 [submodule "az/zi/ois"]
 	path = az/zi/ois
 	url = .
+[submodule "ba/bk/tri"]
+	path = ba/bk/tri
+	url = .
 [submodule "ba/ch/clt"]
 	path = ba/ch/clt
 	url = .
