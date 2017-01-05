@@ -262,6 +262,9 @@
 [submodule "wi/gb/uzn"]
 	path = wi/gb/uzn
 	url = .
+[submodule "wj/je/lff"]
+	path = wj/je/lff
+	url = .
 [submodule "wl/uf/ghb"]
 	path = wl/uf/ghb
 	url = .
