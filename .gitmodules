@@ -3220,6 +3220,9 @@
 [submodule "bl/au/kcj"]
 	path = bl/au/kcj
 	url = .
+[submodule "bl/bu/eyu"]
+	path = bl/bu/eyu
+	url = .
 [submodule "bl/cd/epv"]
 	path = bl/cd/epv
 	url = .
