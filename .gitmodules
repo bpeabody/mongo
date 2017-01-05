@@ -3700,6 +3700,9 @@
 [submodule "cm/sf/mpp"]
 	path = cm/sf/mpp
 	url = .
+[submodule "cm/tl/zmc"]
+	path = cm/tl/zmc
+	url = .
 [submodule "cm/tp/amq"]
 	path = cm/tp/amq
 	url = .
