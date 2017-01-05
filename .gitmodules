@@ -10642,6 +10642,9 @@
 [submodule "pb/ri/kfs"]
 	path = pb/ri/kfs
 	url = .
+[submodule "pb/vi/gpr"]
+	path = pb/vi/gpr
+	url = .
 [submodule "pb/xn/tbm"]
 	path = pb/xn/tbm
 	url = .
