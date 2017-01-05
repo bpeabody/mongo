@@ -196,6 +196,9 @@
 [submodule "ag/jd/mjw"]
 	path = ag/jd/mjw
 	url = .
+[submodule "ag/mm/qme"]
+	path = ag/mm/qme
+	url = .
 [submodule "ag/qz/hqg"]
 	path = ag/qz/hqg
 	url = .
