@@ -45289,6 +45289,9 @@
 [submodule "ys/oi/sqx"]
 	path = ys/oi/sqx
 	url = .
+[submodule "ys/ox/mgw"]
+	path = ys/ox/mgw
+	url = .
 [submodule "ys/ph/zqp"]
 	path = ys/ph/zqp
 	url = .
