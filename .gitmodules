@@ -34645,6 +34645,9 @@
 [submodule "ps/gy/quh"]
 	path = ps/gy/quh
 	url = .
+[submodule "ps/io/exk"]
+	path = ps/io/exk
+	url = .
 [submodule "ps/jx/afl"]
 	path = ps/jx/afl
 	url = .
