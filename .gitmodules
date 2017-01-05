@@ -20248,6 +20248,9 @@
 [submodule "hd/vb/gwt"]
 	path = hd/vb/gwt
 	url = .
+[submodule "hd/vn/jio"]
+	path = hd/vn/jio
+	url = .
 [submodule "hd/vz/ghz"]
 	path = hd/vz/ghz
 	url = .
