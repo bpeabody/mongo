@@ -20929,6 +20929,9 @@
 [submodule "qu/fc/mjg"]
 	path = qu/fc/mjg
 	url = .
+[submodule "qu/im/zed"]
+	path = qu/im/zed
+	url = .
 [submodule "qu/ir/fxu"]
 	path = qu/ir/fxu
 	url = .
