@@ -4048,6 +4048,9 @@
 [submodule "ht/hc/amx"]
 	path = ht/hc/amx
 	url = .
+[submodule "ht/oo/lhx"]
+	path = ht/oo/lhx
+	url = .
 [submodule "ht/ru/zta"]
 	path = ht/ru/zta
 	url = .
