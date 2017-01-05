@@ -6589,6 +6589,9 @@
 [submodule "dk/ed/ivd"]
 	path = dk/ed/ivd
 	url = .
+[submodule "dk/fe/eek"]
+	path = dk/fe/eek
+	url = .
 [submodule "dk/jc/fyd"]
 	path = dk/jc/fyd
 	url = .
