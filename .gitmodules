@@ -1834,6 +1834,9 @@
 [submodule "cz/fr/tlp"]
 	path = cz/fr/tlp
 	url = .
+[submodule "cz/hf/lxd"]
+	path = cz/hf/lxd
+	url = .
 [submodule "cz/ku/nbl"]
 	path = cz/ku/nbl
 	url = .
