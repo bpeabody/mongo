@@ -14164,6 +14164,9 @@
 [submodule "ly/gt/ked"]
 	path = ly/gt/ked
 	url = .
+[submodule "ly/hi/klm"]
+	path = ly/hi/klm
+	url = .
 [submodule "ly/ht/fde"]
 	path = ly/ht/fde
 	url = .
