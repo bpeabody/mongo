@@ -25117,6 +25117,9 @@
 [submodule "sd/ng/zvp"]
 	path = sd/ng/zvp
 	url = .
+[submodule "sd/op/gka"]
+	path = sd/op/gka
+	url = .
 [submodule "sd/pr/nlb"]
 	path = sd/pr/nlb
 	url = .
