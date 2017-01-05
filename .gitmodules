@@ -23125,6 +23125,9 @@
 [submodule "vc/gb/sgb"]
 	path = vc/gb/sgb
 	url = .
+[submodule "vc/hk/tvj"]
+	path = vc/hk/tvj
+	url = .
 [submodule "vc/hy/dod"]
 	path = vc/hy/dod
 	url = .
