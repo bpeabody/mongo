@@ -19222,6 +19222,9 @@
 [submodule "ho/wb/vjt"]
 	path = ho/wb/vjt
 	url = .
+[submodule "ho/xe/lkd"]
+	path = ho/xe/lkd
+	url = .
 [submodule "ho/xk/upo"]
 	path = ho/xk/upo
 	url = .
