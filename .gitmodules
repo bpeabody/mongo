@@ -8860,6 +8860,9 @@
 [submodule "iz/mk/cqn"]
 	path = iz/mk/cqn
 	url = .
+[submodule "iz/oo/ttu"]
+	path = iz/oo/ttu
+	url = .
 [submodule "iz/qc/sno"]
 	path = iz/qc/sno
 	url = .
