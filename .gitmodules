@@ -11194,6 +11194,9 @@
 [submodule "nl/ew/qis"]
 	path = nl/ew/qis
 	url = .
+[submodule "nl/hi/pad"]
+	path = nl/hi/pad
+	url = .
 [submodule "nl/mr/pcw"]
 	path = nl/mr/pcw
 	url = .
