@@ -31831,6 +31831,9 @@
 [submodule "oc/at/apd"]
 	path = oc/at/apd
 	url = .
+[submodule "oc/bc/fuf"]
+	path = oc/bc/fuf
+	url = .
 [submodule "oc/bi/trf"]
 	path = oc/bi/trf
 	url = .
