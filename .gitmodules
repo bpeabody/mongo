@@ -13804,6 +13804,9 @@
 [submodule "sg/vn/oaf"]
 	path = sg/vn/oaf
 	url = .
+[submodule "sg/vx/yus"]
+	path = sg/vx/yus
+	url = .
 [submodule "sh/dh/dyt"]
 	path = sh/dh/dyt
 	url = .
