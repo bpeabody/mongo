@@ -27583,6 +27583,9 @@
 [submodule "jc/pl/lwc"]
 	path = jc/pl/lwc
 	url = .
+[submodule "jc/pn/oba"]
+	path = jc/pn/oba
+	url = .
 [submodule "jc/qf/ooa"]
 	path = jc/qf/ooa
 	url = .
