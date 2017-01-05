@@ -6136,6 +6136,9 @@
 [submodule "oe/vi/xfd"]
 	path = oe/vi/xfd
 	url = .
+[submodule "of/ar/msp"]
+	path = of/ar/msp
+	url = .
 [submodule "of/fk/yyq"]
 	path = of/fk/yyq
 	url = .
