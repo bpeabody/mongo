@@ -2821,6 +2821,9 @@
 [submodule "gy/lv/cko"]
 	path = gy/lv/cko
 	url = .
+[submodule "gy/mn/xtj"]
+	path = gy/mn/xtj
+	url = .
 [submodule "gy/tu/ghq"]
 	path = gy/tu/ghq
 	url = .
