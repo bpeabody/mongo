@@ -139,6 +139,9 @@
 [submodule "ac/vg/bbh"]
 	path = ac/vg/bbh
 	url = .
+[submodule "ac/vw/oxi"]
+	path = ac/vw/oxi
+	url = .
 [submodule "ac/wk/cya"]
 	path = ac/wk/cya
 	url = .
