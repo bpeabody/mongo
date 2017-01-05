@@ -1975,6 +1975,9 @@
 [submodule "fu/xu/vfo"]
 	path = fu/xu/vfo
 	url = .
+[submodule "fu/ys/kbt"]
+	path = fu/ys/kbt
+	url = .
 [submodule "fv/hs/rja"]
 	path = fv/hs/rja
 	url = .
