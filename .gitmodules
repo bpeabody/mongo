@@ -49885,6 +49885,9 @@
 [submodule "qt/bi/dno"]
 	path = qt/bi/dno
 	url = .
+[submodule "qt/bo/raw"]
+	path = qt/bo/raw
+	url = .
 [submodule "qt/eg/sdu"]
 	path = qt/eg/sdu
 	url = .
