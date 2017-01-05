@@ -57331,6 +57331,9 @@
 [submodule "yk/cd/ota"]
 	path = yk/cd/ota
 	url = .
+[submodule "yk/ck/fws"]
+	path = yk/ck/fws
+	url = .
 [submodule "yk/cr/ewj"]
 	path = yk/cr/ewj
 	url = .
