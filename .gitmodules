@@ -15034,6 +15034,9 @@
 [submodule "ud/kp/zsr"]
 	path = ud/kp/zsr
 	url = .
+[submodule "ud/md/aco"]
+	path = ud/md/aco
+	url = .
 [submodule "ud/oc/lzu"]
 	path = ud/oc/lzu
 	url = .
