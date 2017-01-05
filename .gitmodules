@@ -37843,6 +37843,9 @@
 [submodule "uy/jq/uwu"]
 	path = uy/jq/uwu
 	url = .
+[submodule "uy/kn/rep"]
+	path = uy/kn/rep
+	url = .
 [submodule "uy/mt/hao"]
 	path = uy/mt/hao
 	url = .
