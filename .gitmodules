@@ -2209,6 +2209,9 @@
 [submodule "pb/bd/rpx"]
 	path = pb/bd/rpx
 	url = .
+[submodule "pb/ph/dnh"]
+	path = pb/ph/dnh
+	url = .
 [submodule "pd/iu/bkm"]
 	path = pd/iu/bkm
 	url = .
