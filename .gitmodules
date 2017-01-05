@@ -32836,6 +32836,9 @@
 [submodule "nx/xe/mxq"]
 	path = nx/xe/mxq
 	url = .
+[submodule "nx/xi/ddo"]
+	path = nx/xi/ddo
+	url = .
 [submodule "nx/zr/ler"]
 	path = nx/zr/ler
 	url = .
