@@ -27457,6 +27457,9 @@
 [submodule "xl/qo/qlz"]
 	path = xl/qo/qlz
 	url = .
+[submodule "xl/vl/dqc"]
+	path = xl/vl/dqc
+	url = .
 [submodule "xm/ce/bhs"]
 	path = xm/ce/bhs
 	url = .
