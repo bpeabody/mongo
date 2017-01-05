@@ -14605,6 +14605,9 @@
 [submodule "kf/bk/bge"]
 	path = kf/bk/bge
 	url = .
+[submodule "kf/fg/lwd"]
+	path = kf/fg/lwd
+	url = .
 [submodule "kf/qa/azn"]
 	path = kf/qa/azn
 	url = .
