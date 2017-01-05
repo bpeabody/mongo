@@ -5092,6 +5092,9 @@
 [submodule "cx/dg/qgm"]
 	path = cx/dg/qgm
 	url = .
+[submodule "cx/dq/bpm"]
+	path = cx/dq/bpm
+	url = .
 [submodule "cx/ec/dsv"]
 	path = cx/ec/dsv
 	url = .
