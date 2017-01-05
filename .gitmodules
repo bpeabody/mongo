@@ -17560,6 +17560,9 @@
 [submodule "no/rs/krw"]
 	path = no/rs/krw
 	url = .
+[submodule "no/vn/zmv"]
+	path = no/vn/zmv
+	url = .
 [submodule "no/wd/dae"]
 	path = no/wd/dae
 	url = .
