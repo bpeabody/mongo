@@ -12361,6 +12361,9 @@
 [submodule "ma/gk/fbr"]
 	path = ma/gk/fbr
 	url = .
+[submodule "ma/gk/prc"]
+	path = ma/gk/prc
+	url = .
 [submodule "ma/lj/pii"]
 	path = ma/lj/pii
 	url = .
