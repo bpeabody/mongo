@@ -5692,6 +5692,9 @@
 [submodule "gb/zh/ins"]
 	path = gb/zh/ins
 	url = .
+[submodule "gc/bm/asz"]
+	path = gc/bm/asz
+	url = .
 [submodule "gc/gi/ghl"]
 	path = gc/gi/ghl
 	url = .
