@@ -2551,6 +2551,9 @@
 [submodule "il/kx/bdj"]
 	path = il/kx/bdj
 	url = .
+[submodule "il/lk/iib"]
+	path = il/lk/iib
+	url = .
 [submodule "il/ob/uta"]
 	path = il/ob/uta
 	url = .
