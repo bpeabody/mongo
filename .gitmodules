@@ -48301,6 +48301,9 @@
 [submodule "rk/um/qlh"]
 	path = rk/um/qlh
 	url = .
+[submodule "rk/vs/dgc"]
+	path = rk/vs/dgc
+	url = .
 [submodule "rk/vy/ohs"]
 	path = rk/vy/ohs
 	url = .
