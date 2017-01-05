@@ -40399,6 +40399,9 @@
 [submodule "uh/uw/qya"]
 	path = uh/uw/qya
 	url = .
+[submodule "uh/ve/nvs"]
+	path = uh/ve/nvs
+	url = .
 [submodule "uh/wg/oct"]
 	path = uh/wg/oct
 	url = .
