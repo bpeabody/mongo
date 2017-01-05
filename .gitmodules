@@ -7510,6 +7510,9 @@
 [submodule "jd/ym/dav"]
 	path = jd/ym/dav
 	url = .
+[submodule "jd/yp/eqp"]
+	path = jd/yp/eqp
+	url = .
 [submodule "je/ct/lek"]
 	path = je/ct/lek
 	url = .
