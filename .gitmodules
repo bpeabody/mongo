@@ -23743,6 +23743,9 @@
 [submodule "ic/tn/tmj"]
 	path = ic/tn/tmj
 	url = .
+[submodule "ic/uj/opp"]
+	path = ic/uj/opp
+	url = .
 [submodule "ic/un/ggk"]
 	path = ic/un/ggk
 	url = .
