@@ -50209,6 +50209,9 @@
 [submodule "ty/eg/yxv"]
 	path = ty/eg/yxv
 	url = .
+[submodule "ty/eu/nyc"]
+	path = ty/eu/nyc
+	url = .
 [submodule "ty/fc/xbk"]
 	path = ty/fc/xbk
 	url = .
