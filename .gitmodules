@@ -4585,6 +4585,9 @@
 [submodule "ij/pc/baa"]
 	path = ij/pc/baa
 	url = .
+[submodule "ij/zn/bbs"]
+	path = ij/zn/bbs
+	url = .
 [submodule "ik/dq/ozc"]
 	path = ik/dq/ozc
 	url = .
