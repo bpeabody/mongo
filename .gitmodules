@@ -26944,6 +26944,9 @@
 [submodule "kz/gs/ews"]
 	path = kz/gs/ews
 	url = .
+[submodule "kz/gt/iac"]
+	path = kz/gt/iac
+	url = .
 [submodule "kz/hr/cus"]
 	path = kz/hr/cus
 	url = .
