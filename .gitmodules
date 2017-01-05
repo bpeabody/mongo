@@ -10390,6 +10390,9 @@
 [submodule "gf/oa/dlc"]
 	path = gf/oa/dlc
 	url = .
+[submodule "gf/od/wkt"]
+	path = gf/od/wkt
+	url = .
 [submodule "gf/oi/teu"]
 	path = gf/oi/teu
 	url = .
