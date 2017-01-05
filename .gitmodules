@@ -18637,6 +18637,9 @@
 [submodule "jq/wo/faq"]
 	path = jq/wo/faq
 	url = .
+[submodule "jq/wr/axs"]
+	path = jq/wr/axs
+	url = .
 [submodule "jq/wy/tyb"]
 	path = jq/wy/tyb
 	url = .
