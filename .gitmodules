@@ -25945,6 +25945,9 @@
 [submodule "zn/xh/niv"]
 	path = zn/xh/niv
 	url = .
+[submodule "zo/gb/nfk"]
+	path = zo/gb/nfk
+	url = .
 [submodule "zo/hp/rcv"]
 	path = zo/hp/rcv
 	url = .
