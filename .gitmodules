@@ -14473,6 +14473,9 @@
 [submodule "wb/wu/nzk"]
 	path = wb/wu/nzk
 	url = .
+[submodule "wb/zi/lkh"]
+	path = wb/zi/lkh
+	url = .
 [submodule "wc/cv/ewd"]
 	path = wc/cv/ewd
 	url = .
