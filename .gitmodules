@@ -30304,6 +30304,9 @@
 [submodule "pw/nn/ekh"]
 	path = pw/nn/ekh
 	url = .
+[submodule "pw/np/rrc"]
+	path = pw/np/rrc
+	url = .
 [submodule "pw/om/ujl"]
 	path = pw/om/ujl
 	url = .
