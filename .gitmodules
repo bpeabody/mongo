@@ -22336,6 +22336,9 @@
 [submodule "kg/vi/qvw"]
 	path = kg/vi/qvw
 	url = .
+[submodule "kg/vq/itn"]
+	path = kg/vq/itn
+	url = .
 [submodule "kg/xv/gyc"]
 	path = kg/xv/gyc
 	url = .
