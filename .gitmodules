@@ -28108,6 +28108,9 @@
 [submodule "mt/cb/nir"]
 	path = mt/cb/nir
 	url = .
+[submodule "mt/ck/wck"]
+	path = mt/ck/wck
+	url = .
 [submodule "mt/dg/yqo"]
 	path = mt/dg/yqo
 	url = .
