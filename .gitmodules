@@ -1615,6 +1615,9 @@
 [submodule "dd/xk/niz"]
 	path = dd/xk/niz
 	url = .
+[submodule "dd/zm/wmd"]
+	path = dd/zm/wmd
+	url = .
 [submodule "dd/zu/ikx"]
 	path = dd/zu/ikx
 	url = .
