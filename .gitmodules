@@ -23431,6 +23431,9 @@
 [submodule "kd/po/via"]
 	path = kd/po/via
 	url = .
+[submodule "kd/qc/trj"]
+	path = kd/qc/trj
+	url = .
 [submodule "kd/qf/hyb"]
 	path = kd/qf/hyb
 	url = .
