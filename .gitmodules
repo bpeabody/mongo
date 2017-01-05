@@ -21916,6 +21916,9 @@
 [submodule "hs/vm/ogf"]
 	path = hs/vm/ogf
 	url = .
+[submodule "hs/wh/jec"]
+	path = hs/wh/jec
+	url = .
 [submodule "hs/wj/jfj"]
 	path = hs/wj/jfj
 	url = .
