@@ -184,6 +184,9 @@
 [submodule "aj/my/kip"]
 	path = aj/my/kip
 	url = .
+[submodule "aj/ol/ioq"]
+	path = aj/ol/ioq
+	url = .
 [submodule "aj/pu/gif"]
 	path = aj/pu/gif
 	url = .
