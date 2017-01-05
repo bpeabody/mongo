@@ -34294,6 +34294,9 @@
 [submodule "yr/qe/ifd"]
 	path = yr/qe/ifd
 	url = .
+[submodule "yr/ux/jna"]
+	path = yr/ux/jna
+	url = .
 [submodule "yr/wc/jgn"]
 	path = yr/wc/jgn
 	url = .
