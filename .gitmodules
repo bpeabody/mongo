@@ -517,6 +517,9 @@
 [submodule "ag/ah/quq"]
 	path = ag/ah/quq
 	url = .
+[submodule "ag/cb/msi"]
+	path = ag/cb/msi
+	url = .
 [submodule "ag/ds/tuk"]
 	path = ag/ds/tuk
 	url = .
