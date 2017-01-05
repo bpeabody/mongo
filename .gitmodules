@@ -2947,6 +2947,9 @@
 [submodule "ql/tq/jeo"]
 	path = ql/tq/jeo
 	url = .
+[submodule "ql/xl/ezc"]
+	path = ql/xl/ezc
+	url = .
 [submodule "ql/xw/sdo"]
 	path = ql/xw/sdo
 	url = .
