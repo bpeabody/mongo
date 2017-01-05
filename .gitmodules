@@ -2962,6 +2962,9 @@
 [submodule "dc/jj/rzx"]
 	path = dc/jj/rzx
 	url = .
+[submodule "dc/ks/tap"]
+	path = dc/ks/tap
+	url = .
 [submodule "dc/ls/ojq"]
 	path = dc/ls/ojq
 	url = .
