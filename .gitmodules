@@ -3748,6 +3748,9 @@
 [submodule "nz/mt/ucs"]
 	path = nz/mt/ucs
 	url = .
+[submodule "nz/nb/mxn"]
+	path = nz/nb/mxn
+	url = .
 [submodule "nz/no/cdv"]
 	path = nz/no/cdv
 	url = .
