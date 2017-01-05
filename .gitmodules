@@ -7789,6 +7789,9 @@
 [submodule "fv/md/dwr"]
 	path = fv/md/dwr
 	url = .
+[submodule "fv/mi/noe"]
+	path = fv/mi/noe
+	url = .
 [submodule "fv/pe/jcv"]
 	path = fv/pe/jcv
 	url = .
