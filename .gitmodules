@@ -3064,6 +3064,9 @@
 [submodule "bo/nb/dps"]
 	path = bo/nb/dps
 	url = .
+[submodule "bo/np/wld"]
+	path = bo/np/wld
+	url = .
 [submodule "bo/pm/pgs"]
 	path = bo/pm/pgs
 	url = .
