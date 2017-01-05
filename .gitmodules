@@ -1177,6 +1177,9 @@
 [submodule "eh/ur/hiv"]
 	path = eh/ur/hiv
 	url = .
+[submodule "eh/vi/lfe"]
+	path = eh/vi/lfe
+	url = .
 [submodule "eh/xu/ojl"]
 	path = eh/xu/ojl
 	url = .
