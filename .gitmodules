@@ -4387,6 +4387,9 @@
 [submodule "rv/cv/kkk"]
 	path = rv/cv/kkk
 	url = .
+[submodule "rv/di/jcx"]
+	path = rv/di/jcx
+	url = .
 [submodule "rv/dw/znw"]
 	path = rv/dw/znw
 	url = .
