@@ -22231,6 +22231,9 @@
 [submodule "ns/it/ahr"]
 	path = ns/it/ahr
 	url = .
+[submodule "ns/lc/nic"]
+	path = ns/lc/nic
+	url = .
 [submodule "ns/le/sow"]
 	path = ns/le/sow
 	url = .
