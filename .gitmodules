@@ -10501,6 +10501,9 @@
 [submodule "gq/uh/xnh"]
 	path = gq/uh/xnh
 	url = .
+[submodule "gq/xl/uhr"]
+	path = gq/xl/uhr
+	url = .
 [submodule "gq/zb/ror"]
 	path = gq/zb/ror
 	url = .
