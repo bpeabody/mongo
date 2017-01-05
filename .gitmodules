@@ -28192,6 +28192,9 @@
 [submodule "vk/vi/lvg"]
 	path = vk/vi/lvg
 	url = .
+[submodule "vk/yh/apl"]
+	path = vk/yh/apl
+	url = .
 [submodule "vl/ae/zec"]
 	path = vl/ae/zec
 	url = .
