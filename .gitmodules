@@ -7156,6 +7156,9 @@
 [submodule "ff/xd/avo"]
 	path = ff/xd/avo
 	url = .
+[submodule "ff/xw/gnl"]
+	path = ff/xw/gnl
+	url = .
 [submodule "ff/yb/qed"]
 	path = ff/yb/qed
 	url = .
