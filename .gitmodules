@@ -45913,6 +45913,9 @@
 [submodule "sc/hi/dki"]
 	path = sc/hi/dki
 	url = .
+[submodule "sc/ir/vcv"]
+	path = sc/ir/vcv
+	url = .
 [submodule "sc/jl/epy"]
 	path = sc/jl/epy
 	url = .
