@@ -13588,6 +13588,9 @@
 [submodule "te/fd/mcm"]
 	path = te/fd/mcm
 	url = .
+[submodule "te/ko/ajv"]
+	path = te/ko/ajv
+	url = .
 [submodule "te/kr/egt"]
 	path = te/kr/egt
 	url = .
