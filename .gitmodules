@@ -532,6 +532,9 @@
 [submodule "ar/vc/ymd"]
 	path = ar/vc/ymd
 	url = .
+[submodule "ar/wn/eex"]
+	path = ar/wn/eex
+	url = .
 [submodule "ar/xd/aqq"]
 	path = ar/xd/aqq
 	url = .
