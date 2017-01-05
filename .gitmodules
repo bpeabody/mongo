@@ -1570,6 +1570,9 @@
 [submodule "ri/rp/cjx"]
 	path = ri/rp/cjx
 	url = .
+[submodule "rj/wk/xrl"]
+	path = rj/wk/xrl
+	url = .
 [submodule "rk/sm/uba"]
 	path = rk/sm/uba
 	url = .
