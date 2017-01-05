@@ -7789,6 +7789,9 @@
 [submodule "co/kb/skc"]
 	path = co/kb/skc
 	url = .
+[submodule "co/kb/txq"]
+	path = co/kb/txq
+	url = .
 [submodule "co/ku/rac"]
 	path = co/ku/rac
 	url = .
