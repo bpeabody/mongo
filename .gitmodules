@@ -11311,6 +11311,9 @@
 [submodule "fk/ty/aoz"]
 	path = fk/ty/aoz
 	url = .
+[submodule "fk/vi/rkj"]
+	path = fk/vi/rkj
+	url = .
 [submodule "fk/wo/wac"]
 	path = fk/wo/wac
 	url = .
