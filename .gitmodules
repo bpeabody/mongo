@@ -3823,6 +3823,9 @@
 [submodule "bq/gs/mmp"]
 	path = bq/gs/mmp
 	url = .
+[submodule "bq/gy/dcx"]
+	path = bq/gy/dcx
+	url = .
 [submodule "bq/hm/kwb"]
 	path = bq/hm/kwb
 	url = .
