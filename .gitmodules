@@ -28363,6 +28363,9 @@
 [submodule "xs/dv/zgj"]
 	path = xs/dv/zgj
 	url = .
+[submodule "xs/ez/nxy"]
+	path = xs/ez/nxy
+	url = .
 [submodule "xs/gf/rmf"]
 	path = xs/gf/rmf
 	url = .
