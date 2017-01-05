@@ -22915,6 +22915,9 @@
 [submodule "ii/mx/rgq"]
 	path = ii/mx/rgq
 	url = .
+[submodule "ii/nn/ltu"]
+	path = ii/nn/ltu
+	url = .
 [submodule "ii/nv/vvi"]
 	path = ii/nv/vvi
 	url = .
