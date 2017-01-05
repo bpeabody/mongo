@@ -52297,6 +52297,9 @@
 [submodule "sk/sg/pxk"]
 	path = sk/sg/pxk
 	url = .
+[submodule "sk/si/pqs"]
+	path = sk/si/pqs
+	url = .
 [submodule "sk/sj/rtt"]
 	path = sk/sj/rtt
 	url = .
