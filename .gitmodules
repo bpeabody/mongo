@@ -33781,6 +33781,9 @@
 [submodule "ln/uz/uaa"]
 	path = ln/uz/uaa
 	url = .
+[submodule "ln/wg/cga"]
+	path = ln/wg/cga
+	url = .
 [submodule "ln/wv/muc"]
 	path = ln/wv/muc
 	url = .
