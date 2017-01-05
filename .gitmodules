@@ -7483,6 +7483,9 @@
 [submodule "jz/tn/rke"]
 	path = jz/tn/rke
 	url = .
+[submodule "jz/ts/mje"]
+	path = jz/ts/mje
+	url = .
 [submodule "jz/vf/ksx"]
 	path = jz/vf/ksx
 	url = .
