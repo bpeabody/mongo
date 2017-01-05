@@ -2797,6 +2797,9 @@
 [submodule "if/hc/hwq"]
 	path = if/hc/hwq
 	url = .
+[submodule "if/im/vtq"]
+	path = if/im/vtq
+	url = .
 [submodule "if/ra/olg"]
 	path = if/ra/olg
 	url = .
