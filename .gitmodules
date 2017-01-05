@@ -16822,6 +16822,9 @@
 [submodule "pt/lg/pki"]
 	path = pt/lg/pki
 	url = .
+[submodule "pt/nr/szk"]
+	path = pt/nr/szk
+	url = .
 [submodule "pt/pp/ibd"]
 	path = pt/pp/ibd
 	url = .
