@@ -3751,6 +3751,9 @@
 [submodule "dd/om/abl"]
 	path = dd/om/abl
 	url = .
+[submodule "dd/th/eap"]
+	path = dd/th/eap
+	url = .
 [submodule "dd/tk/uml"]
 	path = dd/tk/uml
 	url = .
