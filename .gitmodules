@@ -4636,6 +4636,9 @@
 [submodule "ps/ld/kvx"]
 	path = ps/ld/kvx
 	url = .
+[submodule "ps/sg/lsk"]
+	path = ps/sg/lsk
+	url = .
 [submodule "pt/at/kei"]
 	path = pt/at/kei
 	url = .
