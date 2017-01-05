@@ -72139,6 +72139,9 @@
 [submodule "yi/gs/fsj"]
 	path = yi/gs/fsj
 	url = .
+[submodule "yi/hg/vfm"]
+	path = yi/hg/vfm
+	url = .
 [submodule "yi/hv/dls"]
 	path = yi/hv/dls
 	url = .
