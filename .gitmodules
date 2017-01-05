@@ -316,6 +316,9 @@
 [submodule "nc/od/vzu"]
 	path = nc/od/vzu
 	url = .
+[submodule "nd/bn/bsv"]
+	path = nd/bn/bsv
+	url = .
 [submodule "nd/hu/hif"]
 	path = nd/hu/hif
 	url = .
