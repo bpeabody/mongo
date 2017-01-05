@@ -17422,6 +17422,9 @@
 [submodule "ox/zd/nok"]
 	path = ox/zd/nok
 	url = .
+[submodule "ox/zu/vmp"]
+	path = ox/zu/vmp
+	url = .
 [submodule "oy/ae/our"]
 	path = oy/ae/our
 	url = .
