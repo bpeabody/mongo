@@ -4705,6 +4705,9 @@
 [submodule "hu/es/qqo"]
 	path = hu/es/qqo
 	url = .
+[submodule "hu/jw/orq"]
+	path = hu/jw/orq
+	url = .
 [submodule "hu/ks/jma"]
 	path = hu/ks/jma
 	url = .
