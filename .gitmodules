@@ -11656,6 +11656,9 @@
 [submodule "lx/mk/cfl"]
 	path = lx/mk/cfl
 	url = .
+[submodule "lx/od/xvg"]
+	path = lx/od/xvg
+	url = .
 [submodule "lx/ou/afv"]
 	path = lx/ou/afv
 	url = .
