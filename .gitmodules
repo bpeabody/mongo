@@ -33652,6 +33652,9 @@
 [submodule "ne/xo/xmq"]
 	path = ne/xo/xmq
 	url = .
+[submodule "ne/ys/bsk"]
+	path = ne/ys/bsk
+	url = .
 [submodule "ne/zn/urq"]
 	path = ne/zn/urq
 	url = .
