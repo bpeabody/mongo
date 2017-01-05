@@ -50509,6 +50509,9 @@
 [submodule "sg/ku/nzz"]
 	path = sg/ku/nzz
 	url = .
+[submodule "sg/mp/bll"]
+	path = sg/mp/bll
+	url = .
 [submodule "sg/nl/fix"]
 	path = sg/nl/fix
 	url = .
