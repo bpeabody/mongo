@@ -541,6 +541,9 @@
 [submodule "gc/gi/ghl"]
 	path = gc/gi/ghl
 	url = .
+[submodule "gd/yw/rxh"]
+	path = gd/yw/rxh
+	url = .
 [submodule "ge/jo/wki"]
 	path = ge/jo/wki
 	url = .
