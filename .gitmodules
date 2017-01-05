@@ -9619,6 +9619,9 @@
 [submodule "mq/yz/dzb"]
 	path = mq/yz/dzb
 	url = .
+[submodule "mr/bf/cnn"]
+	path = mr/bf/cnn
+	url = .
 [submodule "mr/bi/wkw"]
 	path = mr/bi/wkw
 	url = .
