@@ -6265,6 +6265,9 @@
 [submodule "ee/od/ydr"]
 	path = ee/od/ydr
 	url = .
+[submodule "ee/oy/nnn"]
+	path = ee/oy/nnn
+	url = .
 [submodule "ee/qk/ibv"]
 	path = ee/qk/ibv
 	url = .
