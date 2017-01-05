@@ -7396,6 +7396,9 @@
 [submodule "nk/ik/ffk"]
 	path = nk/ik/ffk
 	url = .
+[submodule "nk/iv/gsk"]
+	path = nk/iv/gsk
+	url = .
 [submodule "nk/vj/fxk"]
 	path = nk/vj/fxk
 	url = .
