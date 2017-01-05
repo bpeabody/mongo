@@ -11344,6 +11344,9 @@
 [submodule "qr/ke/mtu"]
 	path = qr/ke/mtu
 	url = .
+[submodule "qr/ky/fad"]
+	path = qr/ky/fad
+	url = .
 [submodule "qr/rm/vmj"]
 	path = qr/rm/vmj
 	url = .
