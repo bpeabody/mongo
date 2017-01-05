@@ -727,6 +727,9 @@
 [submodule "ba/ch/clt"]
 	path = ba/ch/clt
 	url = .
+[submodule "ba/ih/aqq"]
+	path = ba/ih/aqq
+	url = .
 [submodule "ba/ng/fry"]
 	path = ba/ng/fry
 	url = .
