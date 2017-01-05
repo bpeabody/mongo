@@ -3517,6 +3517,9 @@
 [submodule "xm/fy/usr"]
 	path = xm/fy/usr
 	url = .
+[submodule "xm/rd/lmc"]
+	path = xm/rd/lmc
+	url = .
 [submodule "xm/se/pav"]
 	path = xm/se/pav
 	url = .
