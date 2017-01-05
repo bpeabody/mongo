@@ -3595,6 +3595,9 @@
 [submodule "ht/hc/amx"]
 	path = ht/hc/amx
 	url = .
+[submodule "ht/ru/zta"]
+	path = ht/ru/zta
+	url = .
 [submodule "ht/tu/yrw"]
 	path = ht/tu/yrw
 	url = .
