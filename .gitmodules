@@ -9670,6 +9670,9 @@
 [submodule "ex/gg/pnx"]
 	path = ex/gg/pnx
 	url = .
+[submodule "ex/gj/jbh"]
+	path = ex/gj/jbh
+	url = .
 [submodule "ex/gp/yyo"]
 	path = ex/gp/yyo
 	url = .
