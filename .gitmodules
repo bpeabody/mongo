@@ -6748,6 +6748,9 @@
 [submodule "cz/qt/zrw"]
 	path = cz/qt/zrw
 	url = .
+[submodule "cz/tj/nsx"]
+	path = cz/tj/nsx
+	url = .
 [submodule "cz/tm/xsv"]
 	path = cz/tm/xsv
 	url = .
