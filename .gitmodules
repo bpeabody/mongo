@@ -12265,6 +12265,9 @@
 [submodule "ek/op/nfw"]
 	path = ek/op/nfw
 	url = .
+[submodule "ek/ph/jkf"]
+	path = ek/ph/jkf
+	url = .
 [submodule "ek/ru/iyb"]
 	path = ek/ru/iyb
 	url = .
