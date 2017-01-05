@@ -11065,6 +11065,9 @@
 [submodule "eb/na/wod"]
 	path = eb/na/wod
 	url = .
+[submodule "eb/ng/jui"]
+	path = eb/ng/jui
+	url = .
 [submodule "eb/nv/tni"]
 	path = eb/nv/tni
 	url = .
