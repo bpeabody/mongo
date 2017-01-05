@@ -1045,6 +1045,9 @@
 [submodule "dq/tj/vrg"]
 	path = dq/tj/vrg
 	url = .
+[submodule "dq/tv/fnk"]
+	path = dq/tv/fnk
+	url = .
 [submodule "dq/uc/bwb"]
 	path = dq/uc/bwb
 	url = .
