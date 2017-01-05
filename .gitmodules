@@ -22024,6 +22024,9 @@
 [submodule "io/wz/ibg"]
 	path = io/wz/ibg
 	url = .
+[submodule "io/yj/owa"]
+	path = io/yj/owa
+	url = .
 [submodule "io/yt/zfb"]
 	path = io/yt/zfb
 	url = .
