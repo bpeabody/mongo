@@ -14224,6 +14224,9 @@
 [submodule "xj/yr/egf"]
 	path = xj/yr/egf
 	url = .
+[submodule "xk/bs/hbi"]
+	path = xk/bs/hbi
+	url = .
 [submodule "xk/ct/set"]
 	path = xk/ct/set
 	url = .
