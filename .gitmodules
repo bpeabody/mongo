@@ -45556,6 +45556,9 @@
 [submodule "rt/ja/ufb"]
 	path = rt/ja/ufb
 	url = .
+[submodule "rt/ji/tab"]
+	path = rt/ji/tab
+	url = .
 [submodule "rt/lm/ety"]
 	path = rt/lm/ety
 	url = .
