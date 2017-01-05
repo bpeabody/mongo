@@ -9553,6 +9553,9 @@
 [submodule "la/ao/bes"]
 	path = la/ao/bes
 	url = .
+[submodule "la/cq/lhj"]
+	path = la/cq/lhj
+	url = .
 [submodule "la/fs/awz"]
 	path = la/fs/awz
 	url = .
