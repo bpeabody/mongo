@@ -52681,6 +52681,9 @@
 [submodule "rj/yd/bqn"]
 	path = rj/yd/bqn
 	url = .
+[submodule "rj/yd/rrg"]
+	path = rj/yd/rrg
+	url = .
 [submodule "rj/yr/bvq"]
 	path = rj/yr/bvq
 	url = .
