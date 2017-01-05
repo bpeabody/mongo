@@ -10741,6 +10741,9 @@
 [submodule "hx/hq/ubv"]
 	path = hx/hq/ubv
 	url = .
+[submodule "hx/ji/ggp"]
+	path = hx/ji/ggp
+	url = .
 [submodule "hx/kc/spr"]
 	path = hx/kc/spr
 	url = .
