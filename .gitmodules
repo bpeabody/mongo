@@ -61489,6 +61489,9 @@
 [submodule "yq/sf/dkn"]
 	path = yq/sf/dkn
 	url = .
+[submodule "yq/uk/pzz"]
+	path = yq/uk/pzz
+	url = .
 [submodule "yq/un/zxm"]
 	path = yq/un/zxm
 	url = .
