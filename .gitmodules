@@ -6058,6 +6058,9 @@
 [submodule "ot/xc/bfr"]
 	path = ot/xc/bfr
 	url = .
+[submodule "ot/yd/gdj"]
+	path = ot/yd/gdj
+	url = .
 [submodule "ot/yg/eqc"]
 	path = ot/yg/eqc
 	url = .
