@@ -16342,6 +16342,9 @@
 [submodule "xh/sl/lsb"]
 	path = xh/sl/lsb
 	url = .
+[submodule "xh/tj/een"]
+	path = xh/tj/een
+	url = .
 [submodule "xh/vh/qbk"]
 	path = xh/vh/qbk
 	url = .
