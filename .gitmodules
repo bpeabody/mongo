@@ -385,6 +385,9 @@
 [submodule "ej/si/lya"]
 	path = ej/si/lya
 	url = .
+[submodule "ej/ti/sty"]
+	path = ej/ti/sty
+	url = .
 [submodule "ek/hu/cad"]
 	path = ek/hu/cad
 	url = .
