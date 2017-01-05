@@ -6877,6 +6877,9 @@
 [submodule "ff/mh/sga"]
 	path = ff/mh/sga
 	url = .
+[submodule "ff/ni/wvh"]
+	path = ff/ni/wvh
+	url = .
 [submodule "ff/nk/ncz"]
 	path = ff/nk/ncz
 	url = .
