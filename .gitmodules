@@ -5683,6 +5683,9 @@
 [submodule "cg/nj/npg"]
 	path = cg/nj/npg
 	url = .
+[submodule "cg/oc/ecg"]
+	path = cg/oc/ecg
+	url = .
 [submodule "cg/qc/vly"]
 	path = cg/qc/vly
 	url = .
