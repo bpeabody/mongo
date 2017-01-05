@@ -5908,6 +5908,9 @@
 [submodule "ce/bm/hct"]
 	path = ce/bm/hct
 	url = .
+[submodule "ce/bs/pjm"]
+	path = ce/bs/pjm
+	url = .
 [submodule "ce/by/wyc"]
 	path = ce/by/wyc
 	url = .
