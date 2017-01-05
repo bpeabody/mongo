@@ -19360,6 +19360,9 @@
 [submodule "th/ui/lxs"]
 	path = th/ui/lxs
 	url = .
+[submodule "th/wp/xda"]
+	path = th/wp/xda
+	url = .
 [submodule "ti/bt/ruc"]
 	path = ti/bt/ruc
 	url = .
