@@ -20209,6 +20209,9 @@
 [submodule "iu/qd/yxo"]
 	path = iu/qd/yxo
 	url = .
+[submodule "iu/qu/ycq"]
+	path = iu/qu/ycq
+	url = .
 [submodule "iu/rc/gum"]
 	path = iu/rc/gum
 	url = .
