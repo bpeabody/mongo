@@ -7699,6 +7699,9 @@
 [submodule "zj/ak/iig"]
 	path = zj/ak/iig
 	url = .
+[submodule "zj/cd/hkm"]
+	path = zj/cd/hkm
+	url = .
 [submodule "zj/fw/emf"]
 	path = zj/fw/emf
 	url = .
