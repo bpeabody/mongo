@@ -6325,6 +6325,9 @@
 [submodule "rq/ur/mke"]
 	path = rq/ur/mke
 	url = .
+[submodule "rq/xc/hno"]
+	path = rq/xc/hno
+	url = .
 [submodule "rr/gq/bcy"]
 	path = rr/gq/bcy
 	url = .
