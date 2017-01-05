@@ -37633,6 +37633,9 @@
 [submodule "rd/ad/xny"]
 	path = rd/ad/xny
 	url = .
+[submodule "rd/am/poa"]
+	path = rd/am/poa
+	url = .
 [submodule "rd/bs/djx"]
 	path = rd/bs/djx
 	url = .
