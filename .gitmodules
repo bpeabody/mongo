@@ -24133,6 +24133,9 @@
 [submodule "zc/qn/wyk"]
 	path = zc/qn/wyk
 	url = .
+[submodule "zc/qq/civ"]
+	path = zc/qq/civ
+	url = .
 [submodule "zc/sh/wqz"]
 	path = zc/sh/wqz
 	url = .
