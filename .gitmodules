@@ -33511,6 +33511,9 @@
 [submodule "lk/tc/czj"]
 	path = lk/tc/czj
 	url = .
+[submodule "lk/ua/vmn"]
+	path = lk/ua/vmn
+	url = .
 [submodule "lk/ua/xlx"]
 	path = lk/ua/xlx
 	url = .
