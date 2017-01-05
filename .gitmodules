@@ -22420,6 +22420,9 @@
 [submodule "nw/xn/ffn"]
 	path = nw/xn/ffn
 	url = .
+[submodule "nx/az/asg"]
+	path = nx/az/asg
+	url = .
 [submodule "nx/bs/ugx"]
 	path = nx/bs/ugx
 	url = .
