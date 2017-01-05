@@ -31594,6 +31594,9 @@
 [submodule "nc/ve/zpu"]
 	path = nc/ve/zpu
 	url = .
+[submodule "nc/vy/emw"]
+	path = nc/vy/emw
+	url = .
 [submodule "nc/wo/sho"]
 	path = nc/wo/sho
 	url = .
