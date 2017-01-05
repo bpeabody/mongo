@@ -17833,6 +17833,9 @@
 [submodule "vk/mp/wjp"]
 	path = vk/mp/wjp
 	url = .
+[submodule "vk/nb/hdt"]
+	path = vk/nb/hdt
+	url = .
 [submodule "vk/ov/tfk"]
 	path = vk/ov/tfk
 	url = .
