@@ -52309,6 +52309,9 @@
 [submodule "xq/fv/mfe"]
 	path = xq/fv/mfe
 	url = .
+[submodule "xq/gh/riy"]
+	path = xq/gh/riy
+	url = .
 [submodule "xq/hg/fgu"]
 	path = xq/hg/fgu
 	url = .
