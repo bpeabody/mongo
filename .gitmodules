@@ -2965,6 +2965,9 @@
 [submodule "co/sc/aho"]
 	path = co/sc/aho
 	url = .
+[submodule "co/sk/pmj"]
+	path = co/sk/pmj
+	url = .
 [submodule "co/wf/idi"]
 	path = co/wf/idi
 	url = .
