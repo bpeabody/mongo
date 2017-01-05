@@ -10294,6 +10294,9 @@
 [submodule "gw/ux/ega"]
 	path = gw/ux/ega
 	url = .
+[submodule "gw/wi/jzy"]
+	path = gw/wi/jzy
+	url = .
 [submodule "gw/yv/apr"]
 	path = gw/yv/apr
 	url = .
