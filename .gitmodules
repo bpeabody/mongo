@@ -1126,6 +1126,9 @@
 [submodule "az/rx/mjw"]
 	path = az/rx/mjw
 	url = .
+[submodule "az/sp/rzh"]
+	path = az/sp/rzh
+	url = .
 [submodule "az/vg/vcu"]
 	path = az/vg/vcu
 	url = .
