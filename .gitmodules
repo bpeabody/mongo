@@ -38617,6 +38617,9 @@
 [submodule "vr/km/tgr"]
 	path = vr/km/tgr
 	url = .
+[submodule "vr/nf/xdp"]
+	path = vr/nf/xdp
+	url = .
 [submodule "vr/nr/yjn"]
 	path = vr/nr/yjn
 	url = .
