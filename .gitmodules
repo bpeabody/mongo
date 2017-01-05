@@ -28393,6 +28393,9 @@
 [submodule "pk/uz/gob"]
 	path = pk/uz/gob
 	url = .
+[submodule "pk/vk/vmi"]
+	path = pk/vk/vmi
+	url = .
 [submodule "pk/wm/rbd"]
 	path = pk/wm/rbd
 	url = .
