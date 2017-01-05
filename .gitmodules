@@ -31249,6 +31249,9 @@
 [submodule "xo/eb/gto"]
 	path = xo/eb/gto
 	url = .
+[submodule "xo/fa/vpe"]
+	path = xo/fa/vpe
+	url = .
 [submodule "xo/gl/gcx"]
 	path = xo/gl/gcx
 	url = .
