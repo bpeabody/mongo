@@ -3832,6 +3832,9 @@
 [submodule "xl/cs/esz"]
 	path = xl/cs/esz
 	url = .
+[submodule "xl/qk/hzq"]
+	path = xl/qk/hzq
+	url = .
 [submodule "xm/fy/usr"]
 	path = xm/fy/usr
 	url = .
