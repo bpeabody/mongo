@@ -6202,6 +6202,9 @@
 [submodule "di/ad/vrt"]
 	path = di/ad/vrt
 	url = .
+[submodule "di/ct/afu"]
+	path = di/ct/afu
+	url = .
 [submodule "di/cu/zzh"]
 	path = di/cu/zzh
 	url = .
