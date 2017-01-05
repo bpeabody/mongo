@@ -2914,6 +2914,9 @@
 [submodule "bc/vc/qpu"]
 	path = bc/vc/qpu
 	url = .
+[submodule "bc/vg/mdi"]
+	path = bc/vg/mdi
+	url = .
 [submodule "bc/vp/fyh"]
 	path = bc/vp/fyh
 	url = .
