@@ -18478,6 +18478,9 @@
 [submodule "iq/lt/gub"]
 	path = iq/lt/gub
 	url = .
+[submodule "iq/mj/gss"]
+	path = iq/mj/gss
+	url = .
 [submodule "iq/mo/rzu"]
 	path = iq/mo/rzu
 	url = .
