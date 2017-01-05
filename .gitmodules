@@ -46951,6 +46951,9 @@
 [submodule "uo/ig/sdu"]
 	path = uo/ig/sdu
 	url = .
+[submodule "uo/in/ius"]
+	path = uo/in/ius
+	url = .
 [submodule "uo/ir/mjk"]
 	path = uo/ir/mjk
 	url = .
