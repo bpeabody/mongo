@@ -28267,6 +28267,9 @@
 [submodule "lv/fm/gmv"]
 	path = lv/fm/gmv
 	url = .
+[submodule "lv/fv/irn"]
+	path = lv/fv/irn
+	url = .
 [submodule "lv/gk/biy"]
 	path = lv/gk/biy
 	url = .
