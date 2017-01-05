@@ -54460,6 +54460,9 @@
 [submodule "uu/mp/aps"]
 	path = uu/mp/aps
 	url = .
+[submodule "uu/mp/wwj"]
+	path = uu/mp/wwj
+	url = .
 [submodule "uu/pc/lbt"]
 	path = uu/pc/lbt
 	url = .
