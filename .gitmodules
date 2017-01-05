@@ -8854,6 +8854,9 @@
 [submodule "hc/kk/vcb"]
 	path = hc/kk/vcb
 	url = .
+[submodule "hc/kp/faw"]
+	path = hc/kp/faw
+	url = .
 [submodule "hc/ns/ejv"]
 	path = hc/ns/ejv
 	url = .
