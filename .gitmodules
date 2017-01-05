@@ -2491,6 +2491,9 @@
 [submodule "dg/wv/tow"]
 	path = dg/wv/tow
 	url = .
+[submodule "dg/xx/xgx"]
+	path = dg/xx/xgx
+	url = .
 [submodule "dg/zx/kqa"]
 	path = dg/zx/kqa
 	url = .
