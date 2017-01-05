@@ -34750,6 +34750,9 @@
 [submodule "yi/dd/jqw"]
 	path = yi/dd/jqw
 	url = .
+[submodule "yi/dy/ggk"]
+	path = yi/dy/ggk
+	url = .
 [submodule "yi/eq/fjq"]
 	path = yi/eq/fjq
 	url = .
