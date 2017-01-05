@@ -39313,6 +39313,9 @@
 [submodule "no/qw/oes"]
 	path = no/qw/oes
 	url = .
+[submodule "no/ri/ayi"]
+	path = no/ri/ayi
+	url = .
 [submodule "no/rk/ipe"]
 	path = no/rk/ipe
 	url = .
