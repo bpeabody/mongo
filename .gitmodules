@@ -22447,6 +22447,9 @@
 [submodule "mn/sw/eav"]
 	path = mn/sw/eav
 	url = .
+[submodule "mn/tk/bfm"]
+	path = mn/tk/bfm
+	url = .
 [submodule "mn/ua/pgv"]
 	path = mn/ua/pgv
 	url = .
