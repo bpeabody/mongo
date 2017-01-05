@@ -3511,6 +3511,9 @@
 [submodule "bg/ps/lmv"]
 	path = bg/ps/lmv
 	url = .
+[submodule "bg/qg/csy"]
+	path = bg/qg/csy
+	url = .
 [submodule "bg/qz/bhr"]
 	path = bg/qz/bhr
 	url = .
