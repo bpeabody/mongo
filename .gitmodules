@@ -19141,6 +19141,9 @@
 [submodule "gm/ve/ffi"]
 	path = gm/ve/ffi
 	url = .
+[submodule "gm/vt/zhy"]
+	path = gm/vt/zhy
+	url = .
 [submodule "gm/xb/baq"]
 	path = gm/xb/baq
 	url = .
