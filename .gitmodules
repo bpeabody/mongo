@@ -16351,6 +16351,9 @@
 [submodule "qk/zv/are"]
 	path = qk/zv/are
 	url = .
+[submodule "ql/ae/ndn"]
+	path = ql/ae/ndn
+	url = .
 [submodule "ql/dd/xaq"]
 	path = ql/dd/xaq
 	url = .
