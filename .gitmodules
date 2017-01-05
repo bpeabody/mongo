@@ -5179,6 +5179,9 @@
 [submodule "bv/be/sgt"]
 	path = bv/be/sgt
 	url = .
+[submodule "bv/bt/kck"]
+	path = bv/bt/kck
+	url = .
 [submodule "bv/cy/qvp"]
 	path = bv/cy/qvp
 	url = .
