@@ -46495,6 +46495,9 @@
 [submodule "zn/jq/pwn"]
 	path = zn/jq/pwn
 	url = .
+[submodule "zn/kg/lqw"]
+	path = zn/kg/lqw
+	url = .
 [submodule "zn/ks/cnx"]
 	path = zn/ks/cnx
 	url = .
