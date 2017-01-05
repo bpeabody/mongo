@@ -39652,6 +39652,9 @@
 [submodule "yy/fm/xwc"]
 	path = yy/fm/xwc
 	url = .
+[submodule "yy/gc/wsv"]
+	path = yy/gc/wsv
+	url = .
 [submodule "yy/gj/xqy"]
 	path = yy/gj/xqy
 	url = .
