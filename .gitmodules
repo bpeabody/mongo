@@ -3946,6 +3946,9 @@
 [submodule "rh/qr/frh"]
 	path = rh/qr/frh
 	url = .
+[submodule "ri/be/ntt"]
+	path = ri/be/ntt
+	url = .
 [submodule "ri/hn/pzp"]
 	path = ri/hn/pzp
 	url = .
