@@ -3160,6 +3160,9 @@
 [submodule "ew/sh/gta"]
 	path = ew/sh/gta
 	url = .
+[submodule "ew/sq/afs"]
+	path = ew/sq/afs
+	url = .
 [submodule "ew/wl/krf"]
 	path = ew/wl/krf
 	url = .
