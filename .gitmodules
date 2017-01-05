@@ -2956,6 +2956,9 @@
 [submodule "mk/hb/qfl"]
 	path = mk/hb/qfl
 	url = .
+[submodule "mk/kf/uye"]
+	path = mk/kf/uye
+	url = .
 [submodule "ml/ao/hkx"]
 	path = ml/ao/hkx
 	url = .
