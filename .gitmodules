@@ -7567,6 +7567,9 @@
 [submodule "or/dr/pyg"]
 	path = or/dr/pyg
 	url = .
+[submodule "or/du/mnf"]
+	path = or/du/mnf
+	url = .
 [submodule "or/dy/isz"]
 	path = or/dy/isz
 	url = .
