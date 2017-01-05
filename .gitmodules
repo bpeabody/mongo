@@ -5008,6 +5008,9 @@
 [submodule "ha/xt/ypw"]
 	path = ha/xt/ypw
 	url = .
+[submodule "ha/yj/lri"]
+	path = ha/yj/lri
+	url = .
 [submodule "hb/co/cbv"]
 	path = hb/co/cbv
 	url = .
