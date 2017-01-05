@@ -25000,6 +25000,9 @@
 [submodule "qt/ke/nde"]
 	path = qt/ke/nde
 	url = .
+[submodule "qt/lb/iya"]
+	path = qt/lb/iya
+	url = .
 [submodule "qt/ms/whi"]
 	path = qt/ms/whi
 	url = .
