@@ -44734,6 +44734,9 @@
 [submodule "ro/xg/xpg"]
 	path = ro/xg/xpg
 	url = .
+[submodule "ro/xm/bpc"]
+	path = ro/xm/bpc
+	url = .
 [submodule "ro/yj/jrn"]
 	path = ro/yj/jrn
 	url = .
