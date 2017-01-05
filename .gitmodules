@@ -12466,6 +12466,9 @@
 [submodule "gm/ak/ngi"]
 	path = gm/ak/ngi
 	url = .
+[submodule "gm/cq/cpe"]
+	path = gm/cq/cpe
+	url = .
 [submodule "gm/db/uwm"]
 	path = gm/db/uwm
 	url = .
