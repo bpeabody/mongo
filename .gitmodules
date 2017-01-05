@@ -16939,6 +16939,9 @@
 [submodule "in/lv/ohq"]
 	path = in/lv/ohq
 	url = .
+[submodule "in/mu/lpj"]
+	path = in/mu/lpj
+	url = .
 [submodule "in/pc/lwm"]
 	path = in/pc/lwm
 	url = .
