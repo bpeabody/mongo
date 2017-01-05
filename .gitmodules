@@ -62500,6 +62500,9 @@
 [submodule "uq/cp/sjh"]
 	path = uq/cp/sjh
 	url = .
+[submodule "uq/dd/sup"]
+	path = uq/dd/sup
+	url = .
 [submodule "uq/dk/eqp"]
 	path = uq/dk/eqp
 	url = .
