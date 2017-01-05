@@ -6853,6 +6853,9 @@
 [submodule "mg/hy/skv"]
 	path = mg/hy/skv
 	url = .
+[submodule "mg/km/erd"]
+	path = mg/km/erd
+	url = .
 [submodule "mg/kz/lln"]
 	path = mg/kz/lln
 	url = .
