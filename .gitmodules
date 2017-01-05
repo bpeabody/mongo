@@ -3919,6 +3919,9 @@
 [submodule "bv/rb/nus"]
 	path = bv/rb/nus
 	url = .
+[submodule "bv/vl/ucr"]
+	path = bv/vl/ucr
+	url = .
 [submodule "bv/vn/hww"]
 	path = bv/vn/hww
 	url = .
