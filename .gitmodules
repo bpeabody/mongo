@@ -43696,6 +43696,9 @@
 [submodule "rx/kq/ngt"]
 	path = rx/kq/ngt
 	url = .
+[submodule "rx/lc/bej"]
+	path = rx/lc/bej
+	url = .
 [submodule "rx/lz/bdp"]
 	path = rx/lz/bdp
 	url = .
