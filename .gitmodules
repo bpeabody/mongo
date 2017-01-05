@@ -4612,6 +4612,9 @@
 [submodule "gy/mn/xtj"]
 	path = gy/mn/xtj
 	url = .
+[submodule "gy/nn/mux"]
+	path = gy/nn/mux
+	url = .
 [submodule "gy/sj/qyb"]
 	path = gy/sj/qyb
 	url = .
