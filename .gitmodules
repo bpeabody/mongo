@@ -16312,6 +16312,9 @@
 [submodule "ir/kq/ygh"]
 	path = ir/kq/ygh
 	url = .
+[submodule "ir/kv/zft"]
+	path = ir/kv/zft
+	url = .
 [submodule "ir/lq/vxs"]
 	path = ir/lq/vxs
 	url = .
