@@ -316,6 +316,9 @@
 [submodule "go/gc/yhq"]
 	path = go/gc/yhq
 	url = .
+[submodule "go/xl/lqm"]
+	path = go/xl/lqm
+	url = .
 [submodule "gp/mr/mji"]
 	path = gp/mr/mji
 	url = .
