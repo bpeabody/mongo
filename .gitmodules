@@ -3085,6 +3085,9 @@
 [submodule "dk/nn/zwe"]
 	path = dk/nn/zwe
 	url = .
+[submodule "dk/oo/rse"]
+	path = dk/oo/rse
+	url = .
 [submodule "dk/ot/zwp"]
 	path = dk/ot/zwp
 	url = .
