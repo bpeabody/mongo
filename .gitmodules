@@ -39691,6 +39691,9 @@
 [submodule "yw/sp/lus"]
 	path = yw/sp/lus
 	url = .
+[submodule "yw/ue/lxy"]
+	path = yw/ue/lxy
+	url = .
 [submodule "yw/vg/hse"]
 	path = yw/vg/hse
 	url = .
