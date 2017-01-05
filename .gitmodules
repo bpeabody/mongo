@@ -15757,6 +15757,9 @@
 [submodule "kf/fg/lwd"]
 	path = kf/fg/lwd
 	url = .
+[submodule "kf/hq/evv"]
+	path = kf/hq/evv
+	url = .
 [submodule "kf/qa/azn"]
 	path = kf/qa/azn
 	url = .
