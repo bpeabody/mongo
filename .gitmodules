@@ -6319,6 +6319,9 @@
 [submodule "jr/mm/wap"]
 	path = jr/mm/wap
 	url = .
+[submodule "jr/qs/ixh"]
+	path = jr/qs/ixh
+	url = .
 [submodule "jr/rn/thg"]
 	path = jr/rn/thg
 	url = .
