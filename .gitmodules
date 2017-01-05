@@ -29809,6 +29809,9 @@
 [submodule "qu/fc/mjg"]
 	path = qu/fc/mjg
 	url = .
+[submodule "qu/gn/wfq"]
+	path = qu/gn/wfq
+	url = .
 [submodule "qu/ia/cpo"]
 	path = qu/ia/cpo
 	url = .
