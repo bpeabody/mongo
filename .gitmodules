@@ -1135,6 +1135,9 @@
 [submodule "wj/je/lff"]
 	path = wj/je/lff
 	url = .
+[submodule "wk/hr/gyr"]
+	path = wk/hr/gyr
+	url = .
 [submodule "wl/uf/ghb"]
 	path = wl/uf/ghb
 	url = .
