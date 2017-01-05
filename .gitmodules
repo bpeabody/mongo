@@ -3676,6 +3676,9 @@
 [submodule "jr/lk/chy"]
 	path = jr/lk/chy
 	url = .
+[submodule "jr/rn/thg"]
+	path = jr/rn/thg
+	url = .
 [submodule "jr/uz/gog"]
 	path = jr/uz/gog
 	url = .
