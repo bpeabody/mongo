@@ -33940,6 +33940,9 @@
 [submodule "wm/eu/ktn"]
 	path = wm/eu/ktn
 	url = .
+[submodule "wm/gj/kvb"]
+	path = wm/gj/kvb
+	url = .
 [submodule "wm/hh/ane"]
 	path = wm/hh/ane
 	url = .
