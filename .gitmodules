@@ -13330,6 +13330,9 @@
 [submodule "we/ix/ffb"]
 	path = we/ix/ffb
 	url = .
+[submodule "we/mv/cqp"]
+	path = we/mv/cqp
+	url = .
 [submodule "we/nw/jgn"]
 	path = we/nw/jgn
 	url = .
