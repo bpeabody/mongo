@@ -46852,6 +46852,9 @@
 [submodule "qi/io/kyq"]
 	path = qi/io/kyq
 	url = .
+[submodule "qi/iy/sul"]
+	path = qi/iy/sul
+	url = .
 [submodule "qi/jc/lfk"]
 	path = qi/jc/lfk
 	url = .
