@@ -1912,6 +1912,9 @@
 [submodule "hi/qk/wcj"]
 	path = hi/qk/wcj
 	url = .
+[submodule "hi/tj/kle"]
+	path = hi/tj/kle
+	url = .
 [submodule "hi/xv/uit"]
 	path = hi/xv/uit
 	url = .
