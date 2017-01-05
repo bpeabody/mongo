@@ -460,6 +460,9 @@
 [submodule "ep/af/pop"]
 	path = ep/af/pop
 	url = .
+[submodule "ep/su/bob"]
+	path = ep/su/bob
+	url = .
 [submodule "er/pl/ybq"]
 	path = er/pl/ybq
 	url = .
