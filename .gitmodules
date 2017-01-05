@@ -757,6 +757,9 @@
 [submodule "jl/xg/jto"]
 	path = jl/xg/jto
 	url = .
+[submodule "jl/yx/cji"]
+	path = jl/yx/cji
+	url = .
 [submodule "jo/ic/xtu"]
 	path = jo/ic/xtu
 	url = .
