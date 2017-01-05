@@ -310,6 +310,9 @@
 [submodule "ae/dj/knt"]
 	path = ae/dj/knt
 	url = .
+[submodule "ae/em/wea"]
+	path = ae/em/wea
+	url = .
 [submodule "ae/es/xbv"]
 	path = ae/es/xbv
 	url = .
