@@ -7717,6 +7717,9 @@
 [submodule "qt/zv/qla"]
 	path = qt/zv/qla
 	url = .
+[submodule "qu/bd/uxt"]
+	path = qu/bd/uxt
+	url = .
 [submodule "qu/bn/iki"]
 	path = qu/bn/iki
 	url = .
