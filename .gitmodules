@@ -4987,6 +4987,9 @@
 [submodule "sf/ne/luj"]
 	path = sf/ne/luj
 	url = .
+[submodule "sf/rq/few"]
+	path = sf/rq/few
+	url = .
 [submodule "sf/sc/wwf"]
 	path = sf/sc/wwf
 	url = .
