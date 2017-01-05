@@ -25660,6 +25660,9 @@
 [submodule "uo/lc/rnh"]
 	path = uo/lc/rnh
 	url = .
+[submodule "uo/lv/irm"]
+	path = uo/lv/irm
+	url = .
 [submodule "uo/ly/ssz"]
 	path = uo/ly/ssz
 	url = .
