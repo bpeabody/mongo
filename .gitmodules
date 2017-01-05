@@ -18988,6 +18988,9 @@
 [submodule "id/iv/jdc"]
 	path = id/iv/jdc
 	url = .
+[submodule "id/jk/syz"]
+	path = id/jk/syz
+	url = .
 [submodule "id/la/flj"]
 	path = id/la/flj
 	url = .
