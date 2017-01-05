@@ -1570,6 +1570,9 @@
 [submodule "bs/dj/iyk"]
 	path = bs/dj/iyk
 	url = .
+[submodule "bs/gs/qif"]
+	path = bs/gs/qif
+	url = .
 [submodule "bs/mn/keq"]
 	path = bs/mn/keq
 	url = .
