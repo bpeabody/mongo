@@ -58492,6 +58492,9 @@
 [submodule "tj/de/azi"]
 	path = tj/de/azi
 	url = .
+[submodule "tj/fg/qhz"]
+	path = tj/fg/qhz
+	url = .
 [submodule "tj/fk/qdw"]
 	path = tj/fk/qdw
 	url = .
