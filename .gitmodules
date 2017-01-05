@@ -6400,6 +6400,9 @@
 [submodule "dd/in/ckw"]
 	path = dd/in/ckw
 	url = .
+[submodule "dd/jp/cks"]
+	path = dd/jp/cks
+	url = .
 [submodule "dd/kq/hpu"]
 	path = dd/kq/hpu
 	url = .
