@@ -12193,6 +12193,9 @@
 [submodule "lp/ht/myr"]
 	path = lp/ht/myr
 	url = .
+[submodule "lp/pj/uor"]
+	path = lp/pj/uor
+	url = .
 [submodule "lp/qb/ret"]
 	path = lp/qb/ret
 	url = .
