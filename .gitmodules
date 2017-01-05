@@ -2407,6 +2407,9 @@
 [submodule "ca/xu/kwv"]
 	path = ca/xu/kwv
 	url = .
+[submodule "ca/yi/spj"]
+	path = ca/yi/spj
+	url = .
 [submodule "cb/bj/xgc"]
 	path = cb/bj/xgc
 	url = .
