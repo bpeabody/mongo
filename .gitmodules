@@ -20668,6 +20668,9 @@
 [submodule "rb/qr/iws"]
 	path = rb/qr/iws
 	url = .
+[submodule "rb/qs/poo"]
+	path = rb/qs/poo
+	url = .
 [submodule "rb/rl/bvp"]
 	path = rb/rl/bvp
 	url = .
