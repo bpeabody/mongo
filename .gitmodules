@@ -9409,6 +9409,9 @@
 [submodule "yo/ej/snv"]
 	path = yo/ej/snv
 	url = .
+[submodule "yo/ga/tey"]
+	path = yo/ga/tey
+	url = .
 [submodule "yo/hm/aai"]
 	path = yo/hm/aai
 	url = .
