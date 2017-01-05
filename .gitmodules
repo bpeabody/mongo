@@ -15868,6 +15868,9 @@
 [submodule "gx/oh/cjk"]
 	path = gx/oh/cjk
 	url = .
+[submodule "gx/om/smz"]
+	path = gx/om/smz
+	url = .
 [submodule "gx/pb/qob"]
 	path = gx/pb/qob
 	url = .
