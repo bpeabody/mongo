@@ -60211,6 +60211,9 @@
 [submodule "vw/dj/wgp"]
 	path = vw/dj/wgp
 	url = .
+[submodule "vw/dw/mqm"]
+	path = vw/dw/mqm
+	url = .
 [submodule "vw/er/jbc"]
 	path = vw/er/jbc
 	url = .
