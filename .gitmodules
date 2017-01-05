@@ -5752,6 +5752,9 @@
 [submodule "ec/zs/uib"]
 	path = ec/zs/uib
 	url = .
+[submodule "ed/cx/lih"]
+	path = ed/cx/lih
+	url = .
 [submodule "ed/it/duk"]
 	path = ed/it/duk
 	url = .
