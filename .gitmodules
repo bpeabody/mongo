@@ -18517,6 +18517,9 @@
 [submodule "ns/bp/sls"]
 	path = ns/bp/sls
 	url = .
+[submodule "ns/fu/tqy"]
+	path = ns/fu/tqy
+	url = .
 [submodule "ns/gz/zel"]
 	path = ns/gz/zel
 	url = .
