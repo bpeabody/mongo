@@ -33067,6 +33067,9 @@
 [submodule "qt/lb/ltm"]
 	path = qt/lb/ltm
 	url = .
+[submodule "qt/lg/tqe"]
+	path = qt/lg/tqe
+	url = .
 [submodule "qt/ms/whi"]
 	path = qt/ms/whi
 	url = .
