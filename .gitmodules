@@ -4234,6 +4234,9 @@
 [submodule "bm/jf/gnt"]
 	path = bm/jf/gnt
 	url = .
+[submodule "bm/jq/ycw"]
+	path = bm/jq/ycw
+	url = .
 [submodule "bm/jx/jgc"]
 	path = bm/jx/jgc
 	url = .
