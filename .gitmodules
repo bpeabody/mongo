@@ -1354,6 +1354,9 @@
 [submodule "kc/ec/acn"]
 	path = kc/ec/acn
 	url = .
+[submodule "kc/gq/ygz"]
+	path = kc/gq/ygz
+	url = .
 [submodule "kc/lz/aoc"]
 	path = kc/lz/aoc
 	url = .
