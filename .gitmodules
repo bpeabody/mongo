@@ -13192,6 +13192,9 @@
 [submodule "hn/xl/kme"]
 	path = hn/xl/kme
 	url = .
+[submodule "ho/bq/edv"]
+	path = ho/bq/edv
+	url = .
 [submodule "ho/dr/jvn"]
 	path = ho/dr/jvn
 	url = .
