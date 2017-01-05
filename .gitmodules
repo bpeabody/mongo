@@ -5200,6 +5200,9 @@
 [submodule "kb/nc/meo"]
 	path = kb/nc/meo
 	url = .
+[submodule "kb/np/jjd"]
+	path = kb/np/jjd
+	url = .
 [submodule "kb/tp/zov"]
 	path = kb/tp/zov
 	url = .
