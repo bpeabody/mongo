@@ -34264,6 +34264,9 @@
 [submodule "mk/fi/nul"]
 	path = mk/fi/nul
 	url = .
+[submodule "mk/fm/llu"]
+	path = mk/fm/llu
+	url = .
 [submodule "mk/gi/any"]
 	path = mk/gi/any
 	url = .
