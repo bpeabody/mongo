@@ -6907,6 +6907,9 @@
 [submodule "ss/do/dwh"]
 	path = ss/do/dwh
 	url = .
+[submodule "ss/ou/die"]
+	path = ss/ou/die
+	url = .
 [submodule "ss/uu/tbn"]
 	path = ss/uu/tbn
 	url = .
