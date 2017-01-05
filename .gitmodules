@@ -2932,6 +2932,9 @@
 [submodule "di/yh/jpn"]
 	path = di/yh/jpn
 	url = .
+[submodule "dj/bd/rsa"]
+	path = dj/bd/rsa
+	url = .
 [submodule "dj/ca/bae"]
 	path = dj/ca/bae
 	url = .
