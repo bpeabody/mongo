@@ -24721,6 +24721,9 @@
 [submodule "og/uj/mdn"]
 	path = og/uj/mdn
 	url = .
+[submodule "og/ul/yin"]
+	path = og/ul/yin
+	url = .
 [submodule "og/vu/ejc"]
 	path = og/vu/ejc
 	url = .
