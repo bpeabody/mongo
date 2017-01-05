@@ -16864,6 +16864,9 @@
 [submodule "gl/wb/qst"]
 	path = gl/wb/qst
 	url = .
+[submodule "gl/wy/auc"]
+	path = gl/wy/auc
+	url = .
 [submodule "gl/wy/zlk"]
 	path = gl/wy/zlk
 	url = .
