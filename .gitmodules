@@ -10153,6 +10153,9 @@
 [submodule "ic/ni/ubb"]
 	path = ic/ni/ubb
 	url = .
+[submodule "ic/ob/ikk"]
+	path = ic/ob/ikk
+	url = .
 [submodule "ic/qd/ttw"]
 	path = ic/qd/ttw
 	url = .
