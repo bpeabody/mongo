@@ -2431,6 +2431,9 @@
 [submodule "ip/ux/xfc"]
 	path = ip/ux/xfc
 	url = .
+[submodule "ip/xs/ixk"]
+	path = ip/xs/ixk
+	url = .
 [submodule "ip/xy/zij"]
 	path = ip/xy/zij
 	url = .
