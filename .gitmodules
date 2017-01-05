@@ -5194,6 +5194,9 @@
 [submodule "dc/du/hru"]
 	path = dc/du/hru
 	url = .
+[submodule "dc/ef/gjz"]
+	path = dc/ef/gjz
+	url = .
 [submodule "dc/fm/csm"]
 	path = dc/fm/csm
 	url = .
