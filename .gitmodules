@@ -10102,6 +10102,9 @@
 [submodule "es/ge/vcv"]
 	path = es/ge/vcv
 	url = .
+[submodule "es/gh/xqc"]
+	path = es/gh/xqc
+	url = .
 [submodule "es/gi/slk"]
 	path = es/gi/slk
 	url = .
