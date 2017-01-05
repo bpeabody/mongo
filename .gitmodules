@@ -71623,6 +71623,9 @@
 [submodule "yr/kd/cdq"]
 	path = yr/kd/cdq
 	url = .
+[submodule "yr/kl/ydy"]
+	path = yr/kl/ydy
+	url = .
 [submodule "yr/lf/hvo"]
 	path = yr/lf/hvo
 	url = .
