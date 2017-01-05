@@ -14257,6 +14257,9 @@
 [submodule "wh/qs/obv"]
 	path = wh/qs/obv
 	url = .
+[submodule "wh/tk/euh"]
+	path = wh/tk/euh
+	url = .
 [submodule "wh/tr/mvi"]
 	path = wh/tr/mvi
 	url = .
