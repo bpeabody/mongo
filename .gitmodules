@@ -367,6 +367,9 @@
 [submodule "pr/xz/zfm"]
 	path = pr/xz/zfm
 	url = .
+[submodule "pv/ad/nni"]
+	path = pv/ad/nni
+	url = .
 [submodule "pv/ca/bhp"]
 	path = pv/ca/bhp
 	url = .
