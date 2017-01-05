@@ -7759,6 +7759,9 @@
 [submodule "cw/rj/cft"]
 	path = cw/rj/cft
 	url = .
+[submodule "cw/rj/paa"]
+	path = cw/rj/paa
+	url = .
 [submodule "cw/si/ydv"]
 	path = cw/si/ydv
 	url = .
