@@ -69508,6 +69508,9 @@
 [submodule "yk/rl/tda"]
 	path = yk/rl/tda
 	url = .
+[submodule "yk/rn/nhn"]
+	path = yk/rn/nhn
+	url = .
 [submodule "yk/tw/jtz"]
 	path = yk/tw/jtz
 	url = .
