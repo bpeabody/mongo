@@ -703,6 +703,9 @@
 [submodule "eq/io/des"]
 	path = eq/io/des
 	url = .
+[submodule "er/ih/nrk"]
+	path = er/ih/nrk
+	url = .
 [submodule "er/pl/ybq"]
 	path = er/pl/ybq
 	url = .
