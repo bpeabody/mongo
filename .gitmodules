@@ -30169,6 +30169,9 @@
 [submodule "wl/ig/bek"]
 	path = wl/ig/bek
 	url = .
+[submodule "wl/ju/hxh"]
+	path = wl/ju/hxh
+	url = .
 [submodule "wl/jy/xpg"]
 	path = wl/jy/xpg
 	url = .
