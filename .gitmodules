@@ -41335,6 +41335,9 @@
 [submodule "qa/vs/agi"]
 	path = qa/vs/agi
 	url = .
+[submodule "qa/wm/bek"]
+	path = qa/wm/bek
+	url = .
 [submodule "qa/wo/dtm"]
 	path = qa/wo/dtm
 	url = .
