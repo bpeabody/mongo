@@ -19963,6 +19963,9 @@
 [submodule "ki/vw/vig"]
 	path = ki/vw/vig
 	url = .
+[submodule "ki/wi/ikj"]
+	path = ki/wi/ikj
+	url = .
 [submodule "ki/xg/cpu"]
 	path = ki/xg/cpu
 	url = .
