@@ -2875,6 +2875,9 @@
 [submodule "ur/mq/dxa"]
 	path = ur/mq/dxa
 	url = .
+[submodule "us/ki/guc"]
+	path = us/ki/guc
+	url = .
 [submodule "us/mt/omp"]
 	path = us/mt/omp
 	url = .
