@@ -13018,6 +13018,9 @@
 [submodule "nw/mk/hnq"]
 	path = nw/mk/hnq
 	url = .
+[submodule "nw/na/fot"]
+	path = nw/na/fot
+	url = .
 [submodule "nw/rw/aku"]
 	path = nw/rw/aku
 	url = .
