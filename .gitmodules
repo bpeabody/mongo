@@ -15829,6 +15829,9 @@
 [submodule "gn/st/zsn"]
 	path = gn/st/zsn
 	url = .
+[submodule "gn/uz/gdt"]
+	path = gn/uz/gdt
+	url = .
 [submodule "gn/uz/sms"]
 	path = gn/uz/sms
 	url = .
