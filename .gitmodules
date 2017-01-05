@@ -15379,6 +15379,9 @@
 [submodule "lc/nd/tdu"]
 	path = lc/nd/tdu
 	url = .
+[submodule "lc/ne/fxj"]
+	path = lc/ne/fxj
+	url = .
 [submodule "lc/nk/wre"]
 	path = lc/nk/wre
 	url = .
