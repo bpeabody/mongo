@@ -3631,6 +3631,9 @@
 [submodule "bo/vz/nda"]
 	path = bo/vz/nda
 	url = .
+[submodule "bo/wb/euj"]
+	path = bo/wb/euj
+	url = .
 [submodule "bo/yf/vwg"]
 	path = bo/yf/vwg
 	url = .
