@@ -2164,6 +2164,9 @@
 [submodule "bc/al/hfs"]
 	path = bc/al/hfs
 	url = .
+[submodule "bc/bu/sve"]
+	path = bc/bu/sve
+	url = .
 [submodule "bc/bx/kis"]
 	path = bc/bx/kis
 	url = .
