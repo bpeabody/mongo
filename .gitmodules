@@ -29902,6 +29902,9 @@
 [submodule "ni/eh/igv"]
 	path = ni/eh/igv
 	url = .
+[submodule "ni/fe/bkb"]
+	path = ni/fe/bkb
+	url = .
 [submodule "ni/fr/cmc"]
 	path = ni/fr/cmc
 	url = .
