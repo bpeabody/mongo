@@ -13111,6 +13111,9 @@
 [submodule "jl/zd/qlq"]
 	path = jl/zd/qlq
 	url = .
+[submodule "jm/ad/lch"]
+	path = jm/ad/lch
+	url = .
 [submodule "jm/dc/dbz"]
 	path = jm/dc/dbz
 	url = .
