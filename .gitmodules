@@ -1048,6 +1048,9 @@
 [submodule "aj/dx/vxb"]
 	path = aj/dx/vxb
 	url = .
+[submodule "aj/ga/wax"]
+	path = aj/ga/wax
+	url = .
 [submodule "aj/gm/wcy"]
 	path = aj/gm/wcy
 	url = .
