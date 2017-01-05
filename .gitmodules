@@ -14572,6 +14572,9 @@
 [submodule "ew/nu/jnn"]
 	path = ew/nu/jnn
 	url = .
+[submodule "ew/nv/csc"]
+	path = ew/nv/csc
+	url = .
 [submodule "ew/ok/xqf"]
 	path = ew/ok/xqf
 	url = .
