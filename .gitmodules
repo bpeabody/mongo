@@ -880,6 +880,9 @@
 [submodule "rn/eo/eux"]
 	path = rn/eo/eux
 	url = .
+[submodule "rp/ro/lng"]
+	path = rp/ro/lng
+	url = .
 [submodule "rp/rt/ete"]
 	path = rp/rt/ete
 	url = .
