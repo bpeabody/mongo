@@ -36826,6 +36826,9 @@
 [submodule "nf/zq/nzp"]
 	path = nf/zq/nzp
 	url = .
+[submodule "ng/aq/hre"]
+	path = ng/aq/hre
+	url = .
 [submodule "ng/bc/etg"]
 	path = ng/bc/etg
 	url = .
