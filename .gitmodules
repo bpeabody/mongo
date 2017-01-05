@@ -14701,6 +14701,9 @@
 [submodule "wl/jy/xpg"]
 	path = wl/jy/xpg
 	url = .
+[submodule "wl/nh/jrp"]
+	path = wl/nh/jrp
+	url = .
 [submodule "wl/uf/ghb"]
 	path = wl/uf/ghb
 	url = .
