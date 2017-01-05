@@ -11314,6 +11314,9 @@
 [submodule "jv/hu/zrn"]
 	path = jv/hu/zrn
 	url = .
+[submodule "jv/kf/oqr"]
+	path = jv/kf/oqr
+	url = .
 [submodule "jv/no/vqn"]
 	path = jv/no/vqn
 	url = .
