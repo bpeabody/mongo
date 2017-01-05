@@ -6049,6 +6049,9 @@
 [submodule "rj/dm/obm"]
 	path = rj/dm/obm
 	url = .
+[submodule "rj/hh/qmv"]
+	path = rj/hh/qmv
+	url = .
 [submodule "rj/wk/xrl"]
 	path = rj/wk/xrl
 	url = .
