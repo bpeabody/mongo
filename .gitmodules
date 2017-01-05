@@ -5041,6 +5041,9 @@
 [submodule "fq/xg/chk"]
 	path = fq/xg/chk
 	url = .
+[submodule "fr/dm/wdv"]
+	path = fr/dm/wdv
+	url = .
 [submodule "fr/lu/xnz"]
 	path = fr/lu/xnz
 	url = .
