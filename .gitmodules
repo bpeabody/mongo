@@ -19528,6 +19528,9 @@
 [submodule "iw/fp/gza"]
 	path = iw/fp/gza
 	url = .
+[submodule "iw/gi/qah"]
+	path = iw/gi/qah
+	url = .
 [submodule "iw/hc/rmd"]
 	path = iw/hc/rmd
 	url = .
