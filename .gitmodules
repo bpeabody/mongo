@@ -26572,6 +26572,9 @@
 [submodule "vj/ah/tuk"]
 	path = vj/ah/tuk
 	url = .
+[submodule "vj/ba/hgc"]
+	path = vj/ba/hgc
+	url = .
 [submodule "vj/cz/wun"]
 	path = vj/cz/wun
 	url = .
