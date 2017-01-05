@@ -2644,6 +2644,9 @@
 [submodule "bs/an/mzh"]
 	path = bs/an/mzh
 	url = .
+[submodule "bs/bd/kpm"]
+	path = bs/bd/kpm
+	url = .
 [submodule "bs/bq/zih"]
 	path = bs/bq/zih
 	url = .
