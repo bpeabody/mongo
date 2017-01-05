@@ -571,6 +571,9 @@
 [submodule "an/le/ywv"]
 	path = an/le/ywv
 	url = .
+[submodule "an/nc/npy"]
+	path = an/nc/npy
+	url = .
 [submodule "an/tc/pvv"]
 	path = an/tc/pvv
 	url = .
