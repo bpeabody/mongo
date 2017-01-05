@@ -44080,6 +44080,9 @@
 [submodule "ww/ln/bpd"]
 	path = ww/ln/bpd
 	url = .
+[submodule "ww/mk/wbt"]
+	path = ww/mk/wbt
+	url = .
 [submodule "ww/mm/vaj"]
 	path = ww/mm/vaj
 	url = .
