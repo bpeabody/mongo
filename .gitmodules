@@ -1378,6 +1378,9 @@
 [submodule "gr/gm/ttj"]
 	path = gr/gm/ttj
 	url = .
+[submodule "gr/ii/qpy"]
+	path = gr/ii/qpy
+	url = .
 [submodule "gr/nx/xhu"]
 	path = gr/nx/xhu
 	url = .
