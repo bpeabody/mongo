@@ -34570,6 +34570,9 @@
 [submodule "wq/mg/dze"]
 	path = wq/mg/dze
 	url = .
+[submodule "wq/qv/gvp"]
+	path = wq/qv/gvp
+	url = .
 [submodule "wq/sf/wzu"]
 	path = wq/sf/wzu
 	url = .
