@@ -12682,6 +12682,9 @@
 [submodule "kz/ds/fcs"]
 	path = kz/ds/fcs
 	url = .
+[submodule "kz/ei/aqs"]
+	path = kz/ei/aqs
+	url = .
 [submodule "kz/fe/fbj"]
 	path = kz/fe/fbj
 	url = .
