@@ -460,6 +460,9 @@
 [submodule "ai/ll/mes"]
 	path = ai/ll/mes
 	url = .
+[submodule "ai/on/lfa"]
+	path = ai/on/lfa
+	url = .
 [submodule "ai/ou/kni"]
 	path = ai/ou/kni
 	url = .
