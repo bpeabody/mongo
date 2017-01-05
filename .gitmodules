@@ -27910,6 +27910,9 @@
 [submodule "qf/gn/pcs"]
 	path = qf/gn/pcs
 	url = .
+[submodule "qf/gt/rny"]
+	path = qf/gt/rny
+	url = .
 [submodule "qf/hc/osn"]
 	path = qf/hc/osn
 	url = .
