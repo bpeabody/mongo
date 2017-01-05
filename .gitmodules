@@ -13723,6 +13723,9 @@
 [submodule "qn/kg/yse"]
 	path = qn/kg/yse
 	url = .
+[submodule "qn/pp/vwo"]
+	path = qn/pp/vwo
+	url = .
 [submodule "qn/rm/ptp"]
 	path = qn/rm/ptp
 	url = .
