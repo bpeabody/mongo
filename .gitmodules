@@ -10144,6 +10144,9 @@
 [submodule "dq/na/zvb"]
 	path = dq/na/zvb
 	url = .
+[submodule "dq/nv/vsk"]
+	path = dq/nv/vsk
+	url = .
 [submodule "dq/pf/nvc"]
 	path = dq/pf/nvc
 	url = .
