@@ -39337,6 +39337,9 @@
 [submodule "rh/av/dun"]
 	path = rh/av/dun
 	url = .
+[submodule "rh/bb/ttn"]
+	path = rh/bb/ttn
+	url = .
 [submodule "rh/dh/jce"]
 	path = rh/dh/jce
 	url = .
