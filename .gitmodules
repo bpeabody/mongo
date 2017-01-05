@@ -38356,6 +38356,9 @@
 [submodule "qi/hl/kru"]
 	path = qi/hl/kru
 	url = .
+[submodule "qi/hy/oso"]
+	path = qi/hy/oso
+	url = .
 [submodule "qi/id/nuq"]
 	path = qi/id/nuq
 	url = .
