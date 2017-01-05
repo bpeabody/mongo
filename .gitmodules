@@ -9730,6 +9730,9 @@
 [submodule "ez/dx/uom"]
 	path = ez/dx/uom
 	url = .
+[submodule "ez/gc/azn"]
+	path = ez/gc/azn
+	url = .
 [submodule "ez/gd/rka"]
 	path = ez/gd/rka
 	url = .
