@@ -466,6 +466,9 @@
 [submodule "hz/mp/odp"]
 	path = hz/mp/odp
 	url = .
+[submodule "ia/jw/qot"]
+	path = ia/jw/qot
+	url = .
 [submodule "id/av/buj"]
 	path = id/av/buj
 	url = .
