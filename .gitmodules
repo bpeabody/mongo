@@ -24652,6 +24652,9 @@
 [submodule "lt/jz/wal"]
 	path = lt/jz/wal
 	url = .
+[submodule "lt/lq/jvr"]
+	path = lt/lq/jvr
+	url = .
 [submodule "lt/ly/yqc"]
 	path = lt/ly/yqc
 	url = .
