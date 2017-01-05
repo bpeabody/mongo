@@ -12718,6 +12718,9 @@
 [submodule "mt/gp/lvn"]
 	path = mt/gp/lvn
 	url = .
+[submodule "mt/nj/hmc"]
+	path = mt/nj/hmc
+	url = .
 [submodule "mt/ow/ecc"]
 	path = mt/ow/ecc
 	url = .
