@@ -16678,6 +16678,9 @@
 [submodule "im/hy/bxk"]
 	path = im/hy/bxk
 	url = .
+[submodule "im/ij/hig"]
+	path = im/ij/hig
+	url = .
 [submodule "im/lj/xua"]
 	path = im/lj/xua
 	url = .
