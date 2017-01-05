@@ -11116,6 +11116,9 @@
 [submodule "ix/tq/lyo"]
 	path = ix/tq/lyo
 	url = .
+[submodule "ix/uq/pak"]
+	path = ix/uq/pak
+	url = .
 [submodule "ix/vf/qjr"]
 	path = ix/vf/qjr
 	url = .
