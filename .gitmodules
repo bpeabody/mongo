@@ -20338,6 +20338,9 @@
 [submodule "ij/vo/kdy"]
 	path = ij/vo/kdy
 	url = .
+[submodule "ij/vz/jmq"]
+	path = ij/vz/jmq
+	url = .
 [submodule "ij/wk/esa"]
 	path = ij/wk/esa
 	url = .
