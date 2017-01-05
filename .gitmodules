@@ -7546,6 +7546,9 @@
 [submodule "qn/zk/lni"]
 	path = qn/zk/lni
 	url = .
+[submodule "qo/sk/wsu"]
+	path = qo/sk/wsu
+	url = .
 [submodule "qp/ag/dia"]
 	path = qp/ag/dia
 	url = .
