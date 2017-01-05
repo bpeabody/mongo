@@ -13450,6 +13450,9 @@
 [submodule "lb/eb/mxu"]
 	path = lb/eb/mxu
 	url = .
+[submodule "lb/fh/kyw"]
+	path = lb/fh/kyw
+	url = .
 [submodule "lb/gm/bxq"]
 	path = lb/gm/bxq
 	url = .
