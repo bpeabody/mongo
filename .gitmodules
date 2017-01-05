@@ -25327,6 +25327,9 @@
 [submodule "um/lx/xcd"]
 	path = um/lx/xcd
 	url = .
+[submodule "um/og/ngm"]
+	path = um/og/ngm
+	url = .
 [submodule "um/ok/age"]
 	path = um/ok/age
 	url = .
