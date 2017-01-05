@@ -3088,6 +3088,9 @@
 [submodule "df/pk/bbz"]
 	path = df/pk/bbz
 	url = .
+[submodule "df/pm/bbi"]
+	path = df/pm/bbi
+	url = .
 [submodule "df/qs/enf"]
 	path = df/qs/enf
 	url = .
