@@ -3493,6 +3493,9 @@
 [submodule "bu/mr/yxf"]
 	path = bu/mr/yxf
 	url = .
+[submodule "bu/no/voo"]
+	path = bu/no/voo
+	url = .
 [submodule "bu/pc/tpi"]
 	path = bu/pc/tpi
 	url = .
