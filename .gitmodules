@@ -11659,6 +11659,9 @@
 [submodule "fn/pc/iqm"]
 	path = fn/pc/iqm
 	url = .
+[submodule "fn/pq/uup"]
+	path = fn/pq/uup
+	url = .
 [submodule "fn/qj/uti"]
 	path = fn/qj/uti
 	url = .
