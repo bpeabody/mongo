@@ -4618,6 +4618,9 @@
 [submodule "cf/xq/xkp"]
 	path = cf/xq/xkp
 	url = .
+[submodule "cf/zh/nbc"]
+	path = cf/zh/nbc
+	url = .
 [submodule "cf/zi/twf"]
 	path = cf/zi/twf
 	url = .
