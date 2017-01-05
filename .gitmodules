@@ -598,6 +598,9 @@
 [submodule "al/lg/gfj"]
 	path = al/lg/gfj
 	url = .
+[submodule "al/ll/qxy"]
+	path = al/ll/qxy
+	url = .
 [submodule "al/nd/oul"]
 	path = al/nd/oul
 	url = .
