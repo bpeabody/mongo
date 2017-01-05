@@ -72472,6 +72472,9 @@
 [submodule "zd/pv/lvj"]
 	path = zd/pv/lvj
 	url = .
+[submodule "zd/pz/qpd"]
+	path = zd/pz/qpd
+	url = .
 [submodule "zd/rf/mqt"]
 	path = zd/rf/mqt
 	url = .
