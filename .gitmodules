@@ -7081,6 +7081,9 @@
 [submodule "rc/ef/cuy"]
 	path = rc/ef/cuy
 	url = .
+[submodule "rc/mn/cat"]
+	path = rc/mn/cat
+	url = .
 [submodule "rc/mp/dyf"]
 	path = rc/mp/dyf
 	url = .
