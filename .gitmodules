@@ -19480,6 +19480,9 @@
 [submodule "te/wt/bmn"]
 	path = te/wt/bmn
 	url = .
+[submodule "te/xm/ako"]
+	path = te/xm/ako
+	url = .
 [submodule "tf/aq/esa"]
 	path = tf/aq/esa
 	url = .
