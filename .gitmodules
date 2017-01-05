@@ -16180,6 +16180,9 @@
 [submodule "gw/ri/ooj"]
 	path = gw/ri/ooj
 	url = .
+[submodule "gw/rq/bsc"]
+	path = gw/rq/bsc
+	url = .
 [submodule "gw/ux/ega"]
 	path = gw/ux/ega
 	url = .
