@@ -3916,6 +3916,9 @@
 [submodule "fh/ko/dii"]
 	path = fh/ko/dii
 	url = .
+[submodule "fh/mn/ykl"]
+	path = fh/mn/ykl
+	url = .
 [submodule "fh/nt/hyw"]
 	path = fh/nt/hyw
 	url = .
