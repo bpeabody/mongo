@@ -16759,6 +16759,9 @@
 [submodule "wb/jx/ijn"]
 	path = wb/jx/ijn
 	url = .
+[submodule "wb/ow/yui"]
+	path = wb/ow/yui
+	url = .
 [submodule "wb/qg/pqg"]
 	path = wb/qg/pqg
 	url = .
