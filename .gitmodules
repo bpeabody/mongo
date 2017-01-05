@@ -1210,6 +1210,9 @@
 [submodule "lm/bn/iku"]
 	path = lm/bn/iku
 	url = .
+[submodule "ln/cg/kbx"]
+	path = ln/cg/kbx
+	url = .
 [submodule "lo/ga/for"]
 	path = lo/ga/for
 	url = .
