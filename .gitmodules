@@ -2128,6 +2128,9 @@
 [submodule "ct/pi/alu"]
 	path = ct/pi/alu
 	url = .
+[submodule "ct/qf/xse"]
+	path = ct/qf/xse
+	url = .
 [submodule "ct/sh/jjj"]
 	path = ct/sh/jjj
 	url = .
