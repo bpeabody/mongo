@@ -40990,6 +40990,9 @@
 [submodule "wg/fw/nrj"]
 	path = wg/fw/nrj
 	url = .
+[submodule "wg/gj/ggb"]
+	path = wg/gj/ggb
+	url = .
 [submodule "wg/gz/gpm"]
 	path = wg/gz/gpm
 	url = .
