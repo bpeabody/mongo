@@ -36604,6 +36604,9 @@
 [submodule "xx/eq/joe"]
 	path = xx/eq/joe
 	url = .
+[submodule "xx/fy/ygd"]
+	path = xx/fy/ygd
+	url = .
 [submodule "xx/jb/dks"]
 	path = xx/jb/dks
 	url = .
