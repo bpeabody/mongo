@@ -4957,6 +4957,9 @@
 [submodule "tg/xw/czu"]
 	path = tg/xw/czu
 	url = .
+[submodule "th/af/abi"]
+	path = th/af/abi
+	url = .
 [submodule "th/bc/cmk"]
 	path = th/bc/cmk
 	url = .
