@@ -4183,6 +4183,9 @@
 [submodule "kh/oe/nix"]
 	path = kh/oe/nix
 	url = .
+[submodule "kh/pb/pjm"]
+	path = kh/pb/pjm
+	url = .
 [submodule "kh/re/nev"]
 	path = kh/re/nev
 	url = .
