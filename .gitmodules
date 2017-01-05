@@ -12148,6 +12148,9 @@
 [submodule "en/ur/aye"]
 	path = en/ur/aye
 	url = .
+[submodule "en/wa/aqr"]
+	path = en/wa/aqr
+	url = .
 [submodule "en/wo/zqa"]
 	path = en/wo/zqa
 	url = .
