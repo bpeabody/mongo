@@ -4675,6 +4675,9 @@
 [submodule "ec/kc/ivp"]
 	path = ec/kc/ivp
 	url = .
+[submodule "ec/lm/kqb"]
+	path = ec/lm/kqb
+	url = .
 [submodule "ec/nh/sae"]
 	path = ec/nh/sae
 	url = .
