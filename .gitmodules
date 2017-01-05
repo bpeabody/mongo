@@ -5680,6 +5680,9 @@
 [submodule "cj/vv/bvb"]
 	path = cj/vv/bvb
 	url = .
+[submodule "cj/ws/hnk"]
+	path = cj/ws/hnk
+	url = .
 [submodule "ck/an/asi"]
 	path = ck/an/asi
 	url = .
