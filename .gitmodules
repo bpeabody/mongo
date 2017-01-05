@@ -54883,6 +54883,9 @@
 [submodule "vw/rb/qvy"]
 	path = vw/rb/qvy
 	url = .
+[submodule "vw/rh/qvs"]
+	path = vw/rh/qvs
+	url = .
 [submodule "vw/ug/rru"]
 	path = vw/ug/rru
 	url = .
