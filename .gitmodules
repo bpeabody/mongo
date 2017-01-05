@@ -51277,6 +51277,9 @@
 [submodule "wi/az/tuh"]
 	path = wi/az/tuh
 	url = .
+[submodule "wi/bb/vex"]
+	path = wi/bb/vex
+	url = .
 [submodule "wi/eq/ufk"]
 	path = wi/eq/ufk
 	url = .
