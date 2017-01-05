@@ -67,6 +67,9 @@
 [submodule "aa/uz/vij"]
 	path = aa/uz/vij
 	url = .
+[submodule "aa/vl/mzu"]
+	path = aa/vl/mzu
+	url = .
 [submodule "aa/ws/pmk"]
 	path = aa/ws/pmk
 	url = .
