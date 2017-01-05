@@ -4255,6 +4255,9 @@
 [submodule "ct/ry/fsl"]
 	path = ct/ry/fsl
 	url = .
+[submodule "ct/sf/wjs"]
+	path = ct/sf/wjs
+	url = .
 [submodule "ct/sh/jjj"]
 	path = ct/sh/jjj
 	url = .
