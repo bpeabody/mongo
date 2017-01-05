@@ -24250,6 +24250,9 @@
 [submodule "sv/fx/lkt"]
 	path = sv/fx/lkt
 	url = .
+[submodule "sv/gf/mpq"]
+	path = sv/gf/mpq
+	url = .
 [submodule "sv/gf/rpd"]
 	path = sv/gf/rpd
 	url = .
