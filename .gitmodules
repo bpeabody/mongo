@@ -1234,6 +1234,9 @@
 [submodule "ho/uy/dyt"]
 	path = ho/uy/dyt
 	url = .
+[submodule "hp/kh/wul"]
+	path = hp/kh/wul
+	url = .
 [submodule "hp/yu/mfe"]
 	path = hp/yu/mfe
 	url = .
