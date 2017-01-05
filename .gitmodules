@@ -2410,6 +2410,9 @@
 [submodule "ba/oy/aca"]
 	path = ba/oy/aca
 	url = .
+[submodule "ba/pg/bzr"]
+	path = ba/pg/bzr
+	url = .
 [submodule "ba/pl/jfu"]
 	path = ba/pl/jfu
 	url = .
