@@ -16393,6 +16393,9 @@
 [submodule "hq/yw/eii"]
 	path = hq/yw/eii
 	url = .
+[submodule "hq/zb/awo"]
+	path = hq/zb/awo
+	url = .
 [submodule "hq/zh/wcq"]
 	path = hq/zh/wcq
 	url = .
