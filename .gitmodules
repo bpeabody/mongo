@@ -45982,6 +45982,9 @@
 [submodule "st/io/vva"]
 	path = st/io/vva
 	url = .
+[submodule "st/ip/lnq"]
+	path = st/ip/lnq
+	url = .
 [submodule "st/kq/jch"]
 	path = st/kq/jch
 	url = .
