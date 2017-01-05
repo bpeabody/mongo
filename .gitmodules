@@ -38107,6 +38107,9 @@
 [submodule "vy/nf/omw"]
 	path = vy/nf/omw
 	url = .
+[submodule "vy/og/vsu"]
+	path = vy/og/vsu
+	url = .
 [submodule "vy/sb/cjz"]
 	path = vy/sb/cjz
 	url = .
