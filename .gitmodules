@@ -5992,6 +5992,9 @@
 [submodule "ty/av/tnb"]
 	path = ty/av/tnb
 	url = .
+[submodule "ty/kl/vdo"]
+	path = ty/kl/vdo
+	url = .
 [submodule "ty/nu/arv"]
 	path = ty/nu/arv
 	url = .
