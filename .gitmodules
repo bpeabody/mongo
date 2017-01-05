@@ -42199,6 +42199,9 @@
 [submodule "rk/fm/kiz"]
 	path = rk/fm/kiz
 	url = .
+[submodule "rk/fu/wmy"]
+	path = rk/fu/wmy
+	url = .
 [submodule "rk/hi/ogj"]
 	path = rk/hi/ogj
 	url = .
