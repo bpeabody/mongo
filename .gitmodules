@@ -9112,6 +9112,9 @@
 [submodule "qp/ag/dia"]
 	path = qp/ag/dia
 	url = .
+[submodule "qp/ah/iij"]
+	path = qp/ah/iij
+	url = .
 [submodule "qp/fw/ccf"]
 	path = qp/fw/ccf
 	url = .
