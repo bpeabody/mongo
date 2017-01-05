@@ -4516,6 +4516,9 @@
 [submodule "bw/co/qbk"]
 	path = bw/co/qbk
 	url = .
+[submodule "bw/cz/jzk"]
+	path = bw/cz/jzk
+	url = .
 [submodule "bw/dj/yde"]
 	path = bw/dj/yde
 	url = .
