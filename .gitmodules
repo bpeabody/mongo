@@ -19825,6 +19825,9 @@
 [submodule "si/mk/lcx"]
 	path = si/mk/lcx
 	url = .
+[submodule "si/mp/eaw"]
+	path = si/mp/eaw
+	url = .
 [submodule "si/ms/ljp"]
 	path = si/ms/ljp
 	url = .
