@@ -2800,6 +2800,9 @@
 [submodule "nb/hj/wdq"]
 	path = nb/hj/wdq
 	url = .
+[submodule "nb/mr/ete"]
+	path = nb/mr/ete
+	url = .
 [submodule "nc/fj/qtj"]
 	path = nc/fj/qtj
 	url = .
