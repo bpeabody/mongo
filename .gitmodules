@@ -17782,6 +17782,9 @@
 [submodule "hm/uq/can"]
 	path = hm/uq/can
 	url = .
+[submodule "hm/xe/seg"]
+	path = hm/xe/seg
+	url = .
 [submodule "hm/xt/lmh"]
 	path = hm/xt/lmh
 	url = .
