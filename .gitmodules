@@ -27526,6 +27526,9 @@
 [submodule "mz/bc/rhs"]
 	path = mz/bc/rhs
 	url = .
+[submodule "mz/bq/eir"]
+	path = mz/bq/eir
+	url = .
 [submodule "mz/cb/cvn"]
 	path = mz/cb/cvn
 	url = .
