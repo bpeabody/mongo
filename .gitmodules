@@ -39502,6 +39502,9 @@
 [submodule "xv/ud/gqt"]
 	path = xv/ud/gqt
 	url = .
+[submodule "xv/up/pid"]
+	path = xv/up/pid
+	url = .
 [submodule "xv/xf/vtg"]
 	path = xv/xf/vtg
 	url = .
