@@ -11422,6 +11422,9 @@
 [submodule "ej/fn/nfx"]
 	path = ej/fn/nfx
 	url = .
+[submodule "ej/go/lxv"]
+	path = ej/go/lxv
+	url = .
 [submodule "ej/gt/nbr"]
 	path = ej/gt/nbr
 	url = .
