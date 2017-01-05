@@ -6772,6 +6772,9 @@
 [submodule "gd/fd/oro"]
 	path = gd/fd/oro
 	url = .
+[submodule "gd/if/rgj"]
+	path = gd/if/rgj
+	url = .
 [submodule "gd/iv/lfc"]
 	path = gd/iv/lfc
 	url = .
