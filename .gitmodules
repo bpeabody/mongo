@@ -10915,6 +10915,9 @@
 [submodule "ft/jv/jcq"]
 	path = ft/jv/jcq
 	url = .
+[submodule "ft/kk/cxi"]
+	path = ft/kk/cxi
+	url = .
 [submodule "ft/ky/bdb"]
 	path = ft/ky/bdb
 	url = .
