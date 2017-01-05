@@ -58,3 +58,6 @@
 [submodule "zh/ww/rno"]
 	path = zh/ww/rno
 	url = .
+[submodule "zx/zk/xvy"]
+	path = zx/zk/xvy
+	url = .
