@@ -4843,6 +4843,9 @@
 [submodule "do/ar/abw"]
 	path = do/ar/abw
 	url = .
+[submodule "do/ds/toe"]
+	path = do/ds/toe
+	url = .
 [submodule "do/hm/ccy"]
 	path = do/hm/ccy
 	url = .
