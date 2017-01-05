@@ -18313,6 +18313,9 @@
 [submodule "gv/it/xrv"]
 	path = gv/it/xrv
 	url = .
+[submodule "gv/kg/oza"]
+	path = gv/kg/oza
+	url = .
 [submodule "gv/kk/gmo"]
 	path = gv/kk/gmo
 	url = .
