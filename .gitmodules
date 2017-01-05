@@ -32137,6 +32137,9 @@
 [submodule "mw/we/sub"]
 	path = mw/we/sub
 	url = .
+[submodule "mw/xe/wqy"]
+	path = mw/xe/wqy
+	url = .
 [submodule "mw/xu/lxs"]
 	path = mw/xu/lxs
 	url = .
