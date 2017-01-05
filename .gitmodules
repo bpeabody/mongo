@@ -12934,6 +12934,9 @@
 [submodule "po/pk/bfp"]
 	path = po/pk/bfp
 	url = .
+[submodule "po/pl/wyg"]
+	path = po/pl/wyg
+	url = .
 [submodule "po/pm/ari"]
 	path = po/pm/ari
 	url = .
