@@ -51451,6 +51451,9 @@
 [submodule "tn/qp/zgw"]
 	path = tn/qp/zgw
 	url = .
+[submodule "tn/sd/uci"]
+	path = tn/sd/uci
+	url = .
 [submodule "tn/sh/bak"]
 	path = tn/sh/bak
 	url = .
