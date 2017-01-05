@@ -691,6 +691,9 @@
 [submodule "br/lg/dqt"]
 	path = br/lg/dqt
 	url = .
+[submodule "br/no/bza"]
+	path = br/no/bza
+	url = .
 [submodule "br/wj/rms"]
 	path = br/wj/rms
 	url = .
