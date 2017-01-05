@@ -9439,6 +9439,9 @@
 [submodule "xi/ea/hel"]
 	path = xi/ea/hel
 	url = .
+[submodule "xi/nl/uew"]
+	path = xi/nl/uew
+	url = .
 [submodule "xi/wg/gmg"]
 	path = xi/wg/gmg
 	url = .
