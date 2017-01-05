@@ -30436,6 +30436,9 @@
 [submodule "ld/wv/akk"]
 	path = ld/wv/akk
 	url = .
+[submodule "ld/xa/sjd"]
+	path = ld/xa/sjd
+	url = .
 [submodule "ld/xs/jsi"]
 	path = ld/xs/jsi
 	url = .
