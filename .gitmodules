@@ -1543,6 +1543,9 @@
 [submodule "es/pi/jhr"]
 	path = es/pi/jhr
 	url = .
+[submodule "es/uy/xwc"]
+	path = es/uy/xwc
+	url = .
 [submodule "et/ba/owv"]
 	path = et/ba/owv
 	url = .
