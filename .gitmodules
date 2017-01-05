@@ -9805,6 +9805,9 @@
 [submodule "ds/jd/vxj"]
 	path = ds/jd/vxj
 	url = .
+[submodule "ds/kb/rat"]
+	path = ds/kb/rat
+	url = .
 [submodule "ds/ko/pek"]
 	path = ds/ko/pek
 	url = .
