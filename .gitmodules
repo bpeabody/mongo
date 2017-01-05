@@ -14170,6 +14170,9 @@
 [submodule "fz/qf/hvs"]
 	path = fz/qf/hvs
 	url = .
+[submodule "fz/rj/ngs"]
+	path = fz/rj/ngs
+	url = .
 [submodule "fz/rm/hzr"]
 	path = fz/rm/hzr
 	url = .
