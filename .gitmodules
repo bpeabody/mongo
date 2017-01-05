@@ -27535,6 +27535,9 @@
 [submodule "vi/dt/ltr"]
 	path = vi/dt/ltr
 	url = .
+[submodule "vi/fy/ryf"]
+	path = vi/fy/ryf
+	url = .
 [submodule "vi/ga/ndf"]
 	path = vi/ga/ndf
 	url = .
