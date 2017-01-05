@@ -44521,6 +44521,9 @@
 [submodule "rm/os/znl"]
 	path = rm/os/znl
 	url = .
+[submodule "rm/pf/qcx"]
+	path = rm/pf/qcx
+	url = .
 [submodule "rm/pl/dxr"]
 	path = rm/pl/dxr
 	url = .
