@@ -19195,6 +19195,9 @@
 [submodule "xe/rv/bnp"]
 	path = xe/rv/bnp
 	url = .
+[submodule "xe/vo/vwj"]
+	path = xe/vo/vwj
+	url = .
 [submodule "xe/yq/nzv"]
 	path = xe/yq/nzv
 	url = .
