@@ -7372,6 +7372,9 @@
 [submodule "vy/ez/zec"]
 	path = vy/ez/zec
 	url = .
+[submodule "vy/sg/mti"]
+	path = vy/sg/mti
+	url = .
 [submodule "vy/uc/qva"]
 	path = vy/uc/qva
 	url = .
