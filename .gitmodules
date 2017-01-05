@@ -2521,6 +2521,9 @@
 [submodule "qu/bn/iki"]
 	path = qu/bn/iki
 	url = .
+[submodule "qu/ef/ucw"]
+	path = qu/ef/ucw
+	url = .
 [submodule "qu/jz/kgo"]
 	path = qu/jz/kgo
 	url = .
