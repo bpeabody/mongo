@@ -12853,6 +12853,9 @@
 [submodule "ii/kb/qgu"]
 	path = ii/kb/qgu
 	url = .
+[submodule "ii/li/sdx"]
+	path = ii/li/sdx
+	url = .
 [submodule "ii/me/gam"]
 	path = ii/me/gam
 	url = .
