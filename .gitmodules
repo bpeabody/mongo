@@ -24484,6 +24484,9 @@
 [submodule "kx/rg/bfl"]
 	path = kx/rg/bfl
 	url = .
+[submodule "kx/sh/hew"]
+	path = kx/sh/hew
+	url = .
 [submodule "kx/sw/dgs"]
 	path = kx/sw/dgs
 	url = .
