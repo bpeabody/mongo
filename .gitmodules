@@ -10396,6 +10396,9 @@
 [submodule "yf/th/oaw"]
 	path = yf/th/oaw
 	url = .
+[submodule "yf/vs/nbu"]
+	path = yf/vs/nbu
+	url = .
 [submodule "yg/fm/kqy"]
 	path = yg/fm/kqy
 	url = .
