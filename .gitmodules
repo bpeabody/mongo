@@ -4171,6 +4171,9 @@
 [submodule "ku/ap/bqq"]
 	path = ku/ap/bqq
 	url = .
+[submodule "ku/ko/rty"]
+	path = ku/ko/rty
+	url = .
 [submodule "ku/ut/swn"]
 	path = ku/ut/swn
 	url = .
