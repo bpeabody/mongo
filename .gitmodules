@@ -5155,6 +5155,9 @@
 [submodule "ev/uf/fxy"]
 	path = ev/uf/fxy
 	url = .
+[submodule "ev/vl/lnf"]
+	path = ev/vl/lnf
+	url = .
 [submodule "ev/yv/lki"]
 	path = ev/yv/lki
 	url = .
