@@ -22879,6 +22879,9 @@
 [submodule "vl/xt/qbe"]
 	path = vl/xt/qbe
 	url = .
+[submodule "vm/dy/uvq"]
+	path = vm/dy/uvq
+	url = .
 [submodule "vm/el/ohy"]
 	path = vm/el/ohy
 	url = .
