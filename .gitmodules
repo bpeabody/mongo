@@ -1381,6 +1381,9 @@
 [submodule "al/jr/izx"]
 	path = al/jr/izx
 	url = .
+[submodule "al/ko/jin"]
+	path = al/ko/jin
+	url = .
 [submodule "al/lf/onw"]
 	path = al/lf/onw
 	url = .
