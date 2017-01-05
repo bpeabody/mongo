@@ -13144,6 +13144,9 @@
 [submodule "ev/db/zuh"]
 	path = ev/db/zuh
 	url = .
+[submodule "ev/dl/eaz"]
+	path = ev/dl/eaz
+	url = .
 [submodule "ev/dp/xfi"]
 	path = ev/dp/xfi
 	url = .
