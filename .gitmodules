@@ -12637,6 +12637,9 @@
 [submodule "hs/qw/jxo"]
 	path = hs/qw/jxo
 	url = .
+[submodule "hs/tw/rey"]
+	path = hs/tw/rey
+	url = .
 [submodule "hs/ua/pzf"]
 	path = hs/ua/pzf
 	url = .
