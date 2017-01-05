@@ -12766,6 +12766,9 @@
 [submodule "ir/bj/ewt"]
 	path = ir/bj/ewt
 	url = .
+[submodule "ir/dg/ufr"]
+	path = ir/dg/ufr
+	url = .
 [submodule "ir/dx/enz"]
 	path = ir/dx/enz
 	url = .
