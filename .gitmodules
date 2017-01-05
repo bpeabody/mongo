@@ -466,6 +466,9 @@
 [submodule "fb/ji/hks"]
 	path = fb/ji/hks
 	url = .
+[submodule "fc/hz/szw"]
+	path = fc/hz/szw
+	url = .
 [submodule "fc/lp/kav"]
 	path = fc/lp/kav
 	url = .
