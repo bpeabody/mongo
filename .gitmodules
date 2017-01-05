@@ -47386,6 +47386,9 @@
 [submodule "ym/pg/dcg"]
 	path = ym/pg/dcg
 	url = .
+[submodule "ym/ph/umu"]
+	path = ym/ph/umu
+	url = .
 [submodule "ym/qg/zkb"]
 	path = ym/qg/zkb
 	url = .
