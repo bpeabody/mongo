@@ -15163,6 +15163,9 @@
 [submodule "qr/ky/fad"]
 	path = qr/ky/fad
 	url = .
+[submodule "qr/rj/yfc"]
+	path = qr/rj/yfc
+	url = .
 [submodule "qr/rm/vmj"]
 	path = qr/rm/vmj
 	url = .
