@@ -1315,6 +1315,9 @@
 [submodule "ry/my/wlj"]
 	path = ry/my/wlj
 	url = .
+[submodule "rz/fo/bmv"]
+	path = rz/fo/bmv
+	url = .
 [submodule "rz/hf/dig"]
 	path = rz/hf/dig
 	url = .
