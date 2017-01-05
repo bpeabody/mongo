@@ -706,6 +706,9 @@
 [submodule "ck/od/hzm"]
 	path = ck/od/hzm
 	url = .
+[submodule "ck/os/zai"]
+	path = ck/os/zai
+	url = .
 [submodule "ck/vn/dpb"]
 	path = ck/vn/dpb
 	url = .
