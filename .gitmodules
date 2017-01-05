@@ -6112,6 +6112,9 @@
 [submodule "jg/ii/eto"]
 	path = jg/ii/eto
 	url = .
+[submodule "jg/kd/dmq"]
+	path = jg/kd/dmq
+	url = .
 [submodule "jg/kp/ikh"]
 	path = jg/kp/ikh
 	url = .
