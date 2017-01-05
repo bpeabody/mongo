@@ -487,6 +487,9 @@
 [submodule "bn/wf/mqn"]
 	path = bn/wf/mqn
 	url = .
+[submodule "bn/xe/ddi"]
+	path = bn/xe/ddi
+	url = .
 [submodule "bo/hg/fzn"]
 	path = bo/hg/fzn
 	url = .
