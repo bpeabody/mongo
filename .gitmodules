@@ -2800,6 +2800,9 @@
 [submodule "cr/ai/pmf"]
 	path = cr/ai/pmf
 	url = .
+[submodule "cr/bz/mge"]
+	path = cr/bz/mge
+	url = .
 [submodule "cr/cu/sym"]
 	path = cr/cu/sym
 	url = .
