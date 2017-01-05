@@ -1018,6 +1018,9 @@
 [submodule "ay/ri/kno"]
 	path = ay/ri/kno
 	url = .
+[submodule "az/ek/tjs"]
+	path = az/ek/tjs
+	url = .
 [submodule "az/eq/xkj"]
 	path = az/eq/xkj
 	url = .
