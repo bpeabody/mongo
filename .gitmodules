@@ -2035,6 +2035,9 @@
 [submodule "fi/my/npa"]
 	path = fi/my/npa
 	url = .
+[submodule "fi/yg/vlf"]
+	path = fi/yg/vlf
+	url = .
 [submodule "fj/dd/wnp"]
 	path = fj/dd/wnp
 	url = .
