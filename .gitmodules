@@ -33166,6 +33166,9 @@
 [submodule "oh/ir/sct"]
 	path = oh/ir/sct
 	url = .
+[submodule "oh/je/rgk"]
+	path = oh/je/rgk
+	url = .
 [submodule "oh/jy/vtj"]
 	path = oh/jy/vtj
 	url = .
