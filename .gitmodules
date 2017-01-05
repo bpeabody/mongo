@@ -10387,6 +10387,9 @@
 [submodule "el/yk/fzn"]
 	path = el/yk/fzn
 	url = .
+[submodule "el/yk/icm"]
+	path = el/yk/icm
+	url = .
 [submodule "el/zx/hwo"]
 	path = el/zx/hwo
 	url = .
