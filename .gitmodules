@@ -7867,6 +7867,9 @@
 [submodule "no/wo/sxg"]
 	path = no/wo/sxg
 	url = .
+[submodule "np/dq/tke"]
+	path = np/dq/tke
+	url = .
 [submodule "np/hn/mcg"]
 	path = np/hn/mcg
 	url = .
