@@ -6034,6 +6034,9 @@
 [submodule "do/ve/ero"]
 	path = do/ve/ero
 	url = .
+[submodule "do/vo/mzt"]
+	path = do/vo/mzt
+	url = .
 [submodule "do/wd/prq"]
 	path = do/wd/prq
 	url = .
