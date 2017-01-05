@@ -38611,6 +38611,9 @@
 [submodule "rb/eh/cad"]
 	path = rb/eh/cad
 	url = .
+[submodule "rb/ex/tel"]
+	path = rb/ex/tel
+	url = .
 [submodule "rb/fn/run"]
 	path = rb/fn/run
 	url = .
