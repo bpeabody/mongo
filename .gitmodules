@@ -54940,6 +54940,9 @@
 [submodule "ua/en/fgo"]
 	path = ua/en/fgo
 	url = .
+[submodule "ua/ep/cpa"]
+	path = ua/ep/cpa
+	url = .
 [submodule "ua/ex/tjo"]
 	path = ua/ex/tjo
 	url = .
