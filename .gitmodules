@@ -3973,6 +3973,9 @@
 [submodule "sg/vn/oaf"]
 	path = sg/vn/oaf
 	url = .
+[submodule "sh/tg/pwe"]
+	path = sh/tg/pwe
+	url = .
 [submodule "si/ek/tbg"]
 	path = si/ek/tbg
 	url = .
