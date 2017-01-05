@@ -14197,6 +14197,9 @@
 [submodule "oq/ls/imj"]
 	path = oq/ls/imj
 	url = .
+[submodule "oq/ms/xcn"]
+	path = oq/ms/xcn
+	url = .
 [submodule "oq/os/nsq"]
 	path = oq/os/nsq
 	url = .
