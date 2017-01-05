@@ -16264,6 +16264,9 @@
 [submodule "nd/vm/umb"]
 	path = nd/vm/umb
 	url = .
+[submodule "nd/yk/arn"]
+	path = nd/yk/arn
+	url = .
 [submodule "ne/bc/gaf"]
 	path = ne/bc/gaf
 	url = .
