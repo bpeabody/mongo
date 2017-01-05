@@ -2020,6 +2020,9 @@
 [submodule "cf/ov/svw"]
 	path = cf/ov/svw
 	url = .
+[submodule "cf/rj/sje"]
+	path = cf/rj/sje
+	url = .
 [submodule "cf/su/umu"]
 	path = cf/su/umu
 	url = .
