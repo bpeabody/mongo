@@ -33223,6 +33223,9 @@
 [submodule "kz/il/tga"]
 	path = kz/il/tga
 	url = .
+[submodule "kz/is/ytz"]
+	path = kz/is/ytz
+	url = .
 [submodule "kz/ka/rnd"]
 	path = kz/ka/rnd
 	url = .
