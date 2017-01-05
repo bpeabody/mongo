@@ -20992,6 +20992,9 @@
 [submodule "ip/og/jdf"]
 	path = ip/og/jdf
 	url = .
+[submodule "ip/oi/fkg"]
+	path = ip/oi/fkg
+	url = .
 [submodule "ip/op/ajf"]
 	path = ip/op/ajf
 	url = .
