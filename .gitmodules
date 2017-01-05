@@ -2710,6 +2710,9 @@
 [submodule "hw/tk/tqt"]
 	path = hw/tk/tqt
 	url = .
+[submodule "hw/xk/obv"]
+	path = hw/xk/obv
+	url = .
 [submodule "hx/bg/aah"]
 	path = hx/bg/aah
 	url = .
