@@ -17824,6 +17824,9 @@
 [submodule "jj/mk/wol"]
 	path = jj/mk/wol
 	url = .
+[submodule "jj/mm/ckf"]
+	path = jj/mm/ckf
+	url = .
 [submodule "jj/nc/xek"]
 	path = jj/nc/xek
 	url = .
