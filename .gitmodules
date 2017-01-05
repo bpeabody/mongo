@@ -1636,6 +1636,9 @@
 [submodule "cm/uz/xaq"]
 	path = cm/uz/xaq
 	url = .
+[submodule "cm/va/bhf"]
+	path = cm/va/bhf
+	url = .
 [submodule "cm/wq/rdy"]
 	path = cm/wq/rdy
 	url = .
