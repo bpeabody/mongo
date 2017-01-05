@@ -1702,6 +1702,9 @@
 [submodule "bq/cn/qcf"]
 	path = bq/cn/qcf
 	url = .
+[submodule "bq/eu/ced"]
+	path = bq/eu/ced
+	url = .
 [submodule "bq/ev/jis"]
 	path = bq/ev/jis
 	url = .
