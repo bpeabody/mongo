@@ -36712,6 +36712,9 @@
 [submodule "mg/zd/wqj"]
 	path = mg/zd/wqj
 	url = .
+[submodule "mg/zn/azw"]
+	path = mg/zn/azw
+	url = .
 [submodule "mg/zo/ncr"]
 	path = mg/zo/ncr
 	url = .
