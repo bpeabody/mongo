@@ -31657,6 +31657,9 @@
 [submodule "ku/yw/coo"]
 	path = ku/yw/coo
 	url = .
+[submodule "kv/co/vlu"]
+	path = kv/co/vlu
+	url = .
 [submodule "kv/fo/cof"]
 	path = kv/fo/cof
 	url = .
