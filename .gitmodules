@@ -10753,6 +10753,9 @@
 [submodule "ha/ci/rbp"]
 	path = ha/ci/rbp
 	url = .
+[submodule "ha/dj/llm"]
+	path = ha/dj/llm
+	url = .
 [submodule "ha/ea/nsr"]
 	path = ha/ea/nsr
 	url = .
