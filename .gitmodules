@@ -6433,6 +6433,9 @@
 [submodule "oa/sy/dlf"]
 	path = oa/sy/dlf
 	url = .
+[submodule "oa/tz/hlr"]
+	path = oa/tz/hlr
+	url = .
 [submodule "ob/gs/sos"]
 	path = ob/gs/sos
 	url = .
