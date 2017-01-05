@@ -31747,6 +31747,9 @@
 [submodule "ld/mj/ddt"]
 	path = ld/mj/ddt
 	url = .
+[submodule "ld/os/fhd"]
+	path = ld/os/fhd
+	url = .
 [submodule "ld/ot/vkc"]
 	path = ld/ot/vkc
 	url = .
