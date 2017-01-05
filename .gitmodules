@@ -29302,6 +29302,9 @@
 [submodule "lm/yl/lnq"]
 	path = lm/yl/lnq
 	url = .
+[submodule "lm/yw/iot"]
+	path = lm/yw/iot
+	url = .
 [submodule "lm/zl/bpp"]
 	path = lm/zl/bpp
 	url = .
