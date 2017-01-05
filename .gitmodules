@@ -1372,6 +1372,9 @@
 [submodule "ej/ig/vxm"]
 	path = ej/ig/vxm
 	url = .
+[submodule "ej/lz/tfw"]
+	path = ej/lz/tfw
+	url = .
 [submodule "ej/si/lya"]
 	path = ej/si/lya
 	url = .
