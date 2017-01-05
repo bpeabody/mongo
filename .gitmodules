@@ -50017,6 +50017,9 @@
 [submodule "qn/mi/grz"]
 	path = qn/mi/grz
 	url = .
+[submodule "qn/mk/kpz"]
+	path = qn/mk/kpz
+	url = .
 [submodule "qn/mo/ngx"]
 	path = qn/mo/ngx
 	url = .
