@@ -1027,6 +1027,9 @@
 [submodule "ko/em/vtz"]
 	path = ko/em/vtz
 	url = .
+[submodule "ko/ji/xmq"]
+	path = ko/ji/xmq
+	url = .
 [submodule "ko/xh/ucl"]
 	path = ko/xh/ucl
 	url = .
