@@ -2794,6 +2794,9 @@
 [submodule "ez/gd/rka"]
 	path = ez/gd/rka
 	url = .
+[submodule "ez/gz/kzj"]
+	path = ez/gz/kzj
+	url = .
 [submodule "ez/mi/rts"]
 	path = ez/mi/rts
 	url = .
