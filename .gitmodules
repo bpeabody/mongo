@@ -2569,6 +2569,9 @@
 [submodule "bz/ut/sjt"]
 	path = bz/ut/sjt
 	url = .
+[submodule "bz/vq/out"]
+	path = bz/vq/out
+	url = .
 [submodule "bz/wo/iwj"]
 	path = bz/wo/iwj
 	url = .
