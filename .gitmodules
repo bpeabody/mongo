@@ -328,6 +328,9 @@
 [submodule "mg/fm/amn"]
 	path = mg/fm/amn
 	url = .
+[submodule "ml/ao/hkx"]
+	path = ml/ao/hkx
+	url = .
 [submodule "ml/gn/xoh"]
 	path = ml/gn/xoh
 	url = .
