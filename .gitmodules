@@ -48616,6 +48616,9 @@
 [submodule "qk/gi/wqv"]
 	path = qk/gi/wqv
 	url = .
+[submodule "qk/gy/lyb"]
+	path = qk/gy/lyb
+	url = .
 [submodule "qk/ho/ibl"]
 	path = qk/ho/ibl
 	url = .
