@@ -4042,6 +4042,9 @@
 [submodule "nm/id/jcd"]
 	path = nm/id/jcd
 	url = .
+[submodule "nm/ih/lyi"]
+	path = nm/ih/lyi
+	url = .
 [submodule "nm/oo/kpv"]
 	path = nm/oo/kpv
 	url = .
