@@ -7975,6 +7975,9 @@
 [submodule "ho/sg/pwu"]
 	path = ho/sg/pwu
 	url = .
+[submodule "ho/sm/gii"]
+	path = ho/sm/gii
+	url = .
 [submodule "ho/uy/dyt"]
 	path = ho/uy/dyt
 	url = .
