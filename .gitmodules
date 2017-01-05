@@ -4705,6 +4705,9 @@
 [submodule "ex/cl/jwe"]
 	path = ex/cl/jwe
 	url = .
+[submodule "ex/dq/acx"]
+	path = ex/dq/acx
+	url = .
 [submodule "ex/dq/gzl"]
 	path = ex/dq/gzl
 	url = .
