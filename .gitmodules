@@ -7294,6 +7294,9 @@
 [submodule "db/bx/rkq"]
 	path = db/bx/rkq
 	url = .
+[submodule "db/bx/yki"]
+	path = db/bx/yki
+	url = .
 [submodule "db/cg/avz"]
 	path = db/cg/avz
 	url = .
