@@ -34648,6 +34648,9 @@
 [submodule "ph/rw/qyb"]
 	path = ph/rw/qyb
 	url = .
+[submodule "ph/sp/xjd"]
+	path = ph/sp/xjd
+	url = .
 [submodule "ph/sx/omz"]
 	path = ph/sx/omz
 	url = .
