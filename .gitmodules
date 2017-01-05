@@ -11002,6 +11002,9 @@
 [submodule "dx/jg/yqs"]
 	path = dx/jg/yqs
 	url = .
+[submodule "dx/jq/qep"]
+	path = dx/jq/qep
+	url = .
 [submodule "dx/km/tbq"]
 	path = dx/km/tbq
 	url = .
