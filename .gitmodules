@@ -3337,6 +3337,9 @@
 [submodule "be/cv/cwb"]
 	path = be/cv/cwb
 	url = .
+[submodule "be/dm/hms"]
+	path = be/dm/hms
+	url = .
 [submodule "be/do/xbe"]
 	path = be/do/xbe
 	url = .
