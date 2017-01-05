@@ -25966,6 +25966,9 @@
 [submodule "ps/sg/lsk"]
 	path = ps/sg/lsk
 	url = .
+[submodule "ps/vi/zmm"]
+	path = ps/vi/zmm
+	url = .
 [submodule "ps/vp/uxn"]
 	path = ps/vp/uxn
 	url = .
