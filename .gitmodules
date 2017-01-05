@@ -1630,6 +1630,9 @@
 [submodule "ar/my/msa"]
 	path = ar/my/msa
 	url = .
+[submodule "ar/qb/zuy"]
+	path = ar/qb/zuy
+	url = .
 [submodule "ar/qt/mrb"]
 	path = ar/qt/mrb
 	url = .
