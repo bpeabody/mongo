@@ -3412,6 +3412,9 @@
 [submodule "bh/tg/kjo"]
 	path = bh/tg/kjo
 	url = .
+[submodule "bh/tx/vrr"]
+	path = bh/tx/vrr
+	url = .
 [submodule "bh/vj/jjj"]
 	path = bh/vj/jjj
 	url = .
