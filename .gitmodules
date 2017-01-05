@@ -283,6 +283,9 @@
 [submodule "af/aj/jxr"]
 	path = af/aj/jxr
 	url = .
+[submodule "af/bl/ixu"]
+	path = af/bl/ixu
+	url = .
 [submodule "af/bq/rxi"]
 	path = af/bq/rxi
 	url = .
