@@ -6880,6 +6880,9 @@
 [submodule "qt/hp/jqu"]
 	path = qt/hp/jqu
 	url = .
+[submodule "qt/ke/nde"]
+	path = qt/ke/nde
+	url = .
 [submodule "qt/vd/euh"]
 	path = qt/vd/euh
 	url = .
