@@ -19924,6 +19924,9 @@
 [submodule "hn/gx/xht"]
 	path = hn/gx/xht
 	url = .
+[submodule "hn/hi/obk"]
+	path = hn/hi/obk
+	url = .
 [submodule "hn/id/hyj"]
 	path = hn/id/hyj
 	url = .
