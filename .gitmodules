@@ -13252,6 +13252,9 @@
 [submodule "gu/uq/lvf"]
 	path = gu/uq/lvf
 	url = .
+[submodule "gu/ve/qbp"]
+	path = gu/ve/qbp
+	url = .
 [submodule "gu/vu/rlt"]
 	path = gu/vu/rlt
 	url = .
