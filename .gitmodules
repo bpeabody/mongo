@@ -2206,6 +2206,9 @@
 [submodule "bz/yj/aio"]
 	path = bz/yj/aio
 	url = .
+[submodule "bz/yr/oaf"]
+	path = bz/yr/oaf
+	url = .
 [submodule "ca/aa/mxm"]
 	path = ca/aa/mxm
 	url = .
