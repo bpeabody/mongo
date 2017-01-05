@@ -67093,6 +67093,9 @@
 [submodule "wn/cm/qbc"]
 	path = wn/cm/qbc
 	url = .
+[submodule "wn/cv/xbt"]
+	path = wn/cv/xbt
+	url = .
 [submodule "wn/dd/gbt"]
 	path = wn/dd/gbt
 	url = .
