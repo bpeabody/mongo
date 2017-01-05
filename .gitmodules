@@ -6844,6 +6844,9 @@
 [submodule "cp/ag/hmu"]
 	path = cp/ag/hmu
 	url = .
+[submodule "cp/ao/pgs"]
+	path = cp/ao/pgs
+	url = .
 [submodule "cp/be/ixx"]
 	path = cp/be/ixx
 	url = .
