@@ -250,6 +250,9 @@
 [submodule "ce/xh/mxb"]
 	path = ce/xh/mxb
 	url = .
+[submodule "cf/xq/xkp"]
+	path = cf/xq/xkp
+	url = .
 [submodule "cg/ze/hsp"]
 	path = cg/ze/hsp
 	url = .
