@@ -34357,6 +34357,9 @@
 [submodule "mx/vz/rys"]
 	path = mx/vz/rys
 	url = .
+[submodule "mx/wq/edt"]
+	path = mx/wq/edt
+	url = .
 [submodule "mx/wv/gik"]
 	path = mx/wv/gik
 	url = .
