@@ -6076,6 +6076,9 @@
 [submodule "cz/hf/lxd"]
 	path = cz/hf/lxd
 	url = .
+[submodule "cz/hy/twy"]
+	path = cz/hy/twy
+	url = .
 [submodule "cz/ku/nbl"]
 	path = cz/ku/nbl
 	url = .
