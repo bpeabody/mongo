@@ -8170,6 +8170,9 @@
 [submodule "cz/dk/uee"]
 	path = cz/dk/uee
 	url = .
+[submodule "cz/dt/sxw"]
+	path = cz/dt/sxw
+	url = .
 [submodule "cz/dy/dmv"]
 	path = cz/dy/dmv
 	url = .
