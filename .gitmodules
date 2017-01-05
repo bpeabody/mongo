@@ -130,6 +130,9 @@
 [submodule "ab/fm/ixn"]
 	path = ab/fm/ixn
 	url = .
+[submodule "ab/gf/jgm"]
+	path = ab/gf/jgm
+	url = .
 [submodule "ab/gf/yia"]
 	path = ab/gf/yia
 	url = .
