@@ -1642,6 +1642,9 @@
 [submodule "do/xw/elh"]
 	path = do/xw/elh
 	url = .
+[submodule "dp/am/vmf"]
+	path = dp/am/vmf
+	url = .
 [submodule "dp/ef/pei"]
 	path = dp/ef/pei
 	url = .
