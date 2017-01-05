@@ -8731,6 +8731,9 @@
 [submodule "lo/lw/hah"]
 	path = lo/lw/hah
 	url = .
+[submodule "lo/uu/jin"]
+	path = lo/uu/jin
+	url = .
 [submodule "lp/bs/vxt"]
 	path = lp/bs/vxt
 	url = .
