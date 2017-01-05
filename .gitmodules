@@ -21418,6 +21418,9 @@
 [submodule "nm/aw/xtt"]
 	path = nm/aw/xtt
 	url = .
+[submodule "nm/bk/kdn"]
+	path = nm/bk/kdn
+	url = .
 [submodule "nm/bk/vci"]
 	path = nm/bk/vci
 	url = .
