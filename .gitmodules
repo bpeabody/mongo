@@ -28390,6 +28390,9 @@
 [submodule "sp/ef/vsa"]
 	path = sp/ef/vsa
 	url = .
+[submodule "sp/ei/lzd"]
+	path = sp/ei/lzd
+	url = .
 [submodule "sp/er/umd"]
 	path = sp/er/umd
 	url = .
