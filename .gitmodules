@@ -40087,6 +40087,9 @@
 [submodule "ta/tc/nbg"]
 	path = ta/tc/nbg
 	url = .
+[submodule "ta/tu/jve"]
+	path = ta/tu/jve
+	url = .
 [submodule "ta/ve/qty"]
 	path = ta/ve/qty
 	url = .
