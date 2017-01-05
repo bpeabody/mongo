@@ -17275,6 +17275,9 @@
 [submodule "qh/hv/tvr"]
 	path = qh/hv/tvr
 	url = .
+[submodule "qh/jr/nlo"]
+	path = qh/jr/nlo
+	url = .
 [submodule "qh/kw/rae"]
 	path = qh/kw/rae
 	url = .
