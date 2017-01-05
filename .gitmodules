@@ -12565,6 +12565,9 @@
 [submodule "he/kz/zua"]
 	path = he/kz/zua
 	url = .
+[submodule "he/mh/jgd"]
+	path = he/mh/jgd
+	url = .
 [submodule "he/ny/hsp"]
 	path = he/ny/hsp
 	url = .
