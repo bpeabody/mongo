@@ -7939,6 +7939,9 @@
 [submodule "iu/oq/ewl"]
 	path = iu/oq/ewl
 	url = .
+[submodule "iu/pc/lbs"]
+	path = iu/pc/lbs
+	url = .
 [submodule "iu/pm/pym"]
 	path = iu/pm/pym
 	url = .
