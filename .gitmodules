@@ -14152,6 +14152,9 @@
 [submodule "gj/mq/kuh"]
 	path = gj/mq/kuh
 	url = .
+[submodule "gj/mx/yfp"]
+	path = gj/mx/yfp
+	url = .
 [submodule "gj/nj/bgm"]
 	path = gj/nj/bgm
 	url = .
