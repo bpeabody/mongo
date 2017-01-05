@@ -8299,6 +8299,9 @@
 [submodule "ed/lk/rlo"]
 	path = ed/lk/rlo
 	url = .
+[submodule "ed/ll/hqu"]
+	path = ed/ll/hqu
+	url = .
 [submodule "ed/lz/amf"]
 	path = ed/lz/amf
 	url = .
