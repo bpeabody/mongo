@@ -21142,6 +21142,9 @@
 [submodule "kh/tp/aft"]
 	path = kh/tp/aft
 	url = .
+[submodule "kh/ts/nrb"]
+	path = kh/ts/nrb
+	url = .
 [submodule "kh/tz/ddk"]
 	path = kh/tz/ddk
 	url = .
