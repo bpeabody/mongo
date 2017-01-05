@@ -65380,6 +65380,9 @@
 [submodule "wr/ih/jwi"]
 	path = wr/ih/jwi
 	url = .
+[submodule "wr/ih/qlx"]
+	path = wr/ih/qlx
+	url = .
 [submodule "wr/jn/aaq"]
 	path = wr/jn/aaq
 	url = .
