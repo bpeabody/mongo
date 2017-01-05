@@ -3058,6 +3058,9 @@
 [submodule "tj/fy/wcw"]
 	path = tj/fy/wcw
 	url = .
+[submodule "tk/uo/ipc"]
+	path = tk/uo/ipc
+	url = .
 [submodule "tk/wv/rzb"]
 	path = tk/wv/rzb
 	url = .
