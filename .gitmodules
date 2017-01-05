@@ -22579,6 +22579,9 @@
 [submodule "iq/qq/lnk"]
 	path = iq/qq/lnk
 	url = .
+[submodule "iq/rc/lhb"]
+	path = iq/rc/lhb
+	url = .
 [submodule "iq/ta/ewb"]
 	path = iq/ta/ewb
 	url = .
