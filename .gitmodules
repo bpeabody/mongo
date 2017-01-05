@@ -8584,6 +8584,9 @@
 [submodule "eh/kr/agn"]
 	path = eh/kr/agn
 	url = .
+[submodule "eh/nc/ery"]
+	path = eh/nc/ery
+	url = .
 [submodule "eh/ox/rjo"]
 	path = eh/ox/rjo
 	url = .
