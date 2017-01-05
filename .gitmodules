@@ -445,6 +445,9 @@
 [submodule "ip/al/aal"]
 	path = ip/al/aal
 	url = .
+[submodule "ip/lj/hii"]
+	path = ip/lj/hii
+	url = .
 [submodule "iq/fa/wgu"]
 	path = iq/fa/wgu
 	url = .
