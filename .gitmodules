@@ -41740,6 +41740,9 @@
 [submodule "yj/tx/qrm"]
 	path = yj/tx/qrm
 	url = .
+[submodule "yj/ud/msg"]
+	path = yj/ud/msg
+	url = .
 [submodule "yj/wz/dyj"]
 	path = yj/wz/dyj
 	url = .
