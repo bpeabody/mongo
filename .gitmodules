@@ -52162,6 +52162,9 @@
 [submodule "vy/ez/zec"]
 	path = vy/ez/zec
 	url = .
+[submodule "vy/im/mgc"]
+	path = vy/im/mgc
+	url = .
 [submodule "vy/jb/oua"]
 	path = vy/jb/oua
 	url = .
