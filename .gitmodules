@@ -11308,6 +11308,9 @@
 [submodule "ws/ni/con"]
 	path = ws/ni/con
 	url = .
+[submodule "ws/su/smw"]
+	path = ws/su/smw
+	url = .
 [submodule "ws/xt/rpc"]
 	path = ws/xt/rpc
 	url = .
