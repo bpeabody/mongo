@@ -67510,6 +67510,9 @@
 [submodule "xg/bo/brw"]
 	path = xg/bo/brw
 	url = .
+[submodule "xg/cg/crr"]
+	path = xg/cg/crr
+	url = .
 [submodule "xg/cr/fyu"]
 	path = xg/cr/fyu
 	url = .
