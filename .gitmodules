@@ -34825,6 +34825,9 @@
 [submodule "wv/yh/wri"]
 	path = wv/yh/wri
 	url = .
+[submodule "wv/yq/gfk"]
+	path = wv/yq/gfk
+	url = .
 [submodule "ww/ax/mfe"]
 	path = ww/ax/mfe
 	url = .
