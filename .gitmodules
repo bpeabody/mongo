@@ -40459,6 +40459,9 @@
 [submodule "vo/kv/rzy"]
 	path = vo/kv/rzy
 	url = .
+[submodule "vo/lp/gml"]
+	path = vo/lp/gml
+	url = .
 [submodule "vo/oe/ljo"]
 	path = vo/oe/ljo
 	url = .
