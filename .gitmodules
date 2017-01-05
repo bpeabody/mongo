@@ -22558,6 +22558,9 @@
 [submodule "rp/od/pai"]
 	path = rp/od/pai
 	url = .
+[submodule "rp/qo/ccp"]
+	path = rp/qo/ccp
+	url = .
 [submodule "rp/ro/lng"]
 	path = rp/ro/lng
 	url = .
