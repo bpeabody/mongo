@@ -16096,6 +16096,9 @@
 [submodule "mw/ej/pve"]
 	path = mw/ej/pve
 	url = .
+[submodule "mw/fk/svf"]
+	path = mw/fk/svf
+	url = .
 [submodule "mw/gq/hqh"]
 	path = mw/gq/hqh
 	url = .
