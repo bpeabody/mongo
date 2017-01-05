@@ -2605,6 +2605,9 @@
 [submodule "ru/ey/npj"]
 	path = ru/ey/npj
 	url = .
+[submodule "ru/um/cbp"]
+	path = ru/um/cbp
+	url = .
 [submodule "rv/cv/kkk"]
 	path = rv/cv/kkk
 	url = .
