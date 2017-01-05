@@ -571,6 +571,9 @@
 [submodule "ez/pt/rwn"]
 	path = ez/pt/rwn
 	url = .
+[submodule "fa/vv/mbk"]
+	path = fa/vv/mbk
+	url = .
 [submodule "fb/ji/hks"]
 	path = fb/ji/hks
 	url = .
