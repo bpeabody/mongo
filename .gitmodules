@@ -2758,6 +2758,9 @@
 [submodule "se/yi/lyf"]
 	path = se/yi/lyf
 	url = .
+[submodule "sf/eo/hex"]
+	path = sf/eo/hex
+	url = .
 [submodule "sf/gw/jjf"]
 	path = sf/gw/jjf
 	url = .
