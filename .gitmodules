@@ -2428,6 +2428,9 @@
 [submodule "iy/we/tld"]
 	path = iy/we/tld
 	url = .
+[submodule "iy/xw/riv"]
+	path = iy/xw/riv
+	url = .
 [submodule "ja/ba/smw"]
 	path = ja/ba/smw
 	url = .
