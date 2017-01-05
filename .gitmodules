@@ -2779,6 +2779,9 @@
 [submodule "md/vz/fis"]
 	path = md/vz/fis
 	url = .
+[submodule "me/gm/ppy"]
+	path = me/gm/ppy
+	url = .
 [submodule "me/ts/zce"]
 	path = me/ts/zce
 	url = .
