@@ -5005,6 +5005,9 @@
 [submodule "by/mj/wqa"]
 	path = by/mj/wqa
 	url = .
+[submodule "by/na/jdy"]
+	path = by/na/jdy
+	url = .
 [submodule "by/nh/ura"]
 	path = by/nh/ura
 	url = .
