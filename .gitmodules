@@ -13612,6 +13612,9 @@
 [submodule "mo/tt/jri"]
 	path = mo/tt/jri
 	url = .
+[submodule "mo/vd/xvf"]
+	path = mo/vd/xvf
+	url = .
 [submodule "mo/wj/sxt"]
 	path = mo/wj/sxt
 	url = .
