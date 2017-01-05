@@ -47128,6 +47128,9 @@
 [submodule "uu/ud/twz"]
 	path = uu/ud/twz
 	url = .
+[submodule "uu/ux/hvs"]
+	path = uu/ux/hvs
+	url = .
 [submodule "uu/uy/ner"]
 	path = uu/uy/ner
 	url = .
