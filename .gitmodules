@@ -9178,6 +9178,9 @@
 [submodule "wc/cv/ewd"]
 	path = wc/cv/ewd
 	url = .
+[submodule "wc/ky/yiw"]
+	path = wc/ky/yiw
+	url = .
 [submodule "wc/vt/dcr"]
 	path = wc/vt/dcr
 	url = .
