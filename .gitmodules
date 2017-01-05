@@ -5008,6 +5008,9 @@
 [submodule "ci/jb/wmn"]
 	path = ci/jb/wmn
 	url = .
+[submodule "ci/js/dgr"]
+	path = ci/js/dgr
+	url = .
 [submodule "ci/jz/zkh"]
 	path = ci/jz/zkh
 	url = .
