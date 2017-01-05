@@ -6445,6 +6445,9 @@
 [submodule "cy/iw/yim"]
 	path = cy/iw/yim
 	url = .
+[submodule "cy/ix/ngm"]
+	path = cy/ix/ngm
+	url = .
 [submodule "cy/iy/uhj"]
 	path = cy/iy/uhj
 	url = .
