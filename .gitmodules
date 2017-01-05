@@ -5968,6 +5968,9 @@
 [submodule "qz/ms/ksc"]
 	path = qz/ms/ksc
 	url = .
+[submodule "qz/qe/lvp"]
+	path = qz/qe/lvp
+	url = .
 [submodule "qz/vo/osx"]
 	path = qz/vo/osx
 	url = .
