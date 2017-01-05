@@ -13186,6 +13186,9 @@
 [submodule "kc/jh/rav"]
 	path = kc/jh/rav
 	url = .
+[submodule "kc/kr/wmc"]
+	path = kc/kr/wmc
+	url = .
 [submodule "kc/lz/aoc"]
 	path = kc/lz/aoc
 	url = .
