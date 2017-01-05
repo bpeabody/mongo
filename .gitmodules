@@ -23212,6 +23212,9 @@
 [submodule "oh/jy/vtj"]
 	path = oh/jy/vtj
 	url = .
+[submodule "oh/ko/ram"]
+	path = oh/ko/ram
+	url = .
 [submodule "oh/lx/knv"]
 	path = oh/lx/knv
 	url = .
