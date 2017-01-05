@@ -18859,6 +18859,9 @@
 [submodule "no/hr/uer"]
 	path = no/hr/uer
 	url = .
+[submodule "no/hv/dso"]
+	path = no/hv/dso
+	url = .
 [submodule "no/ie/dvh"]
 	path = no/ie/dvh
 	url = .
