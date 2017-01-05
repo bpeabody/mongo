@@ -3985,6 +3985,9 @@
 [submodule "cj/rs/ofq"]
 	path = cj/rs/ofq
 	url = .
+[submodule "cj/rz/nsl"]
+	path = cj/rz/nsl
+	url = .
 [submodule "cj/ua/eft"]
 	path = cj/ua/eft
 	url = .
