@@ -24778,6 +24778,9 @@
 [submodule "sq/iv/skk"]
 	path = sq/iv/skk
 	url = .
+[submodule "sq/kx/psy"]
+	path = sq/kx/psy
+	url = .
 [submodule "sq/lk/ape"]
 	path = sq/lk/ape
 	url = .
