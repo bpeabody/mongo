@@ -13489,6 +13489,9 @@
 [submodule "ew/ep/dnr"]
 	path = ew/ep/dnr
 	url = .
+[submodule "ew/ex/qlu"]
+	path = ew/ex/qlu
+	url = .
 [submodule "ew/fd/udu"]
 	path = ew/fd/udu
 	url = .
