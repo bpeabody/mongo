@@ -37120,6 +37120,9 @@
 [submodule "tn/dq/ywy"]
 	path = tn/dq/ywy
 	url = .
+[submodule "tn/du/ayh"]
+	path = tn/du/ayh
+	url = .
 [submodule "tn/gv/ygg"]
 	path = tn/gv/ygg
 	url = .
