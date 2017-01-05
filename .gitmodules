@@ -8230,6 +8230,9 @@
 [submodule "oe/mg/hrm"]
 	path = oe/mg/hrm
 	url = .
+[submodule "oe/mq/woq"]
+	path = oe/mq/woq
+	url = .
 [submodule "oe/pk/tub"]
 	path = oe/pk/tub
 	url = .
