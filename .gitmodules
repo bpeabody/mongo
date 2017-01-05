@@ -616,6 +616,9 @@
 [submodule "am/ze/hit"]
 	path = am/ze/hit
 	url = .
+[submodule "an/af/gui"]
+	path = an/af/gui
+	url = .
 [submodule "an/cr/fax"]
 	path = an/cr/fax
 	url = .
