@@ -3451,6 +3451,9 @@
 [submodule "bf/fg/znz"]
 	path = bf/fg/znz
 	url = .
+[submodule "bf/fv/mwg"]
+	path = bf/fv/mwg
+	url = .
 [submodule "bf/gf/vfh"]
 	path = bf/gf/vfh
 	url = .
