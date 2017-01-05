@@ -5383,6 +5383,9 @@
 [submodule "ma/lj/pii"]
 	path = ma/lj/pii
 	url = .
+[submodule "ma/mt/zok"]
+	path = ma/mt/zok
+	url = .
 [submodule "ma/wt/gen"]
 	path = ma/wt/gen
 	url = .
