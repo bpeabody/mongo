@@ -65959,6 +65959,9 @@
 [submodule "xt/mh/khc"]
 	path = xt/mh/khc
 	url = .
+[submodule "xt/mn/hdy"]
+	path = xt/mn/hdy
+	url = .
 [submodule "xt/ng/kuu"]
 	path = xt/ng/kuu
 	url = .
