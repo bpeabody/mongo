@@ -12205,6 +12205,9 @@
 [submodule "ry/yj/sjd"]
 	path = ry/yj/sjd
 	url = .
+[submodule "ry/yl/fct"]
+	path = ry/yl/fct
+	url = .
 [submodule "rz/aw/zxn"]
 	path = rz/aw/zxn
 	url = .
