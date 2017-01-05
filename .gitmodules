@@ -41362,6 +41362,9 @@
 [submodule "zd/gk/squ"]
 	path = zd/gk/squ
 	url = .
+[submodule "zd/hp/acg"]
+	path = zd/hp/acg
+	url = .
 [submodule "zd/id/whh"]
 	path = zd/id/whh
 	url = .
