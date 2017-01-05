@@ -7681,6 +7681,9 @@
 [submodule "ld/ho/xus"]
 	path = ld/ho/xus
 	url = .
+[submodule "ld/jo/plu"]
+	path = ld/jo/plu
+	url = .
 [submodule "ld/rc/eqv"]
 	path = ld/rc/eqv
 	url = .
