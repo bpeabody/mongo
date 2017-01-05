@@ -36766,6 +36766,9 @@
 [submodule "qd/ub/tfj"]
 	path = qd/ub/tfj
 	url = .
+[submodule "qd/vc/alm"]
+	path = qd/vc/alm
+	url = .
 [submodule "qd/vj/hru"]
 	path = qd/vj/hru
 	url = .
