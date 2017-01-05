@@ -12106,6 +12106,9 @@
 [submodule "hq/fl/ehd"]
 	path = hq/fl/ehd
 	url = .
+[submodule "hq/fw/kfz"]
+	path = hq/fw/kfz
+	url = .
 [submodule "hq/jf/kfe"]
 	path = hq/jf/kfe
 	url = .
