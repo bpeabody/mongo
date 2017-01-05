@@ -28936,6 +28936,9 @@
 [submodule "qk/vd/red"]
 	path = qk/vd/red
 	url = .
+[submodule "qk/yd/pxb"]
+	path = qk/yd/pxb
+	url = .
 [submodule "qk/zd/xjs"]
 	path = qk/zd/xjs
 	url = .
