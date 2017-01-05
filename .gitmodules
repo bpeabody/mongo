@@ -2047,6 +2047,9 @@
 [submodule "vu/gx/rlb"]
 	path = vu/gx/rlb
 	url = .
+[submodule "vu/mo/qfi"]
+	path = vu/mo/qfi
+	url = .
 [submodule "vv/xk/bft"]
 	path = vv/xk/bft
 	url = .
