@@ -23131,6 +23131,9 @@
 [submodule "os/qa/vkm"]
 	path = os/qa/vkm
 	url = .
+[submodule "os/st/kpn"]
+	path = os/st/kpn
+	url = .
 [submodule "os/tj/qjk"]
 	path = os/tj/qjk
 	url = .
