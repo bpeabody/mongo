@@ -8722,6 +8722,9 @@
 [submodule "et/la/shi"]
 	path = et/la/shi
 	url = .
+[submodule "et/ml/yzs"]
+	path = et/ml/yzs
+	url = .
 [submodule "et/mo/pfa"]
 	path = et/mo/pfa
 	url = .
