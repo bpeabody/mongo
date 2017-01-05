@@ -5725,6 +5725,9 @@
 [submodule "il/me/klq"]
 	path = il/me/klq
 	url = .
+[submodule "il/mt/qoa"]
+	path = il/mt/qoa
+	url = .
 [submodule "il/ob/uta"]
 	path = il/ob/uta
 	url = .
