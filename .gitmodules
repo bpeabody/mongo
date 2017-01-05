@@ -6883,6 +6883,9 @@
 [submodule "rk/hp/xve"]
 	path = rk/hp/xve
 	url = .
+[submodule "rk/jk/eoi"]
+	path = rk/jk/eoi
+	url = .
 [submodule "rk/sm/uba"]
 	path = rk/sm/uba
 	url = .
