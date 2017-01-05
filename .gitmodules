@@ -12028,6 +12028,9 @@
 [submodule "no/wo/sxg"]
 	path = no/wo/sxg
 	url = .
+[submodule "np/cs/vsu"]
+	path = np/cs/vsu
+	url = .
 [submodule "np/dq/tke"]
 	path = np/dq/tke
 	url = .
