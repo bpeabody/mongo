@@ -3178,6 +3178,9 @@
 [submodule "pe/zp/spl"]
 	path = pe/zp/spl
 	url = .
+[submodule "pf/gz/bcb"]
+	path = pf/gz/bcb
+	url = .
 [submodule "pf/ob/psu"]
 	path = pf/ob/psu
 	url = .
