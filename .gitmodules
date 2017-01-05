@@ -23104,6 +23104,9 @@
 [submodule "so/bw/ayw"]
 	path = so/bw/ayw
 	url = .
+[submodule "so/ce/lao"]
+	path = so/ce/lao
+	url = .
 [submodule "so/hk/icc"]
 	path = so/hk/icc
 	url = .
