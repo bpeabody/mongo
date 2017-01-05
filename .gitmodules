@@ -11311,6 +11311,9 @@
 [submodule "hx/hq/ubv"]
 	path = hx/hq/ubv
 	url = .
+[submodule "hx/ih/yar"]
+	path = hx/ih/yar
+	url = .
 [submodule "hx/ji/ggp"]
 	path = hx/ji/ggp
 	url = .
