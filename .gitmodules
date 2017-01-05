@@ -30541,6 +30541,9 @@
 [submodule "yz/fh/nbs"]
 	path = yz/fh/nbs
 	url = .
+[submodule "yz/ft/bui"]
+	path = yz/ft/bui
+	url = .
 [submodule "yz/gr/sal"]
 	path = yz/gr/sal
 	url = .
