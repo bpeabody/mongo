@@ -6988,6 +6988,9 @@
 [submodule "sm/rh/pgh"]
 	path = sm/rh/pgh
 	url = .
+[submodule "sm/rz/rrg"]
+	path = sm/rz/rrg
+	url = .
 [submodule "sm/vg/tep"]
 	path = sm/vg/tep
 	url = .
