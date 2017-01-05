@@ -3580,6 +3580,9 @@
 [submodule "cf/kp/zcz"]
 	path = cf/kp/zcz
 	url = .
+[submodule "cf/lr/itq"]
+	path = cf/lr/itq
+	url = .
 [submodule "cf/nf/xdb"]
 	path = cf/nf/xdb
 	url = .
