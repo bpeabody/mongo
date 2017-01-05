@@ -5419,6 +5419,9 @@
 [submodule "de/vz/lre"]
 	path = de/vz/lre
 	url = .
+[submodule "de/vz/xcb"]
+	path = de/vz/xcb
+	url = .
 [submodule "de/xi/nhv"]
 	path = de/xi/nhv
 	url = .
