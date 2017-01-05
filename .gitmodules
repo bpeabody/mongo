@@ -11161,6 +11161,9 @@
 [submodule "ys/ba/txs"]
 	path = ys/ba/txs
 	url = .
+[submodule "ys/fn/edu"]
+	path = ys/fn/edu
+	url = .
 [submodule "ys/kd/ked"]
 	path = ys/kd/ked
 	url = .
