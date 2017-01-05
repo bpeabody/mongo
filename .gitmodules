@@ -44701,6 +44701,9 @@
 [submodule "rj/pv/dyn"]
 	path = rj/pv/dyn
 	url = .
+[submodule "rj/qn/qvn"]
+	path = rj/qn/qvn
+	url = .
 [submodule "rj/ro/ndc"]
 	path = rj/ro/ndc
 	url = .
