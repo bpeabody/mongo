@@ -16558,6 +16558,9 @@
 [submodule "nu/dv/lnn"]
 	path = nu/dv/lnn
 	url = .
+[submodule "nu/ew/rns"]
+	path = nu/ew/rns
+	url = .
 [submodule "nu/hv/mdv"]
 	path = nu/hv/mdv
 	url = .
