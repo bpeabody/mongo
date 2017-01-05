@@ -37996,6 +37996,9 @@
 [submodule "qa/jq/nub"]
 	path = qa/jq/nub
 	url = .
+[submodule "qa/kc/vdg"]
+	path = qa/kc/vdg
+	url = .
 [submodule "qa/kv/qmj"]
 	path = qa/kv/qmj
 	url = .
