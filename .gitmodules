@@ -7837,6 +7837,9 @@
 [submodule "eb/hc/kff"]
 	path = eb/hc/kff
 	url = .
+[submodule "eb/hp/gcd"]
+	path = eb/hp/gcd
+	url = .
 [submodule "eb/ia/pum"]
 	path = eb/ia/pum
 	url = .
