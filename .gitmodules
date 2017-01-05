@@ -385,6 +385,9 @@
 [submodule "yd/da/qsb"]
 	path = yd/da/qsb
 	url = .
+[submodule "yj/bz/jdu"]
+	path = yj/bz/jdu
+	url = .
 [submodule "yp/vq/iys"]
 	path = yp/vq/iys
 	url = .
