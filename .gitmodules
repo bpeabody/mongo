@@ -14365,6 +14365,9 @@
 [submodule "gt/vl/pns"]
 	path = gt/vl/pns
 	url = .
+[submodule "gt/we/aaz"]
+	path = gt/we/aaz
+	url = .
 [submodule "gt/wh/isl"]
 	path = gt/wh/isl
 	url = .
