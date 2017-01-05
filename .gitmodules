@@ -39949,6 +39949,9 @@
 [submodule "yg/fm/kqy"]
 	path = yg/fm/kqy
 	url = .
+[submodule "yg/gn/cdn"]
+	path = yg/gn/cdn
+	url = .
 [submodule "yg/hs/yah"]
 	path = yg/hs/yah
 	url = .
