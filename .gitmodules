@@ -2833,6 +2833,9 @@
 [submodule "jr/iu/oka"]
 	path = jr/iu/oka
 	url = .
+[submodule "jr/lk/chy"]
+	path = jr/lk/chy
+	url = .
 [submodule "jr/uz/gog"]
 	path = jr/uz/gog
 	url = .
