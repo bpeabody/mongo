@@ -7387,6 +7387,9 @@
 [submodule "jc/ro/cqd"]
 	path = jc/ro/cqd
 	url = .
+[submodule "jc/ro/rez"]
+	path = jc/ro/rez
+	url = .
 [submodule "jc/ur/wxt"]
 	path = jc/ur/wxt
 	url = .
