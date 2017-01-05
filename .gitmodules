@@ -5074,6 +5074,9 @@
 [submodule "py/xu/nqw"]
 	path = py/xu/nqw
 	url = .
+[submodule "py/xz/fia"]
+	path = py/xz/fia
+	url = .
 [submodule "pz/iz/jkj"]
 	path = pz/iz/jkj
 	url = .
