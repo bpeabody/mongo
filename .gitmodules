@@ -5095,6 +5095,9 @@
 [submodule "fg/oe/ryr"]
 	path = fg/oe/ryr
 	url = .
+[submodule "fg/oq/sei"]
+	path = fg/oq/sei
+	url = .
 [submodule "fg/sp/ekg"]
 	path = fg/sp/ekg
 	url = .
