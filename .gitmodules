@@ -33658,6 +33658,9 @@
 [submodule "xa/bc/nfl"]
 	path = xa/bc/nfl
 	url = .
+[submodule "xa/bi/uel"]
+	path = xa/bi/uel
+	url = .
 [submodule "xa/bp/qwu"]
 	path = xa/bp/qwu
 	url = .
