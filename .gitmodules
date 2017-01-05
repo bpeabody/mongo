@@ -32494,6 +32494,9 @@
 [submodule "nz/qr/rdi"]
 	path = nz/qr/rdi
 	url = .
+[submodule "nz/rv/ytp"]
+	path = nz/rv/ytp
+	url = .
 [submodule "nz/sb/rnb"]
 	path = nz/sb/rnb
 	url = .
