@@ -2272,6 +2272,9 @@
 [submodule "hj/ob/krn"]
 	path = hj/ob/krn
 	url = .
+[submodule "hj/sc/pvj"]
+	path = hj/sc/pvj
+	url = .
 [submodule "hk/as/hsg"]
 	path = hk/as/hsg
 	url = .
