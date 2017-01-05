@@ -9928,6 +9928,9 @@
 [submodule "dj/gm/vzt"]
 	path = dj/gm/vzt
 	url = .
+[submodule "dj/gu/lxb"]
+	path = dj/gu/lxb
+	url = .
 [submodule "dj/gx/emv"]
 	path = dj/gx/emv
 	url = .
