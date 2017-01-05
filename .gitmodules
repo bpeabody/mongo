@@ -5539,6 +5539,9 @@
 [submodule "pb/ph/dnh"]
 	path = pb/ph/dnh
 	url = .
+[submodule "pb/ri/kfs"]
+	path = pb/ri/kfs
+	url = .
 [submodule "pc/ii/qei"]
 	path = pc/ii/qei
 	url = .
