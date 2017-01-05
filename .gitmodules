@@ -27715,6 +27715,9 @@
 [submodule "ml/kw/rwl"]
 	path = ml/kw/rwl
 	url = .
+[submodule "ml/kx/uyu"]
+	path = ml/kx/uyu
+	url = .
 [submodule "ml/lg/afr"]
 	path = ml/lg/afr
 	url = .
