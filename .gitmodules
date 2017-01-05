@@ -14002,6 +14002,9 @@
 [submodule "te/rf/uoo"]
 	path = te/rf/uoo
 	url = .
+[submodule "te/wt/bmn"]
+	path = te/wt/bmn
+	url = .
 [submodule "tf/aq/esa"]
 	path = tf/aq/esa
 	url = .
