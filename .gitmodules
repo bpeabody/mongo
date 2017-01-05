@@ -1240,6 +1240,9 @@
 [submodule "bx/tb/cbr"]
 	path = bx/tb/cbr
 	url = .
+[submodule "bx/vj/rqk"]
+	path = bx/vj/rqk
+	url = .
 [submodule "by/ek/aor"]
 	path = by/ek/aor
 	url = .
