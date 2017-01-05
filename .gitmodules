@@ -9403,6 +9403,9 @@
 [submodule "rs/ia/zvx"]
 	path = rs/ia/zvx
 	url = .
+[submodule "rs/kp/yit"]
+	path = rs/kp/yit
+	url = .
 [submodule "rt/al/dnm"]
 	path = rt/al/dnm
 	url = .
