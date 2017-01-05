@@ -4954,6 +4954,9 @@
 [submodule "ce/ho/qnp"]
 	path = ce/ho/qnp
 	url = .
+[submodule "ce/kl/yhc"]
+	path = ce/kl/yhc
+	url = .
 [submodule "ce/kr/pnb"]
 	path = ce/kr/pnb
 	url = .
