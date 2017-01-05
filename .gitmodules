@@ -28435,6 +28435,9 @@
 [submodule "za/yx/any"]
 	path = za/yx/any
 	url = .
+[submodule "zb/ar/xdg"]
+	path = zb/ar/xdg
+	url = .
 [submodule "zb/ga/ttt"]
 	path = zb/ga/ttt
 	url = .
