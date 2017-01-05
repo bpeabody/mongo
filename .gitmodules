@@ -30880,6 +30880,9 @@
 [submodule "yh/rq/ovq"]
 	path = yh/rq/ovq
 	url = .
+[submodule "yh/sy/xcd"]
+	path = yh/sy/xcd
+	url = .
 [submodule "yh/td/kxf"]
 	path = yh/td/kxf
 	url = .
