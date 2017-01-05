@@ -6139,6 +6139,9 @@
 [submodule "cm/tp/amq"]
 	path = cm/tp/amq
 	url = .
+[submodule "cm/uj/zng"]
+	path = cm/uj/zng
+	url = .
 [submodule "cm/un/tfg"]
 	path = cm/un/tfg
 	url = .
