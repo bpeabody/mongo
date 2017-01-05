@@ -1384,6 +1384,9 @@
 [submodule "as/cb/szf"]
 	path = as/cb/szf
 	url = .
+[submodule "as/eh/xxw"]
+	path = as/eh/xxw
+	url = .
 [submodule "as/hs/emb"]
 	path = as/hs/emb
 	url = .
