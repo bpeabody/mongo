@@ -2452,6 +2452,9 @@
 [submodule "da/ch/wuz"]
 	path = da/ch/wuz
 	url = .
+[submodule "da/cj/hqc"]
+	path = da/cj/hqc
+	url = .
 [submodule "da/fs/wna"]
 	path = da/fs/wna
 	url = .
