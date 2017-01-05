@@ -19378,6 +19378,9 @@
 [submodule "qp/fw/ccf"]
 	path = qp/fw/ccf
 	url = .
+[submodule "qp/hc/bum"]
+	path = qp/hc/bum
+	url = .
 [submodule "qp/jp/ujb"]
 	path = qp/jp/ujb
 	url = .
