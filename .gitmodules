@@ -673,6 +673,9 @@
 [submodule "aw/ki/cpb"]
 	path = aw/ki/cpb
 	url = .
+[submodule "aw/kp/hct"]
+	path = aw/kp/hct
+	url = .
 [submodule "ax/ak/dty"]
 	path = ax/ak/dty
 	url = .
