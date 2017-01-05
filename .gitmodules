@@ -4744,6 +4744,9 @@
 [submodule "hj/sg/lkq"]
 	path = hj/sg/lkq
 	url = .
+[submodule "hj/zn/bzh"]
+	path = hj/zn/bzh
+	url = .
 [submodule "hk/as/hsg"]
 	path = hk/as/hsg
 	url = .
