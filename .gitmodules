@@ -18484,6 +18484,9 @@
 [submodule "tg/lr/ozx"]
 	path = tg/lr/ozx
 	url = .
+[submodule "tg/ng/zal"]
+	path = tg/ng/zal
+	url = .
 [submodule "tg/ps/bdd"]
 	path = tg/ps/bdd
 	url = .
