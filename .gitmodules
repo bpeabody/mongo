@@ -71248,6 +71248,9 @@
 [submodule "zv/zb/mze"]
 	path = zv/zb/mze
 	url = .
+[submodule "zv/zr/avg"]
+	path = zv/zr/avg
+	url = .
 [submodule "zv/zv/ags"]
 	path = zv/zv/ags
 	url = .
