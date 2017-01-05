@@ -5641,6 +5641,9 @@
 [submodule "cf/rj/sje"]
 	path = cf/rj/sje
 	url = .
+[submodule "cf/ro/qkx"]
+	path = cf/ro/qkx
+	url = .
 [submodule "cf/su/umu"]
 	path = cf/su/umu
 	url = .
