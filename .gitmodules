@@ -10714,6 +10714,9 @@
 [submodule "lg/hp/ofq"]
 	path = lg/hp/ofq
 	url = .
+[submodule "lg/lb/fsu"]
+	path = lg/lb/fsu
+	url = .
 [submodule "lg/mo/but"]
 	path = lg/mo/but
 	url = .
