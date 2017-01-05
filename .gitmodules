@@ -17512,6 +17512,9 @@
 [submodule "nt/kp/vwm"]
 	path = nt/kp/vwm
 	url = .
+[submodule "nt/mw/jvc"]
+	path = nt/mw/jvc
+	url = .
 [submodule "nt/nz/nzb"]
 	path = nt/nz/nzb
 	url = .
