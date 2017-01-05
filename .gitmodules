@@ -17176,6 +17176,9 @@
 [submodule "uc/pe/lcz"]
 	path = uc/pe/lcz
 	url = .
+[submodule "uc/qj/kyo"]
+	path = uc/qj/kyo
+	url = .
 [submodule "uc/qs/adw"]
 	path = uc/qs/adw
 	url = .
