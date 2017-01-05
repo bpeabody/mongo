@@ -3409,6 +3409,9 @@
 [submodule "ii/mx/rgq"]
 	path = ii/mx/rgq
 	url = .
+[submodule "ii/oz/nop"]
+	path = ii/oz/nop
+	url = .
 [submodule "ii/sv/yun"]
 	path = ii/sv/yun
 	url = .
