@@ -1141,6 +1141,9 @@
 [submodule "ez/mi/rts"]
 	path = ez/mi/rts
 	url = .
+[submodule "ez/ok/zon"]
+	path = ez/ok/zon
+	url = .
 [submodule "ez/pt/rwn"]
 	path = ez/pt/rwn
 	url = .
