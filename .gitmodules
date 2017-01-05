@@ -46954,6 +46954,9 @@
 [submodule "zg/mg/xan"]
 	path = zg/mg/xan
 	url = .
+[submodule "zg/pg/hog"]
+	path = zg/pg/hog
+	url = .
 [submodule "zg/pn/pki"]
 	path = zg/pn/pki
 	url = .
