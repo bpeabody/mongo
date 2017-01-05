@@ -33259,6 +33259,9 @@
 [submodule "oe/mg/hrm"]
 	path = oe/mg/hrm
 	url = .
+[submodule "oe/mq/itj"]
+	path = oe/mq/itj
+	url = .
 [submodule "oe/mq/woq"]
 	path = oe/mq/woq
 	url = .
