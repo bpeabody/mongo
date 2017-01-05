@@ -2677,6 +2677,9 @@
 [submodule "lm/bn/iku"]
 	path = lm/bn/iku
 	url = .
+[submodule "lm/dz/ezn"]
+	path = lm/dz/ezn
+	url = .
 [submodule "ln/cg/kbx"]
 	path = ln/cg/kbx
 	url = .
