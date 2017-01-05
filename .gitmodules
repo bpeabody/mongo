@@ -24220,6 +24220,9 @@
 [submodule "iw/iv/ngk"]
 	path = iw/iv/ngk
 	url = .
+[submodule "iw/jh/yao"]
+	path = iw/jh/yao
+	url = .
 [submodule "iw/jt/rsw"]
 	path = iw/jt/rsw
 	url = .
