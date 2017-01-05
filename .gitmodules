@@ -38902,6 +38902,9 @@
 [submodule "ni/wa/hib"]
 	path = ni/wa/hib
 	url = .
+[submodule "ni/xc/kjo"]
+	path = ni/xc/kjo
+	url = .
 [submodule "ni/xg/hot"]
 	path = ni/xg/hot
 	url = .
