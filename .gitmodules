@@ -6748,6 +6748,9 @@
 [submodule "ij/pc/baa"]
 	path = ij/pc/baa
 	url = .
+[submodule "ij/sp/idk"]
+	path = ij/sp/idk
+	url = .
 [submodule "ij/xb/gzu"]
 	path = ij/xb/gzu
 	url = .
