@@ -8182,6 +8182,9 @@
 [submodule "dw/cl/aqt"]
 	path = dw/cl/aqt
 	url = .
+[submodule "dw/co/fgi"]
+	path = dw/co/fgi
+	url = .
 [submodule "dw/di/jkg"]
 	path = dw/di/jkg
 	url = .
