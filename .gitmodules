@@ -39469,6 +39469,9 @@
 [submodule "si/qv/iea"]
 	path = si/qv/iea
 	url = .
+[submodule "si/so/xjn"]
+	path = si/so/xjn
+	url = .
 [submodule "si/uz/elt"]
 	path = si/uz/elt
 	url = .
