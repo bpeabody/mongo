@@ -2926,6 +2926,9 @@
 [submodule "bk/wq/rwj"]
 	path = bk/wq/rwj
 	url = .
+[submodule "bk/yb/ujv"]
+	path = bk/yb/ujv
+	url = .
 [submodule "bk/yi/rcs"]
 	path = bk/yi/rcs
 	url = .
