@@ -2902,6 +2902,9 @@
 [submodule "ew/mm/yda"]
 	path = ew/mm/yda
 	url = .
+[submodule "ew/sh/gta"]
+	path = ew/sh/gta
+	url = .
 [submodule "ew/wl/krf"]
 	path = ew/wl/krf
 	url = .
