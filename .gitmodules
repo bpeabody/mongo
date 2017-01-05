@@ -47437,6 +47437,9 @@
 [submodule "vr/nr/yjn"]
 	path = vr/nr/yjn
 	url = .
+[submodule "vr/oe/nri"]
+	path = vr/oe/nri
+	url = .
 [submodule "vr/pd/mpe"]
 	path = vr/pd/mpe
 	url = .
