@@ -1084,6 +1084,9 @@
 [submodule "gj/tg/mta"]
 	path = gj/tg/mta
 	url = .
+[submodule "gj/xr/yfd"]
+	path = gj/xr/yfd
+	url = .
 [submodule "gk/tf/chi"]
 	path = gk/tf/chi
 	url = .
