@@ -1660,6 +1660,9 @@
 [submodule "ls/gu/hls"]
 	path = ls/gu/hls
 	url = .
+[submodule "ls/gu/xmc"]
+	path = ls/gu/xmc
+	url = .
 [submodule "lt/iv/wyq"]
 	path = lt/iv/wyq
 	url = .
