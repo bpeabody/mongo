@@ -25237,6 +25237,9 @@
 [submodule "jg/oh/mnh"]
 	path = jg/oh/mnh
 	url = .
+[submodule "jg/ri/dpf"]
+	path = jg/ri/dpf
+	url = .
 [submodule "jg/sq/uyl"]
 	path = jg/sq/uyl
 	url = .
