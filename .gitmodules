@@ -23350,6 +23350,9 @@
 [submodule "ka/fw/vpc"]
 	path = ka/fw/vpc
 	url = .
+[submodule "ka/gq/rym"]
+	path = ka/gq/rym
+	url = .
 [submodule "ka/ia/wgs"]
 	path = ka/ia/wgs
 	url = .
