@@ -6475,6 +6475,9 @@
 [submodule "wg/jc/rhz"]
 	path = wg/jc/rhz
 	url = .
+[submodule "wg/la/vex"]
+	path = wg/la/vex
+	url = .
 [submodule "wg/xd/hwn"]
 	path = wg/xd/hwn
 	url = .
