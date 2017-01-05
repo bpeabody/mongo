@@ -4744,6 +4744,9 @@
 [submodule "cb/lk/cgr"]
 	path = cb/lk/cgr
 	url = .
+[submodule "cb/lv/mnl"]
+	path = cb/lv/mnl
+	url = .
 [submodule "cb/ms/iav"]
 	path = cb/ms/iav
 	url = .
