@@ -8062,6 +8062,9 @@
 [submodule "gu/xt/kjj"]
 	path = gu/xt/kjj
 	url = .
+[submodule "gu/zj/mep"]
+	path = gu/zj/mep
+	url = .
 [submodule "gv/bg/ztf"]
 	path = gv/bg/ztf
 	url = .
