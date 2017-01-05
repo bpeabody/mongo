@@ -10978,6 +10978,9 @@
 [submodule "wn/fw/bqq"]
 	path = wn/fw/bqq
 	url = .
+[submodule "wn/kz/syi"]
+	path = wn/kz/syi
+	url = .
 [submodule "wn/md/mim"]
 	path = wn/md/mim
 	url = .
