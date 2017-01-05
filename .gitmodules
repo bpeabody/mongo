@@ -35587,6 +35587,9 @@
 [submodule "ym/bm/bcu"]
 	path = ym/bm/bcu
 	url = .
+[submodule "ym/by/ika"]
+	path = ym/by/ika
+	url = .
 [submodule "ym/cf/gaf"]
 	path = ym/cf/gaf
 	url = .
