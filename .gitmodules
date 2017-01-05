@@ -15976,6 +15976,9 @@
 [submodule "nn/bk/rzy"]
 	path = nn/bk/rzy
 	url = .
+[submodule "nn/by/dbz"]
+	path = nn/by/dbz
+	url = .
 [submodule "nn/cs/wnm"]
 	path = nn/cs/wnm
 	url = .
