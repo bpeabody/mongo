@@ -31216,6 +31216,9 @@
 [submodule "rm/ht/djq"]
 	path = rm/ht/djq
 	url = .
+[submodule "rm/ia/hqj"]
+	path = rm/ia/hqj
+	url = .
 [submodule "rm/iq/etf"]
 	path = rm/iq/etf
 	url = .
