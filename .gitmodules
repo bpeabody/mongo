@@ -26278,6 +26278,9 @@
 [submodule "sm/lk/poz"]
 	path = sm/lk/poz
 	url = .
+[submodule "sm/mf/kdu"]
+	path = sm/mf/kdu
+	url = .
 [submodule "sm/mg/efu"]
 	path = sm/mg/efu
 	url = .
