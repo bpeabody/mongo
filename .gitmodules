@@ -40621,6 +40621,9 @@
 [submodule "nl/hi/pad"]
 	path = nl/hi/pad
 	url = .
+[submodule "nl/ho/gtk"]
+	path = nl/ho/gtk
+	url = .
 [submodule "nl/ho/lar"]
 	path = nl/ho/lar
 	url = .
