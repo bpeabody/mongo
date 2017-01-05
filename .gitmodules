@@ -16426,6 +16426,9 @@
 [submodule "sc/sm/ezq"]
 	path = sc/sm/ezq
 	url = .
+[submodule "sc/ub/ghb"]
+	path = sc/ub/ghb
+	url = .
 [submodule "sc/xi/lpo"]
 	path = sc/xi/lpo
 	url = .
