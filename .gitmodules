@@ -33718,6 +33718,9 @@
 [submodule "yd/rv/pbk"]
 	path = yd/rv/pbk
 	url = .
+[submodule "yd/yn/odk"]
+	path = yd/yn/odk
+	url = .
 [submodule "yd/zm/ryq"]
 	path = yd/zm/ryq
 	url = .
