@@ -2446,6 +2446,9 @@
 [submodule "ga/fs/ast"]
 	path = ga/fs/ast
 	url = .
+[submodule "ga/nb/kbd"]
+	path = ga/nb/kbd
+	url = .
 [submodule "ga/ut/ygg"]
 	path = ga/ut/ygg
 	url = .
