@@ -9943,6 +9943,9 @@
 [submodule "mm/hd/rkl"]
 	path = mm/hd/rkl
 	url = .
+[submodule "mm/hi/mdl"]
+	path = mm/hi/mdl
+	url = .
 [submodule "mm/jl/dfe"]
 	path = mm/jl/dfe
 	url = .
