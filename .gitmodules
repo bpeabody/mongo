@@ -15625,6 +15625,9 @@
 [submodule "fv/wk/luh"]
 	path = fv/wk/luh
 	url = .
+[submodule "fv/yz/yfd"]
+	path = fv/yz/yfd
+	url = .
 [submodule "fw/ae/zue"]
 	path = fw/ae/zue
 	url = .
