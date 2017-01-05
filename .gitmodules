@@ -11407,6 +11407,9 @@
 [submodule "ni/gw/bys"]
 	path = ni/gw/bys
 	url = .
+[submodule "ni/ls/rum"]
+	path = ni/ls/rum
+	url = .
 [submodule "ni/nw/ajn"]
 	path = ni/nw/ajn
 	url = .
