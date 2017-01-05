@@ -24499,6 +24499,9 @@
 [submodule "uh/oc/wfm"]
 	path = uh/oc/wfm
 	url = .
+[submodule "uh/ua/bqo"]
+	path = uh/ua/bqo
+	url = .
 [submodule "uh/wz/ipe"]
 	path = uh/wz/ipe
 	url = .
