@@ -29119,6 +29119,9 @@
 [submodule "we/ix/ffb"]
 	path = we/ix/ffb
 	url = .
+[submodule "we/ma/akf"]
+	path = we/ma/akf
+	url = .
 [submodule "we/mv/cqp"]
 	path = we/mv/cqp
 	url = .
