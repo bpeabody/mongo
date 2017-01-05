@@ -13048,6 +13048,9 @@
 [submodule "qw/ab/ych"]
 	path = qw/ab/ych
 	url = .
+[submodule "qw/cq/mhw"]
+	path = qw/cq/mhw
+	url = .
 [submodule "qw/dh/pap"]
 	path = qw/dh/pap
 	url = .
