@@ -16036,6 +16036,9 @@
 [submodule "hx/bo/enr"]
 	path = hx/bo/enr
 	url = .
+[submodule "hx/bp/qpi"]
+	path = hx/bp/qpi
+	url = .
 [submodule "hx/db/jyo"]
 	path = hx/db/jyo
 	url = .
