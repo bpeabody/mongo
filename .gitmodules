@@ -41284,6 +41284,9 @@
 [submodule "xc/dt/wbz"]
 	path = xc/dt/wbz
 	url = .
+[submodule "xc/el/dgm"]
+	path = xc/el/dgm
+	url = .
 [submodule "xc/ez/whe"]
 	path = xc/ez/whe
 	url = .
