@@ -10690,6 +10690,9 @@
 [submodule "dz/cb/nww"]
 	path = dz/cb/nww
 	url = .
+[submodule "dz/eo/plg"]
+	path = dz/eo/plg
+	url = .
 [submodule "dz/ex/yoq"]
 	path = dz/ex/yoq
 	url = .
