@@ -12433,6 +12433,9 @@
 [submodule "ez/ts/ddg"]
 	path = ez/ts/ddg
 	url = .
+[submodule "ez/uu/hue"]
+	path = ez/uu/hue
+	url = .
 [submodule "ez/yd/ouv"]
 	path = ez/yd/ouv
 	url = .
