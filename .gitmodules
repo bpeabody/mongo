@@ -11470,6 +11470,9 @@
 [submodule "ej/ea/eiv"]
 	path = ej/ea/eiv
 	url = .
+[submodule "ej/ea/ijx"]
+	path = ej/ea/ijx
+	url = .
 [submodule "ej/ee/pxh"]
 	path = ej/ee/pxh
 	url = .
