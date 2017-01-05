@@ -8041,6 +8041,9 @@
 [submodule "rb/eb/nut"]
 	path = rb/eb/nut
 	url = .
+[submodule "rb/oo/vpp"]
+	path = rb/oo/vpp
+	url = .
 [submodule "rb/qe/ecs"]
 	path = rb/qe/ecs
 	url = .
