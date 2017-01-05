@@ -2017,6 +2017,9 @@
 [submodule "cl/co/mmh"]
 	path = cl/co/mmh
 	url = .
+[submodule "cl/er/rxh"]
+	path = cl/er/rxh
+	url = .
 [submodule "cl/ht/ioq"]
 	path = cl/ht/ioq
 	url = .
