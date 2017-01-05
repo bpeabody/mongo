@@ -4570,6 +4570,9 @@
 [submodule "ez/sm/irr"]
 	path = ez/sm/irr
 	url = .
+[submodule "ez/sr/nlx"]
+	path = ez/sr/nlx
+	url = .
 [submodule "ez/sv/uzp"]
 	path = ez/sv/uzp
 	url = .
