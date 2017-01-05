@@ -487,6 +487,9 @@
 [submodule "be/rw/iym"]
 	path = be/rw/iym
 	url = .
+[submodule "bf/bo/dye"]
+	path = bf/bo/dye
+	url = .
 [submodule "bf/cs/xic"]
 	path = bf/cs/xic
 	url = .
