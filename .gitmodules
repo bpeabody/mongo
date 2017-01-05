@@ -14659,6 +14659,9 @@
 [submodule "go/ph/vou"]
 	path = go/ph/vou
 	url = .
+[submodule "go/pz/mjd"]
+	path = go/pz/mjd
+	url = .
 [submodule "go/rn/dmz"]
 	path = go/rn/dmz
 	url = .
