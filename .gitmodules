@@ -11077,6 +11077,9 @@
 [submodule "gf/fs/nke"]
 	path = gf/fs/nke
 	url = .
+[submodule "gf/fw/qak"]
+	path = gf/fw/qak
+	url = .
 [submodule "gf/jq/zze"]
 	path = gf/jq/zze
 	url = .
