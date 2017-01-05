@@ -2389,6 +2389,9 @@
 [submodule "au/ug/ygv"]
 	path = au/ug/ygv
 	url = .
+[submodule "au/vn/bcp"]
+	path = au/vn/bcp
+	url = .
 [submodule "au/wq/sjk"]
 	path = au/wq/sjk
 	url = .
