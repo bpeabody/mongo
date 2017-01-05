@@ -6511,6 +6511,9 @@
 [submodule "kd/bn/yfg"]
 	path = kd/bn/yfg
 	url = .
+[submodule "kd/he/gyd"]
+	path = kd/he/gyd
+	url = .
 [submodule "kd/hs/jzp"]
 	path = kd/hs/jzp
 	url = .
