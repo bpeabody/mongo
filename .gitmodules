@@ -20524,6 +20524,9 @@
 [submodule "mm/bw/hot"]
 	path = mm/bw/hot
 	url = .
+[submodule "mm/ez/xaa"]
+	path = mm/ez/xaa
+	url = .
 [submodule "mm/fd/jkk"]
 	path = mm/fd/jkk
 	url = .
