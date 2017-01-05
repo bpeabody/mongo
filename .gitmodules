@@ -130,6 +130,9 @@
 [submodule "ae/sk/qvr"]
 	path = ae/sk/qvr
 	url = .
+[submodule "ae/su/eva"]
+	path = ae/su/eva
+	url = .
 [submodule "ae/yp/byl"]
 	path = ae/yp/byl
 	url = .
