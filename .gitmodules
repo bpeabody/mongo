@@ -9574,6 +9574,9 @@
 [submodule "np/kd/key"]
 	path = np/kd/key
 	url = .
+[submodule "np/lr/dsy"]
+	path = np/lr/dsy
+	url = .
 [submodule "np/mi/umv"]
 	path = np/mi/umv
 	url = .
