@@ -47635,6 +47635,9 @@
 [submodule "tu/cb/agz"]
 	path = tu/cb/agz
 	url = .
+[submodule "tu/ce/uvw"]
+	path = tu/ce/uvw
+	url = .
 [submodule "tu/dq/vvq"]
 	path = tu/dq/vvq
 	url = .
