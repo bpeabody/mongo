@@ -12499,6 +12499,9 @@
 [submodule "et/eo/sfk"]
 	path = et/eo/sfk
 	url = .
+[submodule "et/es/amh"]
+	path = et/es/amh
+	url = .
 [submodule "et/fy/kpp"]
 	path = et/fy/kpp
 	url = .
