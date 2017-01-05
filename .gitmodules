@@ -4270,6 +4270,9 @@
 [submodule "mm/bt/hmo"]
 	path = mm/bt/hmo
 	url = .
+[submodule "mm/bw/hot"]
+	path = mm/bw/hot
+	url = .
 [submodule "mm/hd/rkl"]
 	path = mm/hd/rkl
 	url = .
