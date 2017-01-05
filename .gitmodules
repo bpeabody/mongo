@@ -3508,6 +3508,9 @@
 [submodule "vh/ns/cqg"]
 	path = vh/ns/cqg
 	url = .
+[submodule "vi/xb/tav"]
+	path = vi/xb/tav
+	url = .
 [submodule "vj/dp/rde"]
 	path = vj/dp/rde
 	url = .
