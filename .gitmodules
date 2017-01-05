@@ -577,6 +577,9 @@
 [submodule "ds/fb/vmm"]
 	path = ds/fb/vmm
 	url = .
+[submodule "du/ef/vte"]
+	path = du/ef/vte
+	url = .
 [submodule "du/yv/gvz"]
 	path = du/yv/gvz
 	url = .
