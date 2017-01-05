@@ -25687,6 +25687,9 @@
 [submodule "lr/fl/yjs"]
 	path = lr/fl/yjs
 	url = .
+[submodule "lr/hi/azq"]
+	path = lr/hi/azq
+	url = .
 [submodule "lr/id/rkp"]
 	path = lr/id/rkp
 	url = .
