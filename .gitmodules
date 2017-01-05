@@ -2812,6 +2812,9 @@
 [submodule "ma/wt/gen"]
 	path = ma/wt/gen
 	url = .
+[submodule "mb/va/gee"]
+	path = mb/va/gee
+	url = .
 [submodule "mc/dc/otc"]
 	path = mc/dc/otc
 	url = .
