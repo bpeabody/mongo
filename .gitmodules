@@ -493,6 +493,9 @@
 [submodule "ag/sk/xef"]
 	path = ag/sk/xef
 	url = .
+[submodule "ag/sr/srf"]
+	path = ag/sr/srf
+	url = .
 [submodule "ag/tk/jlz"]
 	path = ag/tk/jlz
 	url = .
