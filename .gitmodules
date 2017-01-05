@@ -23377,6 +23377,9 @@
 [submodule "jr/gm/lpu"]
 	path = jr/gm/lpu
 	url = .
+[submodule "jr/hv/equ"]
+	path = jr/hv/equ
+	url = .
 [submodule "jr/iu/oka"]
 	path = jr/iu/oka
 	url = .
