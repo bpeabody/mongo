@@ -859,6 +859,9 @@
 [submodule "fi/my/npa"]
 	path = fi/my/npa
 	url = .
+[submodule "fk/sj/ary"]
+	path = fk/sj/ary
+	url = .
 [submodule "fk/wo/wac"]
 	path = fk/wo/wac
 	url = .
