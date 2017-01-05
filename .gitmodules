@@ -2656,6 +2656,9 @@
 [submodule "en/yw/ozc"]
 	path = en/yw/ozc
 	url = .
+[submodule "eo/bq/wxb"]
+	path = eo/bq/wxb
+	url = .
 [submodule "eo/hb/hnz"]
 	path = eo/hb/hnz
 	url = .
