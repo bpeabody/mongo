@@ -967,6 +967,9 @@
 [submodule "am/iw/una"]
 	path = am/iw/una
 	url = .
+[submodule "am/iy/gxs"]
+	path = am/iy/gxs
+	url = .
 [submodule "am/ls/pkv"]
 	path = am/ls/pkv
 	url = .
