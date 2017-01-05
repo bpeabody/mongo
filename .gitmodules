@@ -17845,6 +17845,9 @@
 [submodule "vc/uz/xra"]
 	path = vc/uz/xra
 	url = .
+[submodule "vc/wk/cap"]
+	path = vc/wk/cap
+	url = .
 [submodule "vd/ap/bti"]
 	path = vd/ap/bti
 	url = .
