@@ -25465,6 +25465,9 @@
 [submodule "nx/fu/chj"]
 	path = nx/fu/chj
 	url = .
+[submodule "nx/ho/eoy"]
+	path = nx/ho/eoy
+	url = .
 [submodule "nx/km/hcj"]
 	path = nx/km/hcj
 	url = .
