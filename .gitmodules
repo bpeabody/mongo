@@ -41989,6 +41989,9 @@
 [submodule "yn/ah/mnc"]
 	path = yn/ah/mnc
 	url = .
+[submodule "yn/bd/awg"]
+	path = yn/bd/awg
+	url = .
 [submodule "yn/bn/bze"]
 	path = yn/bn/bze
 	url = .
