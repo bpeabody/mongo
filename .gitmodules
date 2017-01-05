@@ -1747,6 +1747,9 @@
 [submodule "bc/ss/hcf"]
 	path = bc/ss/hcf
 	url = .
+[submodule "bc/ua/hav"]
+	path = bc/ua/hav
+	url = .
 [submodule "bc/ua/jip"]
 	path = bc/ua/jip
 	url = .
