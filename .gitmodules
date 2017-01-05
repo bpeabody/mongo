@@ -29779,6 +29779,9 @@
 [submodule "pc/kb/tnr"]
 	path = pc/kb/tnr
 	url = .
+[submodule "pc/ls/xnv"]
+	path = pc/ls/xnv
+	url = .
 [submodule "pc/lz/lei"]
 	path = pc/lz/lei
 	url = .
