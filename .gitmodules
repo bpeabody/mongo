@@ -20347,6 +20347,9 @@
 [submodule "qt/hp/jqu"]
 	path = qt/hp/jqu
 	url = .
+[submodule "qt/io/zve"]
+	path = qt/io/zve
+	url = .
 [submodule "qt/ke/nde"]
 	path = qt/ke/nde
 	url = .
