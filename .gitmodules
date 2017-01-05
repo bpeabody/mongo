@@ -22396,6 +22396,9 @@
 [submodule "uw/bn/xzs"]
 	path = uw/bn/xzs
 	url = .
+[submodule "uw/ep/krw"]
+	path = uw/ep/krw
+	url = .
 [submodule "uw/ix/swk"]
 	path = uw/ix/swk
 	url = .
