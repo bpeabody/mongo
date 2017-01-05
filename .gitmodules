@@ -68005,6 +68005,9 @@
 [submodule "yq/ix/tdc"]
 	path = yq/ix/tdc
 	url = .
+[submodule "yq/jh/qnb"]
+	path = yq/jh/qnb
+	url = .
 [submodule "yq/jj/gmj"]
 	path = yq/jj/gmj
 	url = .
