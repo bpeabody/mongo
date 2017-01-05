@@ -48754,6 +48754,9 @@
 [submodule "ry/ez/oxc"]
 	path = ry/ez/oxc
 	url = .
+[submodule "ry/fu/oed"]
+	path = ry/fu/oed
+	url = .
 [submodule "ry/gm/kun"]
 	path = ry/gm/kun
 	url = .
