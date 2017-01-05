@@ -8653,6 +8653,9 @@
 [submodule "qs/yw/pez"]
 	path = qs/yw/pez
 	url = .
+[submodule "qt/bi/dno"]
+	path = qt/bi/dno
+	url = .
 [submodule "qt/fl/esd"]
 	path = qt/fl/esd
 	url = .
