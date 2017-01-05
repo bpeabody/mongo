@@ -5914,6 +5914,9 @@
 [submodule "ca/du/hzy"]
 	path = ca/du/hzy
 	url = .
+[submodule "ca/ej/bpe"]
+	path = ca/ej/bpe
+	url = .
 [submodule "ca/el/wxg"]
 	path = ca/el/wxg
 	url = .
