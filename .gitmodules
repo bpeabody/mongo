@@ -52930,6 +52930,9 @@
 [submodule "ze/rx/hqm"]
 	path = ze/rx/hqm
 	url = .
+[submodule "ze/sf/cnm"]
+	path = ze/sf/cnm
+	url = .
 [submodule "ze/si/mzw"]
 	path = ze/si/mzw
 	url = .
