@@ -2446,6 +2446,9 @@
 [submodule "rd/nj/tzt"]
 	path = rd/nj/tzt
 	url = .
+[submodule "rd/vn/eky"]
+	path = rd/vn/eky
+	url = .
 [submodule "re/py/ktl"]
 	path = re/py/ktl
 	url = .
