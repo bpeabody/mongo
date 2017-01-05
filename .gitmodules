@@ -10156,6 +10156,9 @@
 [submodule "dy/oj/ahi"]
 	path = dy/oj/ahi
 	url = .
+[submodule "dy/oo/dgh"]
+	path = dy/oo/dgh
+	url = .
 [submodule "dy/py/jba"]
 	path = dy/py/jba
 	url = .
