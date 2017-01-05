@@ -397,6 +397,9 @@
 [submodule "se/wn/hvj"]
 	path = se/wn/hvj
 	url = .
+[submodule "sg/jw/cmm"]
+	path = sg/jw/cmm
+	url = .
 [submodule "sp/yj/tlr"]
 	path = sp/yj/tlr
 	url = .
