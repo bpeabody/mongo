@@ -15790,6 +15790,9 @@
 [submodule "kc/jh/rav"]
 	path = kc/jh/rav
 	url = .
+[submodule "kc/jm/scj"]
+	path = kc/jm/scj
+	url = .
 [submodule "kc/jz/tpz"]
 	path = kc/jz/tpz
 	url = .
