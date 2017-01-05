@@ -60733,6 +60733,9 @@
 [submodule "wj/ml/hdg"]
 	path = wj/ml/hdg
 	url = .
+[submodule "wj/ny/pqj"]
+	path = wj/ny/pqj
+	url = .
 [submodule "wj/qk/lrm"]
 	path = wj/qk/lrm
 	url = .
