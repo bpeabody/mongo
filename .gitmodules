@@ -9190,6 +9190,9 @@
 [submodule "do/hq/fsu"]
 	path = do/hq/fsu
 	url = .
+[submodule "do/hz/wtv"]
+	path = do/hz/wtv
+	url = .
 [submodule "do/jt/xoc"]
 	path = do/jt/xoc
 	url = .
