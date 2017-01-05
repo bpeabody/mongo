@@ -3388,6 +3388,9 @@
 [submodule "bd/jd/aaf"]
 	path = bd/jd/aaf
 	url = .
+[submodule "bd/jk/ufg"]
+	path = bd/jk/ufg
+	url = .
 [submodule "bd/kw/ybc"]
 	path = bd/kw/ybc
 	url = .
