@@ -4444,6 +4444,9 @@
 [submodule "go/hr/ioy"]
 	path = go/hr/ioy
 	url = .
+[submodule "go/ma/hoo"]
+	path = go/ma/hoo
+	url = .
 [submodule "go/mh/hap"]
 	path = go/mh/hap
 	url = .
