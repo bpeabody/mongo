@@ -13951,6 +13951,9 @@
 [submodule "rq/kk/drp"]
 	path = rq/kk/drp
 	url = .
+[submodule "rq/ud/vge"]
+	path = rq/ud/vge
+	url = .
 [submodule "rq/ur/mke"]
 	path = rq/ur/mke
 	url = .
