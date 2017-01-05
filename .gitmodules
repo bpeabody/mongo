@@ -49417,6 +49417,9 @@
 [submodule "ru/ux/mxe"]
 	path = ru/ux/mxe
 	url = .
+[submodule "ru/uz/khz"]
+	path = ru/uz/khz
+	url = .
 [submodule "ru/vk/lqg"]
 	path = ru/vk/lqg
 	url = .
