@@ -2053,6 +2053,9 @@
 [submodule "av/df/prx"]
 	path = av/df/prx
 	url = .
+[submodule "av/dh/lvd"]
+	path = av/dh/lvd
+	url = .
 [submodule "av/dn/eyi"]
 	path = av/dn/eyi
 	url = .
