@@ -1699,6 +1699,9 @@
 [submodule "ep/bq/xbu"]
 	path = ep/bq/xbu
 	url = .
+[submodule "ep/dt/ktq"]
+	path = ep/dt/ktq
+	url = .
 [submodule "ep/fa/ejp"]
 	path = ep/fa/ejp
 	url = .
