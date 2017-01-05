@@ -28264,6 +28264,9 @@
 [submodule "ot/hw/owu"]
 	path = ot/hw/owu
 	url = .
+[submodule "ot/ja/jiq"]
+	path = ot/ja/jiq
+	url = .
 [submodule "ot/km/aqn"]
 	path = ot/km/aqn
 	url = .
