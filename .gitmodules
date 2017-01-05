@@ -44629,6 +44629,9 @@
 [submodule "ry/yl/fct"]
 	path = ry/yl/fct
 	url = .
+[submodule "rz/ai/ned"]
+	path = rz/ai/ned
+	url = .
 [submodule "rz/aw/zxn"]
 	path = rz/aw/zxn
 	url = .
