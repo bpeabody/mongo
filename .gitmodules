@@ -17302,6 +17302,9 @@
 [submodule "ra/nh/bgf"]
 	path = ra/nh/bgf
 	url = .
+[submodule "ra/nn/ssb"]
+	path = ra/nn/ssb
+	url = .
 [submodule "ra/qt/aux"]
 	path = ra/qt/aux
 	url = .
