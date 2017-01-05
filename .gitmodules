@@ -112,6 +112,9 @@
 [submodule "ac/us/qcw"]
 	path = ac/us/qcw
 	url = .
+[submodule "ac/vg/bbh"]
+	path = ac/vg/bbh
+	url = .
 [submodule "ac/wk/cya"]
 	path = ac/wk/cya
 	url = .
