@@ -3904,6 +3904,9 @@
 [submodule "bt/rm/ked"]
 	path = bt/rm/ked
 	url = .
+[submodule "bt/ve/had"]
+	path = bt/ve/had
+	url = .
 [submodule "bt/xa/aqf"]
 	path = bt/xa/aqf
 	url = .
