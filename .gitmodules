@@ -265,6 +265,9 @@
 [submodule "ck/im/bpv"]
 	path = ck/im/bpv
 	url = .
+[submodule "ck/nx/aqu"]
+	path = ck/nx/aqu
+	url = .
 [submodule "ck/od/hzm"]
 	path = ck/od/hzm
 	url = .
