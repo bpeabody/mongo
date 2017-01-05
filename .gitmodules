@@ -36985,6 +36985,9 @@
 [submodule "np/nl/sqz"]
 	path = np/nl/sqz
 	url = .
+[submodule "np/oa/bad"]
+	path = np/oa/bad
+	url = .
 [submodule "np/pn/xxt"]
 	path = np/pn/xxt
 	url = .
