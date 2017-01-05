@@ -8812,6 +8812,9 @@
 [submodule "xx/ld/emj"]
 	path = xx/ld/emj
 	url = .
+[submodule "xx/om/xyc"]
+	path = xx/om/xyc
+	url = .
 [submodule "xx/vp/eum"]
 	path = xx/vp/eum
 	url = .
