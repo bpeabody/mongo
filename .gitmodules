@@ -15751,6 +15751,9 @@
 [submodule "od/gd/txl"]
 	path = od/gd/txl
 	url = .
+[submodule "od/gx/gqy"]
+	path = od/gx/gqy
+	url = .
 [submodule "od/hg/qkf"]
 	path = od/hg/qkf
 	url = .
