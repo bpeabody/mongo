@@ -27031,6 +27031,9 @@
 [submodule "ys/fn/edu"]
 	path = ys/fn/edu
 	url = .
+[submodule "ys/fq/elc"]
+	path = ys/fq/elc
+	url = .
 [submodule "ys/kd/ked"]
 	path = ys/kd/ked
 	url = .
