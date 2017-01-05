@@ -22258,6 +22258,9 @@
 [submodule "sp/mv/wjo"]
 	path = sp/mv/wjo
 	url = .
+[submodule "sp/nh/pyq"]
+	path = sp/nh/pyq
+	url = .
 [submodule "sp/oj/wiu"]
 	path = sp/oj/wiu
 	url = .
