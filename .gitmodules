@@ -1573,6 +1573,9 @@
 [submodule "jj/td/clj"]
 	path = jj/td/clj
 	url = .
+[submodule "jj/tv/kxt"]
+	path = jj/tv/kxt
+	url = .
 [submodule "jj/uz/swu"]
 	path = jj/uz/swu
 	url = .
