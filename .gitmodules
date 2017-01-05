@@ -29326,6 +29326,9 @@
 [submodule "zc/ut/qbk"]
 	path = zc/ut/qbk
 	url = .
+[submodule "zc/vf/wiy"]
+	path = zc/vf/wiy
+	url = .
 [submodule "zc/zf/xng"]
 	path = zc/zf/xng
 	url = .
