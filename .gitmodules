@@ -4462,6 +4462,9 @@
 [submodule "eb/lg/bux"]
 	path = eb/lg/bux
 	url = .
+[submodule "eb/nv/tni"]
+	path = eb/nv/tni
+	url = .
 [submodule "eb/oz/kok"]
 	path = eb/oz/kok
 	url = .
