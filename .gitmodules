@@ -5146,6 +5146,9 @@
 [submodule "ln/cg/kbx"]
 	path = ln/cg/kbx
 	url = .
+[submodule "ln/dn/eda"]
+	path = ln/dn/eda
+	url = .
 [submodule "ln/pg/khf"]
 	path = ln/pg/khf
 	url = .
