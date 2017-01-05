@@ -11671,6 +11671,9 @@
 [submodule "ot/en/aev"]
 	path = ot/en/aev
 	url = .
+[submodule "ot/hw/owu"]
+	path = ot/hw/owu
+	url = .
 [submodule "ot/op/pfa"]
 	path = ot/op/pfa
 	url = .
