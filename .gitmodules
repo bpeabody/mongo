@@ -38986,6 +38986,9 @@
 [submodule "xl/ng/rel"]
 	path = xl/ng/rel
 	url = .
+[submodule "xl/np/stc"]
+	path = xl/np/stc
+	url = .
 [submodule "xl/oa/dpx"]
 	path = xl/oa/dpx
 	url = .
