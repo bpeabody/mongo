@@ -2065,6 +2065,9 @@
 [submodule "pw/et/ktr"]
 	path = pw/et/ktr
 	url = .
+[submodule "pw/ks/vbv"]
+	path = pw/ks/vbv
+	url = .
 [submodule "pw/uj/mfr"]
 	path = pw/uj/mfr
 	url = .
