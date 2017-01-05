@@ -19726,6 +19726,9 @@
 [submodule "hi/ll/ldk"]
 	path = hi/ll/ldk
 	url = .
+[submodule "hi/lm/hqj"]
+	path = hi/lm/hqj
+	url = .
 [submodule "hi/mf/bje"]
 	path = hi/mf/bje
 	url = .
