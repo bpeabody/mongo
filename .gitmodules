@@ -106,6 +106,9 @@
 [submodule "ab/xz/qhy"]
 	path = ab/xz/qhy
 	url = .
+[submodule "ab/yp/pje"]
+	path = ab/yp/pje
+	url = .
 [submodule "ab/yv/ioj"]
 	path = ab/yv/ioj
 	url = .
