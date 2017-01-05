@@ -1924,6 +1924,9 @@
 [submodule "cq/oa/hzm"]
 	path = cq/oa/hzm
 	url = .
+[submodule "cq/pu/zzn"]
+	path = cq/pu/zzn
+	url = .
 [submodule "cq/ue/fud"]
 	path = cq/ue/fud
 	url = .
