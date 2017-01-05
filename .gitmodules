@@ -2233,6 +2233,9 @@
 [submodule "ik/dq/ozc"]
 	path = ik/dq/ozc
 	url = .
+[submodule "ik/jo/agy"]
+	path = ik/jo/agy
+	url = .
 [submodule "il/kk/qdt"]
 	path = il/kk/qdt
 	url = .
