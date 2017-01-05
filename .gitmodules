@@ -2932,6 +2932,9 @@
 [submodule "cm/qk/fra"]
 	path = cm/qk/fra
 	url = .
+[submodule "cm/sf/mpp"]
+	path = cm/sf/mpp
+	url = .
 [submodule "cm/tp/amq"]
 	path = cm/tp/amq
 	url = .
