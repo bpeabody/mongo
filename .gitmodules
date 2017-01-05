@@ -17950,6 +17950,9 @@
 [submodule "ki/rs/nhs"]
 	path = ki/rs/nhs
 	url = .
+[submodule "ki/sa/asa"]
+	path = ki/sa/asa
+	url = .
 [submodule "ki/sz/wwd"]
 	path = ki/sz/wwd
 	url = .
