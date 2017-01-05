@@ -1324,6 +1324,9 @@
 [submodule "ew/cl/yta"]
 	path = ew/cl/yta
 	url = .
+[submodule "ew/ld/qkw"]
+	path = ew/ld/qkw
+	url = .
 [submodule "ew/wl/krf"]
 	path = ew/wl/krf
 	url = .
