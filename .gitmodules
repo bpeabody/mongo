@@ -23248,6 +23248,9 @@
 [submodule "sq/ie/xmg"]
 	path = sq/ie/xmg
 	url = .
+[submodule "sq/iv/skk"]
+	path = sq/iv/skk
+	url = .
 [submodule "sq/lk/ape"]
 	path = sq/lk/ape
 	url = .
