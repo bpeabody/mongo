@@ -56392,6 +56392,9 @@
 [submodule "ye/sn/pak"]
 	path = ye/sn/pak
 	url = .
+[submodule "ye/sv/vzi"]
+	path = ye/sv/vzi
+	url = .
 [submodule "ye/tz/oyg"]
 	path = ye/tz/oyg
 	url = .
