@@ -19195,6 +19195,9 @@
 [submodule "qo/gs/wlq"]
 	path = qo/gs/wlq
 	url = .
+[submodule "qo/id/zex"]
+	path = qo/id/zex
+	url = .
 [submodule "qo/jd/nbk"]
 	path = qo/jd/nbk
 	url = .
