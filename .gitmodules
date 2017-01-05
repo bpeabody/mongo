@@ -8605,6 +8605,9 @@
 [submodule "gt/tq/ohr"]
 	path = gt/tq/ohr
 	url = .
+[submodule "gt/uk/crk"]
+	path = gt/uk/crk
+	url = .
 [submodule "gt/uk/rzl"]
 	path = gt/uk/rzl
 	url = .
