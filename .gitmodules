@@ -5164,6 +5164,9 @@
 [submodule "ub/hl/uzv"]
 	path = ub/hl/uzv
 	url = .
+[submodule "ub/ju/tqz"]
+	path = ub/ju/tqz
+	url = .
 [submodule "ub/om/vkz"]
 	path = ub/om/vkz
 	url = .
