@@ -15442,6 +15442,9 @@
 [submodule "qy/fz/yxs"]
 	path = qy/fz/yxs
 	url = .
+[submodule "qy/id/ars"]
+	path = qy/id/ars
+	url = .
 [submodule "qy/lx/sdi"]
 	path = qy/lx/sdi
 	url = .
