@@ -53593,6 +53593,9 @@
 [submodule "ut/yn/vdx"]
 	path = ut/yn/vdx
 	url = .
+[submodule "ut/yu/mef"]
+	path = ut/yu/mef
+	url = .
 [submodule "uu/cf/rjb"]
 	path = uu/cf/rjb
 	url = .
