@@ -829,6 +829,9 @@
 [submodule "ah/sv/qdo"]
 	path = ah/sv/qdo
 	url = .
+[submodule "ah/tk/zby"]
+	path = ah/tk/zby
+	url = .
 [submodule "ah/vd/xbo"]
 	path = ah/vd/xbo
 	url = .
