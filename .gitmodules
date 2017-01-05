@@ -202,6 +202,9 @@
 [submodule "hf/ju/vnz"]
 	path = hf/ju/vnz
 	url = .
+[submodule "hm/cu/rqs"]
+	path = hm/cu/rqs
+	url = .
 [submodule "hn/be/klz"]
 	path = hn/be/klz
 	url = .
