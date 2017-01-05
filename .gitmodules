@@ -6391,6 +6391,9 @@
 [submodule "fb/ji/hks"]
 	path = fb/ji/hks
 	url = .
+[submodule "fb/ki/qsu"]
+	path = fb/ki/qsu
+	url = .
 [submodule "fb/kz/irh"]
 	path = fb/kz/irh
 	url = .
