@@ -4252,6 +4252,9 @@
 [submodule "bz/ut/sjt"]
 	path = bz/ut/sjt
 	url = .
+[submodule "bz/ux/ulr"]
+	path = bz/ux/ulr
+	url = .
 [submodule "bz/vb/xub"]
 	path = bz/vb/xub
 	url = .
