@@ -22243,6 +22243,9 @@
 [submodule "uy/ux/gtx"]
 	path = uy/ux/gtx
 	url = .
+[submodule "uy/xe/slv"]
+	path = uy/xe/slv
+	url = .
 [submodule "uy/zx/fbu"]
 	path = uy/zx/fbu
 	url = .
