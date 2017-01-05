@@ -4216,6 +4216,9 @@
 [submodule "bu/xx/nya"]
 	path = bu/xx/nya
 	url = .
+[submodule "bu/yb/nqx"]
+	path = bu/yb/nqx
+	url = .
 [submodule "bu/zq/sxq"]
 	path = bu/zq/sxq
 	url = .
