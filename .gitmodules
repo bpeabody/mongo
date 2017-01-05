@@ -11701,6 +11701,9 @@
 [submodule "ke/fs/uov"]
 	path = ke/fs/uov
 	url = .
+[submodule "ke/nx/xqf"]
+	path = ke/nx/xqf
+	url = .
 [submodule "ke/oo/ghl"]
 	path = ke/oo/ghl
 	url = .
