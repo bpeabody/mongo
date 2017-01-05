@@ -45571,6 +45571,9 @@
 [submodule "pu/pq/jiu"]
 	path = pu/pq/jiu
 	url = .
+[submodule "pu/qr/sik"]
+	path = pu/qr/sik
+	url = .
 [submodule "pu/rh/rga"]
 	path = pu/rh/rga
 	url = .
