@@ -45757,6 +45757,9 @@
 [submodule "pe/bj/mfy"]
 	path = pe/bj/mfy
 	url = .
+[submodule "pe/ci/vgz"]
+	path = pe/ci/vgz
+	url = .
 [submodule "pe/cn/bkv"]
 	path = pe/cn/bkv
 	url = .
