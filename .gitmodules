@@ -5926,6 +5926,9 @@
 [submodule "gj/hu/ljl"]
 	path = gj/hu/ljl
 	url = .
+[submodule "gj/jb/esu"]
+	path = gj/jb/esu
+	url = .
 [submodule "gj/lf/onp"]
 	path = gj/lf/onp
 	url = .
