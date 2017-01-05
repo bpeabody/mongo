@@ -21499,6 +21499,9 @@
 [submodule "km/ik/suk"]
 	path = km/ik/suk
 	url = .
+[submodule "km/ji/qsd"]
+	path = km/ji/qsd
+	url = .
 [submodule "km/ka/ehk"]
 	path = km/ka/ehk
 	url = .
