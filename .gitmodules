@@ -15478,6 +15478,9 @@
 [submodule "hm/md/uig"]
 	path = hm/md/uig
 	url = .
+[submodule "hm/mz/hrr"]
+	path = hm/mz/hrr
+	url = .
 [submodule "hm/na/dhz"]
 	path = hm/na/dhz
 	url = .
