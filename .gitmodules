@@ -8605,6 +8605,9 @@
 [submodule "fx/yz/ksq"]
 	path = fx/yz/ksq
 	url = .
+[submodule "fy/an/rpx"]
+	path = fy/an/rpx
+	url = .
 [submodule "fy/ci/rjq"]
 	path = fy/ci/rjq
 	url = .
