@@ -9952,6 +9952,9 @@
 [submodule "ik/vn/fbd"]
 	path = ik/vn/fbd
 	url = .
+[submodule "ik/vn/whw"]
+	path = ik/vn/whw
+	url = .
 [submodule "ik/xx/tqt"]
 	path = ik/xx/tqt
 	url = .
