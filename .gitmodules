@@ -11092,6 +11092,9 @@
 [submodule "zz/ec/neo"]
 	path = zz/ec/neo
 	url = .
+[submodule "zz/eq/fbo"]
+	path = zz/eq/fbo
+	url = .
 [submodule "zz/pk/mqm"]
 	path = zz/pk/mqm
 	url = .
