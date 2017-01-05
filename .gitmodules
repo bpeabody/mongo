@@ -51325,6 +51325,9 @@
 [submodule "rc/hy/vsb"]
 	path = rc/hy/vsb
 	url = .
+[submodule "rc/im/qrw"]
+	path = rc/im/qrw
+	url = .
 [submodule "rc/ir/kwz"]
 	path = rc/ir/kwz
 	url = .
