@@ -15631,6 +15631,9 @@
 [submodule "xw/md/xwf"]
 	path = xw/md/xwf
 	url = .
+[submodule "xw/mr/qhe"]
+	path = xw/mr/qhe
+	url = .
 [submodule "xw/oj/awe"]
 	path = xw/oj/awe
 	url = .
