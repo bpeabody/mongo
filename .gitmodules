@@ -27448,6 +27448,9 @@
 [submodule "zb/nb/bun"]
 	path = zb/nb/bun
 	url = .
+[submodule "zb/nm/xvg"]
+	path = zb/nm/xvg
+	url = .
 [submodule "zb/pb/thc"]
 	path = zb/pb/thc
 	url = .
