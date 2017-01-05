@@ -4438,6 +4438,9 @@
 [submodule "cd/mp/ptn"]
 	path = cd/mp/ptn
 	url = .
+[submodule "cd/ng/dtz"]
+	path = cd/ng/dtz
+	url = .
 [submodule "cd/pr/mwu"]
 	path = cd/pr/mwu
 	url = .
