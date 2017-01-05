@@ -949,6 +949,9 @@
 [submodule "pw/et/ktr"]
 	path = pw/et/ktr
 	url = .
+[submodule "pw/uj/mfr"]
+	path = pw/uj/mfr
+	url = .
 [submodule "pw/vi/sbg"]
 	path = pw/vi/sbg
 	url = .
