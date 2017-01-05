@@ -47638,6 +47638,9 @@
 [submodule "qe/ed/ezh"]
 	path = qe/ed/ezh
 	url = .
+[submodule "qe/eh/nbl"]
+	path = qe/eh/nbl
+	url = .
 [submodule "qe/ej/gpb"]
 	path = qe/ej/gpb
 	url = .
