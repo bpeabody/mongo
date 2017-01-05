@@ -15679,6 +15679,9 @@
 [submodule "gn/xc/iek"]
 	path = gn/xc/iek
 	url = .
+[submodule "gn/xx/lwi"]
+	path = gn/xx/lwi
+	url = .
 [submodule "go/ah/cuk"]
 	path = go/ah/cuk
 	url = .
