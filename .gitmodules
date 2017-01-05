@@ -6142,6 +6142,9 @@
 [submodule "wx/pp/kvi"]
 	path = wx/pp/kvi
 	url = .
+[submodule "wx/yy/hab"]
+	path = wx/yy/hab
+	url = .
 [submodule "wy/mb/qdd"]
 	path = wy/mb/qdd
 	url = .
