@@ -1087,6 +1087,9 @@
 [submodule "bc/xl/pox"]
 	path = bc/xl/pox
 	url = .
+[submodule "bc/xu/lqi"]
+	path = bc/xu/lqi
+	url = .
 [submodule "bd/ap/een"]
 	path = bd/ap/een
 	url = .
