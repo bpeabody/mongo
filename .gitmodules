@@ -3802,6 +3802,9 @@
 [submodule "ki/vw/vig"]
 	path = ki/vw/vig
 	url = .
+[submodule "ki/xo/nrg"]
+	path = ki/xo/nrg
+	url = .
 [submodule "kj/aa/pwk"]
 	path = kj/aa/pwk
 	url = .
