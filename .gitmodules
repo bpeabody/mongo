@@ -9058,6 +9058,9 @@
 [submodule "nl/dm/sql"]
 	path = nl/dm/sql
 	url = .
+[submodule "nl/ew/qis"]
+	path = nl/ew/qis
+	url = .
 [submodule "nl/mr/pcw"]
 	path = nl/mr/pcw
 	url = .
