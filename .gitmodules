@@ -14965,6 +14965,9 @@
 [submodule "lz/hi/kbm"]
 	path = lz/hi/kbm
 	url = .
+[submodule "lz/jg/xxm"]
+	path = lz/jg/xxm
+	url = .
 [submodule "lz/ky/gcn"]
 	path = lz/ky/gcn
 	url = .
