@@ -18721,6 +18721,9 @@
 [submodule "lu/oy/ckk"]
 	path = lu/oy/ckk
 	url = .
+[submodule "lu/pt/eoq"]
+	path = lu/pt/eoq
+	url = .
 [submodule "lu/rz/duy"]
 	path = lu/rz/duy
 	url = .
