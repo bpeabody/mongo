@@ -35563,6 +35563,9 @@
 [submodule "mb/pa/vlu"]
 	path = mb/pa/vlu
 	url = .
+[submodule "mb/pu/nxd"]
+	path = mb/pu/nxd
+	url = .
 [submodule "mb/pw/gfl"]
 	path = mb/pw/gfl
 	url = .
