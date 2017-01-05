@@ -14233,6 +14233,9 @@
 [submodule "fg/eq/lbn"]
 	path = fg/eq/lbn
 	url = .
+[submodule "fg/ex/ljt"]
+	path = fg/ex/ljt
+	url = .
 [submodule "fg/fm/oke"]
 	path = fg/fm/oke
 	url = .
