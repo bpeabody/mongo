@@ -10849,6 +10849,9 @@
 [submodule "er/ij/kti"]
 	path = er/ij/kti
 	url = .
+[submodule "er/iy/pqa"]
+	path = er/iy/pqa
+	url = .
 [submodule "er/jm/ads"]
 	path = er/jm/ads
 	url = .
