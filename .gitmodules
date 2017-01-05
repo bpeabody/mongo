@@ -28834,6 +28834,9 @@
 [submodule "sp/yp/wam"]
 	path = sp/yp/wam
 	url = .
+[submodule "sp/za/ikg"]
+	path = sp/za/ikg
+	url = .
 [submodule "sq/ax/sku"]
 	path = sq/ax/sku
 	url = .
