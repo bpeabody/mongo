@@ -1384,6 +1384,9 @@
 [submodule "dq/gi/jkr"]
 	path = dq/gi/jkr
 	url = .
+[submodule "dq/st/fdg"]
+	path = dq/st/fdg
+	url = .
 [submodule "dq/tj/vrg"]
 	path = dq/tj/vrg
 	url = .
