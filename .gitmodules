@@ -19696,6 +19696,9 @@
 [submodule "lp/sh/nnu"]
 	path = lp/sh/nnu
 	url = .
+[submodule "lp/tz/njt"]
+	path = lp/tz/njt
+	url = .
 [submodule "lp/um/frx"]
 	path = lp/um/frx
 	url = .
