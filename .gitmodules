@@ -11770,6 +11770,9 @@
 [submodule "ha/tb/qll"]
 	path = ha/tb/qll
 	url = .
+[submodule "ha/tg/rjj"]
+	path = ha/tg/rjj
+	url = .
 [submodule "ha/tz/vbb"]
 	path = ha/tz/vbb
 	url = .
