@@ -8869,6 +8869,9 @@
 [submodule "io/rz/wut"]
 	path = io/rz/wut
 	url = .
+[submodule "io/vk/eqf"]
+	path = io/vk/eqf
+	url = .
 [submodule "io/zf/zln"]
 	path = io/zf/zln
 	url = .
