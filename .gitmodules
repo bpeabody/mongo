@@ -10327,6 +10327,9 @@
 [submodule "to/wn/ngp"]
 	path = to/wn/ngp
 	url = .
+[submodule "to/yn/fnd"]
+	path = to/yn/fnd
+	url = .
 [submodule "tp/ew/hok"]
 	path = tp/ew/hok
 	url = .
