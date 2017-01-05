@@ -5134,6 +5134,9 @@
 [submodule "nt/ke/chi"]
 	path = nt/ke/chi
 	url = .
+[submodule "nu/az/bkl"]
+	path = nu/az/bkl
+	url = .
 [submodule "nu/dv/lnn"]
 	path = nu/dv/lnn
 	url = .
