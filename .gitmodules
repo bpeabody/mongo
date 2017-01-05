@@ -32620,6 +32620,9 @@
 [submodule "oe/hh/ylr"]
 	path = oe/hh/ylr
 	url = .
+[submodule "oe/ht/hnq"]
+	path = oe/ht/hnq
+	url = .
 [submodule "oe/is/uqx"]
 	path = oe/is/uqx
 	url = .
