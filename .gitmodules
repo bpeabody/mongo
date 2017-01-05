@@ -3190,6 +3190,9 @@
 [submodule "gj/tg/mta"]
 	path = gj/tg/mta
 	url = .
+[submodule "gj/vf/qge"]
+	path = gj/vf/qge
+	url = .
 [submodule "gj/xr/yfd"]
 	path = gj/xr/yfd
 	url = .
