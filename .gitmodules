@@ -10702,6 +10702,9 @@
 [submodule "sz/dv/skx"]
 	path = sz/dv/skx
 	url = .
+[submodule "sz/ew/bga"]
+	path = sz/ew/bga
+	url = .
 [submodule "sz/jx/kdu"]
 	path = sz/jx/kdu
 	url = .
