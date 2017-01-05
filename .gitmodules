@@ -1567,6 +1567,9 @@
 [submodule "as/lj/yfj"]
 	path = as/lj/yfj
 	url = .
+[submodule "as/ol/lks"]
+	path = as/ol/lks
+	url = .
 [submodule "as/oo/rua"]
 	path = as/oo/rua
 	url = .
