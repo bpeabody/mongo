@@ -349,6 +349,9 @@
 [submodule "ae/ue/cic"]
 	path = ae/ue/cic
 	url = .
+[submodule "ae/wm/mot"]
+	path = ae/wm/mot
+	url = .
 [submodule "ae/xf/pup"]
 	path = ae/xf/pup
 	url = .
