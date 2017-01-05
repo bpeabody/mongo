@@ -5002,6 +5002,9 @@
 [submodule "xo/pv/glv"]
 	path = xo/pv/glv
 	url = .
+[submodule "xp/bz/hgd"]
+	path = xp/bz/hgd
+	url = .
 [submodule "xp/gw/ifb"]
 	path = xp/gw/ifb
 	url = .
