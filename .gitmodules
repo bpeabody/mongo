@@ -41869,6 +41869,9 @@
 [submodule "ud/sd/ywt"]
 	path = ud/sd/ywt
 	url = .
+[submodule "ud/sp/kuh"]
+	path = ud/sp/kuh
+	url = .
 [submodule "ud/sz/srn"]
 	path = ud/sz/srn
 	url = .
