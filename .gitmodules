@@ -37348,6 +37348,9 @@
 [submodule "sc/xi/lpo"]
 	path = sc/xi/lpo
 	url = .
+[submodule "sc/xj/dsk"]
+	path = sc/xj/dsk
+	url = .
 [submodule "sc/xl/gce"]
 	path = sc/xl/gce
 	url = .
