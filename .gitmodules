@@ -10228,6 +10228,9 @@
 [submodule "eu/uo/ubm"]
 	path = eu/uo/ubm
 	url = .
+[submodule "eu/uo/ydm"]
+	path = eu/uo/ydm
+	url = .
 [submodule "eu/wg/aoz"]
 	path = eu/wg/aoz
 	url = .
