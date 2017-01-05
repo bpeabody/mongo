@@ -17794,6 +17794,9 @@
 [submodule "mn/vj/wom"]
 	path = mn/vj/wom
 	url = .
+[submodule "mn/wl/shw"]
+	path = mn/wl/shw
+	url = .
 [submodule "mn/wy/yud"]
 	path = mn/wy/yud
 	url = .
