@@ -41554,6 +41554,9 @@
 [submodule "xv/bk/pfa"]
 	path = xv/bk/pfa
 	url = .
+[submodule "xv/bq/ade"]
+	path = xv/bq/ade
+	url = .
 [submodule "xv/bv/vrf"]
 	path = xv/bv/vrf
 	url = .
