@@ -41455,6 +41455,9 @@
 [submodule "or/tu/dvl"]
 	path = or/tu/dvl
 	url = .
+[submodule "or/ue/rai"]
+	path = or/ue/rai
+	url = .
 [submodule "or/vf/cfh"]
 	path = or/vf/cfh
 	url = .
