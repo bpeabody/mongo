@@ -22399,6 +22399,9 @@
 [submodule "lp/qb/ret"]
 	path = lp/qb/ret
 	url = .
+[submodule "lp/rx/zvq"]
+	path = lp/rx/zvq
+	url = .
 [submodule "lp/sh/nnu"]
 	path = lp/sh/nnu
 	url = .
