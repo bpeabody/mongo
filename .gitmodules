@@ -3202,6 +3202,9 @@
 [submodule "cj/ua/eft"]
 	path = cj/ua/eft
 	url = .
+[submodule "cj/ua/hmi"]
+	path = cj/ua/hmi
+	url = .
 [submodule "cj/vl/zor"]
 	path = cj/vl/zor
 	url = .
