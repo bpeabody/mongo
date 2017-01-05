@@ -5350,6 +5350,9 @@
 [submodule "cv/jm/wsz"]
 	path = cv/jm/wsz
 	url = .
+[submodule "cv/ls/psm"]
+	path = cv/ls/psm
+	url = .
 [submodule "cv/mm/qgu"]
 	path = cv/mm/qgu
 	url = .
