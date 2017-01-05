@@ -8146,6 +8146,9 @@
 [submodule "kh/jc/lmo"]
 	path = kh/jc/lmo
 	url = .
+[submodule "kh/mw/mhm"]
+	path = kh/mw/mhm
+	url = .
 [submodule "kh/oe/nix"]
 	path = kh/oe/nix
 	url = .
