@@ -436,6 +436,9 @@
 [submodule "kn/oh/duh"]
 	path = kn/oh/duh
 	url = .
+[submodule "ko/em/vtz"]
+	path = ko/em/vtz
+	url = .
 [submodule "ko/xh/ucl"]
 	path = ko/xh/ucl
 	url = .
