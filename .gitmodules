@@ -10672,6 +10672,9 @@
 [submodule "ek/bq/pfo"]
 	path = ek/bq/pfo
 	url = .
+[submodule "ek/cy/gle"]
+	path = ek/cy/gle
+	url = .
 [submodule "ek/dl/qnq"]
 	path = ek/dl/qnq
 	url = .
