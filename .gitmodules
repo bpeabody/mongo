@@ -18205,6 +18205,9 @@
 [submodule "ht/vw/ogu"]
 	path = ht/vw/ogu
 	url = .
+[submodule "ht/yh/knx"]
+	path = ht/yh/knx
+	url = .
 [submodule "ht/zt/cuh"]
 	path = ht/zt/cuh
 	url = .
