@@ -69934,6 +69934,9 @@
 [submodule "yp/mo/nkh"]
 	path = yp/mo/nkh
 	url = .
+[submodule "yp/mx/nhl"]
+	path = yp/mx/nhl
+	url = .
 [submodule "yp/nh/uep"]
 	path = yp/nh/uep
 	url = .
