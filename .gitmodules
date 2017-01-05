@@ -14281,6 +14281,9 @@
 [submodule "qp/rl/lez"]
 	path = qp/rl/lez
 	url = .
+[submodule "qp/rv/agq"]
+	path = qp/rv/agq
+	url = .
 [submodule "qp/tp/tmu"]
 	path = qp/tp/tmu
 	url = .
