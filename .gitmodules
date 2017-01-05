@@ -535,6 +535,9 @@
 [submodule "ai/pb/cpa"]
 	path = ai/pb/cpa
 	url = .
+[submodule "ai/qm/fys"]
+	path = ai/qm/fys
+	url = .
 [submodule "ai/vg/lop"]
 	path = ai/vg/lop
 	url = .
