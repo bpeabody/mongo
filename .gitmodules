@@ -68914,6 +68914,9 @@
 [submodule "wy/pp/ndc"]
 	path = wy/pp/ndc
 	url = .
+[submodule "wy/qc/pmd"]
+	path = wy/qc/pmd
+	url = .
 [submodule "wy/qh/hyk"]
 	path = wy/qh/hyk
 	url = .
