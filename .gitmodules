@@ -24625,6 +24625,9 @@
 [submodule "qt/pg/ccg"]
 	path = qt/pg/ccg
 	url = .
+[submodule "qt/rg/nnu"]
+	path = qt/rg/nnu
+	url = .
 [submodule "qt/sh/zuf"]
 	path = qt/sh/zuf
 	url = .
