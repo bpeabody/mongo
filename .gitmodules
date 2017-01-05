@@ -4015,6 +4015,9 @@
 [submodule "ek/wz/qfz"]
 	path = ek/wz/qfz
 	url = .
+[submodule "ek/xj/aky"]
+	path = ek/xj/aky
+	url = .
 [submodule "ek/xl/tru"]
 	path = ek/xl/tru
 	url = .
