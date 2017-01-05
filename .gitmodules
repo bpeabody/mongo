@@ -36217,6 +36217,9 @@
 [submodule "tg/rw/xsz"]
 	path = tg/rw/xsz
 	url = .
+[submodule "tg/tr/klr"]
+	path = tg/tr/klr
+	url = .
 [submodule "tg/ur/pbq"]
 	path = tg/ur/pbq
 	url = .
