@@ -46684,6 +46684,9 @@
 [submodule "tp/pe/irk"]
 	path = tp/pe/irk
 	url = .
+[submodule "tp/pr/clo"]
+	path = tp/pr/clo
+	url = .
 [submodule "tp/pw/vgn"]
 	path = tp/pw/vgn
 	url = .
