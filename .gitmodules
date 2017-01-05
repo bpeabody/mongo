@@ -11764,6 +11764,9 @@
 [submodule "rd/cg/eon"]
 	path = rd/cg/eon
 	url = .
+[submodule "rd/fo/ixb"]
+	path = rd/fo/ixb
+	url = .
 [submodule "rd/if/upv"]
 	path = rd/if/upv
 	url = .
