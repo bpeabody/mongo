@@ -11563,6 +11563,9 @@
 [submodule "pd/oq/wcx"]
 	path = pd/oq/wcx
 	url = .
+[submodule "pd/pk/ave"]
+	path = pd/pk/ave
+	url = .
 [submodule "pd/yi/sde"]
 	path = pd/yi/sde
 	url = .
