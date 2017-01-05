@@ -20902,6 +20902,9 @@
 [submodule "jd/kg/vxv"]
 	path = jd/kg/vxv
 	url = .
+[submodule "jd/la/xyg"]
+	path = jd/la/xyg
+	url = .
 [submodule "jd/ll/tgn"]
 	path = jd/ll/tgn
 	url = .
