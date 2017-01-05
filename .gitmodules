@@ -4312,6 +4312,9 @@
 [submodule "fb/kz/irh"]
 	path = fb/kz/irh
 	url = .
+[submodule "fb/ns/ifc"]
+	path = fb/ns/ifc
+	url = .
 [submodule "fb/oc/irl"]
 	path = fb/oc/irl
 	url = .
