@@ -20374,6 +20374,9 @@
 [submodule "jd/ll/tgn"]
 	path = jd/ll/tgn
 	url = .
+[submodule "jd/lp/ydh"]
+	path = jd/lp/ydh
+	url = .
 [submodule "jd/lt/cjf"]
 	path = jd/lt/cjf
 	url = .
