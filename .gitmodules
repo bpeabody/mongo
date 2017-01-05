@@ -1366,6 +1366,9 @@
 [submodule "jw/vs/xin"]
 	path = jw/vs/xin
 	url = .
+[submodule "jx/bk/hva"]
+	path = jx/bk/hva
+	url = .
 [submodule "jy/nz/dlk"]
 	path = jy/nz/dlk
 	url = .
