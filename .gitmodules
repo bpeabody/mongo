@@ -54535,6 +54535,9 @@
 [submodule "ut/sq/tam"]
 	path = ut/sq/tam
 	url = .
+[submodule "ut/sv/sps"]
+	path = ut/sv/sps
+	url = .
 [submodule "ut/tj/jxd"]
 	path = ut/tj/jxd
 	url = .
