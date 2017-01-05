@@ -7,6 +7,9 @@
 [submodule "mr/og/htr"]
 	path = mr/og/htr
 	url = .
+[submodule "ok/ce/akb"]
+	path = ok/ce/akb
+	url = .
 [submodule "re/py/ktl"]
 	path = re/py/ktl
 	url = .
