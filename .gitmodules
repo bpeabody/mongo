@@ -1231,6 +1231,9 @@
 [submodule "aq/qq/jvr"]
 	path = aq/qq/jvr
 	url = .
+[submodule "aq/sj/ejp"]
+	path = aq/sj/ejp
+	url = .
 [submodule "aq/sp/fog"]
 	path = aq/sp/fog
 	url = .
