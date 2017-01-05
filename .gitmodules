@@ -2302,6 +2302,9 @@
 [submodule "gk/ur/igi"]
 	path = gk/ur/igi
 	url = .
+[submodule "gk/vy/bvp"]
+	path = gk/vy/bvp
+	url = .
 [submodule "gl/jk/ijf"]
 	path = gl/jk/ijf
 	url = .
