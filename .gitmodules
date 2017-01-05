@@ -2032,6 +2032,9 @@
 [submodule "jw/di/atx"]
 	path = jw/di/atx
 	url = .
+[submodule "jw/gu/ivq"]
+	path = jw/gu/ivq
+	url = .
 [submodule "jw/nk/pig"]
 	path = jw/nk/pig
 	url = .
