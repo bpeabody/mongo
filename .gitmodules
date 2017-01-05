@@ -32473,6 +32473,9 @@
 [submodule "lx/uz/lor"]
 	path = lx/uz/lor
 	url = .
+[submodule "lx/vc/wvz"]
+	path = lx/vc/wvz
+	url = .
 [submodule "lx/vs/ltg"]
 	path = lx/vs/ltg
 	url = .
