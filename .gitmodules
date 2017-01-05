@@ -21439,6 +21439,9 @@
 [submodule "hy/fc/uws"]
 	path = hy/fc/uws
 	url = .
+[submodule "hy/hr/rsm"]
+	path = hy/hr/rsm
+	url = .
 [submodule "hy/kf/tlb"]
 	path = hy/kf/tlb
 	url = .
