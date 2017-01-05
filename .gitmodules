@@ -21418,6 +21418,9 @@
 [submodule "jl/vm/fpu"]
 	path = jl/vm/fpu
 	url = .
+[submodule "jl/vt/sqg"]
+	path = jl/vt/sqg
+	url = .
 [submodule "jl/wv/dnt"]
 	path = jl/wv/dnt
 	url = .
