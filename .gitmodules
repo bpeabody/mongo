@@ -4699,6 +4699,9 @@
 [submodule "xv/le/kdg"]
 	path = xv/le/kdg
 	url = .
+[submodule "xv/ud/gqt"]
+	path = xv/ud/gqt
+	url = .
 [submodule "xw/fl/jpj"]
 	path = xw/fl/jpj
 	url = .
