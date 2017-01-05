@@ -8494,6 +8494,9 @@
 [submodule "pm/hx/pdb"]
 	path = pm/hx/pdb
 	url = .
+[submodule "pm/ip/pgg"]
+	path = pm/ip/pgg
+	url = .
 [submodule "pm/lh/gar"]
 	path = pm/lh/gar
 	url = .
