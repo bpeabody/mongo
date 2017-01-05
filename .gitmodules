@@ -271,6 +271,9 @@
 [submodule "ac/dr/tfl"]
 	path = ac/dr/tfl
 	url = .
+[submodule "ac/ef/loo"]
+	path = ac/ef/loo
+	url = .
 [submodule "ac/ev/ldk"]
 	path = ac/ev/ldk
 	url = .
