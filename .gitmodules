@@ -2731,6 +2731,9 @@
 [submodule "ep/fa/ejp"]
 	path = ep/fa/ejp
 	url = .
+[submodule "ep/oh/slo"]
+	path = ep/oh/slo
+	url = .
 [submodule "ep/sr/pjb"]
 	path = ep/sr/pjb
 	url = .
