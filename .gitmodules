@@ -1639,6 +1639,9 @@
 [submodule "rn/eo/eux"]
 	path = rn/eo/eux
 	url = .
+[submodule "rn/ws/ngs"]
+	path = rn/ws/ngs
+	url = .
 [submodule "rp/ro/lng"]
 	path = rp/ro/lng
 	url = .
