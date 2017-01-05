@@ -11917,6 +11917,9 @@
 [submodule "ht/fh/lmt"]
 	path = ht/fh/lmt
 	url = .
+[submodule "ht/gk/dpu"]
+	path = ht/gk/dpu
+	url = .
 [submodule "ht/hc/amx"]
 	path = ht/hc/amx
 	url = .
