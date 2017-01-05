@@ -1969,6 +1969,9 @@
 [submodule "lj/zs/dqe"]
 	path = lj/zs/dqe
 	url = .
+[submodule "lk/py/ovo"]
+	path = lk/py/ovo
+	url = .
 [submodule "ll/pb/bxq"]
 	path = ll/pb/bxq
 	url = .
