@@ -2128,6 +2128,9 @@
 [submodule "bi/rq/rdc"]
 	path = bi/rq/rdc
 	url = .
+[submodule "bi/tl/xqv"]
+	path = bi/tl/xqv
+	url = .
 [submodule "bi/uh/jzu"]
 	path = bi/uh/jzu
 	url = .
