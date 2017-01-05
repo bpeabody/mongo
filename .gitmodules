@@ -10093,6 +10093,9 @@
 [submodule "em/zk/ulx"]
 	path = em/zk/ulx
 	url = .
+[submodule "em/zk/vao"]
+	path = em/zk/vao
+	url = .
 [submodule "em/zn/lcm"]
 	path = em/zn/lcm
 	url = .
