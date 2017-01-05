@@ -29761,6 +29761,9 @@
 [submodule "oq/ms/xcn"]
 	path = oq/ms/xcn
 	url = .
+[submodule "oq/nw/hdx"]
+	path = oq/nw/hdx
+	url = .
 [submodule "oq/os/nsq"]
 	path = oq/os/nsq
 	url = .
