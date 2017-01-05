@@ -7354,6 +7354,9 @@
 [submodule "he/ui/dnr"]
 	path = he/ui/dnr
 	url = .
+[submodule "he/ui/eep"]
+	path = he/ui/eep
+	url = .
 [submodule "he/un/esq"]
 	path = he/un/esq
 	url = .
