@@ -29428,6 +29428,9 @@
 [submodule "vk/nb/hdt"]
 	path = vk/nb/hdt
 	url = .
+[submodule "vk/nq/axo"]
+	path = vk/nq/axo
+	url = .
 [submodule "vk/ov/tfk"]
 	path = vk/ov/tfk
 	url = .
