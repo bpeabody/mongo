@@ -30532,6 +30532,9 @@
 [submodule "vf/xw/scl"]
 	path = vf/xw/scl
 	url = .
+[submodule "vg/bo/aar"]
+	path = vg/bo/aar
+	url = .
 [submodule "vg/cw/grn"]
 	path = vg/cw/grn
 	url = .
