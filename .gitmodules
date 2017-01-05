@@ -3889,6 +3889,9 @@
 [submodule "oc/js/bmo"]
 	path = oc/js/bmo
 	url = .
+[submodule "oc/th/soo"]
+	path = oc/th/soo
+	url = .
 [submodule "oc/tm/nla"]
 	path = oc/tm/nla
 	url = .
