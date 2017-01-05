@@ -6715,6 +6715,9 @@
 [submodule "or/lo/pnc"]
 	path = or/lo/pnc
 	url = .
+[submodule "or/ou/kcu"]
+	path = or/ou/kcu
+	url = .
 [submodule "or/xk/qoy"]
 	path = or/xk/qoy
 	url = .
