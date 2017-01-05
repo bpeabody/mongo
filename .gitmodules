@@ -12463,6 +12463,9 @@
 [submodule "nr/jf/vbe"]
 	path = nr/jf/vbe
 	url = .
+[submodule "nr/kp/ran"]
+	path = nr/kp/ran
+	url = .
 [submodule "nr/ld/xhq"]
 	path = nr/ld/xhq
 	url = .
