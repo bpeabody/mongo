@@ -56893,6 +56893,9 @@
 [submodule "ua/zm/rrl"]
 	path = ua/zm/rrl
 	url = .
+[submodule "ua/zn/lch"]
+	path = ua/zn/lch
+	url = .
 [submodule "ub/ab/nxk"]
 	path = ub/ab/nxk
 	url = .
