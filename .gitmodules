@@ -10063,6 +10063,9 @@
 [submodule "ip/al/aal"]
 	path = ip/al/aal
 	url = .
+[submodule "ip/ba/rga"]
+	path = ip/ba/rga
+	url = .
 [submodule "ip/bf/kmo"]
 	path = ip/bf/kmo
 	url = .
