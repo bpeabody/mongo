@@ -11116,6 +11116,9 @@
 [submodule "gp/nj/vzg"]
 	path = gp/nj/vzg
 	url = .
+[submodule "gp/no/eud"]
+	path = gp/no/eud
+	url = .
 [submodule "gp/qr/rgm"]
 	path = gp/qr/rgm
 	url = .
