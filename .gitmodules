@@ -36223,6 +36223,9 @@
 [submodule "nd/ro/onb"]
 	path = nd/ro/onb
 	url = .
+[submodule "nd/rs/szs"]
+	path = nd/rs/szs
+	url = .
 [submodule "nd/tn/igi"]
 	path = nd/tn/igi
 	url = .
