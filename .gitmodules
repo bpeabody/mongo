@@ -1609,6 +1609,9 @@
 [submodule "wn/sp/iaf"]
 	path = wn/sp/iaf
 	url = .
+[submodule "wn/yp/vns"]
+	path = wn/yp/vns
+	url = .
 [submodule "wo/ot/udm"]
 	path = wo/ot/udm
 	url = .
