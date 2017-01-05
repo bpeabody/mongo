@@ -11401,6 +11401,9 @@
 [submodule "io/mc/mcj"]
 	path = io/mc/mcj
 	url = .
+[submodule "io/nk/zzt"]
+	path = io/nk/zzt
+	url = .
 [submodule "io/rv/ich"]
 	path = io/rv/ich
 	url = .
