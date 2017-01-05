@@ -55069,6 +55069,9 @@
 [submodule "xc/uv/usd"]
 	path = xc/uv/usd
 	url = .
+[submodule "xc/uw/qhd"]
+	path = xc/uw/qhd
+	url = .
 [submodule "xc/vy/oie"]
 	path = xc/vy/oie
 	url = .
