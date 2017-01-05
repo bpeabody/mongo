@@ -17998,6 +17998,9 @@
 [submodule "li/th/mpo"]
 	path = li/th/mpo
 	url = .
+[submodule "li/uc/lng"]
+	path = li/uc/lng
+	url = .
 [submodule "li/vs/qcl"]
 	path = li/vs/qcl
 	url = .
