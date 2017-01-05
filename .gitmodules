@@ -3940,6 +3940,9 @@
 [submodule "jw/ch/bvs"]
 	path = jw/ch/bvs
 	url = .
+[submodule "jw/dg/aqr"]
+	path = jw/dg/aqr
+	url = .
 [submodule "jw/di/atx"]
 	path = jw/di/atx
 	url = .
