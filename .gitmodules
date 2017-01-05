@@ -5914,6 +5914,9 @@
 [submodule "gb/cg/rom"]
 	path = gb/cg/rom
 	url = .
+[submodule "gb/dt/qfi"]
+	path = gb/dt/qfi
+	url = .
 [submodule "gb/fn/iat"]
 	path = gb/fn/iat
 	url = .
