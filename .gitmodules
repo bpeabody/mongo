@@ -50833,6 +50833,9 @@
 [submodule "su/qs/cnj"]
 	path = su/qs/cnj
 	url = .
+[submodule "su/rh/bbe"]
+	path = su/rh/bbe
+	url = .
 [submodule "su/sz/rej"]
 	path = su/sz/rej
 	url = .
