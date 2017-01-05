@@ -46357,6 +46357,9 @@
 [submodule "xy/wg/bun"]
 	path = xy/wg/bun
 	url = .
+[submodule "xy/xd/dkj"]
+	path = xy/xd/dkj
+	url = .
 [submodule "xy/xk/voc"]
 	path = xy/xk/voc
 	url = .
