@@ -56029,6 +56029,9 @@
 [submodule "uc/kw/yaq"]
 	path = uc/kw/yaq
 	url = .
+[submodule "uc/lk/muo"]
+	path = uc/lk/muo
+	url = .
 [submodule "uc/lp/rzn"]
 	path = uc/lp/rzn
 	url = .
