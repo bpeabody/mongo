@@ -3001,6 +3001,9 @@
 [submodule "ck/bg/imc"]
 	path = ck/bg/imc
 	url = .
+[submodule "ck/bj/xct"]
+	path = ck/bj/xct
+	url = .
 [submodule "ck/dy/jvy"]
 	path = ck/dy/jvy
 	url = .
