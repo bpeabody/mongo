@@ -2638,6 +2638,9 @@
 [submodule "ml/xu/jnc"]
 	path = ml/xu/jnc
 	url = .
+[submodule "mm/xx/mka"]
+	path = mm/xx/mka
+	url = .
 [submodule "mm/yv/fno"]
 	path = mm/yv/fno
 	url = .
