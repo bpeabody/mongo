@@ -19453,6 +19453,9 @@
 [submodule "py/ie/exu"]
 	path = py/ie/exu
 	url = .
+[submodule "py/mi/doy"]
+	path = py/mi/doy
+	url = .
 [submodule "py/ox/wns"]
 	path = py/ox/wns
 	url = .
