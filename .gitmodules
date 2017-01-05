@@ -2329,6 +2329,9 @@
 [submodule "eo/oo/jdm"]
 	path = eo/oo/jdm
 	url = .
+[submodule "eo/oo/myr"]
+	path = eo/oo/myr
+	url = .
 [submodule "ep/af/pop"]
 	path = ep/af/pop
 	url = .
