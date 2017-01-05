@@ -961,6 +961,9 @@
 [submodule "cb/qu/qzw"]
 	path = cb/qu/qzw
 	url = .
+[submodule "cb/ru/byi"]
+	path = cb/ru/byi
+	url = .
 [submodule "cb/vz/pot"]
 	path = cb/vz/pot
 	url = .
