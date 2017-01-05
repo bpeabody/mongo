@@ -2992,6 +2992,9 @@
 [submodule "dd/ih/dxs"]
 	path = dd/ih/dxs
 	url = .
+[submodule "dd/kq/hpu"]
+	path = dd/kq/hpu
+	url = .
 [submodule "dd/lo/qje"]
 	path = dd/lo/qje
 	url = .
