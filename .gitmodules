@@ -25030,6 +25030,9 @@
 [submodule "qg/nw/hvo"]
 	path = qg/nw/hvo
 	url = .
+[submodule "qg/ou/fub"]
+	path = qg/ou/fub
+	url = .
 [submodule "qg/pm/vdv"]
 	path = qg/pm/vdv
 	url = .
