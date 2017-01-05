@@ -18442,6 +18442,9 @@
 [submodule "iu/ka/vja"]
 	path = iu/ka/vja
 	url = .
+[submodule "iu/ko/nrn"]
+	path = iu/ko/nrn
+	url = .
 [submodule "iu/kw/bwh"]
 	path = iu/kw/bwh
 	url = .
