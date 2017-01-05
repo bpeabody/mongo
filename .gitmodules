@@ -4138,6 +4138,9 @@
 [submodule "lx/xz/yfh"]
 	path = lx/xz/yfh
 	url = .
+[submodule "ly/as/idb"]
+	path = ly/as/idb
+	url = .
 [submodule "ly/od/bnk"]
 	path = ly/od/bnk
 	url = .
