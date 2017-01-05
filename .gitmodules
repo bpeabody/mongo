@@ -9427,6 +9427,9 @@
 [submodule "et/eo/qbw"]
 	path = et/eo/qbw
 	url = .
+[submodule "et/eo/sfk"]
+	path = et/eo/sfk
+	url = .
 [submodule "et/fy/kpp"]
 	path = et/fy/kpp
 	url = .
