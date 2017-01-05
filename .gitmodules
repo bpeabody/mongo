@@ -36388,6 +36388,9 @@
 [submodule "tx/bp/eio"]
 	path = tx/bp/eio
 	url = .
+[submodule "tx/bs/soo"]
+	path = tx/bs/soo
+	url = .
 [submodule "tx/cm/nla"]
 	path = tx/cm/nla
 	url = .
