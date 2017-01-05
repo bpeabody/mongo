@@ -2623,6 +2623,9 @@
 [submodule "mp/vj/dqa"]
 	path = mp/vj/dqa
 	url = .
+[submodule "mq/gv/ics"]
+	path = mq/gv/ics
+	url = .
 [submodule "mq/lw/jau"]
 	path = mq/lw/jau
 	url = .
