@@ -5746,6 +5746,9 @@
 [submodule "nd/qb/ija"]
 	path = nd/qb/ija
 	url = .
+[submodule "nd/vm/umb"]
+	path = nd/vm/umb
+	url = .
 [submodule "ne/ph/val"]
 	path = ne/ph/val
 	url = .
