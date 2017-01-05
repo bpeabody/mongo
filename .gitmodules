@@ -14479,6 +14479,9 @@
 [submodule "fd/uj/xdt"]
 	path = fd/uj/xdt
 	url = .
+[submodule "fd/vl/ppz"]
+	path = fd/vl/ppz
+	url = .
 [submodule "fd/wx/vvg"]
 	path = fd/wx/vvg
 	url = .
