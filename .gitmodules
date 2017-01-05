@@ -7864,6 +7864,9 @@
 [submodule "fw/oy/vlr"]
 	path = fw/oy/vlr
 	url = .
+[submodule "fw/qw/vmm"]
+	path = fw/qw/vmm
+	url = .
 [submodule "fw/rb/rqe"]
 	path = fw/rb/rqe
 	url = .
