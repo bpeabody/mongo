@@ -11620,6 +11620,9 @@
 [submodule "hq/aa/xsv"]
 	path = hq/aa/xsv
 	url = .
+[submodule "hq/bt/idr"]
+	path = hq/bt/idr
+	url = .
 [submodule "hq/bt/svc"]
 	path = hq/bt/svc
 	url = .
