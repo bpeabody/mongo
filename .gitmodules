@@ -9478,6 +9478,9 @@
 [submodule "gs/xw/iro"]
 	path = gs/xw/iro
 	url = .
+[submodule "gt/er/zjk"]
+	path = gt/er/zjk
+	url = .
 [submodule "gt/ft/vfx"]
 	path = gt/ft/vfx
 	url = .
