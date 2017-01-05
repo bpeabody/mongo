@@ -12037,6 +12037,9 @@
 [submodule "xs/wu/gfx"]
 	path = xs/wu/gfx
 	url = .
+[submodule "xs/zg/kay"]
+	path = xs/zg/kay
+	url = .
 [submodule "xt/fv/mjj"]
 	path = xt/fv/mjj
 	url = .
