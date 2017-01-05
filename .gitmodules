@@ -2383,6 +2383,9 @@
 [submodule "nh/js/wmn"]
 	path = nh/js/wmn
 	url = .
+[submodule "nh/xq/qnt"]
+	path = nh/xq/qnt
+	url = .
 [submodule "ni/nw/ajn"]
 	path = ni/nw/ajn
 	url = .
