@@ -10951,6 +10951,9 @@
 [submodule "sm/wq/zjj"]
 	path = sm/wq/zjj
 	url = .
+[submodule "sm/wx/nje"]
+	path = sm/wx/nje
+	url = .
 [submodule "sn/cd/mbb"]
 	path = sn/cd/mbb
 	url = .
