@@ -23197,6 +23197,9 @@
 [submodule "qk/ho/pkv"]
 	path = qk/ho/pkv
 	url = .
+[submodule "qk/id/kva"]
+	path = qk/id/kva
+	url = .
 [submodule "qk/ir/uxi"]
 	path = qk/ir/uxi
 	url = .
