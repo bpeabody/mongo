@@ -58333,6 +58333,9 @@
 [submodule "vv/ib/jih"]
 	path = vv/ib/jih
 	url = .
+[submodule "vv/io/kmv"]
+	path = vv/io/kmv
+	url = .
 [submodule "vv/on/lvz"]
 	path = vv/on/lvz
 	url = .
