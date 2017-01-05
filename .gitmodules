@@ -6490,6 +6490,9 @@
 [submodule "eb/po/bsi"]
 	path = eb/po/bsi
 	url = .
+[submodule "eb/qj/bzc"]
+	path = eb/qj/bzc
+	url = .
 [submodule "eb/qq/rtx"]
 	path = eb/qq/rtx
 	url = .
