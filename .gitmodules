@@ -2647,6 +2647,9 @@
 [submodule "ge/tv/bat"]
 	path = ge/tv/bat
 	url = .
+[submodule "ge/yr/wcc"]
+	path = ge/yr/wcc
+	url = .
 [submodule "gf/cs/dzj"]
 	path = gf/cs/dzj
 	url = .
