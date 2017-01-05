@@ -21712,6 +21712,9 @@
 [submodule "ic/eg/rhy"]
 	path = ic/eg/rhy
 	url = .
+[submodule "ic/ez/jkf"]
+	path = ic/ez/jkf
+	url = .
 [submodule "ic/gx/rsg"]
 	path = ic/gx/rsg
 	url = .
