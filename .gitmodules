@@ -51388,6 +51388,9 @@
 [submodule "ri/ca/ppt"]
 	path = ri/ca/ppt
 	url = .
+[submodule "ri/cq/dza"]
+	path = ri/cq/dza
+	url = .
 [submodule "ri/cx/gsk"]
 	path = ri/cx/gsk
 	url = .
