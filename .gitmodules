@@ -16369,6 +16369,9 @@
 [submodule "ja/ue/sux"]
 	path = ja/ue/sux
 	url = .
+[submodule "ja/ve/grg"]
+	path = ja/ve/grg
+	url = .
 [submodule "ja/wb/vvl"]
 	path = ja/wb/vvl
 	url = .
