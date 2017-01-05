@@ -39760,6 +39760,9 @@
 [submodule "pb/gl/yfy"]
 	path = pb/gl/yfy
 	url = .
+[submodule "pb/gn/bed"]
+	path = pb/gn/bed
+	url = .
 [submodule "pb/gt/hvo"]
 	path = pb/gt/hvo
 	url = .
