@@ -607,6 +607,9 @@
 [submodule "be/ce/aum"]
 	path = be/ce/aum
 	url = .
+[submodule "be/dp/mlj"]
+	path = be/dp/mlj
+	url = .
 [submodule "be/ha/ker"]
 	path = be/ha/ker
 	url = .
