@@ -34042,6 +34042,9 @@
 [submodule "xn/el/wfx"]
 	path = xn/el/wfx
 	url = .
+[submodule "xn/fk/pel"]
+	path = xn/fk/pel
+	url = .
 [submodule "xn/fu/dot"]
 	path = xn/fu/dot
 	url = .
