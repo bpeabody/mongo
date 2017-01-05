@@ -9838,6 +9838,9 @@
 [submodule "or/pb/trv"]
 	path = or/pb/trv
 	url = .
+[submodule "or/ph/vhe"]
+	path = or/ph/vhe
+	url = .
 [submodule "or/xk/qoy"]
 	path = or/xk/qoy
 	url = .
