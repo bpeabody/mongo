@@ -51298,6 +51298,9 @@
 [submodule "rk/mm/usr"]
 	path = rk/mm/usr
 	url = .
+[submodule "rk/nq/lvm"]
+	path = rk/nq/lvm
+	url = .
 [submodule "rk/ok/xlm"]
 	path = rk/ok/xlm
 	url = .
