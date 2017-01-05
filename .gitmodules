@@ -6244,6 +6244,9 @@
 [submodule "fz/zq/cmw"]
 	path = fz/zq/cmw
 	url = .
+[submodule "ga/dj/qsf"]
+	path = ga/dj/qsf
+	url = .
 [submodule "ga/es/xko"]
 	path = ga/es/xko
 	url = .
