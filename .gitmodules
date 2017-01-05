@@ -38959,6 +38959,9 @@
 [submodule "vq/nl/kbr"]
 	path = vq/nl/kbr
 	url = .
+[submodule "vq/no/ral"]
+	path = vq/no/ral
+	url = .
 [submodule "vq/ol/dgx"]
 	path = vq/ol/dgx
 	url = .
