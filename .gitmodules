@@ -8620,6 +8620,9 @@
 [submodule "gn/pl/rdd"]
 	path = gn/pl/rdd
 	url = .
+[submodule "gn/pv/jky"]
+	path = gn/pv/jky
+	url = .
 [submodule "gn/st/fpx"]
 	path = gn/st/fpx
 	url = .
