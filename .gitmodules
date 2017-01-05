@@ -6880,6 +6880,9 @@
 [submodule "cn/bi/tqi"]
 	path = cn/bi/tqi
 	url = .
+[submodule "cn/bw/uuc"]
+	path = cn/bw/uuc
+	url = .
 [submodule "cn/cb/dpk"]
 	path = cn/cb/dpk
 	url = .
