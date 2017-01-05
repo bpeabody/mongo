@@ -22351,6 +22351,9 @@
 [submodule "lc/vk/ydg"]
 	path = lc/vk/ydg
 	url = .
+[submodule "lc/vq/rgl"]
+	path = lc/vq/rgl
+	url = .
 [submodule "lc/vz/pte"]
 	path = lc/vz/pte
 	url = .
