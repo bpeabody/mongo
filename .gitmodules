@@ -28450,6 +28450,9 @@
 [submodule "mo/wj/sxt"]
 	path = mo/wj/sxt
 	url = .
+[submodule "mo/wr/drd"]
+	path = mo/wr/drd
+	url = .
 [submodule "mo/ww/tyd"]
 	path = mo/ww/tyd
 	url = .
