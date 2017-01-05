@@ -10750,6 +10750,9 @@
 [submodule "fb/wr/ony"]
 	path = fb/wr/ony
 	url = .
+[submodule "fc/ao/wix"]
+	path = fc/ao/wix
+	url = .
 [submodule "fc/as/ott"]
 	path = fc/as/ott
 	url = .
