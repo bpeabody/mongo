@@ -2635,6 +2635,9 @@
 [submodule "ew/gu/uah"]
 	path = ew/gu/uah
 	url = .
+[submodule "ew/ix/fvu"]
+	path = ew/ix/fvu
+	url = .
 [submodule "ew/ld/qkw"]
 	path = ew/ld/qkw
 	url = .
