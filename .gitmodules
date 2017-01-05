@@ -19447,6 +19447,9 @@
 [submodule "qc/ny/bzw"]
 	path = qc/ny/bzw
 	url = .
+[submodule "qc/tv/tsq"]
+	path = qc/tv/tsq
+	url = .
 [submodule "qc/xp/stp"]
 	path = qc/xp/stp
 	url = .
