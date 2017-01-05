@@ -17059,6 +17059,9 @@
 [submodule "si/mk/lcx"]
 	path = si/mk/lcx
 	url = .
+[submodule "si/pg/ybl"]
+	path = si/pg/ybl
+	url = .
 [submodule "si/uz/elt"]
 	path = si/uz/elt
 	url = .
