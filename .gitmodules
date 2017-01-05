@@ -15973,6 +15973,9 @@
 [submodule "jc/bw/uyt"]
 	path = jc/bw/uyt
 	url = .
+[submodule "jc/cc/kli"]
+	path = jc/cc/kli
+	url = .
 [submodule "jc/cn/jpl"]
 	path = jc/cn/jpl
 	url = .
