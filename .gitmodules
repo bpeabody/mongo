@@ -4399,6 +4399,9 @@
 [submodule "cr/nx/lvx"]
 	path = cr/nx/lvx
 	url = .
+[submodule "cr/or/ean"]
+	path = cr/or/ean
+	url = .
 [submodule "cr/qj/ldb"]
 	path = cr/qj/ldb
 	url = .
