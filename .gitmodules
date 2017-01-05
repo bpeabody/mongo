@@ -19486,6 +19486,9 @@
 [submodule "wu/ka/tgj"]
 	path = wu/ka/tgj
 	url = .
+[submodule "wu/lk/mak"]
+	path = wu/lk/mak
+	url = .
 [submodule "wu/mh/yvs"]
 	path = wu/mh/yvs
 	url = .
