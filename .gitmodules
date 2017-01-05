@@ -21556,6 +21556,9 @@
 [submodule "np/nl/sqz"]
 	path = np/nl/sqz
 	url = .
+[submodule "np/pn/xxt"]
+	path = np/pn/xxt
+	url = .
 [submodule "np/pq/eml"]
 	path = np/pq/eml
 	url = .
