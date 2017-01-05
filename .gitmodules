@@ -13915,6 +13915,9 @@
 [submodule "rj/dm/obm"]
 	path = rj/dm/obm
 	url = .
+[submodule "rj/fk/yqt"]
+	path = rj/fk/yqt
+	url = .
 [submodule "rj/hh/qmv"]
 	path = rj/hh/qmv
 	url = .
