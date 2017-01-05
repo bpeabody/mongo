@@ -15949,6 +15949,9 @@
 [submodule "fm/ya/swu"]
 	path = fm/ya/swu
 	url = .
+[submodule "fm/zg/bxm"]
+	path = fm/zg/bxm
+	url = .
 [submodule "fn/ap/wfv"]
 	path = fn/ap/wfv
 	url = .
