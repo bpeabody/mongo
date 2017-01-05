@@ -3238,6 +3238,9 @@
 [submodule "bk/ln/qhr"]
 	path = bk/ln/qhr
 	url = .
+[submodule "bk/lt/jyi"]
+	path = bk/lt/jyi
+	url = .
 [submodule "bk/lt/zan"]
 	path = bk/lt/zan
 	url = .
