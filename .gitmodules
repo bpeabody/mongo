@@ -4909,6 +4909,9 @@
 [submodule "ik/xx/tqt"]
 	path = ik/xx/tqt
 	url = .
+[submodule "ik/xz/rhs"]
+	path = ik/xz/rhs
+	url = .
 [submodule "il/kk/qdt"]
 	path = il/kk/qdt
 	url = .
