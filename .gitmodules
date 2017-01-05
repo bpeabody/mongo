@@ -4012,6 +4012,9 @@
 [submodule "ka/ia/wgs"]
 	path = ka/ia/wgs
 	url = .
+[submodule "ka/pu/hfw"]
+	path = ka/pu/hfw
+	url = .
 [submodule "kb/cs/zad"]
 	path = kb/cs/zad
 	url = .
