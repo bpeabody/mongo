@@ -2062,6 +2062,9 @@
 [submodule "jj/vc/pii"]
 	path = jj/vc/pii
 	url = .
+[submodule "jj/xv/cfn"]
+	path = jj/xv/cfn
+	url = .
 [submodule "jj/zg/pah"]
 	path = jj/zg/pah
 	url = .
