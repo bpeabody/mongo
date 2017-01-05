@@ -15811,6 +15811,9 @@
 [submodule "hx/ih/yar"]
 	path = hx/ih/yar
 	url = .
+[submodule "hx/jg/ndn"]
+	path = hx/jg/ndn
+	url = .
 [submodule "hx/ji/ggp"]
 	path = hx/ji/ggp
 	url = .
