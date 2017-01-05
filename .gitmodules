@@ -64750,6 +64750,9 @@
 [submodule "yy/ly/cqm"]
 	path = yy/ly/cqm
 	url = .
+[submodule "yy/mb/sck"]
+	path = yy/mb/sck
+	url = .
 [submodule "yy/mr/blk"]
 	path = yy/mr/blk
 	url = .
