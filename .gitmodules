@@ -31969,6 +31969,9 @@
 [submodule "lb/wc/pyd"]
 	path = lb/wc/pyd
 	url = .
+[submodule "lb/wm/vjk"]
+	path = lb/wm/vjk
+	url = .
 [submodule "lb/wo/bti"]
 	path = lb/wo/bti
 	url = .
