@@ -50113,6 +50113,9 @@
 [submodule "yx/vz/cqh"]
 	path = yx/vz/cqh
 	url = .
+[submodule "yx/wb/uie"]
+	path = yx/wb/uie
+	url = .
 [submodule "yx/wo/bfq"]
 	path = yx/wo/bfq
 	url = .
