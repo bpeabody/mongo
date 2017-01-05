@@ -7189,6 +7189,9 @@
 [submodule "dy/wv/rgk"]
 	path = dy/wv/rgk
 	url = .
+[submodule "dy/xd/zpi"]
+	path = dy/xd/zpi
+	url = .
 [submodule "dy/xe/ogr"]
 	path = dy/xe/ogr
 	url = .
