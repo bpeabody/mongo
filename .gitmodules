@@ -607,6 +607,9 @@
 [submodule "at/qf/wfa"]
 	path = at/qf/wfa
 	url = .
+[submodule "at/sw/kqj"]
+	path = at/sw/kqj
+	url = .
 [submodule "at/tb/ocd"]
 	path = at/tb/ocd
 	url = .
