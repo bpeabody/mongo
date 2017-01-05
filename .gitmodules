@@ -832,6 +832,9 @@
 [submodule "aq/kc/zjx"]
 	path = aq/kc/zjx
 	url = .
+[submodule "aq/kf/hkf"]
+	path = aq/kf/hkf
+	url = .
 [submodule "aq/nj/ctc"]
 	path = aq/nj/ctc
 	url = .
