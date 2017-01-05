@@ -25465,6 +25465,9 @@
 [submodule "ou/hz/uip"]
 	path = ou/hz/uip
 	url = .
+[submodule "ou/ib/xcg"]
+	path = ou/ib/xcg
+	url = .
 [submodule "ou/im/lie"]
 	path = ou/im/lie
 	url = .
