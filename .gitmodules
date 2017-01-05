@@ -46708,6 +46708,9 @@
 [submodule "rj/ho/azb"]
 	path = rj/ho/azb
 	url = .
+[submodule "rj/it/aat"]
+	path = rj/it/aat
+	url = .
 [submodule "rj/jx/hud"]
 	path = rj/jx/hud
 	url = .
