@@ -9517,6 +9517,9 @@
 [submodule "es/qt/znw"]
 	path = es/qt/znw
 	url = .
+[submodule "es/re/wkw"]
+	path = es/re/wkw
+	url = .
 [submodule "es/se/dak"]
 	path = es/se/dak
 	url = .
