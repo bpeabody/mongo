@@ -16747,6 +16747,9 @@
 [submodule "na/ol/hxo"]
 	path = na/ol/hxo
 	url = .
+[submodule "na/sl/ook"]
+	path = na/sl/ook
+	url = .
 [submodule "nb/ax/gtc"]
 	path = nb/ax/gtc
 	url = .
