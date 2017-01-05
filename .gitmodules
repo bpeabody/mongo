@@ -27841,6 +27841,9 @@
 [submodule "xp/jp/fsq"]
 	path = xp/jp/fsq
 	url = .
+[submodule "xp/kn/nad"]
+	path = xp/kn/nad
+	url = .
 [submodule "xp/mp/sxn"]
 	path = xp/mp/sxn
 	url = .
