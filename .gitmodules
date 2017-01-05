@@ -22588,6 +22588,9 @@
 [submodule "mc/ld/lvf"]
 	path = mc/ld/lvf
 	url = .
+[submodule "mc/lv/uvg"]
+	path = mc/lv/uvg
+	url = .
 [submodule "mc/me/cmh"]
 	path = mc/me/cmh
 	url = .
