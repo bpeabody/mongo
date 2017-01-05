@@ -34960,6 +34960,9 @@
 [submodule "pw/fi/wdb"]
 	path = pw/fi/wdb
 	url = .
+[submodule "pw/hm/aiw"]
+	path = pw/hm/aiw
+	url = .
 [submodule "pw/ht/ztz"]
 	path = pw/ht/ztz
 	url = .
