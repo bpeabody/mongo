@@ -24628,6 +24628,9 @@
 [submodule "jp/zf/jsh"]
 	path = jp/zf/jsh
 	url = .
+[submodule "jq/ar/mlg"]
+	path = jq/ar/mlg
+	url = .
 [submodule "jq/cf/rgs"]
 	path = jq/cf/rgs
 	url = .
