@@ -25882,6 +25882,9 @@
 [submodule "jg/ii/eto"]
 	path = jg/ii/eto
 	url = .
+[submodule "jg/it/rhk"]
+	path = jg/it/rhk
+	url = .
 [submodule "jg/jc/osq"]
 	path = jg/jc/osq
 	url = .
