@@ -766,6 +766,9 @@
 [submodule "bt/jc/huz"]
 	path = bt/jc/huz
 	url = .
+[submodule "bt/jy/btg"]
+	path = bt/jy/btg
+	url = .
 [submodule "bt/kj/esj"]
 	path = bt/kj/esj
 	url = .
