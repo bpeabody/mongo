@@ -9850,6 +9850,9 @@
 [submodule "iz/mk/cqn"]
 	path = iz/mk/cqn
 	url = .
+[submodule "iz/mn/qbn"]
+	path = iz/mn/qbn
+	url = .
 [submodule "iz/ok/dte"]
 	path = iz/ok/dte
 	url = .
