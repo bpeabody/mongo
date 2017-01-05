@@ -20830,6 +20830,9 @@
 [submodule "qn/kg/yse"]
 	path = qn/kg/yse
 	url = .
+[submodule "qn/lg/lci"]
+	path = qn/lg/lci
+	url = .
 [submodule "qn/pp/vwo"]
 	path = qn/pp/vwo
 	url = .
