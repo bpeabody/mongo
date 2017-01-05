@@ -28012,6 +28012,9 @@
 [submodule "ri/iw/poh"]
 	path = ri/iw/poh
 	url = .
+[submodule "ri/kc/nfh"]
+	path = ri/kc/nfh
+	url = .
 [submodule "ri/my/mge"]
 	path = ri/my/mge
 	url = .
