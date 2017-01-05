@@ -4786,6 +4786,9 @@
 [submodule "lw/ae/hbl"]
 	path = lw/ae/hbl
 	url = .
+[submodule "lw/ai/pwy"]
+	path = lw/ai/pwy
+	url = .
 [submodule "lw/gy/qvq"]
 	path = lw/gy/qvq
 	url = .
