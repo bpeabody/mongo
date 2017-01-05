@@ -5665,6 +5665,9 @@
 [submodule "ce/lw/rut"]
 	path = ce/lw/rut
 	url = .
+[submodule "ce/mw/vjm"]
+	path = ce/mw/vjm
+	url = .
 [submodule "ce/nn/zdx"]
 	path = ce/nn/zdx
 	url = .
