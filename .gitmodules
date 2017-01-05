@@ -8602,6 +8602,9 @@
 [submodule "jn/vb/gmr"]
 	path = jn/vb/gmr
 	url = .
+[submodule "jn/vq/rih"]
+	path = jn/vq/rih
+	url = .
 [submodule "jn/yw/css"]
 	path = jn/yw/css
 	url = .
