@@ -42916,6 +42916,9 @@
 [submodule "sv/vq/dmh"]
 	path = sv/vq/dmh
 	url = .
+[submodule "sv/vy/zdc"]
+	path = sv/vy/zdc
+	url = .
 [submodule "sv/wx/wvg"]
 	path = sv/wx/wvg
 	url = .
