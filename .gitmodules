@@ -30529,6 +30529,9 @@
 [submodule "lt/mj/szt"]
 	path = lt/mj/szt
 	url = .
+[submodule "lt/mq/ogr"]
+	path = lt/mq/ogr
+	url = .
 [submodule "lt/nk/cwo"]
 	path = lt/nk/cwo
 	url = .
