@@ -9040,6 +9040,9 @@
 [submodule "te/rf/uoo"]
 	path = te/rf/uoo
 	url = .
+[submodule "tf/aq/esa"]
+	path = tf/aq/esa
+	url = .
 [submodule "tf/dm/gyi"]
 	path = tf/dm/gyi
 	url = .
