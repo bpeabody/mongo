@@ -15265,6 +15265,9 @@
 [submodule "mb/hs/mmb"]
 	path = mb/hs/mmb
 	url = .
+[submodule "mb/jy/sxw"]
+	path = mb/jy/sxw
+	url = .
 [submodule "mb/la/did"]
 	path = mb/la/did
 	url = .
