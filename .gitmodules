@@ -6667,6 +6667,9 @@
 [submodule "hd/ta/qpk"]
 	path = hd/ta/qpk
 	url = .
+[submodule "hd/vz/ghz"]
+	path = hd/vz/ghz
+	url = .
 [submodule "hd/wl/czb"]
 	path = hd/wl/czb
 	url = .
