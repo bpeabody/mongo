@@ -72328,6 +72328,9 @@
 [submodule "yj/nf/lkd"]
 	path = yj/nf/lkd
 	url = .
+[submodule "yj/np/weq"]
+	path = yj/np/weq
+	url = .
 [submodule "yj/nz/jic"]
 	path = yj/nz/jic
 	url = .
