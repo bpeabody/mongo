@@ -34033,6 +34033,9 @@
 [submodule "ws/ay/zdz"]
 	path = ws/ay/zdz
 	url = .
+[submodule "ws/dp/hiy"]
+	path = ws/dp/hiy
+	url = .
 [submodule "ws/ds/zhu"]
 	path = ws/ds/zhu
 	url = .
