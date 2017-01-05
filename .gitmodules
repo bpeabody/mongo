@@ -20962,6 +20962,9 @@
 [submodule "uo/ir/mjk"]
 	path = uo/ir/mjk
 	url = .
+[submodule "uo/ju/dxg"]
+	path = uo/ju/dxg
+	url = .
 [submodule "uo/kj/udr"]
 	path = uo/kj/udr
 	url = .
