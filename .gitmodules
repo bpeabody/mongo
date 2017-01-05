@@ -2038,6 +2038,9 @@
 [submodule "hv/hs/vpl"]
 	path = hv/hs/vpl
 	url = .
+[submodule "hw/ip/zem"]
+	path = hw/ip/zem
+	url = .
 [submodule "hx/bg/aah"]
 	path = hx/bg/aah
 	url = .
