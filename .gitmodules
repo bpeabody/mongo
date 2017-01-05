@@ -27760,6 +27760,9 @@
 [submodule "vi/wf/sac"]
 	path = vi/wf/sac
 	url = .
+[submodule "vi/wg/hnm"]
+	path = vi/wg/hnm
+	url = .
 [submodule "vi/xa/gyb"]
 	path = vi/xa/gyb
 	url = .
