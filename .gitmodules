@@ -1819,6 +1819,9 @@
 [submodule "wh/ho/dvo"]
 	path = wh/ho/dvo
 	url = .
+[submodule "wh/kk/ejr"]
+	path = wh/kk/ejr
+	url = .
 [submodule "wh/qs/obv"]
 	path = wh/qs/obv
 	url = .
