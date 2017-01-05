@@ -6307,6 +6307,9 @@
 [submodule "om/sk/jsa"]
 	path = om/sk/jsa
 	url = .
+[submodule "om/tz/nht"]
+	path = om/tz/nht
+	url = .
 [submodule "om/ve/rhg"]
 	path = om/ve/rhg
 	url = .
