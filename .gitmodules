@@ -739,6 +739,9 @@
 [submodule "ah/vd/xbo"]
 	path = ah/vd/xbo
 	url = .
+[submodule "ah/wo/hub"]
+	path = ah/wo/hub
+	url = .
 [submodule "ah/zk/pfr"]
 	path = ah/zk/pfr
 	url = .
