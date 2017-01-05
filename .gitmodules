@@ -8038,6 +8038,9 @@
 [submodule "qk/mu/gcj"]
 	path = qk/mu/gcj
 	url = .
+[submodule "qk/nh/hpx"]
+	path = qk/nh/hpx
+	url = .
 [submodule "qk/vd/red"]
 	path = qk/vd/red
 	url = .
