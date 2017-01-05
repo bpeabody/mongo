@@ -2734,6 +2734,9 @@
 [submodule "id/ub/bbs"]
 	path = id/ub/bbs
 	url = .
+[submodule "id/yw/nml"]
+	path = id/yw/nml
+	url = .
 [submodule "ie/du/con"]
 	path = ie/du/con
 	url = .
