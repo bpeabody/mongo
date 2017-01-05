@@ -8884,6 +8884,9 @@
 [submodule "hk/gj/qzr"]
 	path = hk/gj/qzr
 	url = .
+[submodule "hk/ir/ffz"]
+	path = hk/ir/ffz
+	url = .
 [submodule "hk/ka/ukm"]
 	path = hk/ka/ukm
 	url = .
