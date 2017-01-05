@@ -7654,6 +7654,9 @@
 [submodule "he/km/rba"]
 	path = he/km/rba
 	url = .
+[submodule "he/kz/zua"]
+	path = he/kz/zua
+	url = .
 [submodule "he/ny/hsp"]
 	path = he/ny/hsp
 	url = .
