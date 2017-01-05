@@ -42130,6 +42130,9 @@
 [submodule "oy/lq/sqy"]
 	path = oy/lq/sqy
 	url = .
+[submodule "oy/mn/ceb"]
+	path = oy/mn/ceb
+	url = .
 [submodule "oy/mx/wmm"]
 	path = oy/mx/wmm
 	url = .
