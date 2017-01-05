@@ -3934,6 +3934,9 @@
 [submodule "du/ef/vte"]
 	path = du/ef/vte
 	url = .
+[submodule "du/gb/pvv"]
+	path = du/gb/pvv
+	url = .
 [submodule "du/md/ric"]
 	path = du/md/ric
 	url = .
