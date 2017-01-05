@@ -59815,6 +59815,9 @@
 [submodule "wg/pf/iww"]
 	path = wg/pf/iww
 	url = .
+[submodule "wg/ph/lcg"]
+	path = wg/ph/lcg
+	url = .
 [submodule "wg/pi/hmt"]
 	path = wg/pi/hmt
 	url = .
