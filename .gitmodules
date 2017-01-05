@@ -1618,6 +1618,9 @@
 [submodule "pd/iu/bkm"]
 	path = pd/iu/bkm
 	url = .
+[submodule "pe/uj/tyw"]
+	path = pe/uj/tyw
+	url = .
 [submodule "pe/zp/spl"]
 	path = pe/zp/spl
 	url = .
