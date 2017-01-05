@@ -49624,6 +49624,9 @@
 [submodule "tu/fs/lem"]
 	path = tu/fs/lem
 	url = .
+[submodule "tu/hw/xka"]
+	path = tu/hw/xka
+	url = .
 [submodule "tu/iy/jtn"]
 	path = tu/iy/jtn
 	url = .
