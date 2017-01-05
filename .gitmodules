@@ -8827,6 +8827,9 @@
 [submodule "hx/ux/iqb"]
 	path = hx/ux/iqb
 	url = .
+[submodule "hx/we/mss"]
+	path = hx/we/mss
+	url = .
 [submodule "hy/cv/jnu"]
 	path = hy/cv/jnu
 	url = .
