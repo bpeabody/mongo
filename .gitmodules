@@ -25000,6 +25000,9 @@
 [submodule "mf/fb/lxj"]
 	path = mf/fb/lxj
 	url = .
+[submodule "mf/fu/fjd"]
+	path = mf/fu/fjd
+	url = .
 [submodule "mf/gn/jti"]
 	path = mf/gn/jti
 	url = .
