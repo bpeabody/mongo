@@ -6955,6 +6955,9 @@
 [submodule "gx/cb/qvs"]
 	path = gx/cb/qvs
 	url = .
+[submodule "gx/iw/qnr"]
+	path = gx/iw/qnr
+	url = .
 [submodule "gx/kc/ybg"]
 	path = gx/kc/ybg
 	url = .
