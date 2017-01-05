@@ -6667,6 +6667,9 @@
 [submodule "hp/ar/svc"]
 	path = hp/ar/svc
 	url = .
+[submodule "hp/iz/ygs"]
+	path = hp/iz/ygs
+	url = .
 [submodule "hp/kh/wul"]
 	path = hp/kh/wul
 	url = .
