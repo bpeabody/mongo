@@ -9622,6 +9622,9 @@
 [submodule "ht/bl/lqa"]
 	path = ht/bl/lqa
 	url = .
+[submodule "ht/br/fqb"]
+	path = ht/br/fqb
+	url = .
 [submodule "ht/ff/dne"]
 	path = ht/ff/dne
 	url = .
