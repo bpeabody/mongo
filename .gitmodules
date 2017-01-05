@@ -6211,6 +6211,9 @@
 [submodule "co/sk/pmj"]
 	path = co/sk/pmj
 	url = .
+[submodule "co/su/gyr"]
+	path = co/su/gyr
+	url = .
 [submodule "co/vl/rbp"]
 	path = co/vl/rbp
 	url = .
