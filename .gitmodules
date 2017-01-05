@@ -5386,6 +5386,9 @@
 [submodule "en/ee/usd"]
 	path = en/ee/usd
 	url = .
+[submodule "en/gj/nqp"]
+	path = en/gj/nqp
+	url = .
 [submodule "en/hp/lkg"]
 	path = en/hp/lkg
 	url = .
