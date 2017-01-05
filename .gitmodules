@@ -5299,6 +5299,9 @@
 [submodule "bw/ed/cvj"]
 	path = bw/ed/cvj
 	url = .
+[submodule "bw/ee/nus"]
+	path = bw/ee/nus
+	url = .
 [submodule "bw/ej/mgp"]
 	path = bw/ej/mgp
 	url = .
