@@ -24697,6 +24697,9 @@
 [submodule "nk/rf/rlb"]
 	path = nk/rf/rlb
 	url = .
+[submodule "nk/rh/oqj"]
+	path = nk/rh/oqj
+	url = .
 [submodule "nk/rx/hir"]
 	path = nk/rx/hir
 	url = .
