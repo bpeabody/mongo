@@ -1672,6 +1672,9 @@
 [submodule "zu/os/whd"]
 	path = zu/os/whd
 	url = .
+[submodule "zw/ur/irj"]
+	path = zw/ur/irj
+	url = .
 [submodule "zw/xf/elp"]
 	path = zw/xf/elp
 	url = .
