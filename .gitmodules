@@ -19294,6 +19294,9 @@
 [submodule "hl/oy/ftj"]
 	path = hl/oy/ftj
 	url = .
+[submodule "hl/pm/pas"]
+	path = hl/pm/pas
+	url = .
 [submodule "hl/pw/rny"]
 	path = hl/pw/rny
 	url = .
