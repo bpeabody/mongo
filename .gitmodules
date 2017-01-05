@@ -50716,6 +50716,9 @@
 [submodule "vd/oe/yrd"]
 	path = vd/oe/yrd
 	url = .
+[submodule "vd/pi/xtb"]
+	path = vd/pi/xtb
+	url = .
 [submodule "vd/qi/ngz"]
 	path = vd/qi/ngz
 	url = .
