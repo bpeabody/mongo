@@ -2713,6 +2713,9 @@
 [submodule "ck/vn/dpb"]
 	path = ck/vn/dpb
 	url = .
+[submodule "ck/xp/qtv"]
+	path = ck/xp/qtv
+	url = .
 [submodule "ck/xs/bov"]
 	path = ck/xs/bov
 	url = .
