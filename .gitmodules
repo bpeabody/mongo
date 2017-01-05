@@ -9820,6 +9820,9 @@
 [submodule "lv/ei/hfg"]
 	path = lv/ei/hfg
 	url = .
+[submodule "lv/ie/exu"]
+	path = lv/ie/exu
+	url = .
 [submodule "lv/im/ivr"]
 	path = lv/im/ivr
 	url = .
