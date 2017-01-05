@@ -20974,6 +20974,9 @@
 [submodule "kl/pe/nbt"]
 	path = kl/pe/nbt
 	url = .
+[submodule "kl/qc/akt"]
+	path = kl/qc/akt
+	url = .
 [submodule "kl/qc/qqa"]
 	path = kl/qc/qqa
 	url = .
