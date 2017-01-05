@@ -40168,6 +40168,9 @@
 [submodule "ry/my/wlj"]
 	path = ry/my/wlj
 	url = .
+[submodule "ry/nm/qel"]
+	path = ry/nm/qel
+	url = .
 [submodule "ry/np/qau"]
 	path = ry/np/qau
 	url = .
