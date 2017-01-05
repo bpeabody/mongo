@@ -11644,6 +11644,9 @@
 [submodule "iv/wy/owd"]
 	path = iv/wy/owd
 	url = .
+[submodule "iv/xb/pdu"]
+	path = iv/xb/pdu
+	url = .
 [submodule "iv/yy/rbw"]
 	path = iv/yy/rbw
 	url = .
