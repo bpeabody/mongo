@@ -5821,6 +5821,9 @@
 [submodule "uu/dt/hkz"]
 	path = uu/dt/hkz
 	url = .
+[submodule "uu/vx/fia"]
+	path = uu/vx/fia
+	url = .
 [submodule "uu/xc/qlx"]
 	path = uu/xc/qlx
 	url = .
