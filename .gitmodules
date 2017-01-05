@@ -36259,6 +36259,9 @@
 [submodule "os/kh/hdc"]
 	path = os/kh/hdc
 	url = .
+[submodule "os/kv/aos"]
+	path = os/kv/aos
+	url = .
 [submodule "os/kw/mni"]
 	path = os/kw/mni
 	url = .
