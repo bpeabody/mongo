@@ -21334,6 +21334,9 @@
 [submodule "ja/bn/drn"]
 	path = ja/bn/drn
 	url = .
+[submodule "ja/da/srg"]
+	path = ja/da/srg
+	url = .
 [submodule "ja/ed/tzm"]
 	path = ja/ed/tzm
 	url = .
