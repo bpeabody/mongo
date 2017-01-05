@@ -2425,6 +2425,9 @@
 [submodule "hk/by/tik"]
 	path = hk/by/tik
 	url = .
+[submodule "hk/mi/vel"]
+	path = hk/mi/vel
+	url = .
 [submodule "hl/bd/mrv"]
 	path = hl/bd/mrv
 	url = .
