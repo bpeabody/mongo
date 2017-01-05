@@ -10771,6 +10771,9 @@
 [submodule "hr/cb/bpk"]
 	path = hr/cb/bpk
 	url = .
+[submodule "hr/cs/hgo"]
+	path = hr/cs/hgo
+	url = .
 [submodule "hr/dy/rgs"]
 	path = hr/dy/rgs
 	url = .
