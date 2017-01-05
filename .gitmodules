@@ -3706,6 +3706,9 @@
 [submodule "my/yc/qct"]
 	path = my/yc/qct
 	url = .
+[submodule "mz/cb/cvn"]
+	path = mz/cb/cvn
+	url = .
 [submodule "mz/hc/hav"]
 	path = mz/hc/hav
 	url = .
