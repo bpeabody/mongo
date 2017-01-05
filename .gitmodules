@@ -12292,6 +12292,9 @@
 [submodule "ek/ph/jkf"]
 	path = ek/ph/jkf
 	url = .
+[submodule "ek/qf/bfr"]
+	path = ek/qf/bfr
+	url = .
 [submodule "ek/ru/iyb"]
 	path = ek/ru/iyb
 	url = .
