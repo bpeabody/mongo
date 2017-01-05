@@ -43864,6 +43864,9 @@
 [submodule "qx/qe/xlu"]
 	path = qx/qe/xlu
 	url = .
+[submodule "qx/ro/knb"]
+	path = qx/ro/knb
+	url = .
 [submodule "qx/tc/oln"]
 	path = qx/tc/oln
 	url = .
