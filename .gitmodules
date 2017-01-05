@@ -25066,6 +25066,9 @@
 [submodule "sm/tz/qhc"]
 	path = sm/tz/qhc
 	url = .
+[submodule "sm/uf/ahi"]
+	path = sm/uf/ahi
+	url = .
 [submodule "sm/ug/lbg"]
 	path = sm/ug/lbg
 	url = .
