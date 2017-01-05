@@ -3787,6 +3787,9 @@
 [submodule "fa/gm/euf"]
 	path = fa/gm/euf
 	url = .
+[submodule "fa/gz/pvu"]
+	path = fa/gz/pvu
+	url = .
 [submodule "fa/jy/dmg"]
 	path = fa/jy/dmg
 	url = .
