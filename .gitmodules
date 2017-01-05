@@ -19759,6 +19759,9 @@
 [submodule "ws/je/qea"]
 	path = ws/je/qea
 	url = .
+[submodule "ws/mq/yvx"]
+	path = ws/mq/yvx
+	url = .
 [submodule "ws/ni/con"]
 	path = ws/ni/con
 	url = .
