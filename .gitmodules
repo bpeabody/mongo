@@ -44749,6 +44749,9 @@
 [submodule "rh/xd/vrr"]
 	path = rh/xd/vrr
 	url = .
+[submodule "rh/zo/hhx"]
+	path = rh/zo/hhx
+	url = .
 [submodule "ri/aq/saf"]
 	path = ri/aq/saf
 	url = .
