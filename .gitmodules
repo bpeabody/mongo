@@ -44689,6 +44689,9 @@
 [submodule "qv/no/jkb"]
 	path = qv/no/jkb
 	url = .
+[submodule "qv/nv/lmj"]
+	path = qv/nv/lmj
+	url = .
 [submodule "qv/pl/iud"]
 	path = qv/pl/iud
 	url = .
