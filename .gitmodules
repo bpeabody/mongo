@@ -1090,6 +1090,9 @@
 [submodule "kg/og/owe"]
 	path = kg/og/owe
 	url = .
+[submodule "kh/az/yuu"]
+	path = kh/az/yuu
+	url = .
 [submodule "kh/cz/aqr"]
 	path = kh/cz/aqr
 	url = .
