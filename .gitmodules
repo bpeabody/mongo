@@ -14434,6 +14434,9 @@
 [submodule "gg/vn/ktn"]
 	path = gg/vn/ktn
 	url = .
+[submodule "gg/vu/xty"]
+	path = gg/vu/xty
+	url = .
 [submodule "gg/wn/gnm"]
 	path = gg/wn/gnm
 	url = .
