@@ -41674,6 +41674,9 @@
 [submodule "vo/lp/gml"]
 	path = vo/lp/gml
 	url = .
+[submodule "vo/ni/tec"]
+	path = vo/ni/tec
+	url = .
 [submodule "vo/oe/ljo"]
 	path = vo/oe/ljo
 	url = .
