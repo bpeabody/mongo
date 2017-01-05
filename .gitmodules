@@ -76,6 +76,9 @@
 [submodule "ab/sc/kxz"]
 	path = ab/sc/kxz
 	url = .
+[submodule "ab/tj/hhc"]
+	path = ab/tj/hhc
+	url = .
 [submodule "ab/tp/iho"]
 	path = ab/tp/iho
 	url = .
