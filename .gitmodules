@@ -3949,6 +3949,9 @@
 [submodule "sb/zm/bwe"]
 	path = sb/zm/bwe
 	url = .
+[submodule "sc/ew/pns"]
+	path = sc/ew/pns
+	url = .
 [submodule "sc/ri/ugg"]
 	path = sc/ri/ugg
 	url = .
