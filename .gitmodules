@@ -33553,6 +33553,9 @@
 [submodule "nn/az/hds"]
 	path = nn/az/hds
 	url = .
+[submodule "nn/ba/pjq"]
+	path = nn/ba/pjq
+	url = .
 [submodule "nn/bk/rzy"]
 	path = nn/bk/rzy
 	url = .
