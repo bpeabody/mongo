@@ -52279,6 +52279,9 @@
 [submodule "sl/xk/ryu"]
 	path = sl/xk/ryu
 	url = .
+[submodule "sl/xz/upk"]
+	path = sl/xz/upk
+	url = .
 [submodule "sl/ym/uem"]
 	path = sl/ym/uem
 	url = .
