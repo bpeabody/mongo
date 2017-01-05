@@ -18862,6 +18862,9 @@
 [submodule "lj/zs/dqe"]
 	path = lj/zs/dqe
 	url = .
+[submodule "lj/zy/egt"]
+	path = lj/zy/egt
+	url = .
 [submodule "lk/dq/gkg"]
 	path = lk/dq/gkg
 	url = .
