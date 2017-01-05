@@ -1813,6 +1813,9 @@
 [submodule "bg/lm/oau"]
 	path = bg/lm/oau
 	url = .
+[submodule "bg/md/ont"]
+	path = bg/md/ont
+	url = .
 [submodule "bg/mn/nlf"]
 	path = bg/mn/nlf
 	url = .
