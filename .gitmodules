@@ -11371,6 +11371,9 @@
 [submodule "vu/mo/qfi"]
 	path = vu/mo/qfi
 	url = .
+[submodule "vu/pd/wuv"]
+	path = vu/pd/wuv
+	url = .
 [submodule "vu/vj/dqh"]
 	path = vu/vj/dqh
 	url = .
