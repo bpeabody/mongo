@@ -34930,6 +34930,9 @@
 [submodule "mo/yo/cfi"]
 	path = mo/yo/cfi
 	url = .
+[submodule "mp/aj/hpk"]
+	path = mp/aj/hpk
+	url = .
 [submodule "mp/aj/yhj"]
 	path = mp/aj/yhj
 	url = .
