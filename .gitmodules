@@ -49354,6 +49354,9 @@
 [submodule "ve/fh/kvq"]
 	path = ve/fh/kvq
 	url = .
+[submodule "ve/gd/lav"]
+	path = ve/gd/lav
+	url = .
 [submodule "ve/ha/ujm"]
 	path = ve/ha/ujm
 	url = .
