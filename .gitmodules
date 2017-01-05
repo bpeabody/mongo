@@ -322,6 +322,9 @@
 [submodule "tz/cc/juy"]
 	path = tz/cc/juy
 	url = .
+[submodule "ue/qp/iht"]
+	path = ue/qp/iht
+	url = .
 [submodule "uo/ca/jyg"]
 	path = uo/ca/jyg
 	url = .
