@@ -1090,6 +1090,9 @@
 [submodule "bt/dt/bjx"]
 	path = bt/dt/bjx
 	url = .
+[submodule "bt/fy/xvg"]
+	path = bt/fy/xvg
+	url = .
 [submodule "bt/gf/ero"]
 	path = bt/gf/ero
 	url = .
