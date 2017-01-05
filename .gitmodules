@@ -55354,6 +55354,9 @@
 [submodule "yr/kd/cdq"]
 	path = yr/kd/cdq
 	url = .
+[submodule "yr/lf/hvo"]
+	path = yr/lf/hvo
+	url = .
 [submodule "yr/pe/ils"]
 	path = yr/pe/ils
 	url = .
