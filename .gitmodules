@@ -26356,6 +26356,9 @@
 [submodule "yw/ia/mri"]
 	path = yw/ia/mri
 	url = .
+[submodule "yw/ic/mql"]
+	path = yw/ic/mql
+	url = .
 [submodule "yw/lt/xxa"]
 	path = yw/lt/xxa
 	url = .
