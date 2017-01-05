@@ -529,6 +529,9 @@
 [submodule "cf/cx/gij"]
 	path = cf/cx/gij
 	url = .
+[submodule "cf/ov/svw"]
+	path = cf/ov/svw
+	url = .
 [submodule "cf/xq/xkp"]
 	path = cf/xq/xkp
 	url = .
