@@ -69907,6 +69907,9 @@
 [submodule "yt/pp/ufw"]
 	path = yt/pp/ufw
 	url = .
+[submodule "yt/qa/pkq"]
+	path = yt/qa/pkq
+	url = .
 [submodule "yt/re/jxg"]
 	path = yt/re/jxg
 	url = .
