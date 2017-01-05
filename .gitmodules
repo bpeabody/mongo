@@ -1531,6 +1531,9 @@
 [submodule "fy/ya/dtb"]
 	path = fy/ya/dtb
 	url = .
+[submodule "fy/zj/jev"]
+	path = fy/zj/jev
+	url = .
 [submodule "fz/hq/xuo"]
 	path = fz/hq/xuo
 	url = .
