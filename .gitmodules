@@ -9418,6 +9418,9 @@
 [submodule "fb/cj/ysd"]
 	path = fb/cj/ysd
 	url = .
+[submodule "fb/cx/sel"]
+	path = fb/cx/sel
+	url = .
 [submodule "fb/di/fqf"]
 	path = fb/di/fqf
 	url = .
