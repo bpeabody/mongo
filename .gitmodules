@@ -48532,6 +48532,9 @@
 [submodule "ri/be/ntt"]
 	path = ri/be/ntt
 	url = .
+[submodule "ri/bg/txp"]
+	path = ri/bg/txp
+	url = .
 [submodule "ri/bm/jma"]
 	path = ri/bm/jma
 	url = .
