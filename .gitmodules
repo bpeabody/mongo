@@ -7921,6 +7921,9 @@
 [submodule "yj/ip/frd"]
 	path = yj/ip/frd
 	url = .
+[submodule "yj/tx/qrm"]
+	path = yj/tx/qrm
+	url = .
 [submodule "yj/zu/jxt"]
 	path = yj/zu/jxt
 	url = .
