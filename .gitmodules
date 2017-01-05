@@ -4096,6 +4096,9 @@
 [submodule "bl/ym/jiv"]
 	path = bl/ym/jiv
 	url = .
+[submodule "bl/yv/reu"]
+	path = bl/yv/reu
+	url = .
 [submodule "bl/zm/llc"]
 	path = bl/zm/llc
 	url = .
