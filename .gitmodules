@@ -3817,6 +3817,9 @@
 [submodule "cu/fl/sjg"]
 	path = cu/fl/sjg
 	url = .
+[submodule "cu/fp/stj"]
+	path = cu/fp/stj
+	url = .
 [submodule "cu/ix/yqc"]
 	path = cu/ix/yqc
 	url = .
