@@ -2413,6 +2413,9 @@
 [submodule "fa/vv/mbk"]
 	path = fa/vv/mbk
 	url = .
+[submodule "fb/di/fqf"]
+	path = fb/di/fqf
+	url = .
 [submodule "fb/ji/hks"]
 	path = fb/ji/hks
 	url = .
