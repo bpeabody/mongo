@@ -2737,6 +2737,9 @@
 [submodule "ay/kp/ngo"]
 	path = ay/kp/ngo
 	url = .
+[submodule "ay/kx/ggw"]
+	path = ay/kx/ggw
+	url = .
 [submodule "ay/le/cot"]
 	path = ay/le/cot
 	url = .
