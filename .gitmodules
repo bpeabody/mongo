@@ -52,6 +52,9 @@
 [submodule "aa/sb/bhw"]
 	path = aa/sb/bhw
 	url = .
+[submodule "aa/tq/jbx"]
+	path = aa/tq/jbx
+	url = .
 [submodule "aa/ts/aja"]
 	path = aa/ts/aja
 	url = .
