@@ -24046,6 +24046,9 @@
 [submodule "nr/kp/ran"]
 	path = nr/kp/ran
 	url = .
+[submodule "nr/la/uxp"]
+	path = nr/la/uxp
+	url = .
 [submodule "nr/ld/xhq"]
 	path = nr/ld/xhq
 	url = .
