@@ -6196,6 +6196,9 @@
 [submodule "fi/dm/why"]
 	path = fi/dm/why
 	url = .
+[submodule "fi/ds/vko"]
+	path = fi/ds/vko
+	url = .
 [submodule "fi/eg/wqk"]
 	path = fi/eg/wqk
 	url = .
