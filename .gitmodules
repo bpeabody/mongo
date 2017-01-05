@@ -1630,6 +1630,9 @@
 [submodule "zh/yd/aqo"]
 	path = zh/yd/aqo
 	url = .
+[submodule "zi/gw/pdy"]
+	path = zi/gw/pdy
+	url = .
 [submodule "zj/kp/kbl"]
 	path = zj/kp/kbl
 	url = .
