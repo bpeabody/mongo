@@ -12946,6 +12946,9 @@
 [submodule "go/jj/tlf"]
 	path = go/jj/tlf
 	url = .
+[submodule "go/kf/reg"]
+	path = go/kf/reg
+	url = .
 [submodule "go/ma/hoo"]
 	path = go/ma/hoo
 	url = .
