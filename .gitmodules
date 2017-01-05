@@ -16552,6 +16552,9 @@
 [submodule "hi/ig/sgg"]
 	path = hi/ig/sgg
 	url = .
+[submodule "hi/ij/gjl"]
+	path = hi/ij/gjl
+	url = .
 [submodule "hi/io/ijx"]
 	path = hi/io/ijx
 	url = .
