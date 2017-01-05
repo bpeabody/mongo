@@ -9349,6 +9349,9 @@
 [submodule "da/xv/lwn"]
 	path = da/xv/lwn
 	url = .
+[submodule "da/yi/tko"]
+	path = da/yi/tko
+	url = .
 [submodule "da/yq/bti"]
 	path = da/yq/bti
 	url = .
