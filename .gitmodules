@@ -53767,6 +53767,9 @@
 [submodule "sv/wx/wvg"]
 	path = sv/wx/wvg
 	url = .
+[submodule "sv/xe/gli"]
+	path = sv/xe/gli
+	url = .
 [submodule "sv/xt/bls"]
 	path = sv/xt/bls
 	url = .
