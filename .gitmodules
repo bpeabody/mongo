@@ -14452,6 +14452,9 @@
 [submodule "ov/gy/rjb"]
 	path = ov/gy/rjb
 	url = .
+[submodule "ov/kp/vsz"]
+	path = ov/kp/vsz
+	url = .
 [submodule "ov/kz/yxk"]
 	path = ov/kz/yxk
 	url = .
