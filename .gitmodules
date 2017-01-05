@@ -24796,6 +24796,9 @@
 [submodule "qa/de/nmu"]
 	path = qa/de/nmu
 	url = .
+[submodule "qa/eh/nbf"]
+	path = qa/eh/nbf
+	url = .
 [submodule "qa/fs/hfk"]
 	path = qa/fs/hfk
 	url = .
