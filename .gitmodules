@@ -17821,6 +17821,9 @@
 [submodule "km/xg/ehm"]
 	path = km/xg/ehm
 	url = .
+[submodule "km/xq/atr"]
+	path = km/xq/atr
+	url = .
 [submodule "km/xt/ozv"]
 	path = km/xt/ozv
 	url = .
