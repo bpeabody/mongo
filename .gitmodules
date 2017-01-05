@@ -382,6 +382,9 @@
 [submodule "at/mc/are"]
 	path = at/mc/are
 	url = .
+[submodule "at/ui/dvh"]
+	path = at/ui/dvh
+	url = .
 [submodule "au/cv/tai"]
 	path = au/cv/tai
 	url = .
