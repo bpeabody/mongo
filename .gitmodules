@@ -310,6 +310,9 @@
 [submodule "ac/nl/kte"]
 	path = ac/nl/kte
 	url = .
+[submodule "ac/rh/eft"]
+	path = ac/rh/eft
+	url = .
 [submodule "ac/rj/nag"]
 	path = ac/rj/nag
 	url = .
