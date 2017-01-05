@@ -3772,6 +3772,9 @@
 [submodule "hz/pd/ckw"]
 	path = hz/pd/ckw
 	url = .
+[submodule "hz/qy/ryk"]
+	path = hz/qy/ryk
+	url = .
 [submodule "ia/ar/ljy"]
 	path = ia/ar/ljy
 	url = .
