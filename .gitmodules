@@ -19579,6 +19579,9 @@
 [submodule "rm/ly/vaj"]
 	path = rm/ly/vaj
 	url = .
+[submodule "rm/oc/ysk"]
+	path = rm/oc/ysk
+	url = .
 [submodule "rm/os/znl"]
 	path = rm/os/znl
 	url = .
