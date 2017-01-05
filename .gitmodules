@@ -10876,6 +10876,9 @@
 [submodule "gq/zb/ror"]
 	path = gq/zb/ror
 	url = .
+[submodule "gq/zg/sjf"]
+	path = gq/zg/sjf
+	url = .
 [submodule "gr/ad/kcd"]
 	path = gr/ad/kcd
 	url = .
