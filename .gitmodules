@@ -29881,6 +29881,9 @@
 [submodule "kz/mc/meq"]
 	path = kz/mc/meq
 	url = .
+[submodule "kz/nb/bnc"]
+	path = kz/nb/bnc
+	url = .
 [submodule "kz/nd/bxm"]
 	path = kz/nd/bxm
 	url = .
