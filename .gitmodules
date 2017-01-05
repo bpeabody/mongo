@@ -6631,6 +6631,9 @@
 [submodule "cw/lg/vvg"]
 	path = cw/lg/vvg
 	url = .
+[submodule "cw/lr/hhr"]
+	path = cw/lr/hhr
+	url = .
 [submodule "cw/lw/twe"]
 	path = cw/lw/twe
 	url = .
