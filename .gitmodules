@@ -82,6 +82,9 @@
 [submodule "ad/ib/wwy"]
 	path = ad/ib/wwy
 	url = .
+[submodule "ad/jt/lkv"]
+	path = ad/jt/lkv
+	url = .
 [submodule "ad/kq/vlu"]
 	path = ad/kq/vlu
 	url = .
