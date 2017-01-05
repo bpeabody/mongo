@@ -6601,6 +6601,9 @@
 [submodule "vl/xt/qbe"]
 	path = vl/xt/qbe
 	url = .
+[submodule "vm/el/ohy"]
+	path = vm/el/ohy
+	url = .
 [submodule "vm/xc/cpf"]
 	path = vm/xc/cpf
 	url = .
