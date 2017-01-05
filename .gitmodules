@@ -7651,6 +7651,9 @@
 [submodule "fp/ph/mcx"]
 	path = fp/ph/mcx
 	url = .
+[submodule "fp/qo/znk"]
+	path = fp/qo/znk
+	url = .
 [submodule "fp/qw/sab"]
 	path = fp/qw/sab
 	url = .
