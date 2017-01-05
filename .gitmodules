@@ -45256,6 +45256,9 @@
 [submodule "wx/xl/omy"]
 	path = wx/xl/omy
 	url = .
+[submodule "wx/yc/ouu"]
+	path = wx/yc/ouu
+	url = .
 [submodule "wx/yy/hab"]
 	path = wx/yy/hab
 	url = .
