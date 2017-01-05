@@ -9913,6 +9913,9 @@
 [submodule "gs/lx/rcj"]
 	path = gs/lx/rcj
 	url = .
+[submodule "gs/md/jwx"]
+	path = gs/md/jwx
+	url = .
 [submodule "gs/of/lyq"]
 	path = gs/of/lyq
 	url = .
