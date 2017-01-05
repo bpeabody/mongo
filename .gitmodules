@@ -31297,6 +31297,9 @@
 [submodule "xp/tk/fvy"]
 	path = xp/tk/fvy
 	url = .
+[submodule "xp/wi/dvi"]
+	path = xp/wi/dvi
+	url = .
 [submodule "xp/yh/frd"]
 	path = xp/yh/frd
 	url = .
