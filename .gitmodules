@@ -21364,6 +21364,9 @@
 [submodule "qm/fl/xks"]
 	path = qm/fl/xks
 	url = .
+[submodule "qm/hv/lqs"]
+	path = qm/hv/lqs
+	url = .
 [submodule "qm/jr/dkl"]
 	path = qm/jr/dkl
 	url = .
