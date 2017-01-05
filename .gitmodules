@@ -7528,6 +7528,9 @@
 [submodule "ed/hl/dbb"]
 	path = ed/hl/dbb
 	url = .
+[submodule "ed/hy/rdr"]
+	path = ed/hy/rdr
+	url = .
 [submodule "ed/it/duk"]
 	path = ed/it/duk
 	url = .
