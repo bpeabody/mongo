@@ -19189,6 +19189,9 @@
 [submodule "md/ec/taj"]
 	path = md/ec/taj
 	url = .
+[submodule "md/ho/gbk"]
+	path = md/ho/gbk
+	url = .
 [submodule "md/hr/guc"]
 	path = md/hr/guc
 	url = .
