@@ -5302,6 +5302,9 @@
 [submodule "rp/cr/xuo"]
 	path = rp/cr/xuo
 	url = .
+[submodule "rp/dd/xrj"]
+	path = rp/dd/xrj
+	url = .
 [submodule "rp/ro/lng"]
 	path = rp/ro/lng
 	url = .
