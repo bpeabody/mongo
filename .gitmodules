@@ -24382,6 +24382,9 @@
 [submodule "ux/pu/mcl"]
 	path = ux/pu/mcl
 	url = .
+[submodule "ux/ql/slp"]
+	path = ux/ql/slp
+	url = .
 [submodule "ux/qm/umq"]
 	path = ux/qm/umq
 	url = .
