@@ -5968,6 +5968,9 @@
 [submodule "ko/ya/rhn"]
 	path = ko/ya/rhn
 	url = .
+[submodule "ko/zg/qbr"]
+	path = ko/zg/qbr
+	url = .
 [submodule "ko/zg/xzs"]
 	path = ko/zg/xzs
 	url = .
