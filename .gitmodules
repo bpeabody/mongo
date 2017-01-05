@@ -13054,6 +13054,9 @@
 [submodule "rc/ef/cuy"]
 	path = rc/ef/cuy
 	url = .
+[submodule "rc/hf/kxo"]
+	path = rc/hf/kxo
+	url = .
 [submodule "rc/mn/cat"]
 	path = rc/mn/cat
 	url = .
