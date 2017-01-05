@@ -52807,6 +52807,9 @@
 [submodule "vq/rj/nod"]
 	path = vq/rj/nod
 	url = .
+[submodule "vq/rs/uvr"]
+	path = vq/rs/uvr
+	url = .
 [submodule "vq/so/kmv"]
 	path = vq/so/kmv
 	url = .
