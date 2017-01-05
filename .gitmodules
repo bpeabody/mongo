@@ -7042,6 +7042,9 @@
 [submodule "dv/dv/aeh"]
 	path = dv/dv/aeh
 	url = .
+[submodule "dv/et/nhf"]
+	path = dv/et/nhf
+	url = .
 [submodule "dv/fe/pgw"]
 	path = dv/fe/pgw
 	url = .
