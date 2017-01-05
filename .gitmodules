@@ -47548,6 +47548,9 @@
 [submodule "sy/sf/qoy"]
 	path = sy/sf/qoy
 	url = .
+[submodule "sy/sk/ckp"]
+	path = sy/sk/ckp
+	url = .
 [submodule "sy/sl/hdo"]
 	path = sy/sl/hdo
 	url = .
