@@ -16735,6 +16735,9 @@
 [submodule "jw/qf/wrp"]
 	path = jw/qf/wrp
 	url = .
+[submodule "jw/ql/tdy"]
+	path = jw/ql/tdy
+	url = .
 [submodule "jw/rb/jrj"]
 	path = jw/rb/jrj
 	url = .
