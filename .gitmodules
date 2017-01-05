@@ -19141,6 +19141,9 @@
 [submodule "ui/lp/oky"]
 	path = ui/lp/oky
 	url = .
+[submodule "ui/mn/ngw"]
+	path = ui/mn/ngw
+	url = .
 [submodule "ui/rn/peq"]
 	path = ui/rn/peq
 	url = .
