@@ -2767,6 +2767,9 @@
 [submodule "xd/sr/znc"]
 	path = xd/sr/znc
 	url = .
+[submodule "xd/wc/ein"]
+	path = xd/wc/ein
+	url = .
 [submodule "xd/xd/czf"]
 	path = xd/xd/czf
 	url = .
