@@ -13684,6 +13684,9 @@
 [submodule "pd/cl/xgk"]
 	path = pd/cl/xgk
 	url = .
+[submodule "pd/dc/nqb"]
+	path = pd/dc/nqb
+	url = .
 [submodule "pd/de/xwi"]
 	path = pd/de/xwi
 	url = .
