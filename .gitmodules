@@ -15625,6 +15625,9 @@
 [submodule "gi/dn/ocb"]
 	path = gi/dn/ocb
 	url = .
+[submodule "gi/dr/aen"]
+	path = gi/dr/aen
+	url = .
 [submodule "gi/dz/hma"]
 	path = gi/dz/hma
 	url = .
