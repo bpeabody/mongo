@@ -20260,6 +20260,9 @@
 [submodule "iu/ko/nrn"]
 	path = iu/ko/nrn
 	url = .
+[submodule "iu/ks/uru"]
+	path = iu/ks/uru
+	url = .
 [submodule "iu/kw/bwh"]
 	path = iu/kw/bwh
 	url = .
