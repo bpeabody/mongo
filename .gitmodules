@@ -11410,6 +11410,9 @@
 [submodule "ws/xt/rpc"]
 	path = ws/xt/rpc
 	url = .
+[submodule "ws/ye/ikk"]
+	path = ws/ye/ikk
+	url = .
 [submodule "wt/cg/ger"]
 	path = wt/cg/ger
 	url = .
