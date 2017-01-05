@@ -3526,6 +3526,9 @@
 [submodule "gg/ql/tap"]
 	path = gg/ql/tap
 	url = .
+[submodule "gg/tt/shl"]
+	path = gg/tt/shl
+	url = .
 [submodule "gg/uq/ftl"]
 	path = gg/uq/ftl
 	url = .
