@@ -54664,6 +54664,9 @@
 [submodule "wv/ki/rfq"]
 	path = wv/ki/rfq
 	url = .
+[submodule "wv/ki/ybb"]
+	path = wv/ki/ybb
+	url = .
 [submodule "wv/kt/xzz"]
 	path = wv/kt/xzz
 	url = .
