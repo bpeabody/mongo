@@ -20407,6 +20407,9 @@
 [submodule "po/ug/ybw"]
 	path = po/ug/ybw
 	url = .
+[submodule "po/vk/sry"]
+	path = po/vk/sry
+	url = .
 [submodule "po/xd/xft"]
 	path = po/xd/xft
 	url = .
