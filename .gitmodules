@@ -37852,6 +37852,9 @@
 [submodule "si/lg/hsb"]
 	path = si/lg/hsb
 	url = .
+[submodule "si/lq/rif"]
+	path = si/lq/rif
+	url = .
 [submodule "si/mk/lcx"]
 	path = si/mk/lcx
 	url = .
