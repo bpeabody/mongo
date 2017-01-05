@@ -36337,6 +36337,9 @@
 [submodule "vx/ch/gsc"]
 	path = vx/ch/gsc
 	url = .
+[submodule "vx/cv/oeq"]
+	path = vx/cv/oeq
+	url = .
 [submodule "vx/da/tkj"]
 	path = vx/da/tkj
 	url = .
