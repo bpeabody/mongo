@@ -24022,6 +24022,9 @@
 [submodule "jr/vx/app"]
 	path = jr/vx/app
 	url = .
+[submodule "jr/wj/wtx"]
+	path = jr/wj/wtx
+	url = .
 [submodule "jr/wp/tly"]
 	path = jr/wp/tly
 	url = .
