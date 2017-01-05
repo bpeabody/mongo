@@ -37792,6 +37792,9 @@
 [submodule "rj/jx/hud"]
 	path = rj/jx/hud
 	url = .
+[submodule "rj/ki/jro"]
+	path = rj/ki/jro
+	url = .
 [submodule "rj/km/cwr"]
 	path = rj/km/cwr
 	url = .
