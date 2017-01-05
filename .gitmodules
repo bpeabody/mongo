@@ -5005,6 +5005,9 @@
 [submodule "ux/yw/dnv"]
 	path = ux/yw/dnv
 	url = .
+[submodule "uy/bg/brd"]
+	path = uy/bg/brd
+	url = .
 [submodule "uy/ii/fff"]
 	path = uy/ii/fff
 	url = .
