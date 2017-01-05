@@ -25312,6 +25312,9 @@
 [submodule "mh/fx/vrg"]
 	path = mh/fx/vrg
 	url = .
+[submodule "mh/lb/tel"]
+	path = mh/lb/tel
+	url = .
 [submodule "mh/nh/noc"]
 	path = mh/nh/noc
 	url = .
