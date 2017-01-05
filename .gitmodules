@@ -19291,6 +19291,9 @@
 [submodule "ty/sd/bti"]
 	path = ty/sd/bti
 	url = .
+[submodule "ty/ut/kha"]
+	path = ty/ut/kha
+	url = .
 [submodule "ty/ve/jth"]
 	path = ty/ve/jth
 	url = .
