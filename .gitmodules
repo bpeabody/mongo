@@ -19519,6 +19519,9 @@
 [submodule "lw/oj/zgw"]
 	path = lw/oj/zgw
 	url = .
+[submodule "lw/pc/qgm"]
+	path = lw/pc/qgm
+	url = .
 [submodule "lw/po/gxq"]
 	path = lw/po/gxq
 	url = .
