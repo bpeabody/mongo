@@ -10,6 +10,9 @@
 [submodule "hr/nx/kca"]
 	path = hr/nx/kca
 	url = .
+[submodule "la/hm/zbs"]
+	path = la/hm/zbs
+	url = .
 [submodule "mo/ei/xti"]
 	path = mo/ei/xti
 	url = .
