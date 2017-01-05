@@ -31297,6 +31297,9 @@
 [submodule "pc/yc/ycq"]
 	path = pc/yc/ycq
 	url = .
+[submodule "pc/zg/uxm"]
+	path = pc/zg/uxm
+	url = .
 [submodule "pd/bv/wsl"]
 	path = pd/bv/wsl
 	url = .
