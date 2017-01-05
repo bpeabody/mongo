@@ -18511,6 +18511,9 @@
 [submodule "gq/pn/qaa"]
 	path = gq/pn/qaa
 	url = .
+[submodule "gq/qq/fsq"]
+	path = gq/qq/fsq
+	url = .
 [submodule "gq/qr/ebh"]
 	path = gq/qr/ebh
 	url = .
