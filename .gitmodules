@@ -19093,6 +19093,9 @@
 [submodule "ji/ak/hsl"]
 	path = ji/ak/hsl
 	url = .
+[submodule "ji/cv/wpk"]
+	path = ji/cv/wpk
+	url = .
 [submodule "ji/dq/naj"]
 	path = ji/dq/naj
 	url = .
