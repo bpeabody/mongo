@@ -5890,6 +5890,9 @@
 [submodule "go/mh/hap"]
 	path = go/mh/hap
 	url = .
+[submodule "go/nl/gqh"]
+	path = go/nl/gqh
+	url = .
 [submodule "go/xl/lqm"]
 	path = go/xl/lqm
 	url = .
