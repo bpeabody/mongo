@@ -361,6 +361,9 @@
 [submodule "bb/nw/pno"]
 	path = bb/nw/pno
 	url = .
+[submodule "bb/qj/qsw"]
+	path = bb/qj/qsw
+	url = .
 [submodule "bb/ug/yiq"]
 	path = bb/ug/yiq
 	url = .
