@@ -661,6 +661,9 @@
 [submodule "am/ra/cdb"]
 	path = am/ra/cdb
 	url = .
+[submodule "am/rr/vve"]
+	path = am/rr/vve
+	url = .
 [submodule "am/tk/bxu"]
 	path = am/tk/bxu
 	url = .
