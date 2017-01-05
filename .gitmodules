@@ -2614,6 +2614,9 @@
 [submodule "qg/tw/cdi"]
 	path = qg/tw/cdi
 	url = .
+[submodule "qh/bp/uhp"]
+	path = qh/bp/uhp
+	url = .
 [submodule "qh/qr/gzl"]
 	path = qh/qr/gzl
 	url = .
