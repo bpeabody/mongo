@@ -19918,6 +19918,9 @@
 [submodule "if/ue/nua"]
 	path = if/ue/nua
 	url = .
+[submodule "if/ug/hzv"]
+	path = if/ug/hzv
+	url = .
 [submodule "if/ui/fql"]
 	path = if/ui/fql
 	url = .
