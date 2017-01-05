@@ -44770,6 +44770,9 @@
 [submodule "ql/np/yhj"]
 	path = ql/np/yhj
 	url = .
+[submodule "ql/ob/ned"]
+	path = ql/ob/ned
+	url = .
 [submodule "ql/oq/jdm"]
 	path = ql/oq/jdm
 	url = .
