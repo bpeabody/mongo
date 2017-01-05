@@ -10159,6 +10159,9 @@
 [submodule "gp/qy/yql"]
 	path = gp/qy/yql
 	url = .
+[submodule "gp/sw/vth"]
+	path = gp/sw/vth
+	url = .
 [submodule "gp/uh/zsz"]
 	path = gp/uh/zsz
 	url = .
