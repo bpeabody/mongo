@@ -5188,6 +5188,9 @@
 [submodule "bv/rb/nus"]
 	path = bv/rb/nus
 	url = .
+[submodule "bv/sk/rnv"]
+	path = bv/sk/rnv
+	url = .
 [submodule "bv/ta/ehm"]
 	path = bv/ta/ehm
 	url = .
