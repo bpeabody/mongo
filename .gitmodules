@@ -8662,6 +8662,9 @@
 [submodule "ez/pt/rwn"]
 	path = ez/pt/rwn
 	url = .
+[submodule "ez/qa/hfm"]
+	path = ez/qa/hfm
+	url = .
 [submodule "ez/qh/nos"]
 	path = ez/qh/nos
 	url = .
