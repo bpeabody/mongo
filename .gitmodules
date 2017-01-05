@@ -8788,6 +8788,9 @@
 [submodule "tj/lt/dkl"]
 	path = tj/lt/dkl
 	url = .
+[submodule "tj/to/ajz"]
+	path = tj/to/ajz
+	url = .
 [submodule "tj/wg/svo"]
 	path = tj/wg/svo
 	url = .
