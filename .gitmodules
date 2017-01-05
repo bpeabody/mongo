@@ -20686,6 +20686,9 @@
 [submodule "hl/ir/bfs"]
 	path = hl/ir/bfs
 	url = .
+[submodule "hl/jb/tjf"]
+	path = hl/jb/tjf
+	url = .
 [submodule "hl/je/yuc"]
 	path = hl/je/yuc
 	url = .
