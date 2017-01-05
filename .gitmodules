@@ -10318,6 +10318,9 @@
 [submodule "eq/go/bwh"]
 	path = eq/go/bwh
 	url = .
+[submodule "eq/gq/nki"]
+	path = eq/gq/nki
+	url = .
 [submodule "eq/hi/afl"]
 	path = eq/hi/afl
 	url = .
