@@ -12562,6 +12562,9 @@
 [submodule "la/it/yax"]
 	path = la/it/yax
 	url = .
+[submodule "la/kb/ccg"]
+	path = la/kb/ccg
+	url = .
 [submodule "la/kd/nbw"]
 	path = la/kd/nbw
 	url = .
