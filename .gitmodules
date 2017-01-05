@@ -11389,6 +11389,9 @@
 [submodule "xi/ro/myu"]
 	path = xi/ro/myu
 	url = .
+[submodule "xi/rv/hnq"]
+	path = xi/rv/hnq
+	url = .
 [submodule "xi/wg/gmg"]
 	path = xi/wg/gmg
 	url = .
