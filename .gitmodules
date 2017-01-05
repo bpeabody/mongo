@@ -52708,6 +52708,9 @@
 [submodule "zv/lq/lvw"]
 	path = zv/lq/lvw
 	url = .
+[submodule "zv/ls/ate"]
+	path = zv/ls/ate
+	url = .
 [submodule "zv/mk/pcv"]
 	path = zv/mk/pcv
 	url = .
