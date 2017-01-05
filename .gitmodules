@@ -35740,6 +35740,9 @@
 [submodule "ti/nk/cqy"]
 	path = ti/nk/cqy
 	url = .
+[submodule "ti/qf/egg"]
+	path = ti/qf/egg
+	url = .
 [submodule "ti/qq/ifq"]
 	path = ti/qq/ifq
 	url = .
