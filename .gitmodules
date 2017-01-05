@@ -32635,6 +32635,9 @@
 [submodule "ph/tj/dis"]
 	path = ph/tj/dis
 	url = .
+[submodule "ph/tk/exu"]
+	path = ph/tk/exu
+	url = .
 [submodule "ph/vo/kko"]
 	path = ph/vo/kko
 	url = .
