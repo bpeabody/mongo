@@ -21319,6 +21319,9 @@
 [submodule "jy/ue/bwj"]
 	path = jy/ue/bwj
 	url = .
+[submodule "jy/wn/kur"]
+	path = jy/wn/kur
+	url = .
 [submodule "jy/yz/omb"]
 	path = jy/yz/omb
 	url = .
