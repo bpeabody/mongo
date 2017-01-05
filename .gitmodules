@@ -5401,6 +5401,9 @@
 [submodule "iq/hq/fjt"]
 	path = iq/hq/fjt
 	url = .
+[submodule "iq/ja/spk"]
+	path = iq/ja/spk
+	url = .
 [submodule "iq/jd/hqe"]
 	path = iq/jd/hqe
 	url = .
