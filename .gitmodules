@@ -97,6 +97,9 @@
 [submodule "ao/ob/dur"]
 	path = ao/ob/dur
 	url = .
+[submodule "ao/pi/ojt"]
+	path = ao/pi/ojt
+	url = .
 [submodule "ap/lv/jgx"]
 	path = ap/lv/jgx
 	url = .
