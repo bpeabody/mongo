@@ -24064,6 +24064,9 @@
 [submodule "kr/ll/lbp"]
 	path = kr/ll/lbp
 	url = .
+[submodule "kr/lo/tsy"]
+	path = kr/lo/tsy
+	url = .
 [submodule "kr/ma/unq"]
 	path = kr/ma/unq
 	url = .
