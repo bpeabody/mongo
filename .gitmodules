@@ -15127,6 +15127,9 @@
 [submodule "iv/mf/wma"]
 	path = iv/mf/wma
 	url = .
+[submodule "iv/nd/wrf"]
+	path = iv/nd/wrf
+	url = .
 [submodule "iv/qt/zmz"]
 	path = iv/qt/zmz
 	url = .
