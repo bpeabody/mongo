@@ -1513,6 +1513,9 @@
 [submodule "ap/mb/kan"]
 	path = ap/mb/kan
 	url = .
+[submodule "ap/mj/jpu"]
+	path = ap/mj/jpu
+	url = .
 [submodule "ap/nw/bmt"]
 	path = ap/nw/bmt
 	url = .
