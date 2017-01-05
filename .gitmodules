@@ -1945,6 +1945,9 @@
 [submodule "cr/hd/djl"]
 	path = cr/hd/djl
 	url = .
+[submodule "cr/ld/rzp"]
+	path = cr/ld/rzp
+	url = .
 [submodule "cr/me/kja"]
 	path = cr/me/kja
 	url = .
