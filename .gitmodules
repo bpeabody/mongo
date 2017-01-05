@@ -20641,6 +20641,9 @@
 [submodule "hr/kl/mff"]
 	path = hr/kl/mff
 	url = .
+[submodule "hr/kx/wau"]
+	path = hr/kx/wau
+	url = .
 [submodule "hr/lr/fpc"]
 	path = hr/lr/fpc
 	url = .
