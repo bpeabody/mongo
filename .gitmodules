@@ -17533,6 +17533,9 @@
 [submodule "iz/kj/yeo"]
 	path = iz/kj/yeo
 	url = .
+[submodule "iz/kv/cob"]
+	path = iz/kv/cob
+	url = .
 [submodule "iz/lc/xcd"]
 	path = iz/lc/xcd
 	url = .
