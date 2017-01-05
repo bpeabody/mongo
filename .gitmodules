@@ -3592,6 +3592,9 @@
 [submodule "dh/kp/tlh"]
 	path = dh/kp/tlh
 	url = .
+[submodule "dh/ky/kxq"]
+	path = dh/ky/kxq
+	url = .
 [submodule "dh/la/xbb"]
 	path = dh/la/xbb
 	url = .
