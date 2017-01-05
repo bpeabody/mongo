@@ -40543,6 +40543,9 @@
 [submodule "nw/ah/ivo"]
 	path = nw/ah/ivo
 	url = .
+[submodule "nw/bg/pua"]
+	path = nw/bg/pua
+	url = .
 [submodule "nw/dc/wva"]
 	path = nw/dc/wva
 	url = .
