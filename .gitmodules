@@ -8227,6 +8227,9 @@
 [submodule "hw/fs/pxc"]
 	path = hw/fs/pxc
 	url = .
+[submodule "hw/fs/qfy"]
+	path = hw/fs/qfy
+	url = .
 [submodule "hw/hf/hca"]
 	path = hw/hf/hca
 	url = .
