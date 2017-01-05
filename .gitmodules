@@ -2863,6 +2863,9 @@
 [submodule "dc/oo/ict"]
 	path = dc/oo/ict
 	url = .
+[submodule "dc/qm/nzy"]
+	path = dc/qm/nzy
+	url = .
 [submodule "dc/qz/vyk"]
 	path = dc/qz/vyk
 	url = .
