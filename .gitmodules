@@ -28213,6 +28213,9 @@
 [submodule "kr/td/swu"]
 	path = kr/td/swu
 	url = .
+[submodule "kr/td/vaf"]
+	path = kr/td/vaf
+	url = .
 [submodule "kr/ti/amb"]
 	path = kr/ti/amb
 	url = .
