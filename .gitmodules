@@ -7891,6 +7891,9 @@
 [submodule "ib/nb/jrb"]
 	path = ib/nb/jrb
 	url = .
+[submodule "ib/pj/lgi"]
+	path = ib/pj/lgi
+	url = .
 [submodule "ib/rv/exe"]
 	path = ib/rv/exe
 	url = .
