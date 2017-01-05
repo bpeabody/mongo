@@ -15460,6 +15460,9 @@
 [submodule "fj/xa/cas"]
 	path = fj/xa/cas
 	url = .
+[submodule "fj/xa/dej"]
+	path = fj/xa/dej
+	url = .
 [submodule "fj/xn/goi"]
 	path = fj/xn/goi
 	url = .
