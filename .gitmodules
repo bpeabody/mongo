@@ -49594,6 +49594,9 @@
 [submodule "vq/hw/xzz"]
 	path = vq/hw/xzz
 	url = .
+[submodule "vq/jp/hxp"]
+	path = vq/jp/hxp
+	url = .
 [submodule "vq/kf/aap"]
 	path = vq/kf/aap
 	url = .
