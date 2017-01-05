@@ -538,6 +538,9 @@
 [submodule "ae/uh/cvk"]
 	path = ae/uh/cvk
 	url = .
+[submodule "ae/vy/vgh"]
+	path = ae/vy/vgh
+	url = .
 [submodule "ae/wf/jwu"]
 	path = ae/wf/jwu
 	url = .
