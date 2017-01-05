@@ -2389,6 +2389,9 @@
 [submodule "rc/rv/exs"]
 	path = rc/rv/exs
 	url = .
+[submodule "rd/ng/ipx"]
+	path = rd/ng/ipx
+	url = .
 [submodule "rd/nj/tzt"]
 	path = rd/nj/tzt
 	url = .
