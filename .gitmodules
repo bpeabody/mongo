@@ -41929,6 +41929,9 @@
 [submodule "wx/fr/rsf"]
 	path = wx/fr/rsf
 	url = .
+[submodule "wx/he/qog"]
+	path = wx/he/qog
+	url = .
 [submodule "wx/ic/cuv"]
 	path = wx/ic/cuv
 	url = .
