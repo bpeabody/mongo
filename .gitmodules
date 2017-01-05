@@ -58621,6 +58621,9 @@
 [submodule "tv/sp/nxr"]
 	path = tv/sp/nxr
 	url = .
+[submodule "tv/sq/cxl"]
+	path = tv/sq/cxl
+	url = .
 [submodule "tv/uv/dmz"]
 	path = tv/uv/dmz
 	url = .
