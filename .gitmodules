@@ -1450,6 +1450,9 @@
 [submodule "az/mz/sgo"]
 	path = az/mz/sgo
 	url = .
+[submodule "az/oe/djo"]
+	path = az/oe/djo
+	url = .
 [submodule "az/qq/ose"]
 	path = az/qq/ose
 	url = .
