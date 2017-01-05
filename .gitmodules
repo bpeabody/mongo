@@ -4561,6 +4561,9 @@
 [submodule "hu/es/qqo"]
 	path = hu/es/qqo
 	url = .
+[submodule "hu/ks/jma"]
+	path = hu/ks/jma
+	url = .
 [submodule "hu/nr/xtl"]
 	path = hu/nr/xtl
 	url = .
