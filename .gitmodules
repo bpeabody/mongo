@@ -6172,6 +6172,9 @@
 [submodule "ma/mt/zok"]
 	path = ma/mt/zok
 	url = .
+[submodule "ma/um/khl"]
+	path = ma/um/khl
+	url = .
 [submodule "ma/wt/gen"]
 	path = ma/wt/gen
 	url = .
