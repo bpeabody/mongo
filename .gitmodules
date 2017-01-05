@@ -196,6 +196,9 @@
 [submodule "jz/vf/ksx"]
 	path = jz/vf/ksx
 	url = .
+[submodule "kg/og/owe"]
+	path = kg/og/owe
+	url = .
 [submodule "ko/xh/ucl"]
 	path = ko/xh/ucl
 	url = .
