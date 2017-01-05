@@ -12058,6 +12058,9 @@
 [submodule "ih/zx/vbl"]
 	path = ih/zx/vbl
 	url = .
+[submodule "ii/bl/tdy"]
+	path = ii/bl/tdy
+	url = .
 [submodule "ii/bu/ppj"]
 	path = ii/bu/ppj
 	url = .
