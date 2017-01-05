@@ -7681,6 +7681,9 @@
 [submodule "tq/tv/vlj"]
 	path = tq/tv/vlj
 	url = .
+[submodule "tq/ug/fty"]
+	path = tq/ug/fty
+	url = .
 [submodule "tr/cs/nev"]
 	path = tr/cs/nev
 	url = .
