@@ -8077,6 +8077,9 @@
 [submodule "lo/lw/hah"]
 	path = lo/lw/hah
 	url = .
+[submodule "lp/bs/vxt"]
+	path = lp/bs/vxt
+	url = .
 [submodule "lp/df/bjt"]
 	path = lp/df/bjt
 	url = .
