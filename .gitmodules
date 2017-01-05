@@ -5995,6 +5995,9 @@
 [submodule "mm/jw/yde"]
 	path = mm/jw/yde
 	url = .
+[submodule "mm/tr/xgh"]
+	path = mm/tr/xgh
+	url = .
 [submodule "mm/xx/mka"]
 	path = mm/xx/mka
 	url = .
