@@ -847,6 +847,9 @@
 [submodule "ba/ub/jxy"]
 	path = ba/ub/jxy
 	url = .
+[submodule "ba/un/kdl"]
+	path = ba/un/kdl
+	url = .
 [submodule "ba/va/cmx"]
 	path = ba/va/cmx
 	url = .
