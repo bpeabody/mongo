@@ -13918,6 +13918,9 @@
 [submodule "jm/ad/lch"]
 	path = jm/ad/lch
 	url = .
+[submodule "jm/ba/wuu"]
+	path = jm/ba/wuu
+	url = .
 [submodule "jm/dc/dbz"]
 	path = jm/dc/dbz
 	url = .
