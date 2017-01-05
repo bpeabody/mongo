@@ -8320,6 +8320,9 @@
 [submodule "jn/qv/day"]
 	path = jn/qv/day
 	url = .
+[submodule "jn/vb/gmr"]
+	path = jn/vb/gmr
+	url = .
 [submodule "jn/yw/css"]
 	path = jn/yw/css
 	url = .
