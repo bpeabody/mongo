@@ -40516,6 +40516,9 @@
 [submodule "sv/jg/snb"]
 	path = sv/jg/snb
 	url = .
+[submodule "sv/jt/niw"]
+	path = sv/jt/niw
+	url = .
 [submodule "sv/kd/reh"]
 	path = sv/kd/reh
 	url = .
