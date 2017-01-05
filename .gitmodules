@@ -1912,6 +1912,9 @@
 [submodule "gb/pr/wxx"]
 	path = gb/pr/wxx
 	url = .
+[submodule "gb/ur/esj"]
+	path = gb/ur/esj
+	url = .
 [submodule "gb/vy/waw"]
 	path = gb/vy/waw
 	url = .
