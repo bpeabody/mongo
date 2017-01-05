@@ -38245,6 +38245,9 @@
 [submodule "sm/hu/ujz"]
 	path = sm/hu/ujz
 	url = .
+[submodule "sm/js/dqs"]
+	path = sm/js/dqs
+	url = .
 [submodule "sm/jt/jvh"]
 	path = sm/jt/jvh
 	url = .
