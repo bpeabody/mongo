@@ -21421,6 +21421,9 @@
 [submodule "ql/iw/oir"]
 	path = ql/iw/oir
 	url = .
+[submodule "ql/oq/jdm"]
+	path = ql/oq/jdm
+	url = .
 [submodule "ql/pd/idi"]
 	path = ql/pd/idi
 	url = .
