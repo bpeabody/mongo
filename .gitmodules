@@ -43651,6 +43651,9 @@
 [submodule "qm/ut/lmq"]
 	path = qm/ut/lmq
 	url = .
+[submodule "qm/wl/dbf"]
+	path = qm/wl/dbf
+	url = .
 [submodule "qm/wo/pkf"]
 	path = qm/wo/pkf
 	url = .
