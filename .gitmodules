@@ -976,6 +976,9 @@
 [submodule "aq/bx/ywu"]
 	path = aq/bx/ywu
 	url = .
+[submodule "aq/dc/mfc"]
+	path = aq/dc/mfc
+	url = .
 [submodule "aq/fg/lrb"]
 	path = aq/fg/lrb
 	url = .
