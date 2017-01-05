@@ -17644,6 +17644,9 @@
 [submodule "hs/nq/veh"]
 	path = hs/nq/veh
 	url = .
+[submodule "hs/nw/gjq"]
+	path = hs/nw/gjq
+	url = .
 [submodule "hs/op/guo"]
 	path = hs/op/guo
 	url = .
