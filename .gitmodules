@@ -2539,6 +2539,9 @@
 [submodule "gr/nx/xhu"]
 	path = gr/nx/xhu
 	url = .
+[submodule "gs/ir/ore"]
+	path = gs/ir/ore
+	url = .
 [submodule "gs/kb/skp"]
 	path = gs/kb/skp
 	url = .
