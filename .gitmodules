@@ -1009,6 +1009,9 @@
 [submodule "bm/ln/yjb"]
 	path = bm/ln/yjb
 	url = .
+[submodule "bm/md/xvd"]
+	path = bm/md/xvd
+	url = .
 [submodule "bm/vd/mxy"]
 	path = bm/vd/mxy
 	url = .
