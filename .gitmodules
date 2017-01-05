@@ -5485,6 +5485,9 @@
 [submodule "wl/uo/wld"]
 	path = wl/uo/wld
 	url = .
+[submodule "wl/xr/opx"]
+	path = wl/xr/opx
+	url = .
 [submodule "wm/xu/zug"]
 	path = wm/xu/zug
 	url = .
