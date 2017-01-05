@@ -8851,6 +8851,9 @@
 [submodule "jf/mb/edz"]
 	path = jf/mb/edz
 	url = .
+[submodule "jf/ow/qyf"]
+	path = jf/ow/qyf
+	url = .
 [submodule "jf/so/ujm"]
 	path = jf/so/ujm
 	url = .
