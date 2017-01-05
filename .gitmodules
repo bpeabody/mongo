@@ -427,6 +427,9 @@
 [submodule "ak/dt/xfc"]
 	path = ak/dt/xfc
 	url = .
+[submodule "ak/ee/vxa"]
+	path = ak/ee/vxa
+	url = .
 [submodule "ak/jf/oer"]
 	path = ak/jf/oer
 	url = .
