@@ -8161,6 +8161,9 @@
 [submodule "tn/ku/lqh"]
 	path = tn/ku/lqh
 	url = .
+[submodule "tn/uk/ijp"]
+	path = tn/uk/ijp
+	url = .
 [submodule "tn/wk/cny"]
 	path = tn/wk/cny
 	url = .
