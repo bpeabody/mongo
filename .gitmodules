@@ -16222,6 +16222,9 @@
 [submodule "pp/cc/fuq"]
 	path = pp/cc/fuq
 	url = .
+[submodule "pp/es/pat"]
+	path = pp/es/pat
+	url = .
 [submodule "pp/fd/vtw"]
 	path = pp/fd/vtw
 	url = .
