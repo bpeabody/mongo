@@ -3346,6 +3346,9 @@
 [submodule "ex/oy/egv"]
 	path = ex/oy/egv
 	url = .
+[submodule "ex/sk/vid"]
+	path = ex/sk/vid
+	url = .
 [submodule "ex/zf/qnj"]
 	path = ex/zf/qnj
 	url = .
