@@ -1285,6 +1285,9 @@
 [submodule "he/vt/ukx"]
 	path = he/vt/ukx
 	url = .
+[submodule "he/ya/jnj"]
+	path = he/ya/jnj
+	url = .
 [submodule "he/zg/bmb"]
 	path = he/zg/bmb
 	url = .
