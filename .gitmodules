@@ -22084,6 +22084,9 @@
 [submodule "ys/tf/ldi"]
 	path = ys/tf/ldi
 	url = .
+[submodule "ys/zz/jir"]
+	path = ys/zz/jir
+	url = .
 [submodule "yt/cb/rof"]
 	path = yt/cb/rof
 	url = .
