@@ -49225,6 +49225,9 @@
 [submodule "ql/sz/ust"]
 	path = ql/sz/ust
 	url = .
+[submodule "ql/tk/zpo"]
+	path = ql/tk/zpo
+	url = .
 [submodule "ql/tq/jeo"]
 	path = ql/tq/jeo
 	url = .
