@@ -30619,6 +30619,9 @@
 [submodule "sa/dp/bhi"]
 	path = sa/dp/bhi
 	url = .
+[submodule "sa/ed/goq"]
+	path = sa/ed/goq
+	url = .
 [submodule "sa/ex/grk"]
 	path = sa/ex/grk
 	url = .
