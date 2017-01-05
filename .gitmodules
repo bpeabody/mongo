@@ -39418,6 +39418,9 @@
 [submodule "wi/vq/gha"]
 	path = wi/vq/gha
 	url = .
+[submodule "wi/vv/fkc"]
+	path = wi/vv/fkc
+	url = .
 [submodule "wi/wc/obf"]
 	path = wi/wc/obf
 	url = .
