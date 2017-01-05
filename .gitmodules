@@ -13933,6 +13933,9 @@
 [submodule "tw/wg/qei"]
 	path = tw/wg/qei
 	url = .
+[submodule "tx/mh/auj"]
+	path = tx/mh/auj
+	url = .
 [submodule "tx/sy/knt"]
 	path = tx/sy/knt
 	url = .
