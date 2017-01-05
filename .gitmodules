@@ -3349,6 +3349,9 @@
 [submodule "nm/fz/iya"]
 	path = nm/fz/iya
 	url = .
+[submodule "nm/id/jcd"]
+	path = nm/id/jcd
+	url = .
 [submodule "nm/oo/kpv"]
 	path = nm/oo/kpv
 	url = .
