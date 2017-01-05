@@ -16939,6 +16939,9 @@
 [submodule "nv/gi/knn"]
 	path = nv/gi/knn
 	url = .
+[submodule "nv/ia/oef"]
+	path = nv/ia/oef
+	url = .
 [submodule "nv/ic/qwa"]
 	path = nv/ic/qwa
 	url = .
