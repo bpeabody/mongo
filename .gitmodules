@@ -949,6 +949,9 @@
 [submodule "ff/qz/mcj"]
 	path = ff/qz/mcj
 	url = .
+[submodule "ff/rt/vnp"]
+	path = ff/rt/vnp
+	url = .
 [submodule "fg/xh/jto"]
 	path = fg/xh/jto
 	url = .
