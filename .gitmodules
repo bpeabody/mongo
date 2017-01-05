@@ -8437,6 +8437,9 @@
 [submodule "qt/ke/nde"]
 	path = qt/ke/nde
 	url = .
+[submodule "qt/ob/den"]
+	path = qt/ob/den
+	url = .
 [submodule "qt/sh/zuf"]
 	path = qt/sh/zuf
 	url = .
