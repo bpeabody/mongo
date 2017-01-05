@@ -3124,6 +3124,9 @@
 [submodule "vd/eu/zuo"]
 	path = vd/eu/zuo
 	url = .
+[submodule "vd/jp/duc"]
+	path = vd/jp/duc
+	url = .
 [submodule "ve/dn/lgy"]
 	path = ve/dn/lgy
 	url = .
