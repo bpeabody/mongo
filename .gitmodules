@@ -25291,6 +25291,9 @@
 [submodule "qh/ea/vko"]
 	path = qh/ea/vko
 	url = .
+[submodule "qh/ei/fai"]
+	path = qh/ei/fai
+	url = .
 [submodule "qh/gg/qij"]
 	path = qh/gg/qij
 	url = .
