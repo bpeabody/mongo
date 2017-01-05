@@ -10366,6 +10366,9 @@
 [submodule "fc/ew/uvk"]
 	path = fc/ew/uvk
 	url = .
+[submodule "fc/fa/brb"]
+	path = fc/fa/brb
+	url = .
 [submodule "fc/fh/ihw"]
 	path = fc/fh/ihw
 	url = .
