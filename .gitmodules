@@ -676,6 +676,9 @@
 [submodule "zh/ww/rno"]
 	path = zh/ww/rno
 	url = .
+[submodule "zh/yd/aqo"]
+	path = zh/yd/aqo
+	url = .
 [submodule "zo/ig/pio"]
 	path = zo/ig/pio
 	url = .
