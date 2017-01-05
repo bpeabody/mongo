@@ -3856,6 +3856,9 @@
 [submodule "lb/vf/lpd"]
 	path = lb/vf/lpd
 	url = .
+[submodule "lc/du/ixp"]
+	path = lc/du/ixp
+	url = .
 [submodule "lc/gy/nau"]
 	path = lc/gy/nau
 	url = .
