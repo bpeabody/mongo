@@ -12952,6 +12952,9 @@
 [submodule "gj/lf/onp"]
 	path = gj/lf/onp
 	url = .
+[submodule "gj/lp/tgs"]
+	path = gj/lp/tgs
+	url = .
 [submodule "gj/lz/ykd"]
 	path = gj/lz/ykd
 	url = .
