@@ -4888,6 +4888,9 @@
 [submodule "ca/vj/pvg"]
 	path = ca/vj/pvg
 	url = .
+[submodule "ca/vo/mzk"]
+	path = ca/vo/mzk
+	url = .
 [submodule "ca/we/xta"]
 	path = ca/we/xta
 	url = .
