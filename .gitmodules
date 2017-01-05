@@ -27931,6 +27931,9 @@
 [submodule "ng/ve/vyx"]
 	path = ng/ve/vyx
 	url = .
+[submodule "ng/ve/yet"]
+	path = ng/ve/yet
+	url = .
 [submodule "ng/wz/pzc"]
 	path = ng/wz/pzc
 	url = .
