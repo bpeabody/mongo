@@ -38947,6 +38947,9 @@
 [submodule "px/ls/oot"]
 	path = px/ls/oot
 	url = .
+[submodule "px/lx/xzs"]
+	path = px/lx/xzs
+	url = .
 [submodule "px/mg/wee"]
 	path = px/mg/wee
 	url = .
