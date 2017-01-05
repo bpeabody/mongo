@@ -2413,6 +2413,9 @@
 [submodule "ay/ii/lzx"]
 	path = ay/ii/lzx
 	url = .
+[submodule "ay/ip/bgc"]
+	path = ay/ip/bgc
+	url = .
 [submodule "ay/ji/ejk"]
 	path = ay/ji/ejk
 	url = .
