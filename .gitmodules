@@ -2122,6 +2122,9 @@
 [submodule "cm/tp/amq"]
 	path = cm/tp/amq
 	url = .
+[submodule "cm/ux/ikr"]
+	path = cm/ux/ikr
+	url = .
 [submodule "cm/uz/xaq"]
 	path = cm/uz/xaq
 	url = .
