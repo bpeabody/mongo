@@ -11434,6 +11434,9 @@
 [submodule "fu/ig/zgr"]
 	path = fu/ig/zgr
 	url = .
+[submodule "fu/jq/pna"]
+	path = fu/jq/pna
+	url = .
 [submodule "fu/js/kji"]
 	path = fu/js/kji
 	url = .
