@@ -1729,6 +1729,9 @@
 [submodule "jf/wu/dxy"]
 	path = jf/wu/dxy
 	url = .
+[submodule "jf/xi/nas"]
+	path = jf/xi/nas
+	url = .
 [submodule "jg/uy/mjn"]
 	path = jg/uy/mjn
 	url = .
