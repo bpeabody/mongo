@@ -15325,6 +15325,9 @@
 [submodule "gu/kr/urx"]
 	path = gu/kr/urx
 	url = .
+[submodule "gu/mg/jcy"]
+	path = gu/mg/jcy
+	url = .
 [submodule "gu/po/fuu"]
 	path = gu/po/fuu
 	url = .
