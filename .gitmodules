@@ -3022,6 +3022,9 @@
 [submodule "he/sp/goo"]
 	path = he/sp/goo
 	url = .
+[submodule "he/ui/dnr"]
+	path = he/ui/dnr
+	url = .
 [submodule "he/uv/zuq"]
 	path = he/uv/zuq
 	url = .
