@@ -38674,6 +38674,9 @@
 [submodule "pg/pz/nij"]
 	path = pg/pz/nij
 	url = .
+[submodule "pg/qq/yjd"]
+	path = pg/qq/yjd
+	url = .
 [submodule "pg/ra/eme"]
 	path = pg/ra/eme
 	url = .
