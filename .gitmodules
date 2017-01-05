@@ -1765,6 +1765,9 @@
 [submodule "gz/rb/tsb"]
 	path = gz/rb/tsb
 	url = .
+[submodule "gz/wv/szw"]
+	path = gz/wv/szw
+	url = .
 [submodule "ha/bo/vyo"]
 	path = ha/bo/vyo
 	url = .
