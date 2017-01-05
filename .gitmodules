@@ -56062,6 +56062,9 @@
 [submodule "we/mv/cqp"]
 	path = we/mv/cqp
 	url = .
+[submodule "we/no/jvy"]
+	path = we/no/jvy
+	url = .
 [submodule "we/nw/jgn"]
 	path = we/nw/jgn
 	url = .
