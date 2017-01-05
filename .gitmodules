@@ -967,6 +967,9 @@
 [submodule "as/ta/ejo"]
 	path = as/ta/ejo
 	url = .
+[submodule "as/ts/ygx"]
+	path = as/ts/ygx
+	url = .
 [submodule "as/vf/uja"]
 	path = as/vf/uja
 	url = .
