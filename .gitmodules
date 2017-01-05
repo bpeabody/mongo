@@ -3043,6 +3043,9 @@
 [submodule "rn/ws/ngs"]
 	path = rn/ws/ngs
 	url = .
+[submodule "ro/jn/ivl"]
+	path = ro/jn/ivl
+	url = .
 [submodule "rp/ro/lng"]
 	path = rp/ro/lng
 	url = .
