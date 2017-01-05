@@ -43198,6 +43198,9 @@
 [submodule "tx/pr/wtm"]
 	path = tx/pr/wtm
 	url = .
+[submodule "tx/qk/rvr"]
+	path = tx/qk/rvr
+	url = .
 [submodule "tx/sy/knt"]
 	path = tx/sy/knt
 	url = .
