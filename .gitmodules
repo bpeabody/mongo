@@ -10000,6 +10000,9 @@
 [submodule "yu/lk/svk"]
 	path = yu/lk/svk
 	url = .
+[submodule "yu/qn/gnj"]
+	path = yu/qn/gnj
+	url = .
 [submodule "yu/yf/xas"]
 	path = yu/yf/xas
 	url = .
