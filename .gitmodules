@@ -21718,6 +21718,9 @@
 [submodule "ng/yk/tpf"]
 	path = ng/yk/tpf
 	url = .
+[submodule "ng/yu/rrs"]
+	path = ng/yu/rrs
+	url = .
 [submodule "nh/bb/foy"]
 	path = nh/bb/foy
 	url = .
