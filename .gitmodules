@@ -8170,6 +8170,9 @@
 [submodule "cu/zl/qan"]
 	path = cu/zl/qan
 	url = .
+[submodule "cu/zr/hhj"]
+	path = cu/zr/hhj
+	url = .
 [submodule "cv/ax/cxi"]
 	path = cv/ax/cxi
 	url = .
