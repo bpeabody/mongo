@@ -52477,6 +52477,9 @@
 [submodule "ws/vy/xmp"]
 	path = ws/vy/xmp
 	url = .
+[submodule "ws/wv/hqz"]
+	path = ws/wv/hqz
+	url = .
 [submodule "ws/xt/rpc"]
 	path = ws/xt/rpc
 	url = .
