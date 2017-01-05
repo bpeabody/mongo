@@ -22972,6 +22972,9 @@
 [submodule "oy/mx/wmm"]
 	path = oy/mx/wmm
 	url = .
+[submodule "oy/oy/lld"]
+	path = oy/oy/lld
+	url = .
 [submodule "oy/ru/zjq"]
 	path = oy/ru/zjq
 	url = .
