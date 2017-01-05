@@ -17728,6 +17728,9 @@
 [submodule "nr/ac/mop"]
 	path = nr/ac/mop
 	url = .
+[submodule "nr/az/fri"]
+	path = nr/az/fri
+	url = .
 [submodule "nr/iw/sjg"]
 	path = nr/iw/sjg
 	url = .
