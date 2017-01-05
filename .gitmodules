@@ -610,6 +610,9 @@
 [submodule "cz/fr/tlp"]
 	path = cz/fr/tlp
 	url = .
+[submodule "cz/xb/sai"]
+	path = cz/xb/sai
+	url = .
 [submodule "da/fs/wna"]
 	path = da/fs/wna
 	url = .
