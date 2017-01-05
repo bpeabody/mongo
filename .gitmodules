@@ -18802,6 +18802,9 @@
 [submodule "qn/zk/lni"]
 	path = qn/zk/lni
 	url = .
+[submodule "qo/aw/qsg"]
+	path = qo/aw/qsg
+	url = .
 [submodule "qo/bv/gva"]
 	path = qo/bv/gva
 	url = .
