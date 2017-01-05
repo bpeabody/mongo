@@ -11269,6 +11269,9 @@
 [submodule "ji/ee/mac"]
 	path = ji/ee/mac
 	url = .
+[submodule "ji/hf/kqy"]
+	path = ji/hf/kqy
+	url = .
 [submodule "ji/hn/sxs"]
 	path = ji/hn/sxs
 	url = .
