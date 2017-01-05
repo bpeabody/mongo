@@ -6001,6 +6001,9 @@
 [submodule "rv/me/ajd"]
 	path = rv/me/ajd
 	url = .
+[submodule "rv/mn/ypj"]
+	path = rv/mn/ypj
+	url = .
 [submodule "rv/oe/eix"]
 	path = rv/oe/eix
 	url = .
