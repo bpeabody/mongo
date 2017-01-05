@@ -5062,6 +5062,9 @@
 [submodule "kr/ti/amb"]
 	path = kr/ti/amb
 	url = .
+[submodule "kr/ua/ggc"]
+	path = kr/ua/ggc
+	url = .
 [submodule "kr/um/div"]
 	path = kr/um/div
 	url = .
