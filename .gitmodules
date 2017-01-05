@@ -3514,6 +3514,9 @@
 [submodule "ex/sk/vid"]
 	path = ex/sk/vid
 	url = .
+[submodule "ex/ue/tqm"]
+	path = ex/ue/tqm
+	url = .
 [submodule "ex/zf/qnj"]
 	path = ex/zf/qnj
 	url = .
