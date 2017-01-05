@@ -33154,6 +33154,9 @@
 [submodule "wu/vv/dkb"]
 	path = wu/vv/dkb
 	url = .
+[submodule "wu/wk/dvg"]
+	path = wu/wk/dvg
+	url = .
 [submodule "wu/xm/nrw"]
 	path = wu/xm/nrw
 	url = .
