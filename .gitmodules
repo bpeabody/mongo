@@ -15331,6 +15331,9 @@
 [submodule "no/eu/ycb"]
 	path = no/eu/ycb
 	url = .
+[submodule "no/hj/mmx"]
+	path = no/hj/mmx
+	url = .
 [submodule "no/ie/dvh"]
 	path = no/ie/dvh
 	url = .
