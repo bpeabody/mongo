@@ -27814,6 +27814,9 @@
 [submodule "kd/mq/wbd"]
 	path = kd/mq/wbd
 	url = .
+[submodule "kd/nb/owc"]
+	path = kd/nb/owc
+	url = .
 [submodule "kd/np/luj"]
 	path = kd/np/luj
 	url = .
