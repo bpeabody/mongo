@@ -3631,6 +3631,9 @@
 [submodule "lz/pq/asy"]
 	path = lz/pq/asy
 	url = .
+[submodule "ma/ba/dhq"]
+	path = ma/ba/dhq
+	url = .
 [submodule "ma/wt/gen"]
 	path = ma/wt/gen
 	url = .
