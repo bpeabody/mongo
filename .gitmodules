@@ -7831,6 +7831,9 @@
 [submodule "dg/jw/blu"]
 	path = dg/jw/blu
 	url = .
+[submodule "dg/ma/mlc"]
+	path = dg/ma/mlc
+	url = .
 [submodule "dg/nj/elh"]
 	path = dg/nj/elh
 	url = .
