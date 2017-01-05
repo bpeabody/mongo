@@ -211,6 +211,9 @@
 [submodule "am/nn/fdb"]
 	path = am/nn/fdb
 	url = .
+[submodule "am/qm/epz"]
+	path = am/qm/epz
+	url = .
 [submodule "am/tk/bxu"]
 	path = am/tk/bxu
 	url = .
