@@ -1087,6 +1087,9 @@
 [submodule "iy/az/ymy"]
 	path = iy/az/ymy
 	url = .
+[submodule "iy/bo/mba"]
+	path = iy/bo/mba
+	url = .
 [submodule "iy/dh/qsl"]
 	path = iy/dh/qsl
 	url = .
