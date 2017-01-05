@@ -16402,6 +16402,9 @@
 [submodule "go/te/qif"]
 	path = go/te/qif
 	url = .
+[submodule "go/tg/nhl"]
+	path = go/tg/nhl
+	url = .
 [submodule "go/ty/ymo"]
 	path = go/ty/ymo
 	url = .
