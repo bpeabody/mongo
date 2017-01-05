@@ -51934,6 +51934,9 @@
 [submodule "vb/jn/ugd"]
 	path = vb/jn/ugd
 	url = .
+[submodule "vb/kx/ehl"]
+	path = vb/kx/ehl
+	url = .
 [submodule "vb/mb/udp"]
 	path = vb/mb/udp
 	url = .
