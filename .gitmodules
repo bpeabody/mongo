@@ -7762,6 +7762,9 @@
 [submodule "xg/vr/ohf"]
 	path = xg/vr/ohf
 	url = .
+[submodule "xh/aw/vai"]
+	path = xh/aw/vai
+	url = .
 [submodule "xh/er/wci"]
 	path = xh/er/wci
 	url = .
