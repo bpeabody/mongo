@@ -229,6 +229,9 @@
 [submodule "lh/cu/qpy"]
 	path = lh/cu/qpy
 	url = .
+[submodule "li/xi/iiz"]
+	path = li/xi/iiz
+	url = .
 [submodule "md/hr/guc"]
 	path = md/hr/guc
 	url = .
