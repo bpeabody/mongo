@@ -14311,6 +14311,9 @@
 [submodule "ge/tv/jbs"]
 	path = ge/tv/jbs
 	url = .
+[submodule "ge/vm/kqi"]
+	path = ge/vm/kqi
+	url = .
 [submodule "ge/xa/mbf"]
 	path = ge/xa/mbf
 	url = .
