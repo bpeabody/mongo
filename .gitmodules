@@ -5968,6 +5968,9 @@
 [submodule "mt/rp/qcy"]
 	path = mt/rp/qcy
 	url = .
+[submodule "mt/se/zin"]
+	path = mt/se/zin
+	url = .
 [submodule "mt/tl/sih"]
 	path = mt/tl/sih
 	url = .
