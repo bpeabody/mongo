@@ -8170,6 +8170,9 @@
 [submodule "tl/ru/ggg"]
 	path = tl/ru/ggg
 	url = .
+[submodule "tl/xu/ytq"]
+	path = tl/xu/ytq
+	url = .
 [submodule "tm/ag/btd"]
 	path = tm/ag/btd
 	url = .
