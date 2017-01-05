@@ -1882,6 +1882,9 @@
 [submodule "bf/vy/hjt"]
 	path = bf/vy/hjt
 	url = .
+[submodule "bf/xw/ceb"]
+	path = bf/xw/ceb
+	url = .
 [submodule "bf/xx/txy"]
 	path = bf/xx/txy
 	url = .
