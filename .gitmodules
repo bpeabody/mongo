@@ -6739,6 +6739,9 @@
 [submodule "dw/ws/qiq"]
 	path = dw/ws/qiq
 	url = .
+[submodule "dw/wx/cno"]
+	path = dw/wx/cno
+	url = .
 [submodule "dw/xw/dvg"]
 	path = dw/xw/dvg
 	url = .
