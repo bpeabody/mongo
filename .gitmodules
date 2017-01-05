@@ -20995,6 +20995,9 @@
 [submodule "mf/ik/uzo"]
 	path = mf/ik/uzo
 	url = .
+[submodule "mf/kh/fte"]
+	path = mf/kh/fte
+	url = .
 [submodule "mf/kk/xvk"]
 	path = mf/kk/xvk
 	url = .
