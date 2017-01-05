@@ -14335,6 +14335,9 @@
 [submodule "kt/oq/tjm"]
 	path = kt/oq/tjm
 	url = .
+[submodule "kt/ot/awf"]
+	path = kt/ot/awf
+	url = .
 [submodule "kt/sx/ehs"]
 	path = kt/sx/ehs
 	url = .
