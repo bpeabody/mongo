@@ -62467,6 +62467,9 @@
 [submodule "vs/ai/gqs"]
 	path = vs/ai/gqs
 	url = .
+[submodule "vs/an/aab"]
+	path = vs/an/aab
+	url = .
 [submodule "vs/ca/ksb"]
 	path = vs/ca/ksb
 	url = .
