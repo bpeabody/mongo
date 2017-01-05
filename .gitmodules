@@ -35884,6 +35884,9 @@
 [submodule "ne/cg/ruj"]
 	path = ne/cg/ruj
 	url = .
+[submodule "ne/ci/qcp"]
+	path = ne/ci/qcp
+	url = .
 [submodule "ne/cm/pot"]
 	path = ne/cm/pot
 	url = .
