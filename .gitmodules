@@ -19861,6 +19861,9 @@
 [submodule "jq/jw/kqx"]
 	path = jq/jw/kqx
 	url = .
+[submodule "jq/kk/gdh"]
+	path = jq/kk/gdh
+	url = .
 [submodule "jq/ks/dzc"]
 	path = jq/ks/dzc
 	url = .
