@@ -34369,6 +34369,9 @@
 [submodule "ye/pk/rji"]
 	path = ye/pk/rji
 	url = .
+[submodule "ye/sn/pak"]
+	path = ye/sn/pak
+	url = .
 [submodule "ye/wb/cob"]
 	path = ye/wb/cob
 	url = .
