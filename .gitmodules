@@ -21928,6 +21928,9 @@
 [submodule "hu/cx/lgr"]
 	path = hu/cx/lgr
 	url = .
+[submodule "hu/da/hux"]
+	path = hu/da/hux
+	url = .
 [submodule "hu/es/qqo"]
 	path = hu/es/qqo
 	url = .
