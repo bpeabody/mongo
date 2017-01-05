@@ -45127,6 +45127,9 @@
 [submodule "uw/vi/rai"]
 	path = uw/vi/rai
 	url = .
+[submodule "uw/vy/rjn"]
+	path = uw/vy/rjn
+	url = .
 [submodule "uw/wb/eav"]
 	path = uw/wb/eav
 	url = .
