@@ -6028,6 +6028,9 @@
 [submodule "he/km/rba"]
 	path = he/km/rba
 	url = .
+[submodule "he/ny/hsp"]
+	path = he/ny/hsp
+	url = .
 [submodule "he/pb/wlt"]
 	path = he/pb/wlt
 	url = .
