@@ -35824,6 +35824,9 @@
 [submodule "nq/kn/vej"]
 	path = nq/kn/vej
 	url = .
+[submodule "nq/lc/drm"]
+	path = nq/lc/drm
+	url = .
 [submodule "nq/lv/jxl"]
 	path = nq/lv/jxl
 	url = .
