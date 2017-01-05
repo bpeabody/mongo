@@ -3409,6 +3409,9 @@
 [submodule "hl/je/yuc"]
 	path = hl/je/yuc
 	url = .
+[submodule "hl/ny/csy"]
+	path = hl/ny/csy
+	url = .
 [submodule "hl/qo/fse"]
 	path = hl/qo/fse
 	url = .
