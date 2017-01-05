@@ -5398,6 +5398,9 @@
 [submodule "sp/yj/tlr"]
 	path = sp/yj/tlr
 	url = .
+[submodule "sq/gn/ugl"]
+	path = sq/gn/ugl
+	url = .
 [submodule "sq/rk/fel"]
 	path = sq/rk/fel
 	url = .
