@@ -109,6 +109,9 @@
 [submodule "ba/ng/fry"]
 	path = ba/ng/fry
 	url = .
+[submodule "ba/vp/pul"]
+	path = ba/vp/pul
+	url = .
 [submodule "ba/wp/uup"]
 	path = ba/wp/uup
 	url = .
