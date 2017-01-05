@@ -2926,6 +2926,9 @@
 [submodule "ov/xz/kga"]
 	path = ov/xz/kga
 	url = .
+[submodule "ow/cp/tvk"]
+	path = ow/cp/tvk
+	url = .
 [submodule "ow/cq/acm"]
 	path = ow/cq/acm
 	url = .
