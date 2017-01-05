@@ -8473,6 +8473,9 @@
 [submodule "zu/os/whd"]
 	path = zu/os/whd
 	url = .
+[submodule "zu/xe/tws"]
+	path = zu/xe/tws
+	url = .
 [submodule "zv/gp/erp"]
 	path = zv/gp/erp
 	url = .
