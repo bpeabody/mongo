@@ -241,6 +241,9 @@
 [submodule "af/so/yoz"]
 	path = af/so/yoz
 	url = .
+[submodule "af/vv/nsg"]
+	path = af/vv/nsg
+	url = .
 [submodule "af/yw/bmq"]
 	path = af/yw/bmq
 	url = .
