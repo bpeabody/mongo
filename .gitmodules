@@ -29356,6 +29356,9 @@
 [submodule "vr/km/tgr"]
 	path = vr/km/tgr
 	url = .
+[submodule "vr/nr/yjn"]
+	path = vr/nr/yjn
+	url = .
 [submodule "vr/pg/bfy"]
 	path = vr/pg/bfy
 	url = .
