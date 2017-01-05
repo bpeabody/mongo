@@ -8335,6 +8335,9 @@
 [submodule "dk/ju/cav"]
 	path = dk/ju/cav
 	url = .
+[submodule "dk/kc/ycp"]
+	path = dk/kc/ycp
+	url = .
 [submodule "dk/kj/iaw"]
 	path = dk/kj/iaw
 	url = .
