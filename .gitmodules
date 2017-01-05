@@ -52393,6 +52393,9 @@
 [submodule "te/wt/bmn"]
 	path = te/wt/bmn
 	url = .
+[submodule "te/wz/qls"]
+	path = te/wz/qls
+	url = .
 [submodule "te/xm/ako"]
 	path = te/xm/ako
 	url = .
