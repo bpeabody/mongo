@@ -49111,6 +49111,9 @@
 [submodule "te/rf/uoo"]
 	path = te/rf/uoo
 	url = .
+[submodule "te/su/rnm"]
+	path = te/su/rnm
+	url = .
 [submodule "te/ti/ako"]
 	path = te/ti/ako
 	url = .
