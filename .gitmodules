@@ -51391,6 +51391,9 @@
 [submodule "vk/mp/wjp"]
 	path = vk/mp/wjp
 	url = .
+[submodule "vk/mq/ebu"]
+	path = vk/mq/ebu
+	url = .
 [submodule "vk/mz/pue"]
 	path = vk/mz/pue
 	url = .
