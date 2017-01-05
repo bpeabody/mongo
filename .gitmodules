@@ -17323,6 +17323,9 @@
 [submodule "jq/jw/kqx"]
 	path = jq/jw/kqx
 	url = .
+[submodule "jq/ks/dzc"]
+	path = jq/ks/dzc
+	url = .
 [submodule "jq/ks/fiv"]
 	path = jq/ks/fiv
 	url = .
