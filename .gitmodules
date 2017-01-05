@@ -22867,6 +22867,9 @@
 [submodule "ko/ld/xzm"]
 	path = ko/ld/xzm
 	url = .
+[submodule "ko/mp/hgo"]
+	path = ko/mp/hgo
+	url = .
 [submodule "ko/pe/hfl"]
 	path = ko/pe/hfl
 	url = .
