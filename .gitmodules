@@ -9775,6 +9775,9 @@
 [submodule "mp/eo/vxk"]
 	path = mp/eo/vxk
 	url = .
+[submodule "mp/fr/vbo"]
+	path = mp/fr/vbo
+	url = .
 [submodule "mp/fx/tus"]
 	path = mp/fx/tus
 	url = .
