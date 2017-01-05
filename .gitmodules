@@ -1105,6 +1105,9 @@
 [submodule "av/ch/uml"]
 	path = av/ch/uml
 	url = .
+[submodule "av/dn/eyi"]
+	path = av/dn/eyi
+	url = .
 [submodule "av/ha/thl"]
 	path = av/ha/thl
 	url = .
