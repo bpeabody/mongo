@@ -31276,6 +31276,9 @@
 [submodule "mi/zz/gss"]
 	path = mi/zz/gss
 	url = .
+[submodule "mj/bb/qvc"]
+	path = mj/bb/qvc
+	url = .
 [submodule "mj/by/fml"]
 	path = mj/by/fml
 	url = .
