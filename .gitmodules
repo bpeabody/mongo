@@ -3349,6 +3349,9 @@
 [submodule "fi/eg/wqk"]
 	path = fi/eg/wqk
 	url = .
+[submodule "fi/hg/ywd"]
+	path = fi/hg/ywd
+	url = .
 [submodule "fi/ie/mcq"]
 	path = fi/ie/mcq
 	url = .
