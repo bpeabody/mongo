@@ -8260,6 +8260,9 @@
 [submodule "jw/kl/nyh"]
 	path = jw/kl/nyh
 	url = .
+[submodule "jw/ks/aod"]
+	path = jw/ks/aod
+	url = .
 [submodule "jw/mq/cok"]
 	path = jw/mq/cok
 	url = .
