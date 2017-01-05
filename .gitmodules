@@ -51778,6 +51778,9 @@
 [submodule "vr/ti/bno"]
 	path = vr/ti/bno
 	url = .
+[submodule "vr/tn/bgd"]
+	path = vr/tn/bgd
+	url = .
 [submodule "vr/tr/njv"]
 	path = vr/tr/njv
 	url = .
