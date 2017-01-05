@@ -3373,6 +3373,9 @@
 [submodule "km/xt/ozv"]
 	path = km/xt/ozv
 	url = .
+[submodule "kn/hk/khi"]
+	path = kn/hk/khi
+	url = .
 [submodule "kn/ij/spu"]
 	path = kn/ij/spu
 	url = .
