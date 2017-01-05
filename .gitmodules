@@ -39289,6 +39289,9 @@
 [submodule "qu/le/vak"]
 	path = qu/le/vak
 	url = .
+[submodule "qu/mc/rzs"]
+	path = qu/mc/rzs
+	url = .
 [submodule "qu/na/jwi"]
 	path = qu/na/jwi
 	url = .
