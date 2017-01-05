@@ -1459,6 +1459,9 @@
 [submodule "ks/td/iaq"]
 	path = ks/td/iaq
 	url = .
+[submodule "ku/ap/bqq"]
+	path = ku/ap/bqq
+	url = .
 [submodule "kw/fb/twy"]
 	path = kw/fb/twy
 	url = .
