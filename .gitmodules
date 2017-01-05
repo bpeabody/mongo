@@ -1912,6 +1912,9 @@
 [submodule "li/yh/fhm"]
 	path = li/yh/fhm
 	url = .
+[submodule "lj/bn/png"]
+	path = lj/bn/png
+	url = .
 [submodule "lj/yu/yfo"]
 	path = lj/yu/yfo
 	url = .
