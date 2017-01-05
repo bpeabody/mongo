@@ -7180,6 +7180,9 @@
 [submodule "dj/gg/dsp"]
 	path = dj/gg/dsp
 	url = .
+[submodule "dj/iu/nfo"]
+	path = dj/iu/nfo
+	url = .
 [submodule "dj/ix/zjk"]
 	path = dj/ix/zjk
 	url = .
