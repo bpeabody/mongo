@@ -8227,6 +8227,9 @@
 [submodule "uc/nt/vpp"]
 	path = uc/nt/vpp
 	url = .
+[submodule "uc/pe/lcz"]
+	path = uc/pe/lcz
+	url = .
 [submodule "uc/se/owm"]
 	path = uc/se/owm
 	url = .
