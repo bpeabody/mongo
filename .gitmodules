@@ -22471,6 +22471,9 @@
 [submodule "hw/ah/jee"]
 	path = hw/ah/jee
 	url = .
+[submodule "hw/ck/jpn"]
+	path = hw/ck/jpn
+	url = .
 [submodule "hw/cm/ogj"]
 	path = hw/cm/ogj
 	url = .
