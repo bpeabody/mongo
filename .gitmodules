@@ -463,6 +463,9 @@
 [submodule "dr/ad/bei"]
 	path = dr/ad/bei
 	url = .
+[submodule "dr/ve/moa"]
+	path = dr/ve/moa
+	url = .
 [submodule "ds/fb/vmm"]
 	path = ds/fb/vmm
 	url = .
