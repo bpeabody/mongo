@@ -46000,6 +46000,9 @@
 [submodule "xl/oa/dpx"]
 	path = xl/oa/dpx
 	url = .
+[submodule "xl/qa/kre"]
+	path = xl/qa/kre
+	url = .
 [submodule "xl/qk/hzq"]
 	path = xl/qk/hzq
 	url = .
