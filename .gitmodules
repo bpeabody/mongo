@@ -12067,6 +12067,9 @@
 [submodule "xf/bp/fsw"]
 	path = xf/bp/fsw
 	url = .
+[submodule "xf/ee/rjl"]
+	path = xf/ee/rjl
+	url = .
 [submodule "xf/hm/rtj"]
 	path = xf/hm/rtj
 	url = .
