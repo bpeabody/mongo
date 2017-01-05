@@ -7201,6 +7201,9 @@
 [submodule "et/ba/owv"]
 	path = et/ba/owv
 	url = .
+[submodule "et/bt/brb"]
+	path = et/bt/brb
+	url = .
 [submodule "et/cj/qqk"]
 	path = et/cj/qqk
 	url = .
