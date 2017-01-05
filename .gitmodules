@@ -45832,6 +45832,9 @@
 [submodule "xq/mh/zmm"]
 	path = xq/mh/zmm
 	url = .
+[submodule "xq/qf/xkq"]
+	path = xq/qf/xkq
+	url = .
 [submodule "xq/qo/uhg"]
 	path = xq/qo/uhg
 	url = .
