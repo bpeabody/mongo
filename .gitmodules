@@ -25450,6 +25450,9 @@
 [submodule "zr/pi/ssd"]
 	path = zr/pi/ssd
 	url = .
+[submodule "zr/qg/mdp"]
+	path = zr/qg/mdp
+	url = .
 [submodule "zr/rz/ijr"]
 	path = zr/rz/ijr
 	url = .
