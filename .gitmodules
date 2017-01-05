@@ -20242,6 +20242,9 @@
 [submodule "ry/np/qau"]
 	path = ry/np/qau
 	url = .
+[submodule "ry/ny/gaj"]
+	path = ry/ny/gaj
+	url = .
 [submodule "ry/qf/wej"]
 	path = ry/qf/wej
 	url = .
