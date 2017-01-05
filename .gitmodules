@@ -21052,6 +21052,9 @@
 [submodule "xk/os/rhy"]
 	path = xk/os/rhy
 	url = .
+[submodule "xk/ps/ujw"]
+	path = xk/ps/ujw
+	url = .
 [submodule "xk/pz/hwa"]
 	path = xk/pz/hwa
 	url = .
