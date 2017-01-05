@@ -5773,6 +5773,9 @@
 [submodule "cx/ub/ccw"]
 	path = cx/ub/ccw
 	url = .
+[submodule "cx/ul/kdd"]
+	path = cx/ul/kdd
+	url = .
 [submodule "cx/ut/mog"]
 	path = cx/ut/mog
 	url = .
