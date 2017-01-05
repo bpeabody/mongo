@@ -2584,6 +2584,9 @@
 [submodule "bg/go/fzk"]
 	path = bg/go/fzk
 	url = .
+[submodule "bg/ho/wtg"]
+	path = bg/ho/wtg
+	url = .
 [submodule "bg/jm/rtb"]
 	path = bg/jm/rtb
 	url = .
