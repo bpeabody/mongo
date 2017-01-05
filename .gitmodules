@@ -1264,6 +1264,9 @@
 [submodule "yn/ah/mnc"]
 	path = yn/ah/mnc
 	url = .
+[submodule "yp/nh/uep"]
+	path = yp/nh/uep
+	url = .
 [submodule "yp/vq/iys"]
 	path = yp/vq/iys
 	url = .
