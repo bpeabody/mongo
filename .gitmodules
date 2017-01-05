@@ -4654,6 +4654,9 @@
 [submodule "ez/by/kwl"]
 	path = ez/by/kwl
 	url = .
+[submodule "ez/bz/ixw"]
+	path = ez/bz/ixw
+	url = .
 [submodule "ez/dx/uom"]
 	path = ez/dx/uom
 	url = .
