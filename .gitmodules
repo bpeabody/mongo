@@ -4168,6 +4168,9 @@
 [submodule "th/dh/yuf"]
 	path = th/dh/yuf
 	url = .
+[submodule "ti/jy/agu"]
+	path = ti/jy/agu
+	url = .
 [submodule "ti/ta/tcc"]
 	path = ti/ta/tcc
 	url = .
