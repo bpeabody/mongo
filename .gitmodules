@@ -319,6 +319,9 @@
 [submodule "bb/vd/uyx"]
 	path = bb/vd/uyx
 	url = .
+[submodule "bc/al/hfs"]
+	path = bc/al/hfs
+	url = .
 [submodule "bc/ew/mzq"]
 	path = bc/ew/mzq
 	url = .
