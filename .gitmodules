@@ -3766,6 +3766,9 @@
 [submodule "mr/wn/vpq"]
 	path = mr/wn/vpq
 	url = .
+[submodule "ms/ap/ydr"]
+	path = ms/ap/ydr
+	url = .
 [submodule "ms/ar/agy"]
 	path = ms/ar/agy
 	url = .
