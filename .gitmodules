@@ -18790,6 +18790,9 @@
 [submodule "io/mc/mcj"]
 	path = io/mc/mcj
 	url = .
+[submodule "io/nk/bdq"]
+	path = io/nk/bdq
+	url = .
 [submodule "io/nk/zzt"]
 	path = io/nk/zzt
 	url = .
