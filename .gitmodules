@@ -16180,6 +16180,9 @@
 [submodule "te/on/ghk"]
 	path = te/on/ghk
 	url = .
+[submodule "te/rf/ely"]
+	path = te/rf/ely
+	url = .
 [submodule "te/rf/uoo"]
 	path = te/rf/uoo
 	url = .
