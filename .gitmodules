@@ -15352,6 +15352,9 @@
 [submodule "gp/no/eud"]
 	path = gp/no/eud
 	url = .
+[submodule "gp/ny/sto"]
+	path = gp/ny/sto
+	url = .
 [submodule "gp/ov/juw"]
 	path = gp/ov/juw
 	url = .
