@@ -154,6 +154,9 @@
 [submodule "bp/po/rhp"]
 	path = bp/po/rhp
 	url = .
+[submodule "bp/rs/wfb"]
+	path = bp/rs/wfb
+	url = .
 [submodule "bq/un/rpi"]
 	path = bq/un/rpi
 	url = .
