@@ -48997,6 +48997,9 @@
 [submodule "qt/pg/ccg"]
 	path = qt/pg/ccg
 	url = .
+[submodule "qt/qn/fpw"]
+	path = qt/qn/fpw
+	url = .
 [submodule "qt/qz/ynz"]
 	path = qt/qz/ynz
 	url = .
