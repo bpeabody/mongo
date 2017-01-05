@@ -20866,6 +20866,9 @@
 [submodule "rk/jk/eoi"]
 	path = rk/jk/eoi
 	url = .
+[submodule "rk/kt/iat"]
+	path = rk/kt/iat
+	url = .
 [submodule "rk/la/cvi"]
 	path = rk/la/cvi
 	url = .
