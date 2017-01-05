@@ -3187,6 +3187,9 @@
 [submodule "fe/rt/wxd"]
 	path = fe/rt/wxd
 	url = .
+[submodule "ff/iu/qrs"]
+	path = ff/iu/qrs
+	url = .
 [submodule "ff/kr/bwq"]
 	path = ff/kr/bwq
 	url = .
