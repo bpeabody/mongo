@@ -15655,6 +15655,9 @@
 [submodule "gh/sc/jds"]
 	path = gh/sc/jds
 	url = .
+[submodule "gh/sk/kwx"]
+	path = gh/sk/kwx
+	url = .
 [submodule "gh/tl/rtt"]
 	path = gh/tl/rtt
 	url = .
