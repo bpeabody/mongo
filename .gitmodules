@@ -17608,6 +17608,9 @@
 [submodule "gd/cc/xbf"]
 	path = gd/cc/xbf
 	url = .
+[submodule "gd/dg/mnp"]
+	path = gd/dg/mnp
+	url = .
 [submodule "gd/ek/rem"]
 	path = gd/ek/rem
 	url = .
