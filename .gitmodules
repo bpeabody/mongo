@@ -18343,6 +18343,9 @@
 [submodule "sm/rz/rrg"]
 	path = sm/rz/rrg
 	url = .
+[submodule "sm/to/jnp"]
+	path = sm/to/jnp
+	url = .
 [submodule "sm/tz/qhc"]
 	path = sm/tz/qhc
 	url = .
