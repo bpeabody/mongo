@@ -35785,6 +35785,9 @@
 [submodule "ns/bp/sls"]
 	path = ns/bp/sls
 	url = .
+[submodule "ns/eg/aco"]
+	path = ns/eg/aco
+	url = .
 [submodule "ns/ex/stq"]
 	path = ns/ex/stq
 	url = .
