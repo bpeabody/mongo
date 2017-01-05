@@ -46984,6 +46984,9 @@
 [submodule "tq/gc/fwj"]
 	path = tq/gc/fwj
 	url = .
+[submodule "tq/gu/vmo"]
+	path = tq/gu/vmo
+	url = .
 [submodule "tq/ic/urb"]
 	path = tq/ic/urb
 	url = .
