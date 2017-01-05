@@ -8728,6 +8728,9 @@
 [submodule "ff/or/qly"]
 	path = ff/or/qly
 	url = .
+[submodule "ff/pi/ifk"]
+	path = ff/pi/ifk
+	url = .
 [submodule "ff/pv/noi"]
 	path = ff/pv/noi
 	url = .
