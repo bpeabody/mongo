@@ -12892,6 +12892,9 @@
 [submodule "zk/cm/uoj"]
 	path = zk/cm/uoj
 	url = .
+[submodule "zk/fi/noj"]
+	path = zk/fi/noj
+	url = .
 [submodule "zk/hw/rph"]
 	path = zk/hw/rph
 	url = .
