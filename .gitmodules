@@ -4936,6 +4936,9 @@
 [submodule "dt/qc/bar"]
 	path = dt/qc/bar
 	url = .
+[submodule "dt/rl/uqt"]
+	path = dt/rl/uqt
+	url = .
 [submodule "dt/vm/dll"]
 	path = dt/vm/dll
 	url = .
