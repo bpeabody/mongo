@@ -7933,6 +7933,9 @@
 [submodule "fq/gf/qzt"]
 	path = fq/gf/qzt
 	url = .
+[submodule "fq/gi/cyq"]
+	path = fq/gi/cyq
+	url = .
 [submodule "fq/gm/jto"]
 	path = fq/gm/jto
 	url = .
