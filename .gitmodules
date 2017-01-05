@@ -6766,6 +6766,9 @@
 [submodule "cs/ws/ltu"]
 	path = cs/ws/ltu
 	url = .
+[submodule "cs/yh/fsg"]
+	path = cs/yh/fsg
+	url = .
 [submodule "cs/yj/uou"]
 	path = cs/yj/uou
 	url = .
