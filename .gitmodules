@@ -1039,6 +1039,9 @@
 [submodule "ax/jt/ltn"]
 	path = ax/jt/ltn
 	url = .
+[submodule "ax/jv/eyo"]
+	path = ax/jv/eyo
+	url = .
 [submodule "ax/mp/hbt"]
 	path = ax/mp/hbt
 	url = .
