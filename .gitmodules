@@ -23818,6 +23818,9 @@
 [submodule "ne/ju/nrc"]
 	path = ne/ju/nrc
 	url = .
+[submodule "ne/kj/sqa"]
+	path = ne/kj/sqa
+	url = .
 [submodule "ne/lq/gjn"]
 	path = ne/lq/gjn
 	url = .
