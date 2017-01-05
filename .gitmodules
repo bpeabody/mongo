@@ -50818,6 +50818,9 @@
 [submodule "qw/vx/ulo"]
 	path = qw/vx/ulo
 	url = .
+[submodule "qw/vy/uof"]
+	path = qw/vy/uof
+	url = .
 [submodule "qw/xq/xfw"]
 	path = qw/xq/xfw
 	url = .
