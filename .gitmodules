@@ -15001,6 +15001,9 @@
 [submodule "ho/bq/edv"]
 	path = ho/bq/edv
 	url = .
+[submodule "ho/dd/sec"]
+	path = ho/dd/sec
+	url = .
 [submodule "ho/dr/jvn"]
 	path = ho/dr/jvn
 	url = .
