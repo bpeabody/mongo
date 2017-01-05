@@ -29305,6 +29305,9 @@
 [submodule "la/sh/ogq"]
 	path = la/sh/ogq
 	url = .
+[submodule "la/sm/xoz"]
+	path = la/sm/xoz
+	url = .
 [submodule "la/ta/alu"]
 	path = la/ta/alu
 	url = .
