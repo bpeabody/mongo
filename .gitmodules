@@ -16165,6 +16165,9 @@
 [submodule "zb/sz/uor"]
 	path = zb/sz/uor
 	url = .
+[submodule "zb/ur/gpl"]
+	path = zb/ur/gpl
+	url = .
 [submodule "zb/vc/fxx"]
 	path = zb/vc/fxx
 	url = .
