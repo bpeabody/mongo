@@ -6346,6 +6346,9 @@
 [submodule "nl/dm/sql"]
 	path = nl/dm/sql
 	url = .
+[submodule "nl/vs/nzk"]
+	path = nl/vs/nzk
+	url = .
 [submodule "nm/bk/vci"]
 	path = nm/bk/vci
 	url = .
