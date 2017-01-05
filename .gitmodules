@@ -4336,6 +4336,9 @@
 [submodule "km/di/alb"]
 	path = km/di/alb
 	url = .
+[submodule "km/kg/niq"]
+	path = km/kg/niq
+	url = .
 [submodule "km/lm/tjm"]
 	path = km/lm/tjm
 	url = .
