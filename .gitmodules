@@ -10606,6 +10606,9 @@
 [submodule "wz/gn/kav"]
 	path = wz/gn/kav
 	url = .
+[submodule "wz/kh/mqy"]
+	path = wz/kh/mqy
+	url = .
 [submodule "wz/kq/lvx"]
 	path = wz/kq/lvx
 	url = .
