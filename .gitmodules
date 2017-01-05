@@ -8788,6 +8788,9 @@
 [submodule "cx/eo/ulm"]
 	path = cx/eo/ulm
 	url = .
+[submodule "cx/ev/kam"]
+	path = cx/ev/kam
+	url = .
 [submodule "cx/fi/wiw"]
 	path = cx/fi/wiw
 	url = .
