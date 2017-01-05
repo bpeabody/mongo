@@ -22333,6 +22333,9 @@
 [submodule "vx/di/kxi"]
 	path = vx/di/kxi
 	url = .
+[submodule "vx/fs/azq"]
+	path = vx/fs/azq
+	url = .
 [submodule "vx/ho/uix"]
 	path = vx/ho/uix
 	url = .
