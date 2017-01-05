@@ -23929,6 +23929,9 @@
 [submodule "mk/hb/qfl"]
 	path = mk/hb/qfl
 	url = .
+[submodule "mk/is/zjr"]
+	path = mk/is/zjr
+	url = .
 [submodule "mk/je/snq"]
 	path = mk/je/snq
 	url = .
