@@ -217,6 +217,9 @@
 [submodule "bd/hp/dsx"]
 	path = bd/hp/dsx
 	url = .
+[submodule "bd/ve/rmt"]
+	path = bd/ve/rmt
+	url = .
 [submodule "be/ha/ker"]
 	path = be/ha/ker
 	url = .
