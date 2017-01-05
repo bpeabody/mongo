@@ -7732,6 +7732,9 @@
 [submodule "ii/ir/kwa"]
 	path = ii/ir/kwa
 	url = .
+[submodule "ii/kb/qgu"]
+	path = ii/kb/qgu
+	url = .
 [submodule "ii/me/gam"]
 	path = ii/me/gam
 	url = .
