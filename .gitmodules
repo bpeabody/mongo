@@ -58732,6 +58732,9 @@
 [submodule "xf/ou/lup"]
 	path = xf/ou/lup
 	url = .
+[submodule "xf/pb/mvl"]
+	path = xf/pb/mvl
+	url = .
 [submodule "xf/pn/fbf"]
 	path = xf/pn/fbf
 	url = .
