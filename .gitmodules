@@ -18232,6 +18232,9 @@
 [submodule "hp/iz/ygs"]
 	path = hp/iz/ygs
 	url = .
+[submodule "hp/jj/ici"]
+	path = hp/jj/ici
+	url = .
 [submodule "hp/jt/szj"]
 	path = hp/jt/szj
 	url = .
