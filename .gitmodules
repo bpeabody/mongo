@@ -38800,6 +38800,9 @@
 [submodule "qx/jl/vao"]
 	path = qx/jl/vao
 	url = .
+[submodule "qx/lc/adn"]
+	path = qx/lc/adn
+	url = .
 [submodule "qx/mf/mii"]
 	path = qx/mf/mii
 	url = .
