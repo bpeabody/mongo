@@ -35746,6 +35746,9 @@
 [submodule "xi/fv/kvu"]
 	path = xi/fv/kvu
 	url = .
+[submodule "xi/gn/kru"]
+	path = xi/gn/kru
+	url = .
 [submodule "xi/kp/exq"]
 	path = xi/kp/exq
 	url = .
