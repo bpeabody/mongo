@@ -13957,6 +13957,9 @@
 [submodule "yp/ff/fdn"]
 	path = yp/ff/fdn
 	url = .
+[submodule "yp/hf/nby"]
+	path = yp/hf/nby
+	url = .
 [submodule "yp/nh/uep"]
 	path = yp/nh/uep
 	url = .
