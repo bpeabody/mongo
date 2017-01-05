@@ -41497,6 +41497,9 @@
 [submodule "uk/so/asv"]
 	path = uk/so/asv
 	url = .
+[submodule "uk/ww/gom"]
+	path = uk/ww/gom
+	url = .
 [submodule "uk/xj/bgu"]
 	path = uk/xj/bgu
 	url = .
