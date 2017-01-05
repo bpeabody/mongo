@@ -2548,6 +2548,9 @@
 [submodule "gi/gc/qhg"]
 	path = gi/gc/qhg
 	url = .
+[submodule "gi/oe/rer"]
+	path = gi/oe/rer
+	url = .
 [submodule "gi/pd/oju"]
 	path = gi/pd/oju
 	url = .
