@@ -10360,6 +10360,9 @@
 [submodule "do/hq/fsu"]
 	path = do/hq/fsu
 	url = .
+[submodule "do/hr/srx"]
+	path = do/hr/srx
+	url = .
 [submodule "do/hz/wtv"]
 	path = do/hz/wtv
 	url = .
