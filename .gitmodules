@@ -9808,6 +9808,9 @@
 [submodule "xg/vr/ohf"]
 	path = xg/vr/ohf
 	url = .
+[submodule "xg/zk/jin"]
+	path = xg/zk/jin
+	url = .
 [submodule "xh/aw/vai"]
 	path = xh/aw/vai
 	url = .
