@@ -42097,6 +42097,9 @@
 [submodule "vk/hb/dbr"]
 	path = vk/hb/dbr
 	url = .
+[submodule "vk/he/bge"]
+	path = vk/he/bge
+	url = .
 [submodule "vk/hi/hhz"]
 	path = vk/hi/hhz
 	url = .
