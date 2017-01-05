@@ -1366,6 +1366,9 @@
 [submodule "dk/ju/cav"]
 	path = dk/ju/cav
 	url = .
+[submodule "dk/kj/iaw"]
+	path = dk/kj/iaw
+	url = .
 [submodule "dk/nn/zwe"]
 	path = dk/nn/zwe
 	url = .
