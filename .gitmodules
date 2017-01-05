@@ -16621,6 +16621,9 @@
 [submodule "pz/xp/ija"]
 	path = pz/xp/ija
 	url = .
+[submodule "qa/ci/btr"]
+	path = qa/ci/btr
+	url = .
 [submodule "qa/cl/qhu"]
 	path = qa/cl/qhu
 	url = .
