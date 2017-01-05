@@ -27409,6 +27409,9 @@
 [submodule "ru/ey/npj"]
 	path = ru/ey/npj
 	url = .
+[submodule "ru/gb/lie"]
+	path = ru/gb/lie
+	url = .
 [submodule "ru/hf/xhb"]
 	path = ru/hf/xhb
 	url = .
