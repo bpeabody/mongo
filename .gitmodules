@@ -1687,6 +1687,9 @@
 [submodule "aq/oe/ihc"]
 	path = aq/oe/ihc
 	url = .
+[submodule "aq/pe/jkv"]
+	path = aq/pe/jkv
+	url = .
 [submodule "aq/qq/jvr"]
 	path = aq/qq/jvr
 	url = .
