@@ -6313,6 +6313,9 @@
 [submodule "jo/lc/jig"]
 	path = jo/lc/jig
 	url = .
+[submodule "jo/nc/vqh"]
+	path = jo/nc/vqh
+	url = .
 [submodule "jo/ou/rtf"]
 	path = jo/ou/rtf
 	url = .
