@@ -4273,6 +4273,9 @@
 [submodule "cd/wm/acw"]
 	path = cd/wm/acw
 	url = .
+[submodule "cd/xg/uom"]
+	path = cd/xg/uom
+	url = .
 [submodule "cd/ya/ewm"]
 	path = cd/ya/ewm
 	url = .
