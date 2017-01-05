@@ -283,6 +283,9 @@
 [submodule "am/xu/dwy"]
 	path = am/xu/dwy
 	url = .
+[submodule "am/ze/hit"]
+	path = am/ze/hit
+	url = .
 [submodule "an/cr/fax"]
 	path = an/cr/fax
 	url = .
