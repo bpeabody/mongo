@@ -14560,6 +14560,9 @@
 [submodule "ex/dq/gzl"]
 	path = ex/dq/gzl
 	url = .
+[submodule "ex/dq/qya"]
+	path = ex/dq/qya
+	url = .
 [submodule "ex/ew/ugr"]
 	path = ex/ew/ugr
 	url = .
