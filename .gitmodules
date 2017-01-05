@@ -9031,6 +9031,9 @@
 [submodule "io/zf/zln"]
 	path = io/zf/zln
 	url = .
+[submodule "io/zj/vjo"]
+	path = io/zj/vjo
+	url = .
 [submodule "ip/al/aal"]
 	path = ip/al/aal
 	url = .
