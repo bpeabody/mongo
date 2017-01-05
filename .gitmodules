@@ -376,6 +376,9 @@
 [submodule "bz/yj/aio"]
 	path = bz/yj/aio
 	url = .
+[submodule "ca/mm/kew"]
+	path = ca/mm/kew
+	url = .
 [submodule "ca/vi/qwr"]
 	path = ca/vi/qwr
 	url = .
