@@ -952,6 +952,9 @@
 [submodule "bc/al/hfs"]
 	path = bc/al/hfs
 	url = .
+[submodule "bc/bx/kis"]
+	path = bc/bx/kis
+	url = .
 [submodule "bc/cd/eoh"]
 	path = bc/cd/eoh
 	url = .
