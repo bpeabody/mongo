@@ -9373,6 +9373,9 @@
 [submodule "pt/lg/pki"]
 	path = pt/lg/pki
 	url = .
+[submodule "pt/pp/ibd"]
+	path = pt/pp/ibd
+	url = .
 [submodule "pt/qt/xum"]
 	path = pt/qt/xum
 	url = .
