@@ -8884,6 +8884,9 @@
 [submodule "ml/md/jqg"]
 	path = ml/md/jqg
 	url = .
+[submodule "ml/wl/cew"]
+	path = ml/wl/cew
+	url = .
 [submodule "ml/xb/mkr"]
 	path = ml/xb/mkr
 	url = .
