@@ -7255,6 +7255,9 @@
 [submodule "dn/fu/jit"]
 	path = dn/fu/jit
 	url = .
+[submodule "dn/ht/iad"]
+	path = dn/ht/iad
+	url = .
 [submodule "dn/ia/iwf"]
 	path = dn/ia/iwf
 	url = .
