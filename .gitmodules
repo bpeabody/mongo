@@ -9430,6 +9430,9 @@
 [submodule "ie/zr/gbx"]
 	path = ie/zr/gbx
 	url = .
+[submodule "if/dm/bbl"]
+	path = if/dm/bbl
+	url = .
 [submodule "if/eo/ywh"]
 	path = if/eo/ywh
 	url = .
