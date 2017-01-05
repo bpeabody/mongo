@@ -15073,6 +15073,9 @@
 [submodule "rg/iu/odb"]
 	path = rg/iu/odb
 	url = .
+[submodule "rg/iu/vgx"]
+	path = rg/iu/vgx
+	url = .
 [submodule "rg/qp/rmk"]
 	path = rg/qp/rmk
 	url = .
