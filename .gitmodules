@@ -21394,6 +21394,9 @@
 [submodule "hz/zs/azd"]
 	path = hz/zs/azd
 	url = .
+[submodule "ia/ao/ntl"]
+	path = ia/ao/ntl
+	url = .
 [submodule "ia/ar/ljy"]
 	path = ia/ar/ljy
 	url = .
