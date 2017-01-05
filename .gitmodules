@@ -8125,6 +8125,9 @@
 [submodule "ih/sv/zki"]
 	path = ih/sv/zki
 	url = .
+[submodule "ih/tc/kdm"]
+	path = ih/tc/kdm
+	url = .
 [submodule "ih/td/llw"]
 	path = ih/td/llw
 	url = .
