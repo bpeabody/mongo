@@ -7387,6 +7387,9 @@
 [submodule "dp/ol/uzf"]
 	path = dp/ol/uzf
 	url = .
+[submodule "dp/ov/fqm"]
+	path = dp/ov/fqm
+	url = .
 [submodule "dp/pg/dnf"]
 	path = dp/pg/dnf
 	url = .
