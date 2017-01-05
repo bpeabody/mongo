@@ -11224,6 +11224,9 @@
 [submodule "hd/kc/ihu"]
 	path = hd/kc/ihu
 	url = .
+[submodule "hd/lw/qco"]
+	path = hd/lw/qco
+	url = .
 [submodule "hd/mf/hkb"]
 	path = hd/mf/hkb
 	url = .
