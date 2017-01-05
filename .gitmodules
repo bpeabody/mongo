@@ -745,6 +745,9 @@
 [submodule "hh/zo/wju"]
 	path = hh/zo/wju
 	url = .
+[submodule "hi/nk/dht"]
+	path = hi/nk/dht
+	url = .
 [submodule "hi/xv/uit"]
 	path = hi/xv/uit
 	url = .
