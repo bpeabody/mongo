@@ -48505,6 +48505,9 @@
 [submodule "sn/ai/see"]
 	path = sn/ai/see
 	url = .
+[submodule "sn/bo/jvx"]
+	path = sn/bo/jvx
+	url = .
 [submodule "sn/cd/mbb"]
 	path = sn/cd/mbb
 	url = .
