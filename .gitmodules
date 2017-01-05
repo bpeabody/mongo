@@ -15700,6 +15700,9 @@
 [submodule "sl/ja/oyc"]
 	path = sl/ja/oyc
 	url = .
+[submodule "sl/kb/vzz"]
+	path = sl/kb/vzz
+	url = .
 [submodule "sl/lb/tgi"]
 	path = sl/lb/tgi
 	url = .
