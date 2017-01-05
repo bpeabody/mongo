@@ -2596,6 +2596,9 @@
 [submodule "lt/ps/spp"]
 	path = lt/ps/spp
 	url = .
+[submodule "lu/zr/czy"]
+	path = lu/zr/czy
+	url = .
 [submodule "lv/ja/art"]
 	path = lv/ja/art
 	url = .
