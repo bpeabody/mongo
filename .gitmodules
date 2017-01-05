@@ -1189,6 +1189,9 @@
 [submodule "ci/wx/lkl"]
 	path = ci/wx/lkl
 	url = .
+[submodule "cj/kr/quc"]
+	path = cj/kr/quc
+	url = .
 [submodule "cj/lw/hsp"]
 	path = cj/lw/hsp
 	url = .
