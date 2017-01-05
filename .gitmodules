@@ -16432,6 +16432,9 @@
 [submodule "oj/od/bij"]
 	path = oj/od/bij
 	url = .
+[submodule "oj/qh/eht"]
+	path = oj/qh/eht
+	url = .
 [submodule "oj/qr/xsu"]
 	path = oj/qr/xsu
 	url = .
