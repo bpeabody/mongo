@@ -2779,6 +2779,9 @@
 [submodule "bc/js/txw"]
 	path = bc/js/txw
 	url = .
+[submodule "bc/jv/kig"]
+	path = bc/jv/kig
+	url = .
 [submodule "bc/kk/gtz"]
 	path = bc/kk/gtz
 	url = .
