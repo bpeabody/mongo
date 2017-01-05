@@ -1714,6 +1714,9 @@
 [submodule "gg/xl/nng"]
 	path = gg/xl/nng
 	url = .
+[submodule "gg/xv/wtg"]
+	path = gg/xv/wtg
+	url = .
 [submodule "gh/hk/ehl"]
 	path = gh/hk/ehl
 	url = .
