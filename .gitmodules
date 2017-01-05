@@ -48034,6 +48034,9 @@
 [submodule "zl/at/kis"]
 	path = zl/at/kis
 	url = .
+[submodule "zl/bs/vfh"]
+	path = zl/bs/vfh
+	url = .
 [submodule "zl/dq/lvn"]
 	path = zl/dq/lvn
 	url = .
