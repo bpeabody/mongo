@@ -1801,6 +1801,9 @@
 [submodule "ql/tq/jeo"]
 	path = ql/tq/jeo
 	url = .
+[submodule "ql/xw/sdo"]
+	path = ql/xw/sdo
+	url = .
 [submodule "qm/uc/cvk"]
 	path = qm/uc/cvk
 	url = .
