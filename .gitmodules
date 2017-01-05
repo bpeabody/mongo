@@ -6784,6 +6784,9 @@
 [submodule "gg/uq/ftl"]
 	path = gg/uq/ftl
 	url = .
+[submodule "gg/wn/gnm"]
+	path = gg/wn/gnm
+	url = .
 [submodule "gg/xl/nng"]
 	path = gg/xl/nng
 	url = .
