@@ -409,6 +409,9 @@
 [submodule "hf/dx/yao"]
 	path = hf/dx/yao
 	url = .
+[submodule "hf/gx/nhp"]
+	path = hf/gx/nhp
+	url = .
 [submodule "hf/ju/vnz"]
 	path = hf/ju/vnz
 	url = .
