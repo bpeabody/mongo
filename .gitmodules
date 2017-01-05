@@ -9592,6 +9592,9 @@
 [submodule "hi/qk/wcj"]
 	path = hi/qk/wcj
 	url = .
+[submodule "hi/rd/wit"]
+	path = hi/rd/wit
+	url = .
 [submodule "hi/tj/kle"]
 	path = hi/tj/kle
 	url = .
