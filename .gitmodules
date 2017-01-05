@@ -934,6 +934,9 @@
 [submodule "at/mc/are"]
 	path = at/mc/are
 	url = .
+[submodule "at/qa/vnv"]
+	path = at/qa/vnv
+	url = .
 [submodule "at/qf/wfa"]
 	path = at/qf/wfa
 	url = .
