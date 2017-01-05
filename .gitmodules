@@ -13819,6 +13819,9 @@
 [submodule "fi/my/npa"]
 	path = fi/my/npa
 	url = .
+[submodule "fi/ng/kmm"]
+	path = fi/ng/kmm
+	url = .
 [submodule "fi/ng/pat"]
 	path = fi/ng/pat
 	url = .
