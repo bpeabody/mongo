@@ -1018,6 +1018,9 @@
 [submodule "kx/wx/cgq"]
 	path = kx/wx/cgq
 	url = .
+[submodule "kx/ym/xhw"]
+	path = kx/ym/xhw
+	url = .
 [submodule "ky/nb/hpc"]
 	path = ky/nb/hpc
 	url = .
