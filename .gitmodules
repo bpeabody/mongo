@@ -1522,6 +1522,9 @@
 [submodule "ij/cj/hlq"]
 	path = ij/cj/hlq
 	url = .
+[submodule "ij/nj/mue"]
+	path = ij/nj/mue
+	url = .
 [submodule "ij/pc/baa"]
 	path = ij/pc/baa
 	url = .
