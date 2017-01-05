@@ -14218,6 +14218,9 @@
 [submodule "ow/pa/vty"]
 	path = ow/pa/vty
 	url = .
+[submodule "ow/qg/fsg"]
+	path = ow/qg/fsg
+	url = .
 [submodule "ow/qn/oxb"]
 	path = ow/qn/oxb
 	url = .
