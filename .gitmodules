@@ -2371,6 +2371,9 @@
 [submodule "cf/hi/oga"]
 	path = cf/hi/oga
 	url = .
+[submodule "cf/jm/kmq"]
+	path = cf/jm/kmq
+	url = .
 [submodule "cf/km/fzr"]
 	path = cf/km/fzr
 	url = .
