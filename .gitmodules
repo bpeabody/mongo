@@ -1963,6 +1963,9 @@
 [submodule "cm/xi/gdv"]
 	path = cm/xi/gdv
 	url = .
+[submodule "cm/zl/kaf"]
+	path = cm/zl/kaf
+	url = .
 [submodule "cn/dv/yld"]
 	path = cn/dv/yld
 	url = .
