@@ -901,6 +901,9 @@
 [submodule "cp/lx/gql"]
 	path = cp/lx/gql
 	url = .
+[submodule "cp/oz/dzr"]
+	path = cp/oz/dzr
+	url = .
 [submodule "cp/se/xsv"]
 	path = cp/se/xsv
 	url = .
