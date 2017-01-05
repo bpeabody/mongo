@@ -7183,6 +7183,9 @@
 [submodule "eq/gc/byp"]
 	path = eq/gc/byp
 	url = .
+[submodule "eq/go/bwh"]
+	path = eq/go/bwh
+	url = .
 [submodule "eq/id/thi"]
 	path = eq/id/thi
 	url = .
