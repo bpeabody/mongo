@@ -1720,6 +1720,9 @@
 [submodule "ml/ao/hkx"]
 	path = ml/ao/hkx
 	url = .
+[submodule "ml/bv/xev"]
+	path = ml/bv/xev
+	url = .
 [submodule "ml/gn/xoh"]
 	path = ml/gn/xoh
 	url = .
