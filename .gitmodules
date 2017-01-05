@@ -26917,6 +26917,9 @@
 [submodule "yo/xs/bdv"]
 	path = yo/xs/bdv
 	url = .
+[submodule "yp/dk/sel"]
+	path = yp/dk/sel
+	url = .
 [submodule "yp/ff/fdn"]
 	path = yp/ff/fdn
 	url = .
