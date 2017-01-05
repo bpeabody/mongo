@@ -51130,6 +51130,9 @@
 [submodule "yz/pf/mvw"]
 	path = yz/pf/mvw
 	url = .
+[submodule "yz/pr/nlq"]
+	path = yz/pr/nlq
+	url = .
 [submodule "yz/sw/gnm"]
 	path = yz/sw/gnm
 	url = .
