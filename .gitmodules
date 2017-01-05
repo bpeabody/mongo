@@ -12718,6 +12718,9 @@
 [submodule "gn/st/zsn"]
 	path = gn/st/zsn
 	url = .
+[submodule "gn/va/yzc"]
+	path = gn/va/yzc
+	url = .
 [submodule "gn/vm/lvk"]
 	path = gn/vm/lvk
 	url = .
