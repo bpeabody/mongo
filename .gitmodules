@@ -14206,6 +14206,9 @@
 [submodule "go/hr/ioy"]
 	path = go/hr/ioy
 	url = .
+[submodule "go/ic/hkj"]
+	path = go/ic/hkj
+	url = .
 [submodule "go/if/stf"]
 	path = go/if/stf
 	url = .
