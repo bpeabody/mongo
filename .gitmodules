@@ -7384,6 +7384,9 @@
 [submodule "kg/kd/nvg"]
 	path = kg/kd/nvg
 	url = .
+[submodule "kg/mx/yjo"]
+	path = kg/mx/yjo
+	url = .
 [submodule "kg/oa/eur"]
 	path = kg/oa/eur
 	url = .
