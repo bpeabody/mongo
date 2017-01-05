@@ -38539,6 +38539,9 @@
 [submodule "nb/ax/gtc"]
 	path = nb/ax/gtc
 	url = .
+[submodule "nb/bc/vyu"]
+	path = nb/bc/vyu
+	url = .
 [submodule "nb/bf/itn"]
 	path = nb/bf/itn
 	url = .
