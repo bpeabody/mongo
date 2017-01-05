@@ -51259,6 +51259,9 @@
 [submodule "sm/hu/ujz"]
 	path = sm/hu/ujz
 	url = .
+[submodule "sm/ip/upb"]
+	path = sm/ip/upb
+	url = .
 [submodule "sm/iu/upc"]
 	path = sm/iu/upc
 	url = .
