@@ -20437,6 +20437,9 @@
 [submodule "mt/xc/lsi"]
 	path = mt/xc/lsi
 	url = .
+[submodule "mt/xz/mhw"]
+	path = mt/xz/mhw
+	url = .
 [submodule "mt/ye/lhe"]
 	path = mt/ye/lhe
 	url = .
