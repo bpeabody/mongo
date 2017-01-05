@@ -2989,6 +2989,9 @@
 [submodule "dg/dn/ixg"]
 	path = dg/dn/ixg
 	url = .
+[submodule "dg/em/vmk"]
+	path = dg/em/vmk
+	url = .
 [submodule "dg/in/ups"]
 	path = dg/in/ups
 	url = .
