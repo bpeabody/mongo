@@ -811,6 +811,9 @@
 [submodule "ai/re/okw"]
 	path = ai/re/okw
 	url = .
+[submodule "ai/rz/cmy"]
+	path = ai/rz/cmy
+	url = .
 [submodule "ai/vg/lop"]
 	path = ai/vg/lop
 	url = .
