@@ -71032,6 +71032,9 @@
 [submodule "yy/br/ndm"]
 	path = yy/br/ndm
 	url = .
+[submodule "yy/cx/uzd"]
+	path = yy/cx/uzd
+	url = .
 [submodule "yy/fm/xwc"]
 	path = yy/fm/xwc
 	url = .
