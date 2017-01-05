@@ -14341,6 +14341,9 @@
 [submodule "fh/ll/kin"]
 	path = fh/ll/kin
 	url = .
+[submodule "fh/ls/usf"]
+	path = fh/ls/usf
+	url = .
 [submodule "fh/ma/kxw"]
 	path = fh/ma/kxw
 	url = .
