@@ -51376,6 +51376,9 @@
 [submodule "sx/io/clb"]
 	path = sx/io/clb
 	url = .
+[submodule "sx/it/gyh"]
+	path = sx/it/gyh
+	url = .
 [submodule "sx/jd/hel"]
 	path = sx/jd/hel
 	url = .
