@@ -2926,6 +2926,9 @@
 [submodule "iq/nf/lje"]
 	path = iq/nf/lje
 	url = .
+[submodule "iq/tj/hcq"]
+	path = iq/tj/hcq
+	url = .
 [submodule "iq/vm/fax"]
 	path = iq/vm/fax
 	url = .
