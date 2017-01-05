@@ -391,6 +391,9 @@
 [submodule "er/pl/ybq"]
 	path = er/pl/ybq
 	url = .
+[submodule "es/cy/txn"]
+	path = es/cy/txn
+	url = .
 [submodule "et/ql/vhx"]
 	path = et/ql/vhx
 	url = .
