@@ -1123,6 +1123,9 @@
 [submodule "bc/hr/txt"]
 	path = bc/hr/txt
 	url = .
+[submodule "bc/jb/hpp"]
+	path = bc/jb/hpp
+	url = .
 [submodule "bc/js/txw"]
 	path = bc/js/txw
 	url = .
