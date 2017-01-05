@@ -15136,6 +15136,9 @@
 [submodule "is/ac/lkn"]
 	path = is/ac/lkn
 	url = .
+[submodule "is/cv/trd"]
+	path = is/cv/trd
+	url = .
 [submodule "is/ir/uhi"]
 	path = is/ir/uhi
 	url = .
