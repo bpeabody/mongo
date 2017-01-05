@@ -14311,6 +14311,9 @@
 [submodule "ji/sp/oxl"]
 	path = ji/sp/oxl
 	url = .
+[submodule "ji/sx/jgo"]
+	path = ji/sx/jgo
+	url = .
 [submodule "ji/vk/fnq"]
 	path = ji/vk/fnq
 	url = .
