@@ -35155,6 +35155,9 @@
 [submodule "wn/mv/lce"]
 	path = wn/mv/lce
 	url = .
+[submodule "wn/nd/dnv"]
+	path = wn/nd/dnv
+	url = .
 [submodule "wn/nk/jkb"]
 	path = wn/nk/jkb
 	url = .
