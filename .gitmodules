@@ -1858,6 +1858,9 @@
 [submodule "cg/dd/ytz"]
 	path = cg/dd/ytz
 	url = .
+[submodule "cg/dz/awd"]
+	path = cg/dz/awd
+	url = .
 [submodule "cg/jk/kps"]
 	path = cg/jk/kps
 	url = .
