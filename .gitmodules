@@ -1159,6 +1159,9 @@
 [submodule "jo/vp/sni"]
 	path = jo/vp/sni
 	url = .
+[submodule "jp/id/ymp"]
+	path = jp/id/ymp
+	url = .
 [submodule "jp/mk/tqt"]
 	path = jp/mk/tqt
 	url = .
