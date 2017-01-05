@@ -3967,6 +3967,9 @@
 [submodule "bv/rb/nus"]
 	path = bv/rb/nus
 	url = .
+[submodule "bv/uk/rso"]
+	path = bv/uk/rso
+	url = .
 [submodule "bv/vl/ucr"]
 	path = bv/vl/ucr
 	url = .
