@@ -9316,6 +9316,9 @@
 [submodule "sc/fv/hdz"]
 	path = sc/fv/hdz
 	url = .
+[submodule "sc/kz/rly"]
+	path = sc/kz/rly
+	url = .
 [submodule "sc/lz/txs"]
 	path = sc/lz/txs
 	url = .
