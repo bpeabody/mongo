@@ -25222,6 +25222,9 @@
 [submodule "mb/la/did"]
 	path = mb/la/did
 	url = .
+[submodule "mb/my/rjq"]
+	path = mb/my/rjq
+	url = .
 [submodule "mb/od/pkx"]
 	path = mb/od/pkx
 	url = .
