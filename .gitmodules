@@ -6850,6 +6850,9 @@
 [submodule "od/ht/ddp"]
 	path = od/ht/ddp
 	url = .
+[submodule "od/lw/aln"]
+	path = od/lw/aln
+	url = .
 [submodule "od/rq/knf"]
 	path = od/rq/knf
 	url = .
