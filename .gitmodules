@@ -1678,6 +1678,9 @@
 [submodule "ky/nb/hpc"]
 	path = ky/nb/hpc
 	url = .
+[submodule "kz/rk/dtc"]
+	path = kz/rk/dtc
+	url = .
 [submodule "kz/tt/fbt"]
 	path = kz/tt/fbt
 	url = .
