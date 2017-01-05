@@ -9673,6 +9673,9 @@
 [submodule "et/uq/pkh"]
 	path = et/uq/pkh
 	url = .
+[submodule "et/wp/tky"]
+	path = et/wp/tky
+	url = .
 [submodule "et/xs/vhz"]
 	path = et/xs/vhz
 	url = .
