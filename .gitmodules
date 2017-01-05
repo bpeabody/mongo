@@ -43510,6 +43510,9 @@
 [submodule "qi/rz/nld"]
 	path = qi/rz/nld
 	url = .
+[submodule "qi/sg/rur"]
+	path = qi/sg/rur
+	url = .
 [submodule "qi/sw/qeq"]
 	path = qi/sw/qeq
 	url = .
