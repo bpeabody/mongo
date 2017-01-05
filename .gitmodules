@@ -3217,6 +3217,9 @@
 [submodule "td/nk/sni"]
 	path = td/nk/sni
 	url = .
+[submodule "te/ao/dsr"]
+	path = te/ao/dsr
+	url = .
 [submodule "te/cm/vea"]
 	path = te/cm/vea
 	url = .
