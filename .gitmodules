@@ -2548,6 +2548,9 @@
 [submodule "bf/ue/hqu"]
 	path = bf/ue/hqu
 	url = .
+[submodule "bf/uu/xln"]
+	path = bf/uu/xln
+	url = .
 [submodule "bf/vr/rce"]
 	path = bf/vr/rce
 	url = .
