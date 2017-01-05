@@ -24634,6 +24634,9 @@
 [submodule "zv/ko/ecw"]
 	path = zv/ko/ecw
 	url = .
+[submodule "zv/lo/xgd"]
+	path = zv/lo/xgd
+	url = .
 [submodule "zv/mk/pcv"]
 	path = zv/mk/pcv
 	url = .
