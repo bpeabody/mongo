@@ -9262,6 +9262,9 @@
 [submodule "fj/fd/hfg"]
 	path = fj/fd/hfg
 	url = .
+[submodule "fj/fv/cyc"]
+	path = fj/fv/cyc
+	url = .
 [submodule "fj/gj/emx"]
 	path = fj/gj/emx
 	url = .
