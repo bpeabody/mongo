@@ -11518,6 +11518,9 @@
 [submodule "lz/sp/bjb"]
 	path = lz/sp/bjb
 	url = .
+[submodule "lz/tn/uig"]
+	path = lz/tn/uig
+	url = .
 [submodule "lz/yb/exv"]
 	path = lz/yb/exv
 	url = .
