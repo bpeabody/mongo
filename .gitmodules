@@ -6814,6 +6814,9 @@
 [submodule "sa/cm/qtn"]
 	path = sa/cm/qtn
 	url = .
+[submodule "sa/dp/bhi"]
+	path = sa/dp/bhi
+	url = .
 [submodule "sa/ka/biu"]
 	path = sa/ka/biu
 	url = .
