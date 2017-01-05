@@ -7912,6 +7912,9 @@
 [submodule "zx/sx/brz"]
 	path = zx/sx/brz
 	url = .
+[submodule "zx/ul/jgz"]
+	path = zx/ul/jgz
+	url = .
 [submodule "zx/wf/fbk"]
 	path = zx/wf/fbk
 	url = .
