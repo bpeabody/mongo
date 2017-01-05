@@ -7510,6 +7510,9 @@
 [submodule "ec/oi/edr"]
 	path = ec/oi/edr
 	url = .
+[submodule "ec/oi/jcu"]
+	path = ec/oi/jcu
+	url = .
 [submodule "ec/qw/cky"]
 	path = ec/qw/cky
 	url = .
