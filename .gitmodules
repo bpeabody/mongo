@@ -28366,6 +28366,9 @@
 [submodule "kt/la/ize"]
 	path = kt/la/ize
 	url = .
+[submodule "kt/lr/odf"]
+	path = kt/lr/odf
+	url = .
 [submodule "kt/no/yum"]
 	path = kt/no/yum
 	url = .
