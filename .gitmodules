@@ -34636,6 +34636,9 @@
 [submodule "pa/ix/llj"]
 	path = pa/ix/llj
 	url = .
+[submodule "pa/jl/rsq"]
+	path = pa/jl/rsq
+	url = .
 [submodule "pa/ko/adi"]
 	path = pa/ko/adi
 	url = .
