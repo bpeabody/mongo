@@ -1903,6 +1903,9 @@
 [submodule "dl/ay/bsi"]
 	path = dl/ay/bsi
 	url = .
+[submodule "dl/cu/lnn"]
+	path = dl/cu/lnn
+	url = .
 [submodule "dl/hv/vmr"]
 	path = dl/hv/vmr
 	url = .
