@@ -5152,6 +5152,9 @@
 [submodule "hp/qr/pld"]
 	path = hp/qr/pld
 	url = .
+[submodule "hp/ur/qbi"]
+	path = hp/ur/qbi
+	url = .
 [submodule "hp/vz/cjj"]
 	path = hp/vz/cjj
 	url = .
