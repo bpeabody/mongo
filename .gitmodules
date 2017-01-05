@@ -4528,6 +4528,9 @@
 [submodule "me/wq/bls"]
 	path = me/wq/bls
 	url = .
+[submodule "me/ww/vjr"]
+	path = me/ww/vjr
+	url = .
 [submodule "me/zw/zmq"]
 	path = me/zw/zmq
 	url = .
