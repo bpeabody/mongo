@@ -343,6 +343,9 @@
 [submodule "ah/zk/pfr"]
 	path = ah/zk/pfr
 	url = .
+[submodule "ai/fk/ikr"]
+	path = ai/fk/ikr
+	url = .
 [submodule "ai/fw/nee"]
 	path = ai/fw/nee
 	url = .
