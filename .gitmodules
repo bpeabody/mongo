@@ -44881,6 +44881,9 @@
 [submodule "sw/fs/ynx"]
 	path = sw/fs/ynx
 	url = .
+[submodule "sw/ge/lwz"]
+	path = sw/ge/lwz
+	url = .
 [submodule "sw/ji/evb"]
 	path = sw/ji/evb
 	url = .
