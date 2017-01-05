@@ -33640,6 +33640,9 @@
 [submodule "mm/oy/opt"]
 	path = mm/oy/opt
 	url = .
+[submodule "mm/qh/fre"]
+	path = mm/qh/fre
+	url = .
 [submodule "mm/ss/yoh"]
 	path = mm/ss/yoh
 	url = .
