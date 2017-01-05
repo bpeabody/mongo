@@ -619,6 +619,9 @@
 [submodule "iy/hy/etd"]
 	path = iy/hy/etd
 	url = .
+[submodule "ja/ol/mml"]
+	path = ja/ol/mml
+	url = .
 [submodule "jc/fs/rxr"]
 	path = jc/fs/rxr
 	url = .
