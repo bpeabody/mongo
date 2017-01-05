@@ -26797,6 +26797,9 @@
 [submodule "pt/qt/xum"]
 	path = pt/qt/xum
 	url = .
+[submodule "pt/rq/hrm"]
+	path = pt/rq/hrm
+	url = .
 [submodule "pt/sc/czp"]
 	path = pt/sc/czp
 	url = .
