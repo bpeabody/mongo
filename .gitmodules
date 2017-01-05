@@ -24106,6 +24106,9 @@
 [submodule "mo/ls/afo"]
 	path = mo/ls/afo
 	url = .
+[submodule "mo/ls/lgm"]
+	path = mo/ls/lgm
+	url = .
 [submodule "mo/mr/qtl"]
 	path = mo/mr/qtl
 	url = .
