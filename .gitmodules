@@ -2257,6 +2257,9 @@
 [submodule "em/ys/bfl"]
 	path = em/ys/bfl
 	url = .
+[submodule "em/ze/idu"]
+	path = em/ze/idu
+	url = .
 [submodule "em/zi/yha"]
 	path = em/zi/yha
 	url = .
