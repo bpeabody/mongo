@@ -4333,6 +4333,9 @@
 [submodule "lx/mk/cfl"]
 	path = lx/mk/cfl
 	url = .
+[submodule "lx/vz/mbp"]
+	path = lx/vz/mbp
+	url = .
 [submodule "lx/xz/yfh"]
 	path = lx/xz/yfh
 	url = .
