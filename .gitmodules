@@ -9676,6 +9676,9 @@
 [submodule "vc/hy/dod"]
 	path = vc/hy/dod
 	url = .
+[submodule "vc/io/wfa"]
+	path = vc/io/wfa
+	url = .
 [submodule "vc/nc/ngc"]
 	path = vc/nc/ngc
 	url = .
