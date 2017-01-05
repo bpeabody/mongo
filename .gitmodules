@@ -39319,6 +39319,9 @@
 [submodule "oe/yx/tus"]
 	path = oe/yx/tus
 	url = .
+[submodule "oe/zh/fhy"]
+	path = oe/zh/fhy
+	url = .
 [submodule "oe/zm/xmx"]
 	path = oe/zm/xmx
 	url = .
