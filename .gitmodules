@@ -60088,6 +60088,9 @@
 [submodule "ym/ow/jmk"]
 	path = ym/ow/jmk
 	url = .
+[submodule "ym/pe/nmm"]
+	path = ym/pe/nmm
+	url = .
 [submodule "ym/pg/dcg"]
 	path = ym/pg/dcg
 	url = .
