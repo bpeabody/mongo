@@ -46333,6 +46333,9 @@
 [submodule "tj/cg/fcl"]
 	path = tj/cg/fcl
 	url = .
+[submodule "tj/ci/obd"]
+	path = tj/ci/obd
+	url = .
 [submodule "tj/cs/tdn"]
 	path = tj/cs/tdn
 	url = .
