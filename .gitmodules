@@ -12808,6 +12808,9 @@
 [submodule "em/zn/lcm"]
 	path = em/zn/lcm
 	url = .
+[submodule "em/zs/azq"]
+	path = em/zs/azq
+	url = .
 [submodule "en/bq/pcm"]
 	path = en/bq/pcm
 	url = .
