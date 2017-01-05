@@ -10366,6 +10366,9 @@
 [submodule "fq/gu/hvr"]
 	path = fq/gu/hvr
 	url = .
+[submodule "fq/hv/vdi"]
+	path = fq/hv/vdi
+	url = .
 [submodule "fq/jg/yzt"]
 	path = fq/jg/yzt
 	url = .
