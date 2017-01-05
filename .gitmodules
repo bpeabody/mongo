@@ -30523,6 +30523,9 @@
 [submodule "po/ub/xgv"]
 	path = po/ub/xgv
 	url = .
+[submodule "po/ug/ppu"]
+	path = po/ug/ppu
+	url = .
 [submodule "po/ug/ybw"]
 	path = po/ug/ybw
 	url = .
