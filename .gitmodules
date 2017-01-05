@@ -2995,6 +2995,9 @@
 [submodule "ev/hh/vzt"]
 	path = ev/hh/vzt
 	url = .
+[submodule "ev/mz/mas"]
+	path = ev/mz/mas
+	url = .
 [submodule "ev/pe/oem"]
 	path = ev/pe/oem
 	url = .
