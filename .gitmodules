@@ -36289,6 +36289,9 @@
 [submodule "rz/vm/lse"]
 	path = rz/vm/lse
 	url = .
+[submodule "rz/ww/jpl"]
+	path = rz/ww/jpl
+	url = .
 [submodule "rz/ye/nhh"]
 	path = rz/ye/nhh
 	url = .
