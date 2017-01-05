@@ -11947,6 +11947,9 @@
 [submodule "ku/bh/vcc"]
 	path = ku/bh/vcc
 	url = .
+[submodule "ku/bl/nuw"]
+	path = ku/bl/nuw
+	url = .
 [submodule "ku/ko/rty"]
 	path = ku/ko/rty
 	url = .
