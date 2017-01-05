@@ -46702,6 +46702,9 @@
 [submodule "yr/xr/ctq"]
 	path = yr/xr/ctq
 	url = .
+[submodule "yr/zc/uue"]
+	path = yr/zc/uue
+	url = .
 [submodule "yr/zs/dcx"]
 	path = yr/zs/dcx
 	url = .
