@@ -679,6 +679,9 @@
 [submodule "gg/uq/ftl"]
 	path = gg/uq/ftl
 	url = .
+[submodule "gi/gc/qhg"]
+	path = gi/gc/qhg
+	url = .
 [submodule "gi/ta/yii"]
 	path = gi/ta/yii
 	url = .
