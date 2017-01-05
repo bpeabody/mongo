@@ -7867,6 +7867,9 @@
 [submodule "nc/rg/kex"]
 	path = nc/rg/kex
 	url = .
+[submodule "nc/wo/sho"]
+	path = nc/wo/sho
+	url = .
 [submodule "nd/bn/bsv"]
 	path = nd/bn/bsv
 	url = .
