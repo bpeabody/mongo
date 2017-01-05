@@ -5749,6 +5749,9 @@
 [submodule "tk/iu/jfn"]
 	path = tk/iu/jfn
 	url = .
+[submodule "tk/pg/pnq"]
+	path = tk/pg/pnq
+	url = .
 [submodule "tk/rt/asr"]
 	path = tk/rt/asr
 	url = .
