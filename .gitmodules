@@ -5263,6 +5263,9 @@
 [submodule "dr/zg/qbw"]
 	path = dr/zg/qbw
 	url = .
+[submodule "dr/zh/zuw"]
+	path = dr/zh/zuw
+	url = .
 [submodule "ds/fb/vmm"]
 	path = ds/fb/vmm
 	url = .
