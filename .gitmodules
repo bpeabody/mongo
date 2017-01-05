@@ -4306,6 +4306,9 @@
 [submodule "oq/qp/dsy"]
 	path = oq/qp/dsy
 	url = .
+[submodule "oq/qr/gha"]
+	path = oq/qr/gha
+	url = .
 [submodule "or/dr/pyg"]
 	path = or/dr/pyg
 	url = .
