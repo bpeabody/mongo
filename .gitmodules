@@ -784,6 +784,9 @@
 [submodule "ei/nt/zkm"]
 	path = ei/nt/zkm
 	url = .
+[submodule "ei/qo/eum"]
+	path = ei/qo/eum
+	url = .
 [submodule "ej/si/lya"]
 	path = ej/si/lya
 	url = .
