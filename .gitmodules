@@ -517,6 +517,9 @@
 [submodule "ba/wp/uup"]
 	path = ba/wp/uup
 	url = .
+[submodule "bb/dk/bzw"]
+	path = bb/dk/bzw
+	url = .
 [submodule "bb/mn/nvt"]
 	path = bb/mn/nvt
 	url = .
