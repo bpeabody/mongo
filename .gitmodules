@@ -37996,6 +37996,9 @@
 [submodule "vu/dr/ykp"]
 	path = vu/dr/ykp
 	url = .
+[submodule "vu/eq/lcm"]
+	path = vu/eq/lcm
+	url = .
 [submodule "vu/fv/pem"]
 	path = vu/fv/pem
 	url = .
