@@ -9184,6 +9184,9 @@
 [submodule "ha/fd/aby"]
 	path = ha/fd/aby
 	url = .
+[submodule "ha/ga/llv"]
+	path = ha/ga/llv
+	url = .
 [submodule "ha/id/hvh"]
 	path = ha/id/hvh
 	url = .
