@@ -2962,6 +2962,9 @@
 [submodule "mh/fx/vrg"]
 	path = mh/fx/vrg
 	url = .
+[submodule "mi/wb/bts"]
+	path = mi/wb/bts
+	url = .
 [submodule "mi/zc/czs"]
 	path = mi/zc/czs
 	url = .
