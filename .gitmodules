@@ -4573,6 +4573,9 @@
 [submodule "ii/sv/yun"]
 	path = ii/sv/yun
 	url = .
+[submodule "ii/vs/nfd"]
+	path = ii/vs/nfd
+	url = .
 [submodule "ii/xx/ufi"]
 	path = ii/xx/ufi
 	url = .
