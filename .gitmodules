@@ -6424,6 +6424,9 @@
 [submodule "eu/zb/jpf"]
 	path = eu/zb/jpf
 	url = .
+[submodule "ev/bu/yua"]
+	path = ev/bu/yua
+	url = .
 [submodule "ev/ce/cys"]
 	path = ev/ce/cys
 	url = .
