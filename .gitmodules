@@ -56161,6 +56161,9 @@
 [submodule "xr/rp/hxb"]
 	path = xr/rp/hxb
 	url = .
+[submodule "xr/sc/mem"]
+	path = xr/sc/mem
+	url = .
 [submodule "xr/tr/gwg"]
 	path = xr/tr/gwg
 	url = .
