@@ -47602,6 +47602,9 @@
 [submodule "sp/hi/tms"]
 	path = sp/hi/tms
 	url = .
+[submodule "sp/hk/wtj"]
+	path = sp/hk/wtj
+	url = .
 [submodule "sp/ir/mmz"]
 	path = sp/ir/mmz
 	url = .
