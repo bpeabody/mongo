@@ -28306,6 +28306,9 @@
 [submodule "ks/ue/dzx"]
 	path = ks/ue/dzx
 	url = .
+[submodule "ks/ug/avn"]
+	path = ks/ug/avn
+	url = .
 [submodule "ks/vd/mnc"]
 	path = ks/vd/mnc
 	url = .
