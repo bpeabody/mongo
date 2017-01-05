@@ -14524,6 +14524,9 @@
 [submodule "hh/hf/rdf"]
 	path = hh/hf/rdf
 	url = .
+[submodule "hh/hs/fhz"]
+	path = hh/hs/fhz
+	url = .
 [submodule "hh/ht/ivh"]
 	path = hh/ht/ivh
 	url = .
