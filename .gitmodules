@@ -3625,6 +3625,9 @@
 [submodule "db/pw/gpc"]
 	path = db/pw/gpc
 	url = .
+[submodule "db/ud/hro"]
+	path = db/ud/hro
+	url = .
 [submodule "dc/du/hru"]
 	path = dc/du/hru
 	url = .
