@@ -7045,6 +7045,9 @@
 [submodule "ed/lk/rlo"]
 	path = ed/lk/rlo
 	url = .
+[submodule "ed/ob/lbn"]
+	path = ed/ob/lbn
+	url = .
 [submodule "ed/oj/hzl"]
 	path = ed/oj/hzl
 	url = .
