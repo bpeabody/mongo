@@ -8044,6 +8044,9 @@
 [submodule "cw/hf/fta"]
 	path = cw/hf/fta
 	url = .
+[submodule "cw/hi/vah"]
+	path = cw/hi/vah
+	url = .
 [submodule "cw/if/ylq"]
 	path = cw/if/ylq
 	url = .
