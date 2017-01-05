@@ -10534,6 +10534,9 @@
 [submodule "fc/hz/szw"]
 	path = fc/hz/szw
 	url = .
+[submodule "fc/ia/uhf"]
+	path = fc/ia/uhf
+	url = .
 [submodule "fc/kj/wid"]
 	path = fc/kj/wid
 	url = .
