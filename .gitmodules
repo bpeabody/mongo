@@ -8818,6 +8818,9 @@
 [submodule "xp/ic/jww"]
 	path = xp/ic/jww
 	url = .
+[submodule "xp/oa/bag"]
+	path = xp/oa/bag
+	url = .
 [submodule "xp/qz/rfk"]
 	path = xp/qz/rfk
 	url = .
