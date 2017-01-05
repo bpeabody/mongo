@@ -21682,6 +21682,9 @@
 [submodule "mu/aq/wkl"]
 	path = mu/aq/wkl
 	url = .
+[submodule "mu/ax/nqo"]
+	path = mu/ax/nqo
+	url = .
 [submodule "mu/dn/ghc"]
 	path = mu/dn/ghc
 	url = .
