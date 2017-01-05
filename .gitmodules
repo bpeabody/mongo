@@ -20122,6 +20122,9 @@
 [submodule "jy/ej/gpo"]
 	path = jy/ej/gpo
 	url = .
+[submodule "jy/em/fsi"]
+	path = jy/em/fsi
+	url = .
 [submodule "jy/gz/hif"]
 	path = jy/gz/hif
 	url = .
