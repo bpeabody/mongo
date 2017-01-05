@@ -10810,6 +10810,9 @@
 [submodule "ju/lr/ldz"]
 	path = ju/lr/ldz
 	url = .
+[submodule "ju/mg/gyl"]
+	path = ju/mg/gyl
+	url = .
 [submodule "ju/mi/kuv"]
 	path = ju/mi/kuv
 	url = .
