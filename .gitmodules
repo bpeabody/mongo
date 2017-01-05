@@ -4456,6 +4456,9 @@
 [submodule "ff/xd/avo"]
 	path = ff/xd/avo
 	url = .
+[submodule "ff/yb/qed"]
+	path = ff/yb/qed
+	url = .
 [submodule "ff/zy/viq"]
 	path = ff/zy/viq
 	url = .
