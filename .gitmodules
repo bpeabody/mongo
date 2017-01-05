@@ -44557,6 +44557,9 @@
 [submodule "to/ng/ujl"]
 	path = to/ng/ujl
 	url = .
+[submodule "to/ns/qeg"]
+	path = to/ns/qeg
+	url = .
 [submodule "to/od/ltz"]
 	path = to/od/ltz
 	url = .
