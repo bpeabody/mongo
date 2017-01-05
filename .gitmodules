@@ -2503,6 +2503,9 @@
 [submodule "oq/ov/tlq"]
 	path = oq/ov/tlq
 	url = .
+[submodule "or/dr/pyg"]
+	path = or/dr/pyg
+	url = .
 [submodule "or/dy/isz"]
 	path = or/dy/isz
 	url = .
