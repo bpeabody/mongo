@@ -25945,6 +25945,9 @@
 [submodule "mg/ax/afq"]
 	path = mg/ax/afq
 	url = .
+[submodule "mg/bw/qfk"]
+	path = mg/bw/qfk
+	url = .
 [submodule "mg/cz/mwo"]
 	path = mg/cz/mwo
 	url = .
