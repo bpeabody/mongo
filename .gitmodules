@@ -33202,6 +33202,9 @@
 [submodule "sd/yd/uji"]
 	path = sd/yd/uji
 	url = .
+[submodule "sd/yo/hxs"]
+	path = sd/yo/hxs
+	url = .
 [submodule "sd/yt/ina"]
 	path = sd/yt/ina
 	url = .
