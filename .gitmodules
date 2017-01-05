@@ -3559,6 +3559,9 @@
 [submodule "bs/sd/cws"]
 	path = bs/sd/cws
 	url = .
+[submodule "bs/sn/pxh"]
+	path = bs/sn/pxh
+	url = .
 [submodule "bs/tx/tto"]
 	path = bs/tx/tto
 	url = .
