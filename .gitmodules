@@ -15718,6 +15718,9 @@
 [submodule "gd/zg/qqa"]
 	path = gd/zg/qqa
 	url = .
+[submodule "ge/cv/som"]
+	path = ge/cv/som
+	url = .
 [submodule "ge/cx/ced"]
 	path = ge/cx/ced
 	url = .
