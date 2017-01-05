@@ -18553,6 +18553,9 @@
 [submodule "hr/hk/vxr"]
 	path = hr/hk/vxr
 	url = .
+[submodule "hr/hl/hty"]
+	path = hr/hl/hty
+	url = .
 [submodule "hr/ht/ypw"]
 	path = hr/ht/ypw
 	url = .
