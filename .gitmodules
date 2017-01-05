@@ -1336,6 +1336,9 @@
 [submodule "br/ve/jvg"]
 	path = br/ve/jvg
 	url = .
+[submodule "br/wh/qhc"]
+	path = br/wh/qhc
+	url = .
 [submodule "br/wj/rms"]
 	path = br/wj/rms
 	url = .
