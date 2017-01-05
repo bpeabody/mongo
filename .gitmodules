@@ -1351,6 +1351,9 @@
 [submodule "bp/sx/zjy"]
 	path = bp/sx/zjy
 	url = .
+[submodule "bp/xc/fgr"]
+	path = bp/xc/fgr
+	url = .
 [submodule "bq/ba/pfh"]
 	path = bq/ba/pfh
 	url = .
