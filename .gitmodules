@@ -361,6 +361,9 @@
 [submodule "hc/ns/ejv"]
 	path = hc/ns/ejv
 	url = .
+[submodule "hf/dx/yao"]
+	path = hf/dx/yao
+	url = .
 [submodule "hf/ju/vnz"]
 	path = hf/ju/vnz
 	url = .
