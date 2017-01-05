@@ -55819,6 +55819,9 @@
 [submodule "th/qw/xnl"]
 	path = th/qw/xnl
 	url = .
+[submodule "th/rg/huv"]
+	path = th/rg/huv
+	url = .
 [submodule "th/sh/ivm"]
 	path = th/sh/ivm
 	url = .
