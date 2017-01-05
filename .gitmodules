@@ -12661,6 +12661,9 @@
 [submodule "hq/vh/bll"]
 	path = hq/vh/bll
 	url = .
+[submodule "hq/wq/dtj"]
+	path = hq/wq/dtj
+	url = .
 [submodule "hq/zh/wcq"]
 	path = hq/zh/wcq
 	url = .
