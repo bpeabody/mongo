@@ -8236,6 +8236,9 @@
 [submodule "dm/yp/bdh"]
 	path = dm/yp/bdh
 	url = .
+[submodule "dm/zk/apt"]
+	path = dm/zk/apt
+	url = .
 [submodule "dm/zr/dyd"]
 	path = dm/zr/dyd
 	url = .
