@@ -13495,6 +13495,9 @@
 [submodule "zh/cy/dnh"]
 	path = zh/cy/dnh
 	url = .
+[submodule "zh/hc/qmk"]
+	path = zh/hc/qmk
+	url = .
 [submodule "zh/ne/yyu"]
 	path = zh/ne/yyu
 	url = .
