@@ -27892,6 +27892,9 @@
 [submodule "ka/th/tco"]
 	path = ka/th/tco
 	url = .
+[submodule "ka/to/inn"]
+	path = ka/to/inn
+	url = .
 [submodule "ka/vz/xes"]
 	path = ka/vz/xes
 	url = .
