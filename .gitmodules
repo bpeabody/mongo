@@ -4321,6 +4321,9 @@
 [submodule "ux/nb/lvh"]
 	path = ux/nb/lvh
 	url = .
+[submodule "ux/pl/xty"]
+	path = ux/pl/xty
+	url = .
 [submodule "ux/qm/umq"]
 	path = ux/qm/umq
 	url = .
