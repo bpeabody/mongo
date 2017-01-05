@@ -8590,6 +8590,9 @@
 [submodule "zb/rp/lbm"]
 	path = zb/rp/lbm
 	url = .
+[submodule "zc/hm/shv"]
+	path = zc/hm/shv
+	url = .
 [submodule "zc/iv/usw"]
 	path = zc/iv/usw
 	url = .
