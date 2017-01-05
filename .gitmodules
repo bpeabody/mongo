@@ -49972,6 +49972,9 @@
 [submodule "sm/hu/ujz"]
 	path = sm/hu/ujz
 	url = .
+[submodule "sm/iu/upc"]
+	path = sm/iu/upc
+	url = .
 [submodule "sm/js/dqs"]
 	path = sm/js/dqs
 	url = .
