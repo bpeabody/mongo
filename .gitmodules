@@ -4204,6 +4204,9 @@
 [submodule "lw/ae/hbl"]
 	path = lw/ae/hbl
 	url = .
+[submodule "lw/gy/qvq"]
+	path = lw/gy/qvq
+	url = .
 [submodule "lx/ba/acs"]
 	path = lx/ba/acs
 	url = .
