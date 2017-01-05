@@ -1552,6 +1552,9 @@
 [submodule "bm/os/tkp"]
 	path = bm/os/tkp
 	url = .
+[submodule "bm/ss/vno"]
+	path = bm/ss/vno
+	url = .
 [submodule "bm/vd/mxy"]
 	path = bm/vd/mxy
 	url = .
