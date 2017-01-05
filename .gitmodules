@@ -28405,6 +28405,9 @@
 [submodule "sl/gy/riu"]
 	path = sl/gy/riu
 	url = .
+[submodule "sl/il/wvt"]
+	path = sl/il/wvt
+	url = .
 [submodule "sl/ja/oyc"]
 	path = sl/ja/oyc
 	url = .
