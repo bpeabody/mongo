@@ -43798,6 +43798,9 @@
 [submodule "rc/oa/mbt"]
 	path = rc/oa/mbt
 	url = .
+[submodule "rc/pt/vuu"]
+	path = rc/pt/vuu
+	url = .
 [submodule "rc/qj/tfi"]
 	path = rc/qj/tfi
 	url = .
