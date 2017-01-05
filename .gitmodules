@@ -63883,6 +63883,9 @@
 [submodule "yx/xd/gtm"]
 	path = yx/xd/gtm
 	url = .
+[submodule "yx/xt/ceb"]
+	path = yx/xt/ceb
+	url = .
 [submodule "yx/yn/kqx"]
 	path = yx/yn/kqx
 	url = .
