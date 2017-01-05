@@ -33340,6 +33340,9 @@
 [submodule "yv/pa/iva"]
 	path = yv/pa/iva
 	url = .
+[submodule "yv/tp/jkn"]
+	path = yv/tp/jkn
+	url = .
 [submodule "yv/vr/glr"]
 	path = yv/vr/glr
 	url = .
