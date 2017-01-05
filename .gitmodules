@@ -30463,6 +30463,9 @@
 [submodule "kv/sm/ase"]
 	path = kv/sm/ase
 	url = .
+[submodule "kv/tp/gpd"]
+	path = kv/tp/gpd
+	url = .
 [submodule "kv/tr/pfj"]
 	path = kv/tr/pfj
 	url = .
