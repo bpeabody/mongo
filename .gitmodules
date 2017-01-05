@@ -736,6 +736,9 @@
 [submodule "az/vo/xhq"]
 	path = az/vo/xhq
 	url = .
+[submodule "az/wk/goq"]
+	path = az/wk/goq
+	url = .
 [submodule "az/yx/gdm"]
 	path = az/yx/gdm
 	url = .
