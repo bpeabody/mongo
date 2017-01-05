@@ -1504,6 +1504,9 @@
 [submodule "ay/sb/wgj"]
 	path = ay/sb/wgj
 	url = .
+[submodule "ay/wf/vai"]
+	path = ay/wf/vai
+	url = .
 [submodule "ay/zc/gxd"]
 	path = ay/zc/gxd
 	url = .
