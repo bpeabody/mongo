@@ -4243,6 +4243,9 @@
 [submodule "kq/vm/ozg"]
 	path = kq/vm/ozg
 	url = .
+[submodule "kr/fs/svx"]
+	path = kr/fs/svx
+	url = .
 [submodule "kr/it/ixr"]
 	path = kr/it/ixr
 	url = .
