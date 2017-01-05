@@ -19690,6 +19690,9 @@
 [submodule "gy/nu/wkl"]
 	path = gy/nu/wkl
 	url = .
+[submodule "gy/of/zsr"]
+	path = gy/of/zsr
+	url = .
 [submodule "gy/py/mrd"]
 	path = gy/py/mrd
 	url = .
