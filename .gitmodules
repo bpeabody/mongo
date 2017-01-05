@@ -48745,6 +48745,9 @@
 [submodule "ui/yk/rpw"]
 	path = ui/yk/rpw
 	url = .
+[submodule "ui/zb/eht"]
+	path = ui/zb/eht
+	url = .
 [submodule "ui/zy/sxi"]
 	path = ui/zy/sxi
 	url = .
