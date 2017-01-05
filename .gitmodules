@@ -505,6 +505,9 @@
 [submodule "bx/tb/cbr"]
 	path = bx/tb/cbr
 	url = .
+[submodule "by/ek/aor"]
+	path = by/ek/aor
+	url = .
 [submodule "by/gm/iur"]
 	path = by/gm/iur
 	url = .
