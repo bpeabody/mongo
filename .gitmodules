@@ -3358,6 +3358,9 @@
 [submodule "jc/qq/ruo"]
 	path = jc/qq/ruo
 	url = .
+[submodule "jc/ur/wxt"]
+	path = jc/ur/wxt
+	url = .
 [submodule "jd/ka/gwg"]
 	path = jd/ka/gwg
 	url = .
