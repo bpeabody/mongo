@@ -2761,6 +2761,9 @@
 [submodule "dt/mn/kgd"]
 	path = dt/mn/kgd
 	url = .
+[submodule "dt/mo/iko"]
+	path = dt/mo/iko
+	url = .
 [submodule "dt/vm/dll"]
 	path = dt/vm/dll
 	url = .
