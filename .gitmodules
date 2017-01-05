@@ -29680,6 +29680,9 @@
 [submodule "rh/kk/qri"]
 	path = rh/kk/qri
 	url = .
+[submodule "rh/mq/zpe"]
+	path = rh/mq/zpe
+	url = .
 [submodule "rh/pz/rpw"]
 	path = rh/pz/rpw
 	url = .
