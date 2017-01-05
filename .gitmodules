@@ -28576,6 +28576,9 @@
 [submodule "rt/mt/gkg"]
 	path = rt/mt/gkg
 	url = .
+[submodule "rt/my/msr"]
+	path = rt/my/msr
+	url = .
 [submodule "rt/pd/swk"]
 	path = rt/pd/swk
 	url = .
