@@ -11113,6 +11113,9 @@
 [submodule "ob/sg/kbv"]
 	path = ob/sg/kbv
 	url = .
+[submodule "ob/ue/lmr"]
+	path = ob/ue/lmr
+	url = .
 [submodule "ob/xk/pqg"]
 	path = ob/xk/pqg
 	url = .
