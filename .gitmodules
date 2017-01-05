@@ -9634,6 +9634,9 @@
 [submodule "jr/rn/thg"]
 	path = jr/rn/thg
 	url = .
+[submodule "jr/ue/lgr"]
+	path = jr/ue/lgr
+	url = .
 [submodule "jr/ut/mag"]
 	path = jr/ut/mag
 	url = .
