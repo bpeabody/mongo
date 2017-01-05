@@ -10078,6 +10078,9 @@
 [submodule "xx/xg/wav"]
 	path = xx/xg/wav
 	url = .
+[submodule "xy/gv/kyb"]
+	path = xy/gv/kyb
+	url = .
 [submodule "xy/pr/hcb"]
 	path = xy/pr/hcb
 	url = .
