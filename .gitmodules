@@ -3913,6 +3913,9 @@
 [submodule "fv/jq/hnv"]
 	path = fv/jq/hnv
 	url = .
+[submodule "fv/pe/jcv"]
+	path = fv/pe/jcv
+	url = .
 [submodule "fv/pk/loc"]
 	path = fv/pk/loc
 	url = .
