@@ -48271,6 +48271,9 @@
 [submodule "yw/sp/lus"]
 	path = yw/sp/lus
 	url = .
+[submodule "yw/tb/qcs"]
+	path = yw/tb/qcs
+	url = .
 [submodule "yw/ue/lxy"]
 	path = yw/ue/lxy
 	url = .
