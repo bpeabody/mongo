@@ -2881,6 +2881,9 @@
 [submodule "dk/ot/zwp"]
 	path = dk/ot/zwp
 	url = .
+[submodule "dk/qe/lgi"]
+	path = dk/qe/lgi
+	url = .
 [submodule "dk/st/jcx"]
 	path = dk/st/jcx
 	url = .
