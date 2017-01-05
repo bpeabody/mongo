@@ -39526,6 +39526,9 @@
 [submodule "xy/ug/mhq"]
 	path = xy/ug/mhq
 	url = .
+[submodule "xy/wg/bun"]
+	path = xy/wg/bun
+	url = .
 [submodule "xy/xk/voc"]
 	path = xy/xk/voc
 	url = .
