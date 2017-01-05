@@ -13738,6 +13738,9 @@
 [submodule "um/cf/sqk"]
 	path = um/cf/sqk
 	url = .
+[submodule "um/dv/knd"]
+	path = um/dv/knd
+	url = .
 [submodule "um/lg/wsb"]
 	path = um/lg/wsb
 	url = .
