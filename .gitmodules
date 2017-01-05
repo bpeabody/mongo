@@ -15010,6 +15010,9 @@
 [submodule "ko/ur/zhf"]
 	path = ko/ur/zhf
 	url = .
+[submodule "ko/vy/lxp"]
+	path = ko/vy/lxp
+	url = .
 [submodule "ko/xh/ucl"]
 	path = ko/xh/ucl
 	url = .
