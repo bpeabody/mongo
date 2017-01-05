@@ -20350,6 +20350,9 @@
 [submodule "uc/pe/lcz"]
 	path = uc/pe/lcz
 	url = .
+[submodule "uc/px/lcq"]
+	path = uc/px/lcq
+	url = .
 [submodule "uc/qj/kyo"]
 	path = uc/qj/kyo
 	url = .
