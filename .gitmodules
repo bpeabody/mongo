@@ -26395,6 +26395,9 @@
 [submodule "sc/am/zyj"]
 	path = sc/am/zyj
 	url = .
+[submodule "sc/bm/hud"]
+	path = sc/bm/hud
+	url = .
 [submodule "sc/bs/tgl"]
 	path = sc/bs/tgl
 	url = .
