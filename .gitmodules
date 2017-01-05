@@ -20431,6 +20431,9 @@
 [submodule "yx/sq/uyo"]
 	path = yx/sq/uyo
 	url = .
+[submodule "yx/vj/uqi"]
+	path = yx/vj/uqi
+	url = .
 [submodule "yx/vp/nmk"]
 	path = yx/vp/nmk
 	url = .
