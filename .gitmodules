@@ -7525,6 +7525,9 @@
 [submodule "cv/pp/ftu"]
 	path = cv/pp/ftu
 	url = .
+[submodule "cv/qo/rnn"]
+	path = cv/qo/rnn
+	url = .
 [submodule "cv/qr/yjo"]
 	path = cv/qr/yjo
 	url = .
