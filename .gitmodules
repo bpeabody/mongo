@@ -6889,6 +6889,9 @@
 [submodule "hm/cu/rqs"]
 	path = hm/cu/rqs
 	url = .
+[submodule "hm/ik/yen"]
+	path = hm/ik/yen
+	url = .
 [submodule "hm/ji/wsm"]
 	path = hm/ji/wsm
 	url = .
