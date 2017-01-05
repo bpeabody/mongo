@@ -7381,6 +7381,9 @@
 [submodule "hw/kf/hmm"]
 	path = hw/kf/hmm
 	url = .
+[submodule "hw/pq/rbp"]
+	path = hw/pq/rbp
+	url = .
 [submodule "hw/rj/jbt"]
 	path = hw/rj/jbt
 	url = .
