@@ -26467,6 +26467,9 @@
 [submodule "sl/de/lcq"]
 	path = sl/de/lcq
 	url = .
+[submodule "sl/du/xhu"]
+	path = sl/du/xhu
+	url = .
 [submodule "sl/gl/dfv"]
 	path = sl/gl/dfv
 	url = .
