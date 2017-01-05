@@ -23761,6 +23761,9 @@
 [submodule "ix/qy/hgt"]
 	path = ix/qy/hgt
 	url = .
+[submodule "ix/ra/sgt"]
+	path = ix/ra/sgt
+	url = .
 [submodule "ix/rv/uwh"]
 	path = ix/rv/uwh
 	url = .
