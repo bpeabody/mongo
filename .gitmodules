@@ -29281,6 +29281,9 @@
 [submodule "mb/my/rjq"]
 	path = mb/my/rjq
 	url = .
+[submodule "mb/oc/hhy"]
+	path = mb/oc/hhy
+	url = .
 [submodule "mb/od/pkx"]
 	path = mb/od/pkx
 	url = .
