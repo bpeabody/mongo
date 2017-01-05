@@ -35875,6 +35875,9 @@
 [submodule "nw/fi/svf"]
 	path = nw/fi/svf
 	url = .
+[submodule "nw/fq/ekg"]
+	path = nw/fq/ekg
+	url = .
 [submodule "nw/hn/dxv"]
 	path = nw/hn/dxv
 	url = .
