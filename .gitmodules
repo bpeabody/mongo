@@ -67876,6 +67876,9 @@
 [submodule "wr/ev/llc"]
 	path = wr/ev/llc
 	url = .
+[submodule "wr/gn/joo"]
+	path = wr/gn/joo
+	url = .
 [submodule "wr/hn/yvf"]
 	path = wr/hn/yvf
 	url = .
