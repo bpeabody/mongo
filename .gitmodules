@@ -769,6 +769,9 @@
 [submodule "dm/bl/qpn"]
 	path = dm/bl/qpn
 	url = .
+[submodule "dm/ir/lvl"]
+	path = dm/ir/lvl
+	url = .
 [submodule "dm/jl/pvg"]
 	path = dm/jl/pvg
 	url = .
