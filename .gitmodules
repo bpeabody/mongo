@@ -8536,6 +8536,9 @@
 [submodule "fj/gj/emx"]
 	path = fj/gj/emx
 	url = .
+[submodule "fj/ir/fce"]
+	path = fj/ir/fce
+	url = .
 [submodule "fj/jn/cga"]
 	path = fj/jn/cga
 	url = .
