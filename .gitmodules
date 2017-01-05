@@ -16126,6 +16126,9 @@
 [submodule "ow/id/wvc"]
 	path = ow/id/wvc
 	url = .
+[submodule "ow/iv/wig"]
+	path = ow/iv/wig
+	url = .
 [submodule "ow/jk/gvj"]
 	path = ow/jk/gvj
 	url = .
