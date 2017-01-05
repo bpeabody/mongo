@@ -40636,6 +40636,9 @@
 [submodule "ux/yf/uxw"]
 	path = ux/yf/uxw
 	url = .
+[submodule "ux/yu/cpc"]
+	path = ux/yu/cpc
+	url = .
 [submodule "ux/yw/dnv"]
 	path = ux/yw/dnv
 	url = .
