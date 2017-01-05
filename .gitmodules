@@ -3559,6 +3559,9 @@
 [submodule "hy/pe/psp"]
 	path = hy/pe/psp
 	url = .
+[submodule "hy/qj/fia"]
+	path = hy/qj/fia
+	url = .
 [submodule "hy/se/nlt"]
 	path = hy/se/nlt
 	url = .
