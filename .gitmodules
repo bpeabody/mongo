@@ -2881,6 +2881,9 @@
 [submodule "cy/rw/czf"]
 	path = cy/rw/czf
 	url = .
+[submodule "cy/th/sgc"]
+	path = cy/th/sgc
+	url = .
 [submodule "cy/vc/wik"]
 	path = cy/vc/wik
 	url = .
