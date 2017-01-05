@@ -4972,6 +4972,9 @@
 [submodule "nd/jf/uor"]
 	path = nd/jf/uor
 	url = .
+[submodule "nd/pl/awz"]
+	path = nd/pl/awz
+	url = .
 [submodule "nd/qb/ija"]
 	path = nd/qb/ija
 	url = .
