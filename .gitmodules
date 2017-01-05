@@ -49909,6 +49909,9 @@
 [submodule "tj/cs/tdn"]
 	path = tj/cs/tdn
 	url = .
+[submodule "tj/fk/qdw"]
+	path = tj/fk/qdw
+	url = .
 [submodule "tj/fy/wcw"]
 	path = tj/fy/wcw
 	url = .
