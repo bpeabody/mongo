@@ -20158,6 +20158,9 @@
 [submodule "na/jg/oce"]
 	path = na/jg/oce
 	url = .
+[submodule "na/kw/utt"]
+	path = na/kw/utt
+	url = .
 [submodule "na/lo/nqu"]
 	path = na/lo/nqu
 	url = .
