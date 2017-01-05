@@ -9655,6 +9655,9 @@
 [submodule "uf/ay/ekp"]
 	path = uf/ay/ekp
 	url = .
+[submodule "uf/dg/lbi"]
+	path = uf/dg/lbi
+	url = .
 [submodule "uf/ig/qsm"]
 	path = uf/ig/qsm
 	url = .
