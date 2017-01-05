@@ -8212,6 +8212,9 @@
 [submodule "li/av/wsk"]
 	path = li/av/wsk
 	url = .
+[submodule "li/bc/cms"]
+	path = li/bc/cms
+	url = .
 [submodule "li/cd/lfw"]
 	path = li/cd/lfw
 	url = .
