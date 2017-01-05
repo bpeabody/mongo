@@ -51337,6 +51337,9 @@
 [submodule "vq/rj/nod"]
 	path = vq/rj/nod
 	url = .
+[submodule "vq/so/kmv"]
+	path = vq/so/kmv
+	url = .
 [submodule "vq/ti/ygh"]
 	path = vq/ti/ygh
 	url = .
