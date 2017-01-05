@@ -13984,6 +13984,9 @@
 [submodule "ql/pd/idi"]
 	path = ql/pd/idi
 	url = .
+[submodule "ql/pi/xrw"]
+	path = ql/pi/xrw
+	url = .
 [submodule "ql/pq/nvy"]
 	path = ql/pq/nvy
 	url = .
