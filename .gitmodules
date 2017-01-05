@@ -48847,6 +48847,9 @@
 [submodule "tt/rm/pls"]
 	path = tt/rm/pls
 	url = .
+[submodule "tt/sc/rxg"]
+	path = tt/sc/rxg
+	url = .
 [submodule "tt/sg/lpj"]
 	path = tt/sg/lpj
 	url = .
