@@ -5605,6 +5605,9 @@
 [submodule "cd/iu/bqv"]
 	path = cd/iu/bqv
 	url = .
+[submodule "cd/ix/mzn"]
+	path = cd/ix/mzn
+	url = .
 [submodule "cd/mk/lal"]
 	path = cd/mk/lal
 	url = .
