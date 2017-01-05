@@ -1426,6 +1426,9 @@
 [submodule "cr/gp/tjf"]
 	path = cr/gp/tjf
 	url = .
+[submodule "cr/hd/djl"]
+	path = cr/hd/djl
+	url = .
 [submodule "cr/me/kja"]
 	path = cr/me/kja
 	url = .
