@@ -26596,6 +26596,9 @@
 [submodule "rj/cf/ypv"]
 	path = rj/cf/ypv
 	url = .
+[submodule "rj/de/hit"]
+	path = rj/de/hit
+	url = .
 [submodule "rj/dm/obm"]
 	path = rj/dm/obm
 	url = .
