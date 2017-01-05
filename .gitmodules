@@ -36940,6 +36940,9 @@
 [submodule "rm/xn/emh"]
 	path = rm/xn/emh
 	url = .
+[submodule "rm/ya/fas"]
+	path = rm/ya/fas
+	url = .
 [submodule "rm/yt/uhd"]
 	path = rm/yt/uhd
 	url = .
