@@ -70462,6 +70462,9 @@
 [submodule "xl/gk/djf"]
 	path = xl/gk/djf
 	url = .
+[submodule "xl/gy/yai"]
+	path = xl/gy/yai
+	url = .
 [submodule "xl/ka/rzz"]
 	path = xl/ka/rzz
 	url = .
