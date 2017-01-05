@@ -9778,6 +9778,9 @@
 [submodule "hi/hh/qbc"]
 	path = hi/hh/qbc
 	url = .
+[submodule "hi/ig/sgg"]
+	path = hi/ig/sgg
+	url = .
 [submodule "hi/io/ijx"]
 	path = hi/io/ijx
 	url = .
