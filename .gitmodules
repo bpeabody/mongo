@@ -39559,6 +39559,9 @@
 [submodule "nh/ij/qjt"]
 	path = nh/ij/qjt
 	url = .
+[submodule "nh/in/ldd"]
+	path = nh/in/ldd
+	url = .
 [submodule "nh/je/lzx"]
 	path = nh/je/lzx
 	url = .
