@@ -4402,6 +4402,9 @@
 [submodule "ig/na/bus"]
 	path = ig/na/bus
 	url = .
+[submodule "ig/ql/seo"]
+	path = ig/ql/seo
+	url = .
 [submodule "ig/ra/rio"]
 	path = ig/ra/rio
 	url = .
