@@ -3232,6 +3232,9 @@
 [submodule "pf/uf/wtx"]
 	path = pf/uf/wtx
 	url = .
+[submodule "pf/uo/cpa"]
+	path = pf/uo/cpa
+	url = .
 [submodule "pg/ad/tjp"]
 	path = pg/ad/tjp
 	url = .
