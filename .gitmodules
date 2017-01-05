@@ -18592,6 +18592,9 @@
 [submodule "yv/ft/ovg"]
 	path = yv/ft/ovg
 	url = .
+[submodule "yv/ie/jmj"]
+	path = yv/ie/jmj
+	url = .
 [submodule "yv/kt/dqw"]
 	path = yv/kt/dqw
 	url = .
