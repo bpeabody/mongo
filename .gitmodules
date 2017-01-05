@@ -8653,6 +8653,9 @@
 [submodule "ep/dt/ktq"]
 	path = ep/dt/ktq
 	url = .
+[submodule "ep/eg/rmb"]
+	path = ep/eg/rmb
+	url = .
 [submodule "ep/eh/ppp"]
 	path = ep/eh/ppp
 	url = .
