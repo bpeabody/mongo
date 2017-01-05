@@ -23011,6 +23011,9 @@
 [submodule "hr/xa/tjl"]
 	path = hr/xa/tjl
 	url = .
+[submodule "hr/ya/adv"]
+	path = hr/ya/adv
+	url = .
 [submodule "hr/yc/vvu"]
 	path = hr/yc/vvu
 	url = .
