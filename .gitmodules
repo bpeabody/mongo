@@ -22768,6 +22768,9 @@
 [submodule "yg/sf/hne"]
 	path = yg/sf/hne
 	url = .
+[submodule "yg/ss/gkl"]
+	path = yg/ss/gkl
+	url = .
 [submodule "yg/ud/laz"]
 	path = yg/ud/laz
 	url = .
