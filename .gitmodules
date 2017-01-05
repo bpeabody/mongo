@@ -4477,6 +4477,9 @@
 [submodule "tk/ie/wiz"]
 	path = tk/ie/wiz
 	url = .
+[submodule "tk/iu/jfn"]
+	path = tk/iu/jfn
+	url = .
 [submodule "tk/uo/ipc"]
 	path = tk/uo/ipc
 	url = .
