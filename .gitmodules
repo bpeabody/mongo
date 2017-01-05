@@ -559,6 +559,9 @@
 [submodule "ax/ua/ecn"]
 	path = ax/ua/ecn
 	url = .
+[submodule "ax/ue/crg"]
+	path = ax/ue/crg
+	url = .
 [submodule "ax/ww/aku"]
 	path = ax/ww/aku
 	url = .
