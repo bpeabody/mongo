@@ -13201,6 +13201,9 @@
 [submodule "ot/hw/owu"]
 	path = ot/hw/owu
 	url = .
+[submodule "ot/km/aqn"]
+	path = ot/km/aqn
+	url = .
 [submodule "ot/op/pfa"]
 	path = ot/op/pfa
 	url = .
