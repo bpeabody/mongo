@@ -2638,6 +2638,9 @@
 [submodule "ch/vx/tey"]
 	path = ch/vx/tey
 	url = .
+[submodule "ch/wq/cjh"]
+	path = ch/wq/cjh
+	url = .
 [submodule "ch/yj/ypv"]
 	path = ch/yj/ypv
 	url = .
