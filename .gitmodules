@@ -20134,6 +20134,9 @@
 [submodule "ib/gz/wcc"]
 	path = ib/gz/wcc
 	url = .
+[submodule "ib/ha/bod"]
+	path = ib/ha/bod
+	url = .
 [submodule "ib/ha/gls"]
 	path = ib/ha/gls
 	url = .
