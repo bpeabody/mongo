@@ -1420,6 +1420,9 @@
 [submodule "ar/dr/xlo"]
 	path = ar/dr/xlo
 	url = .
+[submodule "ar/ef/hwn"]
+	path = ar/ef/hwn
+	url = .
 [submodule "ar/hb/aqy"]
 	path = ar/hb/aqy
 	url = .
