@@ -33187,6 +33187,9 @@
 [submodule "vx/xm/oct"]
 	path = vx/xm/oct
 	url = .
+[submodule "vx/yx/khi"]
+	path = vx/yx/khi
+	url = .
 [submodule "vx/zm/bgk"]
 	path = vx/zm/bgk
 	url = .
