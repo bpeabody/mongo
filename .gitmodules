@@ -10702,6 +10702,9 @@
 [submodule "sg/ql/xrk"]
 	path = sg/ql/xrk
 	url = .
+[submodule "sg/ux/kgs"]
+	path = sg/ux/kgs
+	url = .
 [submodule "sg/vn/oaf"]
 	path = sg/vn/oaf
 	url = .
