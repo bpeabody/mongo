@@ -28018,6 +28018,9 @@
 [submodule "vf/rn/wqh"]
 	path = vf/rn/wqh
 	url = .
+[submodule "vf/rv/ksp"]
+	path = vf/rv/ksp
+	url = .
 [submodule "vf/se/hwb"]
 	path = vf/se/hwb
 	url = .
