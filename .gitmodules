@@ -50932,6 +50932,9 @@
 [submodule "vz/lg/nfx"]
 	path = vz/lg/nfx
 	url = .
+[submodule "vz/lk/dxk"]
+	path = vz/lk/dxk
+	url = .
 [submodule "vz/mg/kua"]
 	path = vz/mg/kua
 	url = .
