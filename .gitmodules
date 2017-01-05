@@ -24694,6 +24694,9 @@
 [submodule "im/uq/ckl"]
 	path = im/uq/ckl
 	url = .
+[submodule "im/ve/exd"]
+	path = im/ve/exd
+	url = .
 [submodule "im/vo/xhd"]
 	path = im/vo/xhd
 	url = .
