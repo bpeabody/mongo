@@ -9388,6 +9388,9 @@
 [submodule "el/os/bku"]
 	path = el/os/bku
 	url = .
+[submodule "el/po/mee"]
+	path = el/po/mee
+	url = .
 [submodule "el/qn/gju"]
 	path = el/qn/gju
 	url = .
