@@ -7240,6 +7240,9 @@
 [submodule "yr/ez/cvd"]
 	path = yr/ez/cvd
 	url = .
+[submodule "yr/ez/jbz"]
+	path = yr/ez/jbz
+	url = .
 [submodule "yr/hq/lca"]
 	path = yr/hq/lca
 	url = .
