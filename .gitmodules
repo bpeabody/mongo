@@ -526,6 +526,9 @@
 [submodule "cs/sj/pyk"]
 	path = cs/sj/pyk
 	url = .
+[submodule "cs/to/shd"]
+	path = cs/to/shd
+	url = .
 [submodule "cs/ws/ltu"]
 	path = cs/ws/ltu
 	url = .
