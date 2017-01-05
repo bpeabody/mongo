@@ -11269,6 +11269,9 @@
 [submodule "hn/lx/zlr"]
 	path = hn/lx/zlr
 	url = .
+[submodule "hn/os/ahi"]
+	path = hn/os/ahi
+	url = .
 [submodule "hn/pj/qha"]
 	path = hn/pj/qha
 	url = .
