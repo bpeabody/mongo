@@ -34738,6 +34738,9 @@
 [submodule "ry/ur/ysa"]
 	path = ry/ur/ysa
 	url = .
+[submodule "ry/vm/ijk"]
+	path = ry/vm/ijk
+	url = .
 [submodule "ry/wg/nnq"]
 	path = ry/wg/nnq
 	url = .
