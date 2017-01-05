@@ -9220,6 +9220,9 @@
 [submodule "mw/qk/voy"]
 	path = mw/qk/voy
 	url = .
+[submodule "mw/rs/vka"]
+	path = mw/rs/vka
+	url = .
 [submodule "mw/tw/czo"]
 	path = mw/tw/czo
 	url = .
