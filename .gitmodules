@@ -1054,6 +1054,9 @@
 [submodule "bi/wv/mxb"]
 	path = bi/wv/mxb
 	url = .
+[submodule "bi/wz/xxl"]
+	path = bi/wz/xxl
+	url = .
 [submodule "bi/ya/zbk"]
 	path = bi/ya/zbk
 	url = .
