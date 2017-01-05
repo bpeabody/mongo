@@ -31666,6 +31666,9 @@
 [submodule "vg/kq/xpo"]
 	path = vg/kq/xpo
 	url = .
+[submodule "vg/lb/daj"]
+	path = vg/lb/daj
+	url = .
 [submodule "vg/le/lfe"]
 	path = vg/le/lfe
 	url = .
