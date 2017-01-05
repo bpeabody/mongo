@@ -54019,6 +54019,9 @@
 [submodule "si/ms/ljp"]
 	path = si/ms/ljp
 	url = .
+[submodule "si/no/odj"]
+	path = si/no/odj
+	url = .
 [submodule "si/nw/mxa"]
 	path = si/nw/mxa
 	url = .
