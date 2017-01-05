@@ -2758,6 +2758,9 @@
 [submodule "cb/zo/lur"]
 	path = cb/zo/lur
 	url = .
+[submodule "cc/bj/khr"]
+	path = cc/bj/khr
+	url = .
 [submodule "cc/bx/wsy"]
 	path = cc/bx/wsy
 	url = .
