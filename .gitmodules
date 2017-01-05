@@ -3421,6 +3421,9 @@
 [submodule "wj/je/lff"]
 	path = wj/je/lff
 	url = .
+[submodule "wj/ks/qir"]
+	path = wj/ks/qir
+	url = .
 [submodule "wk/dk/gtz"]
 	path = wk/dk/gtz
 	url = .
