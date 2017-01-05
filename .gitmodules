@@ -28678,6 +28678,9 @@
 [submodule "tc/oq/pup"]
 	path = tc/oq/pup
 	url = .
+[submodule "tc/ta/vne"]
+	path = tc/ta/vne
+	url = .
 [submodule "tc/ub/wtd"]
 	path = tc/ub/wtd
 	url = .
