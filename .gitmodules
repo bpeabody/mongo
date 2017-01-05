@@ -3502,6 +3502,9 @@
 [submodule "bq/vk/lqk"]
 	path = bq/vk/lqk
 	url = .
+[submodule "bq/wn/wmx"]
+	path = bq/wn/wmx
+	url = .
 [submodule "bq/wq/ezi"]
 	path = bq/wq/ezi
 	url = .
