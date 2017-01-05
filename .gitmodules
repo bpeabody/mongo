@@ -11176,6 +11176,9 @@
 [submodule "lp/vu/pan"]
 	path = lp/vu/pan
 	url = .
+[submodule "lp/wt/ljd"]
+	path = lp/wt/ljd
+	url = .
 [submodule "lp/xx/uep"]
 	path = lp/xx/uep
 	url = .
