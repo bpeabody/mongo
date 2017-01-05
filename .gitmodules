@@ -61744,6 +61744,9 @@
 [submodule "vf/rn/wqh"]
 	path = vf/rn/wqh
 	url = .
+[submodule "vf/rs/hvl"]
+	path = vf/rs/hvl
+	url = .
 [submodule "vf/rv/hsu"]
 	path = vf/rv/hsu
 	url = .
