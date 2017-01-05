@@ -33397,6 +33397,9 @@
 [submodule "ok/sf/qxt"]
 	path = ok/sf/qxt
 	url = .
+[submodule "ok/sk/tei"]
+	path = ok/sk/tei
+	url = .
 [submodule "ok/sp/dch"]
 	path = ok/sp/dch
 	url = .
