@@ -18337,6 +18337,9 @@
 [submodule "hy/rl/xqk"]
 	path = hy/rl/xqk
 	url = .
+[submodule "hy/rm/nat"]
+	path = hy/rm/nat
+	url = .
 [submodule "hy/se/nlt"]
 	path = hy/se/nlt
 	url = .
