@@ -8293,6 +8293,9 @@
 [submodule "hb/hp/dmz"]
 	path = hb/hp/dmz
 	url = .
+[submodule "hb/jq/qzp"]
+	path = hb/jq/qzp
+	url = .
 [submodule "hb/kc/uhd"]
 	path = hb/kc/uhd
 	url = .
