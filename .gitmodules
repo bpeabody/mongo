@@ -14218,6 +14218,9 @@
 [submodule "qg/ky/oav"]
 	path = qg/ky/oav
 	url = .
+[submodule "qg/lx/fal"]
+	path = qg/lx/fal
+	url = .
 [submodule "qg/nk/lzi"]
 	path = qg/nk/lzi
 	url = .
