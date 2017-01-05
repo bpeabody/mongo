@@ -2101,6 +2101,9 @@
 [submodule "ii/mx/rgq"]
 	path = ii/mx/rgq
 	url = .
+[submodule "ii/sv/yun"]
+	path = ii/sv/yun
+	url = .
 [submodule "ii/xx/ufi"]
 	path = ii/xx/ufi
 	url = .
