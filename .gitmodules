@@ -11263,6 +11263,9 @@
 [submodule "ht/oo/lhx"]
 	path = ht/oo/lhx
 	url = .
+[submodule "ht/qa/fbg"]
+	path = ht/qa/fbg
+	url = .
 [submodule "ht/qh/ylj"]
 	path = ht/qh/ylj
 	url = .
