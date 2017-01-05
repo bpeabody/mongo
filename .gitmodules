@@ -18790,6 +18790,9 @@
 [submodule "qe/xp/wit"]
 	path = qe/xp/wit
 	url = .
+[submodule "qe/xr/qey"]
+	path = qe/xr/qey
+	url = .
 [submodule "qe/xu/okj"]
 	path = qe/xu/okj
 	url = .
