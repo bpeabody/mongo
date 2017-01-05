@@ -40690,6 +40690,9 @@
 [submodule "re/wb/lyr"]
 	path = re/wb/lyr
 	url = .
+[submodule "re/wo/mhd"]
+	path = re/wo/mhd
+	url = .
 [submodule "re/xj/rkl"]
 	path = re/xj/rkl
 	url = .
