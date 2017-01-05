@@ -5089,6 +5089,9 @@
 [submodule "ha/fd/aby"]
 	path = ha/fd/aby
 	url = .
+[submodule "ha/kc/pfy"]
+	path = ha/kc/pfy
+	url = .
 [submodule "ha/lj/lqm"]
 	path = ha/lj/lqm
 	url = .
