@@ -5710,6 +5710,9 @@
 [submodule "yl/ir/cnt"]
 	path = yl/ir/cnt
 	url = .
+[submodule "ym/yc/hfv"]
+	path = ym/yc/hfv
+	url = .
 [submodule "yn/ah/mnc"]
 	path = yn/ah/mnc
 	url = .
