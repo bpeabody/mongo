@@ -3307,6 +3307,9 @@
 [submodule "xf/lv/rud"]
 	path = xf/lv/rud
 	url = .
+[submodule "xf/ot/djk"]
+	path = xf/ot/djk
+	url = .
 [submodule "xf/ou/lup"]
 	path = xf/ou/lup
 	url = .
