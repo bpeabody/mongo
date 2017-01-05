@@ -976,6 +976,9 @@
 [submodule "bq/un/rpi"]
 	path = bq/un/rpi
 	url = .
+[submodule "bq/wq/ezi"]
+	path = bq/wq/ezi
+	url = .
 [submodule "bq/xi/fte"]
 	path = bq/xi/fte
 	url = .
