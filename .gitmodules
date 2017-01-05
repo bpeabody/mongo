@@ -42817,6 +42817,9 @@
 [submodule "tr/yz/rbt"]
 	path = tr/yz/rbt
 	url = .
+[submodule "tr/zd/aqa"]
+	path = tr/zd/aqa
+	url = .
 [submodule "tr/zh/zrl"]
 	path = tr/zh/zrl
 	url = .
