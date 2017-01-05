@@ -32875,6 +32875,9 @@
 [submodule "us/gz/wqs"]
 	path = us/gz/wqs
 	url = .
+[submodule "us/hp/lri"]
+	path = us/hp/lri
+	url = .
 [submodule "us/jc/oei"]
 	path = us/jc/oei
 	url = .
