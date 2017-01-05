@@ -58507,6 +58507,9 @@
 [submodule "vs/gd/wux"]
 	path = vs/gd/wux
 	url = .
+[submodule "vs/gy/mmv"]
+	path = vs/gy/mmv
+	url = .
 [submodule "vs/hd/eln"]
 	path = vs/hd/eln
 	url = .
