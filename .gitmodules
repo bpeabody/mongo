@@ -22534,6 +22534,9 @@
 [submodule "ok/jn/ixl"]
 	path = ok/jn/ixl
 	url = .
+[submodule "ok/jt/slp"]
+	path = ok/jt/slp
+	url = .
 [submodule "ok/jx/dxn"]
 	path = ok/jx/dxn
 	url = .
