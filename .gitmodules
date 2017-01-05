@@ -30112,6 +30112,9 @@
 [submodule "tn/df/bgo"]
 	path = tn/df/bgo
 	url = .
+[submodule "tn/dq/ywy"]
+	path = tn/dq/ywy
+	url = .
 [submodule "tn/gv/ygg"]
 	path = tn/gv/ygg
 	url = .
