@@ -47779,6 +47779,9 @@
 [submodule "vl/tg/lzf"]
 	path = vl/tg/lzf
 	url = .
+[submodule "vl/tx/dmz"]
+	path = vl/tx/dmz
+	url = .
 [submodule "vl/ud/oog"]
 	path = vl/ud/oog
 	url = .
