@@ -55249,6 +55249,9 @@
 [submodule "tm/sg/uln"]
 	path = tm/sg/uln
 	url = .
+[submodule "tm/tg/lut"]
+	path = tm/tg/lut
+	url = .
 [submodule "tm/tz/svd"]
 	path = tm/tz/svd
 	url = .
