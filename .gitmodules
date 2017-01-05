@@ -26773,6 +26773,9 @@
 [submodule "kc/qp/vuz"]
 	path = kc/qp/vuz
 	url = .
+[submodule "kc/rb/wcc"]
+	path = kc/rb/wcc
+	url = .
 [submodule "kc/ru/uku"]
 	path = kc/ru/uku
 	url = .
