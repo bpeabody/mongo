@@ -7924,6 +7924,9 @@
 [submodule "en/pr/kfd"]
 	path = en/pr/kfd
 	url = .
+[submodule "en/qo/aop"]
+	path = en/qo/aop
+	url = .
 [submodule "en/ra/mev"]
 	path = en/ra/mev
 	url = .
