@@ -50680,6 +50680,9 @@
 [submodule "rf/om/bcv"]
 	path = rf/om/bcv
 	url = .
+[submodule "rf/oo/piq"]
+	path = rf/oo/piq
+	url = .
 [submodule "rf/or/nyj"]
 	path = rf/or/nyj
 	url = .
