@@ -32746,6 +32746,9 @@
 [submodule "mp/ns/vpa"]
 	path = mp/ns/vpa
 	url = .
+[submodule "mp/nw/wgk"]
+	path = mp/nw/wgk
+	url = .
 [submodule "mp/ob/jbc"]
 	path = mp/ob/jbc
 	url = .
