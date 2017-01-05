@@ -29215,6 +29215,9 @@
 [submodule "sk/dt/bst"]
 	path = sk/dt/bst
 	url = .
+[submodule "sk/im/dnd"]
+	path = sk/im/dnd
+	url = .
 [submodule "sk/iq/lku"]
 	path = sk/iq/lku
 	url = .
