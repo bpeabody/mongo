@@ -4078,6 +4078,9 @@
 [submodule "jp/mk/tqt"]
 	path = jp/mk/tqt
 	url = .
+[submodule "jp/tn/yrn"]
+	path = jp/tn/yrn
+	url = .
 [submodule "jp/to/cmv"]
 	path = jp/to/cmv
 	url = .
