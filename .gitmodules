@@ -1090,6 +1090,9 @@
 [submodule "ak/ee/vxa"]
 	path = ak/ee/vxa
 	url = .
+[submodule "ak/ei/yjj"]
+	path = ak/ei/yjj
+	url = .
 [submodule "ak/ey/bsl"]
 	path = ak/ey/bsl
 	url = .
