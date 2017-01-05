@@ -319,6 +319,9 @@
 [submodule "hs/nc/mmm"]
 	path = hs/nc/mmm
 	url = .
+[submodule "hu/uq/jpy"]
+	path = hu/uq/jpy
+	url = .
 [submodule "hx/lw/kgt"]
 	path = hx/lw/kgt
 	url = .
