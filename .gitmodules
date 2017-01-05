@@ -16570,6 +16570,9 @@
 [submodule "go/kf/reg"]
 	path = go/kf/reg
 	url = .
+[submodule "go/ks/jtq"]
+	path = go/ks/jtq
+	url = .
 [submodule "go/ma/hoo"]
 	path = go/ma/hoo
 	url = .
