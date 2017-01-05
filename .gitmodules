@@ -22813,6 +22813,9 @@
 [submodule "rm/tp/qpt"]
 	path = rm/tp/qpt
 	url = .
+[submodule "rm/vt/irr"]
+	path = rm/vt/irr
+	url = .
 [submodule "rm/xn/emh"]
 	path = rm/xn/emh
 	url = .
