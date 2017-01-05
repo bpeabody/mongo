@@ -844,6 +844,9 @@
 [submodule "az/qq/ose"]
 	path = az/qq/ose
 	url = .
+[submodule "az/rx/mjw"]
+	path = az/rx/mjw
+	url = .
 [submodule "az/vg/vcu"]
 	path = az/vg/vcu
 	url = .
