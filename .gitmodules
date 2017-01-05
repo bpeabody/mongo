@@ -7141,6 +7141,9 @@
 [submodule "gr/ah/oil"]
 	path = gr/ah/oil
 	url = .
+[submodule "gr/ax/yai"]
+	path = gr/ax/yai
+	url = .
 [submodule "gr/bo/uhs"]
 	path = gr/bo/uhs
 	url = .
