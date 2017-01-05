@@ -17170,6 +17170,9 @@
 [submodule "sb/ds/zge"]
 	path = sb/ds/zge
 	url = .
+[submodule "sb/dx/ayx"]
+	path = sb/dx/ayx
+	url = .
 [submodule "sb/na/neo"]
 	path = sb/na/neo
 	url = .
