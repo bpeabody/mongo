@@ -175,6 +175,9 @@
 [submodule "ac/jg/iga"]
 	path = ac/jg/iga
 	url = .
+[submodule "ac/jo/ndp"]
+	path = ac/jo/ndp
+	url = .
 [submodule "ac/kc/cct"]
 	path = ac/kc/cct
 	url = .
