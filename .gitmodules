@@ -4255,6 +4255,9 @@
 [submodule "iz/jo/pwm"]
 	path = iz/jo/pwm
 	url = .
+[submodule "iz/mk/cqn"]
+	path = iz/mk/cqn
+	url = .
 [submodule "ja/ba/smw"]
 	path = ja/ba/smw
 	url = .
