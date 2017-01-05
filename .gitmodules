@@ -8584,6 +8584,9 @@
 [submodule "ja/ol/mml"]
 	path = ja/ol/mml
 	url = .
+[submodule "ja/pt/hrt"]
+	path = ja/pt/hrt
+	url = .
 [submodule "ja/uc/ujc"]
 	path = ja/uc/ujc
 	url = .
