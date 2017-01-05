@@ -30874,6 +30874,9 @@
 [submodule "ve/dn/lgy"]
 	path = ve/dn/lgy
 	url = .
+[submodule "ve/du/hsw"]
+	path = ve/du/hsw
+	url = .
 [submodule "ve/ef/sne"]
 	path = ve/ef/sne
 	url = .
