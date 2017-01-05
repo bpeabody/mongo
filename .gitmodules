@@ -34186,6 +34186,9 @@
 [submodule "ll/fk/kdw"]
 	path = ll/fk/kdw
 	url = .
+[submodule "ll/fp/fqn"]
+	path = ll/fp/fqn
+	url = .
 [submodule "ll/gc/biu"]
 	path = ll/gc/biu
 	url = .
