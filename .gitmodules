@@ -1414,6 +1414,9 @@
 [submodule "gr/gm/ttj"]
 	path = gr/gm/ttj
 	url = .
+[submodule "gr/gv/qsm"]
+	path = gr/gv/qsm
+	url = .
 [submodule "gr/ii/qpy"]
 	path = gr/ii/qpy
 	url = .
