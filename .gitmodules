@@ -5119,6 +5119,9 @@
 [submodule "fu/ba/sif"]
 	path = fu/ba/sif
 	url = .
+[submodule "fu/bk/cze"]
+	path = fu/bk/cze
+	url = .
 [submodule "fu/cg/mlf"]
 	path = fu/cg/mlf
 	url = .
