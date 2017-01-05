@@ -30877,6 +30877,9 @@
 [submodule "qe/wd/bzb"]
 	path = qe/wd/bzb
 	url = .
+[submodule "qe/xb/qqm"]
+	path = qe/xb/qqm
+	url = .
 [submodule "qe/xp/wit"]
 	path = qe/xp/wit
 	url = .
