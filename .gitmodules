@@ -1354,6 +1354,9 @@
 [submodule "fy/uv/oma"]
 	path = fy/uv/oma
 	url = .
+[submodule "fy/ya/dtb"]
+	path = fy/ya/dtb
+	url = .
 [submodule "fz/lf/ubw"]
 	path = fz/lf/ubw
 	url = .
