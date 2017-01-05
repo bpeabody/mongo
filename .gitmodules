@@ -53281,6 +53281,9 @@
 [submodule "yt/pp/ufw"]
 	path = yt/pp/ufw
 	url = .
+[submodule "yt/re/jxg"]
+	path = yt/re/jxg
+	url = .
 [submodule "yt/ri/qcs"]
 	path = yt/ri/qcs
 	url = .
