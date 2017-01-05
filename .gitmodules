@@ -11086,6 +11086,9 @@
 [submodule "wb/iv/qhz"]
 	path = wb/iv/qhz
 	url = .
+[submodule "wb/jx/ijn"]
+	path = wb/jx/ijn
+	url = .
 [submodule "wb/qg/pqg"]
 	path = wb/qg/pqg
 	url = .
