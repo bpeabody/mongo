@@ -34324,6 +34324,9 @@
 [submodule "ni/te/jdt"]
 	path = ni/te/jdt
 	url = .
+[submodule "ni/uw/ynl"]
+	path = ni/uw/ynl
+	url = .
 [submodule "ni/vh/dbd"]
 	path = ni/vh/dbd
 	url = .
