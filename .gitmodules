@@ -18439,6 +18439,9 @@
 [submodule "ue/uc/kah"]
 	path = ue/uc/kah
 	url = .
+[submodule "ue/ue/yon"]
+	path = ue/ue/yon
+	url = .
 [submodule "ue/vq/lni"]
 	path = ue/vq/lni
 	url = .
