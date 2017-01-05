@@ -3727,6 +3727,9 @@
 [submodule "ec/nh/sae"]
 	path = ec/nh/sae
 	url = .
+[submodule "ec/ob/snz"]
+	path = ec/ob/snz
+	url = .
 [submodule "ec/oi/edr"]
 	path = ec/oi/edr
 	url = .
