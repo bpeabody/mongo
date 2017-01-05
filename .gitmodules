@@ -5596,6 +5596,9 @@
 [submodule "cu/lt/jfn"]
 	path = cu/lt/jfn
 	url = .
+[submodule "cu/ma/nly"]
+	path = cu/ma/nly
+	url = .
 [submodule "cu/nr/wuu"]
 	path = cu/nr/wuu
 	url = .
