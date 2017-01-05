@@ -5953,6 +5953,9 @@
 [submodule "cb/fe/spf"]
 	path = cb/fe/spf
 	url = .
+[submodule "cb/hc/wss"]
+	path = cb/hc/wss
+	url = .
 [submodule "cb/ho/ggm"]
 	path = cb/ho/ggm
 	url = .
