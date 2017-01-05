@@ -3766,6 +3766,9 @@
 [submodule "bv/cy/qvp"]
 	path = bv/cy/qvp
 	url = .
+[submodule "bv/fw/gib"]
+	path = bv/fw/gib
+	url = .
 [submodule "bv/gq/ctz"]
 	path = bv/gq/ctz
 	url = .
