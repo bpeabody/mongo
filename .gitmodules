@@ -3562,6 +3562,9 @@
 [submodule "bn/uh/yhc"]
 	path = bn/uh/yhc
 	url = .
+[submodule "bn/vy/xvn"]
+	path = bn/vy/xvn
+	url = .
 [submodule "bn/wf/mqn"]
 	path = bn/wf/mqn
 	url = .
