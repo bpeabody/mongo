@@ -20896,6 +20896,9 @@
 [submodule "jr/sj/scr"]
 	path = jr/sj/scr
 	url = .
+[submodule "jr/sn/aub"]
+	path = jr/sn/aub
+	url = .
 [submodule "jr/ue/fxq"]
 	path = jr/ue/fxq
 	url = .
