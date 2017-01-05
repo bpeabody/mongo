@@ -26266,6 +26266,9 @@
 [submodule "ts/so/qlp"]
 	path = ts/so/qlp
 	url = .
+[submodule "ts/sy/vbe"]
+	path = ts/sy/vbe
+	url = .
 [submodule "ts/uh/nvn"]
 	path = ts/uh/nvn
 	url = .
