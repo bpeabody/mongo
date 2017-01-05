@@ -6205,6 +6205,9 @@
 [submodule "dm/xh/orr"]
 	path = dm/xh/orr
 	url = .
+[submodule "dm/xp/nrv"]
+	path = dm/xp/nrv
+	url = .
 [submodule "dm/zr/dyd"]
 	path = dm/zr/dyd
 	url = .
