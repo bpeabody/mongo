@@ -12082,6 +12082,9 @@
 [submodule "ef/nu/xaj"]
 	path = ef/nu/xaj
 	url = .
+[submodule "ef/oj/ize"]
+	path = ef/oj/ize
+	url = .
 [submodule "ef/pj/lto"]
 	path = ef/pj/lto
 	url = .
