@@ -109,6 +109,9 @@
 [submodule "ab/lt/htq"]
 	path = ab/lt/htq
 	url = .
+[submodule "ab/ma/fkk"]
+	path = ab/ma/fkk
+	url = .
 [submodule "ab/mq/igq"]
 	path = ab/mq/igq
 	url = .
