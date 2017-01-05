@@ -19408,6 +19408,9 @@
 [submodule "uf/zu/esb"]
 	path = uf/zu/esb
 	url = .
+[submodule "ug/gw/qgv"]
+	path = ug/gw/qgv
+	url = .
 [submodule "ug/nj/kxd"]
 	path = ug/nj/kxd
 	url = .
