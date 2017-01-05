@@ -8311,6 +8311,9 @@
 [submodule "qa/mk/zpj"]
 	path = qa/mk/zpj
 	url = .
+[submodule "qa/ne/kqw"]
+	path = qa/ne/kqw
+	url = .
 [submodule "qa/ve/udk"]
 	path = qa/ve/udk
 	url = .
