@@ -3598,6 +3598,9 @@
 [submodule "im/cb/hrk"]
 	path = im/cb/hrk
 	url = .
+[submodule "im/du/kby"]
+	path = im/du/kby
+	url = .
 [submodule "im/mm/xsc"]
 	path = im/mm/xsc
 	url = .
