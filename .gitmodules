@@ -51571,6 +51571,9 @@
 [submodule "rv/wh/qlu"]
 	path = rv/wh/qlu
 	url = .
+[submodule "rv/wn/uki"]
+	path = rv/wn/uki
+	url = .
 [submodule "rv/xw/dzt"]
 	path = rv/xw/dzt
 	url = .
