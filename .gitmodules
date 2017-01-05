@@ -13477,6 +13477,9 @@
 [submodule "zx/pd/eoh"]
 	path = zx/pd/eoh
 	url = .
+[submodule "zx/sm/eui"]
+	path = zx/sm/eui
+	url = .
 [submodule "zx/sx/brz"]
 	path = zx/sx/brz
 	url = .
