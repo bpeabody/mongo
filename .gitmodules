@@ -15283,6 +15283,9 @@
 [submodule "sx/mi/flp"]
 	path = sx/mi/flp
 	url = .
+[submodule "sx/ms/wxg"]
+	path = sx/ms/wxg
+	url = .
 [submodule "sx/pf/emf"]
 	path = sx/pf/emf
 	url = .
