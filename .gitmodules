@@ -40387,6 +40387,9 @@
 [submodule "ys/fq/elc"]
 	path = ys/fq/elc
 	url = .
+[submodule "ys/kb/aeb"]
+	path = ys/kb/aeb
+	url = .
 [submodule "ys/kd/ked"]
 	path = ys/kd/ked
 	url = .
