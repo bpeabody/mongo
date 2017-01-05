@@ -8065,6 +8065,9 @@
 [submodule "tu/or/cfi"]
 	path = tu/or/cfi
 	url = .
+[submodule "tu/pq/mhb"]
+	path = tu/pq/mhb
+	url = .
 [submodule "tu/zx/shz"]
 	path = tu/zx/shz
 	url = .
