@@ -17581,6 +17581,9 @@
 [submodule "va/vp/dbd"]
 	path = va/vp/dbd
 	url = .
+[submodule "vb/ey/nro"]
+	path = vb/ey/nro
+	url = .
 [submodule "vb/ht/dnx"]
 	path = vb/ht/dnx
 	url = .
