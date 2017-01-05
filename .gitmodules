@@ -13513,6 +13513,9 @@
 [submodule "vr/zr/mrj"]
 	path = vr/zr/mrj
 	url = .
+[submodule "vs/ai/gqs"]
+	path = vs/ai/gqs
+	url = .
 [submodule "vs/eo/bxq"]
 	path = vs/eo/bxq
 	url = .
