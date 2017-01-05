@@ -13627,6 +13627,9 @@
 [submodule "ga/pg/jpl"]
 	path = ga/pg/jpl
 	url = .
+[submodule "ga/ua/nng"]
+	path = ga/ua/nng
+	url = .
 [submodule "ga/uf/sjv"]
 	path = ga/uf/sjv
 	url = .
