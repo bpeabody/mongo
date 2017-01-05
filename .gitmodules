@@ -32695,6 +32695,9 @@
 [submodule "mg/lw/ehr"]
 	path = mg/lw/ehr
 	url = .
+[submodule "mg/ma/fxp"]
+	path = mg/ma/fxp
+	url = .
 [submodule "mg/mr/ekn"]
 	path = mg/mr/ekn
 	url = .
