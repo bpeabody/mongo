@@ -30004,6 +30004,9 @@
 [submodule "zq/wo/xfr"]
 	path = zq/wo/xfr
 	url = .
+[submodule "zq/wy/xkc"]
+	path = zq/wy/xkc
+	url = .
 [submodule "zq/zc/nxn"]
 	path = zq/zc/nxn
 	url = .
