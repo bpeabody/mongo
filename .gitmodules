@@ -271,6 +271,9 @@
 [submodule "ao/ab/wvj"]
 	path = ao/ab/wvj
 	url = .
+[submodule "ao/db/zpp"]
+	path = ao/db/zpp
+	url = .
 [submodule "ao/fo/bcc"]
 	path = ao/fo/bcc
 	url = .
