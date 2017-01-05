@@ -10981,6 +10981,9 @@
 [submodule "kz/uf/buv"]
 	path = kz/uf/buv
 	url = .
+[submodule "kz/zz/khp"]
+	path = kz/zz/khp
+	url = .
 [submodule "la/ao/bes"]
 	path = la/ao/bes
 	url = .
