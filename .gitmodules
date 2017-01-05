@@ -34972,6 +34972,9 @@
 [submodule "qh/wr/vng"]
 	path = qh/wr/vng
 	url = .
+[submodule "qh/xm/vho"]
+	path = qh/xm/vho
+	url = .
 [submodule "qh/xr/zsl"]
 	path = qh/xr/zsl
 	url = .
