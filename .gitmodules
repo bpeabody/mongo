@@ -26983,6 +26983,9 @@
 [submodule "yy/js/fse"]
 	path = yy/js/fse
 	url = .
+[submodule "yy/kd/dzj"]
+	path = yy/kd/dzj
+	url = .
 [submodule "yy/kj/zws"]
 	path = yy/kj/zws
 	url = .
