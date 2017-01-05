@@ -9823,6 +9823,9 @@
 [submodule "lv/ky/man"]
 	path = lv/ky/man
 	url = .
+[submodule "lv/md/aww"]
+	path = lv/md/aww
+	url = .
 [submodule "lv/nk/gvb"]
 	path = lv/nk/gvb
 	url = .
