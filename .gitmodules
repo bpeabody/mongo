@@ -47467,6 +47467,9 @@
 [submodule "sl/qw/iot"]
 	path = sl/qw/iot
 	url = .
+[submodule "sl/te/rqy"]
+	path = sl/te/rqy
+	url = .
 [submodule "sl/tm/ucu"]
 	path = sl/tm/ucu
 	url = .
