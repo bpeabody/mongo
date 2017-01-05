@@ -9211,6 +9211,9 @@
 [submodule "nb/dq/tmk"]
 	path = nb/dq/tmk
 	url = .
+[submodule "nb/ft/lms"]
+	path = nb/ft/lms
+	url = .
 [submodule "nb/hj/fer"]
 	path = nb/hj/fer
 	url = .
