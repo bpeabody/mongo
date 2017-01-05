@@ -21586,6 +21586,9 @@
 [submodule "zh/cy/dnh"]
 	path = zh/cy/dnh
 	url = .
+[submodule "zh/gy/qzp"]
+	path = zh/gy/qzp
+	url = .
 [submodule "zh/hc/qmk"]
 	path = zh/hc/qmk
 	url = .
