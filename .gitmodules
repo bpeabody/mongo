@@ -379,6 +379,9 @@
 [submodule "al/uk/fqf"]
 	path = al/uk/fqf
 	url = .
+[submodule "al/vn/zmg"]
+	path = al/vn/zmg
+	url = .
 [submodule "am/bn/bmr"]
 	path = am/bn/bmr
 	url = .
