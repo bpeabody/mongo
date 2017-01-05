@@ -25168,6 +25168,9 @@
 [submodule "pi/nk/gjw"]
 	path = pi/nk/gjw
 	url = .
+[submodule "pi/nq/rig"]
+	path = pi/nq/rig
+	url = .
 [submodule "pi/ot/egj"]
 	path = pi/ot/egj
 	url = .
