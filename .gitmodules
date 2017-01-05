@@ -21766,6 +21766,9 @@
 [submodule "ki/kj/urg"]
 	path = ki/kj/urg
 	url = .
+[submodule "ki/me/rjf"]
+	path = ki/me/rjf
+	url = .
 [submodule "ki/mq/eoi"]
 	path = ki/mq/eoi
 	url = .
