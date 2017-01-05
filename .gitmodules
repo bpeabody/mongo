@@ -23755,6 +23755,9 @@
 [submodule "yf/vs/nbu"]
 	path = yf/vs/nbu
 	url = .
+[submodule "yf/wg/suy"]
+	path = yf/wg/suy
+	url = .
 [submodule "yf/zs/iei"]
 	path = yf/zs/iei
 	url = .
