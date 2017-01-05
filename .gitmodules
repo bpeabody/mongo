@@ -60598,6 +60598,9 @@
 [submodule "vf/ch/tym"]
 	path = vf/ch/tym
 	url = .
+[submodule "vf/ch/vzj"]
+	path = vf/ch/vzj
+	url = .
 [submodule "vf/ez/nil"]
 	path = vf/ez/nil
 	url = .
