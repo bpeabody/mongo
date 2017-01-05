@@ -625,6 +625,9 @@
 [submodule "aj/np/rus"]
 	path = aj/np/rus
 	url = .
+[submodule "aj/oh/mdh"]
+	path = aj/oh/mdh
+	url = .
 [submodule "aj/ol/ioq"]
 	path = aj/ol/ioq
 	url = .
