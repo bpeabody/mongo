@@ -5113,6 +5113,9 @@
 [submodule "ch/cr/ywi"]
 	path = ch/cr/ywi
 	url = .
+[submodule "ch/et/dyz"]
+	path = ch/et/dyz
+	url = .
 [submodule "ch/fb/cia"]
 	path = ch/fb/cia
 	url = .
