@@ -5626,6 +5626,9 @@
 [submodule "eq/io/des"]
 	path = eq/io/des
 	url = .
+[submodule "eq/lc/pgp"]
+	path = eq/lc/pgp
+	url = .
 [submodule "eq/ob/lby"]
 	path = eq/ob/lby
 	url = .
