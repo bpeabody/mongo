@@ -10015,6 +10015,9 @@
 [submodule "hj/eh/lyj"]
 	path = hj/eh/lyj
 	url = .
+[submodule "hj/gk/dom"]
+	path = hj/gk/dom
+	url = .
 [submodule "hj/hu/ppu"]
 	path = hj/hu/ppu
 	url = .
