@@ -41086,6 +41086,9 @@
 [submodule "ya/ar/wtv"]
 	path = ya/ar/wtv
 	url = .
+[submodule "ya/ax/ngu"]
+	path = ya/ax/ngu
+	url = .
 [submodule "ya/bk/oih"]
 	path = ya/bk/oih
 	url = .
