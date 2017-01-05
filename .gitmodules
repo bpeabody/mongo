@@ -8098,6 +8098,9 @@
 [submodule "ez/sm/irr"]
 	path = ez/sm/irr
 	url = .
+[submodule "ez/sm/xvd"]
+	path = ez/sm/xvd
+	url = .
 [submodule "ez/sr/nlx"]
 	path = ez/sr/nlx
 	url = .
