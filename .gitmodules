@@ -1603,6 +1603,9 @@
 [submodule "ao/wn/ugh"]
 	path = ao/wn/ugh
 	url = .
+[submodule "ao/wn/wcy"]
+	path = ao/wn/wcy
+	url = .
 [submodule "ao/xj/zab"]
 	path = ao/xj/zab
 	url = .
