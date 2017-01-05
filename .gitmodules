@@ -6343,6 +6343,9 @@
 [submodule "fz/lf/ubw"]
 	path = fz/lf/ubw
 	url = .
+[submodule "fz/lz/bvv"]
+	path = fz/lz/bvv
+	url = .
 [submodule "fz/md/zgn"]
 	path = fz/md/zgn
 	url = .
