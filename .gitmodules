@@ -50785,6 +50785,9 @@
 [submodule "uh/ej/law"]
 	path = uh/ej/law
 	url = .
+[submodule "uh/eq/jsl"]
+	path = uh/eq/jsl
+	url = .
 [submodule "uh/hi/wic"]
 	path = uh/hi/wic
 	url = .
