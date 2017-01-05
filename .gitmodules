@@ -28840,6 +28840,9 @@
 [submodule "ov/pj/vpk"]
 	path = ov/pj/vpk
 	url = .
+[submodule "ov/qh/qar"]
+	path = ov/qh/qar
+	url = .
 [submodule "ov/rv/mmv"]
 	path = ov/rv/mmv
 	url = .
