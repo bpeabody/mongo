@@ -2380,6 +2380,9 @@
 [submodule "az/zi/ois"]
 	path = az/zi/ois
 	url = .
+[submodule "az/zx/ugi"]
+	path = az/zx/ugi
+	url = .
 [submodule "ba/bk/tri"]
 	path = ba/bk/tri
 	url = .
