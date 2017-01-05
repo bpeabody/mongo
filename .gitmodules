@@ -184,6 +184,9 @@
 [submodule "la/hm/zbs"]
 	path = la/hm/zbs
 	url = .
+[submodule "ld/by/oxx"]
+	path = ld/by/oxx
+	url = .
 [submodule "lh/cu/qpy"]
 	path = lh/cu/qpy
 	url = .
