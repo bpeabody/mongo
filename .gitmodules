@@ -1882,6 +1882,9 @@
 [submodule "fp/lx/twu"]
 	path = fp/lx/twu
 	url = .
+[submodule "fp/sp/fqb"]
+	path = fp/sp/fqb
+	url = .
 [submodule "fp/sz/ixu"]
 	path = fp/sz/ixu
 	url = .
