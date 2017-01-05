@@ -43573,6 +43573,9 @@
 [submodule "os/ol/jjg"]
 	path = os/ol/jjg
 	url = .
+[submodule "os/oq/rtf"]
+	path = os/oq/rtf
+	url = .
 [submodule "os/qa/vkm"]
 	path = os/qa/vkm
 	url = .
