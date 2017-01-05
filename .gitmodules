@@ -5530,6 +5530,9 @@
 [submodule "kb/cs/zad"]
 	path = kb/cs/zad
 	url = .
+[submodule "kb/fu/ayp"]
+	path = kb/fu/ayp
+	url = .
 [submodule "kb/kf/qpl"]
 	path = kb/kf/qpl
 	url = .
