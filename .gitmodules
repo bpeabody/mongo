@@ -41173,6 +41173,9 @@
 [submodule "qn/cj/imu"]
 	path = qn/cj/imu
 	url = .
+[submodule "qn/cp/ply"]
+	path = qn/cp/ply
+	url = .
 [submodule "qn/ev/stj"]
 	path = qn/ev/stj
 	url = .
