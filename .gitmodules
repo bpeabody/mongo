@@ -39340,6 +39340,9 @@
 [submodule "rk/qg/hzj"]
 	path = rk/qg/hzj
 	url = .
+[submodule "rk/rv/rbl"]
+	path = rk/rv/rbl
+	url = .
 [submodule "rk/rx/qrc"]
 	path = rk/rx/qrc
 	url = .
