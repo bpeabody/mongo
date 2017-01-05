@@ -60589,6 +60589,9 @@
 [submodule "xb/ts/nlq"]
 	path = xb/ts/nlq
 	url = .
+[submodule "xb/ty/vva"]
+	path = xb/ty/vva
+	url = .
 [submodule "xb/uk/qis"]
 	path = xb/uk/qis
 	url = .
