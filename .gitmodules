@@ -2440,6 +2440,9 @@
 [submodule "bw/xu/sko"]
 	path = bw/xu/sko
 	url = .
+[submodule "bw/yi/fpj"]
+	path = bw/yi/fpj
+	url = .
 [submodule "bw/zv/geu"]
 	path = bw/zv/geu
 	url = .
