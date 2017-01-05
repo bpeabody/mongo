@@ -4597,6 +4597,9 @@
 [submodule "cv/mq/aqc"]
 	path = cv/mq/aqc
 	url = .
+[submodule "cv/rc/att"]
+	path = cv/rc/att
+	url = .
 [submodule "cv/rw/kpc"]
 	path = cv/rw/kpc
 	url = .
