@@ -29866,6 +29866,9 @@
 [submodule "mg/nk/ate"]
 	path = mg/nk/ate
 	url = .
+[submodule "mg/nn/oel"]
+	path = mg/nn/oel
+	url = .
 [submodule "mg/ns/cnq"]
 	path = mg/ns/cnq
 	url = .
