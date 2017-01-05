@@ -5176,6 +5176,9 @@
 [submodule "cx/ut/mog"]
 	path = cx/ut/mog
 	url = .
+[submodule "cx/ux/htx"]
+	path = cx/ux/htx
+	url = .
 [submodule "cx/uy/gab"]
 	path = cx/uy/gab
 	url = .
