@@ -8116,6 +8116,9 @@
 [submodule "cv/ax/cxi"]
 	path = cv/ax/cxi
 	url = .
+[submodule "cv/cr/sqh"]
+	path = cv/cr/sqh
+	url = .
 [submodule "cv/dk/olb"]
 	path = cv/dk/olb
 	url = .
