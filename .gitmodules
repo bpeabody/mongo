@@ -22792,6 +22792,9 @@
 [submodule "kb/np/jjd"]
 	path = kb/np/jjd
 	url = .
+[submodule "kb/oh/lvl"]
+	path = kb/oh/lvl
+	url = .
 [submodule "kb/ok/rlb"]
 	path = kb/ok/rlb
 	url = .
