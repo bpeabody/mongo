@@ -151,6 +151,9 @@
 [submodule "cb/yj/osl"]
 	path = cb/yj/osl
 	url = .
+[submodule "cc/zh/gsw"]
+	path = cc/zh/gsw
+	url = .
 [submodule "cd/ea/jdu"]
 	path = cd/ea/jdu
 	url = .
