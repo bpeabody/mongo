@@ -10936,6 +10936,9 @@
 [submodule "ff/or/qly"]
 	path = ff/or/qly
 	url = .
+[submodule "ff/ou/sww"]
+	path = ff/ou/sww
+	url = .
 [submodule "ff/pi/ifk"]
 	path = ff/pi/ifk
 	url = .
