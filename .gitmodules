@@ -1855,6 +1855,9 @@
 [submodule "bu/ll/grq"]
 	path = bu/ll/grq
 	url = .
+[submodule "bu/mr/yxf"]
+	path = bu/mr/yxf
+	url = .
 [submodule "bu/pp/hmn"]
 	path = bu/pp/hmn
 	url = .
