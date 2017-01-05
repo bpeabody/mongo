@@ -3010,6 +3010,9 @@
 [submodule "if/ra/olg"]
 	path = if/ra/olg
 	url = .
+[submodule "if/ue/nua"]
+	path = if/ue/nua
+	url = .
 [submodule "if/uj/vjx"]
 	path = if/uj/vjx
 	url = .
