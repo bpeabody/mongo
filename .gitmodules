@@ -52006,6 +52006,9 @@
 [submodule "su/ct/lpi"]
 	path = su/ct/lpi
 	url = .
+[submodule "su/dd/prp"]
+	path = su/dd/prp
+	url = .
 [submodule "su/dh/jqu"]
 	path = su/dh/jqu
 	url = .
