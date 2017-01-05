@@ -7960,6 +7960,9 @@
 [submodule "ed/cx/lih"]
 	path = ed/cx/lih
 	url = .
+[submodule "ed/dl/ffp"]
+	path = ed/dl/ffp
+	url = .
 [submodule "ed/hl/dbb"]
 	path = ed/hl/dbb
 	url = .
