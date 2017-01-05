@@ -7687,6 +7687,9 @@
 [submodule "gj/lf/onp"]
 	path = gj/lf/onp
 	url = .
+[submodule "gj/mq/kuh"]
+	path = gj/mq/kuh
+	url = .
 [submodule "gj/nj/bgm"]
 	path = gj/nj/bgm
 	url = .
