@@ -82,6 +82,9 @@
 [submodule "pm/as/afv"]
 	path = pm/as/afv
 	url = .
+[submodule "pw/df/mqn"]
+	path = pw/df/mqn
+	url = .
 [submodule "qe/nj/vti"]
 	path = qe/nj/vti
 	url = .
