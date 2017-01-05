@@ -19630,6 +19630,9 @@
 [submodule "ms/ed/kdk"]
 	path = ms/ed/kdk
 	url = .
+[submodule "ms/ep/uls"]
+	path = ms/ep/uls
+	url = .
 [submodule "ms/eu/rnm"]
 	path = ms/eu/rnm
 	url = .
