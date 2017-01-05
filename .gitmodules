@@ -18250,6 +18250,9 @@
 [submodule "po/ug/ybw"]
 	path = po/ug/ybw
 	url = .
+[submodule "po/xd/xft"]
+	path = po/xd/xft
+	url = .
 [submodule "po/xw/ckl"]
 	path = po/xw/ckl
 	url = .
