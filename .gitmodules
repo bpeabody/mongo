@@ -45898,6 +45898,9 @@
 [submodule "wb/gs/pce"]
 	path = wb/gs/pce
 	url = .
+[submodule "wb/hq/rtu"]
+	path = wb/hq/rtu
+	url = .
 [submodule "wb/hs/ihv"]
 	path = wb/hs/ihv
 	url = .
