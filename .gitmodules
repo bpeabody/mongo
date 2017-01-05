@@ -42862,6 +42862,9 @@
 [submodule "sc/mj/ecd"]
 	path = sc/mj/ecd
 	url = .
+[submodule "sc/no/udn"]
+	path = sc/no/udn
+	url = .
 [submodule "sc/oe/mmb"]
 	path = sc/oe/mmb
 	url = .
