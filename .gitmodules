@@ -32287,6 +32287,9 @@
 [submodule "uu/wn/aai"]
 	path = uu/wn/aai
 	url = .
+[submodule "uu/wr/ame"]
+	path = uu/wr/ame
+	url = .
 [submodule "uu/xc/qlx"]
 	path = uu/xc/qlx
 	url = .
