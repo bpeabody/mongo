@@ -12442,6 +12442,9 @@
 [submodule "lc/rh/gbx"]
 	path = lc/rh/gbx
 	url = .
+[submodule "lc/sb/hia"]
+	path = lc/sb/hia
+	url = .
 [submodule "lc/sl/yco"]
 	path = lc/sl/yco
 	url = .
