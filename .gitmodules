@@ -37732,6 +37732,9 @@
 [submodule "xw/fl/jpj"]
 	path = xw/fl/jpj
 	url = .
+[submodule "xw/gt/vmd"]
+	path = xw/gt/vmd
+	url = .
 [submodule "xw/jn/ivq"]
 	path = xw/jn/ivq
 	url = .
