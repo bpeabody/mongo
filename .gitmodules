@@ -27202,6 +27202,9 @@
 [submodule "qx/tu/qha"]
 	path = qx/tu/qha
 	url = .
+[submodule "qx/uv/jja"]
+	path = qx/uv/jja
+	url = .
 [submodule "qx/xp/ywz"]
 	path = qx/xp/ywz
 	url = .
