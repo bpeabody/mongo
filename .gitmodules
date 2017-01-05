@@ -5140,6 +5140,9 @@
 [submodule "gn/kw/wav"]
 	path = gn/kw/wav
 	url = .
+[submodule "gn/ns/cwl"]
+	path = gn/ns/cwl
+	url = .
 [submodule "gn/pl/rdd"]
 	path = gn/pl/rdd
 	url = .
