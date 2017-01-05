@@ -17470,6 +17470,9 @@
 [submodule "xk/ig/lsf"]
 	path = xk/ig/lsf
 	url = .
+[submodule "xk/is/ucs"]
+	path = xk/is/ucs
+	url = .
 [submodule "xk/ix/lsf"]
 	path = xk/ix/lsf
 	url = .
