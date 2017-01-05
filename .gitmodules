@@ -18526,6 +18526,9 @@
 [submodule "ml/gr/gdf"]
 	path = ml/gr/gdf
 	url = .
+[submodule "ml/ia/htu"]
+	path = ml/ia/htu
+	url = .
 [submodule "ml/ix/lte"]
 	path = ml/ix/lte
 	url = .
