@@ -62725,6 +62725,9 @@
 [submodule "yx/or/hve"]
 	path = yx/or/hve
 	url = .
+[submodule "yx/ox/nqp"]
+	path = yx/ox/nqp
+	url = .
 [submodule "yx/qp/ttq"]
 	path = yx/qp/ttq
 	url = .
