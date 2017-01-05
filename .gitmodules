@@ -12664,6 +12664,9 @@
 [submodule "eq/sh/gat"]
 	path = eq/sh/gat
 	url = .
+[submodule "eq/ud/zuz"]
+	path = eq/ud/zuz
+	url = .
 [submodule "eq/uf/ehg"]
 	path = eq/uf/ehg
 	url = .
