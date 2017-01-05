@@ -22453,6 +22453,9 @@
 [submodule "jo/dl/wbj"]
 	path = jo/dl/wbj
 	url = .
+[submodule "jo/dq/ick"]
+	path = jo/dq/ick
+	url = .
 [submodule "jo/ed/bmh"]
 	path = jo/ed/bmh
 	url = .
