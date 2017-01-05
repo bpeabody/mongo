@@ -18739,6 +18739,9 @@
 [submodule "nb/si/cwi"]
 	path = nb/si/cwi
 	url = .
+[submodule "nb/tr/tyg"]
+	path = nb/tr/tyg
+	url = .
 [submodule "nc/bg/dmo"]
 	path = nc/bg/dmo
 	url = .
