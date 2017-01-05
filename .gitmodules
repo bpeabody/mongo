@@ -8041,6 +8041,9 @@
 [submodule "mt/ow/ecc"]
 	path = mt/ow/ecc
 	url = .
+[submodule "mt/pq/azy"]
+	path = mt/pq/azy
+	url = .
 [submodule "mt/qv/qnb"]
 	path = mt/qv/qnb
 	url = .
