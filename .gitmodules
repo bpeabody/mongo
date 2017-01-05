@@ -35809,6 +35809,9 @@
 [submodule "mp/qf/grh"]
 	path = mp/qf/grh
 	url = .
+[submodule "mp/qf/qhs"]
+	path = mp/qf/qhs
+	url = .
 [submodule "mp/rq/feq"]
 	path = mp/rq/feq
 	url = .
