@@ -69475,6 +69475,9 @@
 [submodule "xo/gt/enp"]
 	path = xo/gt/enp
 	url = .
+[submodule "xo/hp/mkp"]
+	path = xo/hp/mkp
+	url = .
 [submodule "xo/hu/alg"]
 	path = xo/hu/alg
 	url = .
