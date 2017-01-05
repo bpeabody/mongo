@@ -24712,6 +24712,9 @@
 [submodule "pn/vk/rvx"]
 	path = pn/vk/rvx
 	url = .
+[submodule "pn/vw/shw"]
+	path = pn/vw/shw
+	url = .
 [submodule "pn/wf/ecj"]
 	path = pn/wf/ecj
 	url = .
