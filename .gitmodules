@@ -2647,6 +2647,9 @@
 [submodule "bl/nd/qcs"]
 	path = bl/nd/qcs
 	url = .
+[submodule "bl/re/zpq"]
+	path = bl/re/zpq
+	url = .
 [submodule "bl/sv/xav"]
 	path = bl/sv/xav
 	url = .
