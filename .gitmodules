@@ -8395,6 +8395,9 @@
 [submodule "wj/je/lff"]
 	path = wj/je/lff
 	url = .
+[submodule "wj/jj/gck"]
+	path = wj/jj/gck
+	url = .
 [submodule "wj/ks/qir"]
 	path = wj/ks/qir
 	url = .
