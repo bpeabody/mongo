@@ -17824,6 +17824,9 @@
 [submodule "hj/vj/vfc"]
 	path = hj/vj/vfc
 	url = .
+[submodule "hj/vt/vij"]
+	path = hj/vt/vij
+	url = .
 [submodule "hj/xx/wrg"]
 	path = hj/xx/wrg
 	url = .
