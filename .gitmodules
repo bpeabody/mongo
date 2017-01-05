@@ -18961,6 +18961,9 @@
 [submodule "id/gz/oth"]
 	path = id/gz/oth
 	url = .
+[submodule "id/hc/clr"]
+	path = id/hc/clr
+	url = .
 [submodule "id/hh/wxu"]
 	path = id/hh/wxu
 	url = .
