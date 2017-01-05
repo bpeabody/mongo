@@ -4594,6 +4594,9 @@
 [submodule "ci/vq/gje"]
 	path = ci/vq/gje
 	url = .
+[submodule "ci/vt/dge"]
+	path = ci/vt/dge
+	url = .
 [submodule "ci/wd/qpu"]
 	path = ci/wd/qpu
 	url = .
