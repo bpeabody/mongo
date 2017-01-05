@@ -12556,6 +12556,9 @@
 [submodule "lx/ec/exi"]
 	path = lx/ec/exi
 	url = .
+[submodule "lx/ik/sio"]
+	path = lx/ik/sio
+	url = .
 [submodule "lx/mk/cfl"]
 	path = lx/mk/cfl
 	url = .
