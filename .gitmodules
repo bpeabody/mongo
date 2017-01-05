@@ -9526,6 +9526,9 @@
 [submodule "ej/pd/izl"]
 	path = ej/pd/izl
 	url = .
+[submodule "ej/qg/mjw"]
+	path = ej/qg/mjw
+	url = .
 [submodule "ej/re/dot"]
 	path = ej/re/dot
 	url = .
