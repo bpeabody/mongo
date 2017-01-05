@@ -37726,6 +37726,9 @@
 [submodule "ow/gb/lpl"]
 	path = ow/gb/lpl
 	url = .
+[submodule "ow/gc/lro"]
+	path = ow/gc/lro
+	url = .
 [submodule "ow/gh/jte"]
 	path = ow/gh/jte
 	url = .
