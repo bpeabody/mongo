@@ -8401,6 +8401,9 @@
 [submodule "ke/fs/uov"]
 	path = ke/fs/uov
 	url = .
+[submodule "ke/oo/ghl"]
+	path = ke/oo/ghl
+	url = .
 [submodule "ke/qy/qcx"]
 	path = ke/qy/qcx
 	url = .
