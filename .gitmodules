@@ -14623,6 +14623,9 @@
 [submodule "ip/hu/qzv"]
 	path = ip/hu/qzv
 	url = .
+[submodule "ip/iw/ntu"]
+	path = ip/iw/ntu
+	url = .
 [submodule "ip/jy/zrf"]
 	path = ip/jy/zrf
 	url = .
