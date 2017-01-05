@@ -49774,6 +49774,9 @@
 [submodule "yj/va/nlk"]
 	path = yj/va/nlk
 	url = .
+[submodule "yj/vc/hrc"]
+	path = yj/vc/hrc
+	url = .
 [submodule "yj/wk/ztm"]
 	path = yj/wk/ztm
 	url = .
