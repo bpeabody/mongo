@@ -2632,6 +2632,9 @@
 [submodule "dz/tk/mfo"]
 	path = dz/tk/mfo
 	url = .
+[submodule "dz/xj/lxo"]
+	path = dz/xj/lxo
+	url = .
 [submodule "dz/xr/hsy"]
 	path = dz/xr/hsy
 	url = .
