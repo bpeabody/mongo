@@ -13381,6 +13381,9 @@
 [submodule "gv/pv/ege"]
 	path = gv/pv/ege
 	url = .
+[submodule "gv/rh/hxa"]
+	path = gv/rh/hxa
+	url = .
 [submodule "gv/tb/lbe"]
 	path = gv/tb/lbe
 	url = .
