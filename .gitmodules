@@ -48232,6 +48232,9 @@
 [submodule "yn/iq/xkg"]
 	path = yn/iq/xkg
 	url = .
+[submodule "yn/jo/qjc"]
+	path = yn/jo/qjc
+	url = .
 [submodule "yn/kr/ebg"]
 	path = yn/kr/ebg
 	url = .
