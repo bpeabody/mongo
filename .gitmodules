@@ -2758,6 +2758,9 @@
 [submodule "bt/nq/glc"]
 	path = bt/nq/glc
 	url = .
+[submodule "bt/ns/omc"]
+	path = bt/ns/omc
+	url = .
 [submodule "bt/og/clt"]
 	path = bt/og/clt
 	url = .
