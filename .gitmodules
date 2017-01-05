@@ -4648,6 +4648,9 @@
 [submodule "bx/xg/zox"]
 	path = bx/xg/zox
 	url = .
+[submodule "bx/yj/vdg"]
+	path = bx/yj/vdg
+	url = .
 [submodule "bx/zy/pgf"]
 	path = bx/zy/pgf
 	url = .
