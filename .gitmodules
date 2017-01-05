@@ -31621,6 +31621,9 @@
 [submodule "kz/tt/fbt"]
 	path = kz/tt/fbt
 	url = .
+[submodule "kz/ub/vou"]
+	path = kz/ub/vou
+	url = .
 [submodule "kz/uf/buv"]
 	path = kz/uf/buv
 	url = .
