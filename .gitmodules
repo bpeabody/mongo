@@ -53551,6 +53551,9 @@
 [submodule "xw/gt/vmd"]
 	path = xw/gt/vmd
 	url = .
+[submodule "xw/hj/lbb"]
+	path = xw/hj/lbb
+	url = .
 [submodule "xw/jn/ivq"]
 	path = xw/jn/ivq
 	url = .
