@@ -29425,6 +29425,9 @@
 [submodule "rj/yd/adn"]
 	path = rj/yd/adn
 	url = .
+[submodule "rj/yr/bvq"]
+	path = rj/yr/bvq
+	url = .
 [submodule "rj/zx/zuo"]
 	path = rj/zx/zuo
 	url = .
