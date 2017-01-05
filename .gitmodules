@@ -15472,6 +15472,9 @@
 [submodule "fv/ug/aqc"]
 	path = fv/ug/aqc
 	url = .
+[submodule "fv/uj/bqg"]
+	path = fv/uj/bqg
+	url = .
 [submodule "fv/uo/lxg"]
 	path = fv/uo/lxg
 	url = .
