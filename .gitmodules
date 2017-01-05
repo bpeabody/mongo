@@ -4360,6 +4360,9 @@
 [submodule "gw/yv/apr"]
 	path = gw/yv/apr
 	url = .
+[submodule "gx/cb/qvs"]
+	path = gx/cb/qvs
+	url = .
 [submodule "gx/kc/ybg"]
 	path = gx/kc/ybg
 	url = .
