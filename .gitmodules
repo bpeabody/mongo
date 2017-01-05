@@ -43792,6 +43792,9 @@
 [submodule "tg/wh/zsb"]
 	path = tg/wh/zsb
 	url = .
+[submodule "tg/xp/bma"]
+	path = tg/xp/bma
+	url = .
 [submodule "tg/xw/czu"]
 	path = tg/xw/czu
 	url = .
