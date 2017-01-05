@@ -18478,6 +18478,9 @@
 [submodule "xx/ai/bkh"]
 	path = xx/ai/bkh
 	url = .
+[submodule "xx/bo/uwn"]
+	path = xx/bo/uwn
+	url = .
 [submodule "xx/ep/eaf"]
 	path = xx/ep/eaf
 	url = .
