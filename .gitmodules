@@ -40759,6 +40759,9 @@
 [submodule "vk/sl/xei"]
 	path = vk/sl/xei
 	url = .
+[submodule "vk/tc/gyt"]
+	path = vk/tc/gyt
+	url = .
 [submodule "vk/to/tak"]
 	path = vk/to/tak
 	url = .
