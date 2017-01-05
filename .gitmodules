@@ -31666,6 +31666,9 @@
 [submodule "nr/ei/nns"]
 	path = nr/ei/nns
 	url = .
+[submodule "nr/hq/oft"]
+	path = nr/hq/oft
+	url = .
 [submodule "nr/iw/sjg"]
 	path = nr/iw/sjg
 	url = .
