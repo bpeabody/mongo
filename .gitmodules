@@ -5401,6 +5401,9 @@
 [submodule "nm/re/dwi"]
 	path = nm/re/dwi
 	url = .
+[submodule "nn/az/hds"]
+	path = nn/az/hds
+	url = .
 [submodule "nn/hp/zjv"]
 	path = nn/hp/zjv
 	url = .
