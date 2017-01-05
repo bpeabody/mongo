@@ -34273,6 +34273,9 @@
 [submodule "qq/tb/ibk"]
 	path = qq/tb/ibk
 	url = .
+[submodule "qq/tw/lnp"]
+	path = qq/tw/lnp
+	url = .
 [submodule "qq/ui/kyz"]
 	path = qq/ui/kyz
 	url = .
