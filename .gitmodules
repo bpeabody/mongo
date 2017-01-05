@@ -26668,6 +26668,9 @@
 [submodule "qz/ms/ksc"]
 	path = qz/ms/ksc
 	url = .
+[submodule "qz/pk/igl"]
+	path = qz/pk/igl
+	url = .
 [submodule "qz/qe/lvp"]
 	path = qz/qe/lvp
 	url = .
