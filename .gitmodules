@@ -6070,6 +6070,9 @@
 [submodule "pv/wp/pgj"]
 	path = pv/wp/pgj
 	url = .
+[submodule "pv/xz/jas"]
+	path = pv/xz/jas
+	url = .
 [submodule "pw/df/mqn"]
 	path = pw/df/mqn
 	url = .
