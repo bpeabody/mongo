@@ -2125,6 +2125,9 @@
 [submodule "bm/bp/ysv"]
 	path = bm/bp/ysv
 	url = .
+[submodule "bm/cs/lln"]
+	path = bm/cs/lln
+	url = .
 [submodule "bm/fb/kau"]
 	path = bm/fb/kau
 	url = .
