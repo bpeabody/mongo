@@ -19288,6 +19288,9 @@
 [submodule "wt/ns/qgx"]
 	path = wt/ns/qgx
 	url = .
+[submodule "wt/zi/jpq"]
+	path = wt/zi/jpq
+	url = .
 [submodule "wt/zy/bmv"]
 	path = wt/zy/bmv
 	url = .
