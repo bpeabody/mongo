@@ -6352,6 +6352,9 @@
 [submodule "da/ls/fur"]
 	path = da/ls/fur
 	url = .
+[submodule "da/mf/whp"]
+	path = da/mf/whp
+	url = .
 [submodule "da/mr/duf"]
 	path = da/mr/duf
 	url = .
