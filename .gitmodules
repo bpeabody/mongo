@@ -17203,6 +17203,9 @@
 [submodule "jd/xn/rrg"]
 	path = jd/xn/rrg
 	url = .
+[submodule "jd/yi/ndi"]
+	path = jd/yi/ndi
+	url = .
 [submodule "jd/ym/dav"]
 	path = jd/ym/dav
 	url = .
