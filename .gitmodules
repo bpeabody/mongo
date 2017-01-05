@@ -7534,6 +7534,9 @@
 [submodule "ls/gu/xmc"]
 	path = ls/gu/xmc
 	url = .
+[submodule "ls/om/cxf"]
+	path = ls/om/cxf
+	url = .
 [submodule "ls/yw/arg"]
 	path = ls/yw/arg
 	url = .
