@@ -322,6 +322,9 @@
 [submodule "ao/fo/bcc"]
 	path = ao/fo/bcc
 	url = .
+[submodule "ao/kf/pam"]
+	path = ao/kf/pam
+	url = .
 [submodule "ao/ob/dur"]
 	path = ao/ob/dur
 	url = .
