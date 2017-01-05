@@ -2491,6 +2491,9 @@
 [submodule "bo/jq/csy"]
 	path = bo/jq/csy
 	url = .
+[submodule "bo/kb/ptg"]
+	path = bo/kb/ptg
+	url = .
 [submodule "bo/lj/dzs"]
 	path = bo/lj/dzs
 	url = .
