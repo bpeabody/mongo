@@ -11887,6 +11887,9 @@
 [submodule "fr/sd/wly"]
 	path = fr/sd/wly
 	url = .
+[submodule "fr/ss/jra"]
+	path = fr/ss/jra
+	url = .
 [submodule "fr/ur/zqc"]
 	path = fr/ur/zqc
 	url = .
