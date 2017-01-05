@@ -41599,6 +41599,9 @@
 [submodule "tl/ru/ggg"]
 	path = tl/ru/ggg
 	url = .
+[submodule "tl/tf/jxc"]
+	path = tl/tf/jxc
+	url = .
 [submodule "tl/uc/ljo"]
 	path = tl/uc/ljo
 	url = .
