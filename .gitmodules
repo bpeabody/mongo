@@ -32959,6 +32959,9 @@
 [submodule "ns/rc/pfv"]
 	path = ns/rc/pfv
 	url = .
+[submodule "ns/sk/xma"]
+	path = ns/sk/xma
+	url = .
 [submodule "ns/ta/xgx"]
 	path = ns/ta/xgx
 	url = .
