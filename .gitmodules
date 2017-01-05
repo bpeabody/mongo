@@ -7747,6 +7747,9 @@
 [submodule "lx/ye/mwc"]
 	path = lx/ye/mwc
 	url = .
+[submodule "lx/zd/wde"]
+	path = lx/zd/wde
+	url = .
 [submodule "ly/as/idb"]
 	path = ly/as/idb
 	url = .
