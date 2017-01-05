@@ -13549,6 +13549,9 @@
 [submodule "ka/et/dkf"]
 	path = ka/et/dkf
 	url = .
+[submodule "ka/ez/ymb"]
+	path = ka/ez/ymb
+	url = .
 [submodule "ka/fr/rwi"]
 	path = ka/fr/rwi
 	url = .
