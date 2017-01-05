@@ -13207,6 +13207,9 @@
 [submodule "it/sm/etj"]
 	path = it/sm/etj
 	url = .
+[submodule "it/ua/zss"]
+	path = it/ua/zss
+	url = .
 [submodule "it/uj/ofn"]
 	path = it/uj/ofn
 	url = .
