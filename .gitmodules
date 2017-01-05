@@ -23284,6 +23284,9 @@
 [submodule "jb/ee/mhi"]
 	path = jb/ee/mhi
 	url = .
+[submodule "jb/fx/gre"]
+	path = jb/fx/gre
+	url = .
 [submodule "jb/gp/dql"]
 	path = jb/gp/dql
 	url = .
