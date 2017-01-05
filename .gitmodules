@@ -17281,6 +17281,9 @@
 [submodule "pv/la/nyz"]
 	path = pv/la/nyz
 	url = .
+[submodule "pv/ls/mzo"]
+	path = pv/ls/mzo
+	url = .
 [submodule "pv/mk/pvs"]
 	path = pv/mk/pvs
 	url = .
