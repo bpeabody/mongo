@@ -36616,6 +36616,9 @@
 [submodule "sb/ld/iri"]
 	path = sb/ld/iri
 	url = .
+[submodule "sb/lr/jjq"]
+	path = sb/lr/jjq
+	url = .
 [submodule "sb/ml/psc"]
 	path = sb/ml/psc
 	url = .
