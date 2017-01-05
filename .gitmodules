@@ -26434,6 +26434,9 @@
 [submodule "kh/jc/lmo"]
 	path = kh/jc/lmo
 	url = .
+[submodule "kh/km/ehb"]
+	path = kh/km/ehb
+	url = .
 [submodule "kh/kn/xxu"]
 	path = kh/kn/xxu
 	url = .
