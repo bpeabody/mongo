@@ -28174,6 +28174,9 @@
 [submodule "nk/ha/joh"]
 	path = nk/ha/joh
 	url = .
+[submodule "nk/hy/qcb"]
+	path = nk/hy/qcb
+	url = .
 [submodule "nk/ik/ffk"]
 	path = nk/ik/ffk
 	url = .
