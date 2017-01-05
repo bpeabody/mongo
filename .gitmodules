@@ -37426,6 +37426,9 @@
 [submodule "qt/go/tiy"]
 	path = qt/go/tiy
 	url = .
+[submodule "qt/ha/mil"]
+	path = qt/ha/mil
+	url = .
 [submodule "qt/ha/qtt"]
 	path = qt/ha/qtt
 	url = .
