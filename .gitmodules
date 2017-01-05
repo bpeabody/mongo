@@ -23041,6 +23041,9 @@
 [submodule "ne/bc/gaf"]
 	path = ne/bc/gaf
 	url = .
+[submodule "ne/cm/pot"]
+	path = ne/cm/pot
+	url = .
 [submodule "ne/dp/dna"]
 	path = ne/dp/dna
 	url = .
