@@ -745,6 +745,9 @@
 [submodule "kg/og/owe"]
 	path = kg/og/owe
 	url = .
+[submodule "kh/cz/aqr"]
+	path = kh/cz/aqr
+	url = .
 [submodule "kh/dy/lne"]
 	path = kh/dy/lne
 	url = .
