@@ -8539,6 +8539,9 @@
 [submodule "lu/kv/dsc"]
 	path = lu/kv/dsc
 	url = .
+[submodule "lu/nz/awv"]
+	path = lu/nz/awv
+	url = .
 [submodule "lu/va/obg"]
 	path = lu/va/obg
 	url = .
