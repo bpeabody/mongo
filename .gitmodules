@@ -26449,6 +26449,9 @@
 [submodule "rv/yy/ntd"]
 	path = rv/yy/ntd
 	url = .
+[submodule "rw/aw/stc"]
+	path = rw/aw/stc
+	url = .
 [submodule "rw/ay/csq"]
 	path = rw/ay/csq
 	url = .
