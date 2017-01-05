@@ -7210,6 +7210,9 @@
 [submodule "dm/lr/dnv"]
 	path = dm/lr/dnv
 	url = .
+[submodule "dm/ly/vfq"]
+	path = dm/ly/vfq
+	url = .
 [submodule "dm/pq/lpj"]
 	path = dm/pq/lpj
 	url = .
