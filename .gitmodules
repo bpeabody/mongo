@@ -27304,6 +27304,9 @@
 [submodule "pa/gs/het"]
 	path = pa/gs/het
 	url = .
+[submodule "pa/gu/jrx"]
+	path = pa/gu/jrx
+	url = .
 [submodule "pa/ko/adi"]
 	path = pa/ko/adi
 	url = .
