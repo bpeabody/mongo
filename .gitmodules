@@ -32578,6 +32578,9 @@
 [submodule "ll/gd/myd"]
 	path = ll/gd/myd
 	url = .
+[submodule "ll/hb/ako"]
+	path = ll/hb/ako
+	url = .
 [submodule "ll/iy/rdf"]
 	path = ll/iy/rdf
 	url = .
