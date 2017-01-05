@@ -6316,6 +6316,9 @@
 [submodule "fj/wz/fme"]
 	path = fj/wz/fme
 	url = .
+[submodule "fj/xa/cas"]
+	path = fj/xa/cas
+	url = .
 [submodule "fj/zz/qpd"]
 	path = fj/zz/qpd
 	url = .
