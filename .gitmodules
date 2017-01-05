@@ -10648,6 +10648,9 @@
 [submodule "fk/gn/ojc"]
 	path = fk/gn/ojc
 	url = .
+[submodule "fk/ib/jjt"]
+	path = fk/ib/jjt
+	url = .
 [submodule "fk/jk/mwq"]
 	path = fk/jk/mwq
 	url = .
