@@ -8830,6 +8830,9 @@
 [submodule "dl/ou/hab"]
 	path = dl/ou/hab
 	url = .
+[submodule "dl/pt/rde"]
+	path = dl/pt/rde
+	url = .
 [submodule "dl/pt/yqs"]
 	path = dl/pt/yqs
 	url = .
