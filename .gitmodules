@@ -1303,6 +1303,9 @@
 [submodule "ap/ov/ebi"]
 	path = ap/ov/ebi
 	url = .
+[submodule "ap/qb/ets"]
+	path = ap/qb/ets
+	url = .
 [submodule "ap/rj/ikk"]
 	path = ap/rj/ikk
 	url = .
