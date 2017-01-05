@@ -49426,6 +49426,9 @@
 [submodule "vh/qm/ohg"]
 	path = vh/qm/ohg
 	url = .
+[submodule "vh/sh/vga"]
+	path = vh/sh/vga
+	url = .
 [submodule "vh/sv/acl"]
 	path = vh/sv/acl
 	url = .
