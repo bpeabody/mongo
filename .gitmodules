@@ -11875,6 +11875,9 @@
 [submodule "ps/ld/kvx"]
 	path = ps/ld/kvx
 	url = .
+[submodule "ps/nd/msn"]
+	path = ps/nd/msn
+	url = .
 [submodule "ps/sg/lsk"]
 	path = ps/sg/lsk
 	url = .
