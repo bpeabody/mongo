@@ -1174,6 +1174,9 @@
 [submodule "an/cr/fax"]
 	path = an/cr/fax
 	url = .
+[submodule "an/db/nfr"]
+	path = an/db/nfr
+	url = .
 [submodule "an/dd/vrz"]
 	path = an/dd/vrz
 	url = .
