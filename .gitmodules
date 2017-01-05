@@ -577,6 +577,9 @@
 [submodule "fe/cq/ndn"]
 	path = fe/cq/ndn
 	url = .
+[submodule "ff/nk/ncz"]
+	path = ff/nk/ncz
+	url = .
 [submodule "ff/qz/mcj"]
 	path = ff/qz/mcj
 	url = .
