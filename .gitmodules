@@ -54547,6 +54547,9 @@
 [submodule "sw/th/rtc"]
 	path = sw/th/rtc
 	url = .
+[submodule "sw/uk/mwm"]
+	path = sw/uk/mwm
+	url = .
 [submodule "sw/vd/mca"]
 	path = sw/vd/mca
 	url = .
