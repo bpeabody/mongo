@@ -9055,6 +9055,9 @@
 [submodule "hg/hn/rav"]
 	path = hg/hn/rav
 	url = .
+[submodule "hg/ig/gyv"]
+	path = hg/ig/gyv
+	url = .
 [submodule "hg/il/oiu"]
 	path = hg/il/oiu
 	url = .
