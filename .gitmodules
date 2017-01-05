@@ -43363,6 +43363,9 @@
 [submodule "qu/wj/eda"]
 	path = qu/wj/eda
 	url = .
+[submodule "qu/ya/hnm"]
+	path = qu/ya/hnm
+	url = .
 [submodule "qu/yg/dwx"]
 	path = qu/yg/dwx
 	url = .
