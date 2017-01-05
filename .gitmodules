@@ -3883,6 +3883,9 @@
 [submodule "ob/xk/pqg"]
 	path = ob/xk/pqg
 	url = .
+[submodule "ob/xz/scn"]
+	path = ob/xz/scn
+	url = .
 [submodule "ob/ya/gsa"]
 	path = ob/ya/gsa
 	url = .
