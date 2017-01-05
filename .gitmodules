@@ -2392,6 +2392,9 @@
 [submodule "bs/mn/keq"]
 	path = bs/mn/keq
 	url = .
+[submodule "bs/pa/xpl"]
+	path = bs/pa/xpl
+	url = .
 [submodule "bs/po/ydz"]
 	path = bs/po/ydz
 	url = .
