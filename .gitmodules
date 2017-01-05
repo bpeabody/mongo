@@ -130,6 +130,9 @@
 [submodule "ab/mq/igq"]
 	path = ab/mq/igq
 	url = .
+[submodule "ab/mu/hgg"]
+	path = ab/mu/hgg
+	url = .
 [submodule "ab/nx/oun"]
 	path = ab/nx/oun
 	url = .
