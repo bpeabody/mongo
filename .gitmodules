@@ -11434,6 +11434,9 @@
 [submodule "iq/ot/iys"]
 	path = iq/ot/iys
 	url = .
+[submodule "iq/pr/lwa"]
+	path = iq/pr/lwa
+	url = .
 [submodule "iq/tj/hcq"]
 	path = iq/tj/hcq
 	url = .
