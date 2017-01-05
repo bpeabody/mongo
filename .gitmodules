@@ -34687,6 +34687,9 @@
 [submodule "xp/gw/ifb"]
 	path = xp/gw/ifb
 	url = .
+[submodule "xp/gw/tsn"]
+	path = xp/gw/tsn
+	url = .
 [submodule "xp/ic/jww"]
 	path = xp/ic/jww
 	url = .
