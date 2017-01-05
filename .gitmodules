@@ -8137,6 +8137,9 @@
 [submodule "eo/vu/ubt"]
 	path = eo/vu/ubt
 	url = .
+[submodule "eo/yu/ugf"]
+	path = eo/yu/ugf
+	url = .
 [submodule "ep/af/pop"]
 	path = ep/af/pop
 	url = .
