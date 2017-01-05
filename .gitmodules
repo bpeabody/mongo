@@ -11110,6 +11110,9 @@
 [submodule "mt/tl/sih"]
 	path = mt/tl/sih
 	url = .
+[submodule "mt/ye/lhe"]
+	path = mt/ye/lhe
+	url = .
 [submodule "mu/an/igc"]
 	path = mu/an/igc
 	url = .
