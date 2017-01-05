@@ -27769,6 +27769,9 @@
 [submodule "nt/af/xbw"]
 	path = nt/af/xbw
 	url = .
+[submodule "nt/ah/pql"]
+	path = nt/ah/pql
+	url = .
 [submodule "nt/ar/jdd"]
 	path = nt/ar/jdd
 	url = .
