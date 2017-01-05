@@ -3919,6 +3919,9 @@
 [submodule "bl/bu/eyu"]
 	path = bl/bu/eyu
 	url = .
+[submodule "bl/by/udz"]
+	path = bl/by/udz
+	url = .
 [submodule "bl/cd/epv"]
 	path = bl/cd/epv
 	url = .
