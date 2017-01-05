@@ -766,6 +766,9 @@
 [submodule "kx/wx/cgq"]
 	path = kx/wx/cgq
 	url = .
+[submodule "la/ao/bes"]
+	path = la/ao/bes
+	url = .
 [submodule "la/hm/zbs"]
 	path = la/hm/zbs
 	url = .
