@@ -4282,6 +4282,9 @@
 [submodule "cl/ym/jfw"]
 	path = cl/ym/jfw
 	url = .
+[submodule "cl/yq/mkz"]
+	path = cl/yq/mkz
+	url = .
 [submodule "cl/zj/kao"]
 	path = cl/zj/kao
 	url = .
