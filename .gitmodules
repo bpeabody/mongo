@@ -3385,6 +3385,9 @@
 [submodule "ir/vd/idi"]
 	path = ir/vd/idi
 	url = .
+[submodule "is/ac/lkn"]
+	path = is/ac/lkn
+	url = .
 [submodule "is/ll/blk"]
 	path = is/ll/blk
 	url = .
