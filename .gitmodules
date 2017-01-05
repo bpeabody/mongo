@@ -12805,6 +12805,9 @@
 [submodule "ua/vk/ica"]
 	path = ua/vk/ica
 	url = .
+[submodule "ua/vp/eud"]
+	path = ua/vp/eud
+	url = .
 [submodule "ua/xq/gqx"]
 	path = ua/xq/gqx
 	url = .
