@@ -4426,6 +4426,9 @@
 [submodule "di/nk/ner"]
 	path = di/nk/ner
 	url = .
+[submodule "di/nw/xqy"]
+	path = di/nw/xqy
+	url = .
 [submodule "di/ou/cru"]
 	path = di/ou/cru
 	url = .
