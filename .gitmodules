@@ -35314,6 +35314,9 @@
 [submodule "sr/fx/bqo"]
 	path = sr/fx/bqo
 	url = .
+[submodule "sr/hy/vdq"]
+	path = sr/hy/vdq
+	url = .
 [submodule "sr/kv/bpu"]
 	path = sr/kv/bpu
 	url = .
