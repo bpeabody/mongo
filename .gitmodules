@@ -47710,6 +47710,9 @@
 [submodule "ss/vk/eze"]
 	path = ss/vk/eze
 	url = .
+[submodule "ss/vm/xow"]
+	path = ss/vm/xow
+	url = .
 [submodule "ss/xl/rha"]
 	path = ss/xl/rha
 	url = .
