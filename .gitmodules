@@ -3559,6 +3559,9 @@
 [submodule "da/os/aml"]
 	path = da/os/aml
 	url = .
+[submodule "da/qs/oeq"]
+	path = da/qs/oeq
+	url = .
 [submodule "da/rt/aaa"]
 	path = da/rt/aaa
 	url = .
