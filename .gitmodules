@@ -30220,6 +30220,9 @@
 [submodule "yb/kw/maz"]
 	path = yb/kw/maz
 	url = .
+[submodule "yb/lq/vfe"]
+	path = yb/lq/vfe
+	url = .
 [submodule "yb/mn/hmj"]
 	path = yb/mn/hmj
 	url = .
