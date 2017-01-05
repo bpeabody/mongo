@@ -7450,6 +7450,9 @@
 [submodule "dw/fe/qca"]
 	path = dw/fe/qca
 	url = .
+[submodule "dw/gi/hgq"]
+	path = dw/gi/hgq
+	url = .
 [submodule "dw/gx/duw"]
 	path = dw/gx/duw
 	url = .
