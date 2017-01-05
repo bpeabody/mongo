@@ -11494,6 +11494,9 @@
 [submodule "mf/ur/qbt"]
 	path = mf/ur/qbt
 	url = .
+[submodule "mf/vw/utc"]
+	path = mf/vw/utc
+	url = .
 [submodule "mf/xk/fzb"]
 	path = mf/xk/fzb
 	url = .
