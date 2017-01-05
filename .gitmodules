@@ -9058,6 +9058,9 @@
 [submodule "fc/fr/dlb"]
 	path = fc/fr/dlb
 	url = .
+[submodule "fc/hg/wap"]
+	path = fc/hg/wap
+	url = .
 [submodule "fc/hz/szw"]
 	path = fc/hz/szw
 	url = .
