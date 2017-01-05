@@ -7144,6 +7144,9 @@
 [submodule "ug/on/xmb"]
 	path = ug/on/xmb
 	url = .
+[submodule "uh/dg/des"]
+	path = uh/dg/des
+	url = .
 [submodule "uh/it/buv"]
 	path = uh/it/buv
 	url = .
