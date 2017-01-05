@@ -10441,6 +10441,9 @@
 [submodule "fo/ws/rkm"]
 	path = fo/ws/rkm
 	url = .
+[submodule "fo/xf/gsb"]
+	path = fo/xf/gsb
+	url = .
 [submodule "fo/yp/tse"]
 	path = fo/yp/tse
 	url = .
