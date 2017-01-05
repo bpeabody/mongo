@@ -1801,6 +1801,9 @@
 [submodule "cc/rf/dhd"]
 	path = cc/rf/dhd
 	url = .
+[submodule "cc/vi/nbt"]
+	path = cc/vi/nbt
+	url = .
 [submodule "cc/zh/gsw"]
 	path = cc/zh/gsw
 	url = .
