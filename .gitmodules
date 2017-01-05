@@ -9016,6 +9016,9 @@
 [submodule "jg/li/vrd"]
 	path = jg/li/vrd
 	url = .
+[submodule "jg/tq/xzn"]
+	path = jg/tq/xzn
+	url = .
 [submodule "jg/ts/xst"]
 	path = jg/ts/xst
 	url = .
