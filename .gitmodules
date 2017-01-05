@@ -7363,6 +7363,9 @@
 [submodule "dg/nj/elh"]
 	path = dg/nj/elh
 	url = .
+[submodule "dg/nl/slb"]
+	path = dg/nl/slb
+	url = .
 [submodule "dg/ob/fle"]
 	path = dg/ob/fle
 	url = .
