@@ -14266,6 +14266,9 @@
 [submodule "oq/ad/zpo"]
 	path = oq/ad/zpo
 	url = .
+[submodule "oq/av/ffe"]
+	path = oq/av/ffe
+	url = .
 [submodule "oq/fb/gvq"]
 	path = oq/fb/gvq
 	url = .
