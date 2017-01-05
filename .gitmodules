@@ -47290,6 +47290,9 @@
 [submodule "qe/wd/bzb"]
 	path = qe/wd/bzb
 	url = .
+[submodule "qe/wx/hyw"]
+	path = qe/wx/hyw
+	url = .
 [submodule "qe/xb/qqm"]
 	path = qe/xb/qqm
 	url = .
