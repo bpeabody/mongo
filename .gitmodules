@@ -23800,6 +23800,9 @@
 [submodule "lh/oq/gft"]
 	path = lh/oq/gft
 	url = .
+[submodule "lh/pi/kmu"]
+	path = lh/pi/kmu
+	url = .
 [submodule "lh/pn/luw"]
 	path = lh/pn/luw
 	url = .
