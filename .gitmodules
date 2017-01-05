@@ -6064,6 +6064,9 @@
 [submodule "cm/rq/urg"]
 	path = cm/rq/urg
 	url = .
+[submodule "cm/ry/uah"]
+	path = cm/ry/uah
+	url = .
 [submodule "cm/sf/mpp"]
 	path = cm/sf/mpp
 	url = .
