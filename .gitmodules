@@ -1549,6 +1549,9 @@
 [submodule "dx/ox/zsq"]
 	path = dx/ox/zsq
 	url = .
+[submodule "dx/sd/xoz"]
+	path = dx/sd/xoz
+	url = .
 [submodule "dx/uz/mhf"]
 	path = dx/uz/mhf
 	url = .
