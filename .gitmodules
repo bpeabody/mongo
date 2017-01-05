@@ -21781,6 +21781,9 @@
 [submodule "qt/wq/qll"]
 	path = qt/wq/qll
 	url = .
+[submodule "qt/xf/sai"]
+	path = qt/xf/sai
+	url = .
 [submodule "qt/yc/dhe"]
 	path = qt/yc/dhe
 	url = .
