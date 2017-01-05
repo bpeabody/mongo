@@ -11515,6 +11515,9 @@
 [submodule "xn/wr/mws"]
 	path = xn/wr/mws
 	url = .
+[submodule "xn/zn/uuk"]
+	path = xn/zn/uuk
+	url = .
 [submodule "xn/zo/neb"]
 	path = xn/zo/neb
 	url = .
