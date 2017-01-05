@@ -29218,6 +29218,9 @@
 [submodule "yu/qr/dcl"]
 	path = yu/qr/dcl
 	url = .
+[submodule "yu/tg/bqi"]
+	path = yu/tg/bqi
+	url = .
 [submodule "yu/vx/mhj"]
 	path = yu/vx/mhj
 	url = .
