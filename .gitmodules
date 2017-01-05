@@ -7171,6 +7171,9 @@
 [submodule "kd/pm/can"]
 	path = kd/pm/can
 	url = .
+[submodule "kd/yu/ped"]
+	path = kd/yu/ped
+	url = .
 [submodule "kd/zg/ubm"]
 	path = kd/zg/ubm
 	url = .
