@@ -9319,6 +9319,9 @@
 [submodule "nd/fv/eqy"]
 	path = nd/fv/eqy
 	url = .
+[submodule "nd/gr/nnu"]
+	path = nd/gr/nnu
+	url = .
 [submodule "nd/gv/hbv"]
 	path = nd/gv/hbv
 	url = .
