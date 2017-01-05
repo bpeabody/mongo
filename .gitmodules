@@ -24685,6 +24685,9 @@
 [submodule "yw/ga/oqu"]
 	path = yw/ga/oqu
 	url = .
+[submodule "yw/ia/mri"]
+	path = yw/ia/mri
+	url = .
 [submodule "yw/lt/xxa"]
 	path = yw/lt/xxa
 	url = .
