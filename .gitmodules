@@ -3700,6 +3700,9 @@
 [submodule "qq/ui/kyz"]
 	path = qq/ui/kyz
 	url = .
+[submodule "qr/ke/mtu"]
+	path = qr/ke/mtu
+	url = .
 [submodule "qr/wi/eqn"]
 	path = qr/wi/eqn
 	url = .
