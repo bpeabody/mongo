@@ -20443,6 +20443,9 @@
 [submodule "lj/jq/pvn"]
 	path = lj/jq/pvn
 	url = .
+[submodule "lj/mo/jvp"]
+	path = lj/mo/jvp
+	url = .
 [submodule "lj/pm/hwr"]
 	path = lj/pm/hwr
 	url = .
