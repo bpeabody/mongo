@@ -3178,6 +3178,9 @@
 [submodule "bi/ki/mny"]
 	path = bi/ki/mny
 	url = .
+[submodule "bi/lf/qcs"]
+	path = bi/lf/qcs
+	url = .
 [submodule "bi/ll/fjs"]
 	path = bi/ll/fjs
 	url = .
