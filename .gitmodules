@@ -6604,6 +6604,9 @@
 [submodule "cz/ya/wkx"]
 	path = cz/ya/wkx
 	url = .
+[submodule "cz/yo/drg"]
+	path = cz/yo/drg
+	url = .
 [submodule "cz/yr/fit"]
 	path = cz/yr/fit
 	url = .
