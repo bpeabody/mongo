@@ -5248,6 +5248,9 @@
 [submodule "du/aa/opn"]
 	path = du/aa/opn
 	url = .
+[submodule "du/as/jfh"]
+	path = du/as/jfh
+	url = .
 [submodule "du/ds/hbf"]
 	path = du/ds/hbf
 	url = .
