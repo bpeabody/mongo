@@ -6910,6 +6910,9 @@
 [submodule "sg/jw/cmm"]
 	path = sg/jw/cmm
 	url = .
+[submodule "sg/ql/xrk"]
+	path = sg/ql/xrk
+	url = .
 [submodule "sg/vn/oaf"]
 	path = sg/vn/oaf
 	url = .
