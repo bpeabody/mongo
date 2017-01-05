@@ -33574,6 +33574,9 @@
 [submodule "rk/xm/nao"]
 	path = rk/xm/nao
 	url = .
+[submodule "rl/ak/pny"]
+	path = rl/ak/pny
+	url = .
 [submodule "rl/al/vnz"]
 	path = rl/al/vnz
 	url = .
