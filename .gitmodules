@@ -30373,6 +30373,9 @@
 [submodule "yx/ho/dfz"]
 	path = yx/ho/dfz
 	url = .
+[submodule "yx/kf/jdc"]
+	path = yx/kf/jdc
+	url = .
 [submodule "yx/qp/ttq"]
 	path = yx/qp/ttq
 	url = .
