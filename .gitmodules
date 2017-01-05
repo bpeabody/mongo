@@ -925,6 +925,9 @@
 [submodule "ak/ps/lmt"]
 	path = ak/ps/lmt
 	url = .
+[submodule "ak/pw/xko"]
+	path = ak/pw/xko
+	url = .
 [submodule "ak/rj/zwu"]
 	path = ak/rj/zwu
 	url = .
