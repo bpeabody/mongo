@@ -1396,6 +1396,9 @@
 [submodule "at/cq/nga"]
 	path = at/cq/nga
 	url = .
+[submodule "at/da/miw"]
+	path = at/da/miw
+	url = .
 [submodule "at/et/lac"]
 	path = at/et/lac
 	url = .
