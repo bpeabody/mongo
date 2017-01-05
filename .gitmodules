@@ -21562,6 +21562,9 @@
 [submodule "uw/lk/irr"]
 	path = uw/lk/irr
 	url = .
+[submodule "uw/ms/lah"]
+	path = uw/ms/lah
+	url = .
 [submodule "uw/mv/ezi"]
 	path = uw/mv/ezi
 	url = .
