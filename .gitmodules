@@ -2953,6 +2953,9 @@
 [submodule "az/jv/hij"]
 	path = az/jv/hij
 	url = .
+[submodule "az/jv/sqm"]
+	path = az/jv/sqm
+	url = .
 [submodule "az/ke/reh"]
 	path = az/ke/reh
 	url = .
