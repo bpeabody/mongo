@@ -16858,6 +16858,9 @@
 [submodule "jg/aq/nuq"]
 	path = jg/aq/nuq
 	url = .
+[submodule "jg/aw/vbo"]
+	path = jg/aw/vbo
+	url = .
 [submodule "jg/bd/nut"]
 	path = jg/bd/nut
 	url = .
