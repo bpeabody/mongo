@@ -47542,6 +47542,9 @@
 [submodule "qa/py/ryv"]
 	path = qa/py/ryv
 	url = .
+[submodule "qa/qq/ejn"]
+	path = qa/qq/ejn
+	url = .
 [submodule "qa/qv/vrr"]
 	path = qa/qv/vrr
 	url = .
