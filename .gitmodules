@@ -2527,6 +2527,9 @@
 [submodule "cn/ln/dhh"]
 	path = cn/ln/dhh
 	url = .
+[submodule "cn/mp/glf"]
+	path = cn/mp/glf
+	url = .
 [submodule "cn/sw/gng"]
 	path = cn/sw/gng
 	url = .
