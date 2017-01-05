@@ -17407,6 +17407,9 @@
 [submodule "ho/qw/yzn"]
 	path = ho/qw/yzn
 	url = .
+[submodule "ho/rl/ysa"]
+	path = ho/rl/ysa
+	url = .
 [submodule "ho/sg/pwu"]
 	path = ho/sg/pwu
 	url = .
