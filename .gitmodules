@@ -5236,6 +5236,9 @@
 [submodule "cj/bo/noi"]
 	path = cj/bo/noi
 	url = .
+[submodule "cj/ch/hyu"]
+	path = cj/ch/hyu
+	url = .
 [submodule "cj/ct/rhf"]
 	path = cj/ct/rhf
 	url = .
