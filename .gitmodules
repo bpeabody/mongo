@@ -2470,6 +2470,9 @@
 [submodule "fe/rt/wxd"]
 	path = fe/rt/wxd
 	url = .
+[submodule "ff/kr/bwq"]
+	path = ff/kr/bwq
+	url = .
 [submodule "ff/kz/dah"]
 	path = ff/kz/dah
 	url = .
