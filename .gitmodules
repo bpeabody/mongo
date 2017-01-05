@@ -10066,6 +10066,9 @@
 [submodule "yv/aq/smr"]
 	path = yv/aq/smr
 	url = .
+[submodule "yv/ck/qwk"]
+	path = yv/ck/qwk
+	url = .
 [submodule "yv/ft/ovg"]
 	path = yv/ft/ovg
 	url = .
