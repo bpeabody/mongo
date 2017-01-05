@@ -175,6 +175,9 @@
 [submodule "ab/og/rkj"]
 	path = ab/og/rkj
 	url = .
+[submodule "ab/ok/cdv"]
+	path = ab/ok/cdv
+	url = .
 [submodule "ab/ol/stm"]
 	path = ab/ol/stm
 	url = .
