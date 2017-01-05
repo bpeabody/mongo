@@ -54247,6 +54247,9 @@
 [submodule "yn/qy/vdt"]
 	path = yn/qy/vdt
 	url = .
+[submodule "yn/rx/xmu"]
+	path = yn/rx/xmu
+	url = .
 [submodule "yn/rz/dse"]
 	path = yn/rz/dse
 	url = .
