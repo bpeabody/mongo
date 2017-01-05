@@ -4678,6 +4678,9 @@
 [submodule "do/ve/ero"]
 	path = do/ve/ero
 	url = .
+[submodule "do/wd/prq"]
+	path = do/wd/prq
+	url = .
 [submodule "do/wh/nec"]
 	path = do/wh/nec
 	url = .
