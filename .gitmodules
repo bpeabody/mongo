@@ -4459,6 +4459,9 @@
 [submodule "bv/at/ruc"]
 	path = bv/at/ruc
 	url = .
+[submodule "bv/au/nbr"]
+	path = bv/au/nbr
+	url = .
 [submodule "bv/be/sgt"]
 	path = bv/be/sgt
 	url = .
