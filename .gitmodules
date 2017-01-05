@@ -61381,6 +61381,9 @@
 [submodule "ws/ye/ikk"]
 	path = ws/ye/ikk
 	url = .
+[submodule "ws/yo/hst"]
+	path = ws/yo/hst
+	url = .
 [submodule "ws/zh/jqt"]
 	path = ws/zh/jqt
 	url = .
