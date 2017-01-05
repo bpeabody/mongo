@@ -1294,6 +1294,9 @@
 [submodule "fg/xh/jto"]
 	path = fg/xh/jto
 	url = .
+[submodule "fh/dm/aib"]
+	path = fh/dm/aib
+	url = .
 [submodule "fh/ha/ilo"]
 	path = fh/ha/ilo
 	url = .
