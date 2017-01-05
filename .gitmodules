@@ -9226,6 +9226,9 @@
 [submodule "dt/bn/eev"]
 	path = dt/bn/eev
 	url = .
+[submodule "dt/cf/kkq"]
+	path = dt/cf/kkq
+	url = .
 [submodule "dt/cr/fzl"]
 	path = dt/cr/fzl
 	url = .
