@@ -1945,6 +1945,9 @@
 [submodule "se/wn/hvj"]
 	path = se/wn/hvj
 	url = .
+[submodule "se/yi/lyf"]
+	path = se/yi/lyf
+	url = .
 [submodule "sf/sc/wwf"]
 	path = sf/sc/wwf
 	url = .
