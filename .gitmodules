@@ -24352,6 +24352,9 @@
 [submodule "oz/ro/taw"]
 	path = oz/ro/taw
 	url = .
+[submodule "oz/rs/rqn"]
+	path = oz/rs/rqn
+	url = .
 [submodule "oz/sl/puq"]
 	path = oz/sl/puq
 	url = .
