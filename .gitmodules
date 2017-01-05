@@ -6310,6 +6310,9 @@
 [submodule "me/ts/zce"]
 	path = me/ts/zce
 	url = .
+[submodule "me/we/jrh"]
+	path = me/we/jrh
+	url = .
 [submodule "me/wq/bls"]
 	path = me/wq/bls
 	url = .
