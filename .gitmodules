@@ -5023,6 +5023,9 @@
 [submodule "mr/rd/ptn"]
 	path = mr/rd/ptn
 	url = .
+[submodule "mr/ud/fup"]
+	path = mr/ud/fup
+	url = .
 [submodule "mr/wn/vpq"]
 	path = mr/wn/vpq
 	url = .
