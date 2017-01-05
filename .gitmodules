@@ -4585,6 +4585,9 @@
 [submodule "fg/yb/yhe"]
 	path = fg/yb/yhe
 	url = .
+[submodule "fg/zn/evi"]
+	path = fg/zn/evi
+	url = .
 [submodule "fh/dm/aib"]
 	path = fh/dm/aib
 	url = .
