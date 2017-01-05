@@ -5425,6 +5425,9 @@
 [submodule "cy/th/sgc"]
 	path = cy/th/sgc
 	url = .
+[submodule "cy/uh/rol"]
+	path = cy/uh/rol
+	url = .
 [submodule "cy/us/gix"]
 	path = cy/us/gix
 	url = .
