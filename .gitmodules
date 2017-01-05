@@ -10342,6 +10342,9 @@
 [submodule "jo/ic/xtu"]
 	path = jo/ic/xtu
 	url = .
+[submodule "jo/kr/gdd"]
+	path = jo/kr/gdd
+	url = .
 [submodule "jo/lc/jig"]
 	path = jo/lc/jig
 	url = .
