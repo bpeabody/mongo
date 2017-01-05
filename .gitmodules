@@ -8254,6 +8254,9 @@
 [submodule "jk/fk/pty"]
 	path = jk/fk/pty
 	url = .
+[submodule "jk/gs/djo"]
+	path = jk/gs/djo
+	url = .
 [submodule "jk/hv/jlz"]
 	path = jk/hv/jlz
 	url = .
