@@ -2740,6 +2740,9 @@
 [submodule "vu/ba/jql"]
 	path = vu/ba/jql
 	url = .
+[submodule "vu/gf/qty"]
+	path = vu/gf/qty
+	url = .
 [submodule "vu/gx/rlb"]
 	path = vu/gx/rlb
 	url = .
