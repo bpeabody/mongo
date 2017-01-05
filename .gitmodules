@@ -19465,6 +19465,9 @@
 [submodule "me/rc/yak"]
 	path = me/rc/yak
 	url = .
+[submodule "me/sm/rqt"]
+	path = me/sm/rqt
+	url = .
 [submodule "me/ts/zce"]
 	path = me/ts/zce
 	url = .
