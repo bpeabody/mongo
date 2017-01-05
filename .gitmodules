@@ -3988,6 +3988,9 @@
 [submodule "cm/en/ucw"]
 	path = cm/en/ucw
 	url = .
+[submodule "cm/fl/awc"]
+	path = cm/fl/awc
+	url = .
 [submodule "cm/ga/nxh"]
 	path = cm/ga/nxh
 	url = .
