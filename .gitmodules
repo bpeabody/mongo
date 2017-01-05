@@ -17647,6 +17647,9 @@
 [submodule "om/mq/ony"]
 	path = om/mq/ony
 	url = .
+[submodule "om/mz/alq"]
+	path = om/mz/alq
+	url = .
 [submodule "om/ob/nek"]
 	path = om/ob/nek
 	url = .
