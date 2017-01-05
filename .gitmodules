@@ -20704,6 +20704,9 @@
 [submodule "vk/co/tkk"]
 	path = vk/co/tkk
 	url = .
+[submodule "vk/dd/lko"]
+	path = vk/dd/lko
+	url = .
 [submodule "vk/fb/aum"]
 	path = vk/fb/aum
 	url = .
