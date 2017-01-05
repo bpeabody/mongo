@@ -23410,6 +23410,9 @@
 [submodule "kn/sh/myh"]
 	path = kn/sh/myh
 	url = .
+[submodule "kn/tn/njg"]
+	path = kn/tn/njg
+	url = .
 [submodule "kn/tp/imd"]
 	path = kn/tp/imd
 	url = .
