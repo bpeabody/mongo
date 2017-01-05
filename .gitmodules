@@ -7555,6 +7555,9 @@
 [submodule "xi/cx/lii"]
 	path = xi/cx/lii
 	url = .
+[submodule "xi/ea/hel"]
+	path = xi/ea/hel
+	url = .
 [submodule "xi/wg/gmg"]
 	path = xi/wg/gmg
 	url = .
