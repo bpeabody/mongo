@@ -50569,6 +50569,9 @@
 [submodule "vs/jv/npw"]
 	path = vs/jv/npw
 	url = .
+[submodule "vs/lz/dsw"]
+	path = vs/lz/dsw
+	url = .
 [submodule "vs/mg/bqx"]
 	path = vs/mg/bqx
 	url = .
