@@ -346,6 +346,9 @@
 [submodule "ag/mm/qme"]
 	path = ag/mm/qme
 	url = .
+[submodule "ag/mu/cvl"]
+	path = ag/mu/cvl
+	url = .
 [submodule "ag/pg/dwq"]
 	path = ag/pg/dwq
 	url = .
