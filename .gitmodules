@@ -47581,6 +47581,9 @@
 [submodule "pr/ca/eur"]
 	path = pr/ca/eur
 	url = .
+[submodule "pr/cj/mnw"]
+	path = pr/cj/mnw
+	url = .
 [submodule "pr/cq/qwf"]
 	path = pr/cq/qwf
 	url = .
