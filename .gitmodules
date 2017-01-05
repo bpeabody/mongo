@@ -7693,6 +7693,9 @@
 [submodule "iu/uq/reb"]
 	path = iu/uq/reb
 	url = .
+[submodule "iu/wp/pas"]
+	path = iu/wp/pas
+	url = .
 [submodule "iu/xw/jwq"]
 	path = iu/xw/jwq
 	url = .
