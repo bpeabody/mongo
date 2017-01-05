@@ -7720,6 +7720,9 @@
 [submodule "cz/qt/zrw"]
 	path = cz/qt/zrw
 	url = .
+[submodule "cz/sp/snl"]
+	path = cz/sp/snl
+	url = .
 [submodule "cz/tj/nsx"]
 	path = cz/tj/nsx
 	url = .
