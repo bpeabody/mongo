@@ -20455,6 +20455,9 @@
 [submodule "hf/ki/bdv"]
 	path = hf/ki/bdv
 	url = .
+[submodule "hf/km/cug"]
+	path = hf/km/cug
+	url = .
 [submodule "hf/ky/rei"]
 	path = hf/ky/rei
 	url = .
