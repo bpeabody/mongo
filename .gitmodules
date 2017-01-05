@@ -37876,6 +37876,9 @@
 [submodule "tt/vp/yip"]
 	path = tt/vp/yip
 	url = .
+[submodule "tt/vs/vyy"]
+	path = tt/vs/vyy
+	url = .
 [submodule "tt/wd/dgu"]
 	path = tt/wd/dgu
 	url = .
