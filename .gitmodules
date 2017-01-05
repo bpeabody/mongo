@@ -15205,6 +15205,9 @@
 [submodule "wi/ur/veg"]
 	path = wi/ur/veg
 	url = .
+[submodule "wi/vq/gha"]
+	path = wi/vq/gha
+	url = .
 [submodule "wj/af/yas"]
 	path = wj/af/yas
 	url = .
