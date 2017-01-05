@@ -2626,6 +2626,9 @@
 [submodule "hu/uq/jpy"]
 	path = hu/uq/jpy
 	url = .
+[submodule "hu/wh/kfv"]
+	path = hu/wh/kfv
+	url = .
 [submodule "hv/gr/miy"]
 	path = hv/gr/miy
 	url = .
