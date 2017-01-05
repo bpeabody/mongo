@@ -19153,6 +19153,9 @@
 [submodule "ql/xy/nyo"]
 	path = ql/xy/nyo
 	url = .
+[submodule "qm/bk/wxf"]
+	path = qm/bk/wxf
+	url = .
 [submodule "qm/fl/xks"]
 	path = qm/fl/xks
 	url = .
