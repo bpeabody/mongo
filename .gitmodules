@@ -649,6 +649,9 @@
 [submodule "ev/pz/lbn"]
 	path = ev/pz/lbn
 	url = .
+[submodule "ev/re/sir"]
+	path = ev/re/sir
+	url = .
 [submodule "ew/bc/whh"]
 	path = ew/bc/whh
 	url = .
