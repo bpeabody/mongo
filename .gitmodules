@@ -6889,6 +6889,9 @@
 [submodule "pt/kl/uvu"]
 	path = pt/kl/uvu
 	url = .
+[submodule "pt/kt/qkc"]
+	path = pt/kt/qkc
+	url = .
 [submodule "pt/lg/pki"]
 	path = pt/lg/pki
 	url = .
