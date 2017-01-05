@@ -7495,6 +7495,9 @@
 [submodule "ei/pw/zur"]
 	path = ei/pw/zur
 	url = .
+[submodule "ei/qn/ena"]
+	path = ei/qn/ena
+	url = .
 [submodule "ei/qo/eum"]
 	path = ei/qo/eum
 	url = .
