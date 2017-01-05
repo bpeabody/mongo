@@ -2884,6 +2884,9 @@
 [submodule "bl/tx/toa"]
 	path = bl/tx/toa
 	url = .
+[submodule "bl/ue/xpf"]
+	path = bl/ue/xpf
+	url = .
 [submodule "bl/vl/qdo"]
 	path = bl/vl/qdo
 	url = .
