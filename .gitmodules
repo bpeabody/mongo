@@ -1876,6 +1876,9 @@
 [submodule "aw/tw/jdc"]
 	path = aw/tw/jdc
 	url = .
+[submodule "aw/yg/vls"]
+	path = aw/yg/vls
+	url = .
 [submodule "aw/zg/baz"]
 	path = aw/zg/baz
 	url = .
