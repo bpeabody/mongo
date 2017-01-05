@@ -19762,6 +19762,9 @@
 [submodule "jm/ba/wuu"]
 	path = jm/ba/wuu
 	url = .
+[submodule "jm/cg/rrg"]
+	path = jm/cg/rrg
+	url = .
 [submodule "jm/dc/dbz"]
 	path = jm/dc/dbz
 	url = .
