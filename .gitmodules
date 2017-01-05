@@ -17287,6 +17287,9 @@
 [submodule "xa/qi/vif"]
 	path = xa/qi/vif
 	url = .
+[submodule "xa/wh/nqh"]
+	path = xa/wh/nqh
+	url = .
 [submodule "xa/xx/owx"]
 	path = xa/xx/owx
 	url = .
