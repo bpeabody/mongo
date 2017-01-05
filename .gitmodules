@@ -9481,6 +9481,9 @@
 [submodule "gi/me/nfw"]
 	path = gi/me/nfw
 	url = .
+[submodule "gi/mk/nte"]
+	path = gi/mk/nte
+	url = .
 [submodule "gi/oe/rer"]
 	path = gi/oe/rer
 	url = .
