@@ -19348,6 +19348,9 @@
 [submodule "sj/yu/yyi"]
 	path = sj/yu/yyi
 	url = .
+[submodule "sk/ae/xdb"]
+	path = sk/ae/xdb
+	url = .
 [submodule "sk/ar/irb"]
 	path = sk/ar/irb
 	url = .
