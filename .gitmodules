@@ -1102,6 +1102,9 @@
 [submodule "ak/ki/psd"]
 	path = ak/ki/psd
 	url = .
+[submodule "ak/lt/xul"]
+	path = ak/lt/xul
+	url = .
 [submodule "ak/lz/exh"]
 	path = ak/lz/exh
 	url = .
