@@ -33220,6 +33220,9 @@
 [submodule "yt/zv/gjh"]
 	path = yt/zv/gjh
 	url = .
+[submodule "yu/bn/hsk"]
+	path = yu/bn/hsk
+	url = .
 [submodule "yu/bt/qfg"]
 	path = yu/bt/qfg
 	url = .
