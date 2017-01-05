@@ -66361,6 +66361,9 @@
 [submodule "wq/mg/dze"]
 	path = wq/mg/dze
 	url = .
+[submodule "wq/pa/nrr"]
+	path = wq/pa/nrr
+	url = .
 [submodule "wq/qq/obc"]
 	path = wq/qq/obc
 	url = .
