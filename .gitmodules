@@ -26485,6 +26485,9 @@
 [submodule "jy/av/avn"]
 	path = jy/av/avn
 	url = .
+[submodule "jy/dc/gdu"]
+	path = jy/dc/gdu
+	url = .
 [submodule "jy/dq/slk"]
 	path = jy/dq/slk
 	url = .
