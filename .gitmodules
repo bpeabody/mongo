@@ -15562,6 +15562,9 @@
 [submodule "jr/uz/gog"]
 	path = jr/uz/gog
 	url = .
+[submodule "jr/vr/qbw"]
+	path = jr/vr/qbw
+	url = .
 [submodule "jr/vx/app"]
 	path = jr/vx/app
 	url = .
