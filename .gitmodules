@@ -5182,6 +5182,9 @@
 [submodule "mu/qf/skc"]
 	path = mu/qf/skc
 	url = .
+[submodule "mu/ql/kzw"]
+	path = mu/ql/kzw
+	url = .
 [submodule "mu/za/gzm"]
 	path = mu/za/gzm
 	url = .
