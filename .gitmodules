@@ -85,6 +85,9 @@
 [submodule "ai/fw/nee"]
 	path = ai/fw/nee
 	url = .
+[submodule "ai/ir/zjr"]
+	path = ai/ir/zjr
+	url = .
 [submodule "ai/ll/mes"]
 	path = ai/ll/mes
 	url = .
