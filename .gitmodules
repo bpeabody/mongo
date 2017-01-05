@@ -9127,6 +9127,9 @@
 [submodule "iz/mk/cqn"]
 	path = iz/mk/cqn
 	url = .
+[submodule "iz/ok/dte"]
+	path = iz/ok/dte
+	url = .
 [submodule "iz/oo/ttu"]
 	path = iz/oo/ttu
 	url = .
