@@ -8569,6 +8569,9 @@
 [submodule "rv/ga/ogc"]
 	path = rv/ga/ogc
 	url = .
+[submodule "rv/gl/kvp"]
+	path = rv/gl/kvp
+	url = .
 [submodule "rv/me/ajd"]
 	path = rv/me/ajd
 	url = .
