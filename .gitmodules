@@ -49831,6 +49831,9 @@
 [submodule "xq/bm/nwx"]
 	path = xq/bm/nwx
 	url = .
+[submodule "xq/dc/hlk"]
+	path = xq/dc/hlk
+	url = .
 [submodule "xq/dk/bsv"]
 	path = xq/dk/bsv
 	url = .
