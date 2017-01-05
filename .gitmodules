@@ -34258,6 +34258,9 @@
 [submodule "qn/rq/svg"]
 	path = qn/rq/svg
 	url = .
+[submodule "qn/sl/qib"]
+	path = qn/sl/qib
+	url = .
 [submodule "qn/ud/uae"]
 	path = qn/ud/uae
 	url = .
