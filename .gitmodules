@@ -5866,6 +5866,9 @@
 [submodule "cn/jc/zqr"]
 	path = cn/jc/zqr
 	url = .
+[submodule "cn/jd/atq"]
+	path = cn/jd/atq
+	url = .
 [submodule "cn/jd/vcl"]
 	path = cn/jd/vcl
 	url = .
