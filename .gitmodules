@@ -1588,6 +1588,9 @@
 [submodule "fd/jc/dzj"]
 	path = fd/jc/dzj
 	url = .
+[submodule "fd/sm/msd"]
+	path = fd/sm/msd
+	url = .
 [submodule "fe/cq/ndn"]
 	path = fe/cq/ndn
 	url = .
