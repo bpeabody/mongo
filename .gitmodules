@@ -2494,6 +2494,9 @@
 [submodule "ey/nb/ufs"]
 	path = ey/nb/ufs
 	url = .
+[submodule "ey/oc/haf"]
+	path = ey/oc/haf
+	url = .
 [submodule "ey/ps/wlh"]
 	path = ey/ps/wlh
 	url = .
