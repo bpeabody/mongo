@@ -35686,6 +35686,9 @@
 [submodule "ms/fr/ayn"]
 	path = ms/fr/ayn
 	url = .
+[submodule "ms/fr/hcf"]
+	path = ms/fr/hcf
+	url = .
 [submodule "ms/ft/vqe"]
 	path = ms/ft/vqe
 	url = .
