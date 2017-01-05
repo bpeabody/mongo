@@ -8155,6 +8155,9 @@
 [submodule "ok/sf/qxt"]
 	path = ok/sf/qxt
 	url = .
+[submodule "ok/tk/fjo"]
+	path = ok/tk/fjo
+	url = .
 [submodule "ok/uv/dnu"]
 	path = ok/uv/dnu
 	url = .
