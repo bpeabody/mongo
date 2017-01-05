@@ -1987,6 +1987,9 @@
 [submodule "du/sx/soj"]
 	path = du/sx/soj
 	url = .
+[submodule "du/tx/wqm"]
+	path = du/tx/wqm
+	url = .
 [submodule "du/wy/tqc"]
 	path = du/wy/tqc
 	url = .
