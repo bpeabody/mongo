@@ -16555,6 +16555,9 @@
 [submodule "fw/ia/jis"]
 	path = fw/ia/jis
 	url = .
+[submodule "fw/js/rrv"]
+	path = fw/js/rrv
+	url = .
 [submodule "fw/kk/brd"]
 	path = fw/kk/brd
 	url = .
