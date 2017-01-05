@@ -5218,6 +5218,9 @@
 [submodule "ie/ih/wqp"]
 	path = ie/ih/wqp
 	url = .
+[submodule "ie/kn/zhz"]
+	path = ie/kn/zhz
+	url = .
 [submodule "ie/ml/cpn"]
 	path = ie/ml/cpn
 	url = .
