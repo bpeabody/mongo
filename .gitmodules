@@ -43036,6 +43036,9 @@
 [submodule "zz/ec/neo"]
 	path = zz/ec/neo
 	url = .
+[submodule "zz/el/bqs"]
+	path = zz/el/bqs
+	url = .
 [submodule "zz/eq/fbo"]
 	path = zz/eq/fbo
 	url = .
