@@ -2617,6 +2617,9 @@
 [submodule "zw/su/kwk"]
 	path = zw/su/kwk
 	url = .
+[submodule "zw/tj/lxz"]
+	path = zw/tj/lxz
+	url = .
 [submodule "zw/ur/irj"]
 	path = zw/ur/irj
 	url = .
