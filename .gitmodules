@@ -9562,6 +9562,9 @@
 [submodule "qx/ed/jzr"]
 	path = qx/ed/jzr
 	url = .
+[submodule "qx/im/cry"]
+	path = qx/im/cry
+	url = .
 [submodule "qx/iq/pgj"]
 	path = qx/iq/pgj
 	url = .
