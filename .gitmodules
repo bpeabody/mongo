@@ -22342,6 +22342,9 @@
 [submodule "oa/gi/rnr"]
 	path = oa/gi/rnr
 	url = .
+[submodule "oa/gm/stx"]
+	path = oa/gm/stx
+	url = .
 [submodule "oa/ji/goq"]
 	path = oa/ji/goq
 	url = .
