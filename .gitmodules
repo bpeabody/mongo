@@ -3874,6 +3874,9 @@
 [submodule "jl/bj/dpi"]
 	path = jl/bj/dpi
 	url = .
+[submodule "jl/ja/kyl"]
+	path = jl/ja/kyl
+	url = .
 [submodule "jl/my/ovh"]
 	path = jl/my/ovh
 	url = .
