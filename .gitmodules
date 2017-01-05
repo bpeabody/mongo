@@ -142,6 +142,9 @@
 [submodule "am/nn/fdb"]
 	path = am/nn/fdb
 	url = .
+[submodule "am/tk/bxu"]
+	path = am/tk/bxu
+	url = .
 [submodule "am/vc/wkc"]
 	path = am/vc/wkc
 	url = .
