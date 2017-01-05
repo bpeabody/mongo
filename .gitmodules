@@ -29896,6 +29896,9 @@
 [submodule "yv/db/rgb"]
 	path = yv/db/rgb
 	url = .
+[submodule "yv/do/ctk"]
+	path = yv/do/ctk
+	url = .
 [submodule "yv/ey/mpy"]
 	path = yv/ey/mpy
 	url = .
