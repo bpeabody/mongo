@@ -2173,6 +2173,9 @@
 [submodule "gz/rb/tsb"]
 	path = gz/rb/tsb
 	url = .
+[submodule "gz/ux/krc"]
+	path = gz/ux/krc
+	url = .
 [submodule "gz/wv/szw"]
 	path = gz/wv/szw
 	url = .
