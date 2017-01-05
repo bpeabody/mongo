@@ -5779,6 +5779,9 @@
 [submodule "ys/kd/ked"]
 	path = ys/kd/ked
 	url = .
+[submodule "ys/mk/mrr"]
+	path = ys/mk/mrr
+	url = .
 [submodule "yt/ie/saq"]
 	path = yt/ie/saq
 	url = .
