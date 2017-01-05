@@ -1177,6 +1177,9 @@
 [submodule "am/dv/bsc"]
 	path = am/dv/bsc
 	url = .
+[submodule "am/fg/syc"]
+	path = am/fg/syc
+	url = .
 [submodule "am/hc/naj"]
 	path = am/hc/naj
 	url = .
