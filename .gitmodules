@@ -7222,6 +7222,9 @@
 [submodule "cs/cw/yzy"]
 	path = cs/cw/yzy
 	url = .
+[submodule "cs/dl/wnm"]
+	path = cs/dl/wnm
+	url = .
 [submodule "cs/ep/uvn"]
 	path = cs/ep/uvn
 	url = .
