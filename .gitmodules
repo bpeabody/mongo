@@ -5755,6 +5755,9 @@
 [submodule "dl/rt/sll"]
 	path = dl/rt/sll
 	url = .
+[submodule "dl/sn/jhs"]
+	path = dl/sn/jhs
+	url = .
 [submodule "dl/sp/sqs"]
 	path = dl/sp/sqs
 	url = .
