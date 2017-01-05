@@ -895,6 +895,9 @@
 [submodule "ta/oc/fgs"]
 	path = ta/oc/fgs
 	url = .
+[submodule "td/nk/sni"]
+	path = td/nk/sni
+	url = .
 [submodule "tf/dm/gyi"]
 	path = tf/dm/gyi
 	url = .
