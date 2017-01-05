@@ -8263,6 +8263,9 @@
 [submodule "io/gy/wlc"]
 	path = io/gy/wlc
 	url = .
+[submodule "io/gz/lzo"]
+	path = io/gz/lzo
+	url = .
 [submodule "io/hh/jhm"]
 	path = io/hh/jhm
 	url = .
