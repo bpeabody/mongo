@@ -13411,6 +13411,9 @@
 [submodule "kb/pw/jqh"]
 	path = kb/pw/jqh
 	url = .
+[submodule "kb/qb/sxz"]
+	path = kb/qb/sxz
+	url = .
 [submodule "kb/rr/edu"]
 	path = kb/rr/edu
 	url = .
