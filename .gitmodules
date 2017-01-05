@@ -2965,6 +2965,9 @@
 [submodule "cd/ah/mfd"]
 	path = cd/ah/mfd
 	url = .
+[submodule "cd/cs/kqx"]
+	path = cd/cs/kqx
+	url = .
 [submodule "cd/dh/pkj"]
 	path = cd/dh/pkj
 	url = .
