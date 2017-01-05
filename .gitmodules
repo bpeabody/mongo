@@ -6985,6 +6985,9 @@
 [submodule "iu/pm/zuo"]
 	path = iu/pm/zuo
 	url = .
+[submodule "iu/qd/yxo"]
+	path = iu/qd/yxo
+	url = .
 [submodule "iu/up/hly"]
 	path = iu/up/hly
 	url = .
