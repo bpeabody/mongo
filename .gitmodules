@@ -18427,6 +18427,9 @@
 [submodule "kb/rr/edu"]
 	path = kb/rr/edu
 	url = .
+[submodule "kb/sj/ays"]
+	path = kb/sj/ays
+	url = .
 [submodule "kb/tp/zov"]
 	path = kb/tp/zov
 	url = .
