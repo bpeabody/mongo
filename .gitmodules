@@ -2434,6 +2434,9 @@
 [submodule "dd/zu/ikx"]
 	path = dd/zu/ikx
 	url = .
+[submodule "de/dd/ekh"]
+	path = de/dd/ekh
+	url = .
 [submodule "de/gc/fvk"]
 	path = de/gc/fvk
 	url = .
