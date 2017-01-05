@@ -33304,6 +33304,9 @@
 [submodule "uh/ua/bqo"]
 	path = uh/ua/bqo
 	url = .
+[submodule "uh/uw/qya"]
+	path = uh/uw/qya
+	url = .
 [submodule "uh/wg/oct"]
 	path = uh/wg/oct
 	url = .
