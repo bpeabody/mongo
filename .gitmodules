@@ -33526,6 +33526,9 @@
 [submodule "ui/mn/ngw"]
 	path = ui/mn/ngw
 	url = .
+[submodule "ui/mr/xru"]
+	path = ui/mr/xru
+	url = .
 [submodule "ui/ni/wkz"]
 	path = ui/ni/wkz
 	url = .
