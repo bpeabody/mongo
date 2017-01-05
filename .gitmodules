@@ -2188,6 +2188,9 @@
 [submodule "xs/st/nwr"]
 	path = xs/st/nwr
 	url = .
+[submodule "xv/hb/umk"]
+	path = xv/hb/umk
+	url = .
 [submodule "xv/kk/nnd"]
 	path = xv/kk/nnd
 	url = .
