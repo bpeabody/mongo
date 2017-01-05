@@ -3097,6 +3097,9 @@
 [submodule "dt/vm/dll"]
 	path = dt/vm/dll
 	url = .
+[submodule "dt/xe/chy"]
+	path = dt/xe/chy
+	url = .
 [submodule "dt/xr/mgb"]
 	path = dt/xr/mgb
 	url = .
