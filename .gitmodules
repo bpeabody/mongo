@@ -1726,6 +1726,9 @@
 [submodule "dc/zb/itv"]
 	path = dc/zb/itv
 	url = .
+[submodule "dc/ze/dsy"]
+	path = dc/ze/dsy
+	url = .
 [submodule "dc/zp/vac"]
 	path = dc/zp/vac
 	url = .
