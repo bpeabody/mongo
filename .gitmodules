@@ -6319,6 +6319,9 @@
 [submodule "qb/ga/roh"]
 	path = qb/ga/roh
 	url = .
+[submodule "qb/rz/vkx"]
+	path = qb/rz/vkx
+	url = .
 [submodule "qb/ub/tou"]
 	path = qb/ub/tou
 	url = .
