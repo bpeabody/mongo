@@ -2560,6 +2560,9 @@
 [submodule "gm/xb/baq"]
 	path = gm/xb/baq
 	url = .
+[submodule "gm/yf/kis"]
+	path = gm/yf/kis
+	url = .
 [submodule "gn/ad/scv"]
 	path = gn/ad/scv
 	url = .
