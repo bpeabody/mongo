@@ -316,6 +316,9 @@
 [submodule "ax/ak/dty"]
 	path = ax/ak/dty
 	url = .
+[submodule "ax/gy/wie"]
+	path = ax/gy/wie
+	url = .
 [submodule "ax/jt/ltn"]
 	path = ax/jt/ltn
 	url = .
