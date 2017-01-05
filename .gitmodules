@@ -19918,6 +19918,9 @@
 [submodule "mx/fk/izs"]
 	path = mx/fk/izs
 	url = .
+[submodule "mx/fu/dyi"]
+	path = mx/fu/dyi
+	url = .
 [submodule "mx/hb/rkd"]
 	path = mx/hb/rkd
 	url = .
