@@ -4,6 +4,9 @@
 [submodule "ab/xz/qhy"]
 	path = ab/xz/qhy
 	url = .
+[submodule "ac/mt/loe"]
+	path = ac/mt/loe
+	url = .
 [submodule "ah/qy/stj"]
 	path = ah/qy/stj
 	url = .
