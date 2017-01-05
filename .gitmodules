@@ -7624,6 +7624,9 @@
 [submodule "ib/lz/fni"]
 	path = ib/lz/fni
 	url = .
+[submodule "ib/ma/hbk"]
+	path = ib/ma/hbk
+	url = .
 [submodule "ib/nb/jrb"]
 	path = ib/nb/jrb
 	url = .
