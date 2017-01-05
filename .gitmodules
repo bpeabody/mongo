@@ -12388,6 +12388,9 @@
 [submodule "jb/sq/ibi"]
 	path = jb/sq/ibi
 	url = .
+[submodule "jb/uw/wcz"]
+	path = jb/uw/wcz
+	url = .
 [submodule "jb/wy/csi"]
 	path = jb/wy/csi
 	url = .
