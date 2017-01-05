@@ -11611,6 +11611,9 @@
 [submodule "em/us/fqn"]
 	path = em/us/fqn
 	url = .
+[submodule "em/wl/qkq"]
+	path = em/wl/qkq
+	url = .
 [submodule "em/xg/tpu"]
 	path = em/xg/tpu
 	url = .
