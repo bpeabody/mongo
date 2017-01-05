@@ -7048,6 +7048,9 @@
 [submodule "dm/qa/npi"]
 	path = dm/qa/npi
 	url = .
+[submodule "dm/rz/ggs"]
+	path = dm/rz/ggs
+	url = .
 [submodule "dm/rz/jbt"]
 	path = dm/rz/jbt
 	url = .
