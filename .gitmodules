@@ -6961,6 +6961,9 @@
 [submodule "qm/fl/xks"]
 	path = qm/fl/xks
 	url = .
+[submodule "qm/kb/apr"]
+	path = qm/kb/apr
+	url = .
 [submodule "qm/uc/cvk"]
 	path = qm/uc/cvk
 	url = .
