@@ -5563,6 +5563,9 @@
 [submodule "mf/pw/sbx"]
 	path = mf/pw/sbx
 	url = .
+[submodule "mf/xl/yqg"]
+	path = mf/xl/yqg
+	url = .
 [submodule "mg/ah/odc"]
 	path = mg/ah/odc
 	url = .
