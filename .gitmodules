@@ -15853,6 +15853,9 @@
 [submodule "hj/ob/krn"]
 	path = hj/ob/krn
 	url = .
+[submodule "hj/ov/loj"]
+	path = hj/ov/loj
+	url = .
 [submodule "hj/px/egr"]
 	path = hj/px/egr
 	url = .
