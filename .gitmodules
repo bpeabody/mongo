@@ -13777,6 +13777,9 @@
 [submodule "fj/xa/cas"]
 	path = fj/xa/cas
 	url = .
+[submodule "fj/yi/ymg"]
+	path = fj/yi/ymg
+	url = .
 [submodule "fj/zc/evx"]
 	path = fj/zc/evx
 	url = .
