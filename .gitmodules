@@ -26998,6 +26998,9 @@
 [submodule "nd/ro/onb"]
 	path = nd/ro/onb
 	url = .
+[submodule "nd/ty/eem"]
+	path = nd/ty/eem
+	url = .
 [submodule "nd/vm/umb"]
 	path = nd/vm/umb
 	url = .
