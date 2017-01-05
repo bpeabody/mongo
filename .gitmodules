@@ -1687,6 +1687,9 @@
 [submodule "aw/pk/phc"]
 	path = aw/pk/phc
 	url = .
+[submodule "aw/qz/vtz"]
+	path = aw/qz/vtz
+	url = .
 [submodule "aw/sc/tgn"]
 	path = aw/sc/tgn
 	url = .
