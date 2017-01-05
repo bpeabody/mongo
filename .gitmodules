@@ -8632,6 +8632,9 @@
 [submodule "da/mz/swc"]
 	path = da/mz/swc
 	url = .
+[submodule "da/na/dwt"]
+	path = da/na/dwt
+	url = .
 [submodule "da/os/aml"]
 	path = da/os/aml
 	url = .
