@@ -23005,6 +23005,9 @@
 [submodule "mi/kc/esc"]
 	path = mi/kc/esc
 	url = .
+[submodule "mi/kk/shq"]
+	path = mi/kk/shq
+	url = .
 [submodule "mi/le/ars"]
 	path = mi/le/ars
 	url = .
