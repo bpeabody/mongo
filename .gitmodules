@@ -22567,6 +22567,9 @@
 [submodule "mn/kn/rmp"]
 	path = mn/kn/rmp
 	url = .
+[submodule "mn/lv/nni"]
+	path = mn/lv/nni
+	url = .
 [submodule "mn/ni/uvh"]
 	path = mn/ni/uvh
 	url = .
