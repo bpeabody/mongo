@@ -2056,6 +2056,9 @@
 [submodule "io/aw/fgo"]
 	path = io/aw/fgo
 	url = .
+[submodule "io/lu/enf"]
+	path = io/lu/enf
+	url = .
 [submodule "io/mc/mcj"]
 	path = io/mc/mcj
 	url = .
