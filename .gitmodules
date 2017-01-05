@@ -6745,6 +6745,9 @@
 [submodule "ez/yp/pdv"]
 	path = ez/yp/pdv
 	url = .
+[submodule "fa/bq/inf"]
+	path = fa/bq/inf
+	url = .
 [submodule "fa/ct/afm"]
 	path = fa/ct/afm
 	url = .
