@@ -12001,6 +12001,9 @@
 [submodule "gj/ua/tbs"]
 	path = gj/ua/tbs
 	url = .
+[submodule "gj/ut/kpe"]
+	path = gj/ut/kpe
+	url = .
 [submodule "gj/vd/rnv"]
 	path = gj/vd/rnv
 	url = .
