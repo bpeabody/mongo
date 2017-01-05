@@ -20293,6 +20293,9 @@
 [submodule "qc/hk/ubb"]
 	path = qc/hk/ubb
 	url = .
+[submodule "qc/ih/ehq"]
+	path = qc/ih/ehq
+	url = .
 [submodule "qc/ii/ngz"]
 	path = qc/ii/ngz
 	url = .
