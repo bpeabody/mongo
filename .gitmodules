@@ -7630,6 +7630,9 @@
 [submodule "ok/im/nvy"]
 	path = ok/im/nvy
 	url = .
+[submodule "ok/jm/mof"]
+	path = ok/jm/mof
+	url = .
 [submodule "ok/sf/qxt"]
 	path = ok/sf/qxt
 	url = .
