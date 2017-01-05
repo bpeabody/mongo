@@ -11038,6 +11038,9 @@
 [submodule "qf/gn/pcs"]
 	path = qf/gn/pcs
 	url = .
+[submodule "qf/hc/osn"]
+	path = qf/hc/osn
+	url = .
 [submodule "qf/lt/mdl"]
 	path = qf/lt/mdl
 	url = .
