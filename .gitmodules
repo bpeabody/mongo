@@ -4186,6 +4186,9 @@
 [submodule "my/we/abw"]
 	path = my/we/abw
 	url = .
+[submodule "my/wy/lyd"]
+	path = my/wy/lyd
+	url = .
 [submodule "my/yc/qct"]
 	path = my/yc/qct
 	url = .
