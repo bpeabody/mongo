@@ -50593,6 +50593,9 @@
 [submodule "yi/qh/ojj"]
 	path = yi/qh/ojj
 	url = .
+[submodule "yi/so/ely"]
+	path = yi/so/ely
+	url = .
 [submodule "yi/tz/tqi"]
 	path = yi/tz/tqi
 	url = .
