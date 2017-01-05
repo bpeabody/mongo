@@ -3157,6 +3157,9 @@
 [submodule "hi/xv/uit"]
 	path = hi/xv/uit
 	url = .
+[submodule "hi/ye/qmf"]
+	path = hi/ye/qmf
+	url = .
 [submodule "hj/bo/xyv"]
 	path = hj/bo/xyv
 	url = .
