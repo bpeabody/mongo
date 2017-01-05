@@ -46849,6 +46849,9 @@
 [submodule "zq/es/dxm"]
 	path = zq/es/dxm
 	url = .
+[submodule "zq/ex/fsz"]
+	path = zq/ex/fsz
+	url = .
 [submodule "zq/ie/neu"]
 	path = zq/ie/neu
 	url = .
