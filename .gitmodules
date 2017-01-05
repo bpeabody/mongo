@@ -712,6 +712,9 @@
 [submodule "bp/ab/khj"]
 	path = bp/ab/khj
 	url = .
+[submodule "bp/dy/npi"]
+	path = bp/dy/npi
+	url = .
 [submodule "bp/ku/fnv"]
 	path = bp/ku/fnv
 	url = .
