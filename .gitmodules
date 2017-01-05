@@ -15622,6 +15622,9 @@
 [submodule "jz/vf/ksx"]
 	path = jz/vf/ksx
 	url = .
+[submodule "jz/vm/kpp"]
+	path = jz/vm/kpp
+	url = .
 [submodule "jz/vx/xqw"]
 	path = jz/vx/xqw
 	url = .
