@@ -28954,6 +28954,9 @@
 [submodule "ps/qh/pxq"]
 	path = ps/qh/pxq
 	url = .
+[submodule "ps/sb/dae"]
+	path = ps/sb/dae
+	url = .
 [submodule "ps/sg/lsk"]
 	path = ps/sg/lsk
 	url = .
