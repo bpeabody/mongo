@@ -1027,6 +1027,9 @@
 [submodule "in/ef/ein"]
 	path = in/ef/ein
 	url = .
+[submodule "io/mc/mcj"]
+	path = io/mc/mcj
+	url = .
 [submodule "io/rv/ich"]
 	path = io/rv/ich
 	url = .
