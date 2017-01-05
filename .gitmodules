@@ -892,6 +892,9 @@
 [submodule "ai/wu/hnb"]
 	path = ai/wu/hnb
 	url = .
+[submodule "ai/yt/qfx"]
+	path = ai/yt/qfx
+	url = .
 [submodule "ai/yx/pbh"]
 	path = ai/yx/pbh
 	url = .
