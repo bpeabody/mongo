@@ -25534,6 +25534,9 @@
 [submodule "mn/ua/pgv"]
 	path = mn/ua/pgv
 	url = .
+[submodule "mn/uf/cho"]
+	path = mn/uf/cho
+	url = .
 [submodule "mn/vj/wom"]
 	path = mn/vj/wom
 	url = .
