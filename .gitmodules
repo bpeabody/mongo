@@ -4564,6 +4564,9 @@
 [submodule "mt/rp/qcy"]
 	path = mt/rp/qcy
 	url = .
+[submodule "mu/dn/ghc"]
+	path = mu/dn/ghc
+	url = .
 [submodule "mu/ig/bwn"]
 	path = mu/ig/bwn
 	url = .
