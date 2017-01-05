@@ -6586,6 +6586,9 @@
 [submodule "ez/gz/kzj"]
 	path = ez/gz/kzj
 	url = .
+[submodule "ez/hc/cjy"]
+	path = ez/hc/cjy
+	url = .
 [submodule "ez/mi/rts"]
 	path = ez/mi/rts
 	url = .
