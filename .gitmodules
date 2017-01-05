@@ -691,6 +691,9 @@
 [submodule "di/mh/ims"]
 	path = di/mh/ims
 	url = .
+[submodule "di/ts/jlu"]
+	path = di/ts/jlu
+	url = .
 [submodule "di/yh/jpn"]
 	path = di/yh/jpn
 	url = .
