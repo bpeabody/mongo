@@ -12439,6 +12439,9 @@
 [submodule "er/dg/ejc"]
 	path = er/dg/ejc
 	url = .
+[submodule "er/dq/dos"]
+	path = er/dq/dos
+	url = .
 [submodule "er/eb/gyy"]
 	path = er/eb/gyy
 	url = .
