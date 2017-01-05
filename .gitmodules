@@ -19072,6 +19072,9 @@
 [submodule "rx/da/vjx"]
 	path = rx/da/vjx
 	url = .
+[submodule "rx/dg/gda"]
+	path = rx/dg/gda
+	url = .
 [submodule "rx/dy/bat"]
 	path = rx/dy/bat
 	url = .
