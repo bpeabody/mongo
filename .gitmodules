@@ -19252,6 +19252,9 @@
 [submodule "mx/eu/plf"]
 	path = mx/eu/plf
 	url = .
+[submodule "mx/fg/wts"]
+	path = mx/fg/wts
+	url = .
 [submodule "mx/fk/izs"]
 	path = mx/fk/izs
 	url = .
