@@ -3376,6 +3376,9 @@
 [submodule "ex/hx/jks"]
 	path = ex/hx/jks
 	url = .
+[submodule "ex/jk/zxr"]
+	path = ex/jk/zxr
+	url = .
 [submodule "ex/ly/nbm"]
 	path = ex/ly/nbm
 	url = .
