@@ -2506,6 +2506,9 @@
 [submodule "ei/tb/hjp"]
 	path = ei/tb/hjp
 	url = .
+[submodule "ei/wm/hnv"]
+	path = ei/wm/hnv
+	url = .
 [submodule "ei/yu/scy"]
 	path = ei/yu/scy
 	url = .
