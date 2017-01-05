@@ -13426,6 +13426,9 @@
 [submodule "gc/sp/xzt"]
 	path = gc/sp/xzt
 	url = .
+[submodule "gc/uz/cjc"]
+	path = gc/uz/cjc
+	url = .
 [submodule "gc/ve/lba"]
 	path = gc/ve/lba
 	url = .
