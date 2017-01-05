@@ -1006,6 +1006,9 @@
 [submodule "wr/et/yux"]
 	path = wr/et/yux
 	url = .
+[submodule "wr/yc/sxp"]
+	path = wr/yc/sxp
+	url = .
 [submodule "wt/ma/sch"]
 	path = wt/ma/sch
 	url = .
