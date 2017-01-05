@@ -32335,6 +32335,9 @@
 [submodule "zo/gb/nfk"]
 	path = zo/gb/nfk
 	url = .
+[submodule "zo/hj/vat"]
+	path = zo/hj/vat
+	url = .
 [submodule "zo/hp/rcv"]
 	path = zo/hp/rcv
 	url = .
