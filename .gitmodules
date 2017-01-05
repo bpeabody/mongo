@@ -2866,6 +2866,9 @@
 [submodule "tg/ky/bbk"]
 	path = tg/ky/bbk
 	url = .
+[submodule "tg/ps/bdd"]
+	path = tg/ps/bdd
+	url = .
 [submodule "tg/xw/czu"]
 	path = tg/xw/czu
 	url = .
