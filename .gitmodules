@@ -29227,6 +29227,9 @@
 [submodule "px/qt/eyq"]
 	path = px/qt/eyq
 	url = .
+[submodule "px/rl/sqn"]
+	path = px/rl/sqn
+	url = .
 [submodule "px/tw/rkn"]
 	path = px/tw/rkn
 	url = .
