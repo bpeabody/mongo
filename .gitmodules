@@ -22543,6 +22543,9 @@
 [submodule "om/vo/qot"]
 	path = om/vo/qot
 	url = .
+[submodule "om/wr/bkz"]
+	path = om/wr/bkz
+	url = .
 [submodule "om/xd/jvi"]
 	path = om/xd/jvi
 	url = .
