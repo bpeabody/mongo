@@ -6499,6 +6499,9 @@
 [submodule "cm/do/npw"]
 	path = cm/do/npw
 	url = .
+[submodule "cm/ee/sdr"]
+	path = cm/ee/sdr
+	url = .
 [submodule "cm/en/ucw"]
 	path = cm/en/ucw
 	url = .
