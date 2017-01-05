@@ -1684,6 +1684,9 @@
 [submodule "di/yh/jpn"]
 	path = di/yh/jpn
 	url = .
+[submodule "dj/ca/bae"]
+	path = dj/ca/bae
+	url = .
 [submodule "dj/de/opz"]
 	path = dj/de/opz
 	url = .
