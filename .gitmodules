@@ -451,6 +451,9 @@
 [submodule "ad/yf/cnx"]
 	path = ad/yf/cnx
 	url = .
+[submodule "ad/yx/hvs"]
+	path = ad/yx/hvs
+	url = .
 [submodule "ad/zw/qbx"]
 	path = ad/zw/qbx
 	url = .
