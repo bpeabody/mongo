@@ -5536,6 +5536,9 @@
 [submodule "du/gb/pvv"]
 	path = du/gb/pvv
 	url = .
+[submodule "du/gy/mud"]
+	path = du/gy/mud
+	url = .
 [submodule "du/md/ric"]
 	path = du/md/ric
 	url = .
