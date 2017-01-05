@@ -9658,6 +9658,9 @@
 [submodule "fy/ev/oos"]
 	path = fy/ev/oos
 	url = .
+[submodule "fy/fd/xka"]
+	path = fy/fd/xka
+	url = .
 [submodule "fy/ge/psh"]
 	path = fy/ge/psh
 	url = .
