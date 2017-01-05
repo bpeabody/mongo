@@ -11812,6 +11812,9 @@
 [submodule "tw/bv/luz"]
 	path = tw/bv/luz
 	url = .
+[submodule "tw/iv/rmq"]
+	path = tw/iv/rmq
+	url = .
 [submodule "tw/nt/zwb"]
 	path = tw/nt/zwb
 	url = .
