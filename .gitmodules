@@ -316,6 +316,9 @@
 [submodule "lr/nl/ukl"]
 	path = lr/nl/ukl
 	url = .
+[submodule "lr/qk/mgz"]
+	path = lr/qk/mgz
+	url = .
 [submodule "md/hr/guc"]
 	path = md/hr/guc
 	url = .
