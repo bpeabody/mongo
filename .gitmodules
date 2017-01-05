@@ -7930,6 +7930,9 @@
 [submodule "ej/nv/cqq"]
 	path = ej/nv/cqq
 	url = .
+[submodule "ej/pd/izl"]
+	path = ej/pd/izl
+	url = .
 [submodule "ej/si/lya"]
 	path = ej/si/lya
 	url = .
