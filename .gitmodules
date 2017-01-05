@@ -27229,6 +27229,9 @@
 [submodule "nb/ft/lms"]
 	path = nb/ft/lms
 	url = .
+[submodule "nb/hf/xuh"]
+	path = nb/hf/xuh
+	url = .
 [submodule "nb/hj/fer"]
 	path = nb/hj/fer
 	url = .
