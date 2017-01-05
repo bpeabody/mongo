@@ -58267,6 +58267,9 @@
 [submodule "vy/sx/yde"]
 	path = vy/sx/yde
 	url = .
+[submodule "vy/ta/htv"]
+	path = vy/ta/htv
+	url = .
 [submodule "vy/uc/qva"]
 	path = vy/uc/qva
 	url = .
