@@ -5098,6 +5098,9 @@
 [submodule "dq/na/zvb"]
 	path = dq/na/zvb
 	url = .
+[submodule "dq/pf/nvc"]
+	path = dq/pf/nvc
+	url = .
 [submodule "dq/qa/fgo"]
 	path = dq/qa/fgo
 	url = .
