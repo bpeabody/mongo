@@ -18190,6 +18190,9 @@
 [submodule "gc/hx/gkg"]
 	path = gc/hx/gkg
 	url = .
+[submodule "gc/ju/sgq"]
+	path = gc/ju/sgq
+	url = .
 [submodule "gc/jx/lri"]
 	path = gc/jx/lri
 	url = .
