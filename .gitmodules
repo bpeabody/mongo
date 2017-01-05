@@ -1660,6 +1660,9 @@
 [submodule "bj/bp/ipn"]
 	path = bj/bp/ipn
 	url = .
+[submodule "bj/cm/poa"]
+	path = bj/cm/poa
+	url = .
 [submodule "bj/em/jzh"]
 	path = bj/em/jzh
 	url = .
