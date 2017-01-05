@@ -2026,6 +2026,9 @@
 [submodule "cw/tm/tcr"]
 	path = cw/tm/tcr
 	url = .
+[submodule "cw/zp/fxr"]
+	path = cw/zp/fxr
+	url = .
 [submodule "cx/gi/rsv"]
 	path = cx/gi/rsv
 	url = .
