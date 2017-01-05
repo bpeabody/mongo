@@ -2749,6 +2749,9 @@
 [submodule "ns/yp/ycc"]
 	path = ns/yp/ycc
 	url = .
+[submodule "nu/su/mem"]
+	path = nu/su/mem
+	url = .
 [submodule "nv/oo/fed"]
 	path = nv/oo/fed
 	url = .
