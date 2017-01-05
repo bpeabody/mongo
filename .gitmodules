@@ -10936,6 +10936,9 @@
 [submodule "kg/xv/gyc"]
 	path = kg/xv/gyc
 	url = .
+[submodule "kg/ya/sbl"]
+	path = kg/ya/sbl
+	url = .
 [submodule "kh/az/yuu"]
 	path = kh/az/yuu
 	url = .
