@@ -9043,6 +9043,9 @@
 [submodule "ne/dp/dna"]
 	path = ne/dp/dna
 	url = .
+[submodule "ne/jo/hnd"]
+	path = ne/jo/hnd
+	url = .
 [submodule "ne/ph/val"]
 	path = ne/ph/val
 	url = .
