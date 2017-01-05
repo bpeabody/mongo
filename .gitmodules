@@ -43207,6 +43207,9 @@
 [submodule "xm/fy/usr"]
 	path = xm/fy/usr
 	url = .
+[submodule "xm/hn/nbk"]
+	path = xm/hn/nbk
+	url = .
 [submodule "xm/jr/qhp"]
 	path = xm/jr/qhp
 	url = .
