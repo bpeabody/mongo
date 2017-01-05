@@ -15412,6 +15412,9 @@
 [submodule "fy/kb/ngn"]
 	path = fy/kb/ngn
 	url = .
+[submodule "fy/kr/loh"]
+	path = fy/kr/loh
+	url = .
 [submodule "fy/lk/sso"]
 	path = fy/lk/sso
 	url = .
