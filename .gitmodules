@@ -43960,6 +43960,9 @@
 [submodule "ss/mt/lkl"]
 	path = ss/mt/lkl
 	url = .
+[submodule "ss/ni/hnb"]
+	path = ss/ni/hnb
+	url = .
 [submodule "ss/nk/cev"]
 	path = ss/nk/cev
 	url = .
