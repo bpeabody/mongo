@@ -47620,6 +47620,9 @@
 [submodule "yn/di/izh"]
 	path = yn/di/izh
 	url = .
+[submodule "yn/dm/eem"]
+	path = yn/dm/eem
+	url = .
 [submodule "yn/fc/pyr"]
 	path = yn/fc/pyr
 	url = .
