@@ -7483,6 +7483,9 @@
 [submodule "wl/xr/opx"]
 	path = wl/xr/opx
 	url = .
+[submodule "wl/za/lzc"]
+	path = wl/za/lzc
+	url = .
 [submodule "wm/bu/qbe"]
 	path = wm/bu/qbe
 	url = .
