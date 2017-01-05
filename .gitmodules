@@ -14803,6 +14803,9 @@
 [submodule "po/to/eaz"]
 	path = po/to/eaz
 	url = .
+[submodule "po/xw/ckl"]
+	path = po/xw/ckl
+	url = .
 [submodule "pp/ag/nyg"]
 	path = pp/ag/nyg
 	url = .
