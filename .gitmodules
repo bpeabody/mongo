@@ -55864,6 +55864,9 @@
 [submodule "wz/gw/uar"]
 	path = wz/gw/uar
 	url = .
+[submodule "wz/je/wfe"]
+	path = wz/je/wfe
+	url = .
 [submodule "wz/kh/mqy"]
 	path = wz/kh/mqy
 	url = .
