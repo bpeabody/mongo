@@ -1201,6 +1201,9 @@
 [submodule "bv/ly/mva"]
 	path = bv/ly/mva
 	url = .
+[submodule "bv/nx/iac"]
+	path = bv/nx/iac
+	url = .
 [submodule "bv/qp/qyi"]
 	path = bv/qp/qyi
 	url = .
