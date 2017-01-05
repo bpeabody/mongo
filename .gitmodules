@@ -4759,6 +4759,9 @@
 [submodule "cg/mm/hpu"]
 	path = cg/mm/hpu
 	url = .
+[submodule "cg/nj/npg"]
+	path = cg/nj/npg
+	url = .
 [submodule "cg/qc/vly"]
 	path = cg/qc/vly
 	url = .
