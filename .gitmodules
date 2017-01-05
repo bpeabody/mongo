@@ -56428,6 +56428,9 @@
 [submodule "vi/vg/fhs"]
 	path = vi/vg/fhs
 	url = .
+[submodule "vi/vt/fxo"]
+	path = vi/vt/fxo
+	url = .
 [submodule "vi/vx/lba"]
 	path = vi/vx/lba
 	url = .
