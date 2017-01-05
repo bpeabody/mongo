@@ -44209,6 +44209,9 @@
 [submodule "vu/hw/htt"]
 	path = vu/hw/htt
 	url = .
+[submodule "vu/ia/yda"]
+	path = vu/ia/yda
+	url = .
 [submodule "vu/kc/qna"]
 	path = vu/kc/qna
 	url = .
