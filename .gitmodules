@@ -1489,6 +1489,9 @@
 [submodule "sm/wq/zjj"]
 	path = sm/wq/zjj
 	url = .
+[submodule "sn/fm/rst"]
+	path = sn/fm/rst
+	url = .
 [submodule "sn/un/ieq"]
 	path = sn/un/ieq
 	url = .
