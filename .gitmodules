@@ -12232,6 +12232,9 @@
 [submodule "ek/bq/pfo"]
 	path = ek/bq/pfo
 	url = .
+[submodule "ek/cq/knd"]
+	path = ek/cq/knd
+	url = .
 [submodule "ek/cy/gle"]
 	path = ek/cy/gle
 	url = .
