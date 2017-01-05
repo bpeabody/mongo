@@ -15922,6 +15922,9 @@
 [submodule "nl/hi/pad"]
 	path = nl/hi/pad
 	url = .
+[submodule "nl/hp/ekx"]
+	path = nl/hp/ekx
+	url = .
 [submodule "nl/mr/pcw"]
 	path = nl/mr/pcw
 	url = .
