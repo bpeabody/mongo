@@ -27250,6 +27250,9 @@
 [submodule "yb/ei/leq"]
 	path = yb/ei/leq
 	url = .
+[submodule "yb/fe/vgq"]
+	path = yb/fe/vgq
+	url = .
 [submodule "yb/iq/lmr"]
 	path = yb/iq/lmr
 	url = .
