@@ -12706,6 +12706,9 @@
 [submodule "gz/hr/scm"]
 	path = gz/hr/scm
 	url = .
+[submodule "gz/je/bxd"]
+	path = gz/je/bxd
+	url = .
 [submodule "gz/jk/krv"]
 	path = gz/jk/krv
 	url = .
