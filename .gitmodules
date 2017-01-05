@@ -31393,6 +31393,9 @@
 [submodule "zf/ng/zqk"]
 	path = zf/ng/zqk
 	url = .
+[submodule "zf/pe/jrr"]
+	path = zf/pe/jrr
+	url = .
 [submodule "zf/rw/drp"]
 	path = zf/rw/drp
 	url = .
