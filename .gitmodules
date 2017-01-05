@@ -6196,6 +6196,9 @@
 [submodule "sa/ly/ktq"]
 	path = sa/ly/ktq
 	url = .
+[submodule "sa/ra/rpu"]
+	path = sa/ra/rpu
+	url = .
 [submodule "sa/uh/fuf"]
 	path = sa/uh/fuf
 	url = .
