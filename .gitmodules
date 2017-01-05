@@ -6055,6 +6055,9 @@
 [submodule "uj/cs/pwh"]
 	path = uj/cs/pwh
 	url = .
+[submodule "uj/ek/xtp"]
+	path = uj/ek/xtp
+	url = .
 [submodule "uj/oa/smc"]
 	path = uj/oa/smc
 	url = .
