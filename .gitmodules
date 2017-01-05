@@ -4534,6 +4534,9 @@
 [submodule "cw/tm/tcr"]
 	path = cw/tm/tcr
 	url = .
+[submodule "cw/zg/npo"]
+	path = cw/zg/npo
+	url = .
 [submodule "cw/zp/fxr"]
 	path = cw/zp/fxr
 	url = .
