@@ -2776,6 +2776,9 @@
 [submodule "re/py/ktl"]
 	path = re/py/ktl
 	url = .
+[submodule "rf/or/nyj"]
+	path = rf/or/nyj
+	url = .
 [submodule "rg/ip/rmj"]
 	path = rg/ip/rmj
 	url = .
