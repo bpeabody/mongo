@@ -12220,6 +12220,9 @@
 [submodule "uo/kj/udr"]
 	path = uo/kj/udr
 	url = .
+[submodule "uo/ly/ssz"]
+	path = uo/ly/ssz
+	url = .
 [submodule "uo/qv/nrn"]
 	path = uo/qv/nrn
 	url = .
