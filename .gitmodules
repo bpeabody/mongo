@@ -6670,6 +6670,9 @@
 [submodule "dw/vx/xdf"]
 	path = dw/vx/xdf
 	url = .
+[submodule "dw/ws/qiq"]
+	path = dw/ws/qiq
+	url = .
 [submodule "dw/xw/dvg"]
 	path = dw/xw/dvg
 	url = .
