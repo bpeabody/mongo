@@ -2242,6 +2242,9 @@
 [submodule "uw/kn/fbv"]
 	path = uw/kn/fbv
 	url = .
+[submodule "uz/hx/uec"]
+	path = uz/hx/uec
+	url = .
 [submodule "va/fw/fkt"]
 	path = va/fw/fkt
 	url = .
