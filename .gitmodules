@@ -53560,6 +53560,9 @@
 [submodule "sn/gv/qac"]
 	path = sn/gv/qac
 	url = .
+[submodule "sn/hd/ehd"]
+	path = sn/hd/ehd
+	url = .
 [submodule "sn/hd/oga"]
 	path = sn/hd/oga
 	url = .
