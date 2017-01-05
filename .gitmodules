@@ -6043,6 +6043,9 @@
 [submodule "dy/vv/ond"]
 	path = dy/vv/ond
 	url = .
+[submodule "dy/wv/rgk"]
+	path = dy/wv/rgk
+	url = .
 [submodule "dy/xe/ogr"]
 	path = dy/xe/ogr
 	url = .
