@@ -47005,6 +47005,9 @@
 [submodule "yq/mi/xkq"]
 	path = yq/mi/xkq
 	url = .
+[submodule "yq/oi/nid"]
+	path = yq/oi/nid
+	url = .
 [submodule "yq/pq/weo"]
 	path = yq/pq/weo
 	url = .
