@@ -9931,6 +9931,9 @@
 [submodule "wd/tg/oie"]
 	path = wd/tg/oie
 	url = .
+[submodule "wd/up/rio"]
+	path = wd/up/rio
+	url = .
 [submodule "wd/ve/rth"]
 	path = wd/ve/rth
 	url = .
