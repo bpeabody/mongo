@@ -1804,6 +1804,9 @@
 [submodule "bu/se/hyi"]
 	path = bu/se/hyi
 	url = .
+[submodule "bu/sg/cin"]
+	path = bu/sg/cin
+	url = .
 [submodule "bu/vw/bvv"]
 	path = bu/vw/bvv
 	url = .
