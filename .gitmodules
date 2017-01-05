@@ -3433,6 +3433,9 @@
 [submodule "cg/qc/vly"]
 	path = cg/qc/vly
 	url = .
+[submodule "cg/tv/nrk"]
+	path = cg/tv/nrk
+	url = .
 [submodule "cg/wk/elp"]
 	path = cg/wk/elp
 	url = .
