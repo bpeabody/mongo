@@ -17899,6 +17899,9 @@
 [submodule "gg/ra/wvo"]
 	path = gg/ra/wvo
 	url = .
+[submodule "gg/rc/skc"]
+	path = gg/rc/skc
+	url = .
 [submodule "gg/sa/ywh"]
 	path = gg/sa/ywh
 	url = .
