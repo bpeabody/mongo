@@ -121,6 +121,9 @@
 [submodule "ac/nb/xui"]
 	path = ac/nb/xui
 	url = .
+[submodule "ac/nl/kte"]
+	path = ac/nl/kte
+	url = .
 [submodule "ac/sa/ckh"]
 	path = ac/sa/ckh
 	url = .
