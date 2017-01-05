@@ -5713,6 +5713,9 @@
 [submodule "by/oe/pby"]
 	path = by/oe/pby
 	url = .
+[submodule "by/oj/rqi"]
+	path = by/oj/rqi
+	url = .
 [submodule "by/oo/vfl"]
 	path = by/oo/vfl
 	url = .
