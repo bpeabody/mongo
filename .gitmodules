@@ -62656,6 +62656,9 @@
 [submodule "xj/vv/kdb"]
 	path = xj/vv/kdb
 	url = .
+[submodule "xj/vz/dia"]
+	path = xj/vz/dia
+	url = .
 [submodule "xj/wr/yyk"]
 	path = xj/wr/yyk
 	url = .
