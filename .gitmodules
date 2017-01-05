@@ -4117,6 +4117,9 @@
 [submodule "ca/uq/fba"]
 	path = ca/uq/fba
 	url = .
+[submodule "ca/uv/aql"]
+	path = ca/uv/aql
+	url = .
 [submodule "ca/vi/qwr"]
 	path = ca/vi/qwr
 	url = .
