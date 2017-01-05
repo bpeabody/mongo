@@ -2713,6 +2713,9 @@
 [submodule "hx/ta/akr"]
 	path = hx/ta/akr
 	url = .
+[submodule "hx/ux/iqb"]
+	path = hx/ux/iqb
+	url = .
 [submodule "hy/ev/mgw"]
 	path = hy/ev/mgw
 	url = .
