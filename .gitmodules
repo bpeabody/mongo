@@ -5305,6 +5305,9 @@
 [submodule "ep/vu/jha"]
 	path = ep/vu/jha
 	url = .
+[submodule "ep/wv/dyo"]
+	path = ep/wv/dyo
+	url = .
 [submodule "ep/za/xwo"]
 	path = ep/za/xwo
 	url = .
