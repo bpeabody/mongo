@@ -22006,6 +22006,9 @@
 [submodule "ll/xd/hrf"]
 	path = ll/xd/hrf
 	url = .
+[submodule "ll/xp/ndu"]
+	path = ll/xp/ndu
+	url = .
 [submodule "ll/zs/niu"]
 	path = ll/zs/niu
 	url = .
