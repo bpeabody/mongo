@@ -3649,6 +3649,9 @@
 [submodule "hn/wd/uke"]
 	path = hn/wd/uke
 	url = .
+[submodule "hn/xl/kme"]
+	path = hn/xl/kme
+	url = .
 [submodule "ho/dr/jvn"]
 	path = ho/dr/jvn
 	url = .
