@@ -6817,6 +6817,9 @@
 [submodule "dq/xp/tyy"]
 	path = dq/xp/tyy
 	url = .
+[submodule "dq/xw/nif"]
+	path = dq/xw/nif
+	url = .
 [submodule "dq/yo/cri"]
 	path = dq/yo/cri
 	url = .
