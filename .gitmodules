@@ -2743,6 +2743,9 @@
 [submodule "ce/wa/ozr"]
 	path = ce/wa/ozr
 	url = .
+[submodule "ce/wj/ota"]
+	path = ce/wj/ota
+	url = .
 [submodule "ce/xh/mxb"]
 	path = ce/xh/mxb
 	url = .
