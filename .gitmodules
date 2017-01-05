@@ -3190,6 +3190,9 @@
 [submodule "ey/sm/fpf"]
 	path = ey/sm/fpf
 	url = .
+[submodule "ey/ux/ovz"]
+	path = ey/ux/ovz
+	url = .
 [submodule "ey/za/jib"]
 	path = ey/za/jib
 	url = .
