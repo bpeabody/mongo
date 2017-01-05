@@ -475,6 +475,9 @@
 [submodule "gk/tf/chi"]
 	path = gk/tf/chi
 	url = .
+[submodule "gk/ur/igi"]
+	path = gk/ur/igi
+	url = .
 [submodule "gl/og/xic"]
 	path = gl/og/xic
 	url = .
