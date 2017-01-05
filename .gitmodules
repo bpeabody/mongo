@@ -1309,6 +1309,9 @@
 [submodule "ar/yl/xyd"]
 	path = ar/yl/xyd
 	url = .
+[submodule "ar/yu/jbg"]
+	path = ar/yu/jbg
+	url = .
 [submodule "ar/zq/ilk"]
 	path = ar/zq/ilk
 	url = .
