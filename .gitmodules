@@ -11617,6 +11617,9 @@
 [submodule "jx/yg/zmd"]
 	path = jx/yg/zmd
 	url = .
+[submodule "jy/gz/hif"]
+	path = jy/gz/hif
+	url = .
 [submodule "jy/kc/vzk"]
 	path = jy/kc/vzk
 	url = .
