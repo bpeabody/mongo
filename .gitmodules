@@ -16990,6 +16990,9 @@
 [submodule "rp/tn/sew"]
 	path = rp/tn/sew
 	url = .
+[submodule "rp/uo/kzg"]
+	path = rp/uo/kzg
+	url = .
 [submodule "rp/xr/qsn"]
 	path = rp/xr/qsn
 	url = .
