@@ -1354,6 +1354,9 @@
 [submodule "bm/hb/vor"]
 	path = bm/hb/vor
 	url = .
+[submodule "bm/kh/jam"]
+	path = bm/kh/jam
+	url = .
 [submodule "bm/ln/yjb"]
 	path = bm/ln/yjb
 	url = .
