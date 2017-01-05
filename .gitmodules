@@ -5932,6 +5932,9 @@
 [submodule "cf/av/siw"]
 	path = cf/av/siw
 	url = .
+[submodule "cf/aw/aji"]
+	path = cf/aw/aji
+	url = .
 [submodule "cf/bb/oad"]
 	path = cf/bb/oad
 	url = .
