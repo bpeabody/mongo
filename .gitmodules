@@ -19552,6 +19552,9 @@
 [submodule "zm/sy/fyz"]
 	path = zm/sy/fyz
 	url = .
+[submodule "zm/ug/quy"]
+	path = zm/ug/quy
+	url = .
 [submodule "zn/cv/cuh"]
 	path = zn/cv/cuh
 	url = .
