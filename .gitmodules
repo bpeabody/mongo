@@ -10960,6 +10960,9 @@
 [submodule "eb/ko/ftz"]
 	path = eb/ko/ftz
 	url = .
+[submodule "eb/lb/hgs"]
+	path = eb/lb/hgs
+	url = .
 [submodule "eb/lg/bux"]
 	path = eb/lg/bux
 	url = .
