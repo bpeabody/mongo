@@ -2641,6 +2641,9 @@
 [submodule "cw/ex/zea"]
 	path = cw/ex/zea
 	url = .
+[submodule "cw/hf/fta"]
+	path = cw/hf/fta
+	url = .
 [submodule "cw/ki/zyb"]
 	path = cw/ki/zyb
 	url = .
