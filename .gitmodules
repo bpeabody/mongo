@@ -28930,6 +28930,9 @@
 [submodule "uc/bu/mqe"]
 	path = uc/bu/mqe
 	url = .
+[submodule "uc/fe/vhm"]
+	path = uc/fe/vhm
+	url = .
 [submodule "uc/gw/mkg"]
 	path = uc/gw/mkg
 	url = .
