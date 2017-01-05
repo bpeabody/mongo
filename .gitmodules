@@ -1618,6 +1618,9 @@
 [submodule "ny/wj/mrz"]
 	path = ny/wj/mrz
 	url = .
+[submodule "nz/me/vqh"]
+	path = nz/me/vqh
+	url = .
 [submodule "nz/mt/ucs"]
 	path = nz/mt/ucs
 	url = .
