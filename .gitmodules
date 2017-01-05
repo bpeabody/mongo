@@ -24133,6 +24133,9 @@
 [submodule "jw/rb/jrj"]
 	path = jw/rb/jrj
 	url = .
+[submodule "jw/re/gmo"]
+	path = jw/re/gmo
+	url = .
 [submodule "jw/tb/xvh"]
 	path = jw/tb/xvh
 	url = .
