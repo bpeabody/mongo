@@ -42097,6 +42097,9 @@
 [submodule "sn/fm/rst"]
 	path = sn/fm/rst
 	url = .
+[submodule "sn/gn/cnl"]
+	path = sn/gn/cnl
+	url = .
 [submodule "sn/hd/oga"]
 	path = sn/hd/oga
 	url = .
