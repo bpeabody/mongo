@@ -19789,6 +19789,9 @@
 [submodule "jk/eb/fhh"]
 	path = jk/eb/fhh
 	url = .
+[submodule "jk/eg/fhd"]
+	path = jk/eg/fhd
+	url = .
 [submodule "jk/fk/pty"]
 	path = jk/fk/pty
 	url = .
