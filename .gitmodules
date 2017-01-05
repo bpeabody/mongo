@@ -46825,6 +46825,9 @@
 [submodule "ux/xv/ahb"]
 	path = ux/xv/ahb
 	url = .
+[submodule "ux/xx/ged"]
+	path = ux/xx/ged
+	url = .
 [submodule "ux/yf/uxw"]
 	path = ux/yf/uxw
 	url = .
