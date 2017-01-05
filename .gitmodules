@@ -6148,6 +6148,9 @@
 [submodule "rw/ay/csq"]
 	path = rw/ay/csq
 	url = .
+[submodule "rw/bn/tkh"]
+	path = rw/bn/tkh
+	url = .
 [submodule "rw/fw/kps"]
 	path = rw/fw/kps
 	url = .
