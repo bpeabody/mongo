@@ -19975,6 +19975,9 @@
 [submodule "jr/rn/thg"]
 	path = jr/rn/thg
 	url = .
+[submodule "jr/sj/scr"]
+	path = jr/sj/scr
+	url = .
 [submodule "jr/ue/fxq"]
 	path = jr/ue/fxq
 	url = .
