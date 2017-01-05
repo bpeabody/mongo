@@ -4630,6 +4630,9 @@
 [submodule "go/hr/ioy"]
 	path = go/hr/ioy
 	url = .
+[submodule "go/if/stf"]
+	path = go/if/stf
+	url = .
 [submodule "go/ma/hoo"]
 	path = go/ma/hoo
 	url = .
