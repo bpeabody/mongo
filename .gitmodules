@@ -11143,6 +11143,9 @@
 [submodule "mg/ah/odc"]
 	path = mg/ah/odc
 	url = .
+[submodule "mg/ax/afq"]
+	path = mg/ax/afq
+	url = .
 [submodule "mg/du/ycg"]
 	path = mg/du/ycg
 	url = .
