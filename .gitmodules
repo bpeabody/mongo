@@ -3286,6 +3286,9 @@
 [submodule "hj/bo/xyv"]
 	path = hj/bo/xyv
 	url = .
+[submodule "hj/cn/kip"]
+	path = hj/cn/kip
+	url = .
 [submodule "hj/do/ocs"]
 	path = hj/do/ocs
 	url = .
