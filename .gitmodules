@@ -23023,6 +23023,9 @@
 [submodule "pp/zu/nzb"]
 	path = pp/zu/nzb
 	url = .
+[submodule "pq/cd/skx"]
+	path = pq/cd/skx
+	url = .
 [submodule "pq/iq/kdc"]
 	path = pq/iq/kdc
 	url = .
