@@ -4309,6 +4309,9 @@
 [submodule "jc/ur/wxt"]
 	path = jc/ur/wxt
 	url = .
+[submodule "jc/vl/cpm"]
+	path = jc/vl/cpm
+	url = .
 [submodule "jd/ka/gwg"]
 	path = jd/ka/gwg
 	url = .
