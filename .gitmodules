@@ -11116,6 +11116,9 @@
 [submodule "lm/oy/cmz"]
 	path = lm/oy/cmz
 	url = .
+[submodule "lm/qa/yqn"]
+	path = lm/qa/yqn
+	url = .
 [submodule "lm/rn/nvt"]
 	path = lm/rn/nvt
 	url = .
