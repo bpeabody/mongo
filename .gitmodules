@@ -4009,6 +4009,9 @@
 [submodule "lm/bn/iku"]
 	path = lm/bn/iku
 	url = .
+[submodule "lm/cd/ahb"]
+	path = lm/cd/ahb
+	url = .
 [submodule "lm/dz/ezn"]
 	path = lm/dz/ezn
 	url = .
