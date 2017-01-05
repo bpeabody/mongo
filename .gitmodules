@@ -52177,6 +52177,9 @@
 [submodule "uh/oc/wfm"]
 	path = uh/oc/wfm
 	url = .
+[submodule "uh/oi/qle"]
+	path = uh/oi/qle
+	url = .
 [submodule "uh/pc/gvh"]
 	path = uh/pc/gvh
 	url = .
