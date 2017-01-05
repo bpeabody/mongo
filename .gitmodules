@@ -18877,6 +18877,9 @@
 [submodule "rr/hm/owg"]
 	path = rr/hm/owg
 	url = .
+[submodule "rr/oo/jop"]
+	path = rr/oo/jop
+	url = .
 [submodule "rr/or/vhq"]
 	path = rr/or/vhq
 	url = .
