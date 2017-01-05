@@ -21121,6 +21121,9 @@
 [submodule "ic/ni/ubb"]
 	path = ic/ni/ubb
 	url = .
+[submodule "ic/nu/jpe"]
+	path = ic/nu/jpe
+	url = .
 [submodule "ic/ob/ikk"]
 	path = ic/ob/ikk
 	url = .
