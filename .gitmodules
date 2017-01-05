@@ -14899,6 +14899,9 @@
 [submodule "fl/kv/uzk"]
 	path = fl/kv/uzk
 	url = .
+[submodule "fl/la/png"]
+	path = fl/la/png
+	url = .
 [submodule "fl/lx/ipt"]
 	path = fl/lx/ipt
 	url = .
