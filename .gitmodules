@@ -1318,6 +1318,9 @@
 [submodule "bs/po/ydz"]
 	path = bs/po/ydz
 	url = .
+[submodule "bs/sb/kpb"]
+	path = bs/sb/kpb
+	url = .
 [submodule "bt/ay/uad"]
 	path = bt/ay/uad
 	url = .
