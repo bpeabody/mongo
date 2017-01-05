@@ -44077,6 +44077,9 @@
 [submodule "wo/sl/bfy"]
 	path = wo/sl/bfy
 	url = .
+[submodule "wo/tm/vso"]
+	path = wo/tm/vso
+	url = .
 [submodule "wo/va/nql"]
 	path = wo/va/nql
 	url = .
