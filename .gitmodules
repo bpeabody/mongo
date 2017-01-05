@@ -14119,6 +14119,9 @@
 [submodule "ge/yr/wcc"]
 	path = ge/yr/wcc
 	url = .
+[submodule "ge/zd/bvq"]
+	path = ge/zd/bvq
+	url = .
 [submodule "ge/zr/gbj"]
 	path = ge/zr/gbj
 	url = .
