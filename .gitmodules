@@ -14095,6 +14095,9 @@
 [submodule "sm/ai/qfy"]
 	path = sm/ai/qfy
 	url = .
+[submodule "sm/lf/drd"]
+	path = sm/lf/drd
+	url = .
 [submodule "sm/mg/efu"]
 	path = sm/mg/efu
 	url = .
