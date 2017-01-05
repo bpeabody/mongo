@@ -39046,6 +39046,9 @@
 [submodule "od/oq/bot"]
 	path = od/oq/bot
 	url = .
+[submodule "od/pm/gug"]
+	path = od/pm/gug
+	url = .
 [submodule "od/rd/ceg"]
 	path = od/rd/ceg
 	url = .
