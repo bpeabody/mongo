@@ -2785,6 +2785,9 @@
 [submodule "fy/zj/jev"]
 	path = fy/zj/jev
 	url = .
+[submodule "fz/bi/sqs"]
+	path = fz/bi/sqs
+	url = .
 [submodule "fz/bw/vmo"]
 	path = fz/bw/vmo
 	url = .
