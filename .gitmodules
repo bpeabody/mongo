@@ -9388,6 +9388,9 @@
 [submodule "wi/se/yua"]
 	path = wi/se/yua
 	url = .
+[submodule "wi/ur/veg"]
+	path = wi/ur/veg
+	url = .
 [submodule "wj/af/yas"]
 	path = wj/af/yas
 	url = .
