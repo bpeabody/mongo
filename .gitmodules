@@ -10603,6 +10603,9 @@
 [submodule "fi/np/wof"]
 	path = fi/np/wof
 	url = .
+[submodule "fi/of/xbk"]
+	path = fi/of/xbk
+	url = .
 [submodule "fi/on/vqz"]
 	path = fi/on/vqz
 	url = .
