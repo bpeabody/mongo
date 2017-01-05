@@ -1543,6 +1543,9 @@
 [submodule "go/xl/lqm"]
 	path = go/xl/lqm
 	url = .
+[submodule "gp/fb/vdy"]
+	path = gp/fb/vdy
+	url = .
 [submodule "gp/mr/mji"]
 	path = gp/mr/mji
 	url = .
