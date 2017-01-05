@@ -10996,6 +10996,9 @@
 [submodule "lo/gg/hjv"]
 	path = lo/gg/hjv
 	url = .
+[submodule "lo/hf/ceb"]
+	path = lo/hf/ceb
+	url = .
 [submodule "lo/jx/yke"]
 	path = lo/jx/yke
 	url = .
