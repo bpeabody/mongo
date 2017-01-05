@@ -9034,6 +9034,9 @@
 [submodule "nv/qq/jad"]
 	path = nv/qq/jad
 	url = .
+[submodule "nv/qu/qwm"]
+	path = nv/qu/qwm
+	url = .
 [submodule "nw/ah/ivo"]
 	path = nw/ah/ivo
 	url = .
