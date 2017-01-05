@@ -2326,6 +2326,9 @@
 [submodule "od/hg/qkf"]
 	path = od/hg/qkf
 	url = .
+[submodule "od/ht/ddp"]
+	path = od/ht/ddp
+	url = .
 [submodule "of/gj/hru"]
 	path = of/gj/hru
 	url = .
