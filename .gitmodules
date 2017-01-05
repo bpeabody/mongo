@@ -51226,6 +51226,9 @@
 [submodule "te/ua/rej"]
 	path = te/ua/rej
 	url = .
+[submodule "te/ua/tdf"]
+	path = te/ua/tdf
+	url = .
 [submodule "te/um/nde"]
 	path = te/um/nde
 	url = .
