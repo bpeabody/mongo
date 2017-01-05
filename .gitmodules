@@ -1087,6 +1087,9 @@
 [submodule "rz/hf/dig"]
 	path = rz/hf/dig
 	url = .
+[submodule "sc/ri/ugg"]
+	path = sc/ri/ugg
+	url = .
 [submodule "se/qx/wac"]
 	path = se/qx/wac
 	url = .
