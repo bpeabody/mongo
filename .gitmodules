@@ -9364,6 +9364,9 @@
 [submodule "nw/mk/hnq"]
 	path = nw/mk/hnq
 	url = .
+[submodule "nw/rw/aku"]
+	path = nw/rw/aku
+	url = .
 [submodule "nw/vq/udv"]
 	path = nw/vq/udv
 	url = .
