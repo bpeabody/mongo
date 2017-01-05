@@ -13339,6 +13339,9 @@
 [submodule "ii/vr/xgg"]
 	path = ii/vr/xgg
 	url = .
+[submodule "ii/vs/lme"]
+	path = ii/vs/lme
+	url = .
 [submodule "ii/vs/nfd"]
 	path = ii/vs/nfd
 	url = .
