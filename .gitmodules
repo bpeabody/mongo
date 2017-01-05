@@ -63601,6 +63601,9 @@
 [submodule "vi/rb/eol"]
 	path = vi/rb/eol
 	url = .
+[submodule "vi/rg/mdv"]
+	path = vi/rg/mdv
+	url = .
 [submodule "vi/sk/mew"]
 	path = vi/sk/mew
 	url = .
