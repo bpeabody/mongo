@@ -925,6 +925,9 @@
 [submodule "bt/dt/bjx"]
 	path = bt/dt/bjx
 	url = .
+[submodule "bt/gf/ero"]
+	path = bt/gf/ero
+	url = .
 [submodule "bt/jc/huz"]
 	path = bt/jc/huz
 	url = .
