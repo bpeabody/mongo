@@ -13531,6 +13531,9 @@
 [submodule "ok/uv/dnu"]
 	path = ok/uv/dnu
 	url = .
+[submodule "ok/vc/kyg"]
+	path = ok/vc/kyg
+	url = .
 [submodule "ok/vu/fnz"]
 	path = ok/vu/fnz
 	url = .
