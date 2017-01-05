@@ -8311,6 +8311,9 @@
 [submodule "su/go/yrs"]
 	path = su/go/yrs
 	url = .
+[submodule "su/qs/cnj"]
+	path = su/qs/cnj
+	url = .
 [submodule "sv/by/acu"]
 	path = sv/by/acu
 	url = .
