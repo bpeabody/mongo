@@ -15712,6 +15712,9 @@
 [submodule "kh/tz/ddk"]
 	path = kh/tz/ddk
 	url = .
+[submodule "kh/ur/iqx"]
+	path = kh/ur/iqx
+	url = .
 [submodule "kh/vo/cpu"]
 	path = kh/vo/cpu
 	url = .
