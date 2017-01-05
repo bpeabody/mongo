@@ -3688,6 +3688,9 @@
 [submodule "cb/kr/rys"]
 	path = cb/kr/rys
 	url = .
+[submodule "cb/lk/cgr"]
+	path = cb/lk/cgr
+	url = .
 [submodule "cb/oo/grf"]
 	path = cb/oo/grf
 	url = .
