@@ -8155,6 +8155,9 @@
 [submodule "wy/mb/qdd"]
 	path = wy/mb/qdd
 	url = .
+[submodule "wy/rl/app"]
+	path = wy/rl/app
+	url = .
 [submodule "wy/se/fhr"]
 	path = wy/se/fhr
 	url = .
