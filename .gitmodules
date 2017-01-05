@@ -5125,6 +5125,9 @@
 [submodule "ys/kd/ked"]
 	path = ys/kd/ked
 	url = .
+[submodule "yt/ie/saq"]
+	path = yt/ie/saq
+	url = .
 [submodule "yt/iv/zhd"]
 	path = yt/iv/zhd
 	url = .
