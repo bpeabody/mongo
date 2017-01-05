@@ -7366,6 +7366,9 @@
 [submodule "cq/qc/bsa"]
 	path = cq/qc/bsa
 	url = .
+[submodule "cq/qk/gis"]
+	path = cq/qk/gis
+	url = .
 [submodule "cq/rg/vnb"]
 	path = cq/rg/vnb
 	url = .
