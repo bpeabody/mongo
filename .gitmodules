@@ -24946,6 +24946,9 @@
 [submodule "om/dr/sku"]
 	path = om/dr/sku
 	url = .
+[submodule "om/eq/vyf"]
+	path = om/eq/vyf
+	url = .
 [submodule "om/ey/hib"]
 	path = om/ey/hib
 	url = .
