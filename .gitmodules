@@ -10600,6 +10600,9 @@
 [submodule "wt/zy/bmv"]
 	path = wt/zy/bmv
 	url = .
+[submodule "wu/bu/ehe"]
+	path = wu/bu/ehe
+	url = .
 [submodule "wu/bx/jle"]
 	path = wu/bx/jle
 	url = .
