@@ -574,6 +574,9 @@
 [submodule "uv/vn/wcn"]
 	path = uv/vn/wcn
 	url = .
+[submodule "uv/zb/pvp"]
+	path = uv/zb/pvp
+	url = .
 [submodule "vb/ip/gty"]
 	path = vb/ip/gty
 	url = .
