@@ -20098,6 +20098,9 @@
 [submodule "hw/tc/rks"]
 	path = hw/tc/rks
 	url = .
+[submodule "hw/tj/kza"]
+	path = hw/tj/kza
+	url = .
 [submodule "hw/tk/tqt"]
 	path = hw/tk/tqt
 	url = .
