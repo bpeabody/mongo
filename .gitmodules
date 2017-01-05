@@ -25081,6 +25081,9 @@
 [submodule "qx/ok/tmv"]
 	path = qx/ok/tmv
 	url = .
+[submodule "qx/pq/krf"]
+	path = qx/pq/krf
+	url = .
 [submodule "qx/qe/xlu"]
 	path = qx/qe/xlu
 	url = .
