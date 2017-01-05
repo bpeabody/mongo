@@ -16804,6 +16804,9 @@
 [submodule "tg/ro/ahe"]
 	path = tg/ro/ahe
 	url = .
+[submodule "tg/ur/pbq"]
+	path = tg/ur/pbq
+	url = .
 [submodule "tg/xw/czu"]
 	path = tg/xw/czu
 	url = .
