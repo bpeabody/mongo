@@ -12040,6 +12040,9 @@
 [submodule "pb/ri/kfs"]
 	path = pb/ri/kfs
 	url = .
+[submodule "pb/sh/zwh"]
+	path = pb/sh/zwh
+	url = .
 [submodule "pb/vi/gpr"]
 	path = pb/vi/gpr
 	url = .
