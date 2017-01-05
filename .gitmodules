@@ -12670,6 +12670,9 @@
 [submodule "kb/db/nkg"]
 	path = kb/db/nkg
 	url = .
+[submodule "kb/di/jph"]
+	path = kb/di/jph
+	url = .
 [submodule "kb/fu/ayp"]
 	path = kb/fu/ayp
 	url = .
