@@ -12184,6 +12184,9 @@
 [submodule "te/cz/hwe"]
 	path = te/cz/hwe
 	url = .
+[submodule "te/fd/mcm"]
+	path = te/fd/mcm
+	url = .
 [submodule "te/kr/egt"]
 	path = te/kr/egt
 	url = .
