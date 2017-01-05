@@ -20284,6 +20284,9 @@
 [submodule "pu/oa/imn"]
 	path = pu/oa/imn
 	url = .
+[submodule "pu/ob/vkt"]
+	path = pu/ob/vkt
+	url = .
 [submodule "pu/vb/yyv"]
 	path = pu/vb/yyv
 	url = .
