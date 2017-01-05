@@ -33886,6 +33886,9 @@
 [submodule "os/ob/fzm"]
 	path = os/ob/fzm
 	url = .
+[submodule "os/oe/yjz"]
+	path = os/oe/yjz
+	url = .
 [submodule "os/ol/jjg"]
 	path = os/ol/jjg
 	url = .
