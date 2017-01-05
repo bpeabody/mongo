@@ -2116,6 +2116,9 @@
 [submodule "av/jt/zin"]
 	path = av/jt/zin
 	url = .
+[submodule "av/kd/nnd"]
+	path = av/kd/nnd
+	url = .
 [submodule "av/mu/ywl"]
 	path = av/mu/ywl
 	url = .
