@@ -21118,6 +21118,9 @@
 [submodule "ts/bk/mbk"]
 	path = ts/bk/mbk
 	url = .
+[submodule "ts/ej/gdt"]
+	path = ts/ej/gdt
+	url = .
 [submodule "ts/gd/jym"]
 	path = ts/gd/jym
 	url = .
