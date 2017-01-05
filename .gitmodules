@@ -14725,6 +14725,9 @@
 [submodule "mk/bm/qcn"]
 	path = mk/bm/qcn
 	url = .
+[submodule "mk/cp/gut"]
+	path = mk/cp/gut
+	url = .
 [submodule "mk/dy/gif"]
 	path = mk/dy/gif
 	url = .
