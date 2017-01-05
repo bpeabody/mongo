@@ -21931,6 +21931,9 @@
 [submodule "hw/cs/iha"]
 	path = hw/cs/iha
 	url = .
+[submodule "hw/ec/jro"]
+	path = hw/ec/jro
+	url = .
 [submodule "hw/en/mbv"]
 	path = hw/en/mbv
 	url = .
