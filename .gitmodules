@@ -1933,6 +1933,9 @@
 [submodule "ka/dj/spy"]
 	path = ka/dj/spy
 	url = .
+[submodule "ka/ia/wgs"]
+	path = ka/ia/wgs
+	url = .
 [submodule "kb/cs/zad"]
 	path = kb/cs/zad
 	url = .
