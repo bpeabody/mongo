@@ -6559,6 +6559,9 @@
 [submodule "fx/yz/ksq"]
 	path = fx/yz/ksq
 	url = .
+[submodule "fy/ci/rjq"]
+	path = fy/ci/rjq
+	url = .
 [submodule "fy/de/duj"]
 	path = fy/de/duj
 	url = .
