@@ -20593,6 +20593,9 @@
 [submodule "pb/pl/qpa"]
 	path = pb/pl/qpa
 	url = .
+[submodule "pb/qa/chu"]
+	path = pb/qa/chu
+	url = .
 [submodule "pb/qh/mhp"]
 	path = pb/qh/mhp
 	url = .
