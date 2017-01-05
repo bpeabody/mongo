@@ -1990,6 +1990,9 @@
 [submodule "qb/ub/tou"]
 	path = qb/ub/tou
 	url = .
+[submodule "qc/ny/bzw"]
+	path = qc/ny/bzw
+	url = .
 [submodule "qd/mt/xxp"]
 	path = qd/mt/xxp
 	url = .
