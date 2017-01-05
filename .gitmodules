@@ -4504,6 +4504,9 @@
 [submodule "ca/js/fsp"]
 	path = ca/js/fsp
 	url = .
+[submodule "ca/kp/dsy"]
+	path = ca/kp/dsy
+	url = .
 [submodule "ca/lf/mjx"]
 	path = ca/lf/mjx
 	url = .
