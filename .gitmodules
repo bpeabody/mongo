@@ -10999,6 +10999,9 @@
 [submodule "hw/tk/tqt"]
 	path = hw/tk/tqt
 	url = .
+[submodule "hw/tr/brt"]
+	path = hw/tr/brt
+	url = .
 [submodule "hw/xk/obv"]
 	path = hw/xk/obv
 	url = .
