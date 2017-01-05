@@ -11647,6 +11647,9 @@
 [submodule "dz/mm/btm"]
 	path = dz/mm/btm
 	url = .
+[submodule "dz/nr/ryz"]
+	path = dz/nr/ryz
+	url = .
 [submodule "dz/ov/yaf"]
 	path = dz/ov/yaf
 	url = .
