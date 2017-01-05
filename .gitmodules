@@ -11209,6 +11209,9 @@
 [submodule "uw/ah/hca"]
 	path = uw/ah/hca
 	url = .
+[submodule "uw/ix/swk"]
+	path = uw/ix/swk
+	url = .
 [submodule "uw/kn/fbv"]
 	path = uw/kn/fbv
 	url = .
