@@ -7777,6 +7777,9 @@
 [submodule "gk/dp/vnk"]
 	path = gk/dp/vnk
 	url = .
+[submodule "gk/ji/yny"]
+	path = gk/ji/yny
+	url = .
 [submodule "gk/ko/xlz"]
 	path = gk/ko/xlz
 	url = .
