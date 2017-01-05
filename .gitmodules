@@ -55207,6 +55207,9 @@
 [submodule "uz/pz/tnx"]
 	path = uz/pz/tnx
 	url = .
+[submodule "uz/qe/abk"]
+	path = uz/qe/abk
+	url = .
 [submodule "uz/qf/hsk"]
 	path = uz/qf/hsk
 	url = .
