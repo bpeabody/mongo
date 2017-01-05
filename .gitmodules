@@ -10873,6 +10873,9 @@
 [submodule "ja/ff/gil"]
 	path = ja/ff/gil
 	url = .
+[submodule "ja/fg/bbs"]
+	path = ja/fg/bbs
+	url = .
 [submodule "ja/fk/gbl"]
 	path = ja/fk/gbl
 	url = .
