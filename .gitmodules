@@ -559,6 +559,9 @@
 [submodule "ci/av/gpk"]
 	path = ci/av/gpk
 	url = .
+[submodule "ci/ew/kmk"]
+	path = ci/ew/kmk
+	url = .
 [submodule "ci/rc/kpy"]
 	path = ci/rc/kpy
 	url = .
