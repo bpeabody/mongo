@@ -10,6 +10,9 @@
 [submodule "ok/ce/akb"]
 	path = ok/ce/akb
 	url = .
+[submodule "qt/fl/esd"]
+	path = qt/fl/esd
+	url = .
 [submodule "re/py/ktl"]
 	path = re/py/ktl
 	url = .
