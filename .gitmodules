@@ -60667,6 +60667,9 @@
 [submodule "ud/oc/lzu"]
 	path = ud/oc/lzu
 	url = .
+[submodule "ud/or/qyd"]
+	path = ud/or/qyd
+	url = .
 [submodule "ud/pv/wqy"]
 	path = ud/pv/wqy
 	url = .
