@@ -34072,6 +34072,9 @@
 [submodule "mp/bc/jcc"]
 	path = mp/bc/jcc
 	url = .
+[submodule "mp/ck/yja"]
+	path = mp/ck/yja
+	url = .
 [submodule "mp/eb/lho"]
 	path = mp/eb/lho
 	url = .
