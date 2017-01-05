@@ -28873,6 +28873,9 @@
 [submodule "op/gg/von"]
 	path = op/gg/von
 	url = .
+[submodule "op/go/adu"]
+	path = op/go/adu
+	url = .
 [submodule "op/ig/fln"]
 	path = op/ig/fln
 	url = .
