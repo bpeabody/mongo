@@ -3451,6 +3451,9 @@
 [submodule "sy/xl/wlp"]
 	path = sy/xl/wlp
 	url = .
+[submodule "sz/dv/skx"]
+	path = sz/dv/skx
+	url = .
 [submodule "sz/jx/kdu"]
 	path = sz/jx/kdu
 	url = .
