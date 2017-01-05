@@ -35536,6 +35536,9 @@
 [submodule "ob/vl/ycn"]
 	path = ob/vl/ycn
 	url = .
+[submodule "ob/vp/rrk"]
+	path = ob/vp/rrk
+	url = .
 [submodule "ob/xk/pqg"]
 	path = ob/xk/pqg
 	url = .
