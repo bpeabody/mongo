@@ -5965,6 +5965,9 @@
 [submodule "cb/aw/dke"]
 	path = cb/aw/dke
 	url = .
+[submodule "cb/aw/zmt"]
+	path = cb/aw/zmt
+	url = .
 [submodule "cb/bj/xgc"]
 	path = cb/bj/xgc
 	url = .
