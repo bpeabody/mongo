@@ -4588,6 +4588,9 @@
 [submodule "cp/dx/pjo"]
 	path = cp/dx/pjo
 	url = .
+[submodule "cp/ek/quh"]
+	path = cp/ek/quh
+	url = .
 [submodule "cp/hh/bqz"]
 	path = cp/hh/bqz
 	url = .
