@@ -10711,6 +10711,9 @@
 [submodule "rg/bb/wfk"]
 	path = rg/bb/wfk
 	url = .
+[submodule "rg/cn/zsi"]
+	path = rg/cn/zsi
+	url = .
 [submodule "rg/gt/vsy"]
 	path = rg/gt/vsy
 	url = .
