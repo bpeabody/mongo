@@ -48517,6 +48517,9 @@
 [submodule "wp/vn/dtq"]
 	path = wp/vn/dtq
 	url = .
+[submodule "wp/wv/gpl"]
+	path = wp/wv/gpl
+	url = .
 [submodule "wp/zp/npx"]
 	path = wp/zp/npx
 	url = .
