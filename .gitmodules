@@ -3496,6 +3496,9 @@
 [submodule "bi/lf/qcs"]
 	path = bi/lf/qcs
 	url = .
+[submodule "bi/li/hfa"]
+	path = bi/li/hfa
+	url = .
 [submodule "bi/ll/fjs"]
 	path = bi/ll/fjs
 	url = .
