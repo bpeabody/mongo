@@ -28816,6 +28816,9 @@
 [submodule "qf/ud/hdf"]
 	path = qf/ud/hdf
 	url = .
+[submodule "qf/up/irt"]
+	path = qf/up/irt
+	url = .
 [submodule "qf/vv/icj"]
 	path = qf/vv/icj
 	url = .
