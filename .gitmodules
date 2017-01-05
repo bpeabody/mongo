@@ -30538,6 +30538,9 @@
 [submodule "qu/ia/cpo"]
 	path = qu/ia/cpo
 	url = .
+[submodule "qu/im/hrv"]
+	path = qu/im/hrv
+	url = .
 [submodule "qu/im/zed"]
 	path = qu/im/zed
 	url = .
