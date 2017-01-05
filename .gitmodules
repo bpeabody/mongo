@@ -52123,6 +52123,9 @@
 [submodule "vj/ni/dwj"]
 	path = vj/ni/dwj
 	url = .
+[submodule "vj/on/mms"]
+	path = vj/on/mms
+	url = .
 [submodule "vj/ov/fic"]
 	path = vj/ov/fic
 	url = .
