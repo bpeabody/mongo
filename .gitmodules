@@ -23431,6 +23431,9 @@
 [submodule "if/vu/hrp"]
 	path = if/vu/hrp
 	url = .
+[submodule "if/we/vcy"]
+	path = if/we/vcy
+	url = .
 [submodule "if/xe/ixs"]
 	path = if/xe/ixs
 	url = .
