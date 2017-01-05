@@ -6412,6 +6412,9 @@
 [submodule "ps/zj/nvi"]
 	path = ps/zj/nvi
 	url = .
+[submodule "ps/zy/hxr"]
+	path = ps/zy/hxr
+	url = .
 [submodule "pt/at/kei"]
 	path = pt/at/kei
 	url = .
