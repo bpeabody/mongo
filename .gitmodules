@@ -10354,6 +10354,9 @@
 [submodule "rj/wk/xrl"]
 	path = rj/wk/xrl
 	url = .
+[submodule "rj/yd/adn"]
+	path = rj/yd/adn
+	url = .
 [submodule "rk/bp/pws"]
 	path = rk/bp/pws
 	url = .
