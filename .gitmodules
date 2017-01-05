@@ -12373,6 +12373,9 @@
 [submodule "ws/su/smw"]
 	path = ws/su/smw
 	url = .
+[submodule "ws/vy/fux"]
+	path = ws/vy/fux
+	url = .
 [submodule "ws/xt/rpc"]
 	path = ws/xt/rpc
 	url = .
