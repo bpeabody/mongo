@@ -6112,6 +6112,9 @@
 [submodule "hk/by/tik"]
 	path = hk/by/tik
 	url = .
+[submodule "hk/cx/tvr"]
+	path = hk/cx/tvr
+	url = .
 [submodule "hk/di/frz"]
 	path = hk/di/frz
 	url = .
