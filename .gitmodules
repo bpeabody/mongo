@@ -36130,6 +36130,9 @@
 [submodule "zx/jb/chk"]
 	path = zx/jb/chk
 	url = .
+[submodule "zx/jc/qnr"]
+	path = zx/jc/qnr
+	url = .
 [submodule "zx/jj/bdg"]
 	path = zx/jj/bdg
 	url = .
