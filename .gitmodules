@@ -6901,6 +6901,9 @@
 [submodule "eb/ei/cvx"]
 	path = eb/ei/cvx
 	url = .
+[submodule "eb/hc/kff"]
+	path = eb/hc/kff
+	url = .
 [submodule "eb/ia/pum"]
 	path = eb/ia/pum
 	url = .
