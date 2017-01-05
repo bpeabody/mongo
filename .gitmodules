@@ -8911,6 +8911,9 @@
 [submodule "hb/hp/dmz"]
 	path = hb/hp/dmz
 	url = .
+[submodule "hb/is/xzi"]
+	path = hb/is/xzi
+	url = .
 [submodule "hb/jq/qzp"]
 	path = hb/jq/qzp
 	url = .
