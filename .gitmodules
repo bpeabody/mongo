@@ -12190,6 +12190,9 @@
 [submodule "iq/pr/lwa"]
 	path = iq/pr/lwa
 	url = .
+[submodule "iq/qq/lnk"]
+	path = iq/qq/lnk
+	url = .
 [submodule "iq/tj/hcq"]
 	path = iq/tj/hcq
 	url = .
