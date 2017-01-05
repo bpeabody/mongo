@@ -27430,6 +27430,9 @@
 [submodule "qx/cf/vga"]
 	path = qx/cf/vga
 	url = .
+[submodule "qx/di/bjc"]
+	path = qx/di/bjc
+	url = .
 [submodule "qx/dk/zcd"]
 	path = qx/dk/zcd
 	url = .
