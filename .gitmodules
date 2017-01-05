@@ -4138,6 +4138,9 @@
 [submodule "bp/kk/jts"]
 	path = bp/kk/jts
 	url = .
+[submodule "bp/kp/uqe"]
+	path = bp/kp/uqe
+	url = .
 [submodule "bp/ku/fnv"]
 	path = bp/ku/fnv
 	url = .
