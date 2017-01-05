@@ -18352,6 +18352,9 @@
 [submodule "kn/tp/imd"]
 	path = kn/tp/imd
 	url = .
+[submodule "kn/vb/ejb"]
+	path = kn/vb/ejb
+	url = .
 [submodule "kn/vh/wzo"]
 	path = kn/vh/wzo
 	url = .
