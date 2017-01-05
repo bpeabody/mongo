@@ -2278,6 +2278,9 @@
 [submodule "sg/jw/cmm"]
 	path = sg/jw/cmm
 	url = .
+[submodule "sm/ai/qfy"]
+	path = sm/ai/qfy
+	url = .
 [submodule "sm/wq/zjj"]
 	path = sm/wq/zjj
 	url = .
