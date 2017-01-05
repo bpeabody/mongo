@@ -8935,6 +8935,9 @@
 [submodule "gp/mr/mji"]
 	path = gp/mr/mji
 	url = .
+[submodule "gp/nj/vzg"]
+	path = gp/nj/vzg
+	url = .
 [submodule "gp/qr/rgm"]
 	path = gp/qr/rgm
 	url = .
