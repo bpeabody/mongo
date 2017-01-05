@@ -4642,6 +4642,9 @@
 [submodule "hr/uw/ijl"]
 	path = hr/uw/ijl
 	url = .
+[submodule "hr/yc/vvu"]
+	path = hr/yc/vvu
+	url = .
 [submodule "hs/ae/gvg"]
 	path = hs/ae/gvg
 	url = .
