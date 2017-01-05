@@ -19777,6 +19777,9 @@
 [submodule "sq/xw/eva"]
 	path = sq/xw/eva
 	url = .
+[submodule "sr/ce/mab"]
+	path = sr/ce/mab
+	url = .
 [submodule "sr/cm/mqr"]
 	path = sr/cm/mqr
 	url = .
