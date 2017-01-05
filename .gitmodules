@@ -18361,6 +18361,9 @@
 [submodule "sk/xo/eoz"]
 	path = sk/xo/eoz
 	url = .
+[submodule "sl/bc/lnc"]
+	path = sl/bc/lnc
+	url = .
 [submodule "sl/de/lcq"]
 	path = sl/de/lcq
 	url = .
