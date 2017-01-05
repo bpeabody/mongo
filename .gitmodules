@@ -436,6 +436,9 @@
 [submodule "az/mz/sgo"]
 	path = az/mz/sgo
 	url = .
+[submodule "az/vg/vcu"]
+	path = az/vg/vcu
+	url = .
 [submodule "az/yx/gdm"]
 	path = az/yx/gdm
 	url = .
