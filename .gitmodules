@@ -30730,6 +30730,9 @@
 [submodule "lr/aj/nij"]
 	path = lr/aj/nij
 	url = .
+[submodule "lr/al/hds"]
+	path = lr/al/hds
+	url = .
 [submodule "lr/aq/kdr"]
 	path = lr/aq/kdr
 	url = .
