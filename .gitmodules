@@ -7231,6 +7231,9 @@
 [submodule "qw/dh/pap"]
 	path = qw/dh/pap
 	url = .
+[submodule "qw/dp/evx"]
+	path = qw/dp/evx
+	url = .
 [submodule "qw/fg/qns"]
 	path = qw/fg/qns
 	url = .
