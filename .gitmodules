@@ -5794,6 +5794,9 @@
 [submodule "pe/zp/spl"]
 	path = pe/zp/spl
 	url = .
+[submodule "pf/bz/cjd"]
+	path = pf/bz/cjd
+	url = .
 [submodule "pf/gz/bcb"]
 	path = pf/gz/bcb
 	url = .
