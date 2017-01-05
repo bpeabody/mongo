@@ -22822,6 +22822,9 @@
 [submodule "nx/ec/oxe"]
 	path = nx/ec/oxe
 	url = .
+[submodule "nx/fe/jsr"]
+	path = nx/fe/jsr
+	url = .
 [submodule "nx/fu/chj"]
 	path = nx/fu/chj
 	url = .
