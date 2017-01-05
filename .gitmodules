@@ -33973,6 +33973,9 @@
 [submodule "nh/pv/ebj"]
 	path = nh/pv/ebj
 	url = .
+[submodule "nh/te/kgd"]
+	path = nh/te/kgd
+	url = .
 [submodule "nh/uw/etm"]
 	path = nh/uw/etm
 	url = .
