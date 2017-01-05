@@ -4036,6 +4036,9 @@
 [submodule "ja/ue/sux"]
 	path = ja/ue/sux
 	url = .
+[submodule "ja/ys/fok"]
+	path = ja/ys/fok
+	url = .
 [submodule "jb/av/vsu"]
 	path = jb/av/vsu
 	url = .
