@@ -33895,6 +33895,9 @@
 [submodule "sc/ub/ghb"]
 	path = sc/ub/ghb
 	url = .
+[submodule "sc/ud/hpo"]
+	path = sc/ud/hpo
+	url = .
 [submodule "sc/ug/tjr"]
 	path = sc/ug/tjr
 	url = .
