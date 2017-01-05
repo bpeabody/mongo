@@ -41653,6 +41653,9 @@
 [submodule "te/iq/vhl"]
 	path = te/iq/vhl
 	url = .
+[submodule "te/jk/sbd"]
+	path = te/jk/sbd
+	url = .
 [submodule "te/jw/cue"]
 	path = te/jw/cue
 	url = .
