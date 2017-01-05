@@ -32782,6 +32782,9 @@
 [submodule "ro/pp/eok"]
 	path = ro/pp/eok
 	url = .
+[submodule "ro/qk/zma"]
+	path = ro/qk/zma
+	url = .
 [submodule "ro/tf/tzy"]
 	path = ro/tf/tzy
 	url = .
