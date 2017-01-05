@@ -27955,6 +27955,9 @@
 [submodule "ms/mh/krb"]
 	path = ms/mh/krb
 	url = .
+[submodule "ms/mp/pid"]
+	path = ms/mp/pid
+	url = .
 [submodule "ms/ol/kre"]
 	path = ms/ol/kre
 	url = .
