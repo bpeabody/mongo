@@ -14614,6 +14614,9 @@
 [submodule "gi/rr/nnf"]
 	path = gi/rr/nnf
 	url = .
+[submodule "gi/sz/stj"]
+	path = gi/sz/stj
+	url = .
 [submodule "gi/ta/yii"]
 	path = gi/ta/yii
 	url = .
