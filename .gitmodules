@@ -2986,6 +2986,9 @@
 [submodule "qa/gn/ggc"]
 	path = qa/gn/ggc
 	url = .
+[submodule "qa/mk/zpj"]
+	path = qa/mk/zpj
+	url = .
 [submodule "qa/ve/udk"]
 	path = qa/ve/udk
 	url = .
