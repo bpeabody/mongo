@@ -36328,6 +36328,9 @@
 [submodule "ni/wa/hib"]
 	path = ni/wa/hib
 	url = .
+[submodule "ni/xg/hot"]
+	path = ni/xg/hot
+	url = .
 [submodule "nj/bj/knz"]
 	path = nj/bj/knz
 	url = .
