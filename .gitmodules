@@ -64288,6 +64288,9 @@
 [submodule "ym/lf/njx"]
 	path = ym/lf/njx
 	url = .
+[submodule "ym/lo/zgb"]
+	path = ym/lo/zgb
+	url = .
 [submodule "ym/lu/lzy"]
 	path = ym/lu/lzy
 	url = .
