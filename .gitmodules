@@ -1621,6 +1621,9 @@
 [submodule "qm/uc/cvk"]
 	path = qm/uc/cvk
 	url = .
+[submodule "qq/sr/crf"]
+	path = qq/sr/crf
+	url = .
 [submodule "qq/ui/kyz"]
 	path = qq/ui/kyz
 	url = .
