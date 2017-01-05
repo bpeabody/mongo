@@ -448,6 +448,9 @@
 [submodule "ai/vg/lop"]
 	path = ai/vg/lop
 	url = .
+[submodule "ai/wr/wpr"]
+	path = ai/wr/wpr
+	url = .
 [submodule "ai/wu/hnb"]
 	path = ai/wu/hnb
 	url = .
