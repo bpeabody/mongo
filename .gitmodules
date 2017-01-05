@@ -16360,6 +16360,9 @@
 [submodule "gi/mk/nte"]
 	path = gi/mk/nte
 	url = .
+[submodule "gi/ml/igt"]
+	path = gi/ml/igt
+	url = .
 [submodule "gi/nw/ruy"]
 	path = gi/nw/ruy
 	url = .
