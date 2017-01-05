@@ -11011,6 +11011,9 @@
 [submodule "fe/nx/kpz"]
 	path = fe/nx/kpz
 	url = .
+[submodule "fe/pf/ezk"]
+	path = fe/pf/ezk
+	url = .
 [submodule "fe/pp/awv"]
 	path = fe/pp/awv
 	url = .
