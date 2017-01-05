@@ -1384,6 +1384,9 @@
 [submodule "xk/hk/jwq"]
 	path = xk/hk/jwq
 	url = .
+[submodule "xn/wr/mws"]
+	path = xn/wr/mws
+	url = .
 [submodule "xo/ms/pvz"]
 	path = xo/ms/pvz
 	url = .
