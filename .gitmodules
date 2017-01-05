@@ -44710,6 +44710,9 @@
 [submodule "pj/sf/hno"]
 	path = pj/sf/hno
 	url = .
+[submodule "pj/sn/tec"]
+	path = pj/sn/tec
+	url = .
 [submodule "pj/ua/upn"]
 	path = pj/ua/upn
 	url = .
