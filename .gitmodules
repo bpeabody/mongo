@@ -59668,6 +59668,9 @@
 [submodule "uu/ql/ddj"]
 	path = uu/ql/ddj
 	url = .
+[submodule "uu/rd/fbk"]
+	path = uu/rd/fbk
+	url = .
 [submodule "uu/sd/tcz"]
 	path = uu/sd/tcz
 	url = .
