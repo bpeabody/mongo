@@ -20554,6 +20554,9 @@
 [submodule "nu/su/mem"]
 	path = nu/su/mem
 	url = .
+[submodule "nu/tc/fqs"]
+	path = nu/tc/fqs
+	url = .
 [submodule "nv/fs/rcj"]
 	path = nv/fs/rcj
 	url = .
