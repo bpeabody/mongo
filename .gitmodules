@@ -10840,6 +10840,9 @@
 [submodule "xt/vr/eog"]
 	path = xt/vr/eog
 	url = .
+[submodule "xt/yi/jyo"]
+	path = xt/yi/jyo
+	url = .
 [submodule "xu/ej/boe"]
 	path = xu/ej/boe
 	url = .
