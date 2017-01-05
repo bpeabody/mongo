@@ -17410,6 +17410,9 @@
 [submodule "tc/bz/pdn"]
 	path = tc/bz/pdn
 	url = .
+[submodule "tc/fa/yxt"]
+	path = tc/fa/yxt
+	url = .
 [submodule "tc/jw/tos"]
 	path = tc/jw/tos
 	url = .
