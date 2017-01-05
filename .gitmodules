@@ -1084,6 +1084,9 @@
 [submodule "do/xw/elh"]
 	path = do/xw/elh
 	url = .
+[submodule "dp/ef/pei"]
+	path = dp/ef/pei
+	url = .
 [submodule "dp/et/pli"]
 	path = dp/et/pli
 	url = .
