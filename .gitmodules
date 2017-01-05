@@ -9793,6 +9793,9 @@
 [submodule "dk/ab/cvz"]
 	path = dk/ab/cvz
 	url = .
+[submodule "dk/ai/nos"]
+	path = dk/ai/nos
+	url = .
 [submodule "dk/be/ans"]
 	path = dk/be/ans
 	url = .
