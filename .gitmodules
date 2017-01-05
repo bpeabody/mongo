@@ -21778,6 +21778,9 @@
 [submodule "io/dl/euh"]
 	path = io/dl/euh
 	url = .
+[submodule "io/gb/wle"]
+	path = io/gb/wle
+	url = .
 [submodule "io/gc/ekx"]
 	path = io/gc/ekx
 	url = .
