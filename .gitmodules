@@ -2353,6 +2353,9 @@
 [submodule "bd/yd/bat"]
 	path = bd/yd/bat
 	url = .
+[submodule "bd/yv/ogh"]
+	path = bd/yv/ogh
+	url = .
 [submodule "bd/zb/grr"]
 	path = bd/zb/grr
 	url = .
