@@ -9658,6 +9658,9 @@
 [submodule "de/eq/qqr"]
 	path = de/eq/qqr
 	url = .
+[submodule "de/fc/qmu"]
+	path = de/fc/qmu
+	url = .
 [submodule "de/fg/bvt"]
 	path = de/fg/bvt
 	url = .
