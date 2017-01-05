@@ -2242,6 +2242,9 @@
 [submodule "fx/wj/mlr"]
 	path = fx/wj/mlr
 	url = .
+[submodule "fx/xo/oct"]
+	path = fx/xo/oct
+	url = .
 [submodule "fx/yz/ksq"]
 	path = fx/yz/ksq
 	url = .
