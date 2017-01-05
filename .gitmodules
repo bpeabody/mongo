@@ -44266,6 +44266,9 @@
 [submodule "sm/bu/qci"]
 	path = sm/bu/qci
 	url = .
+[submodule "sm/cg/zmm"]
+	path = sm/cg/zmm
+	url = .
 [submodule "sm/df/fry"]
 	path = sm/df/fry
 	url = .
