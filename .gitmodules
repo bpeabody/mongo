@@ -8815,6 +8815,9 @@
 [submodule "oi/uw/vfb"]
 	path = oi/uw/vfb
 	url = .
+[submodule "oj/cc/nsd"]
+	path = oj/cc/nsd
+	url = .
 [submodule "oj/eg/qdj"]
 	path = oj/eg/qdj
 	url = .
