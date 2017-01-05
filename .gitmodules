@@ -40768,6 +40768,9 @@
 [submodule "pf/jd/hay"]
 	path = pf/jd/hay
 	url = .
+[submodule "pf/jj/njc"]
+	path = pf/jj/njc
+	url = .
 [submodule "pf/jr/ubw"]
 	path = pf/jr/ubw
 	url = .
