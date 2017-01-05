@@ -4381,6 +4381,9 @@
 [submodule "mv/bc/fyv"]
 	path = mv/bc/fyv
 	url = .
+[submodule "mv/dz/sdg"]
+	path = mv/dz/sdg
+	url = .
 [submodule "mv/jm/gqw"]
 	path = mv/jm/gqw
 	url = .
