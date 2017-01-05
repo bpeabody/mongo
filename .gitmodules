@@ -28141,6 +28141,9 @@
 [submodule "ma/um/khl"]
 	path = ma/um/khl
 	url = .
+[submodule "ma/wg/znp"]
+	path = ma/wg/znp
+	url = .
 [submodule "ma/wt/gen"]
 	path = ma/wt/gen
 	url = .
