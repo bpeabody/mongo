@@ -6757,6 +6757,9 @@
 [submodule "cq/hw/yns"]
 	path = cq/hw/yns
 	url = .
+[submodule "cq/jj/iim"]
+	path = cq/jj/iim
+	url = .
 [submodule "cq/jq/biz"]
 	path = cq/jq/biz
 	url = .
