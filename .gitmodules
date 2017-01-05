@@ -16933,6 +16933,9 @@
 [submodule "sl/ja/oyc"]
 	path = sl/ja/oyc
 	url = .
+[submodule "sl/jv/akn"]
+	path = sl/jv/akn
+	url = .
 [submodule "sl/kb/vzz"]
 	path = sl/kb/vzz
 	url = .
