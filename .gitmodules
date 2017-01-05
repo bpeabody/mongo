@@ -13819,6 +13819,9 @@
 [submodule "gv/kk/urd"]
 	path = gv/kk/urd
 	url = .
+[submodule "gv/lc/gdy"]
+	path = gv/lc/gdy
+	url = .
 [submodule "gv/ln/cad"]
 	path = gv/ln/cad
 	url = .
