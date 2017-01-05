@@ -17203,6 +17203,9 @@
 [submodule "sh/oo/wek"]
 	path = sh/oo/wek
 	url = .
+[submodule "sh/so/khe"]
+	path = sh/so/khe
+	url = .
 [submodule "sh/sp/qaj"]
 	path = sh/sp/qaj
 	url = .
