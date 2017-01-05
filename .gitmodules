@@ -1645,6 +1645,9 @@
 [submodule "ay/kp/ngo"]
 	path = ay/kp/ngo
 	url = .
+[submodule "ay/me/wvs"]
+	path = ay/me/wvs
+	url = .
 [submodule "ay/og/gnc"]
 	path = ay/og/gnc
 	url = .
