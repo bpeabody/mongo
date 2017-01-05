@@ -7429,6 +7429,9 @@
 [submodule "jx/hc/onf"]
 	path = jx/hc/onf
 	url = .
+[submodule "jx/sr/vjs"]
+	path = jx/sr/vjs
+	url = .
 [submodule "jy/lo/tbs"]
 	path = jy/lo/tbs
 	url = .
