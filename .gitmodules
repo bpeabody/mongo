@@ -5410,6 +5410,9 @@
 [submodule "bz/oi/lms"]
 	path = bz/oi/lms
 	url = .
+[submodule "bz/oj/qbk"]
+	path = bz/oj/qbk
+	url = .
 [submodule "bz/ok/rwo"]
 	path = bz/ok/rwo
 	url = .
