@@ -29401,6 +29401,9 @@
 [submodule "yi/np/slo"]
 	path = yi/np/slo
 	url = .
+[submodule "yi/ns/iko"]
+	path = yi/ns/iko
+	url = .
 [submodule "yi/tz/tqi"]
 	path = yi/tz/tqi
 	url = .
