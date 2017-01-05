@@ -1903,6 +1903,9 @@
 [submodule "ez/au/afl"]
 	path = ez/au/afl
 	url = .
+[submodule "ez/bf/znm"]
+	path = ez/bf/znm
+	url = .
 [submodule "ez/by/kwl"]
 	path = ez/by/kwl
 	url = .
