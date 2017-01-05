@@ -6064,6 +6064,9 @@
 [submodule "kq/jj/ybd"]
 	path = kq/jj/ybd
 	url = .
+[submodule "kq/kz/mrq"]
+	path = kq/kz/mrq
+	url = .
 [submodule "kq/vm/ozg"]
 	path = kq/vm/ozg
 	url = .
