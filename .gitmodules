@@ -43552,6 +43552,9 @@
 [submodule "sw/zc/yxk"]
 	path = sw/zc/yxk
 	url = .
+[submodule "sw/zh/haj"]
+	path = sw/zh/haj
+	url = .
 [submodule "sw/zi/ajw"]
 	path = sw/zi/ajw
 	url = .
