@@ -4792,6 +4792,9 @@
 [submodule "li/gb/mou"]
 	path = li/gb/mou
 	url = .
+[submodule "li/op/mao"]
+	path = li/op/mao
+	url = .
 [submodule "li/sx/rtz"]
 	path = li/sx/rtz
 	url = .
