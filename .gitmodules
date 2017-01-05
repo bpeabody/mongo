@@ -37351,6 +37351,9 @@
 [submodule "qt/ie/ntu"]
 	path = qt/ie/ntu
 	url = .
+[submodule "qt/in/rmt"]
+	path = qt/in/rmt
+	url = .
 [submodule "qt/io/khp"]
 	path = qt/io/khp
 	url = .
