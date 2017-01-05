@@ -16495,6 +16495,9 @@
 [submodule "oj/qr/xsu"]
 	path = oj/qr/xsu
 	url = .
+[submodule "oj/st/jhi"]
+	path = oj/st/jhi
+	url = .
 [submodule "oj/uq/rdb"]
 	path = oj/uq/rdb
 	url = .
