@@ -46357,6 +46357,9 @@
 [submodule "rl/rx/usm"]
 	path = rl/rx/usm
 	url = .
+[submodule "rl/sk/giu"]
+	path = rl/sk/giu
+	url = .
 [submodule "rl/tc/acb"]
 	path = rl/tc/acb
 	url = .
