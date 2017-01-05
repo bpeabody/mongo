@@ -5509,6 +5509,9 @@
 [submodule "cl/sy/qxt"]
 	path = cl/sy/qxt
 	url = .
+[submodule "cl/vg/gst"]
+	path = cl/vg/gst
+	url = .
 [submodule "cl/vg/wto"]
 	path = cl/vg/wto
 	url = .
