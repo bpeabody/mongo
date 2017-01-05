@@ -57223,6 +57223,9 @@
 [submodule "xv/hr/vnd"]
 	path = xv/hr/vnd
 	url = .
+[submodule "xv/ke/nsu"]
+	path = xv/ke/nsu
+	url = .
 [submodule "xv/kk/nnd"]
 	path = xv/kk/nnd
 	url = .
