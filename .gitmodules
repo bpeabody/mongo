@@ -8170,6 +8170,9 @@
 [submodule "gb/zh/ins"]
 	path = gb/zh/ins
 	url = .
+[submodule "gb/zv/xwu"]
+	path = gb/zv/xwu
+	url = .
 [submodule "gc/bm/asz"]
 	path = gc/bm/asz
 	url = .
