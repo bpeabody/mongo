@@ -1852,6 +1852,9 @@
 [submodule "hl/je/yuc"]
 	path = hl/je/yuc
 	url = .
+[submodule "hl/qo/fse"]
+	path = hl/qo/fse
+	url = .
 [submodule "hl/rf/ocp"]
 	path = hl/rf/ocp
 	url = .
