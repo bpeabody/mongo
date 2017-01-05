@@ -29776,6 +29776,9 @@
 [submodule "lx/ou/afv"]
 	path = lx/ou/afv
 	url = .
+[submodule "lx/pt/vek"]
+	path = lx/pt/vek
+	url = .
 [submodule "lx/pt/zbn"]
 	path = lx/pt/zbn
 	url = .
