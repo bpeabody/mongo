@@ -12892,6 +12892,9 @@
 [submodule "en/ke/wtd"]
 	path = en/ke/wtd
 	url = .
+[submodule "en/kk/mkw"]
+	path = en/kk/mkw
+	url = .
 [submodule "en/lk/gkq"]
 	path = en/lk/gkq
 	url = .
