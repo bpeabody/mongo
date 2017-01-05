@@ -9031,6 +9031,9 @@
 [submodule "eg/rq/geg"]
 	path = eg/rq/geg
 	url = .
+[submodule "eg/tm/hys"]
+	path = eg/tm/hys
+	url = .
 [submodule "eg/ul/kgv"]
 	path = eg/ul/kgv
 	url = .
