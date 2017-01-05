@@ -1339,6 +1339,9 @@
 [submodule "bx/vj/rqk"]
 	path = bx/vj/rqk
 	url = .
+[submodule "by/dn/euk"]
+	path = by/dn/euk
+	url = .
 [submodule "by/ek/aor"]
 	path = by/ek/aor
 	url = .
