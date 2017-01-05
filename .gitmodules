@@ -5728,6 +5728,9 @@
 [submodule "dm/ge/zwf"]
 	path = dm/ge/zwf
 	url = .
+[submodule "dm/gr/rys"]
+	path = dm/gr/rys
+	url = .
 [submodule "dm/hc/ktc"]
 	path = dm/hc/ktc
 	url = .
