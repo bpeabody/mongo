@@ -8941,6 +8941,9 @@
 [submodule "xe/aa/odv"]
 	path = xe/aa/odv
 	url = .
+[submodule "xe/ct/ilk"]
+	path = xe/ct/ilk
+	url = .
 [submodule "xe/gt/wqr"]
 	path = xe/gt/wqr
 	url = .
