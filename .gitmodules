@@ -3601,6 +3601,9 @@
 [submodule "lm/ik/hqo"]
 	path = lm/ik/hqo
 	url = .
+[submodule "lm/rn/nvt"]
+	path = lm/rn/nvt
+	url = .
 [submodule "lm/rq/lpt"]
 	path = lm/rq/lpt
 	url = .
