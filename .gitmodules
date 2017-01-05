@@ -29338,6 +29338,9 @@
 [submodule "vq/dv/cld"]
 	path = vq/dv/cld
 	url = .
+[submodule "vq/eu/gas"]
+	path = vq/eu/gas
+	url = .
 [submodule "vq/fe/lms"]
 	path = vq/fe/lms
 	url = .
