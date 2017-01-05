@@ -41467,6 +41467,9 @@
 [submodule "wq/ur/ocb"]
 	path = wq/ur/ocb
 	url = .
+[submodule "wq/xi/gns"]
+	path = wq/xi/gns
+	url = .
 [submodule "wq/yj/okt"]
 	path = wq/yj/okt
 	url = .
