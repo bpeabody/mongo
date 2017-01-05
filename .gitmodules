@@ -4108,6 +4108,9 @@
 [submodule "ha/rp/lud"]
 	path = ha/rp/lud
 	url = .
+[submodule "ha/tz/vbb"]
+	path = ha/tz/vbb
+	url = .
 [submodule "ha/wg/fje"]
 	path = ha/wg/fje
 	url = .
