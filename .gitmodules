@@ -13918,6 +13918,9 @@
 [submodule "up/fw/xud"]
 	path = up/fw/xud
 	url = .
+[submodule "up/gk/tpb"]
+	path = up/gk/tpb
+	url = .
 [submodule "up/ml/kdl"]
 	path = up/ml/kdl
 	url = .
