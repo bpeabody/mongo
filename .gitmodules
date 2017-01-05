@@ -8857,6 +8857,9 @@
 [submodule "fx/bf/jqm"]
 	path = fx/bf/jqm
 	url = .
+[submodule "fx/ci/dut"]
+	path = fx/ci/dut
+	url = .
 [submodule "fx/cz/qrd"]
 	path = fx/cz/qrd
 	url = .
