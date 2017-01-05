@@ -14869,6 +14869,9 @@
 [submodule "hd/qv/bzz"]
 	path = hd/qv/bzz
 	url = .
+[submodule "hd/sx/qku"]
+	path = hd/sx/qku
+	url = .
 [submodule "hd/ta/qpk"]
 	path = hd/ta/qpk
 	url = .
