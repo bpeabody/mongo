@@ -24520,6 +24520,9 @@
 [submodule "vg/xc/opq"]
 	path = vg/xc/opq
 	url = .
+[submodule "vh/bh/qof"]
+	path = vh/bh/qof
+	url = .
 [submodule "vh/bm/iiu"]
 	path = vh/bm/iiu
 	url = .
