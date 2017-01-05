@@ -7354,6 +7354,9 @@
 [submodule "vk/mp/wjp"]
 	path = vk/mp/wjp
 	url = .
+[submodule "vk/rm/nhz"]
+	path = vk/rm/nhz
+	url = .
 [submodule "vk/vi/lvg"]
 	path = vk/vi/lvg
 	url = .
