@@ -32833,6 +32833,9 @@
 [submodule "xi/vc/jln"]
 	path = xi/vc/jln
 	url = .
+[submodule "xi/vd/ews"]
+	path = xi/vd/ews
+	url = .
 [submodule "xi/vz/ede"]
 	path = xi/vz/ede
 	url = .
