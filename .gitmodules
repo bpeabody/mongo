@@ -33571,6 +33571,9 @@
 [submodule "sg/gn/iyi"]
 	path = sg/gn/iyi
 	url = .
+[submodule "sg/he/ura"]
+	path = sg/he/ura
+	url = .
 [submodule "sg/hl/jwq"]
 	path = sg/hl/jwq
 	url = .
