@@ -22573,6 +22573,9 @@
 [submodule "vt/yh/vlj"]
 	path = vt/yh/vlj
 	url = .
+[submodule "vt/yx/qwd"]
+	path = vt/yx/qwd
+	url = .
 [submodule "vt/zn/fsl"]
 	path = vt/zn/fsl
 	url = .
