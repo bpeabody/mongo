@@ -16249,6 +16249,9 @@
 [submodule "gz/ko/quv"]
 	path = gz/ko/quv
 	url = .
+[submodule "gz/ng/awe"]
+	path = gz/ng/awe
+	url = .
 [submodule "gz/nn/cbu"]
 	path = gz/nn/cbu
 	url = .
