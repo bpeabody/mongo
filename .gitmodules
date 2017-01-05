@@ -13603,6 +13603,9 @@
 [submodule "je/ia/inq"]
 	path = je/ia/inq
 	url = .
+[submodule "je/ky/nya"]
+	path = je/ky/nya
+	url = .
 [submodule "je/oe/bxi"]
 	path = je/oe/bxi
 	url = .
