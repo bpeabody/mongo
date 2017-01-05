@@ -1501,6 +1501,9 @@
 [submodule "hj/ob/krn"]
 	path = hj/ob/krn
 	url = .
+[submodule "hk/as/hsg"]
+	path = hk/as/hsg
+	url = .
 [submodule "hl/bd/mrv"]
 	path = hl/bd/mrv
 	url = .
