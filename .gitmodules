@@ -45214,6 +45214,9 @@
 [submodule "qw/at/kus"]
 	path = qw/at/kus
 	url = .
+[submodule "qw/bd/ckl"]
+	path = qw/bd/ckl
+	url = .
 [submodule "qw/ce/uke"]
 	path = qw/ce/uke
 	url = .
