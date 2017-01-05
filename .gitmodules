@@ -754,6 +754,9 @@
 [submodule "hh/pm/ezo"]
 	path = hh/pm/ezo
 	url = .
+[submodule "hh/rg/zte"]
+	path = hh/rg/zte
+	url = .
 [submodule "hh/wg/dpz"]
 	path = hh/wg/dpz
 	url = .
