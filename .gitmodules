@@ -66049,6 +66049,9 @@
 [submodule "wp/ya/wvy"]
 	path = wp/ya/wvy
 	url = .
+[submodule "wp/yu/oxb"]
+	path = wp/yu/oxb
+	url = .
 [submodule "wp/zp/npx"]
 	path = wp/zp/npx
 	url = .
