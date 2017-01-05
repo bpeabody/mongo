@@ -10048,6 +10048,9 @@
 [submodule "kd/ip/nad"]
 	path = kd/ip/nad
 	url = .
+[submodule "kd/iz/jtp"]
+	path = kd/iz/jtp
+	url = .
 [submodule "kd/mq/wbd"]
 	path = kd/mq/wbd
 	url = .
