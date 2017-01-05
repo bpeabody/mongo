@@ -15673,6 +15673,9 @@
 [submodule "sj/pz/agz"]
 	path = sj/pz/agz
 	url = .
+[submodule "sj/qi/ugh"]
+	path = sj/qi/ugh
+	url = .
 [submodule "sj/ur/art"]
 	path = sj/ur/art
 	url = .
