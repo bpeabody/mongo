@@ -21772,6 +21772,9 @@
 [submodule "hm/eb/okc"]
 	path = hm/eb/okc
 	url = .
+[submodule "hm/ei/wak"]
+	path = hm/ei/wak
+	url = .
 [submodule "hm/em/toy"]
 	path = hm/em/toy
 	url = .
