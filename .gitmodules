@@ -27340,6 +27340,9 @@
 [submodule "wh/up/apt"]
 	path = wh/up/apt
 	url = .
+[submodule "wh/vj/rqs"]
+	path = wh/vj/rqs
+	url = .
 [submodule "wh/vt/ult"]
 	path = wh/vt/ult
 	url = .
