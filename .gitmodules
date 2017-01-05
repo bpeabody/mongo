@@ -51076,6 +51076,9 @@
 [submodule "uk/no/kdb"]
 	path = uk/no/kdb
 	url = .
+[submodule "uk/nw/kki"]
+	path = uk/nw/kki
+	url = .
 [submodule "uk/of/fuj"]
 	path = uk/of/fuj
 	url = .
