@@ -17323,6 +17323,9 @@
 [submodule "nf/lh/zno"]
 	path = nf/lh/zno
 	url = .
+[submodule "nf/mc/hsy"]
+	path = nf/mc/hsy
+	url = .
 [submodule "nf/mi/fdx"]
 	path = nf/mi/fdx
 	url = .
