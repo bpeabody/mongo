@@ -8812,6 +8812,9 @@
 [submodule "fw/gq/ulp"]
 	path = fw/gq/ulp
 	url = .
+[submodule "fw/hs/cmw"]
+	path = fw/hs/cmw
+	url = .
 [submodule "fw/ia/jis"]
 	path = fw/ia/jis
 	url = .
