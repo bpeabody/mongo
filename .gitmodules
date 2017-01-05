@@ -15388,6 +15388,9 @@
 [submodule "ft/kk/cxi"]
 	path = ft/kk/cxi
 	url = .
+[submodule "ft/kw/mkw"]
+	path = ft/kw/mkw
+	url = .
 [submodule "ft/ky/bdb"]
 	path = ft/ky/bdb
 	url = .
