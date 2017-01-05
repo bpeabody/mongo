@@ -36586,6 +36586,9 @@
 [submodule "mu/mt/slj"]
 	path = mu/mt/slj
 	url = .
+[submodule "mu/mu/rfu"]
+	path = mu/mu/rfu
+	url = .
 [submodule "mu/nn/kbx"]
 	path = mu/nn/kbx
 	url = .
