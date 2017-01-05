@@ -76,6 +76,9 @@
 [submodule "re/py/ktl"]
 	path = re/py/ktl
 	url = .
+[submodule "rr/or/vhq"]
+	path = rr/or/vhq
+	url = .
 [submodule "tf/dm/gyi"]
 	path = tf/dm/gyi
 	url = .
