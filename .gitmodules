@@ -853,6 +853,9 @@
 [submodule "ak/lz/exh"]
 	path = ak/lz/exh
 	url = .
+[submodule "ak/ps/lmt"]
+	path = ak/ps/lmt
+	url = .
 [submodule "ak/rj/zwu"]
 	path = ak/rj/zwu
 	url = .
