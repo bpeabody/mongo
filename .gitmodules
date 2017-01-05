@@ -31993,6 +31993,9 @@
 [submodule "wl/jy/xpg"]
 	path = wl/jy/xpg
 	url = .
+[submodule "wl/mj/nkr"]
+	path = wl/mj/nkr
+	url = .
 [submodule "wl/nh/jrp"]
 	path = wl/nh/jrp
 	url = .
