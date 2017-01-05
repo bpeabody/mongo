@@ -8188,6 +8188,9 @@
 [submodule "lf/rl/rlp"]
 	path = lf/rl/rlp
 	url = .
+[submodule "lf/sl/mmq"]
+	path = lf/sl/mmq
+	url = .
 [submodule "lf/wk/odc"]
 	path = lf/wk/odc
 	url = .
