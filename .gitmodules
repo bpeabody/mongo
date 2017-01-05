@@ -5554,6 +5554,9 @@
 [submodule "fy/qg/irv"]
 	path = fy/qg/irv
 	url = .
+[submodule "fy/qy/lhb"]
+	path = fy/qy/lhb
+	url = .
 [submodule "fy/uv/oma"]
 	path = fy/uv/oma
 	url = .
