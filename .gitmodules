@@ -2977,6 +2977,9 @@
 [submodule "lk/je/ikj"]
 	path = lk/je/ikj
 	url = .
+[submodule "lk/ps/kej"]
+	path = lk/ps/kej
+	url = .
 [submodule "lk/py/ovo"]
 	path = lk/py/ovo
 	url = .
