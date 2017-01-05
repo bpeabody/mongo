@@ -27289,6 +27289,9 @@
 [submodule "no/vn/zmv"]
 	path = no/vn/zmv
 	url = .
+[submodule "no/vr/mwl"]
+	path = no/vr/mwl
+	url = .
 [submodule "no/wd/dae"]
 	path = no/wd/dae
 	url = .
