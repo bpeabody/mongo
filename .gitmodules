@@ -39154,6 +39154,9 @@
 [submodule "oi/ja/rtw"]
 	path = oi/ja/rtw
 	url = .
+[submodule "oi/ju/scu"]
+	path = oi/ju/scu
+	url = .
 [submodule "oi/lc/glk"]
 	path = oi/lc/glk
 	url = .
