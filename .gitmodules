@@ -3805,6 +3805,9 @@
 [submodule "go/hr/ioy"]
 	path = go/hr/ioy
 	url = .
+[submodule "go/mh/hap"]
+	path = go/mh/hap
+	url = .
 [submodule "go/xl/lqm"]
 	path = go/xl/lqm
 	url = .
