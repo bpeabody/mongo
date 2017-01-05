@@ -34603,6 +34603,9 @@
 [submodule "qh/wm/twd"]
 	path = qh/wm/twd
 	url = .
+[submodule "qh/wr/vng"]
+	path = qh/wr/vng
+	url = .
 [submodule "qh/xr/zsl"]
 	path = qh/xr/zsl
 	url = .
