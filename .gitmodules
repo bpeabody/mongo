@@ -10792,6 +10792,9 @@
 [submodule "ev/fn/yrj"]
 	path = ev/fn/yrj
 	url = .
+[submodule "ev/gf/qgw"]
+	path = ev/gf/qgw
+	url = .
 [submodule "ev/gu/tgd"]
 	path = ev/gu/tgd
 	url = .
