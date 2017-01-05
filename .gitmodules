@@ -6934,6 +6934,9 @@
 [submodule "dt/rl/uqt"]
 	path = dt/rl/uqt
 	url = .
+[submodule "dt/uq/acf"]
+	path = dt/uq/acf
+	url = .
 [submodule "dt/vm/dll"]
 	path = dt/vm/dll
 	url = .
