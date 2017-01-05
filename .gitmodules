@@ -76459,6 +76459,9 @@
 [submodule "zg/pn/pki"]
 	path = zg/pn/pki
 	url = .
+[submodule "zg/qq/yoy"]
+	path = zg/qq/yoy
+	url = .
 [submodule "zg/rw/eej"]
 	path = zg/rw/eej
 	url = .
