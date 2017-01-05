@@ -10525,6 +10525,9 @@
 [submodule "ec/zs/uib"]
 	path = ec/zs/uib
 	url = .
+[submodule "ed/ap/kuh"]
+	path = ed/ap/kuh
+	url = .
 [submodule "ed/bq/cgp"]
 	path = ed/bq/cgp
 	url = .
