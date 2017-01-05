@@ -14698,6 +14698,9 @@
 [submodule "fg/tk/fsw"]
 	path = fg/tk/fsw
 	url = .
+[submodule "fg/uf/aqx"]
+	path = fg/uf/aqx
+	url = .
 [submodule "fg/uu/nim"]
 	path = fg/uu/nim
 	url = .
