@@ -42061,6 +42061,9 @@
 [submodule "qb/mn/zhn"]
 	path = qb/mn/zhn
 	url = .
+[submodule "qb/nb/aay"]
+	path = qb/nb/aay
+	url = .
 [submodule "qb/ng/ozy"]
 	path = qb/ng/ozy
 	url = .
