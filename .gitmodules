@@ -37474,6 +37474,9 @@
 [submodule "vo/ir/nmf"]
 	path = vo/ir/nmf
 	url = .
+[submodule "vo/jl/jre"]
+	path = vo/jl/jre
+	url = .
 [submodule "vo/jq/ker"]
 	path = vo/jq/ker
 	url = .
