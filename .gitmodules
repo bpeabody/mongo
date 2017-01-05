@@ -4285,6 +4285,9 @@
 [submodule "ea/lu/hnu"]
 	path = ea/lu/hnu
 	url = .
+[submodule "ea/mb/lpw"]
+	path = ea/mb/lpw
+	url = .
 [submodule "ea/mf/exn"]
 	path = ea/mf/exn
 	url = .
