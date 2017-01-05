@@ -15280,6 +15280,9 @@
 [submodule "is/jy/ezs"]
 	path = is/jy/ezs
 	url = .
+[submodule "is/lb/swj"]
+	path = is/lb/swj
+	url = .
 [submodule "is/ll/blk"]
 	path = is/ll/blk
 	url = .
