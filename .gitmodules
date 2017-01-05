@@ -1045,6 +1045,9 @@
 [submodule "ap/lv/jgx"]
 	path = ap/lv/jgx
 	url = .
+[submodule "ap/nw/bmt"]
+	path = ap/nw/bmt
+	url = .
 [submodule "ap/ov/ebi"]
 	path = ap/ov/ebi
 	url = .
