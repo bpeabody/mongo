@@ -13345,6 +13345,9 @@
 [submodule "hs/pt/zdg"]
 	path = hs/pt/zdg
 	url = .
+[submodule "hs/qn/ucz"]
+	path = hs/qn/ucz
+	url = .
 [submodule "hs/qw/jxo"]
 	path = hs/qw/jxo
 	url = .
