@@ -2938,6 +2938,9 @@
 [submodule "di/ni/cts"]
 	path = di/ni/cts
 	url = .
+[submodule "di/nk/ner"]
+	path = di/nk/ner
+	url = .
 [submodule "di/ou/cru"]
 	path = di/ou/cru
 	url = .
