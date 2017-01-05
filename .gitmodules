@@ -6529,6 +6529,9 @@
 [submodule "el/aq/mkm"]
 	path = el/aq/mkm
 	url = .
+[submodule "el/bu/qqs"]
+	path = el/bu/qqs
+	url = .
 [submodule "el/eo/iyg"]
 	path = el/eo/iyg
 	url = .
