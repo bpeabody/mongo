@@ -694,6 +694,9 @@
 [submodule "ds/fb/vmm"]
 	path = ds/fb/vmm
 	url = .
+[submodule "ds/ma/jzx"]
+	path = ds/ma/jzx
+	url = .
 [submodule "ds/qo/mnn"]
 	path = ds/qo/mnn
 	url = .
