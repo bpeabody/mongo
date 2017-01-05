@@ -21844,6 +21844,9 @@
 [submodule "ty/sd/bti"]
 	path = ty/sd/bti
 	url = .
+[submodule "ty/ui/osx"]
+	path = ty/ui/osx
+	url = .
 [submodule "ty/ut/kha"]
 	path = ty/ut/kha
 	url = .
