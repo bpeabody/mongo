@@ -10075,6 +10075,9 @@
 [submodule "lp/hm/vxx"]
 	path = lp/hm/vxx
 	url = .
+[submodule "lp/ht/myr"]
+	path = lp/ht/myr
+	url = .
 [submodule "lp/qb/ret"]
 	path = lp/qb/ret
 	url = .
