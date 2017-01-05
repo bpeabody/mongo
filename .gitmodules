@@ -1036,6 +1036,9 @@
 [submodule "al/yc/ouv"]
 	path = al/yc/ouv
 	url = .
+[submodule "al/zk/cxg"]
+	path = al/zk/cxg
+	url = .
 [submodule "am/bn/bmr"]
 	path = am/bn/bmr
 	url = .
