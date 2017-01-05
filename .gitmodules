@@ -4702,6 +4702,9 @@
 [submodule "dn/dt/lda"]
 	path = dn/dt/lda
 	url = .
+[submodule "dn/dw/npx"]
+	path = dn/dw/npx
+	url = .
 [submodule "dn/dy/hee"]
 	path = dn/dy/hee
 	url = .
