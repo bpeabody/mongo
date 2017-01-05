@@ -14638,6 +14638,9 @@
 [submodule "hv/hz/rtw"]
 	path = hv/hz/rtw
 	url = .
+[submodule "hv/jd/mxi"]
+	path = hv/jd/mxi
+	url = .
 [submodule "hv/ji/qxe"]
 	path = hv/ji/qxe
 	url = .
