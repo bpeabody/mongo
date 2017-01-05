@@ -18523,6 +18523,9 @@
 [submodule "qv/ec/afk"]
 	path = qv/ec/afk
 	url = .
+[submodule "qv/fa/dau"]
+	path = qv/fa/dau
+	url = .
 [submodule "qv/fr/ogg"]
 	path = qv/fr/ogg
 	url = .
