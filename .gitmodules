@@ -11221,6 +11221,9 @@
 [submodule "yi/eq/fjq"]
 	path = yi/eq/fjq
 	url = .
+[submodule "yi/jj/zsi"]
+	path = yi/jj/zsi
+	url = .
 [submodule "yi/no/kpl"]
 	path = yi/no/kpl
 	url = .
