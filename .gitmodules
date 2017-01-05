@@ -2791,6 +2791,9 @@
 [submodule "bq/hm/kwb"]
 	path = bq/hm/kwb
 	url = .
+[submodule "bq/iu/mvo"]
+	path = bq/iu/mvo
+	url = .
 [submodule "bq/iw/jcg"]
 	path = bq/iw/jcg
 	url = .
