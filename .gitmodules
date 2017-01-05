@@ -15082,6 +15082,9 @@
 [submodule "go/xl/lqm"]
 	path = go/xl/lqm
 	url = .
+[submodule "go/xm/crz"]
+	path = go/xm/crz
+	url = .
 [submodule "go/xo/guk"]
 	path = go/xo/guk
 	url = .
