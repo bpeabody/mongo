@@ -34651,6 +34651,9 @@
 [submodule "lp/wt/ljd"]
 	path = lp/wt/ljd
 	url = .
+[submodule "lp/xx/hdx"]
+	path = lp/xx/hdx
+	url = .
 [submodule "lp/xx/uep"]
 	path = lp/xx/uep
 	url = .
