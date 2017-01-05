@@ -52009,6 +52009,9 @@
 [submodule "sc/ri/ugg"]
 	path = sc/ri/ugg
 	url = .
+[submodule "sc/sd/hlv"]
+	path = sc/sd/hlv
+	url = .
 [submodule "sc/se/mxz"]
 	path = sc/se/mxz
 	url = .
