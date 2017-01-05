@@ -2302,6 +2302,9 @@
 [submodule "bf/iu/end"]
 	path = bf/iu/end
 	url = .
+[submodule "bf/jn/peo"]
+	path = bf/jn/peo
+	url = .
 [submodule "bf/km/vso"]
 	path = bf/km/vso
 	url = .
