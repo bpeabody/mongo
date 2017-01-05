@@ -17320,6 +17320,9 @@
 [submodule "ln/hy/nws"]
 	path = ln/hy/nws
 	url = .
+[submodule "ln/jx/zje"]
+	path = ln/jx/zje
+	url = .
 [submodule "ln/mz/bil"]
 	path = ln/mz/bil
 	url = .
