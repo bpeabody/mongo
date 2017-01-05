@@ -1420,6 +1420,9 @@
 [submodule "rz/hf/dig"]
 	path = rz/hf/dig
 	url = .
+[submodule "sa/ka/biu"]
+	path = sa/ka/biu
+	url = .
 [submodule "sc/ri/ugg"]
 	path = sc/ri/ugg
 	url = .
