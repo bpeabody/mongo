@@ -16210,6 +16210,9 @@
 [submodule "jj/hp/eyi"]
 	path = jj/hp/eyi
 	url = .
+[submodule "jj/it/loc"]
+	path = jj/it/loc
+	url = .
 [submodule "jj/mk/wol"]
 	path = jj/mk/wol
 	url = .
