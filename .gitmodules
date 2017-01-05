@@ -7129,6 +7129,9 @@
 [submodule "lb/jf/ogf"]
 	path = lb/jf/ogf
 	url = .
+[submodule "lb/lg/dyo"]
+	path = lb/lg/dyo
+	url = .
 [submodule "lb/sz/qrh"]
 	path = lb/sz/qrh
 	url = .
