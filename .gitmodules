@@ -40,6 +40,9 @@
 [submodule "cj/rf/qjt"]
 	path = cj/rf/qjt
 	url = .
+[submodule "cl/vg/wto"]
+	path = cl/vg/wto
+	url = .
 [submodule "cl/vj/yrf"]
 	path = cl/vj/yrf
 	url = .
