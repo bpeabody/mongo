@@ -11962,6 +11962,9 @@
 [submodule "mi/ij/aek"]
 	path = mi/ij/aek
 	url = .
+[submodule "mi/le/ars"]
+	path = mi/le/ars
+	url = .
 [submodule "mi/lv/kel"]
 	path = mi/lv/kel
 	url = .
