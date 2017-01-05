@@ -2701,6 +2701,9 @@
 [submodule "cx/gi/rsv"]
 	path = cx/gi/rsv
 	url = .
+[submodule "cx/ja/lfw"]
+	path = cx/ja/lfw
+	url = .
 [submodule "cx/ll/yqi"]
 	path = cx/ll/yqi
 	url = .
