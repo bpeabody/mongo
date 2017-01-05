@@ -2500,6 +2500,9 @@
 [submodule "hr/uw/ijl"]
 	path = hr/uw/ijl
 	url = .
+[submodule "hs/ae/gvg"]
+	path = hs/ae/gvg
+	url = .
 [submodule "hs/hf/vff"]
 	path = hs/hf/vff
 	url = .
