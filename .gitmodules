@@ -9718,6 +9718,9 @@
 [submodule "hd/ta/qpk"]
 	path = hd/ta/qpk
 	url = .
+[submodule "hd/uw/fny"]
+	path = hd/uw/fny
+	url = .
 [submodule "hd/vz/ghz"]
 	path = hd/vz/ghz
 	url = .
