@@ -46600,6 +46600,9 @@
 [submodule "rl/hq/ina"]
 	path = rl/hq/ina
 	url = .
+[submodule "rl/id/jrd"]
+	path = rl/id/jrd
+	url = .
 [submodule "rl/iw/rmm"]
 	path = rl/iw/rmm
 	url = .
