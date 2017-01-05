@@ -20062,6 +20062,9 @@
 [submodule "wl/uo/wld"]
 	path = wl/uo/wld
 	url = .
+[submodule "wl/uz/ptr"]
+	path = wl/uz/ptr
+	url = .
 [submodule "wl/xi/zcq"]
 	path = wl/xi/zcq
 	url = .
