@@ -2770,6 +2770,9 @@
 [submodule "fe/ff/cbs"]
 	path = fe/ff/cbs
 	url = .
+[submodule "fe/gu/ron"]
+	path = fe/gu/ron
+	url = .
 [submodule "fe/jn/uav"]
 	path = fe/jn/uav
 	url = .
