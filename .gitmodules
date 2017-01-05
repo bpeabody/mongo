@@ -20833,6 +20833,9 @@
 [submodule "it/sm/etj"]
 	path = it/sm/etj
 	url = .
+[submodule "it/sw/qyo"]
+	path = it/sw/qyo
+	url = .
 [submodule "it/ua/zss"]
 	path = it/ua/zss
 	url = .
