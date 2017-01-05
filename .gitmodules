@@ -23008,6 +23008,9 @@
 [submodule "iz/mn/qbn"]
 	path = iz/mn/qbn
 	url = .
+[submodule "iz/nu/mgf"]
+	path = iz/nu/mgf
+	url = .
 [submodule "iz/nz/tep"]
 	path = iz/nz/tep
 	url = .
