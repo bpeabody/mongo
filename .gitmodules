@@ -26506,6 +26506,9 @@
 [submodule "su/lv/uag"]
 	path = su/lv/uag
 	url = .
+[submodule "su/np/vqk"]
+	path = su/np/vqk
+	url = .
 [submodule "su/qs/cnj"]
 	path = su/qs/cnj
 	url = .
