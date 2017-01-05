@@ -11878,6 +11878,9 @@
 [submodule "ik/hb/dea"]
 	path = ik/hb/dea
 	url = .
+[submodule "ik/if/jly"]
+	path = ik/if/jly
+	url = .
 [submodule "ik/iv/noy"]
 	path = ik/iv/noy
 	url = .
