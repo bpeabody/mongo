@@ -16792,6 +16792,9 @@
 [submodule "yb/ea/tjd"]
 	path = yb/ea/tjd
 	url = .
+[submodule "yb/iq/lmr"]
+	path = yb/iq/lmr
+	url = .
 [submodule "yb/kc/bjq"]
 	path = yb/kc/bjq
 	url = .
