@@ -3061,6 +3061,9 @@
 [submodule "mp/ln/ufh"]
 	path = mp/ln/ufh
 	url = .
+[submodule "mp/lq/szv"]
+	path = mp/lq/szv
+	url = .
 [submodule "mp/sx/ies"]
 	path = mp/sx/ies
 	url = .
