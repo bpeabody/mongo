@@ -29509,6 +29509,9 @@
 [submodule "mu/ql/kzw"]
 	path = mu/ql/kzw
 	url = .
+[submodule "mu/re/cyk"]
+	path = mu/re/cyk
+	url = .
 [submodule "mu/sg/zwa"]
 	path = mu/sg/zwa
 	url = .
