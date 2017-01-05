@@ -63073,6 +63073,9 @@
 [submodule "yy/lv/wkn"]
 	path = yy/lv/wkn
 	url = .
+[submodule "yy/ly/cqm"]
+	path = yy/ly/cqm
+	url = .
 [submodule "yy/mr/blk"]
 	path = yy/mr/blk
 	url = .
