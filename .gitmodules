@@ -11248,6 +11248,9 @@
 [submodule "eg/qe/pii"]
 	path = eg/qe/pii
 	url = .
+[submodule "eg/qs/apr"]
+	path = eg/qs/apr
+	url = .
 [submodule "eg/qz/and"]
 	path = eg/qz/and
 	url = .
