@@ -7489,6 +7489,9 @@
 [submodule "cp/hh/bqz"]
 	path = cp/hh/bqz
 	url = .
+[submodule "cp/hi/mus"]
+	path = cp/hi/mus
+	url = .
 [submodule "cp/ht/rkx"]
 	path = cp/ht/rkx
 	url = .
