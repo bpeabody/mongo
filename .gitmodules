@@ -2167,6 +2167,9 @@
 [submodule "ws/xt/rpc"]
 	path = ws/xt/rpc
 	url = .
+[submodule "wt/cw/eeb"]
+	path = wt/cw/eeb
+	url = .
 [submodule "wt/ma/sch"]
 	path = wt/ma/sch
 	url = .
