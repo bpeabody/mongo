@@ -388,6 +388,9 @@
 [submodule "be/rw/iym"]
 	path = be/rw/iym
 	url = .
+[submodule "bf/dh/mse"]
+	path = bf/dh/mse
+	url = .
 [submodule "bf/gf/vfh"]
 	path = bf/gf/vfh
 	url = .
