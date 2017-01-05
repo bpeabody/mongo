@@ -13390,6 +13390,9 @@
 [submodule "rh/kc/dib"]
 	path = rh/kc/dib
 	url = .
+[submodule "rh/kk/qri"]
+	path = rh/kk/qri
+	url = .
 [submodule "rh/pz/rpw"]
 	path = rh/pz/rpw
 	url = .
