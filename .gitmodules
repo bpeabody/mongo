@@ -36202,6 +36202,9 @@
 [submodule "xr/eo/qrc"]
 	path = xr/eo/qrc
 	url = .
+[submodule "xr/fc/loc"]
+	path = xr/fc/loc
+	url = .
 [submodule "xr/fm/mrc"]
 	path = xr/fm/mrc
 	url = .
