@@ -715,6 +715,9 @@
 [submodule "af/nl/wgi"]
 	path = af/nl/wgi
 	url = .
+[submodule "af/np/jba"]
+	path = af/np/jba
+	url = .
 [submodule "af/og/nbh"]
 	path = af/og/nbh
 	url = .
