@@ -15055,6 +15055,9 @@
 [submodule "sy/yd/nyt"]
 	path = sy/yd/nyt
 	url = .
+[submodule "sz/bc/evq"]
+	path = sz/bc/evq
+	url = .
 [submodule "sz/bt/evm"]
 	path = sz/bt/evm
 	url = .
