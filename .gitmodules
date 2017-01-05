@@ -3238,6 +3238,9 @@
 [submodule "co/gz/tri"]
 	path = co/gz/tri
 	url = .
+[submodule "co/ix/ygx"]
+	path = co/ix/ygx
+	url = .
 [submodule "co/iz/fxn"]
 	path = co/iz/fxn
 	url = .
