@@ -4849,6 +4849,9 @@
 [submodule "eg/rq/geg"]
 	path = eg/rq/geg
 	url = .
+[submodule "eg/xi/cwu"]
+	path = eg/xi/cwu
+	url = .
 [submodule "eg/yd/nxz"]
 	path = eg/yd/nxz
 	url = .
