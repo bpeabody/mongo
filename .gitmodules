@@ -41716,6 +41716,9 @@
 [submodule "pa/gu/jrx"]
 	path = pa/gu/jrx
 	url = .
+[submodule "pa/hz/huk"]
+	path = pa/hz/huk
+	url = .
 [submodule "pa/ix/llj"]
 	path = pa/ix/llj
 	url = .
