@@ -22177,6 +22177,9 @@
 [submodule "uk/hm/kio"]
 	path = uk/hm/kio
 	url = .
+[submodule "uk/ip/hib"]
+	path = uk/ip/hib
+	url = .
 [submodule "uk/kp/rbx"]
 	path = uk/kp/rbx
 	url = .
