@@ -2083,6 +2083,9 @@
 [submodule "bq/lv/pzo"]
 	path = bq/lv/pzo
 	url = .
+[submodule "bq/me/zqt"]
+	path = bq/me/zqt
+	url = .
 [submodule "bq/om/xtw"]
 	path = bq/om/xtw
 	url = .
