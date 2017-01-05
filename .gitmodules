@@ -10156,6 +10156,9 @@
 [submodule "oh/ih/fcp"]
 	path = oh/ih/fcp
 	url = .
+[submodule "oh/ir/sct"]
+	path = oh/ir/sct
+	url = .
 [submodule "oh/lx/knv"]
 	path = oh/lx/knv
 	url = .
