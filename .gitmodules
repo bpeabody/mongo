@@ -24412,6 +24412,9 @@
 [submodule "lg/oi/wmb"]
 	path = lg/oi/wmb
 	url = .
+[submodule "lg/th/bpg"]
+	path = lg/th/bpg
+	url = .
 [submodule "lg/tn/kkc"]
 	path = lg/tn/kkc
 	url = .
