@@ -20077,6 +20077,9 @@
 [submodule "kq/kz/mrq"]
 	path = kq/kz/mrq
 	url = .
+[submodule "kq/nr/zhj"]
+	path = kq/nr/zhj
+	url = .
 [submodule "kq/pk/ark"]
 	path = kq/pk/ark
 	url = .
