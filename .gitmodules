@@ -5917,6 +5917,9 @@
 [submodule "gs/ar/suc"]
 	path = gs/ar/suc
 	url = .
+[submodule "gs/db/wxa"]
+	path = gs/db/wxa
+	url = .
 [submodule "gs/ef/jlg"]
 	path = gs/ef/jlg
 	url = .
