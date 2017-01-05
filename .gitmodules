@@ -9922,6 +9922,9 @@
 [submodule "hk/gj/qzr"]
 	path = hk/gj/qzr
 	url = .
+[submodule "hk/hx/acy"]
+	path = hk/hx/acy
+	url = .
 [submodule "hk/ik/gro"]
 	path = hk/ik/gro
 	url = .
