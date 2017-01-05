@@ -58372,6 +58372,9 @@
 [submodule "ud/sd/ywt"]
 	path = ud/sd/ywt
 	url = .
+[submodule "ud/si/jtk"]
+	path = ud/si/jtk
+	url = .
 [submodule "ud/sp/kuh"]
 	path = ud/sp/kuh
 	url = .
