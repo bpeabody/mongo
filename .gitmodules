@@ -39466,6 +39466,9 @@
 [submodule "vp/zh/qul"]
 	path = vp/zh/qul
 	url = .
+[submodule "vq/aa/hoc"]
+	path = vq/aa/hoc
+	url = .
 [submodule "vq/aw/bkd"]
 	path = vq/aw/bkd
 	url = .
