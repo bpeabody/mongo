@@ -7378,6 +7378,9 @@
 [submodule "eo/oq/sma"]
 	path = eo/oq/sma
 	url = .
+[submodule "eo/qe/bdz"]
+	path = eo/qe/bdz
+	url = .
 [submodule "eo/qr/ggd"]
 	path = eo/qr/ggd
 	url = .
