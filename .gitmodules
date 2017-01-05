@@ -1477,6 +1477,9 @@
 [submodule "kh/dy/lne"]
 	path = kh/dy/lne
 	url = .
+[submodule "ki/hx/keg"]
+	path = ki/hx/keg
+	url = .
 [submodule "ki/mq/eoi"]
 	path = ki/mq/eoi
 	url = .
