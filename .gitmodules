@@ -5143,6 +5143,9 @@
 [submodule "qt/ha/qtt"]
 	path = qt/ha/qtt
 	url = .
+[submodule "qt/hp/jqu"]
+	path = qt/hp/jqu
+	url = .
 [submodule "qt/vd/euh"]
 	path = qt/vd/euh
 	url = .
