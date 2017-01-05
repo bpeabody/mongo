@@ -5302,6 +5302,9 @@
 [submodule "ik/ui/ggm"]
 	path = ik/ui/ggm
 	url = .
+[submodule "ik/uz/skt"]
+	path = ik/uz/skt
+	url = .
 [submodule "ik/vn/fbd"]
 	path = ik/vn/fbd
 	url = .
