@@ -6625,6 +6625,9 @@
 [submodule "jb/xu/str"]
 	path = jb/xu/str
 	url = .
+[submodule "jb/ye/sty"]
+	path = jb/ye/sty
+	url = .
 [submodule "jb/yf/yyc"]
 	path = jb/yf/yyc
 	url = .
