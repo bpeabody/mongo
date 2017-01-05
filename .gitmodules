@@ -31069,6 +31069,9 @@
 [submodule "rt/sd/vev"]
 	path = rt/sd/vev
 	url = .
+[submodule "rt/th/clo"]
+	path = rt/th/clo
+	url = .
 [submodule "rt/ww/jyn"]
 	path = rt/ww/jyn
 	url = .
