@@ -7366,6 +7366,9 @@
 [submodule "nf/hp/idu"]
 	path = nf/hp/idu
 	url = .
+[submodule "nf/lh/zno"]
+	path = nf/lh/zno
+	url = .
 [submodule "nf/oc/yeb"]
 	path = nf/oc/yeb
 	url = .
