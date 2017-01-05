@@ -5632,6 +5632,9 @@
 [submodule "dt/xr/mgb"]
 	path = dt/xr/mgb
 	url = .
+[submodule "dt/ye/aaq"]
+	path = dt/ye/aaq
+	url = .
 [submodule "dt/yp/igf"]
 	path = dt/yp/igf
 	url = .
