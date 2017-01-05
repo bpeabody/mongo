@@ -47929,6 +47929,9 @@
 [submodule "vp/yx/nmq"]
 	path = vp/yx/nmq
 	url = .
+[submodule "vp/zg/qoa"]
+	path = vp/zg/qoa
+	url = .
 [submodule "vp/zh/qul"]
 	path = vp/zh/qul
 	url = .
