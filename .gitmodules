@@ -40294,6 +40294,9 @@
 [submodule "sk/mh/boo"]
 	path = sk/mh/boo
 	url = .
+[submodule "sk/nt/ykv"]
+	path = sk/nt/ykv
+	url = .
 [submodule "sk/pa/fgj"]
 	path = sk/pa/fgj
 	url = .
