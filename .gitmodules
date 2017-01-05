@@ -5758,6 +5758,9 @@
 [submodule "fs/px/gkk"]
 	path = fs/px/gkk
 	url = .
+[submodule "fs/re/idu"]
+	path = fs/re/idu
+	url = .
 [submodule "fs/uw/zlj"]
 	path = fs/uw/zlj
 	url = .
