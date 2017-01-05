@@ -29296,6 +29296,9 @@
 [submodule "mv/xp/bqv"]
 	path = mv/xp/bqv
 	url = .
+[submodule "mv/xw/qwy"]
+	path = mv/xw/qwy
+	url = .
 [submodule "mv/yj/wzd"]
 	path = mv/yj/wzd
 	url = .
