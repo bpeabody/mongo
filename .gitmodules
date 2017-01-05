@@ -12025,6 +12025,9 @@
 [submodule "pr/ya/vug"]
 	path = pr/ya/vug
 	url = .
+[submodule "ps/ca/ipy"]
+	path = ps/ca/ipy
+	url = .
 [submodule "ps/eo/jnd"]
 	path = ps/eo/jnd
 	url = .
