@@ -10555,6 +10555,9 @@
 [submodule "lp/bs/vxt"]
 	path = lp/bs/vxt
 	url = .
+[submodule "lp/bz/mmc"]
+	path = lp/bz/mmc
+	url = .
 [submodule "lp/df/bjt"]
 	path = lp/df/bjt
 	url = .
