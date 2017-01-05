@@ -51952,6 +51952,9 @@
 [submodule "va/fw/fkt"]
 	path = va/fw/fkt
 	url = .
+[submodule "va/gc/dki"]
+	path = va/gc/dki
+	url = .
 [submodule "va/jl/jcc"]
 	path = va/jl/jcc
 	url = .
