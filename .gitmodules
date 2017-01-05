@@ -37,6 +37,9 @@
 [submodule "fl/yn/vzt"]
 	path = fl/yn/vzt
 	url = .
+[submodule "gj/tg/mta"]
+	path = gj/tg/mta
+	url = .
 [submodule "gn/ij/ywb"]
 	path = gn/ij/ywb
 	url = .
