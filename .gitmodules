@@ -19774,6 +19774,9 @@
 [submodule "yd/qp/wff"]
 	path = yd/qp/wff
 	url = .
+[submodule "yd/zm/ryq"]
+	path = yd/zm/ryq
+	url = .
 [submodule "ye/bc/lgq"]
 	path = ye/bc/lgq
 	url = .
