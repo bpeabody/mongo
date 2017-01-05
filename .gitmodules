@@ -9661,6 +9661,9 @@
 [submodule "mn/wy/yud"]
 	path = mn/wy/yud
 	url = .
+[submodule "mn/xe/yzi"]
+	path = mn/xe/yzi
+	url = .
 [submodule "mn/zq/clu"]
 	path = mn/zq/clu
 	url = .
