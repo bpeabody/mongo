@@ -6307,6 +6307,9 @@
 [submodule "ns/yp/ycc"]
 	path = ns/yp/ycc
 	url = .
+[submodule "nt/jl/lbn"]
+	path = nt/jl/lbn
+	url = .
 [submodule "nt/ke/chi"]
 	path = nt/ke/chi
 	url = .
