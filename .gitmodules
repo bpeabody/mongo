@@ -769,6 +769,9 @@
 [submodule "cy/wn/eng"]
 	path = cy/wn/eng
 	url = .
+[submodule "cy/wt/ldi"]
+	path = cy/wt/ldi
+	url = .
 [submodule "cy/yz/gcj"]
 	path = cy/yz/gcj
 	url = .
