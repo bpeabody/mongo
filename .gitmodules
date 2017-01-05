@@ -34225,6 +34225,9 @@
 [submodule "ro/nb/tgp"]
 	path = ro/nb/tgp
 	url = .
+[submodule "ro/om/hsb"]
+	path = ro/om/hsb
+	url = .
 [submodule "ro/pp/eok"]
 	path = ro/pp/eok
 	url = .
