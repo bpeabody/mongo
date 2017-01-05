@@ -16966,6 +16966,9 @@
 [submodule "kf/vf/iah"]
 	path = kf/vf/iah
 	url = .
+[submodule "kf/vk/vsm"]
+	path = kf/vk/vsm
+	url = .
 [submodule "kf/vq/zdm"]
 	path = kf/vq/zdm
 	url = .
