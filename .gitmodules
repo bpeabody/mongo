@@ -8164,6 +8164,9 @@
 [submodule "gy/er/jsz"]
 	path = gy/er/jsz
 	url = .
+[submodule "gy/fr/wli"]
+	path = gy/fr/wli
+	url = .
 [submodule "gy/kc/zpc"]
 	path = gy/kc/zpc
 	url = .
