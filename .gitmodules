@@ -16804,6 +16804,9 @@
 [submodule "fv/qs/wpo"]
 	path = fv/qs/wpo
 	url = .
+[submodule "fv/rq/cci"]
+	path = fv/rq/cci
+	url = .
 [submodule "fv/sa/tcu"]
 	path = fv/sa/tcu
 	url = .
