@@ -619,6 +619,9 @@
 [submodule "bw/qe/maq"]
 	path = bw/qe/maq
 	url = .
+[submodule "bw/qr/fck"]
+	path = bw/qr/fck
+	url = .
 [submodule "bw/wk/zyf"]
 	path = bw/wk/zyf
 	url = .
