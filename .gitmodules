@@ -4741,6 +4741,9 @@
 [submodule "sp/lc/ngv"]
 	path = sp/lc/ngv
 	url = .
+[submodule "sp/ld/orm"]
+	path = sp/ld/orm
+	url = .
 [submodule "sp/lj/pfl"]
 	path = sp/lj/pfl
 	url = .
