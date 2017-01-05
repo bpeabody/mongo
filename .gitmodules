@@ -59419,6 +59419,9 @@
 [submodule "xp/oj/enx"]
 	path = xp/oj/enx
 	url = .
+[submodule "xp/pv/xrp"]
+	path = xp/pv/xrp
+	url = .
 [submodule "xp/qz/rfk"]
 	path = xp/qz/rfk
 	url = .
