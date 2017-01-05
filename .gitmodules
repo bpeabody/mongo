@@ -56203,6 +56203,9 @@
 [submodule "tz/wq/nhh"]
 	path = tz/wq/nhh
 	url = .
+[submodule "tz/wr/qse"]
+	path = tz/wr/qse
+	url = .
 [submodule "tz/wy/ddo"]
 	path = tz/wy/ddo
 	url = .
