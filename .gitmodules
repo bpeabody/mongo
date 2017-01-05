@@ -10273,6 +10273,9 @@
 [submodule "wn/du/hak"]
 	path = wn/du/hak
 	url = .
+[submodule "wn/fb/qla"]
+	path = wn/fb/qla
+	url = .
 [submodule "wn/fw/bqq"]
 	path = wn/fw/bqq
 	url = .
