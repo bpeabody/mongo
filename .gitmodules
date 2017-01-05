@@ -34645,6 +34645,9 @@
 [submodule "vl/wr/dmq"]
 	path = vl/wr/dmq
 	url = .
+[submodule "vl/xa/dwf"]
+	path = vl/xa/dwf
+	url = .
 [submodule "vl/xt/qbe"]
 	path = vl/xt/qbe
 	url = .
