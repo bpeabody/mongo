@@ -1384,6 +1384,9 @@
 [submodule "eg/en/qth"]
 	path = eg/en/qth
 	url = .
+[submodule "eh/gg/dde"]
+	path = eh/gg/dde
+	url = .
 [submodule "eh/iu/vlw"]
 	path = eh/iu/vlw
 	url = .
