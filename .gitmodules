@@ -7666,6 +7666,9 @@
 [submodule "hf/td/rpn"]
 	path = hf/td/rpn
 	url = .
+[submodule "hf/vf/sxj"]
+	path = hf/vf/sxj
+	url = .
 [submodule "hf/wc/bio"]
 	path = hf/wc/bio
 	url = .
