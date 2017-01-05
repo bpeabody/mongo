@@ -30505,6 +30505,9 @@
 [submodule "uz/eu/gpb"]
 	path = uz/eu/gpb
 	url = .
+[submodule "uz/fk/oli"]
+	path = uz/fk/oli
+	url = .
 [submodule "uz/fr/wgo"]
 	path = uz/fr/wgo
 	url = .
