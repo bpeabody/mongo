@@ -12715,6 +12715,9 @@
 [submodule "hz/pd/ckw"]
 	path = hz/pd/ckw
 	url = .
+[submodule "hz/qr/dxg"]
+	path = hz/qr/dxg
+	url = .
 [submodule "hz/qy/ryk"]
 	path = hz/qy/ryk
 	url = .
