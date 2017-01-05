@@ -35359,6 +35359,9 @@
 [submodule "pd/xq/fhv"]
 	path = pd/xq/fhv
 	url = .
+[submodule "pd/yc/niu"]
+	path = pd/yc/niu
+	url = .
 [submodule "pd/yi/sde"]
 	path = pd/yi/sde
 	url = .
