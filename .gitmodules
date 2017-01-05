@@ -5554,6 +5554,9 @@
 [submodule "cy/gz/pto"]
 	path = cy/gz/pto
 	url = .
+[submodule "cy/hi/gip"]
+	path = cy/hi/gip
+	url = .
 [submodule "cy/ho/vpc"]
 	path = cy/ho/vpc
 	url = .
