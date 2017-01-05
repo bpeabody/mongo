@@ -44338,6 +44338,9 @@
 [submodule "sl/lb/tgi"]
 	path = sl/lb/tgi
 	url = .
+[submodule "sl/lo/hmd"]
+	path = sl/lo/hmd
+	url = .
 [submodule "sl/mp/cyy"]
 	path = sl/mp/cyy
 	url = .
