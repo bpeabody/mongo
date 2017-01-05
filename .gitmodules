@@ -23677,6 +23677,9 @@
 [submodule "mq/st/agr"]
 	path = mq/st/agr
 	url = .
+[submodule "mq/sv/tac"]
+	path = mq/sv/tac
+	url = .
 [submodule "mq/ts/fky"]
 	path = mq/ts/fky
 	url = .
