@@ -2905,6 +2905,9 @@
 [submodule "lv/ja/art"]
 	path = lv/ja/art
 	url = .
+[submodule "lv/ur/xvy"]
+	path = lv/ur/xvy
+	url = .
 [submodule "lv/wj/dxz"]
 	path = lv/wj/dxz
 	url = .
