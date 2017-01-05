@@ -22615,6 +22615,9 @@
 [submodule "qb/yo/edq"]
 	path = qb/yo/edq
 	url = .
+[submodule "qb/yz/alg"]
+	path = qb/yz/alg
+	url = .
 [submodule "qb/zx/rwv"]
 	path = qb/zx/rwv
 	url = .
