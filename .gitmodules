@@ -499,6 +499,9 @@
 [submodule "ep/uq/urb"]
 	path = ep/uq/urb
 	url = .
+[submodule "eq/io/des"]
+	path = eq/io/des
+	url = .
 [submodule "er/pl/ybq"]
 	path = er/pl/ybq
 	url = .
