@@ -10945,6 +10945,9 @@
 [submodule "dr/ke/sfc"]
 	path = dr/ke/sfc
 	url = .
+[submodule "dr/lg/nqk"]
+	path = dr/lg/nqk
+	url = .
 [submodule "dr/ne/lyn"]
 	path = dr/ne/lyn
 	url = .
