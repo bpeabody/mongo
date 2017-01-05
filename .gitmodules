@@ -778,6 +778,9 @@
 [submodule "wu/eg/jnl"]
 	path = wu/eg/jnl
 	url = .
+[submodule "wu/ka/tgj"]
+	path = wu/ka/tgj
+	url = .
 [submodule "ww/ws/wsi"]
 	path = ww/ws/wsi
 	url = .
