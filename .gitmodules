@@ -1759,6 +1759,9 @@
 [submodule "dn/yv/yth"]
 	path = dn/yv/yth
 	url = .
+[submodule "do/ar/abw"]
+	path = do/ar/abw
+	url = .
 [submodule "do/ou/opr"]
 	path = do/ou/opr
 	url = .
