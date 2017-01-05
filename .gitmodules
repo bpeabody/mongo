@@ -19768,6 +19768,9 @@
 [submodule "ld/wv/akk"]
 	path = ld/wv/akk
 	url = .
+[submodule "ld/xs/jsi"]
+	path = ld/xs/jsi
+	url = .
 [submodule "ld/ye/pga"]
 	path = ld/ye/pga
 	url = .
