@@ -8035,6 +8035,9 @@
 [submodule "uo/dz/sgx"]
 	path = uo/dz/sgx
 	url = .
+[submodule "uo/ir/mjk"]
+	path = uo/ir/mjk
+	url = .
 [submodule "uo/qv/nrn"]
 	path = uo/qv/nrn
 	url = .
