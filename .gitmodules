@@ -697,6 +697,9 @@
 [submodule "ul/aj/fhk"]
 	path = ul/aj/fhk
 	url = .
+[submodule "um/lg/wsb"]
+	path = um/lg/wsb
+	url = .
 [submodule "uo/ca/jyg"]
 	path = uo/ca/jyg
 	url = .
