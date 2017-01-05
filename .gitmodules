@@ -9076,6 +9076,9 @@
 [submodule "uq/yu/svl"]
 	path = uq/yu/svl
 	url = .
+[submodule "uq/yw/bri"]
+	path = uq/yw/bri
+	url = .
 [submodule "ur/bz/zsv"]
 	path = ur/bz/zsv
 	url = .
