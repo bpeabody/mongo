@@ -1615,6 +1615,9 @@
 [submodule "aq/fu/bzj"]
 	path = aq/fu/bzj
 	url = .
+[submodule "aq/hx/lxx"]
+	path = aq/hx/lxx
+	url = .
 [submodule "aq/ih/lpb"]
 	path = aq/ih/lpb
 	url = .
