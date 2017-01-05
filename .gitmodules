@@ -9913,6 +9913,9 @@
 [submodule "lg/of/gmu"]
 	path = lg/of/gmu
 	url = .
+[submodule "lg/oi/wmb"]
+	path = lg/oi/wmb
+	url = .
 [submodule "lg/un/szw"]
 	path = lg/un/szw
 	url = .
