@@ -23665,6 +23665,9 @@
 [submodule "hy/uy/uej"]
 	path = hy/uy/uej
 	url = .
+[submodule "hy/vi/ghz"]
+	path = hy/vi/ghz
+	url = .
 [submodule "hy/vo/gck"]
 	path = hy/vo/gck
 	url = .
