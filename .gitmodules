@@ -12544,6 +12544,9 @@
 [submodule "hb/lq/oca"]
 	path = hb/lq/oca
 	url = .
+[submodule "hb/lr/nob"]
+	path = hb/lr/nob
+	url = .
 [submodule "hb/md/gco"]
 	path = hb/md/gco
 	url = .
