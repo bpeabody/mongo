@@ -1540,6 +1540,9 @@
 [submodule "jb/bh/hop"]
 	path = jb/bh/hop
 	url = .
+[submodule "jb/wy/csi"]
+	path = jb/wy/csi
+	url = .
 [submodule "jb/xu/str"]
 	path = jb/xu/str
 	url = .
