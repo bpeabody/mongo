@@ -9280,6 +9280,9 @@
 [submodule "dd/ca/lyr"]
 	path = dd/ca/lyr
 	url = .
+[submodule "dd/cq/bcq"]
+	path = dd/cq/bcq
+	url = .
 [submodule "dd/cv/slq"]
 	path = dd/cv/slq
 	url = .
