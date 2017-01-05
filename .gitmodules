@@ -1198,6 +1198,9 @@
 [submodule "kr/ps/iem"]
 	path = kr/ps/iem
 	url = .
+[submodule "kr/xa/eok"]
+	path = kr/xa/eok
+	url = .
 [submodule "ks/na/uhw"]
 	path = ks/na/uhw
 	url = .
