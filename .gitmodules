@@ -24151,6 +24151,9 @@
 [submodule "ux/xq/yfg"]
 	path = ux/xq/yfg
 	url = .
+[submodule "ux/yf/uxw"]
+	path = ux/yf/uxw
+	url = .
 [submodule "ux/yw/dnv"]
 	path = ux/yw/dnv
 	url = .
