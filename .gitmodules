@@ -373,6 +373,9 @@
 [submodule "og/uj/mdn"]
 	path = og/uj/mdn
 	url = .
+[submodule "oj/xm/wrc"]
+	path = oj/xm/wrc
+	url = .
 [submodule "ok/ce/akb"]
 	path = ok/ce/akb
 	url = .
