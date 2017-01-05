@@ -25252,6 +25252,9 @@
 [submodule "uu/md/avy"]
 	path = uu/md/avy
 	url = .
+[submodule "uu/sd/tcz"]
+	path = uu/sd/tcz
+	url = .
 [submodule "uu/uy/ner"]
 	path = uu/uy/ner
 	url = .
