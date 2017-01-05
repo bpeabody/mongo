@@ -13504,6 +13504,9 @@
 [submodule "hg/mu/ezc"]
 	path = hg/mu/ezc
 	url = .
+[submodule "hg/pb/wsp"]
+	path = hg/pb/wsp
+	url = .
 [submodule "hg/uh/hio"]
 	path = hg/uh/hio
 	url = .
