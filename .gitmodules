@@ -2308,6 +2308,9 @@
 [submodule "bk/qd/txn"]
 	path = bk/qd/txn
 	url = .
+[submodule "bk/rc/jiv"]
+	path = bk/rc/jiv
+	url = .
 [submodule "bk/sf/rtm"]
 	path = bk/sf/rtm
 	url = .
