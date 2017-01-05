@@ -1336,6 +1336,9 @@
 [submodule "ay/ri/zor"]
 	path = ay/ri/zor
 	url = .
+[submodule "ay/sb/wgj"]
+	path = ay/sb/wgj
+	url = .
 [submodule "ay/zc/gxd"]
 	path = ay/zc/gxd
 	url = .
