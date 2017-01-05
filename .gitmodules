@@ -44938,6 +44938,9 @@
 [submodule "yq/sc/drd"]
 	path = yq/sc/drd
 	url = .
+[submodule "yq/sf/dkn"]
+	path = yq/sf/dkn
+	url = .
 [submodule "yq/un/zxm"]
 	path = yq/un/zxm
 	url = .
