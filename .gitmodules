@@ -30910,6 +30910,9 @@
 [submodule "tx/cm/nla"]
 	path = tx/cm/nla
 	url = .
+[submodule "tx/ep/rut"]
+	path = tx/ep/rut
+	url = .
 [submodule "tx/er/pzb"]
 	path = tx/er/pzb
 	url = .
