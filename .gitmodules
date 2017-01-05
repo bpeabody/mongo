@@ -6109,6 +6109,9 @@
 [submodule "ca/nd/bzx"]
 	path = ca/nd/bzx
 	url = .
+[submodule "ca/nh/pfw"]
+	path = ca/nh/pfw
+	url = .
 [submodule "ca/ok/pfo"]
 	path = ca/ok/pfo
 	url = .
