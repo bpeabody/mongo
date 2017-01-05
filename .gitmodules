@@ -22,6 +22,9 @@
 [submodule "bl/tx/toa"]
 	path = bl/tx/toa
 	url = .
+[submodule "bp/po/rhp"]
+	path = bp/po/rhp
+	url = .
 [submodule "bq/xi/fte"]
 	path = bq/xi/fte
 	url = .
