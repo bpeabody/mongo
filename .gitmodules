@@ -43993,6 +43993,9 @@
 [submodule "sy/yp/nrc"]
 	path = sy/yp/nrc
 	url = .
+[submodule "sy/yr/znu"]
+	path = sy/yr/znu
+	url = .
 [submodule "sz/bc/evq"]
 	path = sz/bc/evq
 	url = .
