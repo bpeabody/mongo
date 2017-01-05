@@ -19312,6 +19312,9 @@
 [submodule "jn/yw/css"]
 	path = jn/yw/css
 	url = .
+[submodule "jn/zk/ucr"]
+	path = jn/zk/ucr
+	url = .
 [submodule "jo/bk/sdb"]
 	path = jo/bk/sdb
 	url = .
