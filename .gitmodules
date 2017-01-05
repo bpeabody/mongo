@@ -28624,6 +28624,9 @@
 [submodule "xe/rv/bnp"]
 	path = xe/rv/bnp
 	url = .
+[submodule "xe/vm/okz"]
+	path = xe/vm/okz
+	url = .
 [submodule "xe/vo/vwj"]
 	path = xe/vo/vwj
 	url = .
