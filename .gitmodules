@@ -4360,6 +4360,9 @@
 [submodule "ce/by/wyc"]
 	path = ce/by/wyc
 	url = .
+[submodule "ce/dk/nkc"]
+	path = ce/dk/nkc
+	url = .
 [submodule "ce/dz/cjj"]
 	path = ce/dz/cjj
 	url = .
