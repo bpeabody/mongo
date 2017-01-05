@@ -14650,6 +14650,9 @@
 [submodule "fx/nv/pni"]
 	path = fx/nv/pni
 	url = .
+[submodule "fx/of/nor"]
+	path = fx/of/nor
+	url = .
 [submodule "fx/ow/nnf"]
 	path = fx/ow/nnf
 	url = .
