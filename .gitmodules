@@ -3295,6 +3295,9 @@
 [submodule "pp/hu/cof"]
 	path = pp/hu/cof
 	url = .
+[submodule "pp/wr/vnt"]
+	path = pp/wr/vnt
+	url = .
 [submodule "pq/wi/uyt"]
 	path = pq/wi/uyt
 	url = .
