@@ -7564,6 +7564,9 @@
 [submodule "eo/qr/ggd"]
 	path = eo/qr/ggd
 	url = .
+[submodule "eo/qr/rzf"]
+	path = eo/qr/rzf
+	url = .
 [submodule "eo/vu/ubt"]
 	path = eo/vu/ubt
 	url = .
