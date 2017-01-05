@@ -676,6 +676,9 @@
 [submodule "ds/qo/mnn"]
 	path = ds/qo/mnn
 	url = .
+[submodule "dt/zn/tbi"]
+	path = dt/zn/tbi
+	url = .
 [submodule "du/ef/vte"]
 	path = du/ef/vte
 	url = .
