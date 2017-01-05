@@ -43669,6 +43669,9 @@
 [submodule "pw/ae/xme"]
 	path = pw/ae/xme
 	url = .
+[submodule "pw/ar/dru"]
+	path = pw/ar/dru
+	url = .
 [submodule "pw/df/mqn"]
 	path = pw/df/mqn
 	url = .
