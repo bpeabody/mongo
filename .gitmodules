@@ -32698,6 +32698,9 @@
 [submodule "mi/ro/tgl"]
 	path = mi/ro/tgl
 	url = .
+[submodule "mi/sf/hvg"]
+	path = mi/sf/hvg
+	url = .
 [submodule "mi/sj/yvp"]
 	path = mi/sj/yvp
 	url = .
