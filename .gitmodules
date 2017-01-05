@@ -10927,6 +10927,9 @@
 [submodule "ua/ix/bdn"]
 	path = ua/ix/bdn
 	url = .
+[submodule "ua/my/qnm"]
+	path = ua/my/qnm
+	url = .
 [submodule "ua/qt/cfd"]
 	path = ua/qt/cfd
 	url = .
