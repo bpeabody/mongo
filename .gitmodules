@@ -64516,6 +64516,9 @@
 [submodule "wy/qh/hyk"]
 	path = wy/qh/hyk
 	url = .
+[submodule "wy/qk/hys"]
+	path = wy/qk/hys
+	url = .
 [submodule "wy/qw/nbs"]
 	path = wy/qw/nbs
 	url = .
