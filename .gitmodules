@@ -29971,6 +29971,9 @@
 [submodule "wd/qq/wkg"]
 	path = wd/qq/wkg
 	url = .
+[submodule "wd/qq/xni"]
+	path = wd/qq/xni
+	url = .
 [submodule "wd/te/vky"]
 	path = wd/te/vky
 	url = .
