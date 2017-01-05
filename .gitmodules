@@ -4438,6 +4438,9 @@
 [submodule "ho/gv/wjf"]
 	path = ho/gv/wjf
 	url = .
+[submodule "ho/kv/cax"]
+	path = ho/kv/cax
+	url = .
 [submodule "ho/sg/pwu"]
 	path = ho/sg/pwu
 	url = .
