@@ -883,6 +883,9 @@
 [submodule "ar/vc/ymd"]
 	path = ar/vc/ymd
 	url = .
+[submodule "ar/vw/dpf"]
+	path = ar/vw/dpf
+	url = .
 [submodule "ar/wn/eex"]
 	path = ar/wn/eex
 	url = .
