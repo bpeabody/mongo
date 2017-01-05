@@ -8314,6 +8314,9 @@
 [submodule "fs/cr/aov"]
 	path = fs/cr/aov
 	url = .
+[submodule "fs/dw/mnb"]
+	path = fs/dw/mnb
+	url = .
 [submodule "fs/ec/vbq"]
 	path = fs/ec/vbq
 	url = .
