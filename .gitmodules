@@ -5125,6 +5125,9 @@
 [submodule "ck/qa/eqa"]
 	path = ck/qa/eqa
 	url = .
+[submodule "ck/qa/gjl"]
+	path = ck/qa/gjl
+	url = .
 [submodule "ck/ql/fke"]
 	path = ck/ql/fke
 	url = .
