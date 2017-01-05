@@ -1378,6 +1378,9 @@
 [submodule "gn/ij/ywb"]
 	path = gn/ij/ywb
 	url = .
+[submodule "gn/kj/fqs"]
+	path = gn/kj/fqs
+	url = .
 [submodule "gn/kw/wav"]
 	path = gn/kw/wav
 	url = .
