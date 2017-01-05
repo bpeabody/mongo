@@ -3808,6 +3808,9 @@
 [submodule "eb/xj/fre"]
 	path = eb/xj/fre
 	url = .
+[submodule "ec/cq/xdf"]
+	path = ec/cq/xdf
+	url = .
 [submodule "ec/ev/etz"]
 	path = ec/ev/etz
 	url = .
