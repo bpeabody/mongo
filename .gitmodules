@@ -6601,6 +6601,9 @@
 [submodule "ch/bm/baj"]
 	path = ch/bm/baj
 	url = .
+[submodule "ch/bm/kgt"]
+	path = ch/bm/kgt
+	url = .
 [submodule "ch/cc/smn"]
 	path = ch/cc/smn
 	url = .
