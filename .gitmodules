@@ -5521,6 +5521,9 @@
 [submodule "jj/qm/aql"]
 	path = jj/qm/aql
 	url = .
+[submodule "jj/si/zof"]
+	path = jj/si/zof
+	url = .
 [submodule "jj/td/clj"]
 	path = jj/td/clj
 	url = .
