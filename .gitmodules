@@ -9916,6 +9916,9 @@
 [submodule "sl/oy/ioq"]
 	path = sl/oy/ioq
 	url = .
+[submodule "sl/pm/fik"]
+	path = sl/pm/fik
+	url = .
 [submodule "sl/yz/gas"]
 	path = sl/yz/gas
 	url = .
