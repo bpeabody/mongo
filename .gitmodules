@@ -7879,6 +7879,9 @@
 [submodule "ls/au/lri"]
 	path = ls/au/lri
 	url = .
+[submodule "ls/ep/qwd"]
+	path = ls/ep/qwd
+	url = .
 [submodule "ls/gu/hls"]
 	path = ls/gu/hls
 	url = .
