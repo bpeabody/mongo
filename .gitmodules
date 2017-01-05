@@ -3751,6 +3751,9 @@
 [submodule "cr/xj/hob"]
 	path = cr/xj/hob
 	url = .
+[submodule "cr/xr/jsv"]
+	path = cr/xr/jsv
+	url = .
 [submodule "cs/bh/ibg"]
 	path = cs/bh/ibg
 	url = .
