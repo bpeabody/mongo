@@ -3571,6 +3571,9 @@
 [submodule "oj/gz/gro"]
 	path = oj/gz/gro
 	url = .
+[submodule "oj/gz/vfo"]
+	path = oj/gz/vfo
+	url = .
 [submodule "oj/nf/jpo"]
 	path = oj/nf/jpo
 	url = .
