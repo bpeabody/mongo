@@ -3517,6 +3517,9 @@
 [submodule "uu/dt/hkz"]
 	path = uu/dt/hkz
 	url = .
+[submodule "uu/xc/qlx"]
+	path = uu/xc/qlx
+	url = .
 [submodule "uv/if/hpx"]
 	path = uv/if/hpx
 	url = .
