@@ -12667,6 +12667,9 @@
 [submodule "na/nf/rbm"]
 	path = na/nf/rbm
 	url = .
+[submodule "na/ol/hxo"]
+	path = na/ol/hxo
+	url = .
 [submodule "nb/ax/gtc"]
 	path = nb/ax/gtc
 	url = .
