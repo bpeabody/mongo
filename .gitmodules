@@ -2557,6 +2557,9 @@
 [submodule "og/wu/nob"]
 	path = og/wu/nob
 	url = .
+[submodule "og/yw/gik"]
+	path = og/yw/gik
+	url = .
 [submodule "oh/ih/fcp"]
 	path = oh/ih/fcp
 	url = .
