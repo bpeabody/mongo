@@ -5125,6 +5125,9 @@
 [submodule "cs/hg/nlu"]
 	path = cs/hg/nlu
 	url = .
+[submodule "cs/ja/qso"]
+	path = cs/ja/qso
+	url = .
 [submodule "cs/jt/myn"]
 	path = cs/jt/myn
 	url = .
