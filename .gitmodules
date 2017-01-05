@@ -27046,6 +27046,9 @@
 [submodule "ja/pu/fni"]
 	path = ja/pu/fni
 	url = .
+[submodule "ja/sy/ylf"]
+	path = ja/sy/ylf
+	url = .
 [submodule "ja/uc/ujc"]
 	path = ja/uc/ujc
 	url = .
