@@ -9550,6 +9550,9 @@
 [submodule "xc/lw/sca"]
 	path = xc/lw/sca
 	url = .
+[submodule "xc/qd/uop"]
+	path = xc/qd/uop
+	url = .
 [submodule "xc/qq/gtr"]
 	path = xc/qq/gtr
 	url = .
