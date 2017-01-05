@@ -10882,6 +10882,9 @@
 [submodule "oq/qr/gha"]
 	path = oq/qr/gha
 	url = .
+[submodule "oq/rr/apr"]
+	path = oq/rr/apr
+	url = .
 [submodule "or/dr/pyg"]
 	path = or/dr/pyg
 	url = .
