@@ -25933,6 +25933,9 @@
 [submodule "jk/br/amq"]
 	path = jk/br/amq
 	url = .
+[submodule "jk/dz/mau"]
+	path = jk/dz/mau
+	url = .
 [submodule "jk/eb/fhh"]
 	path = jk/eb/fhh
 	url = .
