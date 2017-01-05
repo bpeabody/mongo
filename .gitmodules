@@ -19009,6 +19009,9 @@
 [submodule "ho/mf/xpl"]
 	path = ho/mf/xpl
 	url = .
+[submodule "ho/mx/rsr"]
+	path = ho/mx/rsr
+	url = .
 [submodule "ho/nq/gll"]
 	path = ho/nq/gll
 	url = .
