@@ -8611,6 +8611,9 @@
 [submodule "nu/su/mem"]
 	path = nu/su/mem
 	url = .
+[submodule "nv/ic/qwa"]
+	path = nv/ic/qwa
+	url = .
 [submodule "nv/oo/fed"]
 	path = nv/oo/fed
 	url = .
