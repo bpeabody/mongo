@@ -30883,6 +30883,9 @@
 [submodule "ow/cq/acm"]
 	path = ow/cq/acm
 	url = .
+[submodule "ow/db/yyj"]
+	path = ow/db/yyj
+	url = .
 [submodule "ow/ez/psj"]
 	path = ow/ez/psj
 	url = .
