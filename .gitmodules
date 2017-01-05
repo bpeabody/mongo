@@ -6739,6 +6739,9 @@
 [submodule "dd/tk/uml"]
 	path = dd/tk/uml
 	url = .
+[submodule "dd/tt/jws"]
+	path = dd/tt/jws
+	url = .
 [submodule "dd/uk/vfl"]
 	path = dd/uk/vfl
 	url = .
