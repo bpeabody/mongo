@@ -2164,6 +2164,9 @@
 [submodule "br/fo/rmv"]
 	path = br/fo/rmv
 	url = .
+[submodule "br/gd/aiz"]
+	path = br/gd/aiz
+	url = .
 [submodule "br/js/rec"]
 	path = br/js/rec
 	url = .
