@@ -2746,6 +2746,9 @@
 [submodule "zj/kp/kbl"]
 	path = zj/kp/kbl
 	url = .
+[submodule "zk/cm/uoj"]
+	path = zk/cm/uoj
+	url = .
 [submodule "zk/mz/vey"]
 	path = zk/mz/vey
 	url = .
