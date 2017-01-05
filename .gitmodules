@@ -6508,6 +6508,9 @@
 [submodule "hq/zh/wcq"]
 	path = hq/zh/wcq
 	url = .
+[submodule "hr/ap/svy"]
+	path = hr/ap/svy
+	url = .
 [submodule "hr/cb/bpk"]
 	path = hr/cb/bpk
 	url = .
