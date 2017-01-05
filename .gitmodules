@@ -61891,6 +61891,9 @@
 [submodule "za/ua/jij"]
 	path = za/ua/jij
 	url = .
+[submodule "za/uk/ejb"]
+	path = za/uk/ejb
+	url = .
 [submodule "za/wd/cvc"]
 	path = za/wd/cvc
 	url = .
