@@ -34939,6 +34939,9 @@
 [submodule "xv/pq/neo"]
 	path = xv/pq/neo
 	url = .
+[submodule "xv/qm/gnq"]
+	path = xv/qm/gnq
+	url = .
 [submodule "xv/qm/zim"]
 	path = xv/qm/zim
 	url = .
