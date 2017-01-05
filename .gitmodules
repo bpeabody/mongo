@@ -940,6 +940,9 @@
 [submodule "fb/ji/hks"]
 	path = fb/ji/hks
 	url = .
+[submodule "fb/or/gcu"]
+	path = fb/or/gcu
+	url = .
 [submodule "fb/qh/ysb"]
 	path = fb/qh/ysb
 	url = .
