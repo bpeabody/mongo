@@ -451,6 +451,9 @@
 [submodule "af/so/yoz"]
 	path = af/so/yoz
 	url = .
+[submodule "af/up/tea"]
+	path = af/up/tea
+	url = .
 [submodule "af/vv/nsg"]
 	path = af/vv/nsg
 	url = .
