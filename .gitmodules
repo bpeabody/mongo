@@ -148,6 +148,9 @@
 [submodule "ad/dn/amk"]
 	path = ad/dn/amk
 	url = .
+[submodule "ad/hj/sbc"]
+	path = ad/hj/sbc
+	url = .
 [submodule "ad/ia/clb"]
 	path = ad/ia/clb
 	url = .
