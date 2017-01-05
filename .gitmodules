@@ -5203,6 +5203,9 @@
 [submodule "rw/tx/ldj"]
 	path = rw/tx/ldj
 	url = .
+[submodule "rx/da/vjx"]
+	path = rx/da/vjx
+	url = .
 [submodule "ry/gm/kun"]
 	path = ry/gm/kun
 	url = .
