@@ -20473,6 +20473,9 @@
 [submodule "hu/bm/bqr"]
 	path = hu/bm/bqr
 	url = .
+[submodule "hu/ch/lpf"]
+	path = hu/ch/lpf
+	url = .
 [submodule "hu/cr/usb"]
 	path = hu/cr/usb
 	url = .
