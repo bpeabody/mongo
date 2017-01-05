@@ -10054,6 +10054,9 @@
 [submodule "rf/sa/wtu"]
 	path = rf/sa/wtu
 	url = .
+[submodule "rf/te/wed"]
+	path = rf/te/wed
+	url = .
 [submodule "rg/av/fmc"]
 	path = rg/av/fmc
 	url = .
