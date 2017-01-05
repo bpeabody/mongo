@@ -7447,6 +7447,9 @@
 [submodule "ot/sn/phj"]
 	path = ot/sn/phj
 	url = .
+[submodule "ot/tm/ezd"]
+	path = ot/tm/ezd
+	url = .
 [submodule "ot/xc/bfr"]
 	path = ot/xc/bfr
 	url = .
