@@ -34546,6 +34546,9 @@
 [submodule "rz/st/idc"]
 	path = rz/st/idc
 	url = .
+[submodule "rz/vm/lse"]
+	path = rz/vm/lse
+	url = .
 [submodule "rz/ye/nhh"]
 	path = rz/ye/nhh
 	url = .
