@@ -805,6 +805,9 @@
 [submodule "cl/vj/yrf"]
 	path = cl/vj/yrf
 	url = .
+[submodule "cm/wq/rdy"]
+	path = cm/wq/rdy
+	url = .
 [submodule "cn/ee/jzo"]
 	path = cn/ee/jzo
 	url = .
