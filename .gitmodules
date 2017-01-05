@@ -4723,6 +4723,9 @@
 [submodule "sf/gw/jjf"]
 	path = sf/gw/jjf
 	url = .
+[submodule "sf/mm/yhg"]
+	path = sf/mm/yhg
+	url = .
 [submodule "sf/ne/luj"]
 	path = sf/ne/luj
 	url = .
