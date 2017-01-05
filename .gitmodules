@@ -2821,6 +2821,9 @@
 [submodule "xx/ju/muh"]
 	path = xx/ju/muh
 	url = .
+[submodule "xy/pr/hcb"]
+	path = xy/pr/hcb
+	url = .
 [submodule "xz/ak/mrh"]
 	path = xz/ak/mrh
 	url = .
