@@ -9895,6 +9895,9 @@
 [submodule "er/jp/tfp"]
 	path = er/jp/tfp
 	url = .
+[submodule "er/kj/eou"]
+	path = er/kj/eou
+	url = .
 [submodule "er/kj/ozc"]
 	path = er/kj/ozc
 	url = .
