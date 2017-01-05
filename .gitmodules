@@ -184,6 +184,9 @@
 [submodule "ab/ol/stm"]
 	path = ab/ol/stm
 	url = .
+[submodule "ab/os/ipg"]
+	path = ab/os/ipg
+	url = .
 [submodule "ab/qd/sro"]
 	path = ab/qd/sro
 	url = .
