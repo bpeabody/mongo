@@ -5299,6 +5299,9 @@
 [submodule "dl/wo/rzd"]
 	path = dl/wo/rzd
 	url = .
+[submodule "dl/xv/aia"]
+	path = dl/xv/aia
+	url = .
 [submodule "dl/yk/lun"]
 	path = dl/yk/lun
 	url = .
