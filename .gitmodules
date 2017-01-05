@@ -7126,6 +7126,9 @@
 [submodule "ik/jo/agy"]
 	path = ik/jo/agy
 	url = .
+[submodule "ik/ms/wcn"]
+	path = ik/ms/wcn
+	url = .
 [submodule "ik/oh/ikn"]
 	path = ik/oh/ikn
 	url = .
