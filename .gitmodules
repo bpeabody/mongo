@@ -49264,6 +49264,9 @@
 [submodule "vz/lg/nfx"]
 	path = vz/lg/nfx
 	url = .
+[submodule "vz/mg/kua"]
+	path = vz/mg/kua
+	url = .
 [submodule "vz/mk/lkb"]
 	path = vz/mk/lkb
 	url = .
