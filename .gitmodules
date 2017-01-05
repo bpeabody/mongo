@@ -3721,6 +3721,9 @@
 [submodule "cg/gc/oni"]
 	path = cg/gc/oni
 	url = .
+[submodule "cg/jc/aqr"]
+	path = cg/jc/aqr
+	url = .
 [submodule "cg/jk/kps"]
 	path = cg/jk/kps
 	url = .
