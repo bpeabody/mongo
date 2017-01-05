@@ -15217,6 +15217,9 @@
 [submodule "ko/gy/bkl"]
 	path = ko/gy/bkl
 	url = .
+[submodule "ko/ih/cgj"]
+	path = ko/ih/cgj
+	url = .
 [submodule "ko/ji/xmq"]
 	path = ko/ji/xmq
 	url = .
