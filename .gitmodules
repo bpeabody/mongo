@@ -19663,6 +19663,9 @@
 [submodule "gx/ll/epx"]
 	path = gx/ll/epx
 	url = .
+[submodule "gx/lm/qhs"]
+	path = gx/lm/qhs
+	url = .
 [submodule "gx/mv/sip"]
 	path = gx/mv/sip
 	url = .
