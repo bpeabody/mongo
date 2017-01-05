@@ -25510,6 +25510,9 @@
 [submodule "kf/ry/eqq"]
 	path = kf/ry/eqq
 	url = .
+[submodule "kf/sf/qsy"]
+	path = kf/sf/qsy
+	url = .
 [submodule "kf/sk/hwr"]
 	path = kf/sk/hwr
 	url = .
