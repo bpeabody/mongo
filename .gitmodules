@@ -26038,6 +26038,9 @@
 [submodule "uq/bn/eyk"]
 	path = uq/bn/eyk
 	url = .
+[submodule "uq/dk/eqp"]
+	path = uq/dk/eqp
+	url = .
 [submodule "uq/fr/xtq"]
 	path = uq/fr/xtq
 	url = .
