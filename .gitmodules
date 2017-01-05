@@ -1228,6 +1228,9 @@
 [submodule "ls/gu/hls"]
 	path = ls/gu/hls
 	url = .
+[submodule "lv/ja/art"]
+	path = lv/ja/art
+	url = .
 [submodule "lv/wj/dxz"]
 	path = lv/wj/dxz
 	url = .
