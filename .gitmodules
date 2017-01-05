@@ -57874,6 +57874,9 @@
 [submodule "wg/uq/pci"]
 	path = wg/uq/pci
 	url = .
+[submodule "wg/vk/igv"]
+	path = wg/vk/igv
+	url = .
 [submodule "wg/vo/rda"]
 	path = wg/vo/rda
 	url = .
