@@ -1600,6 +1600,9 @@
 [submodule "dc/zx/qhn"]
 	path = dc/zx/qhn
 	url = .
+[submodule "dd/bq/uth"]
+	path = dd/bq/uth
+	url = .
 [submodule "dd/bx/bum"]
 	path = dd/bx/bum
 	url = .
