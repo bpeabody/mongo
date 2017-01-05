@@ -10864,6 +10864,9 @@
 [submodule "fj/sh/hdo"]
 	path = fj/sh/hdo
 	url = .
+[submodule "fj/sl/ivg"]
+	path = fj/sl/ivg
+	url = .
 [submodule "fj/uk/gzd"]
 	path = fj/uk/gzd
 	url = .
