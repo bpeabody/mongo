@@ -53584,6 +53584,9 @@
 [submodule "vo/fj/aca"]
 	path = vo/fj/aca
 	url = .
+[submodule "vo/gh/gdu"]
+	path = vo/gh/gdu
+	url = .
 [submodule "vo/go/qtj"]
 	path = vo/go/qtj
 	url = .
