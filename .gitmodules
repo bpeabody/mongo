@@ -3766,6 +3766,9 @@
 [submodule "fs/ec/vbq"]
 	path = fs/ec/vbq
 	url = .
+[submodule "fs/ey/pks"]
+	path = fs/ey/pks
+	url = .
 [submodule "fs/ht/owt"]
 	path = fs/ht/owt
 	url = .
