@@ -6769,6 +6769,9 @@
 [submodule "iu/je/eoh"]
 	path = iu/je/eoh
 	url = .
+[submodule "iu/jf/eed"]
+	path = iu/jf/eed
+	url = .
 [submodule "iu/ka/vja"]
 	path = iu/ka/vja
 	url = .
