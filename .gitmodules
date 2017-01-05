@@ -23713,6 +23713,9 @@
 [submodule "pd/iu/bkm"]
 	path = pd/iu/bkm
 	url = .
+[submodule "pd/jg/euz"]
+	path = pd/jg/euz
+	url = .
 [submodule "pd/kb/hmf"]
 	path = pd/kb/hmf
 	url = .
