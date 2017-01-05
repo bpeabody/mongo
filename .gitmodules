@@ -12778,6 +12778,9 @@
 [submodule "pj/ua/upn"]
 	path = pj/ua/upn
 	url = .
+[submodule "pj/uo/whs"]
+	path = pj/uo/whs
+	url = .
 [submodule "pj/vt/hnu"]
 	path = pj/vt/hnu
 	url = .
