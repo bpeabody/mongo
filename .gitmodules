@@ -6148,6 +6148,9 @@
 [submodule "fu/cg/mlf"]
 	path = fu/cg/mlf
 	url = .
+[submodule "fu/cu/mrp"]
+	path = fu/cu/mrp
+	url = .
 [submodule "fu/dm/nlg"]
 	path = fu/dm/nlg
 	url = .
