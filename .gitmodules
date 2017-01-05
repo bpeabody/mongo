@@ -7597,6 +7597,9 @@
 [submodule "cy/ba/sfk"]
 	path = cy/ba/sfk
 	url = .
+[submodule "cy/cw/ish"]
+	path = cy/cw/ish
+	url = .
 [submodule "cy/de/oov"]
 	path = cy/de/oov
 	url = .
