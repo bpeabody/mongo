@@ -11707,6 +11707,9 @@
 [submodule "zj/kp/kbl"]
 	path = zj/kp/kbl
 	url = .
+[submodule "zj/mn/beo"]
+	path = zj/mn/beo
+	url = .
 [submodule "zj/pz/ewf"]
 	path = zj/pz/ewf
 	url = .
