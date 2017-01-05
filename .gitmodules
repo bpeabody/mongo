@@ -15367,6 +15367,9 @@
 [submodule "oh/ir/sct"]
 	path = oh/ir/sct
 	url = .
+[submodule "oh/jy/vtj"]
+	path = oh/jy/vtj
+	url = .
 [submodule "oh/lx/knv"]
 	path = oh/lx/knv
 	url = .
