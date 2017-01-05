@@ -8428,6 +8428,9 @@
 [submodule "hx/hq/ubv"]
 	path = hx/hq/ubv
 	url = .
+[submodule "hx/ki/nye"]
+	path = hx/ki/nye
+	url = .
 [submodule "hx/lo/zep"]
 	path = hx/lo/zep
 	url = .
