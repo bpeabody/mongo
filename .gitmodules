@@ -13486,6 +13486,9 @@
 [submodule "nw/na/fot"]
 	path = nw/na/fot
 	url = .
+[submodule "nw/qc/sld"]
+	path = nw/qc/sld
+	url = .
 [submodule "nw/rw/aku"]
 	path = nw/rw/aku
 	url = .
