@@ -3628,6 +3628,9 @@
 [submodule "uw/kn/fbv"]
 	path = uw/kn/fbv
 	url = .
+[submodule "uw/rm/vwf"]
+	path = uw/rm/vwf
+	url = .
 [submodule "ux/nb/lvh"]
 	path = ux/nb/lvh
 	url = .
