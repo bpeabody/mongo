@@ -133,6 +133,9 @@
 [submodule "ae/go/ifm"]
 	path = ae/go/ifm
 	url = .
+[submodule "ae/is/bcw"]
+	path = ae/is/bcw
+	url = .
 [submodule "ae/iz/cjt"]
 	path = ae/iz/cjt
 	url = .
