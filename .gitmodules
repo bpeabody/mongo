@@ -1702,6 +1702,9 @@
 [submodule "tp/ew/hok"]
 	path = tp/ew/hok
 	url = .
+[submodule "tp/qh/kzb"]
+	path = tp/qh/kzb
+	url = .
 [submodule "tq/av/uuq"]
 	path = tq/av/uuq
 	url = .
