@@ -11809,6 +11809,9 @@
 [submodule "qy/en/tpd"]
 	path = qy/en/tpd
 	url = .
+[submodule "qy/fz/yxs"]
+	path = qy/fz/yxs
+	url = .
 [submodule "qy/lx/sdi"]
 	path = qy/lx/sdi
 	url = .
