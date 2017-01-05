@@ -17332,6 +17332,9 @@
 [submodule "ml/se/wri"]
 	path = ml/se/wri
 	url = .
+[submodule "ml/tk/nea"]
+	path = ml/tk/nea
+	url = .
 [submodule "ml/ul/cwf"]
 	path = ml/ul/cwf
 	url = .
