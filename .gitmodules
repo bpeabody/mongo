@@ -14104,6 +14104,9 @@
 [submodule "zx/fr/zia"]
 	path = zx/fr/zia
 	url = .
+[submodule "zx/he/fue"]
+	path = zx/he/fue
+	url = .
 [submodule "zx/hj/nrh"]
 	path = zx/hj/nrh
 	url = .
