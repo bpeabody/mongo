@@ -16885,6 +16885,9 @@
 [submodule "gi/nw/ruy"]
 	path = gi/nw/ruy
 	url = .
+[submodule "gi/ny/riq"]
+	path = gi/ny/riq
+	url = .
 [submodule "gi/oe/rer"]
 	path = gi/oe/rer
 	url = .
