@@ -6499,6 +6499,9 @@
 [submodule "gb/hd/btg"]
 	path = gb/hd/btg
 	url = .
+[submodule "gb/iq/egn"]
+	path = gb/iq/egn
+	url = .
 [submodule "gb/jd/cbw"]
 	path = gb/jd/cbw
 	url = .
