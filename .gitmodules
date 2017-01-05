@@ -6358,6 +6358,9 @@
 [submodule "lt/ly/yqc"]
 	path = lt/ly/yqc
 	url = .
+[submodule "lt/ns/iaj"]
+	path = lt/ns/iaj
+	url = .
 [submodule "lt/ps/spp"]
 	path = lt/ps/spp
 	url = .
