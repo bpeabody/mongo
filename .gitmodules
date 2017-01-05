@@ -24145,6 +24145,9 @@
 [submodule "nc/wo/sho"]
 	path = nc/wo/sho
 	url = .
+[submodule "nc/xu/gzg"]
+	path = nc/xu/gzg
+	url = .
 [submodule "nc/yx/irp"]
 	path = nc/yx/irp
 	url = .
