@@ -27871,6 +27871,9 @@
 [submodule "rp/tn/sew"]
 	path = rp/tn/sew
 	url = .
+[submodule "rp/tr/kcf"]
+	path = rp/tr/kcf
+	url = .
 [submodule "rp/uo/kzg"]
 	path = rp/uo/kzg
 	url = .
