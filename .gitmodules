@@ -46345,6 +46345,9 @@
 [submodule "vv/yz/fge"]
 	path = vv/yz/fge
 	url = .
+[submodule "vv/zf/hrc"]
+	path = vv/zf/hrc
+	url = .
 [submodule "vv/zi/xli"]
 	path = vv/zi/xli
 	url = .
