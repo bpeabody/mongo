@@ -21100,6 +21100,9 @@
 [submodule "jh/hy/opy"]
 	path = jh/hy/opy
 	url = .
+[submodule "jh/ig/vxi"]
+	path = jh/ig/vxi
+	url = .
 [submodule "jh/jq/hjq"]
 	path = jh/jq/hjq
 	url = .
