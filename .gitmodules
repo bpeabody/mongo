@@ -15577,6 +15577,9 @@
 [submodule "ko/ih/cgj"]
 	path = ko/ih/cgj
 	url = .
+[submodule "ko/ir/lne"]
+	path = ko/ir/lne
+	url = .
 [submodule "ko/ji/xmq"]
 	path = ko/ji/xmq
 	url = .
