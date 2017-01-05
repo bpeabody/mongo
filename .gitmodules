@@ -27439,6 +27439,9 @@
 [submodule "wt/cw/eeb"]
 	path = wt/cw/eeb
 	url = .
+[submodule "wt/dh/rpx"]
+	path = wt/dh/rpx
+	url = .
 [submodule "wt/do/nis"]
 	path = wt/do/nis
 	url = .
