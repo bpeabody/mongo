@@ -13375,6 +13375,9 @@
 [submodule "jd/uo/gze"]
 	path = jd/uo/gze
 	url = .
+[submodule "jd/xn/rrg"]
+	path = jd/xn/rrg
+	url = .
 [submodule "jd/ym/dav"]
 	path = jd/ym/dav
 	url = .
