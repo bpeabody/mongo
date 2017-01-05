@@ -13795,6 +13795,9 @@
 [submodule "la/ao/bes"]
 	path = la/ao/bes
 	url = .
+[submodule "la/ck/nbd"]
+	path = la/ck/nbd
+	url = .
 [submodule "la/cq/lhj"]
 	path = la/cq/lhj
 	url = .
