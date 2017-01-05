@@ -21325,6 +21325,9 @@
 [submodule "kz/uf/buv"]
 	path = kz/uf/buv
 	url = .
+[submodule "kz/vc/fxp"]
+	path = kz/vc/fxp
+	url = .
 [submodule "kz/vy/niw"]
 	path = kz/vy/niw
 	url = .
