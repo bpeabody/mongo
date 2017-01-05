@@ -8662,6 +8662,9 @@
 [submodule "ko/py/vwt"]
 	path = ko/py/vwt
 	url = .
+[submodule "ko/qj/kzf"]
+	path = ko/qj/kzf
+	url = .
 [submodule "ko/rn/ymf"]
 	path = ko/rn/ymf
 	url = .
