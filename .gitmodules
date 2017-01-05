@@ -6508,6 +6508,9 @@
 [submodule "qh/qr/gzl"]
 	path = qh/qr/gzl
 	url = .
+[submodule "qh/so/ynb"]
+	path = qh/so/ynb
+	url = .
 [submodule "qi/ac/hbv"]
 	path = qi/ac/hbv
 	url = .
