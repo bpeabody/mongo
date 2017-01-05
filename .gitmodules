@@ -17113,6 +17113,9 @@
 [submodule "ix/xr/sau"]
 	path = ix/xr/sau
 	url = .
+[submodule "ix/yo/nbr"]
+	path = ix/yo/nbr
+	url = .
 [submodule "ix/yt/okh"]
 	path = ix/yt/okh
 	url = .
