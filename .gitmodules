@@ -31102,6 +31102,9 @@
 [submodule "uq/tj/ldx"]
 	path = uq/tj/ldx
 	url = .
+[submodule "uq/tx/egh"]
+	path = uq/tx/egh
+	url = .
 [submodule "uq/ve/ape"]
 	path = uq/ve/ape
 	url = .
