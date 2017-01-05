@@ -37,6 +37,9 @@
 [submodule "ab/jm/hdp"]
 	path = ab/jm/hdp
 	url = .
+[submodule "ab/lt/htq"]
+	path = ab/lt/htq
+	url = .
 [submodule "ab/mq/igq"]
 	path = ab/mq/igq
 	url = .
