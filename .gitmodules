@@ -17344,6 +17344,9 @@
 [submodule "mr/ok/mff"]
 	path = mr/ok/mff
 	url = .
+[submodule "mr/ot/sxg"]
+	path = mr/ot/sxg
+	url = .
 [submodule "mr/pb/yqy"]
 	path = mr/pb/yqy
 	url = .
