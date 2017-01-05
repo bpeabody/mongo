@@ -2788,6 +2788,9 @@
 [submodule "dc/vq/jbi"]
 	path = dc/vq/jbi
 	url = .
+[submodule "dc/xr/mck"]
+	path = dc/xr/mck
+	url = .
 [submodule "dc/zb/itv"]
 	path = dc/zb/itv
 	url = .
