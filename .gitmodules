@@ -7918,6 +7918,9 @@
 [submodule "cp/pk/ejg"]
 	path = cp/pk/ejg
 	url = .
+[submodule "cp/pn/znl"]
+	path = cp/pn/znl
+	url = .
 [submodule "cp/rj/mnr"]
 	path = cp/rj/mnr
 	url = .
