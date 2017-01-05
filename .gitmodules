@@ -18103,6 +18103,9 @@
 [submodule "lc/sl/yco"]
 	path = lc/sl/yco
 	url = .
+[submodule "lc/sw/sui"]
+	path = lc/sw/sui
+	url = .
 [submodule "lc/ta/ekt"]
 	path = lc/ta/ekt
 	url = .
