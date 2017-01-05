@@ -9370,6 +9370,9 @@
 [submodule "ml/md/jqg"]
 	path = ml/md/jqg
 	url = .
+[submodule "ml/qi/ked"]
+	path = ml/qi/ked
+	url = .
 [submodule "ml/wl/cew"]
 	path = ml/wl/cew
 	url = .
