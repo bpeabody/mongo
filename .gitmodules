@@ -12970,6 +12970,9 @@
 [submodule "ex/ak/dkg"]
 	path = ex/ak/dkg
 	url = .
+[submodule "ex/al/pmo"]
+	path = ex/al/pmo
+	url = .
 [submodule "ex/bv/jtz"]
 	path = ex/bv/jtz
 	url = .
