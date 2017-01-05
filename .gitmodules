@@ -7630,6 +7630,9 @@
 [submodule "dh/mi/tbb"]
 	path = dh/mi/tbb
 	url = .
+[submodule "dh/nj/tnd"]
+	path = dh/nj/tnd
+	url = .
 [submodule "dh/nq/llo"]
 	path = dh/nq/llo
 	url = .
