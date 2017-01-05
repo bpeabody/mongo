@@ -9049,6 +9049,9 @@
 [submodule "nk/vj/fxk"]
 	path = nk/vj/fxk
 	url = .
+[submodule "nl/bj/yge"]
+	path = nl/bj/yge
+	url = .
 [submodule "nl/dm/sql"]
 	path = nl/dm/sql
 	url = .
