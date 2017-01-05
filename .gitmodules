@@ -49489,6 +49489,9 @@
 [submodule "tn/gh/nlj"]
 	path = tn/gh/nlj
 	url = .
+[submodule "tn/gh/yyh"]
+	path = tn/gh/yyh
+	url = .
 [submodule "tn/gv/ygg"]
 	path = tn/gv/ygg
 	url = .
