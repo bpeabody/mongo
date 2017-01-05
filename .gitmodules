@@ -8776,6 +8776,9 @@
 [submodule "eg/zg/xhi"]
 	path = eg/zg/xhi
 	url = .
+[submodule "eh/cl/jsn"]
+	path = eh/cl/jsn
+	url = .
 [submodule "eh/ct/kbe"]
 	path = eh/ct/kbe
 	url = .
