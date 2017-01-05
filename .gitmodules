@@ -2095,6 +2095,9 @@
 [submodule "lo/ga/for"]
 	path = lo/ga/for
 	url = .
+[submodule "lp/df/bjt"]
+	path = lp/df/bjt
+	url = .
 [submodule "lr/nl/ukl"]
 	path = lr/nl/ukl
 	url = .
