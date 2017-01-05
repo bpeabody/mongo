@@ -1555,6 +1555,9 @@
 [submodule "ko/pe/klb"]
 	path = ko/pe/klb
 	url = .
+[submodule "ko/py/vwt"]
+	path = ko/py/vwt
+	url = .
 [submodule "ko/xh/ucl"]
 	path = ko/xh/ucl
 	url = .
