@@ -10561,6 +10561,9 @@
 [submodule "dr/hk/lih"]
 	path = dr/hk/lih
 	url = .
+[submodule "dr/hw/xcg"]
+	path = dr/hw/xcg
+	url = .
 [submodule "dr/ik/azx"]
 	path = dr/ik/azx
 	url = .
