@@ -39754,6 +39754,9 @@
 [submodule "wn/up/aga"]
 	path = wn/up/aga
 	url = .
+[submodule "wn/ya/wod"]
+	path = wn/ya/wod
+	url = .
 [submodule "wn/yp/vns"]
 	path = wn/yp/vns
 	url = .
