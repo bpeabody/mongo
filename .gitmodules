@@ -4645,6 +4645,9 @@
 [submodule "fv/sr/stc"]
 	path = fv/sr/stc
 	url = .
+[submodule "fv/sz/zcu"]
+	path = fv/sz/zcu
+	url = .
 [submodule "fv/tr/ybt"]
 	path = fv/tr/ybt
 	url = .
