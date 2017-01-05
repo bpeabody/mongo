@@ -15844,6 +15844,9 @@
 [submodule "jv/ki/crg"]
 	path = jv/ki/crg
 	url = .
+[submodule "jv/kw/gyu"]
+	path = jv/kw/gyu
+	url = .
 [submodule "jv/no/vqn"]
 	path = jv/no/vqn
 	url = .
