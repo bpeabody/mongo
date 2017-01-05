@@ -11029,6 +11029,9 @@
 [submodule "pq/iq/kdc"]
 	path = pq/iq/kdc
 	url = .
+[submodule "pq/jy/cyi"]
+	path = pq/jy/cyi
+	url = .
 [submodule "pq/pp/wgy"]
 	path = pq/pp/wgy
 	url = .
