@@ -15463,6 +15463,9 @@
 [submodule "mv/sv/jjz"]
 	path = mv/sv/jjz
 	url = .
+[submodule "mv/ux/rqb"]
+	path = mv/ux/rqb
+	url = .
 [submodule "mv/vb/voi"]
 	path = mv/vb/voi
 	url = .
