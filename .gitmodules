@@ -5179,6 +5179,9 @@
 [submodule "cw/zp/fxr"]
 	path = cw/zp/fxr
 	url = .
+[submodule "cx/ce/ksg"]
+	path = cx/ce/ksg
+	url = .
 [submodule "cx/cw/wll"]
 	path = cx/cw/wll
 	url = .
