@@ -37366,6 +37366,9 @@
 [submodule "rf/ur/iwf"]
 	path = rf/ur/iwf
 	url = .
+[submodule "rf/vo/gyg"]
+	path = rf/vo/gyg
+	url = .
 [submodule "rf/xe/uqn"]
 	path = rf/xe/uqn
 	url = .
