@@ -27616,6 +27616,9 @@
 [submodule "rn/kr/wev"]
 	path = rn/kr/wev
 	url = .
+[submodule "rn/ks/sju"]
+	path = rn/ks/sju
+	url = .
 [submodule "rn/mk/pgs"]
 	path = rn/mk/pgs
 	url = .
