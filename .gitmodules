@@ -12910,6 +12910,9 @@
 [submodule "ej/ig/vxm"]
 	path = ej/ig/vxm
 	url = .
+[submodule "ej/ix/hnn"]
+	path = ej/ix/hnn
+	url = .
 [submodule "ej/jc/gsu"]
 	path = ej/jc/gsu
 	url = .
