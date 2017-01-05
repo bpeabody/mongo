@@ -1129,6 +1129,9 @@
 [submodule "dr/ad/bei"]
 	path = dr/ad/bei
 	url = .
+[submodule "dr/nr/zly"]
+	path = dr/nr/zly
+	url = .
 [submodule "dr/ve/moa"]
 	path = dr/ve/moa
 	url = .
