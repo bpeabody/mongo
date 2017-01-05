@@ -946,6 +946,9 @@
 [submodule "ax/ue/crg"]
 	path = ax/ue/crg
 	url = .
+[submodule "ax/vg/qzk"]
+	path = ax/vg/qzk
+	url = .
 [submodule "ax/ww/aku"]
 	path = ax/ww/aku
 	url = .
