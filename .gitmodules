@@ -1168,6 +1168,9 @@
 [submodule "fp/tk/iux"]
 	path = fp/tk/iux
 	url = .
+[submodule "fp/va/gba"]
+	path = fp/va/gba
+	url = .
 [submodule "fq/kv/gul"]
 	path = fq/kv/gul
 	url = .
