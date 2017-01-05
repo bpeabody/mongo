@@ -1861,6 +1861,9 @@
 [submodule "bz/ms/ila"]
 	path = bz/ms/ila
 	url = .
+[submodule "bz/oi/lms"]
+	path = bz/oi/lms
+	url = .
 [submodule "bz/rn/bjk"]
 	path = bz/rn/bjk
 	url = .
