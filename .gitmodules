@@ -541,6 +541,9 @@
 [submodule "pw/vi/sbg"]
 	path = pw/vi/sbg
 	url = .
+[submodule "qa/ve/udk"]
+	path = qa/ve/udk
+	url = .
 [submodule "qd/mt/xxp"]
 	path = qd/mt/xxp
 	url = .
