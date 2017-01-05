@@ -32857,6 +32857,9 @@
 [submodule "qa/eh/nbf"]
 	path = qa/eh/nbf
 	url = .
+[submodule "qa/ff/yfq"]
+	path = qa/ff/yfq
+	url = .
 [submodule "qa/fs/hfk"]
 	path = qa/fs/hfk
 	url = .
