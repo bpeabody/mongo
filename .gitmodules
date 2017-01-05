@@ -39607,6 +39607,9 @@
 [submodule "oz/dk/mmc"]
 	path = oz/dk/mmc
 	url = .
+[submodule "oz/ep/oqu"]
+	path = oz/ep/oqu
+	url = .
 [submodule "oz/je/mdl"]
 	path = oz/je/mdl
 	url = .
