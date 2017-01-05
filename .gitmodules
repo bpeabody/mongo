@@ -4369,6 +4369,9 @@
 [submodule "bm/do/avi"]
 	path = bm/do/avi
 	url = .
+[submodule "bm/dr/xcw"]
+	path = bm/dr/xcw
+	url = .
 [submodule "bm/du/xym"]
 	path = bm/du/xym
 	url = .
