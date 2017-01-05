@@ -7774,6 +7774,9 @@
 [submodule "mr/wn/vpq"]
 	path = mr/wn/vpq
 	url = .
+[submodule "mr/xi/tns"]
+	path = mr/xi/tns
+	url = .
 [submodule "mr/zl/lno"]
 	path = mr/zl/lno
 	url = .
