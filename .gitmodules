@@ -36130,6 +36130,9 @@
 [submodule "me/ht/qka"]
 	path = me/ht/qka
 	url = .
+[submodule "me/il/aky"]
+	path = me/il/aky
+	url = .
 [submodule "me/il/euu"]
 	path = me/il/euu
 	url = .
