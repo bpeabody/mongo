@@ -59731,6 +59731,9 @@
 [submodule "xz/me/oyc"]
 	path = xz/me/oyc
 	url = .
+[submodule "xz/nb/xtq"]
+	path = xz/nb/xtq
+	url = .
 [submodule "xz/no/ocp"]
 	path = xz/no/ocp
 	url = .
