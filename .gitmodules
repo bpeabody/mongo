@@ -45688,6 +45688,9 @@
 [submodule "pm/yn/hgu"]
 	path = pm/yn/hgu
 	url = .
+[submodule "pm/zk/cpi"]
+	path = pm/zk/cpi
+	url = .
 [submodule "pm/zx/oaz"]
 	path = pm/zx/oaz
 	url = .
