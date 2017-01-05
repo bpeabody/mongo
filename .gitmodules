@@ -1204,6 +1204,9 @@
 [submodule "ph/zl/nzr"]
 	path = ph/zl/nzr
 	url = .
+[submodule "pi/dx/qlr"]
+	path = pi/dx/qlr
+	url = .
 [submodule "pi/xe/ufa"]
 	path = pi/xe/ufa
 	url = .
