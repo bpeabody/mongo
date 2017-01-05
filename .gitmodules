@@ -3529,6 +3529,9 @@
 [submodule "cy/ds/mhi"]
 	path = cy/ds/mhi
 	url = .
+[submodule "cy/eu/jpr"]
+	path = cy/eu/jpr
+	url = .
 [submodule "cy/ev/krb"]
 	path = cy/ev/krb
 	url = .
