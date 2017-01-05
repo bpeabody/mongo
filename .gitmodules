@@ -27232,6 +27232,9 @@
 [submodule "my/wb/mpn"]
 	path = my/wb/mpn
 	url = .
+[submodule "my/wd/spe"]
+	path = my/wd/spe
+	url = .
 [submodule "my/we/abw"]
 	path = my/we/abw
 	url = .
