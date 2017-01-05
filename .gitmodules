@@ -21448,6 +21448,9 @@
 [submodule "xr/bv/zbb"]
 	path = xr/bv/zbb
 	url = .
+[submodule "xr/df/vip"]
+	path = xr/df/vip
+	url = .
 [submodule "xr/gm/txc"]
 	path = xr/gm/txc
 	url = .
