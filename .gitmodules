@@ -32467,6 +32467,9 @@
 [submodule "yn/ah/mnc"]
 	path = yn/ah/mnc
 	url = .
+[submodule "yn/bn/bze"]
+	path = yn/bn/bze
+	url = .
 [submodule "yn/di/izh"]
 	path = yn/di/izh
 	url = .
