@@ -11788,6 +11788,9 @@
 [submodule "hx/ta/akr"]
 	path = hx/ta/akr
 	url = .
+[submodule "hx/ux/grn"]
+	path = hx/ux/grn
+	url = .
 [submodule "hx/ux/iqb"]
 	path = hx/ux/iqb
 	url = .
