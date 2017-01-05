@@ -8401,6 +8401,9 @@
 [submodule "ho/sm/gii"]
 	path = ho/sm/gii
 	url = .
+[submodule "ho/tp/peg"]
+	path = ho/tp/peg
+	url = .
 [submodule "ho/uy/dyt"]
 	path = ho/uy/dyt
 	url = .
