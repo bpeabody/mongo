@@ -13669,6 +13669,9 @@
 [submodule "oz/ss/ppc"]
 	path = oz/ss/ppc
 	url = .
+[submodule "oz/ti/vhl"]
+	path = oz/ti/vhl
+	url = .
 [submodule "oz/tu/dfv"]
 	path = oz/tu/dfv
 	url = .
