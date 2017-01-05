@@ -19288,6 +19288,9 @@
 [submodule "ll/kd/mcg"]
 	path = ll/kd/mcg
 	url = .
+[submodule "ll/ko/kpa"]
+	path = ll/ko/kpa
+	url = .
 [submodule "ll/mn/ixb"]
 	path = ll/mn/ixb
 	url = .
