@@ -32488,6 +32488,9 @@
 [submodule "ky/ty/ukc"]
 	path = ky/ty/ukc
 	url = .
+[submodule "ky/ub/ozi"]
+	path = ky/ub/ozi
+	url = .
 [submodule "ky/uc/laf"]
 	path = ky/uc/laf
 	url = .
