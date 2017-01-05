@@ -11875,6 +11875,9 @@
 [submodule "qg/hg/hyp"]
 	path = qg/hg/hyp
 	url = .
+[submodule "qg/hu/apq"]
+	path = qg/hu/apq
+	url = .
 [submodule "qg/is/jqr"]
 	path = qg/is/jqr
 	url = .
