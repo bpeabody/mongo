@@ -23455,6 +23455,9 @@
 [submodule "iz/vq/hqd"]
 	path = iz/vq/hqd
 	url = .
+[submodule "iz/wp/dht"]
+	path = iz/wp/dht
+	url = .
 [submodule "iz/xo/lkw"]
 	path = iz/xo/lkw
 	url = .
