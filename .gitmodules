@@ -502,6 +502,9 @@
 [submodule "an/ky/qde"]
 	path = an/ky/qde
 	url = .
+[submodule "an/tc/pvv"]
+	path = an/tc/pvv
+	url = .
 [submodule "an/tp/fys"]
 	path = an/tp/fys
 	url = .
