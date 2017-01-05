@@ -2719,6 +2719,9 @@
 [submodule "bo/cf/nwf"]
 	path = bo/cf/nwf
 	url = .
+[submodule "bo/co/ypn"]
+	path = bo/co/ypn
+	url = .
 [submodule "bo/dv/wig"]
 	path = bo/dv/wig
 	url = .
