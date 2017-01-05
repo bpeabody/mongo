@@ -11551,6 +11551,9 @@
 [submodule "gq/rw/equ"]
 	path = gq/rw/equ
 	url = .
+[submodule "gq/tl/kua"]
+	path = gq/tl/kua
+	url = .
 [submodule "gq/uh/xnh"]
 	path = gq/uh/xnh
 	url = .
