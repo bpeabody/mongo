@@ -520,6 +520,9 @@
 [submodule "ak/ee/vxa"]
 	path = ak/ee/vxa
 	url = .
+[submodule "ak/id/bjv"]
+	path = ak/id/bjv
+	url = .
 [submodule "ak/jf/oer"]
 	path = ak/jf/oer
 	url = .
