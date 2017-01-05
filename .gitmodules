@@ -1156,6 +1156,9 @@
 [submodule "ec/zb/upa"]
 	path = ec/zb/upa
 	url = .
+[submodule "ed/oj/hzl"]
+	path = ed/oj/hzl
+	url = .
 [submodule "ed/pb/pyq"]
 	path = ed/pb/pyq
 	url = .
