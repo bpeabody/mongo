@@ -14038,6 +14038,9 @@
 [submodule "hc/lx/heu"]
 	path = hc/lx/heu
 	url = .
+[submodule "hc/mf/lsj"]
+	path = hc/mf/lsj
+	url = .
 [submodule "hc/my/agl"]
 	path = hc/my/agl
 	url = .
