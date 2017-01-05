@@ -21319,6 +21319,9 @@
 [submodule "ih/iq/uvz"]
 	path = ih/iq/uvz
 	url = .
+[submodule "ih/jd/mor"]
+	path = ih/jd/mor
+	url = .
 [submodule "ih/ka/pij"]
 	path = ih/ka/pij
 	url = .
