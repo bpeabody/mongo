@@ -17290,6 +17290,9 @@
 [submodule "js/eh/bxh"]
 	path = js/eh/bxh
 	url = .
+[submodule "js/fk/ipd"]
+	path = js/fk/ipd
+	url = .
 [submodule "js/gk/nvf"]
 	path = js/gk/nvf
 	url = .
