@@ -42631,6 +42631,9 @@
 [submodule "yl/ir/cnt"]
 	path = yl/ir/cnt
 	url = .
+[submodule "yl/jn/wjr"]
+	path = yl/jn/wjr
+	url = .
 [submodule "yl/li/ewa"]
 	path = yl/li/ewa
 	url = .
