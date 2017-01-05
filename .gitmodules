@@ -2506,6 +2506,9 @@
 [submodule "fd/fr/fgf"]
 	path = fd/fr/fgf
 	url = .
+[submodule "fd/ht/qqn"]
+	path = fd/ht/qqn
+	url = .
 [submodule "fd/jc/dzj"]
 	path = fd/jc/dzj
 	url = .
