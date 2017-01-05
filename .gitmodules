@@ -14968,6 +14968,9 @@
 [submodule "uu/xc/qlx"]
 	path = uu/xc/qlx
 	url = .
+[submodule "uv/dq/urc"]
+	path = uv/dq/urc
+	url = .
 [submodule "uv/ed/vtk"]
 	path = uv/ed/vtk
 	url = .
