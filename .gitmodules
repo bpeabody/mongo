@@ -8629,6 +8629,9 @@
 [submodule "dz/ov/yaf"]
 	path = dz/ov/yaf
 	url = .
+[submodule "dz/pk/cud"]
+	path = dz/pk/cud
+	url = .
 [submodule "dz/qz/sfp"]
 	path = dz/qz/sfp
 	url = .
