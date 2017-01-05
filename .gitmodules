@@ -5962,6 +5962,9 @@
 [submodule "id/np/ghu"]
 	path = id/np/ghu
 	url = .
+[submodule "id/rf/dmq"]
+	path = id/rf/dmq
+	url = .
 [submodule "id/ub/bbs"]
 	path = id/ub/bbs
 	url = .
