@@ -4351,6 +4351,9 @@
 [submodule "jn/om/svx"]
 	path = jn/om/svx
 	url = .
+[submodule "jn/qg/ala"]
+	path = jn/qg/ala
+	url = .
 [submodule "jn/qv/day"]
 	path = jn/qv/day
 	url = .
