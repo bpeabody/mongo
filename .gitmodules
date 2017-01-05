@@ -50608,6 +50608,9 @@
 [submodule "wi/rw/ofy"]
 	path = wi/rw/ofy
 	url = .
+[submodule "wi/sc/pnp"]
+	path = wi/sc/pnp
+	url = .
 [submodule "wi/se/yua"]
 	path = wi/se/yua
 	url = .
