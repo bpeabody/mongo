@@ -23950,6 +23950,9 @@
 [submodule "us/jc/oei"]
 	path = us/jc/oei
 	url = .
+[submodule "us/jj/wqt"]
+	path = us/jj/wqt
+	url = .
 [submodule "us/jk/fwz"]
 	path = us/jk/fwz
 	url = .
