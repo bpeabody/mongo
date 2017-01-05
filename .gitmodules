@@ -16450,6 +16450,9 @@
 [submodule "sk/uv/ada"]
 	path = sk/uv/ada
 	url = .
+[submodule "sk/vs/ekl"]
+	path = sk/vs/ekl
+	url = .
 [submodule "sk/xo/eoz"]
 	path = sk/xo/eoz
 	url = .
