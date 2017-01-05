@@ -2317,6 +2317,9 @@
 [submodule "tq/sc/noa"]
 	path = tq/sc/noa
 	url = .
+[submodule "tr/cs/nev"]
+	path = tr/cs/nev
+	url = .
 [submodule "tr/gs/kgr"]
 	path = tr/gs/kgr
 	url = .
