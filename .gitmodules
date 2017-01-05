@@ -11680,6 +11680,9 @@
 [submodule "fu/bk/cze"]
 	path = fu/bk/cze
 	url = .
+[submodule "fu/ca/gqr"]
+	path = fu/ca/gqr
+	url = .
 [submodule "fu/cg/mlf"]
 	path = fu/cg/mlf
 	url = .
