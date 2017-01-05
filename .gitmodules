@@ -106,6 +106,9 @@
 [submodule "hn/be/klz"]
 	path = hn/be/klz
 	url = .
+[submodule "hn/ut/eml"]
+	path = hn/ut/eml
+	url = .
 [submodule "hq/uw/iwi"]
 	path = hq/uw/iwi
 	url = .
