@@ -55,6 +55,9 @@
 [submodule "ap/vr/hmp"]
 	path = ap/vr/hmp
 	url = .
+[submodule "ap/zf/avk"]
+	path = ap/zf/avk
+	url = .
 [submodule "au/cv/tai"]
 	path = au/cv/tai
 	url = .
