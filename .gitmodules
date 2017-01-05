@@ -34762,6 +34762,9 @@
 [submodule "pi/vp/dvu"]
 	path = pi/vp/dvu
 	url = .
+[submodule "pi/vp/mot"]
+	path = pi/vp/mot
+	url = .
 [submodule "pi/wx/zrf"]
 	path = pi/wx/zrf
 	url = .
