@@ -10033,6 +10033,9 @@
 [submodule "ow/of/jkq"]
 	path = ow/of/jkq
 	url = .
+[submodule "ow/pa/vty"]
+	path = ow/pa/vty
+	url = .
 [submodule "ow/qo/jfn"]
 	path = ow/qo/jfn
 	url = .
