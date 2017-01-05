@@ -5737,6 +5737,9 @@
 [submodule "do/ov/yeu"]
 	path = do/ov/yeu
 	url = .
+[submodule "do/qf/ueu"]
+	path = do/qf/ueu
+	url = .
 [submodule "do/rw/xag"]
 	path = do/rw/xag
 	url = .
