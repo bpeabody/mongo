@@ -15697,6 +15697,9 @@
 [submodule "hm/uq/can"]
 	path = hm/uq/can
 	url = .
+[submodule "hm/xt/lmh"]
+	path = hm/xt/lmh
+	url = .
 [submodule "hm/zg/dvw"]
 	path = hm/zg/dvw
 	url = .
