@@ -14809,6 +14809,9 @@
 [submodule "rx/me/vfk"]
 	path = rx/me/vfk
 	url = .
+[submodule "rx/mr/uzp"]
+	path = rx/mr/uzp
+	url = .
 [submodule "rx/nl/hra"]
 	path = rx/nl/hra
 	url = .
