@@ -8911,6 +8911,9 @@
 [submodule "ds/wj/jqo"]
 	path = ds/wj/jqo
 	url = .
+[submodule "ds/wn/isr"]
+	path = ds/wn/isr
+	url = .
 [submodule "ds/yc/nih"]
 	path = ds/yc/nih
 	url = .
