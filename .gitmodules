@@ -65530,6 +65530,9 @@
 [submodule "vr/sl/xfi"]
 	path = vr/sl/xfi
 	url = .
+[submodule "vr/sq/rgp"]
+	path = vr/sq/rgp
+	url = .
 [submodule "vr/sy/qcv"]
 	path = vr/sy/qcv
 	url = .
