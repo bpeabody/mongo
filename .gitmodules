@@ -10873,6 +10873,9 @@
 [submodule "io/aw/skk"]
 	path = io/aw/skk
 	url = .
+[submodule "io/ay/dkc"]
+	path = io/ay/dkc
+	url = .
 [submodule "io/dl/euh"]
 	path = io/dl/euh
 	url = .
