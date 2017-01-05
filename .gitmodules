@@ -36544,6 +36544,9 @@
 [submodule "wm/oq/jaa"]
 	path = wm/oq/jaa
 	url = .
+[submodule "wm/qj/stf"]
+	path = wm/qj/stf
+	url = .
 [submodule "wm/ql/qjb"]
 	path = wm/ql/qjb
 	url = .
