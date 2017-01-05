@@ -7414,6 +7414,9 @@
 [submodule "ec/oi/edr"]
 	path = ec/oi/edr
 	url = .
+[submodule "ec/qw/cky"]
+	path = ec/qw/cky
+	url = .
 [submodule "ec/qz/npa"]
 	path = ec/qz/npa
 	url = .
