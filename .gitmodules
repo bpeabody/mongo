@@ -805,6 +805,9 @@
 [submodule "yj/bz/jdu"]
 	path = yj/bz/jdu
 	url = .
+[submodule "yk/vm/ezb"]
+	path = yk/vm/ezb
+	url = .
 [submodule "yp/vq/iys"]
 	path = yp/vq/iys
 	url = .
