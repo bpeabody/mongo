@@ -14404,6 +14404,9 @@
 [submodule "is/iy/ygz"]
 	path = is/iy/ygz
 	url = .
+[submodule "is/ja/mnb"]
+	path = is/ja/mnb
+	url = .
 [submodule "is/jy/ezs"]
 	path = is/jy/ezs
 	url = .
