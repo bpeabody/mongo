@@ -12607,6 +12607,9 @@
 [submodule "yc/xm/uwh"]
 	path = yc/xm/uwh
 	url = .
+[submodule "yc/zx/bdd"]
+	path = yc/zx/bdd
+	url = .
 [submodule "yd/da/qsb"]
 	path = yd/da/qsb
 	url = .
