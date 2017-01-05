@@ -1624,6 +1624,9 @@
 [submodule "ir/dx/enz"]
 	path = ir/dx/enz
 	url = .
+[submodule "ir/fa/cih"]
+	path = ir/fa/cih
+	url = .
 [submodule "ir/np/nhu"]
 	path = ir/np/nhu
 	url = .
