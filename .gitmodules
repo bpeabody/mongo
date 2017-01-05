@@ -32338,6 +32338,9 @@
 [submodule "nc/jy/tcd"]
 	path = nc/jy/tcd
 	url = .
+[submodule "nc/lg/nri"]
+	path = nc/lg/nri
+	url = .
 [submodule "nc/mi/pfn"]
 	path = nc/mi/pfn
 	url = .
