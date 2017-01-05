@@ -20020,6 +20020,9 @@
 [submodule "kp/bw/vfn"]
 	path = kp/bw/vfn
 	url = .
+[submodule "kp/en/viq"]
+	path = kp/en/viq
+	url = .
 [submodule "kp/jm/zzy"]
 	path = kp/jm/zzy
 	url = .
