@@ -23665,6 +23665,9 @@
 [submodule "ja/en/juj"]
 	path = ja/en/juj
 	url = .
+[submodule "ja/es/ypn"]
+	path = ja/es/ypn
+	url = .
 [submodule "ja/ff/gil"]
 	path = ja/ff/gil
 	url = .
