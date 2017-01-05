@@ -2575,6 +2575,9 @@
 [submodule "ba/ns/kap"]
 	path = ba/ns/kap
 	url = .
+[submodule "ba/nv/btc"]
+	path = ba/nv/btc
+	url = .
 [submodule "ba/os/zsc"]
 	path = ba/os/zsc
 	url = .
