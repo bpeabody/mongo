@@ -7132,6 +7132,9 @@
 [submodule "hw/id/qsv"]
 	path = hw/id/qsv
 	url = .
+[submodule "hw/ip/udl"]
+	path = hw/ip/udl
+	url = .
 [submodule "hw/ip/zem"]
 	path = hw/ip/zem
 	url = .
