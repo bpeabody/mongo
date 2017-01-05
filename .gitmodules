@@ -2065,6 +2065,9 @@
 [submodule "gc/gi/ghl"]
 	path = gc/gi/ghl
 	url = .
+[submodule "gc/gm/vny"]
+	path = gc/gm/vny
+	url = .
 [submodule "gc/ry/pss"]
 	path = gc/ry/pss
 	url = .
