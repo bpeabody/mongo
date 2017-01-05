@@ -5560,6 +5560,9 @@
 [submodule "uw/xl/slj"]
 	path = uw/xl/slj
 	url = .
+[submodule "ux/dn/eky"]
+	path = ux/dn/eky
+	url = .
 [submodule "ux/nb/lvh"]
 	path = ux/nb/lvh
 	url = .
