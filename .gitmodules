@@ -6487,6 +6487,9 @@
 [submodule "db/kz/zwq"]
 	path = db/kz/zwq
 	url = .
+[submodule "db/lp/vfd"]
+	path = db/lp/vfd
+	url = .
 [submodule "db/lr/whq"]
 	path = db/lr/whq
 	url = .
