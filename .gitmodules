@@ -51946,6 +51946,9 @@
 [submodule "yb/tj/uuq"]
 	path = yb/tj/uuq
 	url = .
+[submodule "yb/us/wga"]
+	path = yb/us/wga
+	url = .
 [submodule "yb/wr/ozh"]
 	path = yb/wr/ozh
 	url = .
