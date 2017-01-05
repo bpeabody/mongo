@@ -32761,6 +32761,9 @@
 [submodule "la/ao/bes"]
 	path = la/ao/bes
 	url = .
+[submodule "la/bf/uqr"]
+	path = la/bf/uqr
+	url = .
 [submodule "la/ck/nbd"]
 	path = la/ck/nbd
 	url = .
