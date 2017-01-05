@@ -24649,6 +24649,9 @@
 [submodule "ud/ll/qtv"]
 	path = ud/ll/qtv
 	url = .
+[submodule "ud/lp/rvr"]
+	path = ud/lp/rvr
+	url = .
 [submodule "ud/md/aco"]
 	path = ud/md/aco
 	url = .
