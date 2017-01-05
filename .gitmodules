@@ -2044,6 +2044,9 @@
 [submodule "hw/ip/zem"]
 	path = hw/ip/zem
 	url = .
+[submodule "hw/tk/tqt"]
+	path = hw/tk/tqt
+	url = .
 [submodule "hx/bg/aah"]
 	path = hx/bg/aah
 	url = .
