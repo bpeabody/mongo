@@ -2428,6 +2428,9 @@
 [submodule "dr/nr/zly"]
 	path = dr/nr/zly
 	url = .
+[submodule "dr/pl/pao"]
+	path = dr/pl/pao
+	url = .
 [submodule "dr/sv/qba"]
 	path = dr/sv/qba
 	url = .
