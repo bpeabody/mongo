@@ -2251,6 +2251,9 @@
 [submodule "bt/xc/bcj"]
 	path = bt/xc/bcj
 	url = .
+[submodule "bt/xd/crm"]
+	path = bt/xd/crm
+	url = .
 [submodule "bt/xi/zis"]
 	path = bt/xi/zis
 	url = .
