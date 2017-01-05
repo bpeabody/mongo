@@ -60988,6 +60988,9 @@
 [submodule "zh/ku/evn"]
 	path = zh/ku/evn
 	url = .
+[submodule "zh/mh/vsy"]
+	path = zh/mh/vsy
+	url = .
 [submodule "zh/mq/zun"]
 	path = zh/mq/zun
 	url = .
