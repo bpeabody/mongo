@@ -5449,6 +5449,9 @@
 [submodule "wa/mi/aww"]
 	path = wa/mi/aww
 	url = .
+[submodule "wa/nl/vmr"]
+	path = wa/nl/vmr
+	url = .
 [submodule "wb/iv/qhz"]
 	path = wb/iv/qhz
 	url = .
