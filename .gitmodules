@@ -38875,6 +38875,9 @@
 [submodule "yd/mh/fdp"]
 	path = yd/mh/fdp
 	url = .
+[submodule "yd/qd/qbe"]
+	path = yd/qd/qbe
+	url = .
 [submodule "yd/qp/wff"]
 	path = yd/qp/wff
 	url = .
