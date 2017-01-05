@@ -50884,6 +50884,9 @@
 [submodule "wr/tl/eau"]
 	path = wr/tl/eau
 	url = .
+[submodule "wr/ub/sju"]
+	path = wr/ub/sju
+	url = .
 [submodule "wr/uc/env"]
 	path = wr/uc/env
 	url = .
