@@ -1123,6 +1123,9 @@
 [submodule "et/ql/vhx"]
 	path = et/ql/vhx
 	url = .
+[submodule "et/za/nmv"]
+	path = et/za/nmv
+	url = .
 [submodule "eu/dh/mtb"]
 	path = eu/dh/mtb
 	url = .
