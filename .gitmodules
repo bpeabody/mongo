@@ -58441,6 +58441,9 @@
 [submodule "tj/ud/cqf"]
 	path = tj/ud/cqf
 	url = .
+[submodule "tj/wg/onk"]
+	path = tj/wg/onk
+	url = .
 [submodule "tj/wg/svo"]
 	path = tj/wg/svo
 	url = .
