@@ -12046,6 +12046,9 @@
 [submodule "ed/pb/pyq"]
 	path = ed/pb/pyq
 	url = .
+[submodule "ed/pr/zga"]
+	path = ed/pr/zga
+	url = .
 [submodule "ed/rb/wer"]
 	path = ed/rb/wer
 	url = .
