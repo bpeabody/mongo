@@ -20548,6 +20548,9 @@
 [submodule "px/cc/aig"]
 	path = px/cc/aig
 	url = .
+[submodule "px/dg/pra"]
+	path = px/dg/pra
+	url = .
 [submodule "px/dl/wwe"]
 	path = px/dl/wwe
 	url = .
