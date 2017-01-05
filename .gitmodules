@@ -18427,6 +18427,9 @@
 [submodule "go/pz/mjd"]
 	path = go/pz/mjd
 	url = .
+[submodule "go/qa/ara"]
+	path = go/qa/ara
+	url = .
 [submodule "go/rn/dmz"]
 	path = go/rn/dmz
 	url = .
