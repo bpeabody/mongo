@@ -2287,6 +2287,9 @@
 [submodule "ee/vs/lyn"]
 	path = ee/vs/lyn
 	url = .
+[submodule "ee/xt/cuo"]
+	path = ee/xt/cuo
+	url = .
 [submodule "ee/zg/owd"]
 	path = ee/zg/owd
 	url = .
