@@ -27916,6 +27916,9 @@
 [submodule "ti/ta/tcc"]
 	path = ti/ta/tcc
 	url = .
+[submodule "ti/we/jxp"]
+	path = ti/we/jxp
+	url = .
 [submodule "ti/xl/ntt"]
 	path = ti/xl/ntt
 	url = .
