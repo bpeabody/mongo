@@ -763,6 +763,9 @@
 [submodule "ah/ft/fmz"]
 	path = ah/ft/fmz
 	url = .
+[submodule "ah/gb/sdx"]
+	path = ah/gb/sdx
+	url = .
 [submodule "ah/gd/wow"]
 	path = ah/gd/wow
 	url = .
