@@ -2992,6 +2992,9 @@
 [submodule "bm/cs/lln"]
 	path = bm/cs/lln
 	url = .
+[submodule "bm/do/avi"]
+	path = bm/do/avi
+	url = .
 [submodule "bm/ei/byg"]
 	path = bm/ei/byg
 	url = .
