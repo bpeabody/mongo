@@ -6049,6 +6049,9 @@
 [submodule "cu/yn/cct"]
 	path = cu/yn/cct
 	url = .
+[submodule "cu/yn/mml"]
+	path = cu/yn/mml
+	url = .
 [submodule "cu/zl/qan"]
 	path = cu/zl/qan
 	url = .
