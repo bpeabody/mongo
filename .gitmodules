@@ -25330,6 +25330,9 @@
 [submodule "ta/kj/lpe"]
 	path = ta/kj/lpe
 	url = .
+[submodule "ta/kk/jtu"]
+	path = ta/kk/jtu
+	url = .
 [submodule "ta/md/cfr"]
 	path = ta/md/cfr
 	url = .
