@@ -8284,6 +8284,9 @@
 [submodule "je/uf/ish"]
 	path = je/uf/ish
 	url = .
+[submodule "je/yn/mbp"]
+	path = je/yn/mbp
+	url = .
 [submodule "je/zz/xyw"]
 	path = je/zz/xyw
 	url = .
