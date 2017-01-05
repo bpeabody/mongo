@@ -2935,6 +2935,9 @@
 [submodule "nn/hp/zjv"]
 	path = nn/hp/zjv
 	url = .
+[submodule "nn/vn/slo"]
+	path = nn/vn/slo
+	url = .
 [submodule "no/qw/oes"]
 	path = no/qw/oes
 	url = .
