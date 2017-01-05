@@ -31540,6 +31540,9 @@
 [submodule "kl/ue/dwr"]
 	path = kl/ue/dwr
 	url = .
+[submodule "kl/vi/ops"]
+	path = kl/vi/ops
+	url = .
 [submodule "kl/vu/aml"]
 	path = kl/vu/aml
 	url = .
