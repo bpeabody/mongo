@@ -5641,6 +5641,9 @@
 [submodule "fe/cq/ndn"]
 	path = fe/cq/ndn
 	url = .
+[submodule "fe/fb/oor"]
+	path = fe/fb/oor
+	url = .
 [submodule "fe/ff/cbs"]
 	path = fe/ff/cbs
 	url = .
