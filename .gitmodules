@@ -11002,6 +11002,9 @@
 [submodule "np/kd/key"]
 	path = np/kd/key
 	url = .
+[submodule "np/kd/qzf"]
+	path = np/kd/qzf
+	url = .
 [submodule "np/lr/dsy"]
 	path = np/lr/dsy
 	url = .
