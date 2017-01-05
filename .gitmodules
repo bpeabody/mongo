@@ -6628,6 +6628,9 @@
 [submodule "cq/bp/ago"]
 	path = cq/bp/ago
 	url = .
+[submodule "cq/eb/pbl"]
+	path = cq/eb/pbl
+	url = .
 [submodule "cq/fd/xcc"]
 	path = cq/fd/xcc
 	url = .
