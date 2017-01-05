@@ -139,6 +139,9 @@
 [submodule "pw/df/mqn"]
 	path = pw/df/mqn
 	url = .
+[submodule "pw/et/ktr"]
+	path = pw/et/ktr
+	url = .
 [submodule "qe/nj/vti"]
 	path = qe/nj/vti
 	url = .
