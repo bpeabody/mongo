@@ -65965,6 +65965,9 @@
 [submodule "we/cg/zxi"]
 	path = we/cg/zxi
 	url = .
+[submodule "we/dg/dwc"]
+	path = we/dg/dwc
+	url = .
 [submodule "we/ij/spt"]
 	path = we/ij/spt
 	url = .
