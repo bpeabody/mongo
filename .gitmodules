@@ -25984,6 +25984,9 @@
 [submodule "ku/bl/nuw"]
 	path = ku/bl/nuw
 	url = .
+[submodule "ku/bv/fdj"]
+	path = ku/bv/fdj
+	url = .
 [submodule "ku/cu/iru"]
 	path = ku/cu/iru
 	url = .
