@@ -32590,6 +32590,9 @@
 [submodule "yj/ke/ucd"]
 	path = yj/ke/ucd
 	url = .
+[submodule "yj/kr/iki"]
+	path = yj/kr/iki
+	url = .
 [submodule "yj/ld/lfd"]
 	path = yj/ld/lfd
 	url = .
