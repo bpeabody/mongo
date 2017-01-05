@@ -9652,6 +9652,9 @@
 [submodule "df/eq/yaw"]
 	path = df/eq/yaw
 	url = .
+[submodule "df/fd/hha"]
+	path = df/fd/hha
+	url = .
 [submodule "df/gx/vpr"]
 	path = df/gx/vpr
 	url = .
