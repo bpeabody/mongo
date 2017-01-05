@@ -34735,6 +34735,9 @@
 [submodule "ms/os/vns"]
 	path = ms/os/vns
 	url = .
+[submodule "ms/pw/uaq"]
+	path = ms/pw/uaq
+	url = .
 [submodule "ms/qc/htt"]
 	path = ms/qc/htt
 	url = .
