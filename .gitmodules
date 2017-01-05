@@ -10864,6 +10864,9 @@
 [submodule "dz/hp/pgm"]
 	path = dz/hp/pgm
 	url = .
+[submodule "dz/hu/dgf"]
+	path = dz/hu/dgf
+	url = .
 [submodule "dz/jt/hjr"]
 	path = dz/jt/hjr
 	url = .
