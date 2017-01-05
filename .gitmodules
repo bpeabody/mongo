@@ -24490,6 +24490,9 @@
 [submodule "kz/ka/rnd"]
 	path = kz/ka/rnd
 	url = .
+[submodule "kz/ln/zrk"]
+	path = kz/ln/zrk
+	url = .
 [submodule "kz/lq/zph"]
 	path = kz/lq/zph
 	url = .
