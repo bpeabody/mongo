@@ -4429,6 +4429,9 @@
 [submodule "hx/bg/aah"]
 	path = hx/bg/aah
 	url = .
+[submodule "hx/bo/enr"]
+	path = hx/bo/enr
+	url = .
 [submodule "hx/el/gge"]
 	path = hx/el/gge
 	url = .
