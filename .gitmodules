@@ -733,6 +733,9 @@
 [submodule "ah/db/zwf"]
 	path = ah/db/zwf
 	url = .
+[submodule "ah/ed/lgp"]
+	path = ah/ed/lgp
+	url = .
 [submodule "ah/fd/ivg"]
 	path = ah/fd/ivg
 	url = .
