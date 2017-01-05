@@ -2344,6 +2344,9 @@
 [submodule "ce/td/jsg"]
 	path = ce/td/jsg
 	url = .
+[submodule "ce/ti/qjm"]
+	path = ce/ti/qjm
+	url = .
 [submodule "ce/tw/jkn"]
 	path = ce/tw/jkn
 	url = .
