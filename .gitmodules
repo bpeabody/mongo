@@ -20677,6 +20677,9 @@
 [submodule "ix/fc/qdj"]
 	path = ix/fc/qdj
 	url = .
+[submodule "ix/fn/pnd"]
+	path = ix/fn/pnd
+	url = .
 [submodule "ix/gc/iwq"]
 	path = ix/gc/iwq
 	url = .
