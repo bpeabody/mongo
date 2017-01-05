@@ -4822,6 +4822,9 @@
 [submodule "el/tp/hxg"]
 	path = el/tp/hxg
 	url = .
+[submodule "el/xe/nea"]
+	path = el/xe/nea
+	url = .
 [submodule "el/yk/fzn"]
 	path = el/yk/fzn
 	url = .
