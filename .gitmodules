@@ -37822,6 +37822,9 @@
 [submodule "sx/jd/hel"]
 	path = sx/jd/hel
 	url = .
+[submodule "sx/jk/kes"]
+	path = sx/jk/kes
+	url = .
 [submodule "sx/js/uem"]
 	path = sx/js/uem
 	url = .
