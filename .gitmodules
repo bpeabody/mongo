@@ -11410,6 +11410,9 @@
 [submodule "lq/xm/eml"]
 	path = lq/xm/eml
 	url = .
+[submodule "lr/aj/nij"]
+	path = lr/aj/nij
+	url = .
 [submodule "lr/aq/kdr"]
 	path = lr/aq/kdr
 	url = .
