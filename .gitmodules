@@ -7,6 +7,9 @@
 [submodule "bi/kc/rba"]
 	path = bi/kc/rba
 	url = .
+[submodule "bl/tx/toa"]
+	path = bl/tx/toa
+	url = .
 [submodule "bx/hn/wwl"]
 	path = bx/hn/wwl
 	url = .
