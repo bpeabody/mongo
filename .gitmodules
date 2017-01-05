@@ -7537,6 +7537,9 @@
 [submodule "cy/ho/vpc"]
 	path = cy/ho/vpc
 	url = .
+[submodule "cy/hs/kel"]
+	path = cy/hs/kel
+	url = .
 [submodule "cy/iw/yim"]
 	path = cy/iw/yim
 	url = .
