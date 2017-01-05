@@ -20644,6 +20644,9 @@
 [submodule "im/mm/xsc"]
 	path = im/mm/xsc
 	url = .
+[submodule "im/mv/nhq"]
+	path = im/mv/nhq
+	url = .
 [submodule "im/oh/krf"]
 	path = im/oh/krf
 	url = .
