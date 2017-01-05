@@ -59125,6 +59125,9 @@
 [submodule "xx/lm/pya"]
 	path = xx/lm/pya
 	url = .
+[submodule "xx/lp/hcs"]
+	path = xx/lp/hcs
+	url = .
 [submodule "xx/om/xyc"]
 	path = xx/om/xyc
 	url = .
