@@ -1906,6 +1906,9 @@
 [submodule "mx/un/nui"]
 	path = mx/un/nui
 	url = .
+[submodule "mz/hc/hav"]
+	path = mz/hc/hav
+	url = .
 [submodule "mz/lh/pzc"]
 	path = mz/lh/pzc
 	url = .
