@@ -1873,6 +1873,9 @@
 [submodule "ca/wt/fav"]
 	path = ca/wt/fav
 	url = .
+[submodule "ca/ww/aid"]
+	path = ca/ww/aid
+	url = .
 [submodule "ca/wz/aur"]
 	path = ca/wz/aur
 	url = .
