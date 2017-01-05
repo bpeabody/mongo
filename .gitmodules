@@ -4306,6 +4306,9 @@
 [submodule "iz/mk/cqn"]
 	path = iz/mk/cqn
 	url = .
+[submodule "iz/qc/sno"]
+	path = iz/qc/sno
+	url = .
 [submodule "ja/ba/smw"]
 	path = ja/ba/smw
 	url = .
