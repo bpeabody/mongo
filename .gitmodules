@@ -29572,6 +29572,9 @@
 [submodule "lk/ua/xlx"]
 	path = lk/ua/xlx
 	url = .
+[submodule "lk/uq/oud"]
+	path = lk/uq/oud
+	url = .
 [submodule "lk/vk/pbu"]
 	path = lk/vk/pbu
 	url = .
