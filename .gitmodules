@@ -6607,6 +6607,9 @@
 [submodule "nm/ih/lyi"]
 	path = nm/ih/lyi
 	url = .
+[submodule "nm/ih/szz"]
+	path = nm/ih/szz
+	url = .
 [submodule "nm/oo/kpv"]
 	path = nm/oo/kpv
 	url = .
