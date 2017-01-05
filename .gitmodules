@@ -43363,6 +43363,9 @@
 [submodule "sm/df/fry"]
 	path = sm/df/fry
 	url = .
+[submodule "sm/dz/kbp"]
+	path = sm/dz/kbp
+	url = .
 [submodule "sm/ee/bxl"]
 	path = sm/ee/bxl
 	url = .
