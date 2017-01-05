@@ -20725,6 +20725,9 @@
 [submodule "on/rq/uqb"]
 	path = on/rq/uqb
 	url = .
+[submodule "on/rv/xqc"]
+	path = on/rv/xqc
+	url = .
 [submodule "on/ry/qvo"]
 	path = on/ry/qvo
 	url = .
