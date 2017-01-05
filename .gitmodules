@@ -40705,6 +40705,9 @@
 [submodule "xs/gu/onp"]
 	path = xs/gu/onp
 	url = .
+[submodule "xs/in/ryp"]
+	path = xs/in/ryp
+	url = .
 [submodule "xs/jd/fog"]
 	path = xs/jd/fog
 	url = .
