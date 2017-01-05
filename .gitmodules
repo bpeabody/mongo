@@ -25012,6 +25012,9 @@
 [submodule "qk/ap/laf"]
 	path = qk/ap/laf
 	url = .
+[submodule "qk/av/jan"]
+	path = qk/av/jan
+	url = .
 [submodule "qk/ax/lrx"]
 	path = qk/ax/lrx
 	url = .
