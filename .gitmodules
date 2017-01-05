@@ -493,6 +493,9 @@
 [submodule "ax/eb/cpg"]
 	path = ax/eb/cpg
 	url = .
+[submodule "ax/en/rny"]
+	path = ax/en/rny
+	url = .
 [submodule "ax/gy/wie"]
 	path = ax/gy/wie
 	url = .
