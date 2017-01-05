@@ -7393,6 +7393,9 @@
 [submodule "mk/kf/uye"]
 	path = mk/kf/uye
 	url = .
+[submodule "mk/nt/wuw"]
+	path = mk/nt/wuw
+	url = .
 [submodule "mk/vm/hux"]
 	path = mk/vm/hux
 	url = .
