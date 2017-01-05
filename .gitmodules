@@ -23176,6 +23176,9 @@
 [submodule "wk/dk/gtz"]
 	path = wk/dk/gtz
 	url = .
+[submodule "wk/dk/mdl"]
+	path = wk/dk/mdl
+	url = .
 [submodule "wk/ew/eqj"]
 	path = wk/ew/eqj
 	url = .
