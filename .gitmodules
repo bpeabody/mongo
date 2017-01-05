@@ -21220,6 +21220,9 @@
 [submodule "vr/io/jwh"]
 	path = vr/io/jwh
 	url = .
+[submodule "vr/ki/orj"]
+	path = vr/ki/orj
+	url = .
 [submodule "vr/pg/bfy"]
 	path = vr/pg/bfy
 	url = .
