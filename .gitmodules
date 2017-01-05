@@ -10978,6 +10978,9 @@
 [submodule "sm/tz/qhc"]
 	path = sm/tz/qhc
 	url = .
+[submodule "sm/ug/lbg"]
+	path = sm/ug/lbg
+	url = .
 [submodule "sm/vg/tep"]
 	path = sm/vg/tep
 	url = .
