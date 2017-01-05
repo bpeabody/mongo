@@ -10804,6 +10804,9 @@
 [submodule "ee/hp/hgg"]
 	path = ee/hp/hgg
 	url = .
+[submodule "ee/io/tdx"]
+	path = ee/io/tdx
+	url = .
 [submodule "ee/jj/bui"]
 	path = ee/jj/bui
 	url = .
