@@ -5293,6 +5293,9 @@
 [submodule "in/pc/lwm"]
 	path = in/pc/lwm
 	url = .
+[submodule "in/qe/oom"]
+	path = in/qe/oom
+	url = .
 [submodule "in/xe/zkt"]
 	path = in/xe/zkt
 	url = .
