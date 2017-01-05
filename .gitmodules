@@ -2248,6 +2248,9 @@
 [submodule "gm/db/uwm"]
 	path = gm/db/uwm
 	url = .
+[submodule "gm/gy/ori"]
+	path = gm/gy/ori
+	url = .
 [submodule "gm/pn/qce"]
 	path = gm/pn/qce
 	url = .
