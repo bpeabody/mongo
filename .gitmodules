@@ -2245,6 +2245,9 @@
 [submodule "eu/dh/mtb"]
 	path = eu/dh/mtb
 	url = .
+[submodule "eu/ey/mct"]
+	path = eu/ey/mct
+	url = .
 [submodule "eu/oj/lht"]
 	path = eu/oj/lht
 	url = .
