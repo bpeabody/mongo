@@ -10183,6 +10183,9 @@
 [submodule "dn/lq/hdo"]
 	path = dn/lq/hdo
 	url = .
+[submodule "dn/mj/sqm"]
+	path = dn/mj/sqm
+	url = .
 [submodule "dn/mk/bnb"]
 	path = dn/mk/bnb
 	url = .
