@@ -39097,6 +39097,9 @@
 [submodule "ua/tc/qgf"]
 	path = ua/tc/qgf
 	url = .
+[submodule "ua/tn/fyq"]
+	path = ua/tn/fyq
+	url = .
 [submodule "ua/un/hjs"]
 	path = ua/un/hjs
 	url = .
