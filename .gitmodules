@@ -4774,6 +4774,9 @@
 [submodule "cc/sx/yxi"]
 	path = cc/sx/yxi
 	url = .
+[submodule "cc/tc/khu"]
+	path = cc/tc/khu
+	url = .
 [submodule "cc/ts/qhh"]
 	path = cc/ts/qhh
 	url = .
