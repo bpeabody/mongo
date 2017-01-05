@@ -26230,6 +26230,9 @@
 [submodule "jj/go/onh"]
 	path = jj/go/onh
 	url = .
+[submodule "jj/gp/etq"]
+	path = jj/gp/etq
+	url = .
 [submodule "jj/he/fss"]
 	path = jj/he/fss
 	url = .
