@@ -3301,6 +3301,9 @@
 [submodule "fn/yd/sri"]
 	path = fn/yd/sri
 	url = .
+[submodule "fo/at/uzx"]
+	path = fo/at/uzx
+	url = .
 [submodule "fo/hh/cav"]
 	path = fo/hh/cav
 	url = .
