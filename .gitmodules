@@ -8605,6 +8605,9 @@
 [submodule "es/mp/bnz"]
 	path = es/mp/bnz
 	url = .
+[submodule "es/ng/llq"]
+	path = es/ng/llq
+	url = .
 [submodule "es/pi/jhr"]
 	path = es/pi/jhr
 	url = .
