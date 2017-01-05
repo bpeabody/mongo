@@ -14473,6 +14473,9 @@
 [submodule "ik/jo/agy"]
 	path = ik/jo/agy
 	url = .
+[submodule "ik/mn/wyi"]
+	path = ik/mn/wyi
+	url = .
 [submodule "ik/ms/wcn"]
 	path = ik/ms/wcn
 	url = .
