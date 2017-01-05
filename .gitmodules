@@ -27370,6 +27370,9 @@
 [submodule "oi/xc/wrh"]
 	path = oi/xc/wrh
 	url = .
+[submodule "oi/xl/qmn"]
+	path = oi/xl/qmn
+	url = .
 [submodule "oi/yr/jzr"]
 	path = oi/yr/jzr
 	url = .
