@@ -37720,6 +37720,9 @@
 [submodule "sr/cm/mqr"]
 	path = sr/cm/mqr
 	url = .
+[submodule "sr/ds/hhm"]
+	path = sr/ds/hhm
+	url = .
 [submodule "sr/dz/eez"]
 	path = sr/dz/eez
 	url = .
