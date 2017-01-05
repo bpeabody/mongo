@@ -40870,6 +40870,9 @@
 [submodule "pi/fk/qgo"]
 	path = pi/fk/qgo
 	url = .
+[submodule "pi/fk/umj"]
+	path = pi/fk/umj
+	url = .
 [submodule "pi/he/pxw"]
 	path = pi/he/pxw
 	url = .
