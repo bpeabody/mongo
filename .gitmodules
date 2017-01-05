@@ -3217,6 +3217,9 @@
 [submodule "ko/py/vwt"]
 	path = ko/py/vwt
 	url = .
+[submodule "ko/rn/ymf"]
+	path = ko/rn/ymf
+	url = .
 [submodule "ko/xh/ucl"]
 	path = ko/xh/ucl
 	url = .
