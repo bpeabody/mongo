@@ -3406,6 +3406,9 @@
 [submodule "bx/jy/pnd"]
 	path = bx/jy/pnd
 	url = .
+[submodule "bx/ln/soh"]
+	path = bx/ln/soh
+	url = .
 [submodule "bx/ls/zka"]
 	path = bx/ls/zka
 	url = .
