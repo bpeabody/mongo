@@ -40,6 +40,9 @@
 [submodule "aj/pu/gif"]
 	path = aj/pu/gif
 	url = .
+[submodule "ak/rj/zwu"]
+	path = ak/rj/zwu
+	url = .
 [submodule "am/nn/fdb"]
 	path = am/nn/fdb
 	url = .
