@@ -2944,6 +2944,9 @@
 [submodule "eo/bq/wxb"]
 	path = eo/bq/wxb
 	url = .
+[submodule "eo/dd/asm"]
+	path = eo/dd/asm
+	url = .
 [submodule "eo/hb/hnz"]
 	path = eo/hb/hnz
 	url = .
