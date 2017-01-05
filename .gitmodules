@@ -5044,6 +5044,9 @@
 [submodule "tu/kv/pff"]
 	path = tu/kv/pff
 	url = .
+[submodule "tu/or/cfi"]
+	path = tu/or/cfi
+	url = .
 [submodule "tu/zx/shz"]
 	path = tu/zx/shz
 	url = .
