@@ -79,6 +79,9 @@
 [submodule "ok/ce/akb"]
 	path = ok/ce/akb
 	url = .
+[submodule "ov/ct/cda"]
+	path = ov/ct/cda
+	url = .
 [submodule "pj/mu/hez"]
 	path = pj/mu/hez
 	url = .
