@@ -4198,6 +4198,9 @@
 [submodule "bm/ei/byg"]
 	path = bm/ei/byg
 	url = .
+[submodule "bm/ej/akz"]
+	path = bm/ej/akz
+	url = .
 [submodule "bm/fb/kau"]
 	path = bm/fb/kau
 	url = .
