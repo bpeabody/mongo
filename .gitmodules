@@ -33613,6 +33613,9 @@
 [submodule "qq/hg/mnq"]
 	path = qq/hg/mnq
 	url = .
+[submodule "qq/je/xvq"]
+	path = qq/je/xvq
+	url = .
 [submodule "qq/jf/mgf"]
 	path = qq/jf/mgf
 	url = .
