@@ -17650,6 +17650,9 @@
 [submodule "sa/pr/phc"]
 	path = sa/pr/phc
 	url = .
+[submodule "sa/ql/qpy"]
+	path = sa/ql/qpy
+	url = .
 [submodule "sa/qx/bxy"]
 	path = sa/qx/bxy
 	url = .
