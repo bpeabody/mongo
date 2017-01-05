@@ -14236,6 +14236,9 @@
 [submodule "fb/rw/eik"]
 	path = fb/rw/eik
 	url = .
+[submodule "fb/td/kqt"]
+	path = fb/td/kqt
+	url = .
 [submodule "fb/wn/sja"]
 	path = fb/wn/sja
 	url = .
