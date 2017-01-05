@@ -14155,6 +14155,9 @@
 [submodule "ga/aj/aes"]
 	path = ga/aj/aes
 	url = .
+[submodule "ga/cj/uay"]
+	path = ga/cj/uay
+	url = .
 [submodule "ga/dj/qsf"]
 	path = ga/dj/qsf
 	url = .
