@@ -3733,6 +3733,9 @@
 [submodule "bg/dl/aee"]
 	path = bg/dl/aee
 	url = .
+[submodule "bg/dq/buk"]
+	path = bg/dq/buk
+	url = .
 [submodule "bg/er/wjx"]
 	path = bg/er/wjx
 	url = .
