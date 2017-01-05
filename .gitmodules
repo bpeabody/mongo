@@ -9478,6 +9478,9 @@
 [submodule "js/wd/sab"]
 	path = js/wd/sab
 	url = .
+[submodule "jt/bs/zqq"]
+	path = jt/bs/zqq
+	url = .
 [submodule "jt/ff/dlg"]
 	path = jt/ff/dlg
 	url = .
