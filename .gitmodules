@@ -59986,6 +59986,9 @@
 [submodule "wq/iy/egs"]
 	path = wq/iy/egs
 	url = .
+[submodule "wq/jy/dqh"]
+	path = wq/jy/dqh
+	url = .
 [submodule "wq/kd/vjt"]
 	path = wq/kd/vjt
 	url = .
