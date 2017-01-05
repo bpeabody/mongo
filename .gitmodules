@@ -53536,6 +53536,9 @@
 [submodule "xc/dp/lwf"]
 	path = xc/dp/lwf
 	url = .
+[submodule "xc/dp/xil"]
+	path = xc/dp/xil
+	url = .
 [submodule "xc/dt/wbz"]
 	path = xc/dt/wbz
 	url = .
