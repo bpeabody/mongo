@@ -2767,6 +2767,9 @@
 [submodule "jg/kp/ikh"]
 	path = jg/kp/ikh
 	url = .
+[submodule "jg/li/vrd"]
+	path = jg/li/vrd
+	url = .
 [submodule "jg/uy/mjn"]
 	path = jg/uy/mjn
 	url = .
