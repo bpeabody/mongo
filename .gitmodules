@@ -3058,6 +3058,9 @@
 [submodule "gi/pd/oju"]
 	path = gi/pd/oju
 	url = .
+[submodule "gi/ro/nli"]
+	path = gi/ro/nli
+	url = .
 [submodule "gi/ta/yii"]
 	path = gi/ta/yii
 	url = .
