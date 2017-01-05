@@ -5581,6 +5581,9 @@
 [submodule "ei/tb/hjp"]
 	path = ei/tb/hjp
 	url = .
+[submodule "ei/uf/cdr"]
+	path = ei/uf/cdr
+	url = .
 [submodule "ei/wm/hnv"]
 	path = ei/wm/hnv
 	url = .
