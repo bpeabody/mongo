@@ -55375,6 +55375,9 @@
 [submodule "ym/cf/gaf"]
 	path = ym/cf/gaf
 	url = .
+[submodule "ym/cp/edp"]
+	path = ym/cp/edp
+	url = .
 [submodule "ym/dl/fym"]
 	path = ym/dl/fym
 	url = .
