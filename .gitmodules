@@ -24235,6 +24235,9 @@
 [submodule "zs/nq/qeg"]
 	path = zs/nq/qeg
 	url = .
+[submodule "zs/og/hsm"]
+	path = zs/og/hsm
+	url = .
 [submodule "zs/rh/oif"]
 	path = zs/rh/oif
 	url = .
