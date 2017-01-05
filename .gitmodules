@@ -50404,6 +50404,9 @@
 [submodule "zh/pn/tsn"]
 	path = zh/pn/tsn
 	url = .
+[submodule "zh/po/xnj"]
+	path = zh/po/xnj
+	url = .
 [submodule "zh/qg/cws"]
 	path = zh/qg/cws
 	url = .
