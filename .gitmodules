@@ -25999,6 +25999,9 @@
 [submodule "vs/iu/bug"]
 	path = vs/iu/bug
 	url = .
+[submodule "vs/jr/nay"]
+	path = vs/jr/nay
+	url = .
 [submodule "vs/mg/bqx"]
 	path = vs/mg/bqx
 	url = .
