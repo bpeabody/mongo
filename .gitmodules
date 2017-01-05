@@ -19234,6 +19234,9 @@
 [submodule "ta/jx/veu"]
 	path = ta/jx/veu
 	url = .
+[submodule "ta/kc/oid"]
+	path = ta/kc/oid
+	url = .
 [submodule "ta/kj/lpe"]
 	path = ta/kj/lpe
 	url = .
