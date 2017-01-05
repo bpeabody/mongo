@@ -733,6 +733,9 @@
 [submodule "tl/ru/ggg"]
 	path = tl/ru/ggg
 	url = .
+[submodule "tn/ku/lqh"]
+	path = tn/ku/lqh
+	url = .
 [submodule "tq/lg/kin"]
 	path = tq/lg/kin
 	url = .
