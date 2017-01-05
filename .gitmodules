@@ -13963,6 +13963,9 @@
 [submodule "wr/ca/keh"]
 	path = wr/ca/keh
 	url = .
+[submodule "wr/ck/jqa"]
+	path = wr/ck/jqa
+	url = .
 [submodule "wr/et/yux"]
 	path = wr/et/yux
 	url = .
