@@ -9358,6 +9358,9 @@
 [submodule "kq/pk/ark"]
 	path = kq/pk/ark
 	url = .
+[submodule "kq/vl/msw"]
+	path = kq/vl/msw
+	url = .
 [submodule "kq/vm/ozg"]
 	path = kq/vm/ozg
 	url = .
