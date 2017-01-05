@@ -766,6 +766,9 @@
 [submodule "bg/ax/rzw"]
 	path = bg/ax/rzw
 	url = .
+[submodule "bg/es/qfb"]
+	path = bg/es/qfb
+	url = .
 [submodule "bg/gi/kpo"]
 	path = bg/gi/kpo
 	url = .
