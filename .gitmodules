@@ -55597,6 +55597,9 @@
 [submodule "tk/od/mrf"]
 	path = tk/od/mrf
 	url = .
+[submodule "tk/og/nkr"]
+	path = tk/og/nkr
+	url = .
 [submodule "tk/pg/pnq"]
 	path = tk/pg/pnq
 	url = .
