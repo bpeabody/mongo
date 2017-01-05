@@ -1240,6 +1240,9 @@
 [submodule "ef/zj/iyr"]
 	path = ef/zj/iyr
 	url = .
+[submodule "eg/en/qth"]
+	path = eg/en/qth
+	url = .
 [submodule "eh/iu/vlw"]
 	path = eh/iu/vlw
 	url = .
