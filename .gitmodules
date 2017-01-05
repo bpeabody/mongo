@@ -4822,6 +4822,9 @@
 [submodule "wm/xu/zug"]
 	path = wm/xu/zug
 	url = .
+[submodule "wn/du/hak"]
+	path = wn/du/hak
+	url = .
 [submodule "wn/nq/yug"]
 	path = wn/nq/yug
 	url = .
