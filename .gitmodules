@@ -18115,6 +18115,9 @@
 [submodule "od/dl/isb"]
 	path = od/dl/isb
 	url = .
+[submodule "od/dm/nuu"]
+	path = od/dm/nuu
+	url = .
 [submodule "od/fm/prp"]
 	path = od/fm/prp
 	url = .
