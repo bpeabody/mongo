@@ -6142,6 +6142,9 @@
 [submodule "vg/ih/jvi"]
 	path = vg/ih/jvi
 	url = .
+[submodule "vg/xc/opq"]
+	path = vg/xc/opq
+	url = .
 [submodule "vh/cw/xsr"]
 	path = vh/cw/xsr
 	url = .
