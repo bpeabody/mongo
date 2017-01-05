@@ -50479,6 +50479,9 @@
 [submodule "tz/gv/tyy"]
 	path = tz/gv/tyy
 	url = .
+[submodule "tz/ha/hyl"]
+	path = tz/ha/hyl
+	url = .
 [submodule "tz/hg/kgf"]
 	path = tz/hg/kgf
 	url = .
