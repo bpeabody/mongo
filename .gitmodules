@@ -2290,6 +2290,9 @@
 [submodule "as/wa/cnl"]
 	path = as/wa/cnl
 	url = .
+[submodule "as/xn/dft"]
+	path = as/xn/dft
+	url = .
 [submodule "as/xx/rcw"]
 	path = as/xx/rcw
 	url = .
