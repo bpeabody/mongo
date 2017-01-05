@@ -970,6 +970,9 @@
 [submodule "aq/fg/lrb"]
 	path = aq/fg/lrb
 	url = .
+[submodule "aq/fq/plj"]
+	path = aq/fq/plj
+	url = .
 [submodule "aq/ih/lpb"]
 	path = aq/ih/lpb
 	url = .
