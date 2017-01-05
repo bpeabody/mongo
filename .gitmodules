@@ -1777,6 +1777,9 @@
 [submodule "ap/kk/gaf"]
 	path = ap/kk/gaf
 	url = .
+[submodule "ap/ln/qbn"]
+	path = ap/ln/qbn
+	url = .
 [submodule "ap/lv/jgx"]
 	path = ap/lv/jgx
 	url = .
