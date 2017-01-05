@@ -37567,6 +37567,9 @@
 [submodule "ri/bm/jma"]
 	path = ri/bm/jma
 	url = .
+[submodule "ri/bs/nfo"]
+	path = ri/bs/nfo
+	url = .
 [submodule "ri/cx/gsk"]
 	path = ri/cx/gsk
 	url = .
