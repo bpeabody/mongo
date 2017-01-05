@@ -34642,6 +34642,9 @@
 [submodule "ra/bo/ejz"]
 	path = ra/bo/ejz
 	url = .
+[submodule "ra/cq/fvs"]
+	path = ra/cq/fvs
+	url = .
 [submodule "ra/ds/aqw"]
 	path = ra/ds/aqw
 	url = .
