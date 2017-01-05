@@ -1801,6 +1801,9 @@
 [submodule "au/dm/gfo"]
 	path = au/dm/gfo
 	url = .
+[submodule "au/eb/siu"]
+	path = au/eb/siu
+	url = .
 [submodule "au/eq/srg"]
 	path = au/eq/srg
 	url = .
