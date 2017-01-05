@@ -15265,6 +15265,9 @@
 [submodule "vg/pt/bst"]
 	path = vg/pt/bst
 	url = .
+[submodule "vg/pw/vdm"]
+	path = vg/pw/vdm
+	url = .
 [submodule "vg/px/ksh"]
 	path = vg/px/ksh
 	url = .
