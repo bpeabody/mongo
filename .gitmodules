@@ -12079,6 +12079,9 @@
 [submodule "fu/gp/vzw"]
 	path = fu/gp/vzw
 	url = .
+[submodule "fu/gq/ans"]
+	path = fu/gq/ans
+	url = .
 [submodule "fu/ig/zgr"]
 	path = fu/ig/zgr
 	url = .
