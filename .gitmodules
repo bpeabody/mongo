@@ -36925,6 +36925,9 @@
 [submodule "xm/jr/qhp"]
 	path = xm/jr/qhp
 	url = .
+[submodule "xm/kx/jxb"]
+	path = xm/kx/jxb
+	url = .
 [submodule "xm/ly/vps"]
 	path = xm/ly/vps
 	url = .
