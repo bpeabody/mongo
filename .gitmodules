@@ -5269,6 +5269,9 @@
 [submodule "ep/oh/slo"]
 	path = ep/oh/slo
 	url = .
+[submodule "ep/oo/sdy"]
+	path = ep/oo/sdy
+	url = .
 [submodule "ep/sr/pjb"]
 	path = ep/sr/pjb
 	url = .
