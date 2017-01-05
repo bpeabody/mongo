@@ -23536,6 +23536,9 @@
 [submodule "nu/hv/mdv"]
 	path = nu/hv/mdv
 	url = .
+[submodule "nu/ir/vqh"]
+	path = nu/ir/vqh
+	url = .
 [submodule "nu/ml/eea"]
 	path = nu/ml/eea
 	url = .
