@@ -57082,6 +57082,9 @@
 [submodule "wn/us/whk"]
 	path = wn/us/whk
 	url = .
+[submodule "wn/uy/nxb"]
+	path = wn/uy/nxb
+	url = .
 [submodule "wn/ya/wod"]
 	path = wn/ya/wod
 	url = .
