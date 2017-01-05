@@ -45646,6 +45646,9 @@
 [submodule "pa/me/cgz"]
 	path = pa/me/cgz
 	url = .
+[submodule "pa/mq/xny"]
+	path = pa/mq/xny
+	url = .
 [submodule "pa/nb/ppj"]
 	path = pa/nb/ppj
 	url = .
