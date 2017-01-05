@@ -487,6 +487,9 @@
 [submodule "ep/su/bob"]
 	path = ep/su/bob
 	url = .
+[submodule "ep/uq/urb"]
+	path = ep/uq/urb
+	url = .
 [submodule "er/pl/ybq"]
 	path = er/pl/ybq
 	url = .
