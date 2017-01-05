@@ -376,6 +376,9 @@
 [submodule "ad/ib/wwy"]
 	path = ad/ib/wwy
 	url = .
+[submodule "ad/jj/xgc"]
+	path = ad/jj/xgc
+	url = .
 [submodule "ad/jt/lkv"]
 	path = ad/jt/lkv
 	url = .
