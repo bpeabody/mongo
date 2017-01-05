@@ -19927,6 +19927,9 @@
 [submodule "kc/az/dsp"]
 	path = kc/az/dsp
 	url = .
+[submodule "kc/bp/yga"]
+	path = kc/bp/yga
+	url = .
 [submodule "kc/bq/iwt"]
 	path = kc/bq/iwt
 	url = .
