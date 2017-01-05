@@ -11020,6 +11020,9 @@
 [submodule "ev/hp/ofr"]
 	path = ev/hp/ofr
 	url = .
+[submodule "ev/ib/sku"]
+	path = ev/ib/sku
+	url = .
 [submodule "ev/ir/qrw"]
 	path = ev/ir/qrw
 	url = .
