@@ -820,6 +820,9 @@
 [submodule "aj/hz/jmh"]
 	path = aj/hz/jmh
 	url = .
+[submodule "aj/jm/kgw"]
+	path = aj/jm/kgw
+	url = .
 [submodule "aj/my/kip"]
 	path = aj/my/kip
 	url = .
