@@ -15625,6 +15625,9 @@
 [submodule "uv/kq/bjx"]
 	path = uv/kq/bjx
 	url = .
+[submodule "uv/lb/vkt"]
+	path = uv/lb/vkt
+	url = .
 [submodule "uv/lu/nbr"]
 	path = uv/lu/nbr
 	url = .
