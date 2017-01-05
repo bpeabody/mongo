@@ -37195,6 +37195,9 @@
 [submodule "mr/lm/ulp"]
 	path = mr/lm/ulp
 	url = .
+[submodule "mr/lv/vyo"]
+	path = mr/lv/vyo
+	url = .
 [submodule "mr/mz/igq"]
 	path = mr/mz/igq
 	url = .
