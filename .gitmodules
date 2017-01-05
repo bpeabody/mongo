@@ -31492,6 +31492,9 @@
 [submodule "ly/dc/avx"]
 	path = ly/dc/avx
 	url = .
+[submodule "ly/do/jgk"]
+	path = ly/do/jgk
+	url = .
 [submodule "ly/dp/vsf"]
 	path = ly/dp/vsf
 	url = .
