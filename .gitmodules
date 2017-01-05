@@ -23923,6 +23923,9 @@
 [submodule "qf/uc/ksh"]
 	path = qf/uc/ksh
 	url = .
+[submodule "qf/ud/hdf"]
+	path = qf/ud/hdf
+	url = .
 [submodule "qf/xn/ivb"]
 	path = qf/xn/ivb
 	url = .
