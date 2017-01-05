@@ -15139,6 +15139,9 @@
 [submodule "fq/xg/chk"]
 	path = fq/xg/chk
 	url = .
+[submodule "fq/xm/cbr"]
+	path = fq/xm/cbr
+	url = .
 [submodule "fq/xn/cfg"]
 	path = fq/xn/cfg
 	url = .
