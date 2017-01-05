@@ -6076,6 +6076,9 @@
 [submodule "gu/vu/rlt"]
 	path = gu/vu/rlt
 	url = .
+[submodule "gu/xb/cik"]
+	path = gu/xb/cik
+	url = .
 [submodule "gv/bg/ztf"]
 	path = gv/bg/ztf
 	url = .
