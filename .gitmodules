@@ -38041,6 +38041,9 @@
 [submodule "ru/ux/mxe"]
 	path = ru/ux/mxe
 	url = .
+[submodule "ru/vk/lqg"]
+	path = ru/vk/lqg
+	url = .
 [submodule "ru/vq/mmk"]
 	path = ru/vq/mmk
 	url = .
