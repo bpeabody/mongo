@@ -2887,6 +2887,9 @@
 [submodule "kr/it/ixr"]
 	path = kr/it/ixr
 	url = .
+[submodule "kr/ll/lbp"]
+	path = kr/ll/lbp
+	url = .
 [submodule "kr/ps/iem"]
 	path = kr/ps/iem
 	url = .
