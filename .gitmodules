@@ -29188,6 +29188,9 @@
 [submodule "rq/xc/hno"]
 	path = rq/xc/hno
 	url = .
+[submodule "rq/yi/ggu"]
+	path = rq/yi/ggu
+	url = .
 [submodule "rr/da/lwo"]
 	path = rr/da/lwo
 	url = .
