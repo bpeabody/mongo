@@ -10870,6 +10870,9 @@
 [submodule "fu/vv/uqv"]
 	path = fu/vv/uqv
 	url = .
+[submodule "fu/we/sip"]
+	path = fu/we/sip
+	url = .
 [submodule "fu/xu/vfo"]
 	path = fu/xu/vfo
 	url = .
