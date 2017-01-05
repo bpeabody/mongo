@@ -16240,6 +16240,9 @@
 [submodule "jq/oo/ozu"]
 	path = jq/oo/ozu
 	url = .
+[submodule "jq/oq/bke"]
+	path = jq/oq/bke
+	url = .
 [submodule "jq/oq/nsg"]
 	path = jq/oq/nsg
 	url = .
