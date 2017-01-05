@@ -48106,6 +48106,9 @@
 [submodule "wn/up/aga"]
 	path = wn/up/aga
 	url = .
+[submodule "wn/us/whk"]
+	path = wn/us/whk
+	url = .
 [submodule "wn/ya/wod"]
 	path = wn/ya/wod
 	url = .
