@@ -44926,6 +44926,9 @@
 [submodule "se/me/aor"]
 	path = se/me/aor
 	url = .
+[submodule "se/mr/vjo"]
+	path = se/mr/vjo
+	url = .
 [submodule "se/ow/qqk"]
 	path = se/ow/qqk
 	url = .
