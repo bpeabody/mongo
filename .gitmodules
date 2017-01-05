@@ -8386,6 +8386,9 @@
 [submodule "sa/ur/xvt"]
 	path = sa/ur/xvt
 	url = .
+[submodule "sa/uu/dya"]
+	path = sa/uu/dya
+	url = .
 [submodule "sb/na/neo"]
 	path = sb/na/neo
 	url = .
