@@ -22852,6 +22852,9 @@
 [submodule "ir/bj/ewt"]
 	path = ir/bj/ewt
 	url = .
+[submodule "ir/cd/zqk"]
+	path = ir/cd/zqk
+	url = .
 [submodule "ir/cv/mbb"]
 	path = ir/cv/mbb
 	url = .
