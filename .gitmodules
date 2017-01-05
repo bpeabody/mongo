@@ -4804,6 +4804,9 @@
 [submodule "he/zg/bmb"]
 	path = he/zg/bmb
 	url = .
+[submodule "hf/ab/rsk"]
+	path = hf/ab/rsk
+	url = .
 [submodule "hf/al/ksf"]
 	path = hf/al/ksf
 	url = .
