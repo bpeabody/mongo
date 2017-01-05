@@ -25840,6 +25840,9 @@
 [submodule "ss/mp/zow"]
 	path = ss/mp/zow
 	url = .
+[submodule "ss/mt/lkl"]
+	path = ss/mt/lkl
+	url = .
 [submodule "ss/ou/die"]
 	path = ss/ou/die
 	url = .
