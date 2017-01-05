@@ -5251,6 +5251,9 @@
 [submodule "de/pc/aac"]
 	path = de/pc/aac
 	url = .
+[submodule "de/sj/xmf"]
+	path = de/sj/xmf
+	url = .
 [submodule "de/vq/fyo"]
 	path = de/vq/fyo
 	url = .
