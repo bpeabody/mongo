@@ -54817,6 +54817,9 @@
 [submodule "tx/mh/auj"]
 	path = tx/mh/auj
 	url = .
+[submodule "tx/mo/sxg"]
+	path = tx/mo/sxg
+	url = .
 [submodule "tx/ov/eez"]
 	path = tx/ov/eez
 	url = .
