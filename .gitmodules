@@ -29311,6 +29311,9 @@
 [submodule "zq/az/ieq"]
 	path = zq/az/ieq
 	url = .
+[submodule "zq/by/lfw"]
+	path = zq/by/lfw
+	url = .
 [submodule "zq/ek/ola"]
 	path = zq/ek/ola
 	url = .
