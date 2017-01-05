@@ -31861,6 +31861,9 @@
 [submodule "vc/gb/sgb"]
 	path = vc/gb/sgb
 	url = .
+[submodule "vc/gt/gqo"]
+	path = vc/gt/gqo
+	url = .
 [submodule "vc/hk/tvj"]
 	path = vc/hk/tvj
 	url = .
