@@ -67096,6 +67096,9 @@
 [submodule "yd/sd/pal"]
 	path = yd/sd/pal
 	url = .
+[submodule "yd/tn/xvv"]
+	path = yd/tn/xvv
+	url = .
 [submodule "yd/wz/rlf"]
 	path = yd/wz/rlf
 	url = .
