@@ -2770,6 +2770,9 @@
 [submodule "zb/hs/jto"]
 	path = zb/hs/jto
 	url = .
+[submodule "zb/rp/lbm"]
+	path = zb/rp/lbm
+	url = .
 [submodule "zc/lr/fyd"]
 	path = zc/lr/fyd
 	url = .
