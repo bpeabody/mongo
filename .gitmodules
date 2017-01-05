@@ -51046,6 +51046,9 @@
 [submodule "ti/bt/ruc"]
 	path = ti/bt/ruc
 	url = .
+[submodule "ti/bu/bod"]
+	path = ti/bu/bod
+	url = .
 [submodule "ti/ce/lue"]
 	path = ti/ce/lue
 	url = .
