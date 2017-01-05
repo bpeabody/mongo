@@ -6229,6 +6229,9 @@
 [submodule "oe/pk/tub"]
 	path = oe/pk/tub
 	url = .
+[submodule "oe/qt/gef"]
+	path = oe/qt/gef
+	url = .
 [submodule "oe/vi/xfd"]
 	path = oe/vi/xfd
 	url = .
