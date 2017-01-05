@@ -8206,6 +8206,9 @@
 [submodule "lm/fz/tyq"]
 	path = lm/fz/tyq
 	url = .
+[submodule "lm/gn/vis"]
+	path = lm/gn/vis
+	url = .
 [submodule "lm/ik/hqo"]
 	path = lm/ik/hqo
 	url = .
