@@ -2482,6 +2482,9 @@
 [submodule "fq/kv/gul"]
 	path = fq/kv/gul
 	url = .
+[submodule "fq/oi/nvy"]
+	path = fq/oi/nvy
+	url = .
 [submodule "fq/ux/uhj"]
 	path = fq/ux/uhj
 	url = .
