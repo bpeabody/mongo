@@ -175,6 +175,9 @@
 [submodule "af/rd/hfb"]
 	path = af/rd/hfb
 	url = .
+[submodule "af/rs/awh"]
+	path = af/rs/awh
+	url = .
 [submodule "af/so/yoz"]
 	path = af/so/yoz
 	url = .
