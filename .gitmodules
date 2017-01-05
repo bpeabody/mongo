@@ -11929,6 +11929,9 @@
 [submodule "kd/br/xxg"]
 	path = kd/br/xxg
 	url = .
+[submodule "kd/da/pys"]
+	path = kd/da/pys
+	url = .
 [submodule "kd/he/gyd"]
 	path = kd/he/gyd
 	url = .
