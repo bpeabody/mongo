@@ -4480,6 +4480,9 @@
 [submodule "do/ve/ero"]
 	path = do/ve/ero
 	url = .
+[submodule "do/wh/nec"]
+	path = do/wh/nec
+	url = .
 [submodule "do/wz/fgi"]
 	path = do/wz/fgi
 	url = .
