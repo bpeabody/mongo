@@ -15400,6 +15400,9 @@
 [submodule "rt/yw/ddd"]
 	path = rt/yw/ddd
 	url = .
+[submodule "ru/dc/vtp"]
+	path = ru/dc/vtp
+	url = .
 [submodule "ru/ey/npj"]
 	path = ru/ey/npj
 	url = .
