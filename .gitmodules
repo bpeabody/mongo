@@ -7273,6 +7273,9 @@
 [submodule "ef/lf/tes"]
 	path = ef/lf/tes
 	url = .
+[submodule "ef/li/zrd"]
+	path = ef/li/zrd
+	url = .
 [submodule "ef/nu/xaj"]
 	path = ef/nu/xaj
 	url = .
