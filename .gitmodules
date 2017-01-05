@@ -14578,6 +14578,9 @@
 [submodule "mn/qg/erb"]
 	path = mn/qg/erb
 	url = .
+[submodule "mn/qy/xix"]
+	path = mn/qy/xix
+	url = .
 [submodule "mn/ua/pgv"]
 	path = mn/ua/pgv
 	url = .
