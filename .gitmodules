@@ -62563,6 +62563,9 @@
 [submodule "wn/th/ian"]
 	path = wn/th/ian
 	url = .
+[submodule "wn/ul/bnw"]
+	path = wn/ul/bnw
+	url = .
 [submodule "wn/up/aga"]
 	path = wn/up/aga
 	url = .
