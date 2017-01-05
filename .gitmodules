@@ -21736,6 +21736,9 @@
 [submodule "oe/pk/tub"]
 	path = oe/pk/tub
 	url = .
+[submodule "oe/pz/bci"]
+	path = oe/pz/bci
+	url = .
 [submodule "oe/qt/gef"]
 	path = oe/qt/gef
 	url = .
