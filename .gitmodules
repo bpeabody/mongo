@@ -1402,6 +1402,9 @@
 [submodule "em/fy/xhf"]
 	path = em/fy/xhf
 	url = .
+[submodule "em/ja/xvv"]
+	path = em/ja/xvv
+	url = .
 [submodule "em/me/irr"]
 	path = em/me/irr
 	url = .
