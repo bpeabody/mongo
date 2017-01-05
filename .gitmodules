@@ -13765,6 +13765,9 @@
 [submodule "ii/ir/kwa"]
 	path = ii/ir/kwa
 	url = .
+[submodule "ii/jc/zgs"]
+	path = ii/jc/zgs
+	url = .
 [submodule "ii/kb/qgu"]
 	path = ii/kb/qgu
 	url = .
