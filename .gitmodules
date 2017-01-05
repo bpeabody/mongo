@@ -25465,6 +25465,9 @@
 [submodule "ja/hd/ekd"]
 	path = ja/hd/ekd
 	url = .
+[submodule "ja/hd/sap"]
+	path = ja/hd/sap
+	url = .
 [submodule "ja/me/ggh"]
 	path = ja/me/ggh
 	url = .
