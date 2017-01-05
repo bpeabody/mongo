@@ -16351,6 +16351,9 @@
 [submodule "jh/jq/tfe"]
 	path = jh/jq/tfe
 	url = .
+[submodule "jh/ka/nmd"]
+	path = jh/ka/nmd
+	url = .
 [submodule "jh/ky/zce"]
 	path = jh/ky/zce
 	url = .
