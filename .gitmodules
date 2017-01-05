@@ -10483,6 +10483,9 @@
 [submodule "kk/yj/ldm"]
 	path = kk/yj/ldm
 	url = .
+[submodule "kk/yz/vup"]
+	path = kk/yz/vup
+	url = .
 [submodule "kl/cq/vgc"]
 	path = kl/cq/vgc
 	url = .
