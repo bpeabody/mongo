@@ -4387,6 +4387,9 @@
 [submodule "hv/es/bcn"]
 	path = hv/es/bcn
 	url = .
+[submodule "hv/fo/mxw"]
+	path = hv/fo/mxw
+	url = .
 [submodule "hv/gr/miy"]
 	path = hv/gr/miy
 	url = .
