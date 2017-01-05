@@ -42883,6 +42883,9 @@
 [submodule "ru/yt/eor"]
 	path = ru/yt/eor
 	url = .
+[submodule "rv/ap/ppl"]
+	path = rv/ap/ppl
+	url = .
 [submodule "rv/at/kqt"]
 	path = rv/at/kqt
 	url = .
