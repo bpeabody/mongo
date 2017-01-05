@@ -13552,6 +13552,9 @@
 [submodule "nw/wq/hse"]
 	path = nw/wq/hse
 	url = .
+[submodule "nw/xn/ffn"]
+	path = nw/xn/ffn
+	url = .
 [submodule "nx/bs/wir"]
 	path = nx/bs/wir
 	url = .
