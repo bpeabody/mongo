@@ -16174,6 +16174,9 @@
 [submodule "mc/sh/tqj"]
 	path = mc/sh/tqj
 	url = .
+[submodule "mc/tc/wlc"]
+	path = mc/tc/wlc
+	url = .
 [submodule "md/bw/xac"]
 	path = md/bw/xac
 	url = .
