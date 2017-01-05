@@ -358,6 +358,9 @@
 [submodule "al/tc/vmi"]
 	path = al/tc/vmi
 	url = .
+[submodule "al/uk/fqf"]
+	path = al/uk/fqf
+	url = .
 [submodule "am/bn/bmr"]
 	path = am/bn/bmr
 	url = .
