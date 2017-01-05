@@ -3529,6 +3529,9 @@
 [submodule "cu/jt/dea"]
 	path = cu/jt/dea
 	url = .
+[submodule "cu/nr/wuu"]
+	path = cu/nr/wuu
+	url = .
 [submodule "cu/sw/mei"]
 	path = cu/sw/mei
 	url = .
