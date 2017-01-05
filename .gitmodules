@@ -15787,6 +15787,9 @@
 [submodule "oj/nz/uwa"]
 	path = oj/nz/uwa
 	url = .
+[submodule "oj/od/bij"]
+	path = oj/od/bij
+	url = .
 [submodule "oj/qr/xsu"]
 	path = oj/qr/xsu
 	url = .
