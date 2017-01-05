@@ -52924,6 +52924,9 @@
 [submodule "wx/ic/cuv"]
 	path = wx/ic/cuv
 	url = .
+[submodule "wx/it/cun"]
+	path = wx/it/cun
+	url = .
 [submodule "wx/jh/ujs"]
 	path = wx/jh/ujs
 	url = .
