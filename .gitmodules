@@ -6895,6 +6895,9 @@
 [submodule "nx/lv/ivy"]
 	path = nx/lv/ivy
 	url = .
+[submodule "nx/qt/itx"]
+	path = nx/qt/itx
+	url = .
 [submodule "nx/ug/ghp"]
 	path = nx/ug/ghp
 	url = .
