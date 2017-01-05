@@ -1354,6 +1354,9 @@
 [submodule "bo/rq/nhm"]
 	path = bo/rq/nhm
 	url = .
+[submodule "bo/rs/jnn"]
+	path = bo/rs/jnn
+	url = .
 [submodule "bo/vv/juz"]
 	path = bo/vv/juz
 	url = .
