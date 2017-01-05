@@ -56938,6 +56938,9 @@
 [submodule "wk/sq/ryx"]
 	path = wk/sq/ryx
 	url = .
+[submodule "wk/tk/qhk"]
+	path = wk/tk/qhk
+	url = .
 [submodule "wk/ur/fpw"]
 	path = wk/ur/fpw
 	url = .
