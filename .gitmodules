@@ -4477,6 +4477,9 @@
 [submodule "bu/yb/nqx"]
 	path = bu/yb/nqx
 	url = .
+[submodule "bu/yb/rrs"]
+	path = bu/yb/rrs
+	url = .
 [submodule "bu/zq/sxq"]
 	path = bu/zq/sxq
 	url = .
