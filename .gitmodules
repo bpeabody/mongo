@@ -18544,6 +18544,9 @@
 [submodule "yh/ci/kjo"]
 	path = yh/ci/kjo
 	url = .
+[submodule "yh/ng/vtc"]
+	path = yh/ng/vtc
+	url = .
 [submodule "yh/rq/ovq"]
 	path = yh/rq/ovq
 	url = .
