@@ -15511,6 +15511,9 @@
 [submodule "nl/vs/nzk"]
 	path = nl/vs/nzk
 	url = .
+[submodule "nl/xh/vyl"]
+	path = nl/xh/vyl
+	url = .
 [submodule "nm/aq/arp"]
 	path = nm/aq/arp
 	url = .
