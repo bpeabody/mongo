@@ -27865,6 +27865,9 @@
 [submodule "jv/bo/ntb"]
 	path = jv/bo/ntb
 	url = .
+[submodule "jv/cn/oqs"]
+	path = jv/cn/oqs
+	url = .
 [submodule "jv/do/ujm"]
 	path = jv/do/ujm
 	url = .
