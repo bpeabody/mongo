@@ -3979,6 +3979,9 @@
 [submodule "dx/ga/tjq"]
 	path = dx/ga/tjq
 	url = .
+[submodule "dx/ho/grm"]
+	path = dx/ho/grm
+	url = .
 [submodule "dx/iy/zau"]
 	path = dx/iy/zau
 	url = .
