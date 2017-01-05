@@ -9595,6 +9595,9 @@
 [submodule "yf/mq/ecf"]
 	path = yf/mq/ecf
 	url = .
+[submodule "yf/qp/fzs"]
+	path = yf/qp/fzs
+	url = .
 [submodule "yg/fm/kqy"]
 	path = yg/fm/kqy
 	url = .
