@@ -70,6 +70,9 @@
 [submodule "gp/mr/mji"]
 	path = gp/mr/mji
 	url = .
+[submodule "gv/oi/sph"]
+	path = gv/oi/sph
+	url = .
 [submodule "hn/be/klz"]
 	path = hn/be/klz
 	url = .
