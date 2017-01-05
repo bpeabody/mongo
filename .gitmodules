@@ -58231,6 +58231,9 @@
 [submodule "yg/gn/cdn"]
 	path = yg/gn/cdn
 	url = .
+[submodule "yg/hq/sjd"]
+	path = yg/hq/sjd
+	url = .
 [submodule "yg/hs/uil"]
 	path = yg/hs/uil
 	url = .
