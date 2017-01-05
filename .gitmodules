@@ -29353,6 +29353,9 @@
 [submodule "ql/ae/ndn"]
 	path = ql/ae/ndn
 	url = .
+[submodule "ql/aq/liz"]
+	path = ql/aq/liz
+	url = .
 [submodule "ql/dd/xaq"]
 	path = ql/dd/xaq
 	url = .
