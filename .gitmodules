@@ -568,6 +568,9 @@
 [submodule "ov/ct/cda"]
 	path = ov/ct/cda
 	url = .
+[submodule "ov/lv/mbl"]
+	path = ov/lv/mbl
+	url = .
 [submodule "ow/vl/hsz"]
 	path = ow/vl/hsz
 	url = .
