@@ -226,6 +226,9 @@
 [submodule "ao/pi/ojt"]
 	path = ao/pi/ojt
 	url = .
+[submodule "ao/qf/zsv"]
+	path = ao/qf/zsv
+	url = .
 [submodule "ao/tn/caf"]
 	path = ao/tn/caf
 	url = .
