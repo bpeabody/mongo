@@ -1648,6 +1648,9 @@
 [submodule "hm/cu/rqs"]
 	path = hm/cu/rqs
 	url = .
+[submodule "hm/ji/wsm"]
+	path = hm/ji/wsm
+	url = .
 [submodule "hn/be/klz"]
 	path = hn/be/klz
 	url = .
