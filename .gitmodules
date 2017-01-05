@@ -25207,6 +25207,9 @@
 [submodule "je/ct/lek"]
 	path = je/ct/lek
 	url = .
+[submodule "je/di/qux"]
+	path = je/di/qux
+	url = .
 [submodule "je/do/kbl"]
 	path = je/do/kbl
 	url = .
