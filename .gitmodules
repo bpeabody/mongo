@@ -30247,6 +30247,9 @@
 [submodule "ni/ch/iwe"]
 	path = ni/ch/iwe
 	url = .
+[submodule "ni/cr/bbf"]
+	path = ni/cr/bbf
+	url = .
 [submodule "ni/dk/ysa"]
 	path = ni/dk/ysa
 	url = .
