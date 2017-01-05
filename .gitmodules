@@ -65689,6 +65689,9 @@
 [submodule "yq/bd/tfi"]
 	path = yq/bd/tfi
 	url = .
+[submodule "yq/fb/yqf"]
+	path = yq/fb/yqf
+	url = .
 [submodule "yq/fs/ojl"]
 	path = yq/fs/ojl
 	url = .
