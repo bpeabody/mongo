@@ -2176,6 +2176,9 @@
 [submodule "ar/yu/jbg"]
 	path = ar/yu/jbg
 	url = .
+[submodule "ar/za/pdn"]
+	path = ar/za/pdn
+	url = .
 [submodule "ar/zq/ilk"]
 	path = ar/zq/ilk
 	url = .
