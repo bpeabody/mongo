@@ -3499,6 +3499,9 @@
 [submodule "yq/zr/cvz"]
 	path = yq/zr/cvz
 	url = .
+[submodule "yr/ez/cvd"]
+	path = yr/ez/cvd
+	url = .
 [submodule "ys/kd/ked"]
 	path = ys/kd/ked
 	url = .
