@@ -3604,6 +3604,9 @@
 [submodule "qv/yn/gje"]
 	path = qv/yn/gje
 	url = .
+[submodule "qw/fg/qns"]
+	path = qw/fg/qns
+	url = .
 [submodule "qw/kp/jpp"]
 	path = qw/kp/jpp
 	url = .
