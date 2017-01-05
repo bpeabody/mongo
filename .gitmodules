@@ -2749,6 +2749,9 @@
 [submodule "jr/yh/uka"]
 	path = jr/yh/uka
 	url = .
+[submodule "js/ar/sky"]
+	path = js/ar/sky
+	url = .
 [submodule "js/ju/tkq"]
 	path = js/ju/tkq
 	url = .
