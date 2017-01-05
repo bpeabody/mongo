@@ -1249,6 +1249,9 @@
 [submodule "dt/zn/tbi"]
 	path = dt/zn/tbi
 	url = .
+[submodule "du/aa/opn"]
+	path = du/aa/opn
+	url = .
 [submodule "du/ef/vte"]
 	path = du/ef/vte
 	url = .
