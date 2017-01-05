@@ -5353,6 +5353,9 @@
 [submodule "db/ud/hro"]
 	path = db/ud/hro
 	url = .
+[submodule "db/wo/nzg"]
+	path = db/wo/nzg
+	url = .
 [submodule "dc/ai/spp"]
 	path = dc/ai/spp
 	url = .
