@@ -3943,6 +3943,9 @@
 [submodule "ig/ga/bvp"]
 	path = ig/ga/bvp
 	url = .
+[submodule "ig/jz/neb"]
+	path = ig/jz/neb
+	url = .
 [submodule "ig/lb/swv"]
 	path = ig/lb/swv
 	url = .
