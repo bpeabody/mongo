@@ -793,6 +793,9 @@
 [submodule "bt/og/clt"]
 	path = bt/og/clt
 	url = .
+[submodule "bt/yi/mpy"]
+	path = bt/yi/mpy
+	url = .
 [submodule "bu/ib/uqb"]
 	path = bu/ib/uqb
 	url = .
