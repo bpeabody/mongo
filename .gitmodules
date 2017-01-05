@@ -19096,6 +19096,9 @@
 [submodule "lg/bp/xgj"]
 	path = lg/bp/xgj
 	url = .
+[submodule "lg/by/cee"]
+	path = lg/by/cee
+	url = .
 [submodule "lg/dl/jgt"]
 	path = lg/dl/jgt
 	url = .
