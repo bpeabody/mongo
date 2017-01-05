@@ -6961,6 +6961,9 @@
 [submodule "hw/ip/zem"]
 	path = hw/ip/zem
 	url = .
+[submodule "hw/kf/hmm"]
+	path = hw/kf/hmm
+	url = .
 [submodule "hw/rj/jbt"]
 	path = hw/rj/jbt
 	url = .
