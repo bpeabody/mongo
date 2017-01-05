@@ -9064,6 +9064,9 @@
 [submodule "lr/az/ayo"]
 	path = lr/az/ayo
 	url = .
+[submodule "lr/ck/jmv"]
+	path = lr/ck/jmv
+	url = .
 [submodule "lr/cy/zyy"]
 	path = lr/cy/zyy
 	url = .
