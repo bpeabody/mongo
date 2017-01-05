@@ -20758,6 +20758,9 @@
 [submodule "it/wy/vct"]
 	path = it/wy/vct
 	url = .
+[submodule "it/xc/xqp"]
+	path = it/xc/xqp
+	url = .
 [submodule "it/zn/xcn"]
 	path = it/zn/xcn
 	url = .
