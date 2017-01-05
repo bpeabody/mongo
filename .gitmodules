@@ -49882,6 +49882,9 @@
 [submodule "xj/ji/qht"]
 	path = xj/ji/qht
 	url = .
+[submodule "xj/jl/edk"]
+	path = xj/jl/edk
+	url = .
 [submodule "xj/lk/hcp"]
 	path = xj/lk/hcp
 	url = .
