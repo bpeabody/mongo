@@ -18712,6 +18712,9 @@
 [submodule "kw/dn/nek"]
 	path = kw/dn/nek
 	url = .
+[submodule "kw/ed/kek"]
+	path = kw/ed/kek
+	url = .
 [submodule "kw/et/qtv"]
 	path = kw/et/qtv
 	url = .
