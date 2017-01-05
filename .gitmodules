@@ -24787,6 +24787,9 @@
 [submodule "ll/ko/kpa"]
 	path = ll/ko/kpa
 	url = .
+[submodule "ll/lq/tvz"]
+	path = ll/lq/tvz
+	url = .
 [submodule "ll/mn/ixb"]
 	path = ll/mn/ixb
 	url = .
