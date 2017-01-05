@@ -3037,6 +3037,9 @@
 [submodule "dg/je/noh"]
 	path = dg/je/noh
 	url = .
+[submodule "dg/ok/qgu"]
+	path = dg/ok/qgu
+	url = .
 [submodule "dg/on/dzy"]
 	path = dg/on/dzy
 	url = .
