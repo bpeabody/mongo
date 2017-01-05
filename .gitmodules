@@ -13237,6 +13237,9 @@
 [submodule "ek/sx/qer"]
 	path = ek/sx/qer
 	url = .
+[submodule "ek/ue/uxa"]
+	path = ek/ue/uxa
+	url = .
 [submodule "ek/uh/vdu"]
 	path = ek/uh/vdu
 	url = .
