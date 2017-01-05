@@ -15799,6 +15799,9 @@
 [submodule "fx/vj/pbw"]
 	path = fx/vj/pbw
 	url = .
+[submodule "fx/vt/nxr"]
+	path = fx/vt/nxr
+	url = .
 [submodule "fx/wj/mlr"]
 	path = fx/wj/mlr
 	url = .
