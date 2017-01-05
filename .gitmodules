@@ -32452,6 +32452,9 @@
 [submodule "sm/rz/rrg"]
 	path = sm/rz/rrg
 	url = .
+[submodule "sm/tj/wyq"]
+	path = sm/tj/wyq
+	url = .
 [submodule "sm/to/jnp"]
 	path = sm/to/jnp
 	url = .
