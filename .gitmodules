@@ -14155,6 +14155,9 @@
 [submodule "ir/vd/idi"]
 	path = ir/vd/idi
 	url = .
+[submodule "ir/yv/jbo"]
+	path = ir/yv/jbo
+	url = .
 [submodule "is/ac/lkn"]
 	path = is/ac/lkn
 	url = .
