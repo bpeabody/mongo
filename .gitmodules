@@ -15310,6 +15310,9 @@
 [submodule "ho/uy/dyt"]
 	path = ho/uy/dyt
 	url = .
+[submodule "ho/vr/hzd"]
+	path = ho/vr/hzd
+	url = .
 [submodule "ho/xk/upo"]
 	path = ho/xk/upo
 	url = .
