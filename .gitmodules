@@ -7339,6 +7339,9 @@
 [submodule "vk/fz/dkl"]
 	path = vk/fz/dkl
 	url = .
+[submodule "vk/kw/kpb"]
+	path = vk/kw/kpb
+	url = .
 [submodule "vk/mp/wjp"]
 	path = vk/mp/wjp
 	url = .
