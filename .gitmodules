@@ -2689,6 +2689,9 @@
 [submodule "bd/ve/rmt"]
 	path = bd/ve/rmt
 	url = .
+[submodule "bd/ws/rby"]
+	path = bd/ws/rby
+	url = .
 [submodule "bd/xq/euq"]
 	path = bd/xq/euq
 	url = .
