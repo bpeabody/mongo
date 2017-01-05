@@ -3031,6 +3031,9 @@
 [submodule "yk/vm/ygq"]
 	path = yk/vm/ygq
 	url = .
+[submodule "yl/ir/cnt"]
+	path = yl/ir/cnt
+	url = .
 [submodule "yn/ah/mnc"]
 	path = yn/ah/mnc
 	url = .
