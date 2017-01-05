@@ -13054,6 +13054,9 @@
 [submodule "ua/ix/bdn"]
 	path = ua/ix/bdn
 	url = .
+[submodule "ua/jz/iti"]
+	path = ua/jz/iti
+	url = .
 [submodule "ua/my/qnm"]
 	path = ua/my/qnm
 	url = .
