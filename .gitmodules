@@ -3928,6 +3928,9 @@
 [submodule "ia/qs/eml"]
 	path = ia/qs/eml
 	url = .
+[submodule "ib/cc/xzi"]
+	path = ib/cc/xzi
+	url = .
 [submodule "ib/dq/icp"]
 	path = ib/dq/icp
 	url = .
