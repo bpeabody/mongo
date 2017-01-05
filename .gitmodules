@@ -15823,6 +15823,9 @@
 [submodule "ik/ca/vxn"]
 	path = ik/ca/vxn
 	url = .
+[submodule "ik/ck/qbv"]
+	path = ik/ck/qbv
+	url = .
 [submodule "ik/dq/ozc"]
 	path = ik/dq/ozc
 	url = .
