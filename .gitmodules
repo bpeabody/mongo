@@ -169,6 +169,9 @@
 [submodule "bf/gf/vfh"]
 	path = bf/gf/vfh
 	url = .
+[submodule "bg/gi/kpo"]
+	path = bg/gi/kpo
+	url = .
 [submodule "bg/uv/ldg"]
 	path = bg/uv/ldg
 	url = .
