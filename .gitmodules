@@ -7882,6 +7882,9 @@
 [submodule "cr/ai/pmf"]
 	path = cr/ai/pmf
 	url = .
+[submodule "cr/ai/vzu"]
+	path = cr/ai/vzu
+	url = .
 [submodule "cr/bq/bwv"]
 	path = cr/bq/bwv
 	url = .
