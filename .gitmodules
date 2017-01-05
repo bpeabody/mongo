@@ -6322,6 +6322,9 @@
 [submodule "cs/oj/pfa"]
 	path = cs/oj/pfa
 	url = .
+[submodule "cs/ov/cmo"]
+	path = cs/ov/cmo
+	url = .
 [submodule "cs/qw/ssd"]
 	path = cs/qw/ssd
 	url = .
