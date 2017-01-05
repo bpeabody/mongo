@@ -10165,6 +10165,9 @@
 [submodule "mp/hh/qcs"]
 	path = mp/hh/qcs
 	url = .
+[submodule "mp/ih/fsa"]
+	path = mp/ih/fsa
+	url = .
 [submodule "mp/iq/dof"]
 	path = mp/iq/dof
 	url = .
