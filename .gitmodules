@@ -28342,6 +28342,9 @@
 [submodule "lk/wn/xet"]
 	path = lk/wn/xet
 	url = .
+[submodule "lk/yd/nlh"]
+	path = lk/yd/nlh
+	url = .
 [submodule "lk/zx/elt"]
 	path = lk/zx/elt
 	url = .
