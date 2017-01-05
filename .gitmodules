@@ -7585,6 +7585,9 @@
 [submodule "ha/ui/qlf"]
 	path = ha/ui/qlf
 	url = .
+[submodule "ha/vc/gqh"]
+	path = ha/vc/gqh
+	url = .
 [submodule "ha/wg/fje"]
 	path = ha/wg/fje
 	url = .
