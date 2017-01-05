@@ -1111,6 +1111,9 @@
 [submodule "bx/ph/yze"]
 	path = bx/ph/yze
 	url = .
+[submodule "bx/pm/xxc"]
+	path = bx/pm/xxc
+	url = .
 [submodule "bx/tb/cbr"]
 	path = bx/tb/cbr
 	url = .
