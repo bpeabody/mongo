@@ -91,6 +91,9 @@
 [submodule "bq/xi/fte"]
 	path = bq/xi/fte
 	url = .
+[submodule "br/bj/eof"]
+	path = br/bj/eof
+	url = .
 [submodule "br/bz/nfg"]
 	path = br/bz/nfg
 	url = .
