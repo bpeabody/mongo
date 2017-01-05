@@ -19540,6 +19540,9 @@
 [submodule "ni/qp/bix"]
 	path = ni/qp/bix
 	url = .
+[submodule "ni/qz/lcx"]
+	path = ni/qz/lcx
+	url = .
 [submodule "ni/rd/kgh"]
 	path = ni/rd/kgh
 	url = .
