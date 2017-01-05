@@ -25735,6 +25735,9 @@
 [submodule "kw/ms/kbw"]
 	path = kw/ms/kbw
 	url = .
+[submodule "kw/qf/nov"]
+	path = kw/qf/nov
+	url = .
 [submodule "kw/qu/dtw"]
 	path = kw/qu/dtw
 	url = .
