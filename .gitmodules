@@ -9130,6 +9130,9 @@
 [submodule "di/um/njf"]
 	path = di/um/njf
 	url = .
+[submodule "di/vl/jci"]
+	path = di/vl/jci
+	url = .
 [submodule "di/wt/etv"]
 	path = di/wt/etv
 	url = .
