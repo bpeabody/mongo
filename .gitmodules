@@ -47989,6 +47989,9 @@
 [submodule "sl/pq/vzi"]
 	path = sl/pq/vzi
 	url = .
+[submodule "sl/qk/krx"]
+	path = sl/qk/krx
+	url = .
 [submodule "sl/qs/sid"]
 	path = sl/qs/sid
 	url = .
