@@ -29743,6 +29743,9 @@
 [submodule "tn/hg/fuk"]
 	path = tn/hg/fuk
 	url = .
+[submodule "tn/hq/bcn"]
+	path = tn/hq/bcn
+	url = .
 [submodule "tn/ip/agb"]
 	path = tn/ip/agb
 	url = .
