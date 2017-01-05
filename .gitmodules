@@ -14194,6 +14194,9 @@
 [submodule "mu/ih/fio"]
 	path = mu/ih/fio
 	url = .
+[submodule "mu/nn/kbx"]
+	path = mu/nn/kbx
+	url = .
 [submodule "mu/oj/unj"]
 	path = mu/oj/unj
 	url = .
