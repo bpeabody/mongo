@@ -553,6 +553,9 @@
 [submodule "al/dh/cxi"]
 	path = al/dh/cxi
 	url = .
+[submodule "al/ec/ewi"]
+	path = al/ec/ewi
+	url = .
 [submodule "al/fb/wkh"]
 	path = al/fb/wkh
 	url = .
