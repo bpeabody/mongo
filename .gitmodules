@@ -5362,6 +5362,9 @@
 [submodule "db/wo/nzg"]
 	path = db/wo/nzg
 	url = .
+[submodule "db/zl/kub"]
+	path = db/zl/kub
+	url = .
 [submodule "dc/ai/spp"]
 	path = dc/ai/spp
 	url = .
