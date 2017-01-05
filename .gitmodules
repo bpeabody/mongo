@@ -6160,6 +6160,9 @@
 [submodule "dt/qg/xgq"]
 	path = dt/qg/xgq
 	url = .
+[submodule "dt/qp/abc"]
+	path = dt/qp/abc
+	url = .
 [submodule "dt/rl/uqt"]
 	path = dt/rl/uqt
 	url = .
