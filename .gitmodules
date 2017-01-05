@@ -14212,6 +14212,9 @@
 [submodule "nn/vn/slo"]
 	path = nn/vn/slo
 	url = .
+[submodule "nn/yk/buy"]
+	path = nn/yk/buy
+	url = .
 [submodule "nn/yt/yvx"]
 	path = nn/yt/yvx
 	url = .
