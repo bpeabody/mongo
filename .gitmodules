@@ -538,6 +538,9 @@
 [submodule "ag/xc/cfk"]
 	path = ag/xc/cfk
 	url = .
+[submodule "ag/xx/gts"]
+	path = ag/xx/gts
+	url = .
 [submodule "ah/ap/ikp"]
 	path = ah/ap/ikp
 	url = .
