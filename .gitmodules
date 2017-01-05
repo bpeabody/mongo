@@ -5047,6 +5047,9 @@
 [submodule "ld/st/yeo"]
 	path = ld/st/yeo
 	url = .
+[submodule "ld/su/bst"]
+	path = ld/su/bst
+	url = .
 [submodule "ld/wd/emt"]
 	path = ld/wd/emt
 	url = .
