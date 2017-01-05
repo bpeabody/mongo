@@ -29341,6 +29341,9 @@
 [submodule "uo/ca/jyg"]
 	path = uo/ca/jyg
 	url = .
+[submodule "uo/ce/hmb"]
+	path = uo/ce/hmb
+	url = .
 [submodule "uo/cf/hmc"]
 	path = uo/cf/hmc
 	url = .
