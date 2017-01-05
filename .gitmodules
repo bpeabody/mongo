@@ -16324,6 +16324,9 @@
 [submodule "fn/fx/qkw"]
 	path = fn/fx/qkw
 	url = .
+[submodule "fn/iy/wky"]
+	path = fn/iy/wky
+	url = .
 [submodule "fn/ko/jrt"]
 	path = fn/ko/jrt
 	url = .
