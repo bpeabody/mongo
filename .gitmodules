@@ -56977,6 +56977,9 @@
 [submodule "vz/cl/xgj"]
 	path = vz/cl/xgj
 	url = .
+[submodule "vz/fh/frl"]
+	path = vz/fh/frl
+	url = .
 [submodule "vz/fm/nij"]
 	path = vz/fm/nij
 	url = .
