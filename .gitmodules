@@ -21166,6 +21166,9 @@
 [submodule "hx/bp/qpi"]
 	path = hx/bp/qpi
 	url = .
+[submodule "hx/by/rmr"]
+	path = hx/by/rmr
+	url = .
 [submodule "hx/db/jyo"]
 	path = hx/db/jyo
 	url = .
