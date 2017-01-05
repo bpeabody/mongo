@@ -50005,6 +50005,9 @@
 [submodule "uy/kn/rep"]
 	path = uy/kn/rep
 	url = .
+[submodule "uy/ks/eaz"]
+	path = uy/ks/eaz
+	url = .
 [submodule "uy/lx/dzq"]
 	path = uy/lx/dzq
 	url = .
