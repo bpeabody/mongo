@@ -5008,6 +5008,9 @@
 [submodule "pj/fh/gsh"]
 	path = pj/fh/gsh
 	url = .
+[submodule "pj/jc/bsn"]
+	path = pj/jc/bsn
+	url = .
 [submodule "pj/mu/hez"]
 	path = pj/mu/hez
 	url = .
