@@ -55378,6 +55378,9 @@
 [submodule "tu/fs/lem"]
 	path = tu/fs/lem
 	url = .
+[submodule "tu/fx/khe"]
+	path = tu/fx/khe
+	url = .
 [submodule "tu/hw/xka"]
 	path = tu/hw/xka
 	url = .
