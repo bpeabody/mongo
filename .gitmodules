@@ -10915,6 +10915,9 @@
 [submodule "ew/vx/ruu"]
 	path = ew/vx/ruu
 	url = .
+[submodule "ew/wg/ivf"]
+	path = ew/wg/ivf
+	url = .
 [submodule "ew/wl/krf"]
 	path = ew/wl/krf
 	url = .
