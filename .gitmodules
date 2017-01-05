@@ -32113,6 +32113,9 @@
 [submodule "la/kd/nbw"]
 	path = la/kd/nbw
 	url = .
+[submodule "la/kf/rpj"]
+	path = la/kf/rpj
+	url = .
 [submodule "la/kj/zew"]
 	path = la/kj/zew
 	url = .
