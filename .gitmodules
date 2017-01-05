@@ -6700,6 +6700,9 @@
 [submodule "co/dv/gkt"]
 	path = co/dv/gkt
 	url = .
+[submodule "co/dw/dsi"]
+	path = co/dw/dsi
+	url = .
 [submodule "co/eg/lpr"]
 	path = co/eg/lpr
 	url = .
