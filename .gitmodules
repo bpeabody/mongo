@@ -13906,6 +13906,9 @@
 [submodule "hw/lv/kdu"]
 	path = hw/lv/kdu
 	url = .
+[submodule "hw/me/fge"]
+	path = hw/me/fge
+	url = .
 [submodule "hw/pb/oev"]
 	path = hw/pb/oev
 	url = .
