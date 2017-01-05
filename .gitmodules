@@ -22822,6 +22822,9 @@
 [submodule "ja/bn/drn"]
 	path = ja/bn/drn
 	url = .
+[submodule "ja/bp/ecp"]
+	path = ja/bp/ecp
+	url = .
 [submodule "ja/bw/mvz"]
 	path = ja/bw/mvz
 	url = .
