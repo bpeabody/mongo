@@ -20986,6 +20986,9 @@
 [submodule "me/hj/cwk"]
 	path = me/hj/cwk
 	url = .
+[submodule "me/hl/irc"]
+	path = me/hl/irc
+	url = .
 [submodule "me/il/euu"]
 	path = me/il/euu
 	url = .
