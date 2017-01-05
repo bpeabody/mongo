@@ -20104,6 +20104,9 @@
 [submodule "vy/lr/dpn"]
 	path = vy/lr/dpn
 	url = .
+[submodule "vy/mz/foi"]
+	path = vy/mz/foi
+	url = .
 [submodule "vy/nf/omw"]
 	path = vy/nf/omw
 	url = .
