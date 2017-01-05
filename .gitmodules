@@ -37582,6 +37582,9 @@
 [submodule "mr/pb/yqy"]
 	path = mr/pb/yqy
 	url = .
+[submodule "mr/pi/spd"]
+	path = mr/pi/spd
+	url = .
 [submodule "mr/pn/zkd"]
 	path = mr/pn/zkd
 	url = .
