@@ -23350,6 +23350,9 @@
 [submodule "hs/qn/ucz"]
 	path = hs/qn/ucz
 	url = .
+[submodule "hs/qr/miu"]
+	path = hs/qr/miu
+	url = .
 [submodule "hs/qw/jxo"]
 	path = hs/qw/jxo
 	url = .
