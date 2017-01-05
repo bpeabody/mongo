@@ -8962,6 +8962,9 @@
 [submodule "tr/cs/nev"]
 	path = tr/cs/nev
 	url = .
+[submodule "tr/eg/xva"]
+	path = tr/eg/xva
+	url = .
 [submodule "tr/gs/kgr"]
 	path = tr/gs/kgr
 	url = .
