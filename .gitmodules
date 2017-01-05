@@ -40,6 +40,9 @@
 [submodule "ab/xz/qhy"]
 	path = ab/xz/qhy
 	url = .
+[submodule "ac/ev/ldk"]
+	path = ac/ev/ldk
+	url = .
 [submodule "ac/fi/vuh"]
 	path = ac/fi/vuh
 	url = .
