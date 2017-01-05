@@ -1747,6 +1747,9 @@
 [submodule "bg/mn/nlf"]
 	path = bg/mn/nlf
 	url = .
+[submodule "bg/ob/qte"]
+	path = bg/ob/qte
+	url = .
 [submodule "bg/pc/gii"]
 	path = bg/pc/gii
 	url = .
