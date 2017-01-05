@@ -1309,6 +1309,9 @@
 [submodule "fp/lx/twu"]
 	path = fp/lx/twu
 	url = .
+[submodule "fp/sz/ixu"]
+	path = fp/sz/ixu
+	url = .
 [submodule "fp/sz/ycf"]
 	path = fp/sz/ycf
 	url = .
