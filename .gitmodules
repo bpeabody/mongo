@@ -3526,6 +3526,9 @@
 [submodule "cs/zw/btx"]
 	path = cs/zw/btx
 	url = .
+[submodule "ct/bz/jfd"]
+	path = ct/bz/jfd
+	url = .
 [submodule "ct/jm/zlo"]
 	path = ct/jm/zlo
 	url = .
