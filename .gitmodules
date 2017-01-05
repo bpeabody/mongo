@@ -12832,6 +12832,9 @@
 [submodule "fd/id/nlv"]
 	path = fd/id/nlv
 	url = .
+[submodule "fd/if/int"]
+	path = fd/if/int
+	url = .
 [submodule "fd/in/ljx"]
 	path = fd/in/ljx
 	url = .
