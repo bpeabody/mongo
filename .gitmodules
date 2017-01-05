@@ -16699,6 +16699,9 @@
 [submodule "hn/qj/dtr"]
 	path = hn/qj/dtr
 	url = .
+[submodule "hn/qr/okr"]
+	path = hn/qr/okr
+	url = .
 [submodule "hn/re/bja"]
 	path = hn/re/bja
 	url = .
