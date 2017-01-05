@@ -2977,6 +2977,9 @@
 [submodule "bx/tb/cbr"]
 	path = bx/tb/cbr
 	url = .
+[submodule "bx/uf/iaa"]
+	path = bx/uf/iaa
+	url = .
 [submodule "bx/vj/rqk"]
 	path = bx/vj/rqk
 	url = .
