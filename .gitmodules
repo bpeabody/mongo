@@ -6841,6 +6841,9 @@
 [submodule "is/pi/iaq"]
 	path = is/pi/iaq
 	url = .
+[submodule "is/uo/qpr"]
+	path = is/uo/qpr
+	url = .
 [submodule "it/bs/vuh"]
 	path = it/bs/vuh
 	url = .
