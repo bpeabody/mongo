@@ -5059,6 +5059,9 @@
 [submodule "er/kj/ozc"]
 	path = er/kj/ozc
 	url = .
+[submodule "er/kz/gkh"]
+	path = er/kz/gkh
+	url = .
 [submodule "er/ma/pto"]
 	path = er/ma/pto
 	url = .
