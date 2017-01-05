@@ -4957,6 +4957,9 @@
 [submodule "fh/hc/thf"]
 	path = fh/hc/thf
 	url = .
+[submodule "fh/hi/jbm"]
+	path = fh/hi/jbm
+	url = .
 [submodule "fh/id/zme"]
 	path = fh/id/zme
 	url = .
