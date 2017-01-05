@@ -36991,6 +36991,9 @@
 [submodule "od/iu/ohe"]
 	path = od/iu/ohe
 	url = .
+[submodule "od/ix/jvu"]
+	path = od/ix/jvu
+	url = .
 [submodule "od/ji/gsz"]
 	path = od/ji/gsz
 	url = .
