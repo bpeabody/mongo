@@ -32968,6 +32968,9 @@
 [submodule "wc/sl/bdg"]
 	path = wc/sl/bdg
 	url = .
+[submodule "wc/sl/pnp"]
+	path = wc/sl/pnp
+	url = .
 [submodule "wc/ts/fjc"]
 	path = wc/ts/fjc
 	url = .
