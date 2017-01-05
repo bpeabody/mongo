@@ -46,6 +46,9 @@
 [submodule "ac/mj/bfb"]
 	path = ac/mj/bfb
 	url = .
+[submodule "ac/mk/vby"]
+	path = ac/mk/vby
+	url = .
 [submodule "ac/mt/loe"]
 	path = ac/mt/loe
 	url = .
