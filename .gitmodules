@@ -4384,6 +4384,9 @@
 [submodule "cc/bx/wsy"]
 	path = cc/bx/wsy
 	url = .
+[submodule "cc/cs/kxx"]
+	path = cc/cs/kxx
+	url = .
 [submodule "cc/eg/msd"]
 	path = cc/eg/msd
 	url = .
