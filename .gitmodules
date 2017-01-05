@@ -46429,6 +46429,9 @@
 [submodule "yo/op/ayy"]
 	path = yo/op/ayy
 	url = .
+[submodule "yo/or/kha"]
+	path = yo/or/kha
+	url = .
 [submodule "yo/ps/tuf"]
 	path = yo/ps/tuf
 	url = .
