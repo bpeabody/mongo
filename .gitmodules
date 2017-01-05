@@ -21949,6 +21949,9 @@
 [submodule "sm/ai/qfy"]
 	path = sm/ai/qfy
 	url = .
+[submodule "sm/bd/ext"]
+	path = sm/bd/ext
+	url = .
 [submodule "sm/kd/qzd"]
 	path = sm/kd/qzd
 	url = .
