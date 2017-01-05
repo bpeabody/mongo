@@ -1006,6 +1006,9 @@
 [submodule "ds/yc/sla"]
 	path = ds/yc/sla
 	url = .
+[submodule "dt/bn/eev"]
+	path = dt/bn/eev
+	url = .
 [submodule "dt/mn/kgd"]
 	path = dt/mn/kgd
 	url = .
