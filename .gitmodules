@@ -16099,6 +16099,9 @@
 [submodule "gq/cz/pyf"]
 	path = gq/cz/pyf
 	url = .
+[submodule "gq/dj/ksr"]
+	path = gq/dj/ksr
+	url = .
 [submodule "gq/ea/yqi"]
 	path = gq/ea/yqi
 	url = .
