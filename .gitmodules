@@ -17614,6 +17614,9 @@
 [submodule "jq/wo/faq"]
 	path = jq/wo/faq
 	url = .
+[submodule "jq/wy/tyb"]
+	path = jq/wy/tyb
+	url = .
 [submodule "jq/yw/zdf"]
 	path = jq/yw/zdf
 	url = .
