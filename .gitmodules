@@ -3634,6 +3634,9 @@
 [submodule "zw/xf/elp"]
 	path = zw/xf/elp
 	url = .
+[submodule "zx/hj/nrh"]
+	path = zx/hj/nrh
+	url = .
 [submodule "zx/jb/chk"]
 	path = zx/jb/chk
 	url = .
