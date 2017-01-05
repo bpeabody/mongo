@@ -553,6 +553,9 @@
 [submodule "bj/su/mxe"]
 	path = bj/su/mxe
 	url = .
+[submodule "bj/ut/meg"]
+	path = bj/ut/meg
+	url = .
 [submodule "bk/op/qic"]
 	path = bk/op/qic
 	url = .
