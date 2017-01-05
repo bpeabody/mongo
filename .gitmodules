@@ -13432,6 +13432,9 @@
 [submodule "ez/bz/ixw"]
 	path = ez/bz/ixw
 	url = .
+[submodule "ez/ct/jib"]
+	path = ez/ct/jib
+	url = .
 [submodule "ez/cw/gih"]
 	path = ez/cw/gih
 	url = .
