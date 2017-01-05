@@ -7312,6 +7312,9 @@
 [submodule "cx/mi/scp"]
 	path = cx/mi/scp
 	url = .
+[submodule "cx/nm/skp"]
+	path = cx/nm/skp
+	url = .
 [submodule "cx/nt/ojg"]
 	path = cx/nt/ojg
 	url = .
