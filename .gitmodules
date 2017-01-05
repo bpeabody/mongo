@@ -9754,6 +9754,9 @@
 [submodule "od/mq/ofh"]
 	path = od/mq/ofh
 	url = .
+[submodule "od/rd/ceg"]
+	path = od/rd/ceg
+	url = .
 [submodule "od/rq/knf"]
 	path = od/rq/knf
 	url = .
