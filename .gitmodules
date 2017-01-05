@@ -17227,6 +17227,9 @@
 [submodule "ng/bs/pox"]
 	path = ng/bs/pox
 	url = .
+[submodule "ng/cb/cdc"]
+	path = ng/cb/cdc
+	url = .
 [submodule "ng/cz/rln"]
 	path = ng/cz/rln
 	url = .
