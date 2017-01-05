@@ -43318,6 +43318,9 @@
 [submodule "qz/ms/ksc"]
 	path = qz/ms/ksc
 	url = .
+[submodule "qz/mu/uci"]
+	path = qz/mu/uci
+	url = .
 [submodule "qz/pk/igl"]
 	path = qz/pk/igl
 	url = .
