@@ -5131,6 +5131,9 @@
 [submodule "wz/kq/lvx"]
 	path = wz/kq/lvx
 	url = .
+[submodule "wz/ml/nyj"]
+	path = wz/ml/nyj
+	url = .
 [submodule "wz/wu/epi"]
 	path = wz/wu/epi
 	url = .
