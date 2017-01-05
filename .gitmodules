@@ -22075,6 +22075,9 @@
 [submodule "ka/fr/rwi"]
 	path = ka/fr/rwi
 	url = .
+[submodule "ka/fw/vpc"]
+	path = ka/fw/vpc
+	url = .
 [submodule "ka/ia/wgs"]
 	path = ka/ia/wgs
 	url = .
