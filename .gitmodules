@@ -1402,6 +1402,9 @@
 [submodule "bj/xg/dhx"]
 	path = bj/xg/dhx
 	url = .
+[submodule "bj/xl/lih"]
+	path = bj/xl/lih
+	url = .
 [submodule "bj/zd/uqi"]
 	path = bj/zd/uqi
 	url = .
