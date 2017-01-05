@@ -15337,6 +15337,9 @@
 [submodule "zy/dr/blg"]
 	path = zy/dr/blg
 	url = .
+[submodule "zy/eu/oow"]
+	path = zy/eu/oow
+	url = .
 [submodule "zy/fi/rjo"]
 	path = zy/fi/rjo
 	url = .
