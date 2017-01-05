@@ -9439,6 +9439,9 @@
 [submodule "di/by/hbc"]
 	path = di/by/hbc
 	url = .
+[submodule "di/ch/ckt"]
+	path = di/ch/ckt
+	url = .
 [submodule "di/ct/afu"]
 	path = di/ct/afu
 	url = .
