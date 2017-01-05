@@ -3139,6 +3139,9 @@
 [submodule "bi/cz/lov"]
 	path = bi/cz/lov
 	url = .
+[submodule "bi/dq/feo"]
+	path = bi/dq/feo
+	url = .
 [submodule "bi/fn/qfg"]
 	path = bi/fn/qfg
 	url = .
