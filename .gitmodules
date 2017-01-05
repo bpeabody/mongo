@@ -1693,6 +1693,9 @@
 [submodule "jw/di/atx"]
 	path = jw/di/atx
 	url = .
+[submodule "jw/nk/pig"]
+	path = jw/nk/pig
+	url = .
 [submodule "jw/oh/pjo"]
 	path = jw/oh/pjo
 	url = .
