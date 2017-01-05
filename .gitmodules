@@ -6130,6 +6130,9 @@
 [submodule "cc/qn/ceu"]
 	path = cc/qn/ceu
 	url = .
+[submodule "cc/qz/alb"]
+	path = cc/qz/alb
+	url = .
 [submodule "cc/rf/dhd"]
 	path = cc/rf/dhd
 	url = .
