@@ -3637,6 +3637,9 @@
 [submodule "ma/ba/dhq"]
 	path = ma/ba/dhq
 	url = .
+[submodule "ma/gk/fbr"]
+	path = ma/gk/fbr
+	url = .
 [submodule "ma/wt/gen"]
 	path = ma/wt/gen
 	url = .
