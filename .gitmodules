@@ -42373,6 +42373,9 @@
 [submodule "tj/hs/xsk"]
 	path = tj/hs/xsk
 	url = .
+[submodule "tj/if/eui"]
+	path = tj/if/eui
+	url = .
 [submodule "tj/jz/znt"]
 	path = tj/jz/znt
 	url = .
