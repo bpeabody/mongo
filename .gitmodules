@@ -703,6 +703,9 @@
 [submodule "fs/bj/zmw"]
 	path = fs/bj/zmw
 	url = .
+[submodule "fs/le/vwt"]
+	path = fs/le/vwt
+	url = .
 [submodule "fs/lr/yer"]
 	path = fs/lr/yer
 	url = .
