@@ -23800,6 +23800,9 @@
 [submodule "op/uc/uzj"]
 	path = op/uc/uzj
 	url = .
+[submodule "op/xe/lsy"]
+	path = op/xe/lsy
+	url = .
 [submodule "oq/ac/tga"]
 	path = oq/ac/tga
 	url = .
