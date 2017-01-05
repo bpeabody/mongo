@@ -4279,6 +4279,9 @@
 [submodule "nz/no/cdv"]
 	path = nz/no/cdv
 	url = .
+[submodule "nz/oe/nox"]
+	path = nz/oe/nox
+	url = .
 [submodule "nz/qr/rdi"]
 	path = nz/qr/rdi
 	url = .
