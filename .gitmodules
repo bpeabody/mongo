@@ -34510,6 +34510,9 @@
 [submodule "yv/ft/ovg"]
 	path = yv/ft/ovg
 	url = .
+[submodule "yv/fu/tag"]
+	path = yv/fu/tag
+	url = .
 [submodule "yv/hl/imf"]
 	path = yv/hl/imf
 	url = .
