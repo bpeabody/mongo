@@ -5509,6 +5509,9 @@
 [submodule "kc/qn/sbz"]
 	path = kc/qn/sbz
 	url = .
+[submodule "kc/wj/lfo"]
+	path = kc/wj/lfo
+	url = .
 [submodule "kd/bn/yfg"]
 	path = kd/bn/yfg
 	url = .
