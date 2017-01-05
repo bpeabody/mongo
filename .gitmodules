@@ -9859,6 +9859,9 @@
 [submodule "ms/ar/agy"]
 	path = ms/ar/agy
 	url = .
+[submodule "ms/db/gbv"]
+	path = ms/db/gbv
+	url = .
 [submodule "ms/ft/vqe"]
 	path = ms/ft/vqe
 	url = .
