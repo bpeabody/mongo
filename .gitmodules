@@ -15331,6 +15331,9 @@
 [submodule "lv/nk/gvb"]
 	path = lv/nk/gvb
 	url = .
+[submodule "lv/ss/txr"]
+	path = lv/ss/txr
+	url = .
 [submodule "lv/sv/lws"]
 	path = lv/sv/lws
 	url = .
