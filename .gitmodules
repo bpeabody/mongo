@@ -3397,6 +3397,9 @@
 [submodule "fd/ht/qqn"]
 	path = fd/ht/qqn
 	url = .
+[submodule "fd/id/nlv"]
+	path = fd/id/nlv
+	url = .
 [submodule "fd/jc/dzj"]
 	path = fd/jc/dzj
 	url = .
