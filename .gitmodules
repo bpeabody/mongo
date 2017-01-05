@@ -23461,6 +23461,9 @@
 [submodule "jp/nl/xwn"]
 	path = jp/nl/xwn
 	url = .
+[submodule "jp/nq/rbc"]
+	path = jp/nq/rbc
+	url = .
 [submodule "jp/oa/jce"]
 	path = jp/oa/jce
 	url = .
