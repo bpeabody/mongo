@@ -17227,6 +17227,9 @@
 [submodule "mq/uw/eds"]
 	path = mq/uw/eds
 	url = .
+[submodule "mq/wl/ddi"]
+	path = mq/wl/ddi
+	url = .
 [submodule "mq/ws/aag"]
 	path = mq/ws/aag
 	url = .
