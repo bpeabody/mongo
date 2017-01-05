@@ -316,6 +316,9 @@
 [submodule "ae/yp/byl"]
 	path = ae/yp/byl
 	url = .
+[submodule "ae/zt/nry"]
+	path = ae/zt/nry
+	url = .
 [submodule "af/aj/jxr"]
 	path = af/aj/jxr
 	url = .
