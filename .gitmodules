@@ -9193,6 +9193,9 @@
 [submodule "jn/om/svx"]
 	path = jn/om/svx
 	url = .
+[submodule "jn/px/kii"]
+	path = jn/px/kii
+	url = .
 [submodule "jn/qg/ala"]
 	path = jn/qg/ala
 	url = .
