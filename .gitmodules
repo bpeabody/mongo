@@ -59299,6 +59299,9 @@
 [submodule "yw/bm/kqa"]
 	path = yw/bm/kqa
 	url = .
+[submodule "yw/ca/wli"]
+	path = yw/ca/wli
+	url = .
 [submodule "yw/cb/vpn"]
 	path = yw/cb/vpn
 	url = .
