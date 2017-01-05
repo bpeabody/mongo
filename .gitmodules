@@ -3079,6 +3079,9 @@
 [submodule "ju/yv/psq"]
 	path = ju/yv/psq
 	url = .
+[submodule "jv/tz/hnz"]
+	path = jv/tz/hnz
+	url = .
 [submodule "jv/ub/tdf"]
 	path = jv/ub/tdf
 	url = .
