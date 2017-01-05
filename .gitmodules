@@ -5518,6 +5518,9 @@
 [submodule "js/jv/ecw"]
 	path = js/jv/ecw
 	url = .
+[submodule "js/kr/dut"]
+	path = js/kr/dut
+	url = .
 [submodule "js/nj/ocg"]
 	path = js/nj/ocg
 	url = .
