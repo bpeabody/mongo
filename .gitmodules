@@ -1441,6 +1441,9 @@
 [submodule "ny/wj/mrz"]
 	path = ny/wj/mrz
 	url = .
+[submodule "nz/no/cdv"]
+	path = nz/no/cdv
+	url = .
 [submodule "nz/qr/rdi"]
 	path = nz/qr/rdi
 	url = .
