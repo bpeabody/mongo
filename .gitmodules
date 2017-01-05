@@ -337,6 +337,9 @@
 [submodule "oc/tm/nla"]
 	path = oc/tm/nla
 	url = .
+[submodule "od/bl/ppr"]
+	path = od/bl/ppr
+	url = .
 [submodule "ok/ce/akb"]
 	path = ok/ce/akb
 	url = .
