@@ -5338,6 +5338,9 @@
 [submodule "rr/zf/oqn"]
 	path = rr/zf/oqn
 	url = .
+[submodule "rs/cv/xnp"]
+	path = rs/cv/xnp
+	url = .
 [submodule "rs/ho/bmk"]
 	path = rs/ho/bmk
 	url = .
