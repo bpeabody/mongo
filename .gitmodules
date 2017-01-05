@@ -6322,6 +6322,9 @@
 [submodule "fw/fx/hqu"]
 	path = fw/fx/hqu
 	url = .
+[submodule "fw/gb/fxt"]
+	path = fw/gb/fxt
+	url = .
 [submodule "fw/ia/jis"]
 	path = fw/ia/jis
 	url = .
