@@ -20242,6 +20242,9 @@
 [submodule "ut/aq/xlb"]
 	path = ut/aq/xlb
 	url = .
+[submodule "ut/eo/fiq"]
+	path = ut/eo/fiq
+	url = .
 [submodule "ut/eq/bbt"]
 	path = ut/eq/bbt
 	url = .
