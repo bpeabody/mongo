@@ -10192,6 +10192,9 @@
 [submodule "iu/if/eeb"]
 	path = iu/if/eeb
 	url = .
+[submodule "iu/if/xhu"]
+	path = iu/if/xhu
+	url = .
 [submodule "iu/je/eoh"]
 	path = iu/je/eoh
 	url = .
