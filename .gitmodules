@@ -13267,6 +13267,9 @@
 [submodule "iw/mq/wmr"]
 	path = iw/mq/wmr
 	url = .
+[submodule "iw/no/ytf"]
+	path = iw/no/ytf
+	url = .
 [submodule "iw/om/pvf"]
 	path = iw/om/pvf
 	url = .
