@@ -38773,6 +38773,9 @@
 [submodule "oy/be/sxm"]
 	path = oy/be/sxm
 	url = .
+[submodule "oy/bu/jrh"]
+	path = oy/bu/jrh
+	url = .
 [submodule "oy/ci/jxx"]
 	path = oy/ci/jxx
 	url = .
