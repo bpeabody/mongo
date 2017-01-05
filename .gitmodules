@@ -3520,6 +3520,9 @@
 [submodule "zk/qj/wzg"]
 	path = zk/qj/wzg
 	url = .
+[submodule "zk/qy/zpl"]
+	path = zk/qy/zpl
+	url = .
 [submodule "zl/gq/sry"]
 	path = zl/gq/sry
 	url = .
