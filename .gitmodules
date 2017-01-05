@@ -8221,6 +8221,9 @@
 [submodule "uj/cs/pwh"]
 	path = uj/cs/pwh
 	url = .
+[submodule "uj/dx/kvk"]
+	path = uj/dx/kvk
+	url = .
 [submodule "uj/ek/xtp"]
 	path = uj/ek/xtp
 	url = .
