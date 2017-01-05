@@ -4102,6 +4102,9 @@
 [submodule "qt/zs/prm"]
 	path = qt/zs/prm
 	url = .
+[submodule "qt/zv/qla"]
+	path = qt/zv/qla
+	url = .
 [submodule "qu/bn/iki"]
 	path = qu/bn/iki
 	url = .
