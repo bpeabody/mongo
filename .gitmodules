@@ -214,6 +214,9 @@
 [submodule "bb/ug/yiq"]
 	path = bb/ug/yiq
 	url = .
+[submodule "bb/vd/uyx"]
+	path = bb/vd/uyx
+	url = .
 [submodule "bc/ew/mzq"]
 	path = bc/ew/mzq
 	url = .
