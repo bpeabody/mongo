@@ -7945,6 +7945,9 @@
 [submodule "cv/jn/fpe"]
 	path = cv/jn/fpe
 	url = .
+[submodule "cv/ke/sqa"]
+	path = cv/ke/sqa
+	url = .
 [submodule "cv/ls/psm"]
 	path = cv/ls/psm
 	url = .
