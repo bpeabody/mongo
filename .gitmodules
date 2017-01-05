@@ -6559,6 +6559,9 @@
 [submodule "jw/kl/nyh"]
 	path = jw/kl/nyh
 	url = .
+[submodule "jw/mq/cok"]
+	path = jw/mq/cok
+	url = .
 [submodule "jw/nk/pig"]
 	path = jw/nk/pig
 	url = .
