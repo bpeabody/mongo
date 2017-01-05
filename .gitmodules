@@ -4714,6 +4714,9 @@
 [submodule "cu/nr/wuu"]
 	path = cu/nr/wuu
 	url = .
+[submodule "cu/qg/myt"]
+	path = cu/qg/myt
+	url = .
 [submodule "cu/sw/mei"]
 	path = cu/sw/mei
 	url = .
