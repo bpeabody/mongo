@@ -6382,6 +6382,9 @@
 [submodule "xr/mq/kff"]
 	path = xr/mq/kff
 	url = .
+[submodule "xr/os/yqr"]
+	path = xr/os/yqr
+	url = .
 [submodule "xr/pm/ivw"]
 	path = xr/pm/ivw
 	url = .
