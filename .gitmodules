@@ -3064,6 +3064,9 @@
 [submodule "jk/ab/lgk"]
 	path = jk/ab/lgk
 	url = .
+[submodule "jk/hv/jlz"]
+	path = jk/hv/jlz
+	url = .
 [submodule "jk/xn/sle"]
 	path = jk/xn/sle
 	url = .
