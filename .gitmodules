@@ -39034,6 +39034,9 @@
 [submodule "ui/rn/peq"]
 	path = ui/rn/peq
 	url = .
+[submodule "ui/sk/puc"]
+	path = ui/sk/puc
+	url = .
 [submodule "ui/sz/htx"]
 	path = ui/sz/htx
 	url = .
