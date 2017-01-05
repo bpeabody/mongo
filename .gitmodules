@@ -6004,6 +6004,9 @@
 [submodule "js/jv/ecw"]
 	path = js/jv/ecw
 	url = .
+[submodule "js/jz/siv"]
+	path = js/jz/siv
+	url = .
 [submodule "js/kr/dut"]
 	path = js/kr/dut
 	url = .
