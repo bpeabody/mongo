@@ -9247,6 +9247,9 @@
 [submodule "lw/lt/syk"]
 	path = lw/lt/syk
 	url = .
+[submodule "lw/po/gxq"]
+	path = lw/po/gxq
+	url = .
 [submodule "lx/ba/acs"]
 	path = lx/ba/acs
 	url = .
