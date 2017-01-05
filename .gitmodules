@@ -7225,6 +7225,9 @@
 [submodule "lw/ai/pwy"]
 	path = lw/ai/pwy
 	url = .
+[submodule "lw/gk/mup"]
+	path = lw/gk/mup
+	url = .
 [submodule "lw/gl/ruq"]
 	path = lw/gl/ruq
 	url = .
