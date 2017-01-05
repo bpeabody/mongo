@@ -23416,6 +23416,9 @@
 [submodule "nr/lw/uzt"]
 	path = nr/lw/uzt
 	url = .
+[submodule "nr/mo/yjg"]
+	path = nr/mo/yjg
+	url = .
 [submodule "nr/ng/kpg"]
 	path = nr/ng/kpg
 	url = .
