@@ -15643,6 +15643,9 @@
 [submodule "fs/uw/zlj"]
 	path = fs/uw/zlj
 	url = .
+[submodule "fs/ux/mvs"]
+	path = fs/ux/mvs
+	url = .
 [submodule "fs/vh/xqg"]
 	path = fs/vh/xqg
 	url = .
