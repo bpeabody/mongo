@@ -16396,6 +16396,9 @@
 [submodule "wc/di/dpw"]
 	path = wc/di/dpw
 	url = .
+[submodule "wc/ga/tal"]
+	path = wc/ga/tal
+	url = .
 [submodule "wc/ic/nys"]
 	path = wc/ic/nys
 	url = .
