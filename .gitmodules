@@ -8026,6 +8026,9 @@
 [submodule "fd/cs/cop"]
 	path = fd/cs/cop
 	url = .
+[submodule "fd/ff/eop"]
+	path = fd/ff/eop
+	url = .
 [submodule "fd/fr/fgf"]
 	path = fd/fr/fgf
 	url = .
