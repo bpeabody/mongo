@@ -9862,6 +9862,9 @@
 [submodule "wa/ez/mgo"]
 	path = wa/ez/mgo
 	url = .
+[submodule "wa/he/fzd"]
+	path = wa/he/fzd
+	url = .
 [submodule "wa/mi/aww"]
 	path = wa/mi/aww
 	url = .
