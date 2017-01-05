@@ -1303,6 +1303,9 @@
 [submodule "au/gw/sgn"]
 	path = au/gw/sgn
 	url = .
+[submodule "au/hc/swg"]
+	path = au/hc/swg
+	url = .
 [submodule "au/hq/wjj"]
 	path = au/hq/wjj
 	url = .
