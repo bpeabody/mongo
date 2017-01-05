@@ -22591,6 +22591,9 @@
 [submodule "kp/au/rot"]
 	path = kp/au/rot
 	url = .
+[submodule "kp/bj/euk"]
+	path = kp/bj/euk
+	url = .
 [submodule "kp/bw/vfn"]
 	path = kp/bw/vfn
 	url = .
