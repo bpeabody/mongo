@@ -19537,6 +19537,9 @@
 [submodule "rp/xr/qsn"]
 	path = rp/xr/qsn
 	url = .
+[submodule "rp/yd/yxl"]
+	path = rp/yd/yxl
+	url = .
 [submodule "rp/yf/gmj"]
 	path = rp/yf/gmj
 	url = .
