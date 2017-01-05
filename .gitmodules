@@ -17392,6 +17392,9 @@
 [submodule "ro/av/olr"]
 	path = ro/av/olr
 	url = .
+[submodule "ro/dv/htq"]
+	path = ro/dv/htq
+	url = .
 [submodule "ro/if/xze"]
 	path = ro/if/xze
 	url = .
