@@ -56149,6 +56149,9 @@
 [submodule "vi/ga/ndf"]
 	path = vi/ga/ndf
 	url = .
+[submodule "vi/hb/bzz"]
+	path = vi/hb/bzz
+	url = .
 [submodule "vi/is/zvw"]
 	path = vi/is/zvw
 	url = .
