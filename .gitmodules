@@ -52291,6 +52291,9 @@
 [submodule "uw/vi/rai"]
 	path = uw/vi/rai
 	url = .
+[submodule "uw/vj/qcr"]
+	path = uw/vj/qcr
+	url = .
 [submodule "uw/vy/rjn"]
 	path = uw/vy/rjn
 	url = .
