@@ -967,6 +967,9 @@
 [submodule "bk/pj/crg"]
 	path = bk/pj/crg
 	url = .
+[submodule "bk/pw/dqh"]
+	path = bk/pw/dqh
+	url = .
 [submodule "bk/qc/sxt"]
 	path = bk/qc/sxt
 	url = .
