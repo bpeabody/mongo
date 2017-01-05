@@ -2596,6 +2596,9 @@
 [submodule "dc/qz/vyk"]
 	path = dc/qz/vyk
 	url = .
+[submodule "dc/tf/rry"]
+	path = dc/tf/rry
+	url = .
 [submodule "dc/vm/ltf"]
 	path = dc/vm/ltf
 	url = .
