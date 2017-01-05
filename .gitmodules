@@ -8425,6 +8425,9 @@
 [submodule "cu/sw/mei"]
 	path = cu/sw/mei
 	url = .
+[submodule "cu/uq/yab"]
+	path = cu/uq/yab
+	url = .
 [submodule "cu/wl/vqg"]
 	path = cu/wl/vqg
 	url = .
