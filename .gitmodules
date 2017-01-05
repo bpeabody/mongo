@@ -54463,6 +54463,9 @@
 [submodule "uo/ft/fgn"]
 	path = uo/ft/fgn
 	url = .
+[submodule "uo/fw/yjr"]
+	path = uo/fw/yjr
+	url = .
 [submodule "uo/gp/nrp"]
 	path = uo/gp/nrp
 	url = .
