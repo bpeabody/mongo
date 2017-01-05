@@ -1732,6 +1732,9 @@
 [submodule "bm/os/tkp"]
 	path = bm/os/tkp
 	url = .
+[submodule "bm/rd/jia"]
+	path = bm/rd/jia
+	url = .
 [submodule "bm/ss/vno"]
 	path = bm/ss/vno
 	url = .
