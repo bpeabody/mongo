@@ -14365,6 +14365,9 @@
 [submodule "uo/dz/sgx"]
 	path = uo/dz/sgx
 	url = .
+[submodule "uo/fq/cda"]
+	path = uo/fq/cda
+	url = .
 [submodule "uo/ir/mjk"]
 	path = uo/ir/mjk
 	url = .
