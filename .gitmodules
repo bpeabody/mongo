@@ -45982,6 +45982,9 @@
 [submodule "xm/cr/qsh"]
 	path = xm/cr/qsh
 	url = .
+[submodule "xm/ct/jiv"]
+	path = xm/ct/jiv
+	url = .
 [submodule "xm/da/hkd"]
 	path = xm/da/hkd
 	url = .
