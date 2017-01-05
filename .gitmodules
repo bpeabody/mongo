@@ -967,6 +967,9 @@
 [submodule "bv/cy/qvp"]
 	path = bv/cy/qvp
 	url = .
+[submodule "bv/jk/plg"]
+	path = bv/jk/plg
+	url = .
 [submodule "bv/ly/mva"]
 	path = bv/ly/mva
 	url = .
