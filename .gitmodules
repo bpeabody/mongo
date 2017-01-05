@@ -20749,6 +20749,9 @@
 [submodule "mr/jo/zud"]
 	path = mr/jo/zud
 	url = .
+[submodule "mr/kr/wwx"]
+	path = mr/kr/wwx
+	url = .
 [submodule "mr/lm/ulp"]
 	path = mr/lm/ulp
 	url = .
