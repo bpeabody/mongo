@@ -24829,6 +24829,9 @@
 [submodule "qt/vd/euh"]
 	path = qt/vd/euh
 	url = .
+[submodule "qt/wd/eod"]
+	path = qt/wd/eod
+	url = .
 [submodule "qt/wq/qll"]
 	path = qt/wq/qll
 	url = .
