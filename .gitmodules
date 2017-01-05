@@ -17029,6 +17029,9 @@
 [submodule "kx/ma/krd"]
 	path = kx/ma/krd
 	url = .
+[submodule "kx/mx/cjk"]
+	path = kx/mx/cjk
+	url = .
 [submodule "kx/my/nyh"]
 	path = kx/my/nyh
 	url = .
