@@ -27661,6 +27661,9 @@
 [submodule "mx/ps/fde"]
 	path = mx/ps/fde
 	url = .
+[submodule "mx/qi/xko"]
+	path = mx/qi/xko
+	url = .
 [submodule "mx/qr/hsa"]
 	path = mx/qr/hsa
 	url = .
