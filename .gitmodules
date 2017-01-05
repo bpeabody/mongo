@@ -20344,6 +20344,9 @@
 [submodule "um/ix/chu"]
 	path = um/ix/chu
 	url = .
+[submodule "um/jc/xct"]
+	path = um/jc/xct
+	url = .
 [submodule "um/lg/wsb"]
 	path = um/lg/wsb
 	url = .
