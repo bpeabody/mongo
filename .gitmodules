@@ -8239,6 +8239,9 @@
 [submodule "ds/wh/upv"]
 	path = ds/wh/upv
 	url = .
+[submodule "ds/wj/jqo"]
+	path = ds/wj/jqo
+	url = .
 [submodule "ds/yc/nih"]
 	path = ds/yc/nih
 	url = .
