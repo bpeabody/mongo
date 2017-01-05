@@ -12829,6 +12829,9 @@
 [submodule "qc/zx/pnj"]
 	path = qc/zx/pnj
 	url = .
+[submodule "qd/ct/vqz"]
+	path = qd/ct/vqz
+	url = .
 [submodule "qd/id/ika"]
 	path = qd/id/ika
 	url = .
