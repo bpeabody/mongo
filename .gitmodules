@@ -7273,6 +7273,9 @@
 [submodule "ee/vs/lyn"]
 	path = ee/vs/lyn
 	url = .
+[submodule "ee/wp/gmn"]
+	path = ee/wp/gmn
+	url = .
 [submodule "ee/xt/cuo"]
 	path = ee/xt/cuo
 	url = .
