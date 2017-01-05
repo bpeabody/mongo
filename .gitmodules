@@ -22585,6 +22585,9 @@
 [submodule "ji/hn/sxs"]
 	path = ji/hn/sxs
 	url = .
+[submodule "ji/hs/php"]
+	path = ji/hs/php
+	url = .
 [submodule "ji/ip/lug"]
 	path = ji/ip/lug
 	url = .
