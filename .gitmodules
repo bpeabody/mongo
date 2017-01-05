@@ -22822,6 +22822,9 @@
 [submodule "ih/jd/mor"]
 	path = ih/jd/mor
 	url = .
+[submodule "ih/jk/uen"]
+	path = ih/jk/uen
+	url = .
 [submodule "ih/ka/pij"]
 	path = ih/ka/pij
 	url = .
