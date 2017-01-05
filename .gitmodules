@@ -12658,6 +12658,9 @@
 [submodule "rg/cn/zsi"]
 	path = rg/cn/zsi
 	url = .
+[submodule "rg/em/rhu"]
+	path = rg/em/rhu
+	url = .
 [submodule "rg/gt/vsy"]
 	path = rg/gt/vsy
 	url = .
