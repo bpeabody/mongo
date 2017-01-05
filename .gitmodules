@@ -6361,6 +6361,9 @@
 [submodule "ep/eh/ppp"]
 	path = ep/eh/ppp
 	url = .
+[submodule "ep/eu/ewg"]
+	path = ep/eu/ewg
+	url = .
 [submodule "ep/fa/ejp"]
 	path = ep/fa/ejp
 	url = .
