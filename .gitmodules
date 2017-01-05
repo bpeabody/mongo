@@ -1090,6 +1090,9 @@
 [submodule "ch/jt/gtw"]
 	path = ch/jt/gtw
 	url = .
+[submodule "ch/vx/tey"]
+	path = ch/vx/tey
+	url = .
 [submodule "ci/av/gpk"]
 	path = ci/av/gpk
 	url = .
