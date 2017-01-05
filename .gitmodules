@@ -29260,6 +29260,9 @@
 [submodule "tn/uk/ijp"]
 	path = tn/uk/ijp
 	url = .
+[submodule "tn/up/kbp"]
+	path = tn/up/kbp
+	url = .
 [submodule "tn/wk/cny"]
 	path = tn/wk/cny
 	url = .
