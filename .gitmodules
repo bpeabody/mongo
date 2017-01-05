@@ -11704,6 +11704,9 @@
 [submodule "el/qn/gju"]
 	path = el/qn/gju
 	url = .
+[submodule "el/sg/njr"]
+	path = el/sg/njr
+	url = .
 [submodule "el/tp/hxg"]
 	path = el/tp/hxg
 	url = .
