@@ -6139,6 +6139,9 @@
 [submodule "nf/gj/gnr"]
 	path = nf/gj/gnr
 	url = .
+[submodule "nf/gy/fek"]
+	path = nf/gy/fek
+	url = .
 [submodule "nf/hp/idu"]
 	path = nf/hp/idu
 	url = .
