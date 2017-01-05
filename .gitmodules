@@ -24256,6 +24256,9 @@
 [submodule "mr/xi/tns"]
 	path = mr/xi/tns
 	url = .
+[submodule "mr/xt/mot"]
+	path = mr/xt/mot
+	url = .
 [submodule "mr/zl/lno"]
 	path = mr/zl/lno
 	url = .
