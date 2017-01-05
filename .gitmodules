@@ -1843,6 +1843,9 @@
 [submodule "gc/vv/wia"]
 	path = gc/vv/wia
 	url = .
+[submodule "gc/yo/nhs"]
+	path = gc/yo/nhs
+	url = .
 [submodule "gd/ek/rem"]
 	path = gd/ek/rem
 	url = .
