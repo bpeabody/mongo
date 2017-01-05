@@ -4129,6 +4129,9 @@
 [submodule "dr/cl/qaq"]
 	path = dr/cl/qaq
 	url = .
+[submodule "dr/dx/thh"]
+	path = dr/dx/thh
+	url = .
 [submodule "dr/dx/wnt"]
 	path = dr/dx/wnt
 	url = .
