@@ -38518,6 +38518,9 @@
 [submodule "yo/xs/bdv"]
 	path = yo/xs/bdv
 	url = .
+[submodule "yp/bg/qvl"]
+	path = yp/bg/qvl
+	url = .
 [submodule "yp/dk/sel"]
 	path = yp/dk/sel
 	url = .
