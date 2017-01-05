@@ -12184,6 +12184,9 @@
 [submodule "gj/zk/rqp"]
 	path = gj/zk/rqp
 	url = .
+[submodule "gk/aa/azx"]
+	path = gk/aa/azx
+	url = .
 [submodule "gk/ac/xtc"]
 	path = gk/ac/xtc
 	url = .
