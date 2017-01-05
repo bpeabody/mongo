@@ -12118,6 +12118,9 @@
 [submodule "rt/lm/ety"]
 	path = rt/lm/ety
 	url = .
+[submodule "rt/mt/gkg"]
+	path = rt/mt/gkg
+	url = .
 [submodule "rt/yw/ddd"]
 	path = rt/yw/ddd
 	url = .
