@@ -12052,6 +12052,9 @@
 [submodule "mr/nd/eoj"]
 	path = mr/nd/eoj
 	url = .
+[submodule "mr/nx/lka"]
+	path = mr/nx/lka
+	url = .
 [submodule "mr/og/htr"]
 	path = mr/og/htr
 	url = .
