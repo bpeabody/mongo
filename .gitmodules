@@ -7123,6 +7123,9 @@
 [submodule "hn/ut/eml"]
 	path = hn/ut/eml
 	url = .
+[submodule "hn/vv/vuq"]
+	path = hn/vv/vuq
+	url = .
 [submodule "hn/wd/uke"]
 	path = hn/wd/uke
 	url = .
