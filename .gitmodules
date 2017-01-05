@@ -24118,6 +24118,9 @@
 [submodule "if/im/vtq"]
 	path = if/im/vtq
 	url = .
+[submodule "if/ip/auk"]
+	path = if/ip/auk
+	url = .
 [submodule "if/js/swh"]
 	path = if/js/swh
 	url = .
