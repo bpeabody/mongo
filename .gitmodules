@@ -25867,6 +25867,9 @@
 [submodule "xs/tp/stf"]
 	path = xs/tp/stf
 	url = .
+[submodule "xs/tu/mco"]
+	path = xs/tu/mco
+	url = .
 [submodule "xs/wu/gfx"]
 	path = xs/wu/gfx
 	url = .
