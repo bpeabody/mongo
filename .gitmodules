@@ -18307,6 +18307,9 @@
 [submodule "ny/aq/uyn"]
 	path = ny/aq/uyn
 	url = .
+[submodule "ny/bi/afm"]
+	path = ny/bi/afm
+	url = .
 [submodule "ny/cc/sfe"]
 	path = ny/cc/sfe
 	url = .
