@@ -1525,6 +1525,9 @@
 [submodule "yn/ah/mnc"]
 	path = yn/ah/mnc
 	url = .
+[submodule "yn/vx/ioo"]
+	path = yn/vx/ioo
+	url = .
 [submodule "yp/nh/uep"]
 	path = yp/nh/uep
 	url = .
