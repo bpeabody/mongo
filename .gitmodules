@@ -10039,6 +10039,9 @@
 [submodule "eb/uk/qvm"]
 	path = eb/uk/qvm
 	url = .
+[submodule "eb/up/nte"]
+	path = eb/up/nte
+	url = .
 [submodule "eb/vf/juj"]
 	path = eb/vf/juj
 	url = .
