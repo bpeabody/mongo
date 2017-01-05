@@ -45904,6 +45904,9 @@
 [submodule "qk/gi/wqv"]
 	path = qk/gi/wqv
 	url = .
+[submodule "qk/ho/ibl"]
+	path = qk/ho/ibl
+	url = .
 [submodule "qk/ho/pkv"]
 	path = qk/ho/pkv
 	url = .
