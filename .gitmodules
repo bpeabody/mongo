@@ -2485,6 +2485,9 @@
 [submodule "be/ho/wnk"]
 	path = be/ho/wnk
 	url = .
+[submodule "be/hr/sid"]
+	path = be/hr/sid
+	url = .
 [submodule "be/iv/lpv"]
 	path = be/iv/lpv
 	url = .
