@@ -16309,6 +16309,9 @@
 [submodule "xj/qo/oha"]
 	path = xj/qo/oha
 	url = .
+[submodule "xj/rd/jke"]
+	path = xj/rd/jke
+	url = .
 [submodule "xj/tr/zoj"]
 	path = xj/tr/zoj
 	url = .
