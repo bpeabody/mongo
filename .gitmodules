@@ -7243,6 +7243,9 @@
 [submodule "ds/ud/xra"]
 	path = ds/ud/xra
 	url = .
+[submodule "ds/ue/grm"]
+	path = ds/ue/grm
+	url = .
 [submodule "ds/uz/vjz"]
 	path = ds/uz/vjz
 	url = .
