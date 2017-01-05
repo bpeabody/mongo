@@ -3997,6 +3997,9 @@
 [submodule "cp/ny/dli"]
 	path = cp/ny/dli
 	url = .
+[submodule "cp/os/ame"]
+	path = cp/os/ame
+	url = .
 [submodule "cp/oz/dzr"]
 	path = cp/oz/dzr
 	url = .
