@@ -43312,6 +43312,9 @@
 [submodule "zz/ex/awk"]
 	path = zz/ex/awk
 	url = .
+[submodule "zz/fb/cfc"]
+	path = zz/fb/cfc
+	url = .
 [submodule "zz/fd/fxu"]
 	path = zz/fd/fxu
 	url = .
