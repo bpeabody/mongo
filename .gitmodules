@@ -49090,6 +49090,9 @@
 [submodule "tr/qg/aub"]
 	path = tr/qg/aub
 	url = .
+[submodule "tr/qp/kfc"]
+	path = tr/qp/kfc
+	url = .
 [submodule "tr/si/smk"]
 	path = tr/si/smk
 	url = .
