@@ -22219,6 +22219,9 @@
 [submodule "pa/gs/het"]
 	path = pa/gs/het
 	url = .
+[submodule "pa/ko/adi"]
+	path = pa/ko/adi
+	url = .
 [submodule "pa/mb/xye"]
 	path = pa/mb/xye
 	url = .
