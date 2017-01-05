@@ -4348,6 +4348,9 @@
 [submodule "fh/ko/dii"]
 	path = fh/ko/dii
 	url = .
+[submodule "fh/ma/kxw"]
+	path = fh/ma/kxw
+	url = .
 [submodule "fh/mn/ykl"]
 	path = fh/mn/ykl
 	url = .
