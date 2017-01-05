@@ -7528,6 +7528,9 @@
 [submodule "dg/sb/pif"]
 	path = dg/sb/pif
 	url = .
+[submodule "dg/sq/cpd"]
+	path = dg/sq/cpd
+	url = .
 [submodule "dg/sz/pkn"]
 	path = dg/sz/pkn
 	url = .
