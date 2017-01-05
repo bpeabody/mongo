@@ -2146,6 +2146,9 @@
 [submodule "dc/lt/ccn"]
 	path = dc/lt/ccn
 	url = .
+[submodule "dc/na/wkd"]
+	path = dc/na/wkd
+	url = .
 [submodule "dc/oo/ict"]
 	path = dc/oo/ict
 	url = .
