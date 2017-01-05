@@ -17194,6 +17194,9 @@
 [submodule "mb/va/gee"]
 	path = mb/va/gee
 	url = .
+[submodule "mb/wa/mvq"]
+	path = mb/wa/mvq
+	url = .
 [submodule "mb/yg/skn"]
 	path = mb/yg/skn
 	url = .
