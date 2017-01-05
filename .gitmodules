@@ -11242,6 +11242,9 @@
 [submodule "ow/id/wvc"]
 	path = ow/id/wvc
 	url = .
+[submodule "ow/jk/gvj"]
+	path = ow/jk/gvj
+	url = .
 [submodule "ow/jq/tyf"]
 	path = ow/jq/tyf
 	url = .
