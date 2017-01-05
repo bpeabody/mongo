@@ -17191,6 +17191,9 @@
 [submodule "ot/xr/fuk"]
 	path = ot/xr/fuk
 	url = .
+[submodule "ot/xv/jnx"]
+	path = ot/xv/jnx
+	url = .
 [submodule "ot/yd/gdj"]
 	path = ot/yd/gdj
 	url = .
