@@ -20491,6 +20491,9 @@
 [submodule "np/xs/wyo"]
 	path = np/xs/wyo
 	url = .
+[submodule "np/xv/npi"]
+	path = np/xv/npi
+	url = .
 [submodule "nq/aa/yvh"]
 	path = nq/aa/yvh
 	url = .
