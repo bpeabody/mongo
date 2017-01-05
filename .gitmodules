@@ -21199,6 +21199,9 @@
 [submodule "hk/sk/upt"]
 	path = hk/sk/upt
 	url = .
+[submodule "hk/sn/nqc"]
+	path = hk/sn/nqc
+	url = .
 [submodule "hk/sq/zqo"]
 	path = hk/sq/zqo
 	url = .
