@@ -1294,6 +1294,9 @@
 [submodule "kz/tt/fbt"]
 	path = kz/tt/fbt
 	url = .
+[submodule "kz/uf/buv"]
+	path = kz/uf/buv
+	url = .
 [submodule "la/ao/bes"]
 	path = la/ao/bes
 	url = .
