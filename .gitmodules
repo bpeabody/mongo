@@ -64516,6 +64516,9 @@
 [submodule "yx/dl/dmn"]
 	path = yx/dl/dmn
 	url = .
+[submodule "yx/fy/gid"]
+	path = yx/fy/gid
+	url = .
 [submodule "yx/ga/pnl"]
 	path = yx/ga/pnl
 	url = .
