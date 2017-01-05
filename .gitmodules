@@ -52678,6 +52678,9 @@
 [submodule "vd/qq/pky"]
 	path = vd/qq/pky
 	url = .
+[submodule "vd/rd/ndt"]
+	path = vd/rd/ndt
+	url = .
 [submodule "vd/rn/vjk"]
 	path = vd/rn/vjk
 	url = .
