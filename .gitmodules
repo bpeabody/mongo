@@ -1231,6 +1231,9 @@
 [submodule "bj/vh/gly"]
 	path = bj/vh/gly
 	url = .
+[submodule "bj/wk/igh"]
+	path = bj/wk/igh
+	url = .
 [submodule "bj/zd/uqi"]
 	path = bj/zd/uqi
 	url = .
