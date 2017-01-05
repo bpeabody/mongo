@@ -21664,6 +21664,9 @@
 [submodule "nv/rn/imb"]
 	path = nv/rn/imb
 	url = .
+[submodule "nv/sk/qqo"]
+	path = nv/sk/qqo
+	url = .
 [submodule "nv/vc/nmo"]
 	path = nv/vc/nmo
 	url = .
