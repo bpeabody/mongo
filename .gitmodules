@@ -29263,6 +29263,9 @@
 [submodule "rk/bp/pws"]
 	path = rk/bp/pws
 	url = .
+[submodule "rk/eg/bgk"]
+	path = rk/eg/bgk
+	url = .
 [submodule "rk/fc/smz"]
 	path = rk/fc/smz
 	url = .
