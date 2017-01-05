@@ -6829,6 +6829,9 @@
 [submodule "ke/zw/gzj"]
 	path = ke/zw/gzj
 	url = .
+[submodule "kf/bk/bge"]
+	path = kf/bk/bge
+	url = .
 [submodule "kf/sv/bry"]
 	path = kf/sv/bry
 	url = .
