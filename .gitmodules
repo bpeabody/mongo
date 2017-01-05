@@ -15454,6 +15454,9 @@
 [submodule "mg/lb/wkw"]
 	path = mg/lb/wkw
 	url = .
+[submodule "mg/ld/uzl"]
+	path = mg/ld/uzl
+	url = .
 [submodule "mg/nk/ate"]
 	path = mg/nk/ate
 	url = .
