@@ -6877,6 +6877,9 @@
 [submodule "km/ge/pyx"]
 	path = km/ge/pyx
 	url = .
+[submodule "km/ka/ehk"]
+	path = km/ka/ehk
+	url = .
 [submodule "km/kg/niq"]
 	path = km/kg/niq
 	url = .
