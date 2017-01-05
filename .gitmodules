@@ -577,6 +577,9 @@
 [submodule "hn/ut/eml"]
 	path = hn/ut/eml
 	url = .
+[submodule "ho/dr/jvn"]
+	path = ho/dr/jvn
+	url = .
 [submodule "hp/yu/mfe"]
 	path = hp/yu/mfe
 	url = .
