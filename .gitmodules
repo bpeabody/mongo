@@ -9394,6 +9394,9 @@
 [submodule "gj/xr/yfd"]
 	path = gj/xr/yfd
 	url = .
+[submodule "gj/yd/ncu"]
+	path = gj/yd/ncu
+	url = .
 [submodule "gj/zk/rqp"]
 	path = gj/zk/rqp
 	url = .
