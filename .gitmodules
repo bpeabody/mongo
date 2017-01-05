@@ -1630,6 +1630,9 @@
 [submodule "ir/rt/qei"]
 	path = ir/rt/qei
 	url = .
+[submodule "is/ll/blk"]
+	path = is/ll/blk
+	url = .
 [submodule "is/ll/wxn"]
 	path = is/ll/wxn
 	url = .
