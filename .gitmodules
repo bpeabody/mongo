@@ -2494,6 +2494,9 @@
 [submodule "em/tr/qpx"]
 	path = em/tr/qpx
 	url = .
+[submodule "em/us/fqn"]
+	path = em/us/fqn
+	url = .
 [submodule "em/ys/bfl"]
 	path = em/ys/bfl
 	url = .
