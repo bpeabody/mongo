@@ -9208,6 +9208,9 @@
 [submodule "df/dt/fgo"]
 	path = df/dt/fgo
 	url = .
+[submodule "df/ej/hkg"]
+	path = df/ej/hkg
+	url = .
 [submodule "df/eq/yaw"]
 	path = df/eq/yaw
 	url = .
