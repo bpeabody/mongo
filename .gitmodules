@@ -39145,6 +39145,9 @@
 [submodule "sa/ka/biu"]
 	path = sa/ka/biu
 	url = .
+[submodule "sa/kl/qtb"]
+	path = sa/kl/qtb
+	url = .
 [submodule "sa/lm/aub"]
 	path = sa/lm/aub
 	url = .
