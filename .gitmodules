@@ -937,6 +937,9 @@
 [submodule "aw/pk/phc"]
 	path = aw/pk/phc
 	url = .
+[submodule "aw/sc/tgn"]
+	path = aw/sc/tgn
+	url = .
 [submodule "ax/ak/dty"]
 	path = ax/ak/dty
 	url = .
