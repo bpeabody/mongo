@@ -64243,6 +64243,9 @@
 [submodule "yw/ga/oqu"]
 	path = yw/ga/oqu
 	url = .
+[submodule "yw/gb/uyb"]
+	path = yw/gb/uyb
+	url = .
 [submodule "yw/gz/ubd"]
 	path = yw/gz/ubd
 	url = .
