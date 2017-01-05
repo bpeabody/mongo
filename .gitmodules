@@ -1774,6 +1774,9 @@
 [submodule "ju/lr/ldz"]
 	path = ju/lr/ldz
 	url = .
+[submodule "ju/tn/bmw"]
+	path = ju/tn/bmw
+	url = .
 [submodule "ju/xi/lkg"]
 	path = ju/xi/lkg
 	url = .
