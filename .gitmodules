@@ -4552,6 +4552,9 @@
 [submodule "cr/rl/tdw"]
 	path = cr/rl/tdw
 	url = .
+[submodule "cr/ry/oas"]
+	path = cr/ry/oas
+	url = .
 [submodule "cr/sl/uzo"]
 	path = cr/sl/uzo
 	url = .
