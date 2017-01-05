@@ -6106,6 +6106,9 @@
 [submodule "dn/sw/tgs"]
 	path = dn/sw/tgs
 	url = .
+[submodule "dn/sy/alj"]
+	path = dn/sy/alj
+	url = .
 [submodule "dn/uq/lix"]
 	path = dn/uq/lix
 	url = .
