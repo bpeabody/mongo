@@ -17317,6 +17317,9 @@
 [submodule "qy/id/ars"]
 	path = qy/id/ars
 	url = .
+[submodule "qy/jc/aan"]
+	path = qy/jc/aan
+	url = .
 [submodule "qy/lx/sdi"]
 	path = qy/lx/sdi
 	url = .
