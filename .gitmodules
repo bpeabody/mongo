@@ -18463,6 +18463,9 @@
 [submodule "zv/ag/sib"]
 	path = zv/ag/sib
 	url = .
+[submodule "zv/ch/lbf"]
+	path = zv/ch/lbf
+	url = .
 [submodule "zv/gp/erp"]
 	path = zv/gp/erp
 	url = .
