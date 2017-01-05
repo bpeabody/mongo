@@ -9247,6 +9247,9 @@
 [submodule "er/rb/duh"]
 	path = er/rb/duh
 	url = .
+[submodule "er/st/kwb"]
+	path = er/st/kwb
+	url = .
 [submodule "er/wo/drv"]
 	path = er/wo/drv
 	url = .
