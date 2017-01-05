@@ -17377,6 +17377,9 @@
 [submodule "rh/fj/dfn"]
 	path = rh/fj/dfn
 	url = .
+[submodule "rh/ii/edm"]
+	path = rh/ii/edm
+	url = .
 [submodule "rh/ik/pxa"]
 	path = rh/ik/pxa
 	url = .
