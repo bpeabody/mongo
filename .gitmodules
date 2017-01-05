@@ -39253,6 +39253,9 @@
 [submodule "pu/po/qzk"]
 	path = pu/po/qzk
 	url = .
+[submodule "pu/pq/jiu"]
+	path = pu/pq/jiu
+	url = .
 [submodule "pu/sk/mdm"]
 	path = pu/sk/mdm
 	url = .
