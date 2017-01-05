@@ -5056,6 +5056,9 @@
 [submodule "eh/rf/uzo"]
 	path = eh/rf/uzo
 	url = .
+[submodule "eh/tm/jum"]
+	path = eh/tm/jum
+	url = .
 [submodule "eh/tw/xwb"]
 	path = eh/tw/xwb
 	url = .
