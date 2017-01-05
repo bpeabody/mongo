@@ -43270,6 +43270,9 @@
 [submodule "pl/rc/ozu"]
 	path = pl/rc/ozu
 	url = .
+[submodule "pl/rg/xud"]
+	path = pl/rg/xud
+	url = .
 [submodule "pl/sz/oyo"]
 	path = pl/sz/oyo
 	url = .
