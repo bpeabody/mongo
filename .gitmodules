@@ -5548,6 +5548,9 @@
 [submodule "xk/lc/pux"]
 	path = xk/lc/pux
 	url = .
+[submodule "xk/nr/dgx"]
+	path = xk/nr/dgx
+	url = .
 [submodule "xk/pz/hwa"]
 	path = xk/pz/hwa
 	url = .
