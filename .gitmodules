@@ -20047,6 +20047,9 @@
 [submodule "nf/hp/idu"]
 	path = nf/hp/idu
 	url = .
+[submodule "nf/if/uvy"]
+	path = nf/if/uvy
+	url = .
 [submodule "nf/lh/zno"]
 	path = nf/lh/zno
 	url = .
