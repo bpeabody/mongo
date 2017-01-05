@@ -14476,6 +14476,9 @@
 [submodule "gy/vf/pto"]
 	path = gy/vf/pto
 	url = .
+[submodule "gy/vj/yky"]
+	path = gy/vj/yky
+	url = .
 [submodule "gy/vn/fyp"]
 	path = gy/vn/fyp
 	url = .
