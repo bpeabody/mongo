@@ -1840,6 +1840,9 @@
 [submodule "bf/bo/dye"]
 	path = bf/bo/dye
 	url = .
+[submodule "bf/bx/hci"]
+	path = bf/bx/hci
+	url = .
 [submodule "bf/cs/xic"]
 	path = bf/cs/xic
 	url = .
