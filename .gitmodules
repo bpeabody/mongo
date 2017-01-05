@@ -7027,6 +7027,9 @@
 [submodule "cx/dq/bpm"]
 	path = cx/dq/bpm
 	url = .
+[submodule "cx/du/dfn"]
+	path = cx/du/dfn
+	url = .
 [submodule "cx/ec/dsv"]
 	path = cx/ec/dsv
 	url = .
