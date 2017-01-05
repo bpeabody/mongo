@@ -193,6 +193,9 @@
 [submodule "jz/dj/fqj"]
 	path = jz/dj/fqj
 	url = .
+[submodule "jz/vf/ksx"]
+	path = jz/vf/ksx
+	url = .
 [submodule "ko/xh/ucl"]
 	path = ko/xh/ucl
 	url = .
