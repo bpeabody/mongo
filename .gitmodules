@@ -65134,6 +65134,9 @@
 [submodule "xi/kp/exq"]
 	path = xi/kp/exq
 	url = .
+[submodule "xi/lv/scj"]
+	path = xi/lv/scj
+	url = .
 [submodule "xi/lv/sgk"]
 	path = xi/lv/sgk
 	url = .
