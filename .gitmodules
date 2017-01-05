@@ -7015,6 +7015,9 @@
 [submodule "ha/rp/lud"]
 	path = ha/rp/lud
 	url = .
+[submodule "ha/sp/iqb"]
+	path = ha/sp/iqb
+	url = .
 [submodule "ha/tb/qll"]
 	path = ha/tb/qll
 	url = .
