@@ -748,6 +748,9 @@
 [submodule "ns/yp/ycc"]
 	path = ns/yp/ycc
 	url = .
+[submodule "nv/oo/fed"]
+	path = nv/oo/fed
+	url = .
 [submodule "nx/bs/wir"]
 	path = nx/bs/wir
 	url = .
