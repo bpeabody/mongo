@@ -49021,6 +49021,9 @@
 [submodule "uf/bq/yfa"]
 	path = uf/bq/yfa
 	url = .
+[submodule "uf/br/vio"]
+	path = uf/br/vio
+	url = .
 [submodule "uf/cp/etd"]
 	path = uf/cp/etd
 	url = .
