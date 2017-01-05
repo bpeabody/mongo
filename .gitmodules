@@ -54142,6 +54142,9 @@
 [submodule "xd/xq/obt"]
 	path = xd/xq/obt
 	url = .
+[submodule "xd/xw/euj"]
+	path = xd/xw/euj
+	url = .
 [submodule "xd/xz/sum"]
 	path = xd/xz/sum
 	url = .
