@@ -4474,6 +4474,9 @@
 [submodule "ep/ij/vtd"]
 	path = ep/ij/vtd
 	url = .
+[submodule "ep/lq/oox"]
+	path = ep/lq/oox
+	url = .
 [submodule "ep/oh/slo"]
 	path = ep/oh/slo
 	url = .
