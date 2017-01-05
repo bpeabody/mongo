@@ -14095,6 +14095,9 @@
 [submodule "yf/qp/fzs"]
 	path = yf/qp/fzs
 	url = .
+[submodule "yf/sg/wub"]
+	path = yf/sg/wub
+	url = .
 [submodule "yf/th/oaw"]
 	path = yf/th/oaw
 	url = .
