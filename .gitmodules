@@ -184,6 +184,9 @@
 [submodule "ac/nl/kte"]
 	path = ac/nl/kte
 	url = .
+[submodule "ac/rj/nag"]
+	path = ac/rj/nag
+	url = .
 [submodule "ac/sa/ckh"]
 	path = ac/sa/ckh
 	url = .
