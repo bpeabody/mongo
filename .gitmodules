@@ -61,6 +61,9 @@
 [submodule "fl/yn/vzt"]
 	path = fl/yn/vzt
 	url = .
+[submodule "gi/ta/yii"]
+	path = gi/ta/yii
+	url = .
 [submodule "gj/tg/mta"]
 	path = gj/tg/mta
 	url = .
