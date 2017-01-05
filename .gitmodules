@@ -11266,6 +11266,9 @@
 [submodule "ms/ls/zrf"]
 	path = ms/ls/zrf
 	url = .
+[submodule "ms/ol/kre"]
+	path = ms/ol/kre
+	url = .
 [submodule "ms/os/vns"]
 	path = ms/os/vns
 	url = .
