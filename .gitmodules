@@ -11377,6 +11377,9 @@
 [submodule "lm/gn/vis"]
 	path = lm/gn/vis
 	url = .
+[submodule "lm/ia/zli"]
+	path = lm/ia/zli
+	url = .
 [submodule "lm/ik/hqo"]
 	path = lm/ik/hqo
 	url = .
