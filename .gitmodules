@@ -5620,6 +5620,9 @@
 [submodule "ed/jw/cdb"]
 	path = ed/jw/cdb
 	url = .
+[submodule "ed/kv/qyc"]
+	path = ed/kv/qyc
+	url = .
 [submodule "ed/lk/rlo"]
 	path = ed/lk/rlo
 	url = .
