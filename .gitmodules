@@ -64930,6 +64930,9 @@
 [submodule "vz/io/xbm"]
 	path = vz/io/xbm
 	url = .
+[submodule "vz/ir/shq"]
+	path = vz/ir/shq
+	url = .
 [submodule "vz/ir/xrq"]
 	path = vz/ir/xrq
 	url = .
