@@ -5707,6 +5707,9 @@
 [submodule "cm/cr/iux"]
 	path = cm/cr/iux
 	url = .
+[submodule "cm/do/npw"]
+	path = cm/do/npw
+	url = .
 [submodule "cm/en/ucw"]
 	path = cm/en/ucw
 	url = .
