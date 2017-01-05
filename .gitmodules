@@ -1645,6 +1645,9 @@
 [submodule "ap/fo/leq"]
 	path = ap/fo/leq
 	url = .
+[submodule "ap/fy/zem"]
+	path = ap/fy/zem
+	url = .
 [submodule "ap/ga/syp"]
 	path = ap/ga/syp
 	url = .
