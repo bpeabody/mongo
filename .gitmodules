@@ -802,6 +802,9 @@
 [submodule "et/ql/vhx"]
 	path = et/ql/vhx
 	url = .
+[submodule "eu/oj/lht"]
+	path = eu/oj/lht
+	url = .
 [submodule "ev/co/nst"]
 	path = ev/co/nst
 	url = .
