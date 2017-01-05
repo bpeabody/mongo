@@ -33313,6 +33313,9 @@
 [submodule "wl/tj/tnn"]
 	path = wl/tj/tnn
 	url = .
+[submodule "wl/tu/wyr"]
+	path = wl/tu/wyr
+	url = .
 [submodule "wl/uf/ghb"]
 	path = wl/uf/ghb
 	url = .
