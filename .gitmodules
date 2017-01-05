@@ -496,6 +496,9 @@
 [submodule "hp/yu/mfe"]
 	path = hp/yu/mfe
 	url = .
+[submodule "hq/bt/svc"]
+	path = hq/bt/svc
+	url = .
 [submodule "hq/uw/iwi"]
 	path = hq/uw/iwi
 	url = .
