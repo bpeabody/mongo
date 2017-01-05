@@ -562,6 +562,9 @@
 [submodule "lh/jz/qip"]
 	path = lh/jz/qip
 	url = .
+[submodule "li/cd/lfw"]
+	path = li/cd/lfw
+	url = .
 [submodule "li/xi/iiz"]
 	path = li/xi/iiz
 	url = .
