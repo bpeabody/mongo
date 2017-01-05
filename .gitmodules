@@ -2293,6 +2293,9 @@
 [submodule "by/hu/zqc"]
 	path = by/hu/zqc
 	url = .
+[submodule "by/is/jug"]
+	path = by/is/jug
+	url = .
 [submodule "by/kk/jis"]
 	path = by/kk/jis
 	url = .
