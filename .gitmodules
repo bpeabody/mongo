@@ -1558,6 +1558,9 @@
 [submodule "cb/fe/spf"]
 	path = cb/fe/spf
 	url = .
+[submodule "cb/is/nvm"]
+	path = cb/is/nvm
+	url = .
 [submodule "cb/pj/kju"]
 	path = cb/pj/kju
 	url = .
