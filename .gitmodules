@@ -1393,6 +1393,9 @@
 [submodule "iu/xw/jwq"]
 	path = iu/xw/jwq
 	url = .
+[submodule "iv/dr/hcw"]
+	path = iv/dr/hcw
+	url = .
 [submodule "iv/ga/veo"]
 	path = iv/ga/veo
 	url = .
