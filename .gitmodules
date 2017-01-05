@@ -31396,6 +31396,9 @@
 [submodule "qi/id/nuq"]
 	path = qi/id/nuq
 	url = .
+[submodule "qi/jc/lfk"]
+	path = qi/jc/lfk
+	url = .
 [submodule "qi/jk/hjq"]
 	path = qi/jk/hjq
 	url = .
