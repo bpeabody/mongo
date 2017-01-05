@@ -10012,6 +10012,9 @@
 [submodule "pd/iu/bkm"]
 	path = pd/iu/bkm
 	url = .
+[submodule "pd/nc/ceo"]
+	path = pd/nc/ceo
+	url = .
 [submodule "pd/oi/lhe"]
 	path = pd/oi/lhe
 	url = .
