@@ -2104,6 +2104,9 @@
 [submodule "ft/dl/aei"]
 	path = ft/dl/aei
 	url = .
+[submodule "ft/io/kvp"]
+	path = ft/io/kvp
+	url = .
 [submodule "ft/ky/bdb"]
 	path = ft/ky/bdb
 	url = .
