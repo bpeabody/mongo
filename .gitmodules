@@ -5836,6 +5836,9 @@
 [submodule "lh/cu/qpy"]
 	path = lh/cu/qpy
 	url = .
+[submodule "lh/fg/stt"]
+	path = lh/fg/stt
+	url = .
 [submodule "lh/gx/ych"]
 	path = lh/gx/ych
 	url = .
