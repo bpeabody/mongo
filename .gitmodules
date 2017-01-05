@@ -9976,6 +9976,9 @@
 [submodule "pu/vb/yyv"]
 	path = pu/vb/yyv
 	url = .
+[submodule "pu/vr/xft"]
+	path = pu/vr/xft
+	url = .
 [submodule "pu/wr/gfn"]
 	path = pu/wr/gfn
 	url = .
