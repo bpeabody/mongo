@@ -35587,6 +35587,9 @@
 [submodule "sc/qh/yag"]
 	path = sc/qh/yag
 	url = .
+[submodule "sc/re/jav"]
+	path = sc/re/jav
+	url = .
 [submodule "sc/ri/ugg"]
 	path = sc/ri/ugg
 	url = .
