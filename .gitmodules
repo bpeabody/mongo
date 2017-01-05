@@ -10864,6 +10864,9 @@
 [submodule "ry/rg/ybt"]
 	path = ry/rg/ybt
 	url = .
+[submodule "ry/ur/ysa"]
+	path = ry/ur/ysa
+	url = .
 [submodule "ry/wg/nnq"]
 	path = ry/wg/nnq
 	url = .
