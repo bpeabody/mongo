@@ -2113,6 +2113,9 @@
 [submodule "bw/bq/vgo"]
 	path = bw/bq/vgo
 	url = .
+[submodule "bw/co/qbk"]
+	path = bw/co/qbk
+	url = .
 [submodule "bw/dj/yde"]
 	path = bw/dj/yde
 	url = .
