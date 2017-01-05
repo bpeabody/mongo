@@ -12073,6 +12073,9 @@
 [submodule "wr/et/yux"]
 	path = wr/et/yux
 	url = .
+[submodule "wr/hn/yvf"]
+	path = wr/hn/yvf
+	url = .
 [submodule "wr/kt/pqq"]
 	path = wr/kt/pqq
 	url = .
