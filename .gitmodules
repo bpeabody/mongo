@@ -13420,6 +13420,9 @@
 [submodule "sl/gl/dfv"]
 	path = sl/gl/dfv
 	url = .
+[submodule "sl/gy/riu"]
+	path = sl/gy/riu
+	url = .
 [submodule "sl/ja/oyc"]
 	path = sl/ja/oyc
 	url = .
