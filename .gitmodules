@@ -3901,6 +3901,9 @@
 [submodule "bh/tg/kjo"]
 	path = bh/tg/kjo
 	url = .
+[submodule "bh/ts/nvq"]
+	path = bh/ts/nvq
+	url = .
 [submodule "bh/tx/vrr"]
 	path = bh/tx/vrr
 	url = .
