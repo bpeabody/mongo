@@ -14281,6 +14281,9 @@
 [submodule "kb/fu/ayp"]
 	path = kb/fu/ayp
 	url = .
+[submodule "kb/gi/rgp"]
+	path = kb/gi/rgp
+	url = .
 [submodule "kb/kf/qpl"]
 	path = kb/kf/qpl
 	url = .
