@@ -31861,6 +31861,9 @@
 [submodule "kp/uq/ksl"]
 	path = kp/uq/ksl
 	url = .
+[submodule "kp/vj/ohm"]
+	path = kp/vj/ohm
+	url = .
 [submodule "kp/wd/pmr"]
 	path = kp/wd/pmr
 	url = .
