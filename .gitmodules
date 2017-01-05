@@ -26269,6 +26269,9 @@
 [submodule "kh/mw/mhm"]
 	path = kh/mw/mhm
 	url = .
+[submodule "kh/nl/eou"]
+	path = kh/nl/eou
+	url = .
 [submodule "kh/oe/nix"]
 	path = kh/oe/nix
 	url = .
