@@ -16855,6 +16855,9 @@
 [submodule "kh/vo/cpu"]
 	path = kh/vo/cpu
 	url = .
+[submodule "kh/vp/qrg"]
+	path = kh/vp/qrg
+	url = .
 [submodule "kh/wk/ysn"]
 	path = kh/wk/ysn
 	url = .
