@@ -478,6 +478,9 @@
 [submodule "hh/wg/dpz"]
 	path = hh/wg/dpz
 	url = .
+[submodule "hh/zo/wju"]
+	path = hh/zo/wju
+	url = .
 [submodule "hj/bo/xyv"]
 	path = hj/bo/xyv
 	url = .
