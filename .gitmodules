@@ -4090,6 +4090,9 @@
 [submodule "ef/sg/yqc"]
 	path = ef/sg/yqc
 	url = .
+[submodule "ef/tq/hol"]
+	path = ef/tq/hol
+	url = .
 [submodule "ef/uk/tfs"]
 	path = ef/uk/tfs
 	url = .
