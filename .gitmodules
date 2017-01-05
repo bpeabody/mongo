@@ -823,6 +823,9 @@
 [submodule "ai/gb/nnv"]
 	path = ai/gb/nnv
 	url = .
+[submodule "ai/gu/nez"]
+	path = ai/gu/nez
+	url = .
 [submodule "ai/ir/zjr"]
 	path = ai/ir/zjr
 	url = .
