@@ -5503,6 +5503,9 @@
 [submodule "ii/oz/nop"]
 	path = ii/oz/nop
 	url = .
+[submodule "ii/ru/eqf"]
+	path = ii/ru/eqf
+	url = .
 [submodule "ii/sv/yun"]
 	path = ii/sv/yun
 	url = .
