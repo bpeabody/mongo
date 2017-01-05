@@ -1081,6 +1081,9 @@
 [submodule "fo/qz/ndm"]
 	path = fo/qz/ndm
 	url = .
+[submodule "fo/uv/gtl"]
+	path = fo/uv/gtl
+	url = .
 [submodule "fp/ha/ijx"]
 	path = fp/ha/ijx
 	url = .
