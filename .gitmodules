@@ -6481,6 +6481,9 @@
 [submodule "nf/va/oyf"]
 	path = nf/va/oyf
 	url = .
+[submodule "nf/xi/wsa"]
+	path = nf/xi/wsa
+	url = .
 [submodule "nf/ya/qmo"]
 	path = nf/ya/qmo
 	url = .
