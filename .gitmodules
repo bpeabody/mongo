@@ -3121,6 +3121,9 @@
 [submodule "on/it/jwz"]
 	path = on/it/jwz
 	url = .
+[submodule "on/no/lyk"]
+	path = on/no/lyk
+	url = .
 [submodule "on/vh/ytb"]
 	path = on/vh/ytb
 	url = .
