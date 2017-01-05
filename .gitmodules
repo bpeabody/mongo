@@ -43684,6 +43684,9 @@
 [submodule "yp/it/qli"]
 	path = yp/it/qli
 	url = .
+[submodule "yp/jj/nxi"]
+	path = yp/jj/nxi
+	url = .
 [submodule "yp/jr/aba"]
 	path = yp/jr/aba
 	url = .
