@@ -1273,6 +1273,9 @@
 [submodule "ap/kg/vzl"]
 	path = ap/kg/vzl
 	url = .
+[submodule "ap/kk/gaf"]
+	path = ap/kk/gaf
+	url = .
 [submodule "ap/lv/jgx"]
 	path = ap/lv/jgx
 	url = .
