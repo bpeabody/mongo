@@ -3418,6 +3418,9 @@
 [submodule "be/zc/cms"]
 	path = be/zc/cms
 	url = .
+[submodule "be/zc/gem"]
+	path = be/zc/gem
+	url = .
 [submodule "bf/ad/gbb"]
 	path = bf/ad/gbb
 	url = .
