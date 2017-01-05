@@ -8083,6 +8083,9 @@
 [submodule "gm/ux/psr"]
 	path = gm/ux/psr
 	url = .
+[submodule "gm/va/mwu"]
+	path = gm/va/mwu
+	url = .
 [submodule "gm/xb/baq"]
 	path = gm/xb/baq
 	url = .
