@@ -22588,6 +22588,9 @@
 [submodule "qt/io/zve"]
 	path = qt/io/zve
 	url = .
+[submodule "qt/iu/nad"]
+	path = qt/iu/nad
+	url = .
 [submodule "qt/ke/nde"]
 	path = qt/ke/nde
 	url = .
