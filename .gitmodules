@@ -37,6 +37,9 @@
 [submodule "ac/nb/xui"]
 	path = ac/nb/xui
 	url = .
+[submodule "ac/sa/ckh"]
+	path = ac/sa/ckh
+	url = .
 [submodule "ac/tc/wxn"]
 	path = ac/tc/wxn
 	url = .
