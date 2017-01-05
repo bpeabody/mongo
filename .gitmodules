@@ -3820,6 +3820,9 @@
 [submodule "gm/gy/ori"]
 	path = gm/gy/ori
 	url = .
+[submodule "gm/jj/sxl"]
+	path = gm/jj/sxl
+	url = .
 [submodule "gm/jq/tke"]
 	path = gm/jq/tke
 	url = .
