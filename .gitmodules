@@ -41821,6 +41821,9 @@
 [submodule "qq/hg/mnq"]
 	path = qq/hg/mnq
 	url = .
+[submodule "qq/hm/vct"]
+	path = qq/hm/vct
+	url = .
 [submodule "qq/il/ooa"]
 	path = qq/il/ooa
 	url = .
