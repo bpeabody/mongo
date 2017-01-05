@@ -16297,6 +16297,9 @@
 [submodule "sd/lr/awq"]
 	path = sd/lr/awq
 	url = .
+[submodule "sd/ly/brd"]
+	path = sd/ly/brd
+	url = .
 [submodule "sd/pr/nlb"]
 	path = sd/pr/nlb
 	url = .
