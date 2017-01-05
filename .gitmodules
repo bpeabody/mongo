@@ -11578,6 +11578,9 @@
 [submodule "fh/dm/aib"]
 	path = fh/dm/aib
 	url = .
+[submodule "fh/dp/thk"]
+	path = fh/dp/thk
+	url = .
 [submodule "fh/fz/nag"]
 	path = fh/fz/nag
 	url = .
