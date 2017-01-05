@@ -10465,6 +10465,9 @@
 [submodule "nx/qt/itx"]
 	path = nx/qt/itx
 	url = .
+[submodule "nx/tz/dir"]
+	path = nx/tz/dir
+	url = .
 [submodule "nx/ug/ghp"]
 	path = nx/ug/ghp
 	url = .
