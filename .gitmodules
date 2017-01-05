@@ -9127,6 +9127,9 @@
 [submodule "kr/it/ixr"]
 	path = kr/it/ixr
 	url = .
+[submodule "kr/kj/owo"]
+	path = kr/kj/owo
+	url = .
 [submodule "kr/ll/lbp"]
 	path = kr/ll/lbp
 	url = .
