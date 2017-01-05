@@ -2893,6 +2893,9 @@
 [submodule "lp/hm/vxx"]
 	path = lp/hm/vxx
 	url = .
+[submodule "lr/az/ayo"]
+	path = lr/az/ayo
+	url = .
 [submodule "lr/nl/ukl"]
 	path = lr/nl/ukl
 	url = .
