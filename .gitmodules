@@ -29344,6 +29344,9 @@
 [submodule "kl/cq/vgc"]
 	path = kl/cq/vgc
 	url = .
+[submodule "kl/de/bfh"]
+	path = kl/de/bfh
+	url = .
 [submodule "kl/dk/iti"]
 	path = kl/dk/iti
 	url = .
