@@ -22666,6 +22666,9 @@
 [submodule "qv/pq/nwe"]
 	path = qv/pq/nwe
 	url = .
+[submodule "qv/qz/xkm"]
+	path = qv/qz/xkm
+	url = .
 [submodule "qv/tc/fof"]
 	path = qv/tc/fof
 	url = .
