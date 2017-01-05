@@ -676,6 +676,9 @@
 [submodule "rk/sm/uba"]
 	path = rk/sm/uba
 	url = .
+[submodule "rm/ft/asl"]
+	path = rm/ft/asl
+	url = .
 [submodule "rm/xn/emh"]
 	path = rm/xn/emh
 	url = .
