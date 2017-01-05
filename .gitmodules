@@ -27784,6 +27784,9 @@
 [submodule "rc/av/ssw"]
 	path = rc/av/ssw
 	url = .
+[submodule "rc/aw/azu"]
+	path = rc/aw/azu
+	url = .
 [submodule "rc/ca/ydl"]
 	path = rc/ca/ydl
 	url = .
