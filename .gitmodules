@@ -25045,6 +25045,9 @@
 [submodule "ti/bt/ruc"]
 	path = ti/bt/ruc
 	url = .
+[submodule "ti/fm/nsj"]
+	path = ti/fm/nsj
+	url = .
 [submodule "ti/jy/agu"]
 	path = ti/jy/agu
 	url = .
