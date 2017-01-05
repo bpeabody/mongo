@@ -46312,6 +46312,9 @@
 [submodule "zb/nn/uro"]
 	path = zb/nn/uro
 	url = .
+[submodule "zb/oy/pan"]
+	path = zb/oy/pan
+	url = .
 [submodule "zb/pb/thc"]
 	path = zb/pb/thc
 	url = .
