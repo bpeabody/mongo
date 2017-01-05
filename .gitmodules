@@ -4531,6 +4531,9 @@
 [submodule "db/pw/gpc"]
 	path = db/pw/gpc
 	url = .
+[submodule "db/qr/liv"]
+	path = db/qr/liv
+	url = .
 [submodule "db/ud/hro"]
 	path = db/ud/hro
 	url = .
