@@ -27274,6 +27274,9 @@
 [submodule "mt/uq/ypc"]
 	path = mt/uq/ypc
 	url = .
+[submodule "mt/vq/tky"]
+	path = mt/vq/tky
+	url = .
 [submodule "mt/wp/aea"]
 	path = mt/wp/aea
 	url = .
