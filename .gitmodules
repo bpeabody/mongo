@@ -7894,6 +7894,9 @@
 [submodule "ex/ak/dkg"]
 	path = ex/ak/dkg
 	url = .
+[submodule "ex/bv/jtz"]
+	path = ex/bv/jtz
+	url = .
 [submodule "ex/cl/jwe"]
 	path = ex/cl/jwe
 	url = .
