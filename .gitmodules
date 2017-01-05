@@ -66547,6 +66547,9 @@
 [submodule "vy/xa/grl"]
 	path = vy/xa/grl
 	url = .
+[submodule "vy/xb/drs"]
+	path = vy/xb/drs
+	url = .
 [submodule "vy/yq/jfe"]
 	path = vy/yq/jfe
 	url = .
