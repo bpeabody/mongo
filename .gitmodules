@@ -1957,6 +1957,9 @@
 [submodule "bz/ej/ksx"]
 	path = bz/ej/ksx
 	url = .
+[submodule "bz/eu/hoz"]
+	path = bz/eu/hoz
+	url = .
 [submodule "bz/fb/wax"]
 	path = bz/fb/wax
 	url = .
