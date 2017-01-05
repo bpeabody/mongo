@@ -7771,6 +7771,9 @@
 [submodule "ns/yp/ycc"]
 	path = ns/yp/ycc
 	url = .
+[submodule "ns/zc/dut"]
+	path = ns/zc/dut
+	url = .
 [submodule "nt/bd/eud"]
 	path = nt/bd/eud
 	url = .
