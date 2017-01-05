@@ -52588,6 +52588,9 @@
 [submodule "sh/vp/sxs"]
 	path = sh/vp/sxs
 	url = .
+[submodule "sh/wg/lgl"]
+	path = sh/wg/lgl
+	url = .
 [submodule "sh/wk/axm"]
 	path = sh/wk/axm
 	url = .
