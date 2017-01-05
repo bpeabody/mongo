@@ -9949,6 +9949,9 @@
 [submodule "pw/ks/vbv"]
 	path = pw/ks/vbv
 	url = .
+[submodule "pw/lu/hqi"]
+	path = pw/lu/hqi
+	url = .
 [submodule "pw/ty/zag"]
 	path = pw/ty/zag
 	url = .
