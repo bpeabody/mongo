@@ -7171,6 +7171,9 @@
 [submodule "eg/xi/cwu"]
 	path = eg/xi/cwu
 	url = .
+[submodule "eg/xz/rnp"]
+	path = eg/xz/rnp
+	url = .
 [submodule "eg/yd/nxz"]
 	path = eg/yd/nxz
 	url = .
