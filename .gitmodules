@@ -1900,6 +1900,9 @@
 [submodule "wb/iv/qhz"]
 	path = wb/iv/qhz
 	url = .
+[submodule "wf/fo/isc"]
+	path = wf/fo/isc
+	url = .
 [submodule "wf/pe/aww"]
 	path = wf/pe/aww
 	url = .
