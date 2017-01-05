@@ -10828,6 +10828,9 @@
 [submodule "uk/xj/bgu"]
 	path = uk/xj/bgu
 	url = .
+[submodule "uk/xw/hsn"]
+	path = uk/xw/hsn
+	url = .
 [submodule "uk/zi/tjx"]
 	path = uk/zi/tjx
 	url = .
