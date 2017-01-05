@@ -44161,6 +44161,9 @@
 [submodule "ql/pq/nvy"]
 	path = ql/pq/nvy
 	url = .
+[submodule "ql/sl/prt"]
+	path = ql/sl/prt
+	url = .
 [submodule "ql/sz/ust"]
 	path = ql/sz/ust
 	url = .
