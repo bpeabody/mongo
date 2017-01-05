@@ -32815,6 +32815,9 @@
 [submodule "tz/cb/blp"]
 	path = tz/cb/blp
 	url = .
+[submodule "tz/cc/fhx"]
+	path = tz/cc/fhx
+	url = .
 [submodule "tz/cc/juy"]
 	path = tz/cc/juy
 	url = .
