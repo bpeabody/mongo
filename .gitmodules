@@ -5047,6 +5047,9 @@
 [submodule "ir/oa/psl"]
 	path = ir/oa/psl
 	url = .
+[submodule "ir/rt/jpb"]
+	path = ir/rt/jpb
+	url = .
 [submodule "ir/rt/qei"]
 	path = ir/rt/qei
 	url = .
