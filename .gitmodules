@@ -541,6 +541,9 @@
 [submodule "ef/lf/tes"]
 	path = ef/lf/tes
 	url = .
+[submodule "ef/zi/zqi"]
+	path = ef/zi/zqi
+	url = .
 [submodule "ef/zj/iyr"]
 	path = ef/zj/iyr
 	url = .
