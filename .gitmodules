@@ -3844,6 +3844,9 @@
 [submodule "hk/uc/xti"]
 	path = hk/uc/xti
 	url = .
+[submodule "hl/ah/suq"]
+	path = hl/ah/suq
+	url = .
 [submodule "hl/bd/mrv"]
 	path = hl/bd/mrv
 	url = .
