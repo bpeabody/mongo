@@ -20806,6 +20806,9 @@
 [submodule "iv/nd/wrf"]
 	path = iv/nd/wrf
 	url = .
+[submodule "iv/nj/heg"]
+	path = iv/nj/heg
+	url = .
 [submodule "iv/nn/igk"]
 	path = iv/nn/igk
 	url = .
