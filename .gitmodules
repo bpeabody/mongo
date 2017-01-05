@@ -12508,6 +12508,9 @@
 [submodule "kg/og/owe"]
 	path = kg/og/owe
 	url = .
+[submodule "kg/sb/jda"]
+	path = kg/sb/jda
+	url = .
 [submodule "kg/ue/kfl"]
 	path = kg/ue/kfl
 	url = .
