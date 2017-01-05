@@ -1549,6 +1549,9 @@
 [submodule "bg/sd/pvw"]
 	path = bg/sd/pvw
 	url = .
+[submodule "bg/sf/ert"]
+	path = bg/sf/ert
+	url = .
 [submodule "bg/ub/hli"]
 	path = bg/ub/hli
 	url = .
