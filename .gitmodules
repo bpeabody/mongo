@@ -38917,6 +38917,9 @@
 [submodule "np/tv/wdq"]
 	path = np/tv/wdq
 	url = .
+[submodule "np/ug/jwg"]
+	path = np/ug/jwg
+	url = .
 [submodule "np/uw/tkw"]
 	path = np/uw/tkw
 	url = .
