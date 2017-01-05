@@ -23356,6 +23356,9 @@
 [submodule "wo/fv/ksz"]
 	path = wo/fv/ksz
 	url = .
+[submodule "wo/hs/khi"]
+	path = wo/hs/khi
+	url = .
 [submodule "wo/io/qjn"]
 	path = wo/io/qjn
 	url = .
