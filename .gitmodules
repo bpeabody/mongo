@@ -20842,6 +20842,9 @@
 [submodule "mb/ql/emq"]
 	path = mb/ql/emq
 	url = .
+[submodule "mb/tr/ugz"]
+	path = mb/tr/ugz
+	url = .
 [submodule "mb/tz/jke"]
 	path = mb/tz/jke
 	url = .
