@@ -817,6 +817,9 @@
 [submodule "aj/bj/tmh"]
 	path = aj/bj/tmh
 	url = .
+[submodule "aj/bz/bcq"]
+	path = aj/bz/bcq
+	url = .
 [submodule "aj/do/kkl"]
 	path = aj/do/kkl
 	url = .
