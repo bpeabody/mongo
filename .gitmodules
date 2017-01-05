@@ -1666,6 +1666,9 @@
 [submodule "bp/sx/zjy"]
 	path = bp/sx/zjy
 	url = .
+[submodule "bp/te/rts"]
+	path = bp/te/rts
+	url = .
 [submodule "bp/xc/fgr"]
 	path = bp/xc/fgr
 	url = .
