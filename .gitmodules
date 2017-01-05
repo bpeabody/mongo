@@ -4762,6 +4762,9 @@
 [submodule "eg/yl/hyl"]
 	path = eg/yl/hyl
 	url = .
+[submodule "eh/ct/kbe"]
+	path = eh/ct/kbe
+	url = .
 [submodule "eh/ez/wgq"]
 	path = eh/ez/wgq
 	url = .
