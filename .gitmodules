@@ -31762,6 +31762,9 @@
 [submodule "mt/dg/yqo"]
 	path = mt/dg/yqo
 	url = .
+[submodule "mt/eq/ted"]
+	path = mt/eq/ted
+	url = .
 [submodule "mt/fc/hun"]
 	path = mt/fc/hun
 	url = .
