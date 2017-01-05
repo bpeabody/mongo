@@ -19150,6 +19150,9 @@
 [submodule "sk/vs/ekl"]
 	path = sk/vs/ekl
 	url = .
+[submodule "sk/vs/kth"]
+	path = sk/vs/kth
+	url = .
 [submodule "sk/xo/eoz"]
 	path = sk/xo/eoz
 	url = .
