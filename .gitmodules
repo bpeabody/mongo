@@ -34405,6 +34405,9 @@
 [submodule "qv/up/egr"]
 	path = qv/up/egr
 	url = .
+[submodule "qv/uy/lck"]
+	path = qv/uy/lck
+	url = .
 [submodule "qv/vm/pgm"]
 	path = qv/vm/pgm
 	url = .
