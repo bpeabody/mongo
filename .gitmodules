@@ -35356,6 +35356,9 @@
 [submodule "vq/hw/xzz"]
 	path = vq/hw/xzz
 	url = .
+[submodule "vq/lr/mrv"]
+	path = vq/lr/mrv
+	url = .
 [submodule "vq/ls/kxx"]
 	path = vq/ls/kxx
 	url = .
