@@ -2551,6 +2551,9 @@
 [submodule "ea/id/tar"]
 	path = ea/id/tar
 	url = .
+[submodule "ea/ls/arl"]
+	path = ea/ls/arl
+	url = .
 [submodule "ea/lu/hnu"]
 	path = ea/lu/hnu
 	url = .
