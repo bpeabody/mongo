@@ -2941,6 +2941,9 @@
 [submodule "gg/xv/wtg"]
 	path = gg/xv/wtg
 	url = .
+[submodule "gg/yr/ckj"]
+	path = gg/yr/ckj
+	url = .
 [submodule "gh/hk/ehl"]
 	path = gh/hk/ehl
 	url = .
