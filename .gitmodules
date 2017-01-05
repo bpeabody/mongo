@@ -11941,6 +11941,9 @@
 [submodule "fl/mj/wyl"]
 	path = fl/mj/wyl
 	url = .
+[submodule "fl/mk/ypr"]
+	path = fl/mk/ypr
+	url = .
 [submodule "fl/ml/dzt"]
 	path = fl/ml/dzt
 	url = .
