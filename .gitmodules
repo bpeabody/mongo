@@ -33421,6 +33421,9 @@
 [submodule "xs/gu/onp"]
 	path = xs/gu/onp
 	url = .
+[submodule "xs/jd/fog"]
+	path = xs/jd/fog
+	url = .
 [submodule "xs/jp/mjm"]
 	path = xs/jp/mjm
 	url = .
