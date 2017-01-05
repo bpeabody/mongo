@@ -47005,6 +47005,9 @@
 [submodule "sd/fm/euz"]
 	path = sd/fm/euz
 	url = .
+[submodule "sd/ga/jfm"]
+	path = sd/ga/jfm
+	url = .
 [submodule "sd/gl/icz"]
 	path = sd/gl/icz
 	url = .
