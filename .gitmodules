@@ -28066,6 +28066,9 @@
 [submodule "ku/lg/fpu"]
 	path = ku/lg/fpu
 	url = .
+[submodule "ku/pv/ela"]
+	path = ku/pv/ela
+	url = .
 [submodule "ku/rp/cxf"]
 	path = ku/rp/cxf
 	url = .
