@@ -54538,6 +54538,9 @@
 [submodule "sg/ux/kgs"]
 	path = sg/ux/kgs
 	url = .
+[submodule "sg/vf/hvo"]
+	path = sg/vf/hvo
+	url = .
 [submodule "sg/vn/oaf"]
 	path = sg/vn/oaf
 	url = .
