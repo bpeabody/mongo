@@ -26026,6 +26026,9 @@
 [submodule "sr/ez/gav"]
 	path = sr/ez/gav
 	url = .
+[submodule "sr/fx/bqo"]
+	path = sr/fx/bqo
+	url = .
 [submodule "sr/kv/bpu"]
 	path = sr/kv/bpu
 	url = .
