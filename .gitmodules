@@ -14005,6 +14005,9 @@
 [submodule "lb/lg/dyo"]
 	path = lb/lg/dyo
 	url = .
+[submodule "lb/ly/zqc"]
+	path = lb/ly/zqc
+	url = .
 [submodule "lb/ro/gnl"]
 	path = lb/ro/gnl
 	url = .
