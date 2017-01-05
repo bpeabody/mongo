@@ -9880,6 +9880,9 @@
 [submodule "nh/jy/zfn"]
 	path = nh/jy/zfn
 	url = .
+[submodule "nh/lr/sll"]
+	path = nh/lr/sll
+	url = .
 [submodule "nh/oi/giq"]
 	path = nh/oi/giq
 	url = .
