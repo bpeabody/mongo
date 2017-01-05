@@ -21856,6 +21856,9 @@
 [submodule "kn/ij/spu"]
 	path = kn/ij/spu
 	url = .
+[submodule "kn/in/zbu"]
+	path = kn/in/zbu
+	url = .
 [submodule "kn/jp/euo"]
 	path = kn/jp/euo
 	url = .
