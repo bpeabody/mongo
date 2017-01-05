@@ -8470,6 +8470,9 @@
 [submodule "hw/lv/kdu"]
 	path = hw/lv/kdu
 	url = .
+[submodule "hw/pb/oev"]
+	path = hw/pb/oev
+	url = .
 [submodule "hw/pq/rbp"]
 	path = hw/pq/rbp
 	url = .
