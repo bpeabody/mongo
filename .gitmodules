@@ -19753,6 +19753,9 @@
 [submodule "uv/if/hpx"]
 	path = uv/if/hpx
 	url = .
+[submodule "uv/jl/fpn"]
+	path = uv/jl/fpn
+	url = .
 [submodule "uv/kq/bjx"]
 	path = uv/kq/bjx
 	url = .
