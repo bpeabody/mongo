@@ -35104,6 +35104,9 @@
 [submodule "ub/wx/jzu"]
 	path = ub/wx/jzu
 	url = .
+[submodule "ub/xc/ebj"]
+	path = ub/xc/ebj
+	url = .
 [submodule "ub/yg/cvg"]
 	path = ub/yg/cvg
 	url = .
