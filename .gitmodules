@@ -49960,6 +49960,9 @@
 [submodule "rv/pc/xtj"]
 	path = rv/pc/xtj
 	url = .
+[submodule "rv/pj/avt"]
+	path = rv/pj/avt
+	url = .
 [submodule "rv/pv/gal"]
 	path = rv/pv/gal
 	url = .
