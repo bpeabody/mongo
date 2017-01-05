@@ -826,6 +826,9 @@
 [submodule "ag/ur/jhr"]
 	path = ag/ur/jhr
 	url = .
+[submodule "ag/ux/wvw"]
+	path = ag/ux/wvw
+	url = .
 [submodule "ag/vo/efx"]
 	path = ag/vo/efx
 	url = .
