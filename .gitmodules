@@ -15457,6 +15457,9 @@
 [submodule "ms/os/vns"]
 	path = ms/os/vns
 	url = .
+[submodule "ms/qc/htt"]
+	path = ms/qc/htt
+	url = .
 [submodule "ms/uv/hyu"]
 	path = ms/uv/hyu
 	url = .
