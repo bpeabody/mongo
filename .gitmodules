@@ -2869,6 +2869,9 @@
 [submodule "bx/ws/fdi"]
 	path = bx/ws/fdi
 	url = .
+[submodule "bx/ws/yar"]
+	path = bx/ws/yar
+	url = .
 [submodule "bx/xg/zox"]
 	path = bx/xg/zox
 	url = .
