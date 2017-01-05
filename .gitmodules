@@ -52552,6 +52552,9 @@
 [submodule "xc/ox/dzb"]
 	path = xc/ox/dzb
 	url = .
+[submodule "xc/py/vfx"]
+	path = xc/py/vfx
+	url = .
 [submodule "xc/qd/uop"]
 	path = xc/qd/uop
 	url = .
