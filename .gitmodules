@@ -56800,6 +56800,9 @@
 [submodule "tx/cm/nla"]
 	path = tx/cm/nla
 	url = .
+[submodule "tx/dm/aht"]
+	path = tx/dm/aht
+	url = .
 [submodule "tx/dx/tqi"]
 	path = tx/dx/tqi
 	url = .
