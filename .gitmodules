@@ -16951,6 +16951,9 @@
 [submodule "ut/mu/sgl"]
 	path = ut/mu/sgl
 	url = .
+[submodule "ut/pn/hdm"]
+	path = ut/pn/hdm
+	url = .
 [submodule "ut/tj/jxd"]
 	path = ut/tj/jxd
 	url = .
