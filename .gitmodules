@@ -2866,6 +2866,9 @@
 [submodule "cq/bo/unz"]
 	path = cq/bo/unz
 	url = .
+[submodule "cq/fd/xcc"]
+	path = cq/fd/xcc
+	url = .
 [submodule "cq/gy/vcw"]
 	path = cq/gy/vcw
 	url = .
