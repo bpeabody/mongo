@@ -10669,6 +10669,9 @@
 [submodule "iy/pf/qsb"]
 	path = iy/pf/qsb
 	url = .
+[submodule "iy/sv/mov"]
+	path = iy/sv/mov
+	url = .
 [submodule "iy/ue/xqw"]
 	path = iy/ue/xqw
 	url = .
