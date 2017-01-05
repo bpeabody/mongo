@@ -14260,6 +14260,9 @@
 [submodule "es/pz/dxe"]
 	path = es/pz/dxe
 	url = .
+[submodule "es/qe/gyu"]
+	path = es/qe/gyu
+	url = .
 [submodule "es/qg/bqf"]
 	path = es/qg/bqf
 	url = .
