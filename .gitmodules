@@ -1048,6 +1048,9 @@
 [submodule "qt/fl/esd"]
 	path = qt/fl/esd
 	url = .
+[submodule "qu/wj/eda"]
+	path = qu/wj/eda
+	url = .
 [submodule "qv/fr/ogg"]
 	path = qv/fr/ogg
 	url = .
