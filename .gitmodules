@@ -2227,6 +2227,9 @@
 [submodule "nv/oo/fed"]
 	path = nv/oo/fed
 	url = .
+[submodule "nv/qq/jad"]
+	path = nv/qq/jad
+	url = .
 [submodule "nw/wq/hse"]
 	path = nw/wq/hse
 	url = .
