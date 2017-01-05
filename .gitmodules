@@ -10708,6 +10708,9 @@
 [submodule "gb/jd/cbw"]
 	path = gb/jd/cbw
 	url = .
+[submodule "gb/jp/eaa"]
+	path = gb/jp/eaa
+	url = .
 [submodule "gb/km/dmn"]
 	path = gb/km/dmn
 	url = .
