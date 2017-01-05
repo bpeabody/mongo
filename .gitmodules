@@ -10918,6 +10918,9 @@
 [submodule "ry/wl/kgi"]
 	path = ry/wl/kgi
 	url = .
+[submodule "ry/wt/zha"]
+	path = ry/wt/zha
+	url = .
 [submodule "ry/xo/ehk"]
 	path = ry/xo/ehk
 	url = .
