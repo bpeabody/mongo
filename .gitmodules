@@ -33628,6 +33628,9 @@
 [submodule "oi/ed/duv"]
 	path = oi/ed/duv
 	url = .
+[submodule "oi/iy/ktp"]
+	path = oi/iy/ktp
+	url = .
 [submodule "oi/ja/rtw"]
 	path = oi/ja/rtw
 	url = .
