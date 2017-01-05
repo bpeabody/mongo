@@ -10621,6 +10621,9 @@
 [submodule "dn/bz/cnf"]
 	path = dn/bz/cnf
 	url = .
+[submodule "dn/ch/usy"]
+	path = dn/ch/usy
+	url = .
 [submodule "dn/cz/zmj"]
 	path = dn/cz/zmj
 	url = .
