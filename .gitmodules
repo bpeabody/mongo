@@ -8839,6 +8839,9 @@
 [submodule "ow/jq/tyf"]
 	path = ow/jq/tyf
 	url = .
+[submodule "ow/mt/gsw"]
+	path = ow/mt/gsw
+	url = .
 [submodule "ow/of/jkq"]
 	path = ow/of/jkq
 	url = .
