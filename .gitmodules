@@ -8398,6 +8398,9 @@
 [submodule "sn/cd/mbb"]
 	path = sn/cd/mbb
 	url = .
+[submodule "sn/dt/vwx"]
+	path = sn/dt/vwx
+	url = .
 [submodule "sn/fm/rst"]
 	path = sn/fm/rst
 	url = .
