@@ -38422,6 +38422,9 @@
 [submodule "ov/oa/qnz"]
 	path = ov/oa/qnz
 	url = .
+[submodule "ov/pi/fuy"]
+	path = ov/pi/fuy
+	url = .
 [submodule "ov/pj/vpk"]
 	path = ov/pj/vpk
 	url = .
