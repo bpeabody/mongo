@@ -10369,6 +10369,9 @@
 [submodule "eq/sh/gat"]
 	path = eq/sh/gat
 	url = .
+[submodule "eq/uf/ehg"]
+	path = eq/uf/ehg
+	url = .
 [submodule "eq/ug/soi"]
 	path = eq/ug/soi
 	url = .
