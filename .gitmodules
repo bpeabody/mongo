@@ -47524,6 +47524,9 @@
 [submodule "rn/ol/ilg"]
 	path = rn/ol/ilg
 	url = .
+[submodule "rn/oo/cjp"]
+	path = rn/oo/cjp
+	url = .
 [submodule "rn/qo/kyk"]
 	path = rn/qo/kyk
 	url = .
