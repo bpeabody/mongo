@@ -12223,6 +12223,9 @@
 [submodule "xw/ok/vxp"]
 	path = xw/ok/vxp
 	url = .
+[submodule "xw/pt/qjx"]
+	path = xw/pt/qjx
+	url = .
 [submodule "xw/tq/wfq"]
 	path = xw/tq/wfq
 	url = .
