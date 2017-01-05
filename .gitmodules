@@ -175,6 +175,9 @@
 [submodule "bg/gi/kpo"]
 	path = bg/gi/kpo
 	url = .
+[submodule "bg/lm/oau"]
+	path = bg/lm/oau
+	url = .
 [submodule "bg/uv/ldg"]
 	path = bg/uv/ldg
 	url = .
