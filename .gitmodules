@@ -2596,6 +2596,9 @@
 [submodule "gy/dm/bqh"]
 	path = gy/dm/bqh
 	url = .
+[submodule "gy/er/jsz"]
+	path = gy/er/jsz
+	url = .
 [submodule "gy/lv/cko"]
 	path = gy/lv/cko
 	url = .
