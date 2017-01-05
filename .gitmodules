@@ -6730,6 +6730,9 @@
 [submodule "cq/eb/pbl"]
 	path = cq/eb/pbl
 	url = .
+[submodule "cq/eq/dbd"]
+	path = cq/eq/dbd
+	url = .
 [submodule "cq/fd/xcc"]
 	path = cq/fd/xcc
 	url = .
