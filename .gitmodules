@@ -2095,6 +2095,9 @@
 [submodule "fo/hs/woz"]
 	path = fo/hs/woz
 	url = .
+[submodule "fo/jm/uke"]
+	path = fo/jm/uke
+	url = .
 [submodule "fo/qz/ndm"]
 	path = fo/qz/ndm
 	url = .
