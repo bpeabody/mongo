@@ -10081,6 +10081,9 @@
 [submodule "ds/vi/lxo"]
 	path = ds/vi/lxo
 	url = .
+[submodule "ds/vv/jdj"]
+	path = ds/vv/jdj
+	url = .
 [submodule "ds/vx/hxa"]
 	path = ds/vx/hxa
 	url = .
