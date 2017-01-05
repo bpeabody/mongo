@@ -7405,6 +7405,9 @@
 [submodule "sx/lg/efo"]
 	path = sx/lg/efo
 	url = .
+[submodule "sx/md/jnv"]
+	path = sx/md/jnv
+	url = .
 [submodule "sx/mi/flp"]
 	path = sx/mi/flp
 	url = .
