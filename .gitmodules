@@ -5851,6 +5851,9 @@
 [submodule "ed/cx/lih"]
 	path = ed/cx/lih
 	url = .
+[submodule "ed/hl/dbb"]
+	path = ed/hl/dbb
+	url = .
 [submodule "ed/it/duk"]
 	path = ed/it/duk
 	url = .
