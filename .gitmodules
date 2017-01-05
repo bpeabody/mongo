@@ -1696,6 +1696,9 @@
 [submodule "jc/iq/scc"]
 	path = jc/iq/scc
 	url = .
+[submodule "jc/kp/sxa"]
+	path = jc/kp/sxa
+	url = .
 [submodule "jc/qq/ruo"]
 	path = jc/qq/ruo
 	url = .
