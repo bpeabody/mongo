@@ -9016,6 +9016,9 @@
 [submodule "dj/dj/drv"]
 	path = dj/dj/drv
 	url = .
+[submodule "dj/dx/dmi"]
+	path = dj/dx/dmi
+	url = .
 [submodule "dj/eq/gjk"]
 	path = dj/eq/gjk
 	url = .
