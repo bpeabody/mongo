@@ -45391,6 +45391,9 @@
 [submodule "vu/bg/scd"]
 	path = vu/bg/scd
 	url = .
+[submodule "vu/bv/xac"]
+	path = vu/bv/xac
+	url = .
 [submodule "vu/dh/fcf"]
 	path = vu/dh/fcf
 	url = .
