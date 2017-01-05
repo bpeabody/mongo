@@ -61291,6 +61291,9 @@
 [submodule "yb/rt/ljy"]
 	path = yb/rt/ljy
 	url = .
+[submodule "yb/sg/vyw"]
+	path = yb/sg/vyw
+	url = .
 [submodule "yb/sy/tbv"]
 	path = yb/sy/tbv
 	url = .
