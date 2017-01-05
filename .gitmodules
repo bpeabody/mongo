@@ -18679,6 +18679,9 @@
 [submodule "he/ck/spo"]
 	path = he/ck/spo
 	url = .
+[submodule "he/du/omv"]
+	path = he/du/omv
+	url = .
 [submodule "he/dz/vkl"]
 	path = he/dz/vkl
 	url = .
