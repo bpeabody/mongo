@@ -47062,6 +47062,9 @@
 [submodule "yj/md/ywv"]
 	path = yj/md/ywv
 	url = .
+[submodule "yj/mf/osr"]
+	path = yj/mf/osr
+	url = .
 [submodule "yj/na/hzp"]
 	path = yj/na/hzp
 	url = .
