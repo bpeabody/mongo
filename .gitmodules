@@ -61612,6 +61612,9 @@
 [submodule "vu/pd/wuv"]
 	path = vu/pd/wuv
 	url = .
+[submodule "vu/pu/kaw"]
+	path = vu/pu/kaw
+	url = .
 [submodule "vu/tr/awm"]
 	path = vu/tr/awm
 	url = .
