@@ -14125,6 +14125,9 @@
 [submodule "vd/jp/duc"]
 	path = vd/jp/duc
 	url = .
+[submodule "vd/jv/qdn"]
+	path = vd/jv/qdn
+	url = .
 [submodule "vd/mj/fnm"]
 	path = vd/mj/fnm
 	url = .
