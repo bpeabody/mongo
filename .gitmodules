@@ -6301,6 +6301,9 @@
 [submodule "jz/ie/ghd"]
 	path = jz/ie/ghd
 	url = .
+[submodule "jz/jz/zri"]
+	path = jz/jz/zri
+	url = .
 [submodule "jz/kg/xrz"]
 	path = jz/kg/xrz
 	url = .
