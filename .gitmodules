@@ -9619,6 +9619,9 @@
 [submodule "fz/uh/bnr"]
 	path = fz/uh/bnr
 	url = .
+[submodule "fz/wk/lcw"]
+	path = fz/wk/lcw
+	url = .
 [submodule "fz/xp/pti"]
 	path = fz/xp/pti
 	url = .
