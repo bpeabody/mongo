@@ -21322,6 +21322,9 @@
 [submodule "mt/gp/lvn"]
 	path = mt/gp/lvn
 	url = .
+[submodule "mt/jt/opk"]
+	path = mt/jt/opk
+	url = .
 [submodule "mt/ks/lnm"]
 	path = mt/ks/lnm
 	url = .
