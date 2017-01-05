@@ -22501,6 +22501,9 @@
 [submodule "ov/nr/aqk"]
 	path = ov/nr/aqk
 	url = .
+[submodule "ov/pj/vpk"]
+	path = ov/pj/vpk
+	url = .
 [submodule "ov/rv/mmv"]
 	path = ov/rv/mmv
 	url = .
