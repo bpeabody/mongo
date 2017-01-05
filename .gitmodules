@@ -17992,6 +17992,9 @@
 [submodule "ta/rv/oxc"]
 	path = ta/rv/oxc
 	url = .
+[submodule "ta/tc/nbg"]
+	path = ta/tc/nbg
+	url = .
 [submodule "ta/zi/bwf"]
 	path = ta/zi/bwf
 	url = .
