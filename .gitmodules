@@ -3460,6 +3460,9 @@
 [submodule "ir/np/nhu"]
 	path = ir/np/nhu
 	url = .
+[submodule "ir/oa/psl"]
+	path = ir/oa/psl
+	url = .
 [submodule "ir/rt/qei"]
 	path = ir/rt/qei
 	url = .
