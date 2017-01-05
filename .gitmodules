@@ -24790,6 +24790,9 @@
 [submodule "ks/vk/mtk"]
 	path = ks/vk/mtk
 	url = .
+[submodule "ks/wn/nfl"]
+	path = ks/wn/nfl
+	url = .
 [submodule "ks/yc/cyi"]
 	path = ks/yc/cyi
 	url = .
