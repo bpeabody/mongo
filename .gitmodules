@@ -51301,6 +51301,9 @@
 [submodule "sx/us/rxi"]
 	path = sx/us/rxi
 	url = .
+[submodule "sx/ve/dlt"]
+	path = sx/ve/dlt
+	url = .
 [submodule "sx/ve/mht"]
 	path = sx/ve/mht
 	url = .
