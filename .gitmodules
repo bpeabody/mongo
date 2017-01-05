@@ -7195,6 +7195,9 @@
 [submodule "nr/ye/nlu"]
 	path = nr/ye/nlu
 	url = .
+[submodule "ns/bp/sls"]
+	path = ns/bp/sls
+	url = .
 [submodule "ns/gz/zel"]
 	path = ns/gz/zel
 	url = .
