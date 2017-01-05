@@ -32995,6 +32995,9 @@
 [submodule "li/op/mao"]
 	path = li/op/mao
 	url = .
+[submodule "li/os/hdi"]
+	path = li/os/hdi
+	url = .
 [submodule "li/px/tqv"]
 	path = li/px/tqv
 	url = .
