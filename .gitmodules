@@ -1375,6 +1375,9 @@
 [submodule "rv/oe/eix"]
 	path = rv/oe/eix
 	url = .
+[submodule "rv/vn/nue"]
+	path = rv/vn/nue
+	url = .
 [submodule "rv/wf/doj"]
 	path = rv/wf/doj
 	url = .
