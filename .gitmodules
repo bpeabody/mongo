@@ -4606,6 +4606,9 @@
 [submodule "dn/ih/nnb"]
 	path = dn/ih/nnb
 	url = .
+[submodule "dn/oq/iij"]
+	path = dn/oq/iij
+	url = .
 [submodule "dn/qb/ogh"]
 	path = dn/qb/ogh
 	url = .
