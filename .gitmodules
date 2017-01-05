@@ -26485,6 +26485,9 @@
 [submodule "tk/eu/jyx"]
 	path = tk/eu/jyx
 	url = .
+[submodule "tk/fa/uin"]
+	path = tk/fa/uin
+	url = .
 [submodule "tk/ie/wiz"]
 	path = tk/ie/wiz
 	url = .
