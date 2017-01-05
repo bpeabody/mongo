@@ -56971,6 +56971,9 @@
 [submodule "ui/xi/eds"]
 	path = ui/xi/eds
 	url = .
+[submodule "ui/xs/nvo"]
+	path = ui/xs/nvo
+	url = .
 [submodule "ui/yk/rpw"]
 	path = ui/yk/rpw
 	url = .
