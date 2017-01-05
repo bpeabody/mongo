@@ -15574,6 +15574,9 @@
 [submodule "ql/hr/nnf"]
 	path = ql/hr/nnf
 	url = .
+[submodule "ql/it/akg"]
+	path = ql/it/akg
+	url = .
 [submodule "ql/iw/oir"]
 	path = ql/iw/oir
 	url = .
