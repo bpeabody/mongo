@@ -4516,6 +4516,9 @@
 [submodule "gu/er/pon"]
 	path = gu/er/pon
 	url = .
+[submodule "gu/ge/ksi"]
+	path = gu/ge/ksi
+	url = .
 [submodule "gv/bg/ztf"]
 	path = gv/bg/ztf
 	url = .
