@@ -10315,6 +10315,9 @@
 [submodule "lw/cv/nml"]
 	path = lw/cv/nml
 	url = .
+[submodule "lw/ea/poo"]
+	path = lw/ea/poo
+	url = .
 [submodule "lw/gk/mup"]
 	path = lw/gk/mup
 	url = .
