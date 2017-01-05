@@ -39043,6 +39043,9 @@
 [submodule "op/xe/lsy"]
 	path = op/xe/lsy
 	url = .
+[submodule "op/yy/ryj"]
+	path = op/yy/ryj
+	url = .
 [submodule "oq/ac/tga"]
 	path = oq/ac/tga
 	url = .
