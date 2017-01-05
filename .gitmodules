@@ -21463,6 +21463,9 @@
 [submodule "ys/ph/zqp"]
 	path = ys/ph/zqp
 	url = .
+[submodule "ys/sq/hws"]
+	path = ys/sq/hws
+	url = .
 [submodule "ys/te/int"]
 	path = ys/te/int
 	url = .
