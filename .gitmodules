@@ -56797,6 +56797,9 @@
 [submodule "ul/sv/rjs"]
 	path = ul/sv/rjs
 	url = .
+[submodule "ul/sv/szs"]
+	path = ul/sv/szs
+	url = .
 [submodule "ul/uu/uzk"]
 	path = ul/uu/uzk
 	url = .
