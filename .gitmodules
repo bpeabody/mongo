@@ -3499,6 +3499,9 @@
 [submodule "rg/xs/clu"]
 	path = rg/xs/clu
 	url = .
+[submodule "rh/ep/mov"]
+	path = rh/ep/mov
+	url = .
 [submodule "rh/qr/frh"]
 	path = rh/qr/frh
 	url = .
