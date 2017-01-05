@@ -62983,6 +62983,9 @@
 [submodule "xy/rt/vqa"]
 	path = xy/rt/vqa
 	url = .
+[submodule "xy/rv/voo"]
+	path = xy/rv/voo
+	url = .
 [submodule "xy/rx/exm"]
 	path = xy/rx/exm
 	url = .
