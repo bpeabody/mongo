@@ -22540,6 +22540,9 @@
 [submodule "xn/ni/akw"]
 	path = xn/ni/akw
 	url = .
+[submodule "xn/qu/dfr"]
+	path = xn/qu/dfr
+	url = .
 [submodule "xn/ru/zvl"]
 	path = xn/ru/zvl
 	url = .
