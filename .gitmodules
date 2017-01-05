@@ -19072,6 +19072,9 @@
 [submodule "lb/hu/fwc"]
 	path = lb/hu/fwc
 	url = .
+[submodule "lb/id/opu"]
+	path = lb/id/opu
+	url = .
 [submodule "lb/jf/ogf"]
 	path = lb/jf/ogf
 	url = .
