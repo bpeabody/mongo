@@ -7939,6 +7939,9 @@
 [submodule "kb/np/jjd"]
 	path = kb/np/jjd
 	url = .
+[submodule "kb/ok/rlb"]
+	path = kb/ok/rlb
+	url = .
 [submodule "kb/tp/zov"]
 	path = kb/tp/zov
 	url = .
