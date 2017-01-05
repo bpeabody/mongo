@@ -39394,6 +39394,9 @@
 [submodule "xc/dp/lwf"]
 	path = xc/dp/lwf
 	url = .
+[submodule "xc/dt/wbz"]
+	path = xc/dt/wbz
+	url = .
 [submodule "xc/ez/whe"]
 	path = xc/ez/whe
 	url = .
