@@ -958,6 +958,9 @@
 [submodule "bn/xe/ddi"]
 	path = bn/xe/ddi
 	url = .
+[submodule "bo/dv/wig"]
+	path = bo/dv/wig
+	url = .
 [submodule "bo/hg/fzn"]
 	path = bo/hg/fzn
 	url = .
