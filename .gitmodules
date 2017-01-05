@@ -3994,6 +3994,9 @@
 [submodule "hd/oq/qyg"]
 	path = hd/oq/qyg
 	url = .
+[submodule "hd/qc/ews"]
+	path = hd/qc/ews
+	url = .
 [submodule "hd/ta/qpk"]
 	path = hd/ta/qpk
 	url = .
