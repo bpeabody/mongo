@@ -35062,6 +35062,9 @@
 [submodule "mg/nu/dxd"]
 	path = mg/nu/dxd
 	url = .
+[submodule "mg/ow/qir"]
+	path = mg/ow/qir
+	url = .
 [submodule "mg/qs/pvi"]
 	path = mg/qs/pvi
 	url = .
