@@ -16324,6 +16324,9 @@
 [submodule "wy/sm/aew"]
 	path = wy/sm/aew
 	url = .
+[submodule "wy/tx/gyg"]
+	path = wy/tx/gyg
+	url = .
 [submodule "wy/uy/gtt"]
 	path = wy/uy/gtt
 	url = .
