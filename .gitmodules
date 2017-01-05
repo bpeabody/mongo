@@ -33139,6 +33139,9 @@
 [submodule "oj/vn/lvc"]
 	path = oj/vn/lvc
 	url = .
+[submodule "oj/vq/nkr"]
+	path = oj/vq/nkr
+	url = .
 [submodule "oj/vs/fbx"]
 	path = oj/vs/fbx
 	url = .
