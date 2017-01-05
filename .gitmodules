@@ -44758,6 +44758,9 @@
 [submodule "pc/re/tpl"]
 	path = pc/re/tpl
 	url = .
+[submodule "pc/rn/hkt"]
+	path = pc/rn/hkt
+	url = .
 [submodule "pc/rn/yuv"]
 	path = pc/rn/yuv
 	url = .
