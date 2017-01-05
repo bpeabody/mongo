@@ -48748,6 +48748,9 @@
 [submodule "wp/wv/gpl"]
 	path = wp/wv/gpl
 	url = .
+[submodule "wp/ya/wvy"]
+	path = wp/ya/wvy
+	url = .
 [submodule "wp/zp/npx"]
 	path = wp/zp/npx
 	url = .
