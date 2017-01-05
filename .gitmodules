@@ -5743,6 +5743,9 @@
 [submodule "hi/tj/kle"]
 	path = hi/tj/kle
 	url = .
+[submodule "hi/wb/jnk"]
+	path = hi/wb/jnk
+	url = .
 [submodule "hi/xv/uit"]
 	path = hi/xv/uit
 	url = .
