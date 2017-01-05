@@ -6193,6 +6193,9 @@
 [submodule "jj/en/yze"]
 	path = jj/en/yze
 	url = .
+[submodule "jj/mk/wol"]
+	path = jj/mk/wol
+	url = .
 [submodule "jj/nc/xek"]
 	path = jj/nc/xek
 	url = .
