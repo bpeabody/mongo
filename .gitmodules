@@ -10660,6 +10660,9 @@
 [submodule "ym/to/aik"]
 	path = ym/to/aik
 	url = .
+[submodule "ym/xh/xsu"]
+	path = ym/xh/xsu
+	url = .
 [submodule "ym/yc/hfv"]
 	path = ym/yc/hfv
 	url = .
