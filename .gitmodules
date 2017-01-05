@@ -37060,6 +37060,9 @@
 [submodule "qe/cc/maj"]
 	path = qe/cc/maj
 	url = .
+[submodule "qe/cs/yfb"]
+	path = qe/cs/yfb
+	url = .
 [submodule "qe/dh/aha"]
 	path = qe/dh/aha
 	url = .
