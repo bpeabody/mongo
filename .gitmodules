@@ -14944,6 +14944,9 @@
 [submodule "fg/qv/ktc"]
 	path = fg/qv/ktc
 	url = .
+[submodule "fg/rv/ane"]
+	path = fg/rv/ane
+	url = .
 [submodule "fg/rz/ulb"]
 	path = fg/rz/ulb
 	url = .
