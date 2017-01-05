@@ -2224,6 +2224,9 @@
 [submodule "pi/xe/ufa"]
 	path = pi/xe/ufa
 	url = .
+[submodule "pj/ds/ncj"]
+	path = pj/ds/ncj
+	url = .
 [submodule "pj/fh/gsh"]
 	path = pj/fh/gsh
 	url = .
