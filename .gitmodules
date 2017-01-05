@@ -1957,6 +1957,9 @@
 [submodule "dc/oo/ict"]
 	path = dc/oo/ict
 	url = .
+[submodule "dc/qz/vyk"]
+	path = dc/qz/vyk
+	url = .
 [submodule "dc/vm/ltf"]
 	path = dc/vm/ltf
 	url = .
