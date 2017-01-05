@@ -22393,6 +22393,9 @@
 [submodule "xa/dx/zgu"]
 	path = xa/dx/zgu
 	url = .
+[submodule "xa/io/bvo"]
+	path = xa/io/bvo
+	url = .
 [submodule "xa/lb/ygl"]
 	path = xa/lb/ygl
 	url = .
