@@ -2386,6 +2386,9 @@
 [submodule "bq/gq/zom"]
 	path = bq/gq/zom
 	url = .
+[submodule "bq/gs/mmp"]
+	path = bq/gs/mmp
+	url = .
 [submodule "bq/hm/kwb"]
 	path = bq/hm/kwb
 	url = .
