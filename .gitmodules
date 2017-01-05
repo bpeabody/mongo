@@ -3418,6 +3418,9 @@
 [submodule "bj/ig/hye"]
 	path = bj/ig/hye
 	url = .
+[submodule "bj/jm/mfi"]
+	path = bj/jm/mfi
+	url = .
 [submodule "bj/mo/cgx"]
 	path = bj/mo/cgx
 	url = .
