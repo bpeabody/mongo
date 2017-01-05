@@ -5626,6 +5626,9 @@
 [submodule "ex/oy/egv"]
 	path = ex/oy/egv
 	url = .
+[submodule "ex/pt/bkk"]
+	path = ex/pt/bkk
+	url = .
 [submodule "ex/sk/vid"]
 	path = ex/sk/vid
 	url = .
