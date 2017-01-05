@@ -4180,6 +4180,9 @@
 [submodule "bk/sn/zxr"]
 	path = bk/sn/zxr
 	url = .
+[submodule "bk/tl/mne"]
+	path = bk/tl/mne
+	url = .
 [submodule "bk/vc/uid"]
 	path = bk/vc/uid
 	url = .
