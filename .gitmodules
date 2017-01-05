@@ -37777,6 +37777,9 @@
 [submodule "ph/vw/ifm"]
 	path = ph/vw/ifm
 	url = .
+[submodule "ph/wk/wky"]
+	path = ph/wk/wky
+	url = .
 [submodule "ph/xy/foi"]
 	path = ph/xy/foi
 	url = .
