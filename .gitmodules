@@ -1114,6 +1114,9 @@
 [submodule "dt/mn/kgd"]
 	path = dt/mn/kgd
 	url = .
+[submodule "dt/xr/mgb"]
+	path = dt/xr/mgb
+	url = .
 [submodule "dt/yp/igf"]
 	path = dt/yp/igf
 	url = .
