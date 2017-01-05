@@ -19921,6 +19921,9 @@
 [submodule "lp/fj/hsp"]
 	path = lp/fj/hsp
 	url = .
+[submodule "lp/gm/tut"]
+	path = lp/gm/tut
+	url = .
 [submodule "lp/gn/usp"]
 	path = lp/gn/usp
 	url = .
