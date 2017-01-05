@@ -48364,6 +48364,9 @@
 [submodule "qh/qr/gzl"]
 	path = qh/qr/gzl
 	url = .
+[submodule "qh/qx/blp"]
+	path = qh/qx/blp
+	url = .
 [submodule "qh/rr/mfd"]
 	path = qh/rr/mfd
 	url = .
