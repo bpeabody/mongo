@@ -7456,6 +7456,9 @@
 [submodule "tj/fy/wcw"]
 	path = tj/fy/wcw
 	url = .
+[submodule "tj/hs/xsk"]
+	path = tj/hs/xsk
+	url = .
 [submodule "tj/kg/ytc"]
 	path = tj/kg/ytc
 	url = .
