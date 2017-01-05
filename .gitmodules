@@ -18085,6 +18085,9 @@
 [submodule "uw/xl/slj"]
 	path = uw/xl/slj
 	url = .
+[submodule "uw/yp/fic"]
+	path = uw/yp/fic
+	url = .
 [submodule "uw/zd/gub"]
 	path = uw/zd/gub
 	url = .
