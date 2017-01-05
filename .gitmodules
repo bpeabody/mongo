@@ -19873,6 +19873,9 @@
 [submodule "mg/fm/amn"]
 	path = mg/fm/amn
 	url = .
+[submodule "mg/fv/rod"]
+	path = mg/fv/rod
+	url = .
 [submodule "mg/hy/skv"]
 	path = mg/hy/skv
 	url = .
