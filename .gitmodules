@@ -1213,6 +1213,9 @@
 [submodule "gn/kw/wav"]
 	path = gn/kw/wav
 	url = .
+[submodule "gn/xc/iek"]
+	path = gn/xc/iek
+	url = .
 [submodule "go/ah/cuk"]
 	path = go/ah/cuk
 	url = .
