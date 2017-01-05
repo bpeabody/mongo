@@ -24262,6 +24262,9 @@
 [submodule "nb/si/cwi"]
 	path = nb/si/cwi
 	url = .
+[submodule "nb/tf/qja"]
+	path = nb/tf/qja
+	url = .
 [submodule "nb/tr/tyg"]
 	path = nb/tr/tyg
 	url = .
