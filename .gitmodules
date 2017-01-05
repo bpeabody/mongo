@@ -29773,6 +29773,9 @@
 [submodule "jz/ie/ghd"]
 	path = jz/ie/ghd
 	url = .
+[submodule "jz/ie/xhz"]
+	path = jz/ie/xhz
+	url = .
 [submodule "jz/jy/phy"]
 	path = jz/jy/phy
 	url = .
