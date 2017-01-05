@@ -55324,6 +55324,9 @@
 [submodule "vk/du/oxy"]
 	path = vk/du/oxy
 	url = .
+[submodule "vk/eg/dkf"]
+	path = vk/eg/dkf
+	url = .
 [submodule "vk/fb/aum"]
 	path = vk/fb/aum
 	url = .
