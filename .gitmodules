@@ -64285,6 +64285,9 @@
 [submodule "wz/xd/kme"]
 	path = wz/xd/kme
 	url = .
+[submodule "wz/xh/hlx"]
+	path = wz/xh/hlx
+	url = .
 [submodule "wz/xm/sms"]
 	path = wz/xm/sms
 	url = .
