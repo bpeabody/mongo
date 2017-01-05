@@ -8785,6 +8785,9 @@
 [submodule "dq/rj/iil"]
 	path = dq/rj/iil
 	url = .
+[submodule "dq/si/dit"]
+	path = dq/si/dit
+	url = .
 [submodule "dq/st/fdg"]
 	path = dq/st/fdg
 	url = .
