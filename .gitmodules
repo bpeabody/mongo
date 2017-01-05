@@ -3532,6 +3532,9 @@
 [submodule "cf/jm/kmq"]
 	path = cf/jm/kmq
 	url = .
+[submodule "cf/jp/ylw"]
+	path = cf/jp/ylw
+	url = .
 [submodule "cf/km/fzr"]
 	path = cf/km/fzr
 	url = .
