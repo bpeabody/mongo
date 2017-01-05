@@ -274,6 +274,9 @@
 [submodule "ef/lf/tes"]
 	path = ef/lf/tes
 	url = .
+[submodule "ef/zj/iyr"]
+	path = ef/zj/iyr
+	url = .
 [submodule "eh/ur/hiv"]
 	path = eh/ur/hiv
 	url = .
