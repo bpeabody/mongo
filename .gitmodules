@@ -44716,6 +44716,9 @@
 [submodule "rj/th/pkn"]
 	path = rj/th/pkn
 	url = .
+[submodule "rj/tp/act"]
+	path = rj/tp/act
+	url = .
 [submodule "rj/tz/qhl"]
 	path = rj/tz/qhl
 	url = .
