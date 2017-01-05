@@ -1204,6 +1204,9 @@
 [submodule "qt/zs/prm"]
 	path = qt/zs/prm
 	url = .
+[submodule "qu/jz/kgo"]
+	path = qu/jz/kgo
+	url = .
 [submodule "qu/wj/eda"]
 	path = qu/wj/eda
 	url = .
