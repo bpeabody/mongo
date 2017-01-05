@@ -20326,6 +20326,9 @@
 [submodule "np/ee/mgk"]
 	path = np/ee/mgk
 	url = .
+[submodule "np/em/lmx"]
+	path = np/em/lmx
+	url = .
 [submodule "np/ex/wye"]
 	path = np/ex/wye
 	url = .
