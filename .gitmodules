@@ -37462,6 +37462,9 @@
 [submodule "tc/fa/yxt"]
 	path = tc/fa/yxt
 	url = .
+[submodule "tc/jg/erl"]
+	path = tc/jg/erl
+	url = .
 [submodule "tc/jw/tos"]
 	path = tc/jw/tos
 	url = .
