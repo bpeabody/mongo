@@ -21613,6 +21613,9 @@
 [submodule "lg/tn/kkc"]
 	path = lg/tn/kkc
 	url = .
+[submodule "lg/tr/hzq"]
+	path = lg/tr/hzq
+	url = .
 [submodule "lg/un/szw"]
 	path = lg/un/szw
 	url = .
