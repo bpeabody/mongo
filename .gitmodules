@@ -62527,6 +62527,9 @@
 [submodule "vy/hx/gra"]
 	path = vy/hx/gra
 	url = .
+[submodule "vy/ia/vyn"]
+	path = vy/ia/vyn
+	url = .
 [submodule "vy/im/mgc"]
 	path = vy/im/mgc
 	url = .
