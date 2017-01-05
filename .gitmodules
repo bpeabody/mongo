@@ -1378,6 +1378,9 @@
 [submodule "ay/jy/hnm"]
 	path = ay/jy/hnm
 	url = .
+[submodule "ay/kp/ngo"]
+	path = ay/kp/ngo
+	url = .
 [submodule "ay/og/gnc"]
 	path = ay/og/gnc
 	url = .
