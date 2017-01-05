@@ -184,6 +184,9 @@
 [submodule "xj/bi/qoi"]
 	path = xj/bi/qoi
 	url = .
+[submodule "xj/wr/yyk"]
+	path = xj/wr/yyk
+	url = .
 [submodule "xz/iq/pth"]
 	path = xz/iq/pth
 	url = .
