@@ -54094,6 +54094,9 @@
 [submodule "vu/vj/trf"]
 	path = vu/vj/trf
 	url = .
+[submodule "vu/vo/kcd"]
+	path = vu/vo/kcd
+	url = .
 [submodule "vu/vx/tso"]
 	path = vu/vx/tso
 	url = .
