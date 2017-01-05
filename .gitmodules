@@ -9436,6 +9436,9 @@
 [submodule "lz/rm/hsl"]
 	path = lz/rm/hsl
 	url = .
+[submodule "lz/sp/bjb"]
+	path = lz/sp/bjb
+	url = .
 [submodule "lz/yb/exv"]
 	path = lz/yb/exv
 	url = .
