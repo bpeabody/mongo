@@ -27130,6 +27130,9 @@
 [submodule "kv/kk/hos"]
 	path = kv/kk/hos
 	url = .
+[submodule "kv/kt/vqe"]
+	path = kv/kt/vqe
+	url = .
 [submodule "kv/la/xco"]
 	path = kv/la/xco
 	url = .
