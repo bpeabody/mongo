@@ -29152,6 +29152,9 @@
 [submodule "vw/lm/bxi"]
 	path = vw/lm/bxi
 	url = .
+[submodule "vw/mp/biq"]
+	path = vw/mp/biq
+	url = .
 [submodule "vw/ms/uvh"]
 	path = vw/ms/uvh
 	url = .
