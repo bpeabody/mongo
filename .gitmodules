@@ -5647,6 +5647,9 @@
 [submodule "qn/ak/noa"]
 	path = qn/ak/noa
 	url = .
+[submodule "qn/al/ehm"]
+	path = qn/al/ehm
+	url = .
 [submodule "qn/gd/sgi"]
 	path = qn/gd/sgi
 	url = .
