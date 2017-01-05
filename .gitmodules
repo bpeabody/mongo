@@ -2842,6 +2842,9 @@
 [submodule "db/bq/mcm"]
 	path = db/bq/mcm
 	url = .
+[submodule "db/bx/rkq"]
+	path = db/bx/rkq
+	url = .
 [submodule "db/hf/hrz"]
 	path = db/hf/hrz
 	url = .
