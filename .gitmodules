@@ -21850,6 +21850,9 @@
 [submodule "jn/ub/pdl"]
 	path = jn/ub/pdl
 	url = .
+[submodule "jn/un/yjd"]
+	path = jn/un/yjd
+	url = .
 [submodule "jn/vb/gmr"]
 	path = jn/vb/gmr
 	url = .
