@@ -3253,6 +3253,9 @@
 [submodule "mi/wb/bts"]
 	path = mi/wb/bts
 	url = .
+[submodule "mi/wj/izz"]
+	path = mi/wj/izz
+	url = .
 [submodule "mi/zc/czs"]
 	path = mi/zc/czs
 	url = .
