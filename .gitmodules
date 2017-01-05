@@ -8995,6 +8995,9 @@
 [submodule "fi/ng/wap"]
 	path = fi/ng/wap
 	url = .
+[submodule "fi/ni/tlg"]
+	path = fi/ni/tlg
+	url = .
 [submodule "fi/nj/zir"]
 	path = fi/nj/zir
 	url = .
