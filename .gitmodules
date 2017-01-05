@@ -31105,6 +31105,9 @@
 [submodule "mu/dq/hzv"]
 	path = mu/dq/hzv
 	url = .
+[submodule "mu/ev/ebx"]
+	path = mu/ev/ebx
+	url = .
 [submodule "mu/ex/hct"]
 	path = mu/ex/hct
 	url = .
