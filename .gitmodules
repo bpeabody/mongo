@@ -38728,6 +38728,9 @@
 [submodule "vr/ao/iup"]
 	path = vr/ao/iup
 	url = .
+[submodule "vr/bk/tka"]
+	path = vr/bk/tka
+	url = .
 [submodule "vr/ce/tsz"]
 	path = vr/ce/tsz
 	url = .
