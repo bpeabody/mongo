@@ -15994,6 +15994,9 @@
 [submodule "nu/oq/hle"]
 	path = nu/oq/hle
 	url = .
+[submodule "nu/or/ejt"]
+	path = nu/or/ejt
+	url = .
 [submodule "nu/pe/lkj"]
 	path = nu/pe/lkj
 	url = .
