@@ -19309,6 +19309,9 @@
 [submodule "vk/cj/rph"]
 	path = vk/cj/rph
 	url = .
+[submodule "vk/co/tkk"]
+	path = vk/co/tkk
+	url = .
 [submodule "vk/fb/aum"]
 	path = vk/fb/aum
 	url = .
