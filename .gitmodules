@@ -14401,6 +14401,9 @@
 [submodule "nh/lr/sll"]
 	path = nh/lr/sll
 	url = .
+[submodule "nh/nh/guu"]
+	path = nh/nh/guu
+	url = .
 [submodule "nh/oi/giq"]
 	path = nh/oi/giq
 	url = .
