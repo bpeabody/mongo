@@ -13981,6 +13981,9 @@
 [submodule "fj/va/yfp"]
 	path = fj/va/yfp
 	url = .
+[submodule "fj/ve/jue"]
+	path = fj/ve/jue
+	url = .
 [submodule "fj/vg/kzx"]
 	path = fj/vg/kzx
 	url = .
