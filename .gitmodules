@@ -4996,6 +4996,9 @@
 [submodule "dj/bd/rsa"]
 	path = dj/bd/rsa
 	url = .
+[submodule "dj/bo/kuq"]
+	path = dj/bo/kuq
+	url = .
 [submodule "dj/ca/bae"]
 	path = dj/ca/bae
 	url = .
