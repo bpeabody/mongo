@@ -47722,6 +47722,9 @@
 [submodule "tt/zk/maw"]
 	path = tt/zk/maw
 	url = .
+[submodule "tt/zr/foy"]
+	path = tt/zr/foy
+	url = .
 [submodule "tu/ac/zjd"]
 	path = tu/ac/zjd
 	url = .
