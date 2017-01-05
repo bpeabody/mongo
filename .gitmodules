@@ -3685,6 +3685,9 @@
 [submodule "lp/hm/vxx"]
 	path = lp/hm/vxx
 	url = .
+[submodule "lp/uu/ukw"]
+	path = lp/uu/ukw
+	url = .
 [submodule "lp/xx/uep"]
 	path = lp/xx/uep
 	url = .
