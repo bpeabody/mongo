@@ -61,6 +61,9 @@
 [submodule "aa/ts/aja"]
 	path = aa/ts/aja
 	url = .
+[submodule "aa/uo/abv"]
+	path = aa/uo/abv
+	url = .
 [submodule "aa/us/qsq"]
 	path = aa/us/qsq
 	url = .
