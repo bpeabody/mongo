@@ -51412,6 +51412,9 @@
 [submodule "yw/ir/wmc"]
 	path = yw/ir/wmc
 	url = .
+[submodule "yw/la/ucx"]
+	path = yw/la/ucx
+	url = .
 [submodule "yw/lt/xxa"]
 	path = yw/lt/xxa
 	url = .
