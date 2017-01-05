@@ -48565,6 +48565,9 @@
 [submodule "wj/lo/qpb"]
 	path = wj/lo/qpb
 	url = .
+[submodule "wj/ml/hdg"]
+	path = wj/ml/hdg
+	url = .
 [submodule "wj/qk/lrm"]
 	path = wj/qk/lrm
 	url = .
