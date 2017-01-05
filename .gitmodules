@@ -13198,6 +13198,9 @@
 [submodule "eu/se/opb"]
 	path = eu/se/opb
 	url = .
+[submodule "eu/sg/ggq"]
+	path = eu/sg/ggq
+	url = .
 [submodule "eu/sr/dib"]
 	path = eu/sr/dib
 	url = .
