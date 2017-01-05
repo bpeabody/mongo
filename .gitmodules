@@ -1825,6 +1825,9 @@
 [submodule "bc/xu/lqi"]
 	path = bc/xu/lqi
 	url = .
+[submodule "bc/xy/pzn"]
+	path = bc/xy/pzn
+	url = .
 [submodule "bd/ap/een"]
 	path = bd/ap/een
 	url = .
