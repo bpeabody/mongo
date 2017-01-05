@@ -1399,6 +1399,9 @@
 [submodule "hq/bt/svc"]
 	path = hq/bt/svc
 	url = .
+[submodule "hq/jf/kfe"]
+	path = hq/jf/kfe
+	url = .
 [submodule "hq/mf/lmr"]
 	path = hq/mf/lmr
 	url = .
