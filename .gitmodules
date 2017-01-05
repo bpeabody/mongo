@@ -15511,6 +15511,9 @@
 [submodule "ma/mt/zok"]
 	path = ma/mt/zok
 	url = .
+[submodule "ma/qc/ktw"]
+	path = ma/qc/ktw
+	url = .
 [submodule "ma/qw/osi"]
 	path = ma/qw/osi
 	url = .
