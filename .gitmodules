@@ -12433,6 +12433,9 @@
 [submodule "pj/fh/gsh"]
 	path = pj/fh/gsh
 	url = .
+[submodule "pj/hp/oyv"]
+	path = pj/hp/oyv
+	url = .
 [submodule "pj/ir/fvo"]
 	path = pj/ir/fvo
 	url = .
