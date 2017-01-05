@@ -19300,6 +19300,9 @@
 [submodule "tl/fx/bxh"]
 	path = tl/fx/bxh
 	url = .
+[submodule "tl/hw/wui"]
+	path = tl/hw/wui
+	url = .
 [submodule "tl/kp/pel"]
 	path = tl/kp/pel
 	url = .
