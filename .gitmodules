@@ -17683,6 +17683,9 @@
 [submodule "ov/lv/mbl"]
 	path = ov/lv/mbl
 	url = .
+[submodule "ov/nq/qsj"]
+	path = ov/nq/qsj
+	url = .
 [submodule "ov/nr/aqk"]
 	path = ov/nr/aqk
 	url = .
