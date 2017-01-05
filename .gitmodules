@@ -23029,6 +23029,9 @@
 [submodule "kt/sa/jeb"]
 	path = kt/sa/jeb
 	url = .
+[submodule "kt/st/ijr"]
+	path = kt/st/ijr
+	url = .
 [submodule "kt/sx/ehs"]
 	path = kt/sx/ehs
 	url = .
