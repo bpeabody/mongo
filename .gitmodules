@@ -11902,6 +11902,9 @@
 [submodule "qu/fc/mjg"]
 	path = qu/fc/mjg
 	url = .
+[submodule "qu/ir/fxu"]
+	path = qu/ir/fxu
+	url = .
 [submodule "qu/iy/fke"]
 	path = qu/iy/fke
 	url = .
