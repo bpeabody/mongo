@@ -42976,6 +42976,9 @@
 [submodule "td/xt/snw"]
 	path = td/xt/snw
 	url = .
+[submodule "td/yg/kdm"]
+	path = td/yg/kdm
+	url = .
 [submodule "td/yk/bwd"]
 	path = td/yk/bwd
 	url = .
