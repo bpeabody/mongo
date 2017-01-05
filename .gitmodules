@@ -6742,6 +6742,9 @@
 [submodule "dt/ne/xbd"]
 	path = dt/ne/xbd
 	url = .
+[submodule "dt/nq/chv"]
+	path = dt/nq/chv
+	url = .
 [submodule "dt/qc/bar"]
 	path = dt/qc/bar
 	url = .
