@@ -5914,6 +5914,9 @@
 [submodule "dm/ex/ixc"]
 	path = dm/ex/ixc
 	url = .
+[submodule "dm/fz/wpr"]
+	path = dm/fz/wpr
+	url = .
 [submodule "dm/ge/zwf"]
 	path = dm/ge/zwf
 	url = .
