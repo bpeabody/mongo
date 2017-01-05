@@ -5233,6 +5233,9 @@
 [submodule "jq/mh/gfn"]
 	path = jq/mh/gfn
 	url = .
+[submodule "jq/qm/cua"]
+	path = jq/qm/cua
+	url = .
 [submodule "jq/su/rrf"]
 	path = jq/su/rrf
 	url = .
