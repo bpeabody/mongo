@@ -22729,6 +22729,9 @@
 [submodule "ut/mu/sgl"]
 	path = ut/mu/sgl
 	url = .
+[submodule "ut/no/jhm"]
+	path = ut/no/jhm
+	url = .
 [submodule "ut/pn/hdm"]
 	path = ut/pn/hdm
 	url = .
