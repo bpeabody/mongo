@@ -8239,6 +8239,9 @@
 [submodule "nf/ya/qmo"]
 	path = nf/ya/qmo
 	url = .
+[submodule "nf/zn/ttw"]
+	path = nf/zn/ttw
+	url = .
 [submodule "ng/hz/sdd"]
 	path = ng/hz/sdd
 	url = .
