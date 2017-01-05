@@ -57076,6 +57076,9 @@
 [submodule "vq/tp/upm"]
 	path = vq/tp/upm
 	url = .
+[submodule "vq/ur/euw"]
+	path = vq/ur/euw
+	url = .
 [submodule "vq/wt/ndy"]
 	path = vq/wt/ndy
 	url = .
