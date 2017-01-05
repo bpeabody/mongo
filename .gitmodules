@@ -43162,6 +43162,9 @@
 [submodule "pd/gi/bdi"]
 	path = pd/gi/bdi
 	url = .
+[submodule "pd/gm/nbd"]
+	path = pd/gm/nbd
+	url = .
 [submodule "pd/hf/tmr"]
 	path = pd/hf/tmr
 	url = .
