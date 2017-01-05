@@ -4837,6 +4837,9 @@
 [submodule "ee/ap/nbj"]
 	path = ee/ap/nbj
 	url = .
+[submodule "ee/bd/ske"]
+	path = ee/bd/ske
+	url = .
 [submodule "ee/dy/ojj"]
 	path = ee/dy/ojj
 	url = .
