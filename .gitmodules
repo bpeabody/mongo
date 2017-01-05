@@ -3688,6 +3688,9 @@
 [submodule "xz/ak/mrh"]
 	path = xz/ak/mrh
 	url = .
+[submodule "xz/hj/tvs"]
+	path = xz/hj/tvs
+	url = .
 [submodule "xz/iq/pth"]
 	path = xz/iq/pth
 	url = .
