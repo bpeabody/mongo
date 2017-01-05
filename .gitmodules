@@ -10507,6 +10507,9 @@
 [submodule "kb/ok/rlb"]
 	path = kb/ok/rlb
 	url = .
+[submodule "kb/ov/kir"]
+	path = kb/ov/kir
+	url = .
 [submodule "kb/pw/jqh"]
 	path = kb/pw/jqh
 	url = .
