@@ -6298,6 +6298,9 @@
 [submodule "vt/ii/ucj"]
 	path = vt/ii/ucj
 	url = .
+[submodule "vt/la/szh"]
+	path = vt/la/szh
+	url = .
 [submodule "vt/su/guw"]
 	path = vt/su/guw
 	url = .
