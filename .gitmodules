@@ -3865,6 +3865,9 @@
 [submodule "ea/os/aet"]
 	path = ea/os/aet
 	url = .
+[submodule "ea/pu/vhi"]
+	path = ea/pu/vhi
+	url = .
 [submodule "ea/uc/vuz"]
 	path = ea/uc/vuz
 	url = .
