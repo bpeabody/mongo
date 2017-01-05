@@ -14308,6 +14308,9 @@
 [submodule "wr/rx/gad"]
 	path = wr/rx/gad
 	url = .
+[submodule "wr/uc/env"]
+	path = wr/uc/env
+	url = .
 [submodule "wr/ue/pbc"]
 	path = wr/ue/pbc
 	url = .
