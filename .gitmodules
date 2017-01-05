@@ -6070,6 +6070,9 @@
 [submodule "ek/ep/dbp"]
 	path = ek/ep/dbp
 	url = .
+[submodule "ek/fz/pqc"]
+	path = ek/fz/pqc
+	url = .
 [submodule "ek/hj/dga"]
 	path = ek/hj/dga
 	url = .
