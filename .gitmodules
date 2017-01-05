@@ -21661,6 +21661,9 @@
 [submodule "hr/sp/ytw"]
 	path = hr/sp/ytw
 	url = .
+[submodule "hr/tl/enn"]
+	path = hr/tl/enn
+	url = .
 [submodule "hr/ui/drs"]
 	path = hr/ui/drs
 	url = .
