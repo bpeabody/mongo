@@ -46816,6 +46816,9 @@
 [submodule "vh/sv/acl"]
 	path = vh/sv/acl
 	url = .
+[submodule "vh/uz/byq"]
+	path = vh/uz/byq
+	url = .
 [submodule "vh/vz/fmv"]
 	path = vh/vz/fmv
 	url = .
