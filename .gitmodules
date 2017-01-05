@@ -29977,6 +29977,9 @@
 [submodule "kw/ix/vse"]
 	path = kw/ix/vse
 	url = .
+[submodule "kw/jv/qim"]
+	path = kw/jv/qim
+	url = .
 [submodule "kw/lp/hzh"]
 	path = kw/lp/hzh
 	url = .
