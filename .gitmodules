@@ -15010,6 +15010,9 @@
 [submodule "uz/hx/uec"]
 	path = uz/hx/uec
 	url = .
+[submodule "uz/lj/hwo"]
+	path = uz/lj/hwo
+	url = .
 [submodule "uz/nt/atf"]
 	path = uz/nt/atf
 	url = .
