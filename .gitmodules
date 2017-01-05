@@ -29116,6 +29116,9 @@
 [submodule "tn/zj/rdo"]
 	path = tn/zj/rdo
 	url = .
+[submodule "tn/zz/gry"]
+	path = tn/zz/gry
+	url = .
 [submodule "tn/zz/psu"]
 	path = tn/zz/psu
 	url = .
