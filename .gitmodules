@@ -3034,6 +3034,9 @@
 [submodule "kk/xf/mqx"]
 	path = kk/xf/mqx
 	url = .
+[submodule "kk/yj/ldm"]
+	path = kk/yj/ldm
+	url = .
 [submodule "kl/cq/vgc"]
 	path = kl/cq/vgc
 	url = .
