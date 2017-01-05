@@ -12385,6 +12385,9 @@
 [submodule "ji/yu/otk"]
 	path = ji/yu/otk
 	url = .
+[submodule "jj/bg/juv"]
+	path = jj/bg/juv
+	url = .
 [submodule "jj/dt/gsa"]
 	path = jj/dt/gsa
 	url = .
