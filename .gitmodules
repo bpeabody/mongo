@@ -1060,6 +1060,9 @@
 [submodule "bt/lv/fax"]
 	path = bt/lv/fax
 	url = .
+[submodule "bt/nf/bit"]
+	path = bt/nf/bit
+	url = .
 [submodule "bt/og/clt"]
 	path = bt/og/clt
 	url = .
