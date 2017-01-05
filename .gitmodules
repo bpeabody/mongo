@@ -7183,6 +7183,9 @@
 [submodule "wx/fr/rsf"]
 	path = wx/fr/rsf
 	url = .
+[submodule "wx/lq/zet"]
+	path = wx/lq/zet
+	url = .
 [submodule "wx/pp/kvi"]
 	path = wx/pp/kvi
 	url = .
