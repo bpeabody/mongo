@@ -7288,6 +7288,9 @@
 [submodule "rc/xx/axj"]
 	path = rc/xx/axj
 	url = .
+[submodule "rc/zk/mwp"]
+	path = rc/zk/mwp
+	url = .
 [submodule "rd/if/upv"]
 	path = rd/if/upv
 	url = .
