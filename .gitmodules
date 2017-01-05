@@ -2392,6 +2392,9 @@
 [submodule "ct/sz/zbm"]
 	path = ct/sz/zbm
 	url = .
+[submodule "ct/wh/zfs"]
+	path = ct/wh/zfs
+	url = .
 [submodule "ct/xa/uqh"]
 	path = ct/xa/uqh
 	url = .
