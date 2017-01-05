@@ -1711,6 +1711,9 @@
 [submodule "bu/py/kao"]
 	path = bu/py/kao
 	url = .
+[submodule "bu/rh/emq"]
+	path = bu/rh/emq
+	url = .
 [submodule "bu/rj/kke"]
 	path = bu/rj/kke
 	url = .
