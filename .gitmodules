@@ -36319,6 +36319,9 @@
 [submodule "nf/jc/kmr"]
 	path = nf/jc/kmr
 	url = .
+[submodule "nf/kz/muh"]
+	path = nf/kz/muh
+	url = .
 [submodule "nf/lh/zno"]
 	path = nf/lh/zno
 	url = .
