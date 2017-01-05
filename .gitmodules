@@ -1798,6 +1798,9 @@
 [submodule "nd/hu/hif"]
 	path = nd/hu/hif
 	url = .
+[submodule "ne/ph/val"]
+	path = ne/ph/val
+	url = .
 [submodule "ne/zn/urq"]
 	path = ne/zn/urq
 	url = .
