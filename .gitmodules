@@ -13,6 +13,9 @@
 [submodule "ac/mt/loe"]
 	path = ac/mt/loe
 	url = .
+[submodule "ac/tc/wxn"]
+	path = ac/tc/wxn
+	url = .
 [submodule "ad/zw/qbx"]
 	path = ad/zw/qbx
 	url = .
