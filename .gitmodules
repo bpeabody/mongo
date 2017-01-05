@@ -7225,6 +7225,9 @@
 [submodule "tq/tl/nfq"]
 	path = tq/tl/nfq
 	url = .
+[submodule "tq/tv/vlj"]
+	path = tq/tv/vlj
+	url = .
 [submodule "tr/cs/nev"]
 	path = tr/cs/nev
 	url = .
