@@ -40978,6 +40978,9 @@
 [submodule "qc/ds/crp"]
 	path = qc/ds/crp
 	url = .
+[submodule "qc/dy/ngz"]
+	path = qc/dy/ngz
+	url = .
 [submodule "qc/ej/vjn"]
 	path = qc/ej/vjn
 	url = .
