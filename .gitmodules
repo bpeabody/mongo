@@ -22378,6 +22378,9 @@
 [submodule "lg/lj/wjb"]
 	path = lg/lj/wjb
 	url = .
+[submodule "lg/mg/wda"]
+	path = lg/mg/wda
+	url = .
 [submodule "lg/mk/pgg"]
 	path = lg/mk/pgg
 	url = .
