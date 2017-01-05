@@ -7609,6 +7609,9 @@
 [submodule "la/ma/sow"]
 	path = la/ma/sow
 	url = .
+[submodule "la/nb/fir"]
+	path = la/nb/fir
+	url = .
 [submodule "la/rz/ayb"]
 	path = la/rz/ayb
 	url = .
