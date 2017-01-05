@@ -859,6 +859,9 @@
 [submodule "qa/ve/udk"]
 	path = qa/ve/udk
 	url = .
+[submodule "qb/cv/avo"]
+	path = qb/cv/avo
+	url = .
 [submodule "qb/ub/tou"]
 	path = qb/ub/tou
 	url = .
