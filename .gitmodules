@@ -29542,6 +29542,9 @@
 [submodule "kq/cg/lxb"]
 	path = kq/cg/lxb
 	url = .
+[submodule "kq/cu/qla"]
+	path = kq/cu/qla
+	url = .
 [submodule "kq/dm/gkh"]
 	path = kq/dm/gkh
 	url = .
