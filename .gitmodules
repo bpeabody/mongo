@@ -1429,6 +1429,9 @@
 [submodule "bf/dh/mse"]
 	path = bf/dh/mse
 	url = .
+[submodule "bf/et/lss"]
+	path = bf/et/lss
+	url = .
 [submodule "bf/gf/vfh"]
 	path = bf/gf/vfh
 	url = .
