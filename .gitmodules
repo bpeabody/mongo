@@ -9847,6 +9847,9 @@
 [submodule "ep/za/xwo"]
 	path = ep/za/xwo
 	url = .
+[submodule "eq/au/opc"]
+	path = eq/au/opc
+	url = .
 [submodule "eq/eb/fau"]
 	path = eq/eb/fau
 	url = .
