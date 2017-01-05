@@ -7450,6 +7450,9 @@
 [submodule "ea/sd/klk"]
 	path = ea/sd/klk
 	url = .
+[submodule "ea/tc/mqg"]
+	path = ea/tc/mqg
+	url = .
 [submodule "ea/uc/vuz"]
 	path = ea/uc/vuz
 	url = .
