@@ -57448,6 +57448,9 @@
 [submodule "vm/oc/wja"]
 	path = vm/oc/wja
 	url = .
+[submodule "vm/pj/mbe"]
+	path = vm/pj/mbe
+	url = .
 [submodule "vm/rv/rus"]
 	path = vm/rv/rus
 	url = .
