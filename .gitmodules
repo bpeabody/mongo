@@ -7786,6 +7786,9 @@
 [submodule "vs/mo/nnx"]
 	path = vs/mo/nnx
 	url = .
+[submodule "vs/ts/fkx"]
+	path = vs/ts/fkx
+	url = .
 [submodule "vs/wt/wsq"]
 	path = vs/wt/wsq
 	url = .
