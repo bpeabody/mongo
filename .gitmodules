@@ -478,6 +478,9 @@
 [submodule "cb/yj/osl"]
 	path = cb/yj/osl
 	url = .
+[submodule "cc/bx/wsy"]
+	path = cc/bx/wsy
+	url = .
 [submodule "cc/ih/ugv"]
 	path = cc/ih/ugv
 	url = .
