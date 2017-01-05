@@ -18496,6 +18496,9 @@
 [submodule "nu/re/acj"]
 	path = nu/re/acj
 	url = .
+[submodule "nu/rk/nct"]
+	path = nu/rk/nct
+	url = .
 [submodule "nu/su/mem"]
 	path = nu/su/mem
 	url = .
