@@ -1999,6 +1999,9 @@
 [submodule "au/on/qkh"]
 	path = au/on/qkh
 	url = .
+[submodule "au/oy/wps"]
+	path = au/oy/wps
+	url = .
 [submodule "au/po/jse"]
 	path = au/po/jse
 	url = .
