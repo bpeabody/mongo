@@ -33271,6 +33271,9 @@
 [submodule "yx/sq/uyo"]
 	path = yx/sq/uyo
 	url = .
+[submodule "yx/tj/ppm"]
+	path = yx/tj/ppm
+	url = .
 [submodule "yx/vj/uqi"]
 	path = yx/vj/uqi
 	url = .
