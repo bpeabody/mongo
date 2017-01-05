@@ -250,6 +250,9 @@
 [submodule "bz/jf/mvk"]
 	path = bz/jf/mvk
 	url = .
+[submodule "bz/yj/aio"]
+	path = bz/yj/aio
+	url = .
 [submodule "ca/xu/kwv"]
 	path = ca/xu/kwv
 	url = .
