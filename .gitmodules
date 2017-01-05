@@ -28492,6 +28492,9 @@
 [submodule "ob/nt/nle"]
 	path = ob/nt/nle
 	url = .
+[submodule "ob/pt/wga"]
+	path = ob/pt/wga
+	url = .
 [submodule "ob/pu/wfn"]
 	path = ob/pu/wfn
 	url = .
