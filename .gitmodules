@@ -35266,6 +35266,9 @@
 [submodule "ls/nr/pxw"]
 	path = ls/nr/pxw
 	url = .
+[submodule "ls/nv/vkt"]
+	path = ls/nv/vkt
+	url = .
 [submodule "ls/nw/bgl"]
 	path = ls/nw/bgl
 	url = .
