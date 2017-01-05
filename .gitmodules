@@ -67969,6 +67969,9 @@
 [submodule "yr/pe/ils"]
 	path = yr/pe/ils
 	url = .
+[submodule "yr/pr/skc"]
+	path = yr/pr/skc
+	url = .
 [submodule "yr/qe/ifd"]
 	path = yr/qe/ifd
 	url = .
