@@ -18619,6 +18619,9 @@
 [submodule "lu/ey/bod"]
 	path = lu/ey/bod
 	url = .
+[submodule "lu/gr/fqb"]
+	path = lu/gr/fqb
+	url = .
 [submodule "lu/gu/xro"]
 	path = lu/gu/xro
 	url = .
