@@ -5239,6 +5239,9 @@
 [submodule "ke/fs/uov"]
 	path = ke/fs/uov
 	url = .
+[submodule "ke/yd/ldb"]
+	path = ke/yd/ldb
+	url = .
 [submodule "kf/sv/bry"]
 	path = kf/sv/bry
 	url = .
