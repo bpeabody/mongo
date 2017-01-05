@@ -1012,6 +1012,9 @@
 [submodule "bg/gi/kpo"]
 	path = bg/gi/kpo
 	url = .
+[submodule "bg/gk/qnj"]
+	path = bg/gk/qnj
+	url = .
 [submodule "bg/gm/jhl"]
 	path = bg/gm/jhl
 	url = .
