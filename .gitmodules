@@ -9925,6 +9925,9 @@
 [submodule "ij/sp/idk"]
 	path = ij/sp/idk
 	url = .
+[submodule "ij/tg/jey"]
+	path = ij/tg/jey
+	url = .
 [submodule "ij/wq/mjw"]
 	path = ij/wq/mjw
 	url = .
