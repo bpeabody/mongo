@@ -1360,6 +1360,9 @@
 [submodule "ov/lv/mbl"]
 	path = ov/lv/mbl
 	url = .
+[submodule "ov/xz/kga"]
+	path = ov/xz/kga
+	url = .
 [submodule "ow/cq/acm"]
 	path = ow/cq/acm
 	url = .
