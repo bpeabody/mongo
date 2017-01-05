@@ -9442,6 +9442,9 @@
 [submodule "hv/ss/bsr"]
 	path = hv/ss/bsr
 	url = .
+[submodule "hv/xq/icv"]
+	path = hv/xq/icv
+	url = .
 [submodule "hv/yn/jjx"]
 	path = hv/yn/jjx
 	url = .
