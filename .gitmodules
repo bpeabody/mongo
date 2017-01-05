@@ -65665,6 +65665,9 @@
 [submodule "ya/ar/wtv"]
 	path = ya/ar/wtv
 	url = .
+[submodule "ya/av/oho"]
+	path = ya/av/oho
+	url = .
 [submodule "ya/ax/ngu"]
 	path = ya/ax/ngu
 	url = .
