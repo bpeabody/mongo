@@ -8578,6 +8578,9 @@
 [submodule "pr/ko/jva"]
 	path = pr/ko/jva
 	url = .
+[submodule "pr/nl/bxm"]
+	path = pr/nl/bxm
+	url = .
 [submodule "pr/od/nld"]
 	path = pr/od/nld
 	url = .
