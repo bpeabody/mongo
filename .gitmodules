@@ -6436,6 +6436,9 @@
 [submodule "dp/gf/aeq"]
 	path = dp/gf/aeq
 	url = .
+[submodule "dp/hl/rtc"]
+	path = dp/hl/rtc
+	url = .
 [submodule "dp/jc/qjw"]
 	path = dp/jc/qjw
 	url = .
