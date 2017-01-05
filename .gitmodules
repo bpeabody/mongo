@@ -11128,6 +11128,9 @@
 [submodule "dr/hw/xcg"]
 	path = dr/hw/xcg
 	url = .
+[submodule "dr/ie/uhj"]
+	path = dr/ie/uhj
+	url = .
 [submodule "dr/ik/azx"]
 	path = dr/ik/azx
 	url = .
