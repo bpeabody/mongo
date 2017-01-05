@@ -36319,6 +36319,9 @@
 [submodule "nu/pq/uij"]
 	path = nu/pq/uij
 	url = .
+[submodule "nu/qu/ybo"]
+	path = nu/qu/ybo
+	url = .
 [submodule "nu/re/acj"]
 	path = nu/re/acj
 	url = .
