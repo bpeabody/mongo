@@ -9121,6 +9121,9 @@
 [submodule "qy/lz/nqv"]
 	path = qy/lz/nqv
 	url = .
+[submodule "qy/nk/kxh"]
+	path = qy/nk/kxh
+	url = .
 [submodule "qy/vd/gyr"]
 	path = qy/vd/gyr
 	url = .
