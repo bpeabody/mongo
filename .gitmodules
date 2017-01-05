@@ -18514,6 +18514,9 @@
 [submodule "wp/px/vhk"]
 	path = wp/px/vhk
 	url = .
+[submodule "wp/so/dut"]
+	path = wp/so/dut
+	url = .
 [submodule "wp/tw/bal"]
 	path = wp/tw/bal
 	url = .
