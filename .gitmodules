@@ -14806,6 +14806,9 @@
 [submodule "nw/xn/ffn"]
 	path = nw/xn/ffn
 	url = .
+[submodule "nx/bs/ugx"]
+	path = nx/bs/ugx
+	url = .
 [submodule "nx/bs/wir"]
 	path = nx/bs/wir
 	url = .
