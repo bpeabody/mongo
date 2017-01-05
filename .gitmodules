@@ -4816,6 +4816,9 @@
 [submodule "ef/qd/qvb"]
 	path = ef/qd/qvb
 	url = .
+[submodule "ef/qt/nze"]
+	path = ef/qt/nze
+	url = .
 [submodule "ef/sg/yqc"]
 	path = ef/sg/yqc
 	url = .
