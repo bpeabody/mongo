@@ -22441,6 +22441,9 @@
 [submodule "xu/us/hul"]
 	path = xu/us/hul
 	url = .
+[submodule "xu/wm/aec"]
+	path = xu/wm/aec
+	url = .
 [submodule "xu/yg/twv"]
 	path = xu/yg/twv
 	url = .
