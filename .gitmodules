@@ -8650,6 +8650,9 @@
 [submodule "ff/dy/kcx"]
 	path = ff/dy/kcx
 	url = .
+[submodule "ff/eg/lhp"]
+	path = ff/eg/lhp
+	url = .
 [submodule "ff/es/txz"]
 	path = ff/es/txz
 	url = .
