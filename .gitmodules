@@ -1597,6 +1597,9 @@
 [submodule "du/ng/bjb"]
 	path = du/ng/bjb
 	url = .
+[submodule "du/wy/tqc"]
+	path = du/wy/tqc
+	url = .
 [submodule "du/yv/gvz"]
 	path = du/yv/gvz
 	url = .
