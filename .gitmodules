@@ -8494,6 +8494,9 @@
 [submodule "vq/gi/pyn"]
 	path = vq/gi/pyn
 	url = .
+[submodule "vq/gk/ond"]
+	path = vq/gk/ond
+	url = .
 [submodule "vq/hw/xzz"]
 	path = vq/hw/xzz
 	url = .
