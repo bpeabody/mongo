@@ -26404,6 +26404,9 @@
 [submodule "pk/kg/ftt"]
 	path = pk/kg/ftt
 	url = .
+[submodule "pk/lw/sij"]
+	path = pk/lw/sij
+	url = .
 [submodule "pk/mo/zkf"]
 	path = pk/mo/zkf
 	url = .
