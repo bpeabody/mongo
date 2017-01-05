@@ -1357,6 +1357,9 @@
 [submodule "ca/vi/qwr"]
 	path = ca/vi/qwr
 	url = .
+[submodule "ca/wt/fav"]
+	path = ca/wt/fav
+	url = .
 [submodule "ca/wz/aur"]
 	path = ca/wz/aur
 	url = .
