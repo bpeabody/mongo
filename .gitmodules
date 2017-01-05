@@ -757,6 +757,9 @@
 [submodule "ag/dn/olb"]
 	path = ag/dn/olb
 	url = .
+[submodule "ag/do/uef"]
+	path = ag/do/uef
+	url = .
 [submodule "ag/ds/tuk"]
 	path = ag/ds/tuk
 	url = .
