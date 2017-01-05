@@ -1027,6 +1027,9 @@
 [submodule "al/wq/qef"]
 	path = al/wq/qef
 	url = .
+[submodule "al/yc/ouv"]
+	path = al/yc/ouv
+	url = .
 [submodule "am/bn/bmr"]
 	path = am/bn/bmr
 	url = .
