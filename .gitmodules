@@ -13228,6 +13228,9 @@
 [submodule "ik/rt/tsq"]
 	path = ik/rt/tsq
 	url = .
+[submodule "ik/sd/mny"]
+	path = ik/sd/mny
+	url = .
 [submodule "ik/tr/vvw"]
 	path = ik/tr/vvw
 	url = .
