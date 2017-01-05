@@ -4534,6 +4534,9 @@
 [submodule "jn/qg/ala"]
 	path = jn/qg/ala
 	url = .
+[submodule "jn/qu/mri"]
+	path = jn/qu/mri
+	url = .
 [submodule "jn/qv/day"]
 	path = jn/qv/day
 	url = .
