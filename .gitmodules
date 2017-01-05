@@ -32149,6 +32149,9 @@
 [submodule "lm/ub/ziu"]
 	path = lm/ub/ziu
 	url = .
+[submodule "lm/ux/gpn"]
+	path = lm/ux/gpn
+	url = .
 [submodule "lm/ws/gxl"]
 	path = lm/ws/gxl
 	url = .
