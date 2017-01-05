@@ -64204,6 +64204,9 @@
 [submodule "zx/de/byv"]
 	path = zx/de/byv
 	url = .
+[submodule "zx/dg/npy"]
+	path = zx/dg/npy
+	url = .
 [submodule "zx/dp/pvm"]
 	path = zx/dp/pvm
 	url = .
