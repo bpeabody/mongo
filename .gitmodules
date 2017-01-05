@@ -6220,6 +6220,9 @@
 [submodule "ca/gz/lax"]
 	path = ca/gz/lax
 	url = .
+[submodule "ca/iq/jcg"]
+	path = ca/iq/jcg
+	url = .
 [submodule "ca/jq/srk"]
 	path = ca/jq/srk
 	url = .
