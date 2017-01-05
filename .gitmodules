@@ -7330,6 +7330,9 @@
 [submodule "jg/bd/nut"]
 	path = jg/bd/nut
 	url = .
+[submodule "jg/fv/wqb"]
+	path = jg/fv/wqb
+	url = .
 [submodule "jg/ig/xby"]
 	path = jg/ig/xby
 	url = .
