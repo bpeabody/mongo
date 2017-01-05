@@ -490,6 +490,9 @@
 [submodule "bf/gf/vfh"]
 	path = bf/gf/vfh
 	url = .
+[submodule "bf/km/vso"]
+	path = bf/km/vso
+	url = .
 [submodule "bg/ax/rzw"]
 	path = bg/ax/rzw
 	url = .
