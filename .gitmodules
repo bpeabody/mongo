@@ -18496,6 +18496,9 @@
 [submodule "lj/ht/jqh"]
 	path = lj/ht/jqh
 	url = .
+[submodule "lj/jq/pvn"]
+	path = lj/jq/pvn
+	url = .
 [submodule "lj/pm/hwr"]
 	path = lj/pm/hwr
 	url = .
