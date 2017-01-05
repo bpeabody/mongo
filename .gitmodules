@@ -6103,6 +6103,9 @@
 [submodule "ip/op/ajf"]
 	path = ip/op/ajf
 	url = .
+[submodule "ip/sm/glj"]
+	path = ip/sm/glj
+	url = .
 [submodule "ip/ux/xfc"]
 	path = ip/ux/xfc
 	url = .
