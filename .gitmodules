@@ -31639,6 +31639,9 @@
 [submodule "vd/qi/ngz"]
 	path = vd/qi/ngz
 	url = .
+[submodule "vd/qq/pky"]
+	path = vd/qq/pky
+	url = .
 [submodule "vd/rn/vjk"]
 	path = vd/rn/vjk
 	url = .
