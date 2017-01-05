@@ -14074,6 +14074,9 @@
 [submodule "jm/dc/dbz"]
 	path = jm/dc/dbz
 	url = .
+[submodule "jm/dx/tyh"]
+	path = jm/dx/tyh
+	url = .
 [submodule "jm/fi/iiz"]
 	path = jm/fi/iiz
 	url = .
