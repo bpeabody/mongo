@@ -6607,6 +6607,9 @@
 [submodule "lx/mk/cfl"]
 	path = lx/mk/cfl
 	url = .
+[submodule "lx/sp/vkz"]
+	path = lx/sp/vkz
+	url = .
 [submodule "lx/vz/mbp"]
 	path = lx/vz/mbp
 	url = .
