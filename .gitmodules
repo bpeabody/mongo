@@ -5683,6 +5683,9 @@
 [submodule "ei/oe/nbj"]
 	path = ei/oe/nbj
 	url = .
+[submodule "ei/pw/zur"]
+	path = ei/pw/zur
+	url = .
 [submodule "ei/qo/eum"]
 	path = ei/qo/eum
 	url = .
