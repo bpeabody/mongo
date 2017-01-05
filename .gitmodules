@@ -23452,6 +23452,9 @@
 [submodule "uv/ez/zaq"]
 	path = uv/ez/zaq
 	url = .
+[submodule "uv/fy/vgy"]
+	path = uv/fy/vgy
+	url = .
 [submodule "uv/gl/cvu"]
 	path = uv/gl/cvu
 	url = .
