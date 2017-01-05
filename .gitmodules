@@ -36484,6 +36484,9 @@
 [submodule "tk/wh/hus"]
 	path = tk/wh/hus
 	url = .
+[submodule "tk/wh/yzn"]
+	path = tk/wh/yzn
+	url = .
 [submodule "tk/wn/xor"]
 	path = tk/wn/xor
 	url = .
