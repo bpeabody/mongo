@@ -13840,6 +13840,9 @@
 [submodule "kn/qg/zmg"]
 	path = kn/qg/zmg
 	url = .
+[submodule "kn/sh/myh"]
+	path = kn/sh/myh
+	url = .
 [submodule "kn/wx/tki"]
 	path = kn/wx/tki
 	url = .
