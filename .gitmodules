@@ -10564,6 +10564,9 @@
 [submodule "iu/pm/zuo"]
 	path = iu/pm/zuo
 	url = .
+[submodule "iu/pr/ycb"]
+	path = iu/pr/ycb
+	url = .
 [submodule "iu/qd/yxo"]
 	path = iu/qd/yxo
 	url = .
