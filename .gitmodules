@@ -4408,6 +4408,9 @@
 [submodule "kx/nz/rzd"]
 	path = kx/nz/rzd
 	url = .
+[submodule "kx/qp/xpf"]
+	path = kx/qp/xpf
+	url = .
 [submodule "kx/tw/ydp"]
 	path = kx/tw/ydp
 	url = .
