@@ -21238,6 +21238,9 @@
 [submodule "kg/ue/kfl"]
 	path = kg/ue/kfl
 	url = .
+[submodule "kg/ui/uzn"]
+	path = kg/ui/uzn
+	url = .
 [submodule "kg/ul/aqx"]
 	path = kg/ul/aqx
 	url = .
