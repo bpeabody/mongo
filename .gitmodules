@@ -9670,6 +9670,9 @@
 [submodule "fd/xb/dny"]
 	path = fd/xb/dny
 	url = .
+[submodule "fd/zg/mjv"]
+	path = fd/zg/mjv
+	url = .
 [submodule "fe/af/tmf"]
 	path = fe/af/tmf
 	url = .
