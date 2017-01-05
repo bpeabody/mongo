@@ -17566,6 +17566,9 @@
 [submodule "uk/zi/tjx"]
 	path = uk/zi/tjx
 	url = .
+[submodule "uk/zz/vut"]
+	path = uk/zz/vut
+	url = .
 [submodule "ul/aj/fhk"]
 	path = ul/aj/fhk
 	url = .
