@@ -52165,6 +52165,9 @@
 [submodule "yy/al/bay"]
 	path = yy/al/bay
 	url = .
+[submodule "yy/bd/bwl"]
+	path = yy/bd/bwl
+	url = .
 [submodule "yy/br/ndm"]
 	path = yy/br/ndm
 	url = .
