@@ -6622,6 +6622,9 @@
 [submodule "ce/ld/rwv"]
 	path = ce/ld/rwv
 	url = .
+[submodule "ce/lu/bno"]
+	path = ce/lu/bno
+	url = .
 [submodule "ce/lw/rut"]
 	path = ce/lw/rut
 	url = .
