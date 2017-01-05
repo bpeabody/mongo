@@ -34138,6 +34138,9 @@
 [submodule "op/oa/hdk"]
 	path = op/oa/hdk
 	url = .
+[submodule "op/oa/rup"]
+	path = op/oa/rup
+	url = .
 [submodule "op/ov/ryv"]
 	path = op/ov/ryv
 	url = .
