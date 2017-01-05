@@ -35263,6 +35263,9 @@
 [submodule "me/sm/rqt"]
 	path = me/sm/rqt
 	url = .
+[submodule "me/sr/xqn"]
+	path = me/sr/xqn
+	url = .
 [submodule "me/sw/wft"]
 	path = me/sw/wft
 	url = .
