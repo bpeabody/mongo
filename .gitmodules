@@ -36670,6 +36670,9 @@
 [submodule "yh/ou/xoc"]
 	path = yh/ou/xoc
 	url = .
+[submodule "yh/pg/wym"]
+	path = yh/pg/wym
+	url = .
 [submodule "yh/pl/tna"]
 	path = yh/pl/tna
 	url = .
