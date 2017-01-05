@@ -4327,6 +4327,9 @@
 [submodule "ch/rz/zwl"]
 	path = ch/rz/zwl
 	url = .
+[submodule "ch/uo/kun"]
+	path = ch/uo/kun
+	url = .
 [submodule "ch/uu/fsq"]
 	path = ch/uu/fsq
 	url = .
