@@ -667,6 +667,9 @@
 [submodule "jq/su/rrf"]
 	path = jq/su/rrf
 	url = .
+[submodule "jr/ci/xvx"]
+	path = jr/ci/xvx
+	url = .
 [submodule "js/pc/iks"]
 	path = js/pc/iks
 	url = .
