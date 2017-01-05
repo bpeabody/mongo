@@ -7504,6 +7504,9 @@
 [submodule "sr/vj/lwz"]
 	path = sr/vj/lwz
 	url = .
+[submodule "sr/vn/ibx"]
+	path = sr/vn/ibx
+	url = .
 [submodule "sr/zo/nbo"]
 	path = sr/zo/nbo
 	url = .
