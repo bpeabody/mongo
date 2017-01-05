@@ -28168,6 +28168,9 @@
 [submodule "rt/cg/qen"]
 	path = rt/cg/qen
 	url = .
+[submodule "rt/cp/nyk"]
+	path = rt/cp/nyk
+	url = .
 [submodule "rt/df/etm"]
 	path = rt/df/etm
 	url = .
