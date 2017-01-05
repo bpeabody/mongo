@@ -13648,6 +13648,9 @@
 [submodule "hm/lm/cel"]
 	path = hm/lm/cel
 	url = .
+[submodule "hm/md/uig"]
+	path = hm/md/uig
+	url = .
 [submodule "hm/na/dhz"]
 	path = hm/na/dhz
 	url = .
