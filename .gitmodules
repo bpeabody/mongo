@@ -19819,6 +19819,9 @@
 [submodule "je/qt/xwc"]
 	path = je/qt/xwc
 	url = .
+[submodule "je/rj/ppi"]
+	path = je/rj/ppi
+	url = .
 [submodule "je/sc/dwe"]
 	path = je/sc/dwe
 	url = .
