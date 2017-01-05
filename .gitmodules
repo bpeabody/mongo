@@ -7204,6 +7204,9 @@
 [submodule "gm/jq/tke"]
 	path = gm/jq/tke
 	url = .
+[submodule "gm/kq/ont"]
+	path = gm/kq/ont
+	url = .
 [submodule "gm/pn/qce"]
 	path = gm/pn/qce
 	url = .
