@@ -1225,6 +1225,9 @@
 [submodule "as/rp/svt"]
 	path = as/rp/svt
 	url = .
+[submodule "as/so/ubz"]
+	path = as/so/ubz
+	url = .
 [submodule "as/ta/ejo"]
 	path = as/ta/ejo
 	url = .
