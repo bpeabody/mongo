@@ -8833,6 +8833,9 @@
 [submodule "mr/sh/qwk"]
 	path = mr/sh/qwk
 	url = .
+[submodule "mr/tf/bsz"]
+	path = mr/tf/bsz
+	url = .
 [submodule "mr/ud/fup"]
 	path = mr/ud/fup
 	url = .
