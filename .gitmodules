@@ -6424,6 +6424,9 @@
 [submodule "gq/jw/mhv"]
 	path = gq/jw/mhv
 	url = .
+[submodule "gq/ng/khz"]
+	path = gq/ng/khz
+	url = .
 [submodule "gq/pb/ltq"]
 	path = gq/pb/ltq
 	url = .
