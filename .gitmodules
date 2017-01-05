@@ -48058,6 +48058,9 @@
 [submodule "rv/ea/klo"]
 	path = rv/ea/klo
 	url = .
+[submodule "rv/fm/hro"]
+	path = rv/fm/hro
+	url = .
 [submodule "rv/fy/vqq"]
 	path = rv/fy/vqq
 	url = .
