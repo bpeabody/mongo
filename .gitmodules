@@ -13354,6 +13354,9 @@
 [submodule "fr/dx/ytg"]
 	path = fr/dx/ytg
 	url = .
+[submodule "fr/eb/szo"]
+	path = fr/eb/szo
+	url = .
 [submodule "fr/hc/ooi"]
 	path = fr/hc/ooi
 	url = .
