@@ -8095,6 +8095,9 @@
 [submodule "dd/in/ckw"]
 	path = dd/in/ckw
 	url = .
+[submodule "dd/jd/wau"]
+	path = dd/jd/wau
+	url = .
 [submodule "dd/jp/cks"]
 	path = dd/jp/cks
 	url = .
