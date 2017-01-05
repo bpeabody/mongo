@@ -166,6 +166,9 @@
 [submodule "jd/un/htu"]
 	path = jd/un/htu
 	url = .
+[submodule "jg/uy/mjn"]
+	path = jg/uy/mjn
+	url = .
 [submodule "jj/vc/pii"]
 	path = jj/vc/pii
 	url = .
