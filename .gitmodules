@@ -53608,6 +53608,9 @@
 [submodule "yv/mi/suc"]
 	path = yv/mi/suc
 	url = .
+[submodule "yv/mj/msf"]
+	path = yv/mj/msf
+	url = .
 [submodule "yv/nd/xmb"]
 	path = yv/nd/xmb
 	url = .
