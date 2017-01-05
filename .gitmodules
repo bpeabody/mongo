@@ -21322,6 +21322,9 @@
 [submodule "kg/de/bwb"]
 	path = kg/de/bwb
 	url = .
+[submodule "kg/dv/knt"]
+	path = kg/dv/knt
+	url = .
 [submodule "kg/ek/kqy"]
 	path = kg/ek/kqy
 	url = .
