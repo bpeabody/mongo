@@ -22657,6 +22657,9 @@
 [submodule "jx/ug/wga"]
 	path = jx/ug/wga
 	url = .
+[submodule "jx/uu/bnj"]
+	path = jx/uu/bnj
+	url = .
 [submodule "jx/yb/oib"]
 	path = jx/yb/oib
 	url = .
