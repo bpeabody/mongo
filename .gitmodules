@@ -2227,6 +2227,9 @@
 [submodule "bb/tq/ajm"]
 	path = bb/tq/ajm
 	url = .
+[submodule "bb/ua/wqj"]
+	path = bb/ua/wqj
+	url = .
 [submodule "bb/uf/otc"]
 	path = bb/uf/otc
 	url = .
