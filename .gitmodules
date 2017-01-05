@@ -2197,6 +2197,9 @@
 [submodule "wk/hr/gyr"]
 	path = wk/hr/gyr
 	url = .
+[submodule "wl/fq/ose"]
+	path = wl/fq/ose
+	url = .
 [submodule "wl/uf/ghb"]
 	path = wl/uf/ghb
 	url = .
