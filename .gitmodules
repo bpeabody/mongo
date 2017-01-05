@@ -56389,6 +56389,9 @@
 [submodule "tj/cs/tdn"]
 	path = tj/cs/tdn
 	url = .
+[submodule "tj/de/azi"]
+	path = tj/de/azi
+	url = .
 [submodule "tj/fk/qdw"]
 	path = tj/fk/qdw
 	url = .
