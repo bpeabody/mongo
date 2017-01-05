@@ -832,6 +832,9 @@
 [submodule "ld/by/oxx"]
 	path = ld/by/oxx
 	url = .
+[submodule "le/sx/oco"]
+	path = le/sx/oco
+	url = .
 [submodule "lf/qn/fai"]
 	path = lf/qn/fai
 	url = .
