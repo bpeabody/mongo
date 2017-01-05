@@ -21946,6 +21946,9 @@
 [submodule "qq/ui/kyz"]
 	path = qq/ui/kyz
 	url = .
+[submodule "qq/ui/urf"]
+	path = qq/ui/urf
+	url = .
 [submodule "qq/uv/tdo"]
 	path = qq/uv/tdo
 	url = .
