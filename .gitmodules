@@ -24817,6 +24817,9 @@
 [submodule "lx/gv/uab"]
 	path = lx/gv/uab
 	url = .
+[submodule "lx/ig/qex"]
+	path = lx/ig/qex
+	url = .
 [submodule "lx/ik/sio"]
 	path = lx/ik/sio
 	url = .
