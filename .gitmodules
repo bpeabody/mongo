@@ -40879,6 +40879,9 @@
 [submodule "wu/wk/dvg"]
 	path = wu/wk/dvg
 	url = .
+[submodule "wu/wn/vwk"]
+	path = wu/wn/vwk
+	url = .
 [submodule "wu/xm/nrw"]
 	path = wu/xm/nrw
 	url = .
