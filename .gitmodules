@@ -7168,6 +7168,9 @@
 [submodule "ec/ev/etz"]
 	path = ec/ev/etz
 	url = .
+[submodule "ec/fg/sxe"]
+	path = ec/fg/sxe
+	url = .
 [submodule "ec/fk/zow"]
 	path = ec/fk/zow
 	url = .
