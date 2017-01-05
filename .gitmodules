@@ -11239,6 +11239,9 @@
 [submodule "qw/mw/qsc"]
 	path = qw/mw/qsc
 	url = .
+[submodule "qw/pw/vxv"]
+	path = qw/pw/vxv
+	url = .
 [submodule "qw/xq/xfw"]
 	path = qw/xq/xfw
 	url = .
