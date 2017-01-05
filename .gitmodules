@@ -2719,6 +2719,9 @@
 [submodule "bb/xl/tvh"]
 	path = bb/xl/tvh
 	url = .
+[submodule "bb/yq/rni"]
+	path = bb/yq/rni
+	url = .
 [submodule "bb/yv/mqs"]
 	path = bb/yv/mqs
 	url = .
