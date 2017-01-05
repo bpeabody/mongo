@@ -21514,6 +21514,9 @@
 [submodule "ww/fh/mqq"]
 	path = ww/fh/mqq
 	url = .
+[submodule "ww/fk/aoj"]
+	path = ww/fk/aoj
+	url = .
 [submodule "ww/ig/iom"]
 	path = ww/ig/iom
 	url = .
