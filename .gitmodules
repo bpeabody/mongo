@@ -23053,6 +23053,9 @@
 [submodule "rh/su/cxq"]
 	path = rh/su/cxq
 	url = .
+[submodule "rh/ti/oad"]
+	path = rh/ti/oad
+	url = .
 [submodule "rh/uh/wys"]
 	path = rh/uh/wys
 	url = .
