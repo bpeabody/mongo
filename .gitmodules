@@ -1438,6 +1438,9 @@
 [submodule "xa/at/rhu"]
 	path = xa/at/rhu
 	url = .
+[submodule "xc/ua/lzz"]
+	path = xc/ua/lzz
+	url = .
 [submodule "xd/sr/znc"]
 	path = xd/sr/znc
 	url = .
