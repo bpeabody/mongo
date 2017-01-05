@@ -23266,6 +23266,9 @@
 [submodule "hx/ki/nye"]
 	path = hx/ki/nye
 	url = .
+[submodule "hx/ks/cwd"]
+	path = hx/ks/cwd
+	url = .
 [submodule "hx/kv/qeu"]
 	path = hx/kv/qeu
 	url = .
