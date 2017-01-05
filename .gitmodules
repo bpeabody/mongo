@@ -3787,6 +3787,9 @@
 [submodule "bw/ed/cvj"]
 	path = bw/ed/cvj
 	url = .
+[submodule "bw/ej/mgp"]
+	path = bw/ej/mgp
+	url = .
 [submodule "bw/en/lak"]
 	path = bw/en/lak
 	url = .
