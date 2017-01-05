@@ -7987,6 +7987,9 @@
 [submodule "wg/la/vex"]
 	path = wg/la/vex
 	url = .
+[submodule "wg/lq/ywp"]
+	path = wg/lq/ywp
+	url = .
 [submodule "wg/pi/hmt"]
 	path = wg/pi/hmt
 	url = .
