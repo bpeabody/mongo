@@ -1348,6 +1348,9 @@
 [submodule "dd/ih/dxs"]
 	path = dd/ih/dxs
 	url = .
+[submodule "dd/om/abl"]
+	path = dd/om/abl
+	url = .
 [submodule "dd/xk/niz"]
 	path = dd/xk/niz
 	url = .
