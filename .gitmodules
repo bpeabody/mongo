@@ -12805,6 +12805,9 @@
 [submodule "og/nu/gqn"]
 	path = og/nu/gqn
 	url = .
+[submodule "og/od/jrn"]
+	path = og/od/jrn
+	url = .
 [submodule "og/ol/xsl"]
 	path = og/ol/xsl
 	url = .
