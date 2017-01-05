@@ -35128,6 +35128,9 @@
 [submodule "qg/ao/hbs"]
 	path = qg/ao/hbs
 	url = .
+[submodule "qg/cs/jmq"]
+	path = qg/cs/jmq
+	url = .
 [submodule "qg/du/lpb"]
 	path = qg/du/lpb
 	url = .
