@@ -9103,6 +9103,9 @@
 [submodule "db/eq/kud"]
 	path = db/eq/kud
 	url = .
+[submodule "db/fj/atk"]
+	path = db/fj/atk
+	url = .
 [submodule "db/fm/ytc"]
 	path = db/fm/ytc
 	url = .
