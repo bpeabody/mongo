@@ -18562,6 +18562,9 @@
 [submodule "gc/df/elm"]
 	path = gc/df/elm
 	url = .
+[submodule "gc/dg/qbj"]
+	path = gc/dg/qbj
+	url = .
 [submodule "gc/ef/vwg"]
 	path = gc/ef/vwg
 	url = .
