@@ -6793,6 +6793,9 @@
 [submodule "vt/su/guw"]
 	path = vt/su/guw
 	url = .
+[submodule "vt/sz/loe"]
+	path = vt/sz/loe
+	url = .
 [submodule "vu/ba/jql"]
 	path = vu/ba/jql
 	url = .
