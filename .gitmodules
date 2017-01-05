@@ -11119,6 +11119,9 @@
 [submodule "mj/hd/wzn"]
 	path = mj/hd/wzn
 	url = .
+[submodule "mj/ry/pxq"]
+	path = mj/ry/pxq
+	url = .
 [submodule "mj/sb/fcw"]
 	path = mj/sb/fcw
 	url = .
