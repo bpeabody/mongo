@@ -39181,6 +39181,9 @@
 [submodule "tg/az/lyy"]
 	path = tg/az/lyy
 	url = .
+[submodule "tg/ci/uih"]
+	path = tg/ci/uih
+	url = .
 [submodule "tg/cw/uls"]
 	path = tg/cw/uls
 	url = .
