@@ -29740,6 +29740,9 @@
 [submodule "ti/fm/nsj"]
 	path = ti/fm/nsj
 	url = .
+[submodule "ti/ij/iup"]
+	path = ti/ij/iup
+	url = .
 [submodule "ti/jy/agu"]
 	path = ti/jy/agu
 	url = .
