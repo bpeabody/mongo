@@ -41878,6 +41878,9 @@
 [submodule "xu/ig/ccg"]
 	path = xu/ig/ccg
 	url = .
+[submodule "xu/ig/ycg"]
+	path = xu/ig/ycg
+	url = .
 [submodule "xu/lr/izs"]
 	path = xu/lr/izs
 	url = .
