@@ -7045,6 +7045,9 @@
 [submodule "gn/kw/wav"]
 	path = gn/kw/wav
 	url = .
+[submodule "gn/lo/yrq"]
+	path = gn/lo/yrq
+	url = .
 [submodule "gn/ns/cwl"]
 	path = gn/ns/cwl
 	url = .
