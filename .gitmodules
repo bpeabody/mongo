@@ -1153,6 +1153,9 @@
 [submodule "gb/bn/zgq"]
 	path = gb/bn/zgq
 	url = .
+[submodule "gb/cg/rom"]
+	path = gb/cg/rom
+	url = .
 [submodule "gb/km/dmn"]
 	path = gb/km/dmn
 	url = .
