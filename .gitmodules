@@ -2089,6 +2089,9 @@
 [submodule "wg/jc/rhz"]
 	path = wg/jc/rhz
 	url = .
+[submodule "wg/xd/hwn"]
+	path = wg/xd/hwn
+	url = .
 [submodule "wh/ga/obo"]
 	path = wh/ga/obo
 	url = .
