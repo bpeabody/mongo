@@ -10492,6 +10492,9 @@
 [submodule "ga/eu/mha"]
 	path = ga/eu/mha
 	url = .
+[submodule "ga/fi/egc"]
+	path = ga/fi/egc
+	url = .
 [submodule "ga/fo/uuh"]
 	path = ga/fo/uuh
 	url = .
