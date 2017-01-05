@@ -26947,6 +26947,9 @@
 [submodule "sn/yb/egw"]
 	path = sn/yb/egw
 	url = .
+[submodule "so/bo/kvo"]
+	path = so/bo/kvo
+	url = .
 [submodule "so/bw/ayw"]
 	path = so/bw/ayw
 	url = .
