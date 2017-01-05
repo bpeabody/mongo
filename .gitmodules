@@ -27166,6 +27166,9 @@
 [submodule "vi/sl/wid"]
 	path = vi/sl/wid
 	url = .
+[submodule "vi/ta/wfd"]
+	path = vi/ta/wfd
+	url = .
 [submodule "vi/te/fkm"]
 	path = vi/te/fkm
 	url = .
