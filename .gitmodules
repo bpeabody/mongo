@@ -5065,6 +5065,9 @@
 [submodule "fi/on/vqz"]
 	path = fi/on/vqz
 	url = .
+[submodule "fi/rc/gox"]
+	path = fi/rc/gox
+	url = .
 [submodule "fi/vb/mwu"]
 	path = fi/vb/mwu
 	url = .
