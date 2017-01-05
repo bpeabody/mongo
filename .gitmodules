@@ -44404,6 +44404,9 @@
 [submodule "op/tb/evm"]
 	path = op/tb/evm
 	url = .
+[submodule "op/ti/uiq"]
+	path = op/ti/uiq
+	url = .
 [submodule "op/tr/xso"]
 	path = op/tr/xso
 	url = .
