@@ -25915,6 +25915,9 @@
 [submodule "xm/cr/qsh"]
 	path = xm/cr/qsh
 	url = .
+[submodule "xm/da/hkd"]
+	path = xm/da/hkd
+	url = .
 [submodule "xm/ed/znv"]
 	path = xm/ed/znv
 	url = .
