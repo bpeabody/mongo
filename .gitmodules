@@ -9055,6 +9055,9 @@
 [submodule "do/ea/lla"]
 	path = do/ea/lla
 	url = .
+[submodule "do/ei/jdt"]
+	path = do/ei/jdt
+	url = .
 [submodule "do/he/wja"]
 	path = do/he/wja
 	url = .
