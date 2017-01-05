@@ -649,6 +649,9 @@
 [submodule "ah/it/glr"]
 	path = ah/it/glr
 	url = .
+[submodule "ah/kj/npb"]
+	path = ah/kj/npb
+	url = .
 [submodule "ah/nc/nuh"]
 	path = ah/nc/nuh
 	url = .
