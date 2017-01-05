@@ -16213,6 +16213,9 @@
 [submodule "zg/rw/eej"]
 	path = zg/rw/eej
 	url = .
+[submodule "zg/se/pqf"]
+	path = zg/se/pqf
+	url = .
 [submodule "zg/uo/stt"]
 	path = zg/uo/stt
 	url = .
