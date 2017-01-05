@@ -64759,6 +64759,9 @@
 [submodule "xh/ip/trj"]
 	path = xh/ip/trj
 	url = .
+[submodule "xh/ka/kkl"]
+	path = xh/ka/kkl
+	url = .
 [submodule "xh/ky/cqx"]
 	path = xh/ky/cqx
 	url = .
