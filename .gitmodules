@@ -160,6 +160,9 @@
 [submodule "ex/hx/jks"]
 	path = ex/hx/jks
 	url = .
+[submodule "ff/qz/mcj"]
+	path = ff/qz/mcj
+	url = .
 [submodule "fi/my/npa"]
 	path = fi/my/npa
 	url = .
