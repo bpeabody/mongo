@@ -18430,6 +18430,9 @@
 [submodule "gn/vt/wbi"]
 	path = gn/vt/wbi
 	url = .
+[submodule "gn/vw/elb"]
+	path = gn/vw/elb
+	url = .
 [submodule "gn/wa/woa"]
 	path = gn/wa/woa
 	url = .
