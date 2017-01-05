@@ -27481,6 +27481,9 @@
 [submodule "jd/as/oab"]
 	path = jd/as/oab
 	url = .
+[submodule "jd/au/mvj"]
+	path = jd/au/mvj
+	url = .
 [submodule "jd/bp/jtn"]
 	path = jd/bp/jtn
 	url = .
