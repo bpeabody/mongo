@@ -127,6 +127,9 @@
 [submodule "av/my/iji"]
 	path = av/my/iji
 	url = .
+[submodule "aw/ey/psz"]
+	path = aw/ey/psz
+	url = .
 [submodule "aw/hc/eac"]
 	path = aw/hc/eac
 	url = .
