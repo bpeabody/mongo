@@ -4765,6 +4765,9 @@
 [submodule "et/ql/vhx"]
 	path = et/ql/vhx
 	url = .
+[submodule "et/tq/tkp"]
+	path = et/tq/tkp
+	url = .
 [submodule "et/uq/pkh"]
 	path = et/uq/pkh
 	url = .
