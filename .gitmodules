@@ -9088,6 +9088,9 @@
 [submodule "gg/uq/ftl"]
 	path = gg/uq/ftl
 	url = .
+[submodule "gg/ur/jus"]
+	path = gg/ur/jus
+	url = .
 [submodule "gg/vn/ktn"]
 	path = gg/vn/ktn
 	url = .
