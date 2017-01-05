@@ -11158,6 +11158,9 @@
 [submodule "ur/bz/zsv"]
 	path = ur/bz/zsv
 	url = .
+[submodule "ur/hm/aoh"]
+	path = ur/hm/aoh
+	url = .
 [submodule "ur/le/qqt"]
 	path = ur/le/qqt
 	url = .
