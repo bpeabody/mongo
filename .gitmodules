@@ -33460,6 +33460,9 @@
 [submodule "nj/vi/lbe"]
 	path = nj/vi/lbe
 	url = .
+[submodule "nj/vj/anj"]
+	path = nj/vj/anj
+	url = .
 [submodule "nj/wl/xuq"]
 	path = nj/wl/xuq
 	url = .
