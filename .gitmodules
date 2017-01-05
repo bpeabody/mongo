@@ -68764,6 +68764,9 @@
 [submodule "yc/ur/qoj"]
 	path = yc/ur/qoj
 	url = .
+[submodule "yc/uw/yhd"]
+	path = yc/uw/yhd
+	url = .
 [submodule "yc/vd/pqh"]
 	path = yc/vd/pqh
 	url = .
