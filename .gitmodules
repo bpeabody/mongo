@@ -2659,6 +2659,9 @@
 [submodule "iw/ik/riv"]
 	path = iw/ik/riv
 	url = .
+[submodule "iw/jt/rsw"]
+	path = iw/jt/rsw
+	url = .
 [submodule "iw/om/pvf"]
 	path = iw/om/pvf
 	url = .
