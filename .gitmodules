@@ -9286,6 +9286,9 @@
 [submodule "ey/oc/haf"]
 	path = ey/oc/haf
 	url = .
+[submodule "ey/on/van"]
+	path = ey/on/van
+	url = .
 [submodule "ey/pl/hwa"]
 	path = ey/pl/hwa
 	url = .
