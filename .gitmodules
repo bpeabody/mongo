@@ -7339,6 +7339,9 @@
 [submodule "kr/fs/svx"]
 	path = kr/fs/svx
 	url = .
+[submodule "kr/ht/bbw"]
+	path = kr/ht/bbw
+	url = .
 [submodule "kr/ii/fna"]
 	path = kr/ii/fna
 	url = .
