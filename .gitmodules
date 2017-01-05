@@ -58465,6 +58465,9 @@
 [submodule "tx/kd/jak"]
 	path = tx/kd/jak
 	url = .
+[submodule "tx/la/slc"]
+	path = tx/la/slc
+	url = .
 [submodule "tx/mh/auj"]
 	path = tx/mh/auj
 	url = .
