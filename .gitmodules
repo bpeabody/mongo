@@ -21982,6 +21982,9 @@
 [submodule "hz/gw/nwg"]
 	path = hz/gw/nwg
 	url = .
+[submodule "hz/hm/lrj"]
+	path = hz/hm/lrj
+	url = .
 [submodule "hz/la/xvc"]
 	path = hz/la/xvc
 	url = .
