@@ -27169,6 +27169,9 @@
 [submodule "se/fb/lgi"]
 	path = se/fb/lgi
 	url = .
+[submodule "se/fc/npe"]
+	path = se/fc/npe
+	url = .
 [submodule "se/fp/sbv"]
 	path = se/fp/sbv
 	url = .
