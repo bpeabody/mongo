@@ -9718,6 +9718,9 @@
 [submodule "ss/ou/die"]
 	path = ss/ou/die
 	url = .
+[submodule "ss/pa/vbr"]
+	path = ss/pa/vbr
+	url = .
 [submodule "ss/uu/tbn"]
 	path = ss/uu/tbn
 	url = .
