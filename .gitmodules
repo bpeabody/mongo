@@ -51373,6 +51373,9 @@
 [submodule "xd/ko/sgx"]
 	path = xd/ko/sgx
 	url = .
+[submodule "xd/lp/gba"]
+	path = xd/lp/gba
+	url = .
 [submodule "xd/mn/okm"]
 	path = xd/mn/okm
 	url = .
