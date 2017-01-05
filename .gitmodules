@@ -2227,6 +2227,9 @@
 [submodule "dx/sd/xoz"]
 	path = dx/sd/xoz
 	url = .
+[submodule "dx/ua/giv"]
+	path = dx/ua/giv
+	url = .
 [submodule "dx/uz/mhf"]
 	path = dx/uz/mhf
 	url = .
