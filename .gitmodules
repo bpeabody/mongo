@@ -26026,6 +26026,9 @@
 [submodule "ln/et/vki"]
 	path = ln/et/vki
 	url = .
+[submodule "ln/ho/mqc"]
+	path = ln/ho/mqc
+	url = .
 [submodule "ln/hy/nws"]
 	path = ln/hy/nws
 	url = .
