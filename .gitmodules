@@ -30325,6 +30325,9 @@
 [submodule "wh/au/bzy"]
 	path = wh/au/bzy
 	url = .
+[submodule "wh/aw/mbu"]
+	path = wh/aw/mbu
+	url = .
 [submodule "wh/ax/zpp"]
 	path = wh/ax/zpp
 	url = .
