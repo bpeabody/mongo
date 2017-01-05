@@ -5041,6 +5041,9 @@
 [submodule "ea/id/tar"]
 	path = ea/id/tar
 	url = .
+[submodule "ea/lh/xzq"]
+	path = ea/lh/xzq
+	url = .
 [submodule "ea/ls/arl"]
 	path = ea/ls/arl
 	url = .
