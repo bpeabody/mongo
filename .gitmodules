@@ -235,6 +235,9 @@
 [submodule "an/tp/fys"]
 	path = an/tp/fys
 	url = .
+[submodule "an/wk/nej"]
+	path = an/wk/nej
+	url = .
 [submodule "an/yd/yif"]
 	path = an/yd/yif
 	url = .
