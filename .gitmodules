@@ -775,6 +775,9 @@
 [submodule "ip/al/aal"]
 	path = ip/al/aal
 	url = .
+[submodule "ip/ft/fim"]
+	path = ip/ft/fim
+	url = .
 [submodule "ip/lj/hii"]
 	path = ip/lj/hii
 	url = .
