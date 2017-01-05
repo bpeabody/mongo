@@ -17818,6 +17818,9 @@
 [submodule "hv/bn/hha"]
 	path = hv/bn/hha
 	url = .
+[submodule "hv/ea/bgo"]
+	path = hv/ea/bgo
+	url = .
 [submodule "hv/es/bcn"]
 	path = hv/es/bcn
 	url = .
