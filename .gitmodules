@@ -65767,6 +65767,9 @@
 [submodule "vt/nj/jle"]
 	path = vt/nj/jle
 	url = .
+[submodule "vt/nk/edb"]
+	path = vt/nk/edb
+	url = .
 [submodule "vt/od/tch"]
 	path = vt/od/tch
 	url = .
