@@ -26077,6 +26077,9 @@
 [submodule "kq/cg/lxb"]
 	path = kq/cg/lxb
 	url = .
+[submodule "kq/dm/gkh"]
+	path = kq/dm/gkh
+	url = .
 [submodule "kq/fv/fcm"]
 	path = kq/fv/fcm
 	url = .
