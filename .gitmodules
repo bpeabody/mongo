@@ -13771,6 +13771,9 @@
 [submodule "gd/fd/oro"]
 	path = gd/fd/oro
 	url = .
+[submodule "gd/gb/lza"]
+	path = gd/gb/lza
+	url = .
 [submodule "gd/gc/rtu"]
 	path = gd/gc/rtu
 	url = .
