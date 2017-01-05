@@ -20983,6 +20983,9 @@
 [submodule "pg/xj/mlr"]
 	path = pg/xj/mlr
 	url = .
+[submodule "pg/xq/qbf"]
+	path = pg/xq/qbf
+	url = .
 [submodule "pg/yj/uof"]
 	path = pg/yj/uof
 	url = .
