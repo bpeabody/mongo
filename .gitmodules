@@ -1270,6 +1270,9 @@
 [submodule "bw/ed/cvj"]
 	path = bw/ed/cvj
 	url = .
+[submodule "bw/en/lak"]
+	path = bw/en/lak
+	url = .
 [submodule "bw/iu/vbu"]
 	path = bw/iu/vbu
 	url = .
