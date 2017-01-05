@@ -9985,6 +9985,9 @@
 [submodule "jd/so/sbc"]
 	path = jd/so/sbc
 	url = .
+[submodule "jd/tt/lyk"]
+	path = jd/tt/lyk
+	url = .
 [submodule "jd/un/htu"]
 	path = jd/un/htu
 	url = .
