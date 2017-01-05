@@ -4153,6 +4153,9 @@
 [submodule "fc/lp/kav"]
 	path = fc/lp/kav
 	url = .
+[submodule "fc/mc/juc"]
+	path = fc/mc/juc
+	url = .
 [submodule "fc/mw/fwa"]
 	path = fc/mw/fwa
 	url = .
