@@ -655,6 +655,9 @@
 [submodule "fc/lp/kav"]
 	path = fc/lp/kav
 	url = .
+[submodule "fc/qy/iqb"]
+	path = fc/qy/iqb
+	url = .
 [submodule "fc/vo/zse"]
 	path = fc/vo/zse
 	url = .
