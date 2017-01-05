@@ -50332,6 +50332,9 @@
 [submodule "qy/yh/ydg"]
 	path = qy/yh/ydg
 	url = .
+[submodule "qy/zc/dye"]
+	path = qy/zc/dye
+	url = .
 [submodule "qy/zr/abo"]
 	path = qy/zr/abo
 	url = .
