@@ -5470,6 +5470,9 @@
 [submodule "ly/qd/fws"]
 	path = ly/qd/fws
 	url = .
+[submodule "ly/rm/umx"]
+	path = ly/rm/umx
+	url = .
 [submodule "lz/dz/msa"]
 	path = lz/dz/msa
 	url = .
