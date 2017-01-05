@@ -55903,6 +55903,9 @@
 [submodule "ue/ia/axk"]
 	path = ue/ia/axk
 	url = .
+[submodule "ue/ir/xkf"]
+	path = ue/ir/xkf
+	url = .
 [submodule "ue/jx/tpk"]
 	path = ue/jx/tpk
 	url = .
