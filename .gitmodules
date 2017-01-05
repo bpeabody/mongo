@@ -3331,6 +3331,9 @@
 [submodule "fg/oe/ryr"]
 	path = fg/oe/ryr
 	url = .
+[submodule "fg/sp/ekg"]
+	path = fg/sp/ekg
+	url = .
 [submodule "fg/wj/sgm"]
 	path = fg/wj/sgm
 	url = .
