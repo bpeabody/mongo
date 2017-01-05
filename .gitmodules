@@ -9925,6 +9925,9 @@
 [submodule "dz/mk/skd"]
 	path = dz/mk/skd
 	url = .
+[submodule "dz/ml/kok"]
+	path = dz/ml/kok
+	url = .
 [submodule "dz/mm/btm"]
 	path = dz/mm/btm
 	url = .
