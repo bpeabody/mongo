@@ -11491,6 +11491,9 @@
 [submodule "hz/qy/ryk"]
 	path = hz/qy/ryk
 	url = .
+[submodule "hz/tm/nhf"]
+	path = hz/tm/nhf
+	url = .
 [submodule "hz/tn/mnp"]
 	path = hz/tn/mnp
 	url = .
