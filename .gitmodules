@@ -48244,6 +48244,9 @@
 [submodule "qf/vv/icj"]
 	path = qf/vv/icj
 	url = .
+[submodule "qf/xl/fro"]
+	path = qf/xl/fro
+	url = .
 [submodule "qf/xn/ivb"]
 	path = qf/xn/ivb
 	url = .
