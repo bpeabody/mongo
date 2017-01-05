@@ -9484,6 +9484,9 @@
 [submodule "hs/op/guo"]
 	path = hs/op/guo
 	url = .
+[submodule "hs/pt/zdg"]
+	path = hs/pt/zdg
+	url = .
 [submodule "hs/qw/jxo"]
 	path = hs/qw/jxo
 	url = .
