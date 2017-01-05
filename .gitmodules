@@ -14791,6 +14791,9 @@
 [submodule "ij/ji/xor"]
 	path = ij/ji/xor
 	url = .
+[submodule "ij/ld/ryc"]
+	path = ij/ld/ryc
+	url = .
 [submodule "ij/mc/vzv"]
 	path = ij/mc/vzv
 	url = .
