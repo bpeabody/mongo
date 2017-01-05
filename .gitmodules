@@ -33160,6 +33160,9 @@
 [submodule "mr/ew/xof"]
 	path = mr/ew/xof
 	url = .
+[submodule "mr/ez/umg"]
+	path = mr/ez/umg
+	url = .
 [submodule "mr/fq/ptc"]
 	path = mr/fq/ptc
 	url = .
