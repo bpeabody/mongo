@@ -19753,6 +19753,9 @@
 [submodule "jq/mh/gfn"]
 	path = jq/mh/gfn
 	url = .
+[submodule "jq/mm/brc"]
+	path = jq/mm/brc
+	url = .
 [submodule "jq/oo/ozu"]
 	path = jq/oo/ozu
 	url = .
