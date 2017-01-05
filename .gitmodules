@@ -22249,6 +22249,9 @@
 [submodule "xt/vr/eog"]
 	path = xt/vr/eog
 	url = .
+[submodule "xt/wq/qte"]
+	path = xt/wq/qte
+	url = .
 [submodule "xt/yi/jyo"]
 	path = xt/yi/jyo
 	url = .
