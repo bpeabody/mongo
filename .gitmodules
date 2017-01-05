@@ -21229,6 +21229,9 @@
 [submodule "po/qw/sfr"]
 	path = po/qw/sfr
 	url = .
+[submodule "po/rf/vuu"]
+	path = po/rf/vuu
+	url = .
 [submodule "po/to/eaz"]
 	path = po/to/eaz
 	url = .
