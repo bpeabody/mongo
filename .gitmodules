@@ -1984,6 +1984,9 @@
 [submodule "fq/wx/jnk"]
 	path = fq/wx/jnk
 	url = .
+[submodule "fq/xg/chk"]
+	path = fq/xg/chk
+	url = .
 [submodule "fr/lu/xnz"]
 	path = fr/lu/xnz
 	url = .
