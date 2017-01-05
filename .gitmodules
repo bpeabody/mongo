@@ -36280,6 +36280,9 @@
 [submodule "mz/rc/ypj"]
 	path = mz/rc/ypj
 	url = .
+[submodule "mz/td/yir"]
+	path = mz/td/yir
+	url = .
 [submodule "mz/ti/elo"]
 	path = mz/ti/elo
 	url = .
