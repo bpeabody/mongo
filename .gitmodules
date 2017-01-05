@@ -14464,6 +14464,9 @@
 [submodule "hg/dr/muy"]
 	path = hg/dr/muy
 	url = .
+[submodule "hg/gt/tks"]
+	path = hg/gt/tks
+	url = .
 [submodule "hg/gv/qip"]
 	path = hg/gv/qip
 	url = .
