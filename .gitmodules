@@ -12331,6 +12331,9 @@
 [submodule "kv/la/xco"]
 	path = kv/la/xco
 	url = .
+[submodule "kv/lj/jrx"]
+	path = kv/lj/jrx
+	url = .
 [submodule "kv/qa/syw"]
 	path = kv/qa/syw
 	url = .
