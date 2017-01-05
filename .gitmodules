@@ -4675,6 +4675,9 @@
 [submodule "bs/xa/ten"]
 	path = bs/xa/ten
 	url = .
+[submodule "bs/xg/nnn"]
+	path = bs/xg/nnn
+	url = .
 [submodule "bs/yk/jay"]
 	path = bs/yk/jay
 	url = .
