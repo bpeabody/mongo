@@ -2605,6 +2605,9 @@
 [submodule "do/rw/xag"]
 	path = do/rw/xag
 	url = .
+[submodule "do/sj/baj"]
+	path = do/sj/baj
+	url = .
 [submodule "do/wz/fgi"]
 	path = do/wz/fgi
 	url = .
