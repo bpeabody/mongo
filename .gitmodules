@@ -9970,6 +9970,9 @@
 [submodule "do/gl/dvw"]
 	path = do/gl/dvw
 	url = .
+[submodule "do/gw/oyv"]
+	path = do/gw/oyv
+	url = .
 [submodule "do/he/wja"]
 	path = do/he/wja
 	url = .
