@@ -43306,6 +43306,9 @@
 [submodule "ou/jz/uuu"]
 	path = ou/jz/uuu
 	url = .
+[submodule "ou/kd/lcs"]
+	path = ou/kd/lcs
+	url = .
 [submodule "ou/mu/sxn"]
 	path = ou/mu/sxn
 	url = .
