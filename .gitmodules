@@ -8314,6 +8314,9 @@
 [submodule "pg/do/crg"]
 	path = pg/do/crg
 	url = .
+[submodule "pg/gs/mdz"]
+	path = pg/gs/mdz
+	url = .
 [submodule "pg/nh/hgs"]
 	path = pg/nh/hgs
 	url = .
