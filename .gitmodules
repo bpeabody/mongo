@@ -6901,6 +6901,9 @@
 [submodule "jp/tw/nmy"]
 	path = jp/tw/nmy
 	url = .
+[submodule "jq/cf/rgs"]
+	path = jq/cf/rgs
+	url = .
 [submodule "jq/ci/gaz"]
 	path = jq/ci/gaz
 	url = .
