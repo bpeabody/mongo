@@ -5887,6 +5887,9 @@
 [submodule "gd/kz/yne"]
 	path = gd/kz/yne
 	url = .
+[submodule "gd/mb/eqv"]
+	path = gd/mb/eqv
+	url = .
 [submodule "gd/te/aon"]
 	path = gd/te/aon
 	url = .
