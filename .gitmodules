@@ -7264,6 +7264,9 @@
 [submodule "dg/zx/kqa"]
 	path = dg/zx/kqa
 	url = .
+[submodule "dh/bz/roe"]
+	path = dh/bz/roe
+	url = .
 [submodule "dh/dz/zfh"]
 	path = dh/dz/zfh
 	url = .
