@@ -9292,6 +9292,9 @@
 [submodule "xn/ae/ywn"]
 	path = xn/ae/ywn
 	url = .
+[submodule "xn/ru/zvl"]
+	path = xn/ru/zvl
+	url = .
 [submodule "xn/vz/qom"]
 	path = xn/vz/qom
 	url = .
