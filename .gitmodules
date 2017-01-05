@@ -20074,6 +20074,9 @@
 [submodule "nb/dq/tmk"]
 	path = nb/dq/tmk
 	url = .
+[submodule "nb/ee/msb"]
+	path = nb/ee/msb
+	url = .
 [submodule "nb/ft/lms"]
 	path = nb/ft/lms
 	url = .
