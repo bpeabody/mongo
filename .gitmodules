@@ -21988,6 +21988,9 @@
 [submodule "ta/md/cfr"]
 	path = ta/md/cfr
 	url = .
+[submodule "ta/nf/aqo"]
+	path = ta/nf/aqo
+	url = .
 [submodule "ta/oc/fgs"]
 	path = ta/oc/fgs
 	url = .
