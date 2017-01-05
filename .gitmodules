@@ -6007,6 +6007,9 @@
 [submodule "dz/tk/mfo"]
 	path = dz/tk/mfo
 	url = .
+[submodule "dz/ty/mnp"]
+	path = dz/ty/mnp
+	url = .
 [submodule "dz/ve/hai"]
 	path = dz/ve/hai
 	url = .
