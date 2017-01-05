@@ -20671,6 +20671,9 @@
 [submodule "qs/sc/eim"]
 	path = qs/sc/eim
 	url = .
+[submodule "qs/se/xgc"]
+	path = qs/se/xgc
+	url = .
 [submodule "qs/vg/bbx"]
 	path = qs/vg/bbx
 	url = .
