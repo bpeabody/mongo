@@ -52231,6 +52231,9 @@
 [submodule "tu/sq/nrp"]
 	path = tu/sq/nrp
 	url = .
+[submodule "tu/sw/twc"]
+	path = tu/sw/twc
+	url = .
 [submodule "tu/tc/ctc"]
 	path = tu/tc/ctc
 	url = .
