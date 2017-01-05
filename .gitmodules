@@ -8245,6 +8245,9 @@
 [submodule "xc/qq/gtr"]
 	path = xc/qq/gtr
 	url = .
+[submodule "xc/rb/nyz"]
+	path = xc/rb/nyz
+	url = .
 [submodule "xc/si/eec"]
 	path = xc/si/eec
 	url = .
