@@ -7564,6 +7564,9 @@
 [submodule "zx/od/dtp"]
 	path = zx/od/dtp
 	url = .
+[submodule "zx/pd/eoh"]
+	path = zx/pd/eoh
+	url = .
 [submodule "zx/wf/fbk"]
 	path = zx/wf/fbk
 	url = .
