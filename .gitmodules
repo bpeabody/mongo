@@ -6352,6 +6352,9 @@
 [submodule "qp/fw/ccf"]
 	path = qp/fw/ccf
 	url = .
+[submodule "qp/jp/ujb"]
+	path = qp/jp/ujb
+	url = .
 [submodule "qp/qs/yya"]
 	path = qp/qs/yya
 	url = .
