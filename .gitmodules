@@ -38041,6 +38041,9 @@
 [submodule "sp/fw/hys"]
 	path = sp/fw/hys
 	url = .
+[submodule "sp/go/gjj"]
+	path = sp/go/gjj
+	url = .
 [submodule "sp/hi/tms"]
 	path = sp/hi/tms
 	url = .
