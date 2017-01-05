@@ -28042,6 +28042,9 @@
 [submodule "ps/gy/quh"]
 	path = ps/gy/quh
 	url = .
+[submodule "ps/jx/afl"]
+	path = ps/jx/afl
+	url = .
 [submodule "ps/kt/lsw"]
 	path = ps/kt/lsw
 	url = .
