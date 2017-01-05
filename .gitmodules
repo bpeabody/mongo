@@ -22522,6 +22522,9 @@
 [submodule "qn/ud/uae"]
 	path = qn/ud/uae
 	url = .
+[submodule "qn/wp/wqw"]
+	path = qn/wp/wqw
+	url = .
 [submodule "qn/xe/uuw"]
 	path = qn/xe/uuw
 	url = .
