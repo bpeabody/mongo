@@ -14092,6 +14092,9 @@
 [submodule "gx/ry/hqv"]
 	path = gx/ry/hqv
 	url = .
+[submodule "gx/sv/ldx"]
+	path = gx/sv/ldx
+	url = .
 [submodule "gx/ts/jyl"]
 	path = gx/ts/jyl
 	url = .
