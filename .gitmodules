@@ -6067,6 +6067,9 @@
 [submodule "sa/cc/kdc"]
 	path = sa/cc/kdc
 	url = .
+[submodule "sa/cm/qtn"]
+	path = sa/cm/qtn
+	url = .
 [submodule "sa/ka/biu"]
 	path = sa/ka/biu
 	url = .
