@@ -10879,6 +10879,9 @@
 [submodule "gj/lz/ykd"]
 	path = gj/lz/ykd
 	url = .
+[submodule "gj/mn/atk"]
+	path = gj/mn/atk
+	url = .
 [submodule "gj/mq/kuh"]
 	path = gj/mq/kuh
 	url = .
