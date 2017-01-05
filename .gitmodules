@@ -23506,6 +23506,9 @@
 [submodule "ly/rm/umx"]
 	path = ly/rm/umx
 	url = .
+[submodule "ly/rs/uqf"]
+	path = ly/rs/uqf
+	url = .
 [submodule "ly/sh/byd"]
 	path = ly/sh/byd
 	url = .
