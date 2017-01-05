@@ -39376,6 +39376,9 @@
 [submodule "nk/vj/fxk"]
 	path = nk/vj/fxk
 	url = .
+[submodule "nk/xy/cqv"]
+	path = nk/xy/cqv
+	url = .
 [submodule "nk/xy/vwy"]
 	path = nk/xy/vwy
 	url = .
