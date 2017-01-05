@@ -32209,6 +32209,9 @@
 [submodule "tt/lo/hdm"]
 	path = tt/lo/hdm
 	url = .
+[submodule "tt/ma/swr"]
+	path = tt/ma/swr
+	url = .
 [submodule "tt/mc/sjn"]
 	path = tt/mc/sjn
 	url = .
