@@ -10348,6 +10348,9 @@
 [submodule "fl/js/pkd"]
 	path = fl/js/pkd
 	url = .
+[submodule "fl/kv/uzk"]
+	path = fl/kv/uzk
+	url = .
 [submodule "fl/mc/cxf"]
 	path = fl/mc/cxf
 	url = .
