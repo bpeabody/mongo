@@ -136,6 +136,9 @@
 [submodule "gv/oi/sph"]
 	path = gv/oi/sph
 	url = .
+[submodule "ha/ea/nsr"]
+	path = ha/ea/nsr
+	url = .
 [submodule "hn/be/klz"]
 	path = hn/be/klz
 	url = .
