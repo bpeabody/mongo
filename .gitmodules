@@ -13522,6 +13522,9 @@
 [submodule "ih/sj/iou"]
 	path = ih/sj/iou
 	url = .
+[submodule "ih/sq/tkp"]
+	path = ih/sq/tkp
+	url = .
 [submodule "ih/sv/zki"]
 	path = ih/sv/zki
 	url = .
