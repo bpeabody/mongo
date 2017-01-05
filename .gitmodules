@@ -1216,6 +1216,9 @@
 [submodule "gh/hk/ehl"]
 	path = gh/hk/ehl
 	url = .
+[submodule "gh/rj/kmp"]
+	path = gh/rj/kmp
+	url = .
 [submodule "gi/gc/qhg"]
 	path = gi/gc/qhg
 	url = .
