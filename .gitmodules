@@ -517,6 +517,9 @@
 [submodule "cd/ea/jdu"]
 	path = cd/ea/jdu
 	url = .
+[submodule "cd/fz/pvc"]
+	path = cd/fz/pvc
+	url = .
 [submodule "cd/ie/fvy"]
 	path = cd/ie/fvy
 	url = .
