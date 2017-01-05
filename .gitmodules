@@ -4864,6 +4864,9 @@
 [submodule "de/ki/dvs"]
 	path = de/ki/dvs
 	url = .
+[submodule "de/ms/fgk"]
+	path = de/ms/fgk
+	url = .
 [submodule "de/nz/nqg"]
 	path = de/nz/nqg
 	url = .
