@@ -13627,6 +13627,9 @@
 [submodule "ne/tt/ybw"]
 	path = ne/tt/ybw
 	url = .
+[submodule "ne/uy/nys"]
+	path = ne/uy/nys
+	url = .
 [submodule "ne/zn/urq"]
 	path = ne/zn/urq
 	url = .
