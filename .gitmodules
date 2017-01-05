@@ -25807,6 +25807,9 @@
 [submodule "my/jt/fxe"]
 	path = my/jt/fxe
 	url = .
+[submodule "my/lj/kvr"]
+	path = my/lj/kvr
+	url = .
 [submodule "my/ng/opo"]
 	path = my/ng/opo
 	url = .
