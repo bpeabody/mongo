@@ -5260,6 +5260,9 @@
 [submodule "cg/jk/kps"]
 	path = cg/jk/kps
 	url = .
+[submodule "cg/md/hvj"]
+	path = cg/md/hvj
+	url = .
 [submodule "cg/mm/hpu"]
 	path = cg/mm/hpu
 	url = .
