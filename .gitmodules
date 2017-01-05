@@ -23959,6 +23959,9 @@
 [submodule "ot/km/aqn"]
 	path = ot/km/aqn
 	url = .
+[submodule "ot/nw/wwa"]
+	path = ot/nw/wwa
+	url = .
 [submodule "ot/op/pfa"]
 	path = ot/op/pfa
 	url = .
