@@ -6109,6 +6109,9 @@
 [submodule "gk/vd/bvb"]
 	path = gk/vd/bvb
 	url = .
+[submodule "gk/vt/qgp"]
+	path = gk/vt/qgp
+	url = .
 [submodule "gk/vy/bvp"]
 	path = gk/vy/bvp
 	url = .
