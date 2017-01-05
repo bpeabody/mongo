@@ -889,6 +889,9 @@
 [submodule "ek/xl/tru"]
 	path = ek/xl/tru
 	url = .
+[submodule "el/nt/aoo"]
+	path = el/nt/aoo
+	url = .
 [submodule "em/ck/sxc"]
 	path = em/ck/sxc
 	url = .
