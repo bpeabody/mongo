@@ -35869,6 +35869,9 @@
 [submodule "td/rx/kqb"]
 	path = td/rx/kqb
 	url = .
+[submodule "td/sh/pkg"]
+	path = td/sh/pkg
+	url = .
 [submodule "td/sy/xcz"]
 	path = td/sy/xcz
 	url = .
