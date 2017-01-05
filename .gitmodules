@@ -22600,6 +22600,9 @@
 [submodule "mr/pn/zkd"]
 	path = mr/pn/zkd
 	url = .
+[submodule "mr/pr/fcs"]
+	path = mr/pr/fcs
+	url = .
 [submodule "mr/pw/zvx"]
 	path = mr/pw/zvx
 	url = .
