@@ -52534,6 +52534,9 @@
 [submodule "wm/qo/eix"]
 	path = wm/qo/eix
 	url = .
+[submodule "wm/qp/jir"]
+	path = wm/qp/jir
+	url = .
 [submodule "wm/qv/nnj"]
 	path = wm/qv/nnj
 	url = .
