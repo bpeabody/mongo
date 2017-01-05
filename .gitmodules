@@ -19258,6 +19258,9 @@
 [submodule "ij/zn/bbs"]
 	path = ij/zn/bbs
 	url = .
+[submodule "ij/zu/qxy"]
+	path = ij/zu/qxy
+	url = .
 [submodule "ik/ca/vxn"]
 	path = ik/ca/vxn
 	url = .
