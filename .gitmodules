@@ -3088,6 +3088,9 @@
 [submodule "br/ps/kko"]
 	path = br/ps/kko
 	url = .
+[submodule "br/qe/mmq"]
+	path = br/qe/mmq
+	url = .
 [submodule "br/qx/mcp"]
 	path = br/qx/mcp
 	url = .
