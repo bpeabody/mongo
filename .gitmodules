@@ -33232,6 +33232,9 @@
 [submodule "sp/nh/pyq"]
 	path = sp/nh/pyq
 	url = .
+[submodule "sp/nu/lpy"]
+	path = sp/nu/lpy
+	url = .
 [submodule "sp/oj/wiu"]
 	path = sp/oj/wiu
 	url = .
