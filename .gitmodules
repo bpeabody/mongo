@@ -1885,6 +1885,9 @@
 [submodule "ce/ld/rwv"]
 	path = ce/ld/rwv
 	url = .
+[submodule "ce/nn/zdx"]
+	path = ce/nn/zdx
+	url = .
 [submodule "ce/oa/cdi"]
 	path = ce/oa/cdi
 	url = .
