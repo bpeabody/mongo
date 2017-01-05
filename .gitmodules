@@ -28255,6 +28255,9 @@
 [submodule "ot/yj/hls"]
 	path = ot/yj/hls
 	url = .
+[submodule "ot/zc/zli"]
+	path = ot/zc/zli
+	url = .
 [submodule "ot/zh/kdd"]
 	path = ot/zh/kdd
 	url = .
