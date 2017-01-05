@@ -26104,6 +26104,9 @@
 [submodule "pn/tc/trz"]
 	path = pn/tc/trz
 	url = .
+[submodule "pn/ui/fxu"]
+	path = pn/ui/fxu
+	url = .
 [submodule "pn/vk/rvx"]
 	path = pn/vk/rvx
 	url = .
