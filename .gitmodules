@@ -8746,6 +8746,9 @@
 [submodule "ng/pc/kvl"]
 	path = ng/pc/kvl
 	url = .
+[submodule "ng/sn/ass"]
+	path = ng/sn/ass
+	url = .
 [submodule "ng/wz/pzc"]
 	path = ng/wz/pzc
 	url = .
