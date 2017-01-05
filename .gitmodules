@@ -8392,6 +8392,9 @@
 [submodule "jf/ma/bst"]
 	path = jf/ma/bst
 	url = .
+[submodule "jf/mb/edz"]
+	path = jf/mb/edz
+	url = .
 [submodule "jf/so/ujm"]
 	path = jf/so/ujm
 	url = .
