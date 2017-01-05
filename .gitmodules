@@ -54838,6 +54838,9 @@
 [submodule "tc/mq/bpt"]
 	path = tc/mq/bpt
 	url = .
+[submodule "tc/nt/hge"]
+	path = tc/nt/hge
+	url = .
 [submodule "tc/oa/ftx"]
 	path = tc/oa/ftx
 	url = .
