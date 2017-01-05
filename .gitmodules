@@ -904,6 +904,9 @@
 [submodule "fc/lp/kav"]
 	path = fc/lp/kav
 	url = .
+[submodule "fc/mw/fwa"]
+	path = fc/mw/fwa
+	url = .
 [submodule "fc/qy/iqb"]
 	path = fc/qy/iqb
 	url = .
