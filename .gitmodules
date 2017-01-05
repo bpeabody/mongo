@@ -16105,6 +16105,9 @@
 [submodule "qk/nh/hpx"]
 	path = qk/nh/hpx
 	url = .
+[submodule "qk/or/yio"]
+	path = qk/or/yio
+	url = .
 [submodule "qk/qn/lbb"]
 	path = qk/qn/lbb
 	url = .
