@@ -8806,6 +8806,9 @@
 [submodule "vx/sj/gqk"]
 	path = vx/sj/gqk
 	url = .
+[submodule "vx/zm/bgk"]
+	path = vx/zm/bgk
+	url = .
 [submodule "vy/ez/zec"]
 	path = vy/ez/zec
 	url = .
