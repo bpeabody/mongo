@@ -41002,6 +41002,9 @@
 [submodule "ua/bh/tmn"]
 	path = ua/bh/tmn
 	url = .
+[submodule "ua/bl/wwn"]
+	path = ua/bl/wwn
+	url = .
 [submodule "ua/ce/pxu"]
 	path = ua/ce/pxu
 	url = .
