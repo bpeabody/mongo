@@ -2983,6 +2983,9 @@
 [submodule "qh/qr/gzl"]
 	path = qh/qr/gzl
 	url = .
+[submodule "qj/gs/ogd"]
+	path = qj/gs/ogd
+	url = .
 [submodule "qj/kr/cpk"]
 	path = qj/kr/cpk
 	url = .
