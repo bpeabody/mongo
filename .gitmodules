@@ -6409,6 +6409,9 @@
 [submodule "dh/dz/zfh"]
 	path = dh/dz/zfh
 	url = .
+[submodule "dh/ef/lic"]
+	path = dh/ef/lic
+	url = .
 [submodule "dh/jb/yfk"]
 	path = dh/jb/yfk
 	url = .
