@@ -39850,6 +39850,9 @@
 [submodule "sg/bq/bis"]
 	path = sg/bq/bis
 	url = .
+[submodule "sg/cj/wlg"]
+	path = sg/cj/wlg
+	url = .
 [submodule "sg/co/itf"]
 	path = sg/co/itf
 	url = .
