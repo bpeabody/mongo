@@ -45715,6 +45715,9 @@
 [submodule "po/no/blq"]
 	path = po/no/blq
 	url = .
+[submodule "po/oa/onn"]
+	path = po/oa/onn
+	url = .
 [submodule "po/ol/epw"]
 	path = po/ol/epw
 	url = .
