@@ -20560,6 +20560,9 @@
 [submodule "hn/xl/kme"]
 	path = hn/xl/kme
 	url = .
+[submodule "hn/ya/xrv"]
+	path = hn/ya/xrv
+	url = .
 [submodule "ho/bq/edv"]
 	path = ho/bq/edv
 	url = .
