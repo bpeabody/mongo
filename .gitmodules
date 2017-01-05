@@ -6526,6 +6526,9 @@
 [submodule "ei/yu/scy"]
 	path = ei/yu/scy
 	url = .
+[submodule "ei/zz/asl"]
+	path = ei/zz/asl
+	url = .
 [submodule "ej/ee/pxh"]
 	path = ej/ee/pxh
 	url = .
