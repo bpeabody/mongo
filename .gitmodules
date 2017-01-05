@@ -12727,6 +12727,9 @@
 [submodule "hv/aa/tfv"]
 	path = hv/aa/tfv
 	url = .
+[submodule "hv/ab/xrl"]
+	path = hv/ab/xrl
+	url = .
 [submodule "hv/bn/hha"]
 	path = hv/bn/hha
 	url = .
