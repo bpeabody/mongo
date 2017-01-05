@@ -13456,6 +13456,9 @@
 [submodule "fq/zh/bws"]
 	path = fq/zh/bws
 	url = .
+[submodule "fr/bn/uzl"]
+	path = fr/bn/uzl
+	url = .
 [submodule "fr/bx/rdu"]
 	path = fr/bx/rdu
 	url = .
