@@ -23785,6 +23785,9 @@
 [submodule "vs/gd/wux"]
 	path = vs/gd/wux
 	url = .
+[submodule "vs/hd/eln"]
+	path = vs/hd/eln
+	url = .
 [submodule "vs/hv/oua"]
 	path = vs/hv/oua
 	url = .
