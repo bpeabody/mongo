@@ -8959,6 +8959,9 @@
 [submodule "du/ps/tjd"]
 	path = du/ps/tjd
 	url = .
+[submodule "du/rz/etw"]
+	path = du/rz/etw
+	url = .
 [submodule "du/so/kws"]
 	path = du/so/kws
 	url = .
