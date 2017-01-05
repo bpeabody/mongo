@@ -8965,6 +8965,9 @@
 [submodule "ua/gi/oac"]
 	path = ua/gi/oac
 	url = .
+[submodule "ua/ix/bdn"]
+	path = ua/ix/bdn
+	url = .
 [submodule "ua/qt/cfd"]
 	path = ua/qt/cfd
 	url = .
