@@ -3190,6 +3190,9 @@
 [submodule "lw/ae/hbl"]
 	path = lw/ae/hbl
 	url = .
+[submodule "lx/ba/acs"]
+	path = lx/ba/acs
+	url = .
 [submodule "lx/ec/exi"]
 	path = lx/ec/exi
 	url = .
