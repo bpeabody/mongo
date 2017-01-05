@@ -9724,6 +9724,9 @@
 [submodule "yx/dl/dmn"]
 	path = yx/dl/dmn
 	url = .
+[submodule "yx/gd/gih"]
+	path = yx/gd/gih
+	url = .
 [submodule "yx/ho/dfz"]
 	path = yx/ho/dfz
 	url = .
