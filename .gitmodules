@@ -1024,6 +1024,9 @@
 [submodule "am/rr/vve"]
 	path = am/rr/vve
 	url = .
+[submodule "am/sk/xik"]
+	path = am/sk/xik
+	url = .
 [submodule "am/sr/jka"]
 	path = am/sr/jka
 	url = .
