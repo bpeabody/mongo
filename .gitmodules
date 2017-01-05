@@ -1846,6 +1846,9 @@
 [submodule "jj/nc/xek"]
 	path = jj/nc/xek
 	url = .
+[submodule "jj/qd/eix"]
+	path = jj/qd/eix
+	url = .
 [submodule "jj/td/clj"]
 	path = jj/td/clj
 	url = .
