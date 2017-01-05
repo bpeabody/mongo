@@ -6106,6 +6106,9 @@
 [submodule "eq/xk/wdn"]
 	path = eq/xk/wdn
 	url = .
+[submodule "eq/xz/usy"]
+	path = eq/xz/usy
+	url = .
 [submodule "er/af/qoc"]
 	path = er/af/qoc
 	url = .
