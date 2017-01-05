@@ -41281,6 +41281,9 @@
 [submodule "sm/vv/npc"]
 	path = sm/vv/npc
 	url = .
+[submodule "sm/wn/eaa"]
+	path = sm/wn/eaa
+	url = .
 [submodule "sm/wp/wli"]
 	path = sm/wp/wli
 	url = .
