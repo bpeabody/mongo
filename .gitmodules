@@ -19819,6 +19819,9 @@
 [submodule "jp/vk/zzt"]
 	path = jp/vk/zzt
 	url = .
+[submodule "jp/wx/lqf"]
+	path = jp/wx/lqf
+	url = .
 [submodule "jp/zf/jsh"]
 	path = jp/zf/jsh
 	url = .
