@@ -1042,6 +1042,9 @@
 [submodule "bb/fd/vql"]
 	path = bb/fd/vql
 	url = .
+[submodule "bb/gw/gah"]
+	path = bb/gw/gah
+	url = .
 [submodule "bb/hr/wtx"]
 	path = bb/hr/wtx
 	url = .
