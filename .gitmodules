@@ -1942,6 +1942,9 @@
 [submodule "cp/dx/pjo"]
 	path = cp/dx/pjo
 	url = .
+[submodule "cp/ht/rkx"]
+	path = cp/ht/rkx
+	url = .
 [submodule "cp/kk/rym"]
 	path = cp/kk/rym
 	url = .
