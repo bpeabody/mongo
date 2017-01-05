@@ -35062,6 +35062,9 @@
 [submodule "pg/yj/uof"]
 	path = pg/yj/uof
 	url = .
+[submodule "pg/yn/edl"]
+	path = pg/yn/edl
+	url = .
 [submodule "pg/zo/qrw"]
 	path = pg/zo/qrw
 	url = .
