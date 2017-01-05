@@ -47425,6 +47425,9 @@
 [submodule "ux/hd/aqr"]
 	path = ux/hd/aqr
 	url = .
+[submodule "ux/jg/ydb"]
+	path = ux/jg/ydb
+	url = .
 [submodule "ux/mp/nuz"]
 	path = ux/mp/nuz
 	url = .
