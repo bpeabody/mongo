@@ -1081,6 +1081,9 @@
 [submodule "as/jt/hbx"]
 	path = as/jt/hbx
 	url = .
+[submodule "as/oo/rua"]
+	path = as/oo/rua
+	url = .
 [submodule "as/or/bgh"]
 	path = as/or/bgh
 	url = .
