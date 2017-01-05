@@ -1585,6 +1585,9 @@
 [submodule "vl/ae/zec"]
 	path = vl/ae/zec
 	url = .
+[submodule "vm/xc/cpf"]
+	path = vm/xc/cpf
+	url = .
 [submodule "vn/zf/ilc"]
 	path = vn/zf/ilc
 	url = .
