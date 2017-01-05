@@ -66307,6 +66307,9 @@
 [submodule "wo/mm/nkv"]
 	path = wo/mm/nkv
 	url = .
+[submodule "wo/nu/hip"]
+	path = wo/nu/hip
+	url = .
 [submodule "wo/of/ozc"]
 	path = wo/of/ozc
 	url = .
