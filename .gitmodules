@@ -2077,6 +2077,9 @@
 [submodule "bh/yp/gnt"]
 	path = bh/yp/gnt
 	url = .
+[submodule "bi/ci/pci"]
+	path = bi/ci/pci
+	url = .
 [submodule "bi/fn/qfg"]
 	path = bi/fn/qfg
 	url = .
