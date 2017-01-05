@@ -15286,6 +15286,9 @@
 [submodule "ic/mf/ugw"]
 	path = ic/mf/ugw
 	url = .
+[submodule "ic/mi/ufa"]
+	path = ic/mi/ufa
+	url = .
 [submodule "ic/nf/jpt"]
 	path = ic/nf/jpt
 	url = .
