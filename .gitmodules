@@ -9721,6 +9721,9 @@
 [submodule "hc/ie/ulr"]
 	path = hc/ie/ulr
 	url = .
+[submodule "hc/if/nls"]
+	path = hc/if/nls
+	url = .
 [submodule "hc/jc/kuk"]
 	path = hc/jc/kuk
 	url = .
