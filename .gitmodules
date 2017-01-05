@@ -61207,6 +61207,9 @@
 [submodule "vl/rv/wyd"]
 	path = vl/rv/wyd
 	url = .
+[submodule "vl/sm/xro"]
+	path = vl/sm/xro
+	url = .
 [submodule "vl/td/usb"]
 	path = vl/td/usb
 	url = .
