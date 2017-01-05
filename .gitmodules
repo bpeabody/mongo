@@ -26785,6 +26785,9 @@
 [submodule "xq/bm/nwx"]
 	path = xq/bm/nwx
 	url = .
+[submodule "xq/eg/jjt"]
+	path = xq/eg/jjt
+	url = .
 [submodule "xq/el/qzh"]
 	path = xq/el/qzh
 	url = .
