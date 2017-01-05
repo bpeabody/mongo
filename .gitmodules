@@ -23278,6 +23278,9 @@
 [submodule "ii/zs/eya"]
 	path = ii/zs/eya
 	url = .
+[submodule "ii/zt/mkn"]
+	path = ii/zt/mkn
+	url = .
 [submodule "ii/zt/wru"]
 	path = ii/zt/wru
 	url = .
