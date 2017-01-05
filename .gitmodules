@@ -7576,6 +7576,9 @@
 [submodule "fp/ye/prp"]
 	path = fp/ye/prp
 	url = .
+[submodule "fp/yq/psv"]
+	path = fp/yq/psv
+	url = .
 [submodule "fp/zh/gmd"]
 	path = fp/zh/gmd
 	url = .
