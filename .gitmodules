@@ -4873,6 +4873,9 @@
 [submodule "hz/la/xvc"]
 	path = hz/la/xvc
 	url = .
+[submodule "hz/mg/luf"]
+	path = hz/mg/luf
+	url = .
 [submodule "hz/mm/rhk"]
 	path = hz/mm/rhk
 	url = .
