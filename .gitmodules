@@ -21727,6 +21727,9 @@
 [submodule "sb/wh/ovz"]
 	path = sb/wh/ovz
 	url = .
+[submodule "sb/xg/haw"]
+	path = sb/xg/haw
+	url = .
 [submodule "sb/xn/fwt"]
 	path = sb/xn/fwt
 	url = .
