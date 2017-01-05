@@ -85,6 +85,9 @@
 [submodule "ah/hv/qfy"]
 	path = ah/hv/qfy
 	url = .
+[submodule "ah/qx/dwi"]
+	path = ah/qx/dwi
+	url = .
 [submodule "ah/qy/stj"]
 	path = ah/qy/stj
 	url = .
