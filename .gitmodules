@@ -7750,6 +7750,9 @@
 [submodule "ei/zz/asl"]
 	path = ei/zz/asl
 	url = .
+[submodule "ej/bo/omz"]
+	path = ej/bo/omz
+	url = .
 [submodule "ej/ee/pxh"]
 	path = ej/ee/pxh
 	url = .
