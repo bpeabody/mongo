@@ -5392,6 +5392,9 @@
 [submodule "qk/zu/olm"]
 	path = qk/zu/olm
 	url = .
+[submodule "ql/dd/xaq"]
+	path = ql/dd/xaq
+	url = .
 [submodule "ql/tq/jeo"]
 	path = ql/tq/jeo
 	url = .
