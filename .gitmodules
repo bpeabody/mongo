@@ -18739,6 +18739,9 @@
 [submodule "mg/xp/cic"]
 	path = mg/xp/cic
 	url = .
+[submodule "mg/yo/ajx"]
+	path = mg/yo/ajx
+	url = .
 [submodule "mg/zd/wqj"]
 	path = mg/zd/wqj
 	url = .
