@@ -823,6 +823,9 @@
 [submodule "ai/yx/pbh"]
 	path = ai/yx/pbh
 	url = .
+[submodule "ai/zq/nmi"]
+	path = ai/zq/nmi
+	url = .
 [submodule "aj/ag/fpe"]
 	path = aj/ag/fpe
 	url = .
