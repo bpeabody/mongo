@@ -33133,6 +33133,9 @@
 [submodule "lc/le/gjh"]
 	path = lc/le/gjh
 	url = .
+[submodule "lc/mi/gnz"]
+	path = lc/mi/gnz
+	url = .
 [submodule "lc/mk/cjk"]
 	path = lc/mk/cjk
 	url = .
