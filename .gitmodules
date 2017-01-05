@@ -36934,6 +36934,9 @@
 [submodule "qd/pe/hjq"]
 	path = qd/pe/hjq
 	url = .
+[submodule "qd/qb/orc"]
+	path = qd/qb/orc
+	url = .
 [submodule "qd/qy/pwv"]
 	path = qd/qy/pwv
 	url = .
