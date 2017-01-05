@@ -50659,6 +50659,9 @@
 [submodule "yr/wc/jgn"]
 	path = yr/wc/jgn
 	url = .
+[submodule "yr/we/uzb"]
+	path = yr/we/uzb
+	url = .
 [submodule "yr/xr/bes"]
 	path = yr/xr/bes
 	url = .
