@@ -274,6 +274,9 @@
 [submodule "bq/gq/zom"]
 	path = bq/gq/zom
 	url = .
+[submodule "bq/iw/jcg"]
+	path = bq/iw/jcg
+	url = .
 [submodule "bq/un/rpi"]
 	path = bq/un/rpi
 	url = .
