@@ -2140,6 +2140,9 @@
 [submodule "bx/ws/fdi"]
 	path = bx/ws/fdi
 	url = .
+[submodule "by/bj/bbp"]
+	path = by/bj/bbp
+	url = .
 [submodule "by/ch/wma"]
 	path = by/ch/wma
 	url = .
