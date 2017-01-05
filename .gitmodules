@@ -40729,6 +40729,9 @@
 [submodule "pe/kf/awy"]
 	path = pe/kf/awy
 	url = .
+[submodule "pe/kj/nrm"]
+	path = pe/kj/nrm
+	url = .
 [submodule "pe/kn/zut"]
 	path = pe/kn/zut
 	url = .
