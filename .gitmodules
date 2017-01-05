@@ -2659,6 +2659,9 @@
 [submodule "ay/pf/ecm"]
 	path = ay/pf/ecm
 	url = .
+[submodule "ay/qd/pre"]
+	path = ay/qd/pre
+	url = .
 [submodule "ay/ri/kno"]
 	path = ay/ri/kno
 	url = .
