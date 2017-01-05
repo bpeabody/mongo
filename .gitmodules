@@ -1090,6 +1090,9 @@
 [submodule "tz/fw/biu"]
 	path = tz/fw/biu
 	url = .
+[submodule "tz/uf/uvv"]
+	path = tz/uf/uvv
+	url = .
 [submodule "ue/qp/iht"]
 	path = ue/qp/iht
 	url = .
