@@ -289,6 +289,9 @@
 [submodule "ae/xf/pup"]
 	path = ae/xf/pup
 	url = .
+[submodule "ae/xw/kdm"]
+	path = ae/xw/kdm
+	url = .
 [submodule "ae/yp/byl"]
 	path = ae/yp/byl
 	url = .
