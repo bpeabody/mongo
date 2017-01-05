@@ -29041,6 +29041,9 @@
 [submodule "pe/ul/hmr"]
 	path = pe/ul/hmr
 	url = .
+[submodule "pe/ve/qnp"]
+	path = pe/ve/qnp
+	url = .
 [submodule "pe/wd/tuv"]
 	path = pe/wd/tuv
 	url = .
