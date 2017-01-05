@@ -13294,6 +13294,9 @@
 [submodule "lh/na/bqn"]
 	path = lh/na/bqn
 	url = .
+[submodule "lh/oo/ajr"]
+	path = lh/oo/ajr
+	url = .
 [submodule "lh/oq/gft"]
 	path = lh/oq/gft
 	url = .
