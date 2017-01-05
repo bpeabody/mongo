@@ -56686,6 +56686,9 @@
 [submodule "yc/yw/okw"]
 	path = yc/yw/okw
 	url = .
+[submodule "yc/yx/ngi"]
+	path = yc/yx/ngi
+	url = .
 [submodule "yc/zx/bdd"]
 	path = yc/zx/bdd
 	url = .
