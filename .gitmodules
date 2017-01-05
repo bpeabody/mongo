@@ -3154,6 +3154,9 @@
 [submodule "be/xf/fyd"]
 	path = be/xf/fyd
 	url = .
+[submodule "be/xh/dxr"]
+	path = be/xh/dxr
+	url = .
 [submodule "be/ya/chc"]
 	path = be/ya/chc
 	url = .
