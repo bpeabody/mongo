@@ -2293,6 +2293,9 @@
 [submodule "dc/fp/gjl"]
 	path = dc/fp/gjl
 	url = .
+[submodule "dc/hb/bez"]
+	path = dc/hb/bez
+	url = .
 [submodule "dc/hf/ygd"]
 	path = dc/hf/ygd
 	url = .
