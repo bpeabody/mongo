@@ -22789,6 +22789,9 @@
 [submodule "jr/ne/dwm"]
 	path = jr/ne/dwm
 	url = .
+[submodule "jr/ny/gpy"]
+	path = jr/ny/gpy
+	url = .
 [submodule "jr/qa/tjx"]
 	path = jr/qa/tjx
 	url = .
