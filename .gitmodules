@@ -14767,6 +14767,9 @@
 [submodule "jf/ow/qyf"]
 	path = jf/ow/qyf
 	url = .
+[submodule "jf/qo/blf"]
+	path = jf/qo/blf
+	url = .
 [submodule "jf/rl/ttz"]
 	path = jf/rl/ttz
 	url = .
