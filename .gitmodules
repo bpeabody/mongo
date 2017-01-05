@@ -4060,6 +4060,9 @@
 [submodule "cb/vt/qoc"]
 	path = cb/vt/qoc
 	url = .
+[submodule "cb/vz/msc"]
+	path = cb/vz/msc
+	url = .
 [submodule "cb/vz/pot"]
 	path = cb/vz/pot
 	url = .
