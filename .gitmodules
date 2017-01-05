@@ -8890,6 +8890,9 @@
 [submodule "ds/ko/pek"]
 	path = ds/ko/pek
 	url = .
+[submodule "ds/kw/zat"]
+	path = ds/kw/zat
+	url = .
 [submodule "ds/ma/jzx"]
 	path = ds/ma/jzx
 	url = .
