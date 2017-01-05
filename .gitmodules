@@ -7144,6 +7144,9 @@
 [submodule "qd/vj/hru"]
 	path = qd/vj/hru
 	url = .
+[submodule "qe/id/lzf"]
+	path = qe/id/lzf
+	url = .
 [submodule "qe/nj/vti"]
 	path = qe/nj/vti
 	url = .
