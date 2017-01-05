@@ -33877,6 +33877,9 @@
 [submodule "oc/lp/zwm"]
 	path = oc/lp/zwm
 	url = .
+[submodule "oc/mf/dgc"]
+	path = oc/mf/dgc
+	url = .
 [submodule "oc/mg/wnt"]
 	path = oc/mg/wnt
 	url = .
