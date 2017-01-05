@@ -18454,6 +18454,9 @@
 [submodule "kd/po/via"]
 	path = kd/po/via
 	url = .
+[submodule "kd/qf/hyb"]
+	path = kd/qf/hyb
+	url = .
 [submodule "kd/we/tcp"]
 	path = kd/we/tcp
 	url = .
