@@ -36325,6 +36325,9 @@
 [submodule "op/oa/rup"]
 	path = op/oa/rup
 	url = .
+[submodule "op/og/hoo"]
+	path = op/og/hoo
+	url = .
 [submodule "op/ov/ryv"]
 	path = op/ov/ryv
 	url = .
