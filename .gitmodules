@@ -3160,6 +3160,9 @@
 [submodule "mt/qv/qnb"]
 	path = mt/qv/qnb
 	url = .
+[submodule "mu/ig/bwn"]
+	path = mu/ig/bwn
+	url = .
 [submodule "mu/qf/skc"]
 	path = mu/qf/skc
 	url = .
