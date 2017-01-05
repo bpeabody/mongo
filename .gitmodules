@@ -8503,6 +8503,9 @@
 [submodule "da/mf/whp"]
 	path = da/mf/whp
 	url = .
+[submodule "da/mo/usc"]
+	path = da/mo/usc
+	url = .
 [submodule "da/mr/duf"]
 	path = da/mr/duf
 	url = .
