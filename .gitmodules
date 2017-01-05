@@ -10660,6 +10660,9 @@
 [submodule "md/mw/quv"]
 	path = md/mw/quv
 	url = .
+[submodule "md/qx/qnh"]
+	path = md/qx/qnh
+	url = .
 [submodule "md/rh/xwg"]
 	path = md/rh/xwg
 	url = .
