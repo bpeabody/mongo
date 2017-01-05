@@ -7870,6 +7870,9 @@
 [submodule "gq/ng/khz"]
 	path = gq/ng/khz
 	url = .
+[submodule "gq/nh/vts"]
+	path = gq/nh/vts
+	url = .
 [submodule "gq/pb/ltq"]
 	path = gq/pb/ltq
 	url = .
