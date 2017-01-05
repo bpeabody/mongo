@@ -11314,6 +11314,9 @@
 [submodule "dt/qp/abc"]
 	path = dt/qp/abc
 	url = .
+[submodule "dt/rh/gsy"]
+	path = dt/rh/gsy
+	url = .
 [submodule "dt/rl/uqt"]
 	path = dt/rl/uqt
 	url = .
