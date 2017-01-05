@@ -1654,6 +1654,9 @@
 [submodule "wh/gg/kxc"]
 	path = wh/gg/kxc
 	url = .
+[submodule "wh/ho/dvo"]
+	path = wh/ho/dvo
+	url = .
 [submodule "wh/qs/obv"]
 	path = wh/qs/obv
 	url = .
