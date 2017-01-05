@@ -27502,6 +27502,9 @@
 [submodule "mh/lb/tel"]
 	path = mh/lb/tel
 	url = .
+[submodule "mh/mt/vru"]
+	path = mh/mt/vru
+	url = .
 [submodule "mh/nh/noc"]
 	path = mh/nh/noc
 	url = .
