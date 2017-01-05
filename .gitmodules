@@ -11647,6 +11647,9 @@
 [submodule "gp/bl/pht"]
 	path = gp/bl/pht
 	url = .
+[submodule "gp/dd/bjh"]
+	path = gp/dd/bjh
+	url = .
 [submodule "gp/fb/vdy"]
 	path = gp/fb/vdy
 	url = .
