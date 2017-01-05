@@ -64,6 +64,9 @@
 [submodule "ix/yt/okh"]
 	path = ix/yt/okh
 	url = .
+[submodule "jd/un/htu"]
+	path = jd/un/htu
+	url = .
 [submodule "ko/xh/ucl"]
 	path = ko/xh/ucl
 	url = .
