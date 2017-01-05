@@ -34105,6 +34105,9 @@
 [submodule "ud/sz/srn"]
 	path = ud/sz/srn
 	url = .
+[submodule "ud/tm/yfu"]
+	path = ud/tm/yfu
+	url = .
 [submodule "ud/uz/zey"]
 	path = ud/uz/zey
 	url = .
