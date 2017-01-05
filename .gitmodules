@@ -3904,6 +3904,9 @@
 [submodule "bk/gm/wpm"]
 	path = bk/gm/wpm
 	url = .
+[submodule "bk/hj/ybl"]
+	path = bk/hj/ybl
+	url = .
 [submodule "bk/hn/vnq"]
 	path = bk/hn/vnq
 	url = .
