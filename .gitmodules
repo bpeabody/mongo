@@ -39583,6 +39583,9 @@
 [submodule "nj/tk/wpj"]
 	path = nj/tk/wpj
 	url = .
+[submodule "nj/tv/mqr"]
+	path = nj/tv/mqr
+	url = .
 [submodule "nj/un/tgm"]
 	path = nj/un/tgm
 	url = .
