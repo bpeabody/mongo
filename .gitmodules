@@ -7588,6 +7588,9 @@
 [submodule "gt/vl/pns"]
 	path = gt/vl/pns
 	url = .
+[submodule "gt/yo/rjt"]
+	path = gt/yo/rjt
+	url = .
 [submodule "gt/zo/zif"]
 	path = gt/zo/zif
 	url = .
