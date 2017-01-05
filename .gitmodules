@@ -2770,6 +2770,9 @@
 [submodule "jt/kv/bgj"]
 	path = jt/kv/bgj
 	url = .
+[submodule "jt/kx/nyq"]
+	path = jt/kx/nyq
+	url = .
 [submodule "jt/xz/hfr"]
 	path = jt/xz/hfr
 	url = .
