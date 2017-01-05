@@ -34096,6 +34096,9 @@
 [submodule "qh/xr/zsl"]
 	path = qh/xr/zsl
 	url = .
+[submodule "qh/ya/yft"]
+	path = qh/ya/yft
+	url = .
 [submodule "qh/yi/zjk"]
 	path = qh/yi/zjk
 	url = .
