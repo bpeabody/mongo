@@ -20191,6 +20191,9 @@
 [submodule "io/gc/ekx"]
 	path = io/gc/ekx
 	url = .
+[submodule "io/go/xgt"]
+	path = io/go/xgt
+	url = .
 [submodule "io/gy/wlc"]
 	path = io/gy/wlc
 	url = .
