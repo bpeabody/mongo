@@ -17770,6 +17770,9 @@
 [submodule "rb/vl/zso"]
 	path = rb/vl/zso
 	url = .
+[submodule "rb/wd/bgc"]
+	path = rb/wd/bgc
+	url = .
 [submodule "rb/yl/kld"]
 	path = rb/yl/kld
 	url = .
