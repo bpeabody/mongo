@@ -1729,6 +1729,9 @@
 [submodule "at/yb/juz"]
 	path = at/yb/juz
 	url = .
+[submodule "at/ym/xky"]
+	path = at/ym/xky
+	url = .
 [submodule "au/cv/tai"]
 	path = au/cv/tai
 	url = .
