@@ -31297,6 +31297,9 @@
 [submodule "xd/kj/ynp"]
 	path = xd/kj/ynp
 	url = .
+[submodule "xd/ko/sgx"]
+	path = xd/ko/sgx
+	url = .
 [submodule "xd/mx/afc"]
 	path = xd/mx/afc
 	url = .
