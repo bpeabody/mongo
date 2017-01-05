@@ -3310,6 +3310,9 @@
 [submodule "yw/ds/vcg"]
 	path = yw/ds/vcg
 	url = .
+[submodule "yw/ga/oqu"]
+	path = yw/ga/oqu
+	url = .
 [submodule "yw/vr/cad"]
 	path = yw/vr/cad
 	url = .
