@@ -7135,6 +7135,9 @@
 [submodule "je/fz/two"]
 	path = je/fz/two
 	url = .
+[submodule "je/ia/inq"]
+	path = je/ia/inq
+	url = .
 [submodule "je/oe/bxi"]
 	path = je/oe/bxi
 	url = .
