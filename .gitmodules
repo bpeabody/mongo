@@ -42958,6 +42958,9 @@
 [submodule "uq/at/vvl"]
 	path = uq/at/vvl
 	url = .
+[submodule "uq/bj/xai"]
+	path = uq/bj/xai
+	url = .
 [submodule "uq/bn/eyk"]
 	path = uq/bn/eyk
 	url = .
