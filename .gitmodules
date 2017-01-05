@@ -397,6 +397,9 @@
 [submodule "do/rw/xag"]
 	path = do/rw/xag
 	url = .
+[submodule "do/xw/elh"]
+	path = do/xw/elh
+	url = .
 [submodule "dp/et/pli"]
 	path = dp/et/pli
 	url = .
