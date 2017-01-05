@@ -10468,6 +10468,9 @@
 [submodule "dx/ox/zsq"]
 	path = dx/ox/zsq
 	url = .
+[submodule "dx/rt/gpr"]
+	path = dx/rt/gpr
+	url = .
 [submodule "dx/sd/xoz"]
 	path = dx/sd/xoz
 	url = .
