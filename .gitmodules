@@ -4981,6 +4981,9 @@
 [submodule "by/kb/xrp"]
 	path = by/kb/xrp
 	url = .
+[submodule "by/kc/ycg"]
+	path = by/kc/ycg
+	url = .
 [submodule "by/kk/jis"]
 	path = by/kk/jis
 	url = .
