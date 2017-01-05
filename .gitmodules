@@ -7123,6 +7123,9 @@
 [submodule "tt/ax/hnq"]
 	path = tt/ax/hnq
 	url = .
+[submodule "tt/ch/uls"]
+	path = tt/ch/uls
+	url = .
 [submodule "tt/gt/rjn"]
 	path = tt/gt/rjn
 	url = .
