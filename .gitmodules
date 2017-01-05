@@ -66589,6 +66589,9 @@
 [submodule "xh/xj/nju"]
 	path = xh/xj/nju
 	url = .
+[submodule "xh/xu/maz"]
+	path = xh/xu/maz
+	url = .
 [submodule "xh/yd/ybw"]
 	path = xh/yd/ybw
 	url = .
