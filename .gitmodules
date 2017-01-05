@@ -3973,6 +3973,9 @@
 [submodule "ld/gn/umx"]
 	path = ld/gn/umx
 	url = .
+[submodule "ld/sb/myr"]
+	path = ld/sb/myr
+	url = .
 [submodule "ld/wd/emt"]
 	path = ld/wd/emt
 	url = .
