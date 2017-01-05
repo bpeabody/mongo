@@ -8227,6 +8227,9 @@
 [submodule "mp/rq/feq"]
 	path = mp/rq/feq
 	url = .
+[submodule "mp/si/jaq"]
+	path = mp/si/jaq
+	url = .
 [submodule "mp/sx/ies"]
 	path = mp/sx/ies
 	url = .
