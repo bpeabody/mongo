@@ -41098,6 +41098,9 @@
 [submodule "tv/ro/fue"]
 	path = tv/ro/fue
 	url = .
+[submodule "tv/sp/nxr"]
+	path = tv/sp/nxr
+	url = .
 [submodule "tv/wh/upf"]
 	path = tv/wh/upf
 	url = .
