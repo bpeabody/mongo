@@ -3445,6 +3445,9 @@
 [submodule "wk/hr/gyr"]
 	path = wk/hr/gyr
 	url = .
+[submodule "wk/ks/lpn"]
+	path = wk/ks/lpn
+	url = .
 [submodule "wl/fq/ose"]
 	path = wl/fq/ose
 	url = .
