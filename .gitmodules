@@ -18688,6 +18688,9 @@
 [submodule "wn/bt/efv"]
 	path = wn/bt/efv
 	url = .
+[submodule "wn/bv/iqm"]
+	path = wn/bv/iqm
+	url = .
 [submodule "wn/du/hak"]
 	path = wn/du/hak
 	url = .
