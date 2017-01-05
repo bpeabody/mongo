@@ -2176,6 +2176,9 @@
 [submodule "bx/hn/wwl"]
 	path = bx/hn/wwl
 	url = .
+[submodule "bx/ie/mim"]
+	path = bx/ie/mim
+	url = .
 [submodule "bx/is/wrr"]
 	path = bx/is/wrr
 	url = .
