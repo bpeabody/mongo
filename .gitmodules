@@ -18613,6 +18613,9 @@
 [submodule "ik/vn/whw"]
 	path = ik/vn/whw
 	url = .
+[submodule "ik/vu/xar"]
+	path = ik/vu/xar
+	url = .
 [submodule "ik/xx/tqt"]
 	path = ik/xx/tqt
 	url = .
