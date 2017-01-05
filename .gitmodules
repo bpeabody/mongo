@@ -25153,6 +25153,9 @@
 [submodule "is/uo/qpr"]
 	path = is/uo/qpr
 	url = .
+[submodule "is/ut/fck"]
+	path = is/ut/fck
+	url = .
 [submodule "is/xk/hms"]
 	path = is/xk/hms
 	url = .
