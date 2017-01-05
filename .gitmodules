@@ -28033,6 +28033,9 @@
 [submodule "nq/qo/bru"]
 	path = nq/qo/bru
 	url = .
+[submodule "nq/qt/uyw"]
+	path = nq/qt/uyw
+	url = .
 [submodule "nq/us/ebb"]
 	path = nq/us/ebb
 	url = .
