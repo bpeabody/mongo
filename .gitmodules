@@ -1966,6 +1966,9 @@
 [submodule "rk/fc/smz"]
 	path = rk/fc/smz
 	url = .
+[submodule "rk/hi/qlb"]
+	path = rk/hi/qlb
+	url = .
 [submodule "rk/sm/uba"]
 	path = rk/sm/uba
 	url = .
