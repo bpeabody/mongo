@@ -24643,6 +24643,9 @@
 [submodule "nv/gi/knn"]
 	path = nv/gi/knn
 	url = .
+[submodule "nv/gk/dwt"]
+	path = nv/gk/dwt
+	url = .
 [submodule "nv/ia/oef"]
 	path = nv/ia/oef
 	url = .
