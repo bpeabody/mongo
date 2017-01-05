@@ -19261,6 +19261,9 @@
 [submodule "ip/ys/ura"]
 	path = ip/ys/ura
 	url = .
+[submodule "iq/ax/uku"]
+	path = iq/ax/uku
+	url = .
 [submodule "iq/bc/rhd"]
 	path = iq/bc/rhd
 	url = .
