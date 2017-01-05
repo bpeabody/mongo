@@ -21541,6 +21541,9 @@
 [submodule "hd/qc/ews"]
 	path = hd/qc/ews
 	url = .
+[submodule "hd/qh/mtq"]
+	path = hd/qh/mtq
+	url = .
 [submodule "hd/qv/bzz"]
 	path = hd/qv/bzz
 	url = .
