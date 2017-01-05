@@ -30652,6 +30652,9 @@
 [submodule "ow/ft/miz"]
 	path = ow/ft/miz
 	url = .
+[submodule "ow/gb/lpl"]
+	path = ow/gb/lpl
+	url = .
 [submodule "ow/gh/jte"]
 	path = ow/gh/jte
 	url = .
