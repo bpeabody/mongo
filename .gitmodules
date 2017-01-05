@@ -5785,6 +5785,9 @@
 [submodule "gz/nn/cbu"]
 	path = gz/nn/cbu
 	url = .
+[submodule "gz/of/wmg"]
+	path = gz/of/wmg
+	url = .
 [submodule "gz/rb/tsb"]
 	path = gz/rb/tsb
 	url = .
