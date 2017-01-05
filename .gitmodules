@@ -4018,6 +4018,9 @@
 [submodule "hp/pm/bcp"]
 	path = hp/pm/bcp
 	url = .
+[submodule "hp/qr/pld"]
+	path = hp/qr/pld
+	url = .
 [submodule "hp/vz/cjj"]
 	path = hp/vz/cjj
 	url = .
