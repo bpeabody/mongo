@@ -7738,6 +7738,9 @@
 [submodule "fk/bl/mbi"]
 	path = fk/bl/mbi
 	url = .
+[submodule "fk/di/gbv"]
+	path = fk/di/gbv
+	url = .
 [submodule "fk/gn/ojc"]
 	path = fk/gn/ojc
 	url = .
