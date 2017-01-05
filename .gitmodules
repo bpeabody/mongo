@@ -32236,6 +32236,9 @@
 [submodule "sl/pq/vzi"]
 	path = sl/pq/vzi
 	url = .
+[submodule "sl/qv/xqy"]
+	path = sl/qv/xqy
+	url = .
 [submodule "sl/qw/iot"]
 	path = sl/qw/iot
 	url = .
