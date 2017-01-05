@@ -66652,6 +66652,9 @@
 [submodule "zg/xf/toz"]
 	path = zg/xf/toz
 	url = .
+[submodule "zg/ya/mdl"]
+	path = zg/ya/mdl
+	url = .
 [submodule "zg/yf/ovy"]
 	path = zg/yf/ovy
 	url = .
