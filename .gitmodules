@@ -6319,6 +6319,9 @@
 [submodule "kk/wb/efy"]
 	path = kk/wb/efy
 	url = .
+[submodule "kk/we/udg"]
+	path = kk/we/udg
+	url = .
 [submodule "kk/xf/mqx"]
 	path = kk/xf/mqx
 	url = .
