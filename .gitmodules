@@ -21856,6 +21856,9 @@
 [submodule "np/xv/npi"]
 	path = np/xv/npi
 	url = .
+[submodule "np/zz/vqq"]
+	path = np/zz/vqq
+	url = .
 [submodule "nq/aa/yvh"]
 	path = nq/aa/yvh
 	url = .
