@@ -8239,6 +8239,9 @@
 [submodule "kb/ok/rlb"]
 	path = kb/ok/rlb
 	url = .
+[submodule "kb/rr/edu"]
+	path = kb/rr/edu
+	url = .
 [submodule "kb/tp/zov"]
 	path = kb/tp/zov
 	url = .
