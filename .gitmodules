@@ -24022,6 +24022,9 @@
 [submodule "pl/bu/kke"]
 	path = pl/bu/kke
 	url = .
+[submodule "pl/lr/kzf"]
+	path = pl/lr/kzf
+	url = .
 [submodule "pl/mt/dgj"]
 	path = pl/mt/dgj
 	url = .
