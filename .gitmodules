@@ -2125,6 +2125,9 @@
 [submodule "ch/vx/tey"]
 	path = ch/vx/tey
 	url = .
+[submodule "ch/yj/ypv"]
+	path = ch/yj/ypv
+	url = .
 [submodule "ci/av/gpk"]
 	path = ci/av/gpk
 	url = .
