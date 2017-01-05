@@ -45673,6 +45673,9 @@
 [submodule "te/pg/lpq"]
 	path = te/pg/lpq
 	url = .
+[submodule "te/qa/jlk"]
+	path = te/qa/jlk
+	url = .
 [submodule "te/rf/ely"]
 	path = te/rf/ely
 	url = .
