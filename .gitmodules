@@ -3355,6 +3355,9 @@
 [submodule "kd/mq/wbd"]
 	path = kd/mq/wbd
 	url = .
+[submodule "kd/pi/iui"]
+	path = kd/pi/iui
+	url = .
 [submodule "ke/fs/uov"]
 	path = ke/fs/uov
 	url = .
