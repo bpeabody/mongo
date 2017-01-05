@@ -35752,6 +35752,9 @@
 [submodule "mn/qy/xix"]
 	path = mn/qy/xix
 	url = .
+[submodule "mn/so/ryj"]
+	path = mn/so/ryj
+	url = .
 [submodule "mn/sw/eav"]
 	path = mn/sw/eav
 	url = .
