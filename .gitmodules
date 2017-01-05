@@ -55267,6 +55267,9 @@
 [submodule "tf/dm/gyi"]
 	path = tf/dm/gyi
 	url = .
+[submodule "tf/ef/drv"]
+	path = tf/ef/drv
+	url = .
 [submodule "tf/gb/hyi"]
 	path = tf/gb/hyi
 	url = .
