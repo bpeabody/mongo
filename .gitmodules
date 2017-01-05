@@ -18340,6 +18340,9 @@
 [submodule "sb/ro/qxu"]
 	path = sb/ro/qxu
 	url = .
+[submodule "sb/vl/mvi"]
+	path = sb/vl/mvi
+	url = .
 [submodule "sb/wh/ovz"]
 	path = sb/wh/ovz
 	url = .
