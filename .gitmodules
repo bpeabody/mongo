@@ -3049,6 +3049,9 @@
 [submodule "gn/kw/wav"]
 	path = gn/kw/wav
 	url = .
+[submodule "gn/pl/rdd"]
+	path = gn/pl/rdd
+	url = .
 [submodule "gn/st/fpx"]
 	path = gn/st/fpx
 	url = .
