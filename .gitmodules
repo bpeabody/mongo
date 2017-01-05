@@ -7678,6 +7678,9 @@
 [submodule "ix/fc/qdj"]
 	path = ix/fc/qdj
 	url = .
+[submodule "ix/gc/iwq"]
+	path = ix/gc/iwq
+	url = .
 [submodule "ix/ik/gps"]
 	path = ix/ik/gps
 	url = .
