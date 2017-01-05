@@ -36115,6 +36115,9 @@
 [submodule "th/ui/lxs"]
 	path = th/ui/lxs
 	url = .
+[submodule "th/uv/gvj"]
+	path = th/uv/gvj
+	url = .
 [submodule "th/vo/thh"]
 	path = th/vo/thh
 	url = .
