@@ -17809,6 +17809,9 @@
 [submodule "ox/zd/nok"]
 	path = ox/zd/nok
 	url = .
+[submodule "ox/zl/lnr"]
+	path = ox/zl/lnr
+	url = .
 [submodule "ox/zu/vmp"]
 	path = ox/zu/vmp
 	url = .
