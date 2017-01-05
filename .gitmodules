@@ -739,6 +739,9 @@
 [submodule "iy/hy/etd"]
 	path = iy/hy/etd
 	url = .
+[submodule "ja/fk/gbl"]
+	path = ja/fk/gbl
+	url = .
 [submodule "ja/ol/mml"]
 	path = ja/ol/mml
 	url = .
