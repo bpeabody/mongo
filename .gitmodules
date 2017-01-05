@@ -2221,6 +2221,9 @@
 [submodule "bo/lj/dzs"]
 	path = bo/lj/dzs
 	url = .
+[submodule "bo/mh/jpd"]
+	path = bo/mh/jpd
+	url = .
 [submodule "bo/nb/dps"]
 	path = bo/nb/dps
 	url = .
