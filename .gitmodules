@@ -1675,6 +1675,9 @@
 [submodule "cf/dr/phu"]
 	path = cf/dr/phu
 	url = .
+[submodule "cf/fl/xqd"]
+	path = cf/fl/xqd
+	url = .
 [submodule "cf/fu/ukj"]
 	path = cf/fu/ukj
 	url = .
