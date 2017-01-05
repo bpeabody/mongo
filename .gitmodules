@@ -30469,6 +30469,9 @@
 [submodule "ml/pp/sle"]
 	path = ml/pp/sle
 	url = .
+[submodule "ml/qi/aho"]
+	path = ml/qi/aho
+	url = .
 [submodule "ml/qi/ked"]
 	path = ml/qi/ked
 	url = .
