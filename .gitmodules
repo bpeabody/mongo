@@ -1879,6 +1879,9 @@
 [submodule "dk/nn/zwe"]
 	path = dk/nn/zwe
 	url = .
+[submodule "dk/ot/zwp"]
+	path = dk/ot/zwp
+	url = .
 [submodule "dk/st/jcx"]
 	path = dk/st/jcx
 	url = .
