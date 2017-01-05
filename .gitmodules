@@ -15211,6 +15211,9 @@
 [submodule "fl/fm/ldk"]
 	path = fl/fm/ldk
 	url = .
+[submodule "fl/fo/xkh"]
+	path = fl/fo/xkh
+	url = .
 [submodule "fl/gn/jhn"]
 	path = fl/gn/jhn
 	url = .
