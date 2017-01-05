@@ -538,6 +538,9 @@
 [submodule "wy/uy/gtt"]
 	path = wy/uy/gtt
 	url = .
+[submodule "xd/sr/znc"]
+	path = xd/sr/znc
+	url = .
 [submodule "xd/xd/czf"]
 	path = xd/xd/czf
 	url = .
