@@ -3949,6 +3949,9 @@
 [submodule "sq/rk/fel"]
 	path = sq/rk/fel
 	url = .
+[submodule "sr/ez/gav"]
+	path = sr/ez/gav
+	url = .
 [submodule "sr/nt/hjv"]
 	path = sr/nt/hjv
 	url = .
