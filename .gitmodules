@@ -13315,6 +13315,9 @@
 [submodule "gq/rw/equ"]
 	path = gq/rw/equ
 	url = .
+[submodule "gq/tk/ski"]
+	path = gq/tk/ski
+	url = .
 [submodule "gq/tl/kua"]
 	path = gq/tl/kua
 	url = .
