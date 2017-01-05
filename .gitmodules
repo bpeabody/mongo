@@ -29074,6 +29074,9 @@
 [submodule "lq/sl/eho"]
 	path = lq/sl/eho
 	url = .
+[submodule "lq/sp/bzp"]
+	path = lq/sp/bzp
+	url = .
 [submodule "lq/to/ctz"]
 	path = lq/to/ctz
 	url = .
