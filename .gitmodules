@@ -57445,6 +57445,9 @@
 [submodule "tv/gl/msr"]
 	path = tv/gl/msr
 	url = .
+[submodule "tv/ha/vif"]
+	path = tv/ha/vif
+	url = .
 [submodule "tv/jx/llw"]
 	path = tv/jx/llw
 	url = .
