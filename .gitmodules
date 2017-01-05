@@ -40360,6 +40360,9 @@
 [submodule "pt/ql/sfd"]
 	path = pt/ql/sfd
 	url = .
+[submodule "pt/qq/wnx"]
+	path = pt/qq/wnx
+	url = .
 [submodule "pt/qt/xum"]
 	path = pt/qt/xum
 	url = .
