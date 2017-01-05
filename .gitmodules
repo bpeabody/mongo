@@ -979,6 +979,9 @@
 [submodule "ff/rt/vnp"]
 	path = ff/rt/vnp
 	url = .
+[submodule "fg/bv/kes"]
+	path = fg/bv/kes
+	url = .
 [submodule "fg/xh/jto"]
 	path = fg/xh/jto
 	url = .
