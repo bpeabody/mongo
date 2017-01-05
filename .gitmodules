@@ -15601,6 +15601,9 @@
 [submodule "gk/tf/chi"]
 	path = gk/tf/chi
 	url = .
+[submodule "gk/tq/vsw"]
+	path = gk/tq/vsw
+	url = .
 [submodule "gk/ur/igi"]
 	path = gk/ur/igi
 	url = .
