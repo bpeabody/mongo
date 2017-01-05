@@ -1324,6 +1324,9 @@
 [submodule "ff/rt/vnp"]
 	path = ff/rt/vnp
 	url = .
+[submodule "fg/ak/yfw"]
+	path = fg/ak/yfw
+	url = .
 [submodule "fg/bv/kes"]
 	path = fg/bv/kes
 	url = .
