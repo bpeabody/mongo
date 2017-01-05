@@ -4756,6 +4756,9 @@
 [submodule "bq/ba/pfh"]
 	path = bq/ba/pfh
 	url = .
+[submodule "bq/bf/gcu"]
+	path = bq/bf/gcu
+	url = .
 [submodule "bq/bm/cmy"]
 	path = bq/bm/cmy
 	url = .
