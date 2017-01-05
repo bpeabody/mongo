@@ -6139,6 +6139,9 @@
 [submodule "gv/pv/ege"]
 	path = gv/pv/ege
 	url = .
+[submodule "gv/ua/nwu"]
+	path = gv/ua/nwu
+	url = .
 [submodule "gv/vu/ptq"]
 	path = gv/vu/ptq
 	url = .
