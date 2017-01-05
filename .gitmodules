@@ -16366,6 +16366,9 @@
 [submodule "rw/fw/kps"]
 	path = rw/fw/kps
 	url = .
+[submodule "rw/gg/nbi"]
+	path = rw/gg/nbi
+	url = .
 [submodule "rw/oq/pjw"]
 	path = rw/oq/pjw
 	url = .
