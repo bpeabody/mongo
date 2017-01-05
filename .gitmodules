@@ -45847,6 +45847,9 @@
 [submodule "uh/yh/mzv"]
 	path = uh/yh/mzv
 	url = .
+[submodule "uh/yy/bea"]
+	path = uh/yy/bea
+	url = .
 [submodule "ui/ay/vgh"]
 	path = ui/ay/vgh
 	url = .
