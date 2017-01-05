@@ -7645,6 +7645,9 @@
 [submodule "jx/sr/vjs"]
 	path = jx/sr/vjs
 	url = .
+[submodule "jx/yg/zmd"]
+	path = jx/yg/zmd
+	url = .
 [submodule "jy/lo/tbs"]
 	path = jy/lo/tbs
 	url = .
