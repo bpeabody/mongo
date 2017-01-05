@@ -41791,6 +41791,9 @@
 [submodule "sq/tj/afq"]
 	path = sq/tj/afq
 	url = .
+[submodule "sq/up/ulm"]
+	path = sq/up/ulm
+	url = .
 [submodule "sq/xq/uko"]
 	path = sq/xq/uko
 	url = .
