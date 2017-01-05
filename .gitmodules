@@ -35803,6 +35803,9 @@
 [submodule "mr/ud/fup"]
 	path = mr/ud/fup
 	url = .
+[submodule "mr/ue/tei"]
+	path = mr/ue/tei
+	url = .
 [submodule "mr/vy/wvm"]
 	path = mr/vy/wvm
 	url = .
