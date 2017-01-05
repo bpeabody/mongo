@@ -8938,6 +8938,9 @@
 [submodule "rb/uj/nkb"]
 	path = rb/uj/nkb
 	url = .
+[submodule "rb/vl/zso"]
+	path = rb/vl/zso
+	url = .
 [submodule "rc/am/zmb"]
 	path = rc/am/zmb
 	url = .
