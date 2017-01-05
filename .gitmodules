@@ -262,6 +262,9 @@
 [submodule "fs/lr/yer"]
 	path = fs/lr/yer
 	url = .
+[submodule "fw/dz/otp"]
+	path = fw/dz/otp
+	url = .
 [submodule "fw/vz/wll"]
 	path = fw/vz/wll
 	url = .
