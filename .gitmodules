@@ -2557,6 +2557,9 @@
 [submodule "nr/ng/kpg"]
 	path = nr/ng/kpg
 	url = .
+[submodule "nr/ye/nlu"]
+	path = nr/ye/nlu
+	url = .
 [submodule "ns/ws/rci"]
 	path = ns/ws/rci
 	url = .
