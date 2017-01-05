@@ -14332,6 +14332,9 @@
 [submodule "iq/fa/wgu"]
 	path = iq/fa/wgu
 	url = .
+[submodule "iq/fc/icn"]
+	path = iq/fc/icn
+	url = .
 [submodule "iq/gc/srh"]
 	path = iq/gc/srh
 	url = .
