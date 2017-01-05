@@ -54244,6 +54244,9 @@
 [submodule "sm/oj/saz"]
 	path = sm/oj/saz
 	url = .
+[submodule "sm/pc/jkm"]
+	path = sm/pc/jkm
+	url = .
 [submodule "sm/pw/hio"]
 	path = sm/pw/hio
 	url = .
