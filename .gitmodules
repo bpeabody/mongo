@@ -3163,6 +3163,9 @@
 [submodule "hs/ae/gvg"]
 	path = hs/ae/gvg
 	url = .
+[submodule "hs/gv/jsn"]
+	path = hs/gv/jsn
+	url = .
 [submodule "hs/hf/vff"]
 	path = hs/hf/vff
 	url = .
