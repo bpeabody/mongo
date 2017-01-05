@@ -850,6 +850,9 @@
 [submodule "fu/xu/vfo"]
 	path = fu/xu/vfo
 	url = .
+[submodule "fv/pk/loc"]
+	path = fv/pk/loc
+	url = .
 [submodule "fv/pk/lvp"]
 	path = fv/pk/lvp
 	url = .
