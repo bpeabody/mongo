@@ -11776,6 +11776,9 @@
 [submodule "ip/bf/kmo"]
 	path = ip/bf/kmo
 	url = .
+[submodule "ip/by/pls"]
+	path = ip/by/pls
+	url = .
 [submodule "ip/ck/fck"]
 	path = ip/ck/fck
 	url = .
