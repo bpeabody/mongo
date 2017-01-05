@@ -2740,6 +2740,9 @@
 [submodule "um/lx/xcd"]
 	path = um/lx/xcd
 	url = .
+[submodule "um/pu/enj"]
+	path = um/pu/enj
+	url = .
 [submodule "um/xl/wsl"]
 	path = um/xl/wsl
 	url = .
