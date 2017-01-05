@@ -13879,6 +13879,9 @@
 [submodule "go/uu/qdj"]
 	path = go/uu/qdj
 	url = .
+[submodule "go/wv/qld"]
+	path = go/wv/qld
+	url = .
 [submodule "go/xl/lqm"]
 	path = go/xl/lqm
 	url = .
