@@ -3271,6 +3271,9 @@
 [submodule "qq/ca/cjm"]
 	path = qq/ca/cjm
 	url = .
+[submodule "qq/cx/bwj"]
+	path = qq/cx/bwj
+	url = .
 [submodule "qq/sr/crf"]
 	path = qq/sr/crf
 	url = .
