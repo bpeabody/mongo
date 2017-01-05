@@ -14119,6 +14119,9 @@
 [submodule "qf/xn/ivb"]
 	path = qf/xn/ivb
 	url = .
+[submodule "qg/ae/vas"]
+	path = qg/ae/vas
+	url = .
 [submodule "qg/hg/hyp"]
 	path = qg/hg/hyp
 	url = .
