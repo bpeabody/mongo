@@ -1585,6 +1585,9 @@
 [submodule "bu/vw/bvv"]
 	path = bu/vw/bvv
 	url = .
+[submodule "bu/xd/roj"]
+	path = bu/xd/roj
+	url = .
 [submodule "bv/cy/qvp"]
 	path = bv/cy/qvp
 	url = .
