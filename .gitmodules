@@ -56557,6 +56557,9 @@
 [submodule "tu/pu/bfw"]
 	path = tu/pu/bfw
 	url = .
+[submodule "tu/qx/jfw"]
+	path = tu/qx/jfw
+	url = .
 [submodule "tu/rb/xkc"]
 	path = tu/rb/xkc
 	url = .
