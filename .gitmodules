@@ -94,6 +94,9 @@
 [submodule "ah/ft/fmz"]
 	path = ah/ft/fmz
 	url = .
+[submodule "ah/gd/wow"]
+	path = ah/gd/wow
+	url = .
 [submodule "ah/hv/qfy"]
 	path = ah/hv/qfy
 	url = .
