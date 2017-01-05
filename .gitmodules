@@ -4600,6 +4600,9 @@
 [submodule "ka/ia/wgs"]
 	path = ka/ia/wgs
 	url = .
+[submodule "ka/ni/blj"]
+	path = ka/ni/blj
+	url = .
 [submodule "ka/pu/hfw"]
 	path = ka/pu/hfw
 	url = .
