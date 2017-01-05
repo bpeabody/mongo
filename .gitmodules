@@ -27142,6 +27142,9 @@
 [submodule "mx/oe/hdc"]
 	path = mx/oe/hdc
 	url = .
+[submodule "mx/oo/umv"]
+	path = mx/oo/umv
+	url = .
 [submodule "mx/ov/kvf"]
 	path = mx/ov/kvf
 	url = .
