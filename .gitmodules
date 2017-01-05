@@ -1609,6 +1609,9 @@
 [submodule "at/xc/bad"]
 	path = at/xc/bad
 	url = .
+[submodule "at/xs/baz"]
+	path = at/xs/baz
+	url = .
 [submodule "at/yb/juz"]
 	path = at/yb/juz
 	url = .
