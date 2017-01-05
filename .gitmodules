@@ -43174,6 +43174,9 @@
 [submodule "sm/oj/saz"]
 	path = sm/oj/saz
 	url = .
+[submodule "sm/pw/hio"]
+	path = sm/pw/hio
+	url = .
 [submodule "sm/rh/pgh"]
 	path = sm/rh/pgh
 	url = .
