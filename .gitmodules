@@ -24577,6 +24577,9 @@
 [submodule "py/ub/pjs"]
 	path = py/ub/pjs
 	url = .
+[submodule "py/uj/qqr"]
+	path = py/uj/qqr
+	url = .
 [submodule "py/wu/wwg"]
 	path = py/wu/wwg
 	url = .
