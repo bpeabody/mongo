@@ -46753,6 +46753,9 @@
 [submodule "ui/fo/ltl"]
 	path = ui/fo/ltl
 	url = .
+[submodule "ui/gg/cjo"]
+	path = ui/gg/cjo
+	url = .
 [submodule "ui/gu/sot"]
 	path = ui/gu/sot
 	url = .
