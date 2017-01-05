@@ -5353,6 +5353,9 @@
 [submodule "bu/xd/roj"]
 	path = bu/xd/roj
 	url = .
+[submodule "bu/xi/hcp"]
+	path = bu/xi/hcp
+	url = .
 [submodule "bu/xx/nya"]
 	path = bu/xx/nya
 	url = .
