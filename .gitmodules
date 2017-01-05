@@ -2923,6 +2923,9 @@
 [submodule "tr/lf/lzu"]
 	path = tr/lf/lzu
 	url = .
+[submodule "tr/zh/zrl"]
+	path = tr/zh/zrl
+	url = .
 [submodule "tt/ax/hnq"]
 	path = tt/ax/hnq
 	url = .
