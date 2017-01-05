@@ -41884,6 +41884,9 @@
 [submodule "ts/ia/sso"]
 	path = ts/ia/sso
 	url = .
+[submodule "ts/iy/jwk"]
+	path = ts/iy/jwk
+	url = .
 [submodule "ts/iz/jbs"]
 	path = ts/iz/jbs
 	url = .
