@@ -35989,6 +35989,9 @@
 [submodule "qg/tr/fsg"]
 	path = qg/tr/fsg
 	url = .
+[submodule "qg/tr/gde"]
+	path = qg/tr/gde
+	url = .
 [submodule "qg/tw/cdi"]
 	path = qg/tw/cdi
 	url = .
