@@ -21085,6 +21085,9 @@
 [submodule "wt/mb/gjb"]
 	path = wt/mb/gjb
 	url = .
+[submodule "wt/ng/suz"]
+	path = wt/ng/suz
+	url = .
 [submodule "wt/ns/qgx"]
 	path = wt/ns/qgx
 	url = .
