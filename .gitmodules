@@ -15544,6 +15544,9 @@
 [submodule "sw/wo/zvk"]
 	path = sw/wo/zvk
 	url = .
+[submodule "sw/yf/jpc"]
+	path = sw/yf/jpc
+	url = .
 [submodule "sw/zc/yxk"]
 	path = sw/zc/yxk
 	url = .
