@@ -11179,6 +11179,9 @@
 [submodule "hw/cs/iha"]
 	path = hw/cs/iha
 	url = .
+[submodule "hw/ff/eeu"]
+	path = hw/ff/eeu
+	url = .
 [submodule "hw/fs/pxc"]
 	path = hw/fs/pxc
 	url = .
