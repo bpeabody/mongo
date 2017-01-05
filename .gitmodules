@@ -29293,6 +29293,9 @@
 [submodule "qg/hu/apq"]
 	path = qg/hu/apq
 	url = .
+[submodule "qg/if/baf"]
+	path = qg/if/baf
+	url = .
 [submodule "qg/is/jqr"]
 	path = qg/is/jqr
 	url = .
