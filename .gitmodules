@@ -40348,6 +40348,9 @@
 [submodule "uf/cp/etd"]
 	path = uf/cp/etd
 	url = .
+[submodule "uf/de/jil"]
+	path = uf/de/jil
+	url = .
 [submodule "uf/dg/lbi"]
 	path = uf/dg/lbi
 	url = .
