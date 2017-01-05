@@ -388,6 +388,9 @@
 [submodule "ae/pk/ket"]
 	path = ae/pk/ket
 	url = .
+[submodule "ae/qb/kww"]
+	path = ae/qb/kww
+	url = .
 [submodule "ae/qu/rmz"]
 	path = ae/qu/rmz
 	url = .
