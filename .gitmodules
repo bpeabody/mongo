@@ -8503,6 +8503,9 @@
 [submodule "fs/le/vwt"]
 	path = fs/le/vwt
 	url = .
+[submodule "fs/lh/yjk"]
+	path = fs/lh/yjk
+	url = .
 [submodule "fs/lr/yer"]
 	path = fs/lr/yer
 	url = .
