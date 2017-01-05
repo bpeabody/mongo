@@ -18514,6 +18514,9 @@
 [submodule "yy/ub/mtr"]
 	path = yy/ub/mtr
 	url = .
+[submodule "yz/gr/sal"]
+	path = yz/gr/sal
+	url = .
 [submodule "yz/lz/poh"]
 	path = yz/lz/poh
 	url = .
