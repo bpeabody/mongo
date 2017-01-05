@@ -25771,6 +25771,9 @@
 [submodule "lr/th/orw"]
 	path = lr/th/orw
 	url = .
+[submodule "lr/tu/jcr"]
+	path = lr/tu/jcr
+	url = .
 [submodule "lr/wg/ifx"]
 	path = lr/wg/ifx
 	url = .
