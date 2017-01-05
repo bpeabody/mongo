@@ -3610,6 +3610,9 @@
 [submodule "kd/pi/iui"]
 	path = kd/pi/iui
 	url = .
+[submodule "kd/pm/can"]
+	path = kd/pm/can
+	url = .
 [submodule "ke/fs/uov"]
 	path = ke/fs/uov
 	url = .
