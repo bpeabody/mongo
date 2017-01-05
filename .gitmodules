@@ -4603,6 +4603,9 @@
 [submodule "cw/tm/tcr"]
 	path = cw/tm/tcr
 	url = .
+[submodule "cw/ye/pel"]
+	path = cw/ye/pel
+	url = .
 [submodule "cw/zg/npo"]
 	path = cw/zg/npo
 	url = .
