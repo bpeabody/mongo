@@ -20215,6 +20215,9 @@
 [submodule "sl/vl/ycd"]
 	path = sl/vl/ycd
 	url = .
+[submodule "sl/xk/ryu"]
+	path = sl/xk/ryu
+	url = .
 [submodule "sl/yz/gas"]
 	path = sl/yz/gas
 	url = .
