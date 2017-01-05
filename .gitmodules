@@ -1048,6 +1048,9 @@
 [submodule "ax/mp/hbt"]
 	path = ax/mp/hbt
 	url = .
+[submodule "ax/og/bqy"]
+	path = ax/og/bqy
+	url = .
 [submodule "ax/po/fqx"]
 	path = ax/po/fqx
 	url = .
