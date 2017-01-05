@@ -8137,6 +8137,9 @@
 [submodule "gd/mb/eqv"]
 	path = gd/mb/eqv
 	url = .
+[submodule "gd/rj/kxb"]
+	path = gd/rj/kxb
+	url = .
 [submodule "gd/te/aon"]
 	path = gd/te/aon
 	url = .
