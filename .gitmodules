@@ -994,6 +994,9 @@
 [submodule "co/of/qoi"]
 	path = co/of/qoi
 	url = .
+[submodule "co/rm/exh"]
+	path = co/rm/exh
+	url = .
 [submodule "cp/ag/hmu"]
 	path = cp/ag/hmu
 	url = .
