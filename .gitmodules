@@ -27820,6 +27820,9 @@
 [submodule "np/su/qfe"]
 	path = np/su/qfe
 	url = .
+[submodule "np/tv/wdq"]
+	path = np/tv/wdq
+	url = .
 [submodule "np/uw/tkw"]
 	path = np/uw/tkw
 	url = .
