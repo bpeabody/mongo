@@ -17500,6 +17500,9 @@
 [submodule "gw/jy/sup"]
 	path = gw/jy/sup
 	url = .
+[submodule "gw/jy/ukn"]
+	path = gw/jy/ukn
+	url = .
 [submodule "gw/kq/nha"]
 	path = gw/kq/nha
 	url = .
