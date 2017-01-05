@@ -31651,6 +31651,9 @@
 [submodule "xg/rm/jgs"]
 	path = xg/rm/jgs
 	url = .
+[submodule "xg/sb/aob"]
+	path = xg/sb/aob
+	url = .
 [submodule "xg/ss/mkk"]
 	path = xg/ss/mkk
 	url = .
