@@ -601,6 +601,9 @@
 [submodule "an/fk/lgd"]
 	path = an/fk/lgd
 	url = .
+[submodule "an/jx/qqm"]
+	path = an/jx/qqm
+	url = .
 [submodule "an/ky/qde"]
 	path = an/ky/qde
 	url = .
