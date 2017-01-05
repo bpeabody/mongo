@@ -59773,6 +59773,9 @@
 [submodule "ux/tm/fhc"]
 	path = ux/tm/fhc
 	url = .
+[submodule "ux/uq/bxq"]
+	path = ux/uq/bxq
+	url = .
 [submodule "ux/uu/sku"]
 	path = ux/uu/sku
 	url = .
