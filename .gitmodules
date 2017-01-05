@@ -56608,6 +56608,9 @@
 [submodule "wc/ho/tuq"]
 	path = wc/ho/tuq
 	url = .
+[submodule "wc/ib/fyk"]
+	path = wc/ib/fyk
+	url = .
 [submodule "wc/ic/nys"]
 	path = wc/ic/nys
 	url = .
