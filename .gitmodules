@@ -904,6 +904,9 @@
 [submodule "ds/qo/mnn"]
 	path = ds/qo/mnn
 	url = .
+[submodule "ds/yc/sla"]
+	path = ds/yc/sla
+	url = .
 [submodule "dt/zn/tbi"]
 	path = dt/zn/tbi
 	url = .
