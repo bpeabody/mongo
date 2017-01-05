@@ -9133,6 +9133,9 @@
 [submodule "vd/tv/ruj"]
 	path = vd/tv/ruj
 	url = .
+[submodule "ve/bt/frl"]
+	path = ve/bt/frl
+	url = .
 [submodule "ve/dn/lgy"]
 	path = ve/dn/lgy
 	url = .
