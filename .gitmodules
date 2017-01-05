@@ -37432,6 +37432,9 @@
 [submodule "vk/fz/dkl"]
 	path = vk/fz/dkl
 	url = .
+[submodule "vk/hb/dbr"]
+	path = vk/hb/dbr
+	url = .
 [submodule "vk/hi/npd"]
 	path = vk/hi/npd
 	url = .
