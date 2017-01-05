@@ -5410,6 +5410,9 @@
 [submodule "cj/bo/noi"]
 	path = cj/bo/noi
 	url = .
+[submodule "cj/bu/qny"]
+	path = cj/bu/qny
+	url = .
 [submodule "cj/ch/hyu"]
 	path = cj/ch/hyu
 	url = .
