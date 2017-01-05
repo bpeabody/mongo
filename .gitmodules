@@ -52306,6 +52306,9 @@
 [submodule "sn/nm/dfd"]
 	path = sn/nm/dfd
 	url = .
+[submodule "sn/nq/kpe"]
+	path = sn/nq/kpe
+	url = .
 [submodule "sn/oy/zby"]
 	path = sn/oy/zby
 	url = .
