@@ -7036,6 +7036,9 @@
 [submodule "yr/kd/cdq"]
 	path = yr/kd/cdq
 	url = .
+[submodule "yr/xr/bes"]
+	path = yr/xr/bes
+	url = .
 [submodule "yr/xr/ctq"]
 	path = yr/xr/ctq
 	url = .
