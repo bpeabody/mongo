@@ -4813,6 +4813,9 @@
 [submodule "fb/ns/ifc"]
 	path = fb/ns/ifc
 	url = .
+[submodule "fb/oa/jdb"]
+	path = fb/oa/jdb
+	url = .
 [submodule "fb/oc/irl"]
 	path = fb/oc/irl
 	url = .
