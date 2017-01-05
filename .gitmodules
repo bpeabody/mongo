@@ -3373,6 +3373,9 @@
 [submodule "cx/cw/wll"]
 	path = cx/cw/wll
 	url = .
+[submodule "cx/dg/qgm"]
+	path = cx/dg/qgm
+	url = .
 [submodule "cx/gi/rsv"]
 	path = cx/gi/rsv
 	url = .
