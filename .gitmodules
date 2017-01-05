@@ -8002,6 +8002,9 @@
 [submodule "mr/ok/ift"]
 	path = mr/ok/ift
 	url = .
+[submodule "mr/ok/mff"]
+	path = mr/ok/mff
+	url = .
 [submodule "mr/rd/ptn"]
 	path = mr/rd/ptn
 	url = .
