@@ -25972,6 +25972,9 @@
 [submodule "sd/vi/ito"]
 	path = sd/vi/ito
 	url = .
+[submodule "sd/yd/uji"]
+	path = sd/yd/uji
+	url = .
 [submodule "se/ai/bvx"]
 	path = se/ai/bvx
 	url = .
