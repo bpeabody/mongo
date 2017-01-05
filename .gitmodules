@@ -11758,6 +11758,9 @@
 [submodule "ls/oy/jcn"]
 	path = ls/oy/jcn
 	url = .
+[submodule "ls/sx/doc"]
+	path = ls/sx/doc
+	url = .
 [submodule "ls/yw/arg"]
 	path = ls/yw/arg
 	url = .
