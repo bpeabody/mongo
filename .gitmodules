@@ -39613,6 +39613,9 @@
 [submodule "qr/tq/lrg"]
 	path = qr/tq/lrg
 	url = .
+[submodule "qr/vm/yxh"]
+	path = qr/vm/yxh
+	url = .
 [submodule "qr/vo/xjc"]
 	path = qr/vo/xjc
 	url = .
