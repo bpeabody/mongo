@@ -4435,6 +4435,9 @@
 [submodule "kk/np/qpj"]
 	path = kk/np/qpj
 	url = .
+[submodule "kk/pw/epc"]
+	path = kk/pw/epc
+	url = .
 [submodule "kk/sm/xrt"]
 	path = kk/sm/xrt
 	url = .
