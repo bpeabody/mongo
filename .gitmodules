@@ -295,6 +295,9 @@
 [submodule "tl/ru/ggg"]
 	path = tl/ru/ggg
 	url = .
+[submodule "tq/lg/kin"]
+	path = tq/lg/kin
+	url = .
 [submodule "tq/sc/noa"]
 	path = tq/sc/noa
 	url = .
