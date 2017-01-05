@@ -7819,6 +7819,9 @@
 [submodule "zc/lr/fyd"]
 	path = zc/lr/fyd
 	url = .
+[submodule "zc/qn/wyk"]
+	path = zc/qn/wyk
+	url = .
 [submodule "zc/zy/tqo"]
 	path = zc/zy/tqo
 	url = .
