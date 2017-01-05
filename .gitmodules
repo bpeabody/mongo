@@ -73657,6 +73657,9 @@
 [submodule "ys/lj/jcl"]
 	path = ys/lj/jcl
 	url = .
+[submodule "ys/lq/boq"]
+	path = ys/lq/boq
+	url = .
 [submodule "ys/mf/akq"]
 	path = ys/mf/akq
 	url = .
