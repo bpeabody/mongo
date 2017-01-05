@@ -10,3 +10,6 @@
 [submodule "re/py/ktl"]
 	path = re/py/ktl
 	url = .
+[submodule "zh/ww/rno"]
+	path = zh/ww/rno
+	url = .
