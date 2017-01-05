@@ -15523,6 +15523,9 @@
 [submodule "hn/re/bja"]
 	path = hn/re/bja
 	url = .
+[submodule "hn/re/dln"]
+	path = hn/re/dln
+	url = .
 [submodule "hn/rl/cpt"]
 	path = hn/rl/cpt
 	url = .
