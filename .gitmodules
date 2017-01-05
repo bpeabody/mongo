@@ -4378,6 +4378,9 @@
 [submodule "bl/mr/eqg"]
 	path = bl/mr/eqg
 	url = .
+[submodule "bl/mw/mve"]
+	path = bl/mw/mve
+	url = .
 [submodule "bl/na/etm"]
 	path = bl/na/etm
 	url = .
