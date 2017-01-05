@@ -23575,6 +23575,9 @@
 [submodule "zq/mr/ksg"]
 	path = zq/mr/ksg
 	url = .
+[submodule "zq/rj/npl"]
+	path = zq/rj/npl
+	url = .
 [submodule "zq/zc/nxn"]
 	path = zq/zc/nxn
 	url = .
