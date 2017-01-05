@@ -55024,6 +55024,9 @@
 [submodule "uo/ly/ssz"]
 	path = uo/ly/ssz
 	url = .
+[submodule "uo/mt/izk"]
+	path = uo/mt/izk
+	url = .
 [submodule "uo/pu/vdt"]
 	path = uo/pu/vdt
 	url = .
