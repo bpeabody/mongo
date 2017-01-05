@@ -7411,6 +7411,9 @@
 [submodule "gx/ts/jyl"]
 	path = gx/ts/jyl
 	url = .
+[submodule "gx/uw/iki"]
+	path = gx/uw/iki
+	url = .
 [submodule "gx/vw/usw"]
 	path = gx/vw/usw
 	url = .
