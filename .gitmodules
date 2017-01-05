@@ -4423,6 +4423,9 @@
 [submodule "de/nz/nqg"]
 	path = de/nz/nqg
 	url = .
+[submodule "de/pc/aac"]
+	path = de/pc/aac
+	url = .
 [submodule "de/vq/fyo"]
 	path = de/vq/fyo
 	url = .
