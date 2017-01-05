@@ -922,6 +922,9 @@
 [submodule "au/hq/wjj"]
 	path = au/hq/wjj
 	url = .
+[submodule "au/jh/ghk"]
+	path = au/jh/ghk
+	url = .
 [submodule "au/om/hap"]
 	path = au/om/hap
 	url = .
