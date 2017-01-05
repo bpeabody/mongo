@@ -7414,6 +7414,9 @@
 [submodule "ki/dw/aje"]
 	path = ki/dw/aje
 	url = .
+[submodule "ki/fo/ttu"]
+	path = ki/fo/ttu
+	url = .
 [submodule "ki/hx/keg"]
 	path = ki/hx/keg
 	url = .
