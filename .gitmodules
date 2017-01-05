@@ -11821,6 +11821,9 @@
 [submodule "hm/di/xtt"]
 	path = hm/di/xtt
 	url = .
+[submodule "hm/em/toy"]
+	path = hm/em/toy
+	url = .
 [submodule "hm/fw/zkp"]
 	path = hm/fw/zkp
 	url = .
