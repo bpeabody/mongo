@@ -6829,6 +6829,9 @@
 [submodule "jf/so/ujm"]
 	path = jf/so/ujm
 	url = .
+[submodule "jf/sr/pqu"]
+	path = jf/sr/pqu
+	url = .
 [submodule "jf/vd/kkc"]
 	path = jf/vd/kkc
 	url = .
