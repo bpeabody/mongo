@@ -23680,6 +23680,9 @@
 [submodule "po/no/blq"]
 	path = po/no/blq
 	url = .
+[submodule "po/ol/epw"]
+	path = po/ol/epw
+	url = .
 [submodule "po/pk/bfp"]
 	path = po/pk/bfp
 	url = .
