@@ -21298,6 +21298,9 @@
 [submodule "mp/al/uit"]
 	path = mp/al/uit
 	url = .
+[submodule "mp/au/kts"]
+	path = mp/au/kts
+	url = .
 [submodule "mp/eo/vxk"]
 	path = mp/eo/vxk
 	url = .
