@@ -17680,6 +17680,9 @@
 [submodule "ha/vc/gqh"]
 	path = ha/vc/gqh
 	url = .
+[submodule "ha/vs/nwt"]
+	path = ha/vs/nwt
+	url = .
 [submodule "ha/wg/fje"]
 	path = ha/wg/fje
 	url = .
