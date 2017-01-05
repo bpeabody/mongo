@@ -43135,6 +43135,9 @@
 [submodule "qr/go/lpw"]
 	path = qr/go/lpw
 	url = .
+[submodule "qr/ja/afx"]
+	path = qr/ja/afx
+	url = .
 [submodule "qr/ke/mtu"]
 	path = qr/ke/mtu
 	url = .
