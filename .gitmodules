@@ -24193,6 +24193,9 @@
 [submodule "kb/au/prl"]
 	path = kb/au/prl
 	url = .
+[submodule "kb/bq/dwy"]
+	path = kb/bq/dwy
+	url = .
 [submodule "kb/cs/zad"]
 	path = kb/cs/zad
 	url = .
