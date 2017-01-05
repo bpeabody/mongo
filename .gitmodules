@@ -19849,6 +19849,9 @@
 [submodule "qt/ob/den"]
 	path = qt/ob/den
 	url = .
+[submodule "qt/oq/erq"]
+	path = qt/oq/erq
+	url = .
 [submodule "qt/sh/zuf"]
 	path = qt/sh/zuf
 	url = .
