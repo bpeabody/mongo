@@ -38032,6 +38032,9 @@
 [submodule "mn/nu/ioi"]
 	path = mn/nu/ioi
 	url = .
+[submodule "mn/ny/lkx"]
+	path = mn/ny/lkx
+	url = .
 [submodule "mn/qg/erb"]
 	path = mn/qg/erb
 	url = .
