@@ -1906,6 +1906,9 @@
 [submodule "dp/pz/qjf"]
 	path = dp/pz/qjf
 	url = .
+[submodule "dp/qh/naf"]
+	path = dp/qh/naf
+	url = .
 [submodule "dp/se/teo"]
 	path = dp/se/teo
 	url = .
