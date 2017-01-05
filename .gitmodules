@@ -22870,6 +22870,9 @@
 [submodule "mk/dy/gif"]
 	path = mk/dy/gif
 	url = .
+[submodule "mk/fi/nul"]
+	path = mk/fi/nul
+	url = .
 [submodule "mk/gi/any"]
 	path = mk/gi/any
 	url = .
