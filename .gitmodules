@@ -13441,6 +13441,9 @@
 [submodule "il/ob/uta"]
 	path = il/ob/uta
 	url = .
+[submodule "il/ql/qre"]
+	path = il/ql/qre
+	url = .
 [submodule "il/qm/vvc"]
 	path = il/qm/vvc
 	url = .
