@@ -1681,6 +1681,9 @@
 [submodule "da/lj/vbj"]
 	path = da/lj/vbj
 	url = .
+[submodule "da/ls/fur"]
+	path = da/ls/fur
+	url = .
 [submodule "da/os/aml"]
 	path = da/os/aml
 	url = .
