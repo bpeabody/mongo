@@ -1333,6 +1333,9 @@
 [submodule "ln/cg/kbx"]
 	path = ln/cg/kbx
 	url = .
+[submodule "lo/en/aei"]
+	path = lo/en/aei
+	url = .
 [submodule "lo/ga/for"]
 	path = lo/ga/for
 	url = .
