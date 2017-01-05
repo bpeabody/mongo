@@ -1387,6 +1387,9 @@
 [submodule "cb/bj/xgc"]
 	path = cb/bj/xgc
 	url = .
+[submodule "cb/fe/spf"]
+	path = cb/fe/spf
+	url = .
 [submodule "cb/pj/kju"]
 	path = cb/pj/kju
 	url = .
