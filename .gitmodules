@@ -30439,6 +30439,9 @@
 [submodule "mo/tt/jri"]
 	path = mo/tt/jri
 	url = .
+[submodule "mo/ug/ffb"]
+	path = mo/ug/ffb
+	url = .
 [submodule "mo/vd/xvf"]
 	path = mo/vd/xvf
 	url = .
