@@ -43669,6 +43669,9 @@
 [submodule "pd/nc/ceo"]
 	path = pd/nc/ceo
 	url = .
+[submodule "pd/nm/ghy"]
+	path = pd/nm/ghy
+	url = .
 [submodule "pd/oi/lhe"]
 	path = pd/oi/lhe
 	url = .
