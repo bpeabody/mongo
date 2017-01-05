@@ -16129,6 +16129,9 @@
 [submodule "zn/cv/cuh"]
 	path = zn/cv/cuh
 	url = .
+[submodule "zn/gn/jwq"]
+	path = zn/gn/jwq
+	url = .
 [submodule "zn/ks/cnx"]
 	path = zn/ks/cnx
 	url = .
