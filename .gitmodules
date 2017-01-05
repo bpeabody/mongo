@@ -11827,6 +11827,9 @@
 [submodule "eo/qr/rzf"]
 	path = eo/qr/rzf
 	url = .
+[submodule "eo/sb/fvw"]
+	path = eo/sb/fvw
+	url = .
 [submodule "eo/vu/ubt"]
 	path = eo/vu/ubt
 	url = .
