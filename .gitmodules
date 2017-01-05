@@ -118,6 +118,9 @@
 [submodule "rr/or/vhq"]
 	path = rr/or/vhq
 	url = .
+[submodule "se/qx/wac"]
+	path = se/qx/wac
+	url = .
 [submodule "sp/yj/tlr"]
 	path = sp/yj/tlr
 	url = .
