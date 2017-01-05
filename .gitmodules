@@ -9331,6 +9331,9 @@
 [submodule "hv/nc/loh"]
 	path = hv/nc/loh
 	url = .
+[submodule "hv/pj/ojy"]
+	path = hv/pj/ojy
+	url = .
 [submodule "hv/pz/drj"]
 	path = hv/pz/drj
 	url = .
