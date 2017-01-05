@@ -50947,6 +50947,9 @@
 [submodule "ym/rq/fnd"]
 	path = ym/rq/fnd
 	url = .
+[submodule "ym/sh/ucp"]
+	path = ym/sh/ucp
+	url = .
 [submodule "ym/to/aik"]
 	path = ym/to/aik
 	url = .
