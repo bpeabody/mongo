@@ -10228,6 +10228,9 @@
 [submodule "fs/ec/vbq"]
 	path = fs/ec/vbq
 	url = .
+[submodule "fs/er/iju"]
+	path = fs/er/iju
+	url = .
 [submodule "fs/ey/pks"]
 	path = fs/ey/pks
 	url = .
