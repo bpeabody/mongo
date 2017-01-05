@@ -14893,6 +14893,9 @@
 [submodule "ff/es/txz"]
 	path = ff/es/txz
 	url = .
+[submodule "ff/hu/euq"]
+	path = ff/hu/euq
+	url = .
 [submodule "ff/io/uvq"]
 	path = ff/io/uvq
 	url = .
