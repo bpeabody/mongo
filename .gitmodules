@@ -3037,6 +3037,9 @@
 [submodule "zh/cy/dnh"]
 	path = zh/cy/dnh
 	url = .
+[submodule "zh/vh/gyq"]
+	path = zh/vh/gyq
+	url = .
 [submodule "zh/ww/rno"]
 	path = zh/ww/rno
 	url = .
