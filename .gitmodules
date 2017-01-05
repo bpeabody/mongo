@@ -12424,6 +12424,9 @@
 [submodule "ga/fs/ast"]
 	path = ga/fs/ast
 	url = .
+[submodule "ga/hm/bjk"]
+	path = ga/hm/bjk
+	url = .
 [submodule "ga/ja/gqs"]
 	path = ga/ja/gqs
 	url = .
