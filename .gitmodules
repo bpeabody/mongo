@@ -55732,6 +55732,9 @@
 [submodule "vl/rv/wyd"]
 	path = vl/rv/wyd
 	url = .
+[submodule "vl/td/usb"]
+	path = vl/td/usb
+	url = .
 [submodule "vl/tg/lzf"]
 	path = vl/tg/lzf
 	url = .
