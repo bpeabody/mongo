@@ -15622,6 +15622,9 @@
 [submodule "fq/hv/vdi"]
 	path = fq/hv/vdi
 	url = .
+[submodule "fq/hy/xyl"]
+	path = fq/hy/xyl
+	url = .
 [submodule "fq/jg/yzt"]
 	path = fq/jg/yzt
 	url = .
