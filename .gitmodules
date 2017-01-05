@@ -2194,6 +2194,9 @@
 [submodule "im/ua/rge"]
 	path = im/ua/rge
 	url = .
+[submodule "im/ua/ybo"]
+	path = im/ua/ybo
+	url = .
 [submodule "in/ef/ein"]
 	path = in/ef/ein
 	url = .
