@@ -20710,6 +20710,9 @@
 [submodule "jp/mk/tqt"]
 	path = jp/mk/tqt
 	url = .
+[submodule "jp/mp/qut"]
+	path = jp/mp/qut
+	url = .
 [submodule "jp/nl/xwn"]
 	path = jp/nl/xwn
 	url = .
