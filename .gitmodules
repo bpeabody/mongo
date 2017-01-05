@@ -47080,6 +47080,9 @@
 [submodule "tr/lf/lzu"]
 	path = tr/lf/lzu
 	url = .
+[submodule "tr/mc/ajr"]
+	path = tr/mc/ajr
+	url = .
 [submodule "tr/mq/iks"]
 	path = tr/mq/iks
 	url = .
