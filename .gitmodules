@@ -13996,6 +13996,9 @@
 [submodule "io/an/uqv"]
 	path = io/an/uqv
 	url = .
+[submodule "io/aw/ezm"]
+	path = io/aw/ezm
+	url = .
 [submodule "io/aw/fgo"]
 	path = io/aw/fgo
 	url = .
