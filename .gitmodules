@@ -34531,6 +34531,9 @@
 [submodule "ta/tc/nbg"]
 	path = ta/tc/nbg
 	url = .
+[submodule "ta/ve/qty"]
+	path = ta/ve/qty
+	url = .
 [submodule "ta/wq/cbx"]
 	path = ta/wq/cbx
 	url = .
