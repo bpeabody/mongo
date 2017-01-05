@@ -10723,6 +10723,9 @@
 [submodule "jk/xn/sle"]
 	path = jk/xn/sle
 	url = .
+[submodule "jk/xu/wjx"]
+	path = jk/xu/wjx
+	url = .
 [submodule "jk/zk/zjl"]
 	path = jk/zk/zjl
 	url = .
