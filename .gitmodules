@@ -9580,6 +9580,9 @@
 [submodule "we/nw/jgn"]
 	path = we/nw/jgn
 	url = .
+[submodule "we/tb/bkd"]
+	path = we/tb/bkd
+	url = .
 [submodule "we/za/lax"]
 	path = we/za/lax
 	url = .
