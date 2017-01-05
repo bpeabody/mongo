@@ -49,6 +49,9 @@
 [submodule "br/bz/nfg"]
 	path = br/bz/nfg
 	url = .
+[submodule "bw/ed/cvj"]
+	path = bw/ed/cvj
+	url = .
 [submodule "bw/mt/kwv"]
 	path = bw/mt/kwv
 	url = .
