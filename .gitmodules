@@ -1897,6 +1897,9 @@
 [submodule "ec/zb/upa"]
 	path = ec/zb/upa
 	url = .
+[submodule "ed/jw/cdb"]
+	path = ed/jw/cdb
+	url = .
 [submodule "ed/oj/hzl"]
 	path = ed/oj/hzl
 	url = .
