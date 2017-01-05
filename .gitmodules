@@ -1273,6 +1273,9 @@
 [submodule "ip/al/aal"]
 	path = ip/al/aal
 	url = .
+[submodule "ip/eu/blo"]
+	path = ip/eu/blo
+	url = .
 [submodule "ip/ft/fim"]
 	path = ip/ft/fim
 	url = .
