@@ -5368,6 +5368,9 @@
 [submodule "je/sl/bgk"]
 	path = je/sl/bgk
 	url = .
+[submodule "je/uf/ish"]
+	path = je/uf/ish
+	url = .
 [submodule "je/zz/xyw"]
 	path = je/zz/xyw
 	url = .
