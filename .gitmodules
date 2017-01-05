@@ -5227,6 +5227,9 @@
 [submodule "cw/ki/zyb"]
 	path = cw/ki/zyb
 	url = .
+[submodule "cw/lg/vvg"]
+	path = cw/lg/vvg
+	url = .
 [submodule "cw/lw/twe"]
 	path = cw/lw/twe
 	url = .
