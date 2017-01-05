@@ -25780,6 +25780,9 @@
 [submodule "ve/xm/wss"]
 	path = ve/xm/wss
 	url = .
+[submodule "ve/xv/gxp"]
+	path = ve/xv/gxp
+	url = .
 [submodule "vf/ac/vgw"]
 	path = vf/ac/vgw
 	url = .
