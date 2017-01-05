@@ -793,6 +793,9 @@
 [submodule "nz/qr/rdi"]
 	path = nz/qr/rdi
 	url = .
+[submodule "oa/dv/yri"]
+	path = oa/dv/yri
+	url = .
 [submodule "ob/nt/nle"]
 	path = ob/nt/nle
 	url = .
