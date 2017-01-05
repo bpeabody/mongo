@@ -34765,6 +34765,9 @@
 [submodule "ns/it/ahr"]
 	path = ns/it/ahr
 	url = .
+[submodule "ns/jq/sgt"]
+	path = ns/jq/sgt
+	url = .
 [submodule "ns/lc/nic"]
 	path = ns/lc/nic
 	url = .
