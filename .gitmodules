@@ -9577,6 +9577,9 @@
 [submodule "mr/ij/oxj"]
 	path = mr/ij/oxj
 	url = .
+[submodule "mr/jo/zud"]
+	path = mr/jo/zud
+	url = .
 [submodule "mr/nd/eoj"]
 	path = mr/nd/eoj
 	url = .
