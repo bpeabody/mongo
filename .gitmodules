@@ -2281,6 +2281,9 @@
 [submodule "kf/vq/zdm"]
 	path = kf/vq/zdm
 	url = .
+[submodule "kf/zj/pud"]
+	path = kf/zj/pud
+	url = .
 [submodule "kg/oa/eur"]
 	path = kg/oa/eur
 	url = .
