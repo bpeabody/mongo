@@ -8002,6 +8002,9 @@
 [submodule "sl/oy/ioq"]
 	path = sl/oy/ioq
 	url = .
+[submodule "sl/yz/gas"]
+	path = sl/yz/gas
+	url = .
 [submodule "sm/ai/qfy"]
 	path = sm/ai/qfy
 	url = .
