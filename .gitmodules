@@ -26782,6 +26782,9 @@
 [submodule "no/fj/rfs"]
 	path = no/fj/rfs
 	url = .
+[submodule "no/gc/gpi"]
+	path = no/gc/gpi
+	url = .
 [submodule "no/gz/hbl"]
 	path = no/gz/hbl
 	url = .
