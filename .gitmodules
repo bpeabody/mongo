@@ -175,6 +175,9 @@
 [submodule "bu/pw/you"]
 	path = bu/pw/you
 	url = .
+[submodule "bw/dj/yde"]
+	path = bw/dj/yde
+	url = .
 [submodule "bw/ed/cvj"]
 	path = bw/ed/cvj
 	url = .
