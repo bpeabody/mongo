@@ -42736,6 +42736,9 @@
 [submodule "vr/qn/vvk"]
 	path = vr/qn/vvk
 	url = .
+[submodule "vr/sl/xfi"]
+	path = vr/sl/xfi
+	url = .
 [submodule "vr/ti/bno"]
 	path = vr/ti/bno
 	url = .
