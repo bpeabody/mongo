@@ -30106,6 +30106,9 @@
 [submodule "vh/jt/sup"]
 	path = vh/jt/sup
 	url = .
+[submodule "vh/la/exq"]
+	path = vh/la/exq
+	url = .
 [submodule "vh/ns/cqg"]
 	path = vh/ns/cqg
 	url = .
