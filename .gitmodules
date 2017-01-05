@@ -8614,6 +8614,9 @@
 [submodule "mn/ni/uvh"]
 	path = mn/ni/uvh
 	url = .
+[submodule "mn/qg/erb"]
+	path = mn/qg/erb
+	url = .
 [submodule "mn/ua/pgv"]
 	path = mn/ua/pgv
 	url = .
