@@ -7750,6 +7750,9 @@
 [submodule "dc/tp/snc"]
 	path = dc/tp/snc
 	url = .
+[submodule "dc/ty/gek"]
+	path = dc/ty/gek
+	url = .
 [submodule "dc/ve/xmt"]
 	path = dc/ve/xmt
 	url = .
