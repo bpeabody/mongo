@@ -8599,6 +8599,9 @@
 [submodule "yy/kj/zws"]
 	path = yy/kj/zws
 	url = .
+[submodule "yy/mr/blk"]
+	path = yy/mr/blk
+	url = .
 [submodule "yy/rl/glp"]
 	path = yy/rl/glp
 	url = .
