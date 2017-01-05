@@ -22051,6 +22051,9 @@
 [submodule "yk/tw/jtz"]
 	path = yk/tw/jtz
 	url = .
+[submodule "yk/uo/qyp"]
+	path = yk/uo/qyp
+	url = .
 [submodule "yk/vm/ezb"]
 	path = yk/vm/ezb
 	url = .
