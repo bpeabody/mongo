@@ -29947,6 +29947,9 @@
 [submodule "ls/mc/huk"]
 	path = ls/mc/huk
 	url = .
+[submodule "ls/mg/nve"]
+	path = ls/mg/nve
+	url = .
 [submodule "ls/mh/brm"]
 	path = ls/mh/brm
 	url = .
