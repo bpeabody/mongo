@@ -22759,6 +22759,9 @@
 [submodule "ik/sd/mny"]
 	path = ik/sd/mny
 	url = .
+[submodule "ik/sx/ljn"]
+	path = ik/sx/ljn
+	url = .
 [submodule "ik/te/jxt"]
 	path = ik/te/jxt
 	url = .
