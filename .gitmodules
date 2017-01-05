@@ -7819,6 +7819,9 @@
 [submodule "wv/mc/wlc"]
 	path = wv/mc/wlc
 	url = .
+[submodule "wv/pj/vre"]
+	path = wv/pj/vre
+	url = .
 [submodule "wv/qa/ppa"]
 	path = wv/qa/ppa
 	url = .
