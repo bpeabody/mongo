@@ -5602,6 +5602,9 @@
 [submodule "jd/ka/gwg"]
 	path = jd/ka/gwg
 	url = .
+[submodule "jd/lt/cjf"]
+	path = jd/lt/cjf
+	url = .
 [submodule "jd/so/sbc"]
 	path = jd/so/sbc
 	url = .
