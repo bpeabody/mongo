@@ -16750,6 +16750,9 @@
 [submodule "jt/hb/gsk"]
 	path = jt/hb/gsk
 	url = .
+[submodule "jt/ic/yor"]
+	path = jt/ic/yor
+	url = .
 [submodule "jt/kv/bgj"]
 	path = jt/kv/bgj
 	url = .
