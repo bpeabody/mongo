@@ -19114,6 +19114,9 @@
 [submodule "nk/rx/hir"]
 	path = nk/rx/hir
 	url = .
+[submodule "nk/tc/bch"]
+	path = nk/tc/bch
+	url = .
 [submodule "nk/ua/cmg"]
 	path = nk/ua/cmg
 	url = .
