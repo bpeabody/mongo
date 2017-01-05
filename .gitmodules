@@ -19633,6 +19633,9 @@
 [submodule "nt/af/xbw"]
 	path = nt/af/xbw
 	url = .
+[submodule "nt/ar/jdd"]
+	path = nt/ar/jdd
+	url = .
 [submodule "nt/av/adj"]
 	path = nt/av/adj
 	url = .
