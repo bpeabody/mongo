@@ -2785,6 +2785,9 @@
 [submodule "kj/av/tmg"]
 	path = kj/av/tmg
 	url = .
+[submodule "kj/ov/ikj"]
+	path = kj/ov/ikj
+	url = .
 [submodule "kk/np/qpj"]
 	path = kk/np/qpj
 	url = .
