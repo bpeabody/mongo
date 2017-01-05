@@ -44860,6 +44860,9 @@
 [submodule "th/vo/thh"]
 	path = th/vo/thh
 	url = .
+[submodule "th/vq/hwa"]
+	path = th/vq/hwa
+	url = .
 [submodule "th/wb/ibe"]
 	path = th/wb/ibe
 	url = .
