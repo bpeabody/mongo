@@ -214,6 +214,9 @@
 [submodule "ae/th/rjo"]
 	path = ae/th/rjo
 	url = .
+[submodule "ae/ue/cic"]
+	path = ae/ue/cic
+	url = .
 [submodule "ae/xf/pup"]
 	path = ae/xf/pup
 	url = .
