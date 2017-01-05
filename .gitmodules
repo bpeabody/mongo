@@ -34360,6 +34360,9 @@
 [submodule "te/rf/uoo"]
 	path = te/rf/uoo
 	url = .
+[submodule "te/ua/rej"]
+	path = te/ua/rej
+	url = .
 [submodule "te/um/nde"]
 	path = te/um/nde
 	url = .
