@@ -41977,6 +41977,9 @@
 [submodule "ut/tq/dzr"]
 	path = ut/tq/dzr
 	url = .
+[submodule "ut/uh/mno"]
+	path = ut/uh/mno
+	url = .
 [submodule "ut/wf/urp"]
 	path = ut/wf/urp
 	url = .
