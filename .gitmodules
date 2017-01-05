@@ -48244,6 +48244,9 @@
 [submodule "vh/dj/bah"]
 	path = vh/dj/bah
 	url = .
+[submodule "vh/el/osa"]
+	path = vh/el/osa
+	url = .
 [submodule "vh/gk/avn"]
 	path = vh/gk/avn
 	url = .
