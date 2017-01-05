@@ -29950,6 +29950,9 @@
 [submodule "oe/os/adq"]
 	path = oe/os/adq
 	url = .
+[submodule "oe/os/rqs"]
+	path = oe/os/rqs
+	url = .
 [submodule "oe/pk/tub"]
 	path = oe/pk/tub
 	url = .
