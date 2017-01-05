@@ -8782,6 +8782,9 @@
 [submodule "gg/jd/uma"]
 	path = gg/jd/uma
 	url = .
+[submodule "gg/jw/llw"]
+	path = gg/jw/llw
+	url = .
 [submodule "gg/ko/boe"]
 	path = gg/ko/boe
 	url = .
