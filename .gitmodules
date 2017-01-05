@@ -17677,6 +17677,9 @@
 [submodule "na/sl/ook"]
 	path = na/sl/ook
 	url = .
+[submodule "na/xs/qha"]
+	path = na/xs/qha
+	url = .
 [submodule "nb/ax/gtc"]
 	path = nb/ax/gtc
 	url = .
