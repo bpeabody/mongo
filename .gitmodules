@@ -5416,6 +5416,9 @@
 [submodule "kq/vm/ozg"]
 	path = kq/vm/ozg
 	url = .
+[submodule "kr/bc/cpd"]
+	path = kr/bc/cpd
+	url = .
 [submodule "kr/fs/svx"]
 	path = kr/fs/svx
 	url = .
