@@ -13471,6 +13471,9 @@
 [submodule "ki/gk/uof"]
 	path = ki/gk/uof
 	url = .
+[submodule "ki/hk/sxa"]
+	path = ki/hk/sxa
+	url = .
 [submodule "ki/hx/keg"]
 	path = ki/hx/keg
 	url = .
