@@ -48559,6 +48559,9 @@
 [submodule "sq/iv/skk"]
 	path = sq/iv/skk
 	url = .
+[submodule "sq/ja/qjl"]
+	path = sq/ja/qjl
+	url = .
 [submodule "sq/kq/qxy"]
 	path = sq/kq/qxy
 	url = .
