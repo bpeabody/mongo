@@ -15517,6 +15517,9 @@
 [submodule "hc/pa/tfr"]
 	path = hc/pa/tfr
 	url = .
+[submodule "hc/ru/zrz"]
+	path = hc/ru/zrz
+	url = .
 [submodule "hc/uy/svm"]
 	path = hc/uy/svm
 	url = .
