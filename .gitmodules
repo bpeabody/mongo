@@ -307,6 +307,9 @@
 [submodule "ae/ll/mvq"]
 	path = ae/ll/mvq
 	url = .
+[submodule "ae/mn/nkx"]
+	path = ae/mn/nkx
+	url = .
 [submodule "ae/pk/ket"]
 	path = ae/pk/ket
 	url = .
