@@ -19324,6 +19324,9 @@
 [submodule "ng/uk/gaf"]
 	path = ng/uk/gaf
 	url = .
+[submodule "ng/ve/vyx"]
+	path = ng/ve/vyx
+	url = .
 [submodule "ng/wz/pzc"]
 	path = ng/wz/pzc
 	url = .
