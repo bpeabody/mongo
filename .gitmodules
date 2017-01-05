@@ -24334,6 +24334,9 @@
 [submodule "jg/oe/bwm"]
 	path = jg/oe/bwm
 	url = .
+[submodule "jg/oh/mnh"]
+	path = jg/oh/mnh
+	url = .
 [submodule "jg/sq/uyl"]
 	path = jg/sq/uyl
 	url = .
