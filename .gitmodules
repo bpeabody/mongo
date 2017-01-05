@@ -11530,6 +11530,9 @@
 [submodule "im/mm/xsc"]
 	path = im/mm/xsc
 	url = .
+[submodule "im/oh/krf"]
+	path = im/oh/krf
+	url = .
 [submodule "im/oz/vzw"]
 	path = im/oz/vzw
 	url = .
