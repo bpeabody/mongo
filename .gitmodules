@@ -45055,6 +45055,9 @@
 [submodule "ui/cg/mjs"]
 	path = ui/cg/mjs
 	url = .
+[submodule "ui/cs/qgb"]
+	path = ui/cs/qgb
+	url = .
 [submodule "ui/da/tlg"]
 	path = ui/da/tlg
 	url = .
