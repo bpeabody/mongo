@@ -19156,6 +19156,9 @@
 [submodule "jg/kd/qcx"]
 	path = jg/kd/qcx
 	url = .
+[submodule "jg/kf/ivr"]
+	path = jg/kf/ivr
+	url = .
 [submodule "jg/kp/ikh"]
 	path = jg/kp/ikh
 	url = .
