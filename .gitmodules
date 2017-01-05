@@ -6526,6 +6526,9 @@
 [submodule "cu/yc/lpb"]
 	path = cu/yc/lpb
 	url = .
+[submodule "cu/yd/uqm"]
+	path = cu/yd/uqm
+	url = .
 [submodule "cu/yk/wom"]
 	path = cu/yk/wom
 	url = .
