@@ -2617,6 +2617,9 @@
 [submodule "oj/qr/xsu"]
 	path = oj/qr/xsu
 	url = .
+[submodule "oj/vn/lvc"]
+	path = oj/vn/lvc
+	url = .
 [submodule "oj/xm/wrc"]
 	path = oj/xm/wrc
 	url = .
