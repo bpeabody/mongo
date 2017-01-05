@@ -15562,6 +15562,9 @@
 [submodule "ff/ou/sww"]
 	path = ff/ou/sww
 	url = .
+[submodule "ff/ov/kpa"]
+	path = ff/ov/kpa
+	url = .
 [submodule "ff/pi/ifk"]
 	path = ff/pi/ifk
 	url = .
