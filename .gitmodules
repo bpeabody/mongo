@@ -6325,6 +6325,9 @@
 [submodule "cf/be/uzf"]
 	path = cf/be/uzf
 	url = .
+[submodule "cf/bv/upy"]
+	path = cf/bv/upy
+	url = .
 [submodule "cf/ch/mhg"]
 	path = cf/ch/mhg
 	url = .
