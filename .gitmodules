@@ -21631,6 +21631,9 @@
 [submodule "sx/ak/oxt"]
 	path = sx/ak/oxt
 	url = .
+[submodule "sx/ao/xeu"]
+	path = sx/ao/xeu
+	url = .
 [submodule "sx/bo/ilu"]
 	path = sx/bo/ilu
 	url = .
