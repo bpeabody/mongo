@@ -27760,6 +27760,9 @@
 [submodule "jj/ja/mmy"]
 	path = jj/ja/mmy
 	url = .
+[submodule "jj/lq/uvc"]
+	path = jj/lq/uvc
+	url = .
 [submodule "jj/lu/ngn"]
 	path = jj/lu/ngn
 	url = .
