@@ -2875,6 +2875,9 @@
 [submodule "ih/gd/zwq"]
 	path = ih/gd/zwq
 	url = .
+[submodule "ih/sv/zki"]
+	path = ih/sv/zki
+	url = .
 [submodule "ih/td/llw"]
 	path = ih/td/llw
 	url = .
