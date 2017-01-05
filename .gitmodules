@@ -1456,6 +1456,9 @@
 [submodule "nk/ag/vcr"]
 	path = nk/ag/vcr
 	url = .
+[submodule "nl/dm/sql"]
+	path = nl/dm/sql
+	url = .
 [submodule "nm/fz/iya"]
 	path = nm/fz/iya
 	url = .
