@@ -17605,6 +17605,9 @@
 [submodule "gd/rj/kxb"]
 	path = gd/rj/kxb
 	url = .
+[submodule "gd/ru/mcu"]
+	path = gd/ru/mcu
+	url = .
 [submodule "gd/te/aon"]
 	path = gd/te/aon
 	url = .
