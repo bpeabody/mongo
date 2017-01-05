@@ -3538,6 +3538,9 @@
 [submodule "es/vj/dho"]
 	path = es/vj/dho
 	url = .
+[submodule "es/ys/van"]
+	path = es/ys/van
+	url = .
 [submodule "et/ba/owv"]
 	path = et/ba/owv
 	url = .
