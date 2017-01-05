@@ -2191,6 +2191,9 @@
 [submodule "ci/jb/wmn"]
 	path = ci/jb/wmn
 	url = .
+[submodule "ci/jz/zkh"]
+	path = ci/jz/zkh
+	url = .
 [submodule "ci/ks/kdd"]
 	path = ci/ks/kdd
 	url = .
