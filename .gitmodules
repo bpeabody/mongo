@@ -21838,6 +21838,9 @@
 [submodule "kl/ke/dep"]
 	path = kl/ke/dep
 	url = .
+[submodule "kl/mx/xin"]
+	path = kl/mx/xin
+	url = .
 [submodule "kl/nj/hve"]
 	path = kl/nj/hve
 	url = .
