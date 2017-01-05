@@ -1699,6 +1699,9 @@
 [submodule "kx/nz/rzd"]
 	path = kx/nz/rzd
 	url = .
+[submodule "kx/tw/ydp"]
+	path = kx/tw/ydp
+	url = .
 [submodule "kx/va/hma"]
 	path = kx/va/hma
 	url = .
