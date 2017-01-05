@@ -2956,6 +2956,9 @@
 [submodule "ks/na/uhw"]
 	path = ks/na/uhw
 	url = .
+[submodule "ks/of/xtb"]
+	path = ks/of/xtb
+	url = .
 [submodule "ks/rw/dwj"]
 	path = ks/rw/dwj
 	url = .
