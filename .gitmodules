@@ -23728,6 +23728,9 @@
 [submodule "qd/fc/agz"]
 	path = qd/fc/agz
 	url = .
+[submodule "qd/fk/hne"]
+	path = qd/fk/hne
+	url = .
 [submodule "qd/id/ika"]
 	path = qd/id/ika
 	url = .
