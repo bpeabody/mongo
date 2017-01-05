@@ -49318,6 +49318,9 @@
 [submodule "wn/yp/vns"]
 	path = wn/yp/vns
 	url = .
+[submodule "wn/zd/gez"]
+	path = wn/zd/gez
+	url = .
 [submodule "wo/bc/cpg"]
 	path = wo/bc/cpg
 	url = .
