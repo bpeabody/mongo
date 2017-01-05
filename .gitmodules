@@ -7216,6 +7216,9 @@
 [submodule "cw/dr/vfd"]
 	path = cw/dr/vfd
 	url = .
+[submodule "cw/eq/dqn"]
+	path = cw/eq/dqn
+	url = .
 [submodule "cw/ex/zea"]
 	path = cw/ex/zea
 	url = .
