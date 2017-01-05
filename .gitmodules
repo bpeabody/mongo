@@ -10918,6 +10918,9 @@
 [submodule "em/mw/vqe"]
 	path = em/mw/vqe
 	url = .
+[submodule "em/nl/ffj"]
+	path = em/nl/ffj
+	url = .
 [submodule "em/oy/ecv"]
 	path = em/oy/ecv
 	url = .
