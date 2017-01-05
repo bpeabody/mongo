@@ -3109,6 +3109,9 @@
 [submodule "lf/qn/fai"]
 	path = lf/qn/fai
 	url = .
+[submodule "lf/wo/sdk"]
+	path = lf/wo/sdk
+	url = .
 [submodule "lg/aw/oqg"]
 	path = lg/aw/oqg
 	url = .
