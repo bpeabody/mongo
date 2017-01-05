@@ -2254,6 +2254,9 @@
 [submodule "av/ha/thl"]
 	path = av/ha/thl
 	url = .
+[submodule "av/hr/ios"]
+	path = av/hr/ios
+	url = .
 [submodule "av/if/pyv"]
 	path = av/if/pyv
 	url = .
