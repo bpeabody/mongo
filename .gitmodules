@@ -3649,6 +3649,9 @@
 [submodule "dw/uw/egd"]
 	path = dw/uw/egd
 	url = .
+[submodule "dw/vn/oby"]
+	path = dw/vn/oby
+	url = .
 [submodule "dw/vx/xdf"]
 	path = dw/vx/xdf
 	url = .
