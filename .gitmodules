@@ -2113,6 +2113,9 @@
 [submodule "nv/oo/fed"]
 	path = nv/oo/fed
 	url = .
+[submodule "nw/wq/hse"]
+	path = nw/wq/hse
+	url = .
 [submodule "nx/bs/wir"]
 	path = nx/bs/wir
 	url = .
