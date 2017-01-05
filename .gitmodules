@@ -2464,6 +2464,9 @@
 [submodule "bp/ay/xzk"]
 	path = bp/ay/xzk
 	url = .
+[submodule "bp/ci/gvg"]
+	path = bp/ci/gvg
+	url = .
 [submodule "bp/dy/npi"]
 	path = bp/dy/npi
 	url = .
