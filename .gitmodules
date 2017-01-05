@@ -8746,6 +8746,9 @@
 [submodule "ec/iu/dmm"]
 	path = ec/iu/dmm
 	url = .
+[submodule "ec/jj/enl"]
+	path = ec/jj/enl
+	url = .
 [submodule "ec/kc/ivp"]
 	path = ec/kc/ivp
 	url = .
