@@ -1162,6 +1162,9 @@
 [submodule "ej/si/lya"]
 	path = ej/si/lya
 	url = .
+[submodule "ej/sr/aeb"]
+	path = ej/sr/aeb
+	url = .
 [submodule "ej/ti/sty"]
 	path = ej/ti/sty
 	url = .
