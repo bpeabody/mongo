@@ -11548,6 +11548,9 @@
 [submodule "pt/kt/qkc"]
 	path = pt/kt/qkc
 	url = .
+[submodule "pt/kt/vmu"]
+	path = pt/kt/vmu
+	url = .
 [submodule "pt/lg/pki"]
 	path = pt/lg/pki
 	url = .
