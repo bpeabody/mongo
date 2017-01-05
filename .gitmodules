@@ -20821,6 +20821,9 @@
 [submodule "uk/or/igh"]
 	path = uk/or/igh
 	url = .
+[submodule "uk/pz/ice"]
+	path = uk/pz/ice
+	url = .
 [submodule "uk/rb/lkz"]
 	path = uk/rb/lkz
 	url = .
