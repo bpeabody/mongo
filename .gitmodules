@@ -1,6 +1,9 @@
 [submodule "aa/bb/urc"]
 	path = aa/bb/urc
 	url = .
+[submodule "aa/bn/oza"]
+	path = aa/bn/oza
+	url = .
 [submodule "aa/ch/srm"]
 	path = aa/ch/srm
 	url = .
