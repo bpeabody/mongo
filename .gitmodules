@@ -6457,6 +6457,9 @@
 [submodule "wg/br/fgz"]
 	path = wg/br/fgz
 	url = .
+[submodule "wg/ct/ipr"]
+	path = wg/ct/ipr
+	url = .
 [submodule "wg/fe/vwm"]
 	path = wg/fe/vwm
 	url = .
