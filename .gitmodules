@@ -1903,6 +1903,9 @@
 [submodule "ap/rj/ikk"]
 	path = ap/rj/ikk
 	url = .
+[submodule "ap/rq/qtk"]
+	path = ap/rq/qtk
+	url = .
 [submodule "ap/sh/vni"]
 	path = ap/sh/vni
 	url = .
