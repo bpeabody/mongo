@@ -15694,6 +15694,9 @@
 [submodule "ts/vf/mco"]
 	path = ts/vf/mco
 	url = .
+[submodule "ts/yl/vpz"]
+	path = ts/yl/vpz
+	url = .
 [submodule "tt/ax/hnq"]
 	path = tt/ax/hnq
 	url = .
