@@ -25573,6 +25573,9 @@
 [submodule "lj/ht/jqh"]
 	path = lj/ht/jqh
 	url = .
+[submodule "lj/ji/ckr"]
+	path = lj/ji/ckr
+	url = .
 [submodule "lj/jq/pvn"]
 	path = lj/jq/pvn
 	url = .
