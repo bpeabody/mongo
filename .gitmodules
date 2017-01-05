@@ -43,6 +43,9 @@
 [submodule "aa/xu/bcq"]
 	path = aa/xu/bcq
 	url = .
+[submodule "ab/ax/bbi"]
+	path = ab/ax/bbi
+	url = .
 [submodule "ab/bj/cto"]
 	path = ab/bj/cto
 	url = .
