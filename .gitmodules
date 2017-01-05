@@ -5062,6 +5062,9 @@
 [submodule "gp/fb/vdy"]
 	path = gp/fb/vdy
 	url = .
+[submodule "gp/gy/tbl"]
+	path = gp/gy/tbl
+	url = .
 [submodule "gp/hh/lox"]
 	path = gp/hh/lox
 	url = .
