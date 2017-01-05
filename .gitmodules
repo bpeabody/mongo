@@ -28162,6 +28162,9 @@
 [submodule "nc/fm/pxb"]
 	path = nc/fm/pxb
 	url = .
+[submodule "nc/fu/fps"]
+	path = nc/fu/fps
+	url = .
 [submodule "nc/gd/bgl"]
 	path = nc/gd/bgl
 	url = .
