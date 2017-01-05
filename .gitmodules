@@ -24463,6 +24463,9 @@
 [submodule "yn/pv/djm"]
 	path = yn/pv/djm
 	url = .
+[submodule "yn/qy/vdt"]
+	path = yn/qy/vdt
+	url = .
 [submodule "yn/se/bop"]
 	path = yn/se/bop
 	url = .
