@@ -4402,6 +4402,9 @@
 [submodule "dt/mo/iko"]
 	path = dt/mo/iko
 	url = .
+[submodule "dt/ne/xbd"]
+	path = dt/ne/xbd
+	url = .
 [submodule "dt/qc/bar"]
 	path = dt/qc/bar
 	url = .
