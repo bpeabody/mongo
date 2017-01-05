@@ -53881,6 +53881,9 @@
 [submodule "uw/ty/cnf"]
 	path = uw/ty/cnf
 	url = .
+[submodule "uw/um/jeu"]
+	path = uw/um/jeu
+	url = .
 [submodule "uw/vi/rai"]
 	path = uw/vi/rai
 	url = .
