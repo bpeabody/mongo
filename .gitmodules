@@ -10486,6 +10486,9 @@
 [submodule "kk/gs/uqf"]
 	path = kk/gs/uqf
 	url = .
+[submodule "kk/mm/mhw"]
+	path = kk/mm/mhw
+	url = .
 [submodule "kk/np/qpj"]
 	path = kk/np/qpj
 	url = .
