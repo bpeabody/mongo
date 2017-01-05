@@ -14347,6 +14347,9 @@
 [submodule "zx/hj/nrh"]
 	path = zx/hj/nrh
 	url = .
+[submodule "zx/hu/laf"]
+	path = zx/hu/laf
+	url = .
 [submodule "zx/hy/ydh"]
 	path = zx/hy/ydh
 	url = .
