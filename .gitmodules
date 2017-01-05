@@ -2266,6 +2266,9 @@
 [submodule "bi/gp/nwo"]
 	path = bi/gp/nwo
 	url = .
+[submodule "bi/ho/anx"]
+	path = bi/ho/anx
+	url = .
 [submodule "bi/if/dfn"]
 	path = bi/if/dfn
 	url = .
