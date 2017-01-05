@@ -4288,6 +4288,9 @@
 [submodule "ky/nb/hpc"]
 	path = ky/nb/hpc
 	url = .
+[submodule "ky/xx/cdf"]
+	path = ky/xx/cdf
+	url = .
 [submodule "kz/fe/fbj"]
 	path = kz/fe/fbj
 	url = .
