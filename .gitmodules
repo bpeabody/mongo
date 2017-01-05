@@ -4417,6 +4417,9 @@
 [submodule "nc/qr/jkx"]
 	path = nc/qr/jkx
 	url = .
+[submodule "nc/qz/rnq"]
+	path = nc/qz/rnq
+	url = .
 [submodule "nd/bn/bsv"]
 	path = nd/bn/bsv
 	url = .
