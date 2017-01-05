@@ -1081,6 +1081,9 @@
 [submodule "ck/iy/apw"]
 	path = ck/iy/apw
 	url = .
+[submodule "ck/jn/eia"]
+	path = ck/jn/eia
+	url = .
 [submodule "ck/nx/aqu"]
 	path = ck/nx/aqu
 	url = .
