@@ -172,6 +172,9 @@
 [submodule "fq/kv/gul"]
 	path = fq/kv/gul
 	url = .
+[submodule "fs/lr/yer"]
+	path = fs/lr/yer
+	url = .
 [submodule "fw/vz/wll"]
 	path = fw/vz/wll
 	url = .
