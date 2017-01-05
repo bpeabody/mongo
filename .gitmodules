@@ -1954,6 +1954,9 @@
 [submodule "mv/jm/gqw"]
 	path = mv/jm/gqw
 	url = .
+[submodule "mv/nj/qcw"]
+	path = mv/nj/qcw
+	url = .
 [submodule "mv/qx/utx"]
 	path = mv/qx/utx
 	url = .
