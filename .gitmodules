@@ -5860,6 +5860,9 @@
 [submodule "fg/oq/sei"]
 	path = fg/oq/sei
 	url = .
+[submodule "fg/qc/sxs"]
+	path = fg/qc/sxs
+	url = .
 [submodule "fg/sp/ekg"]
 	path = fg/sp/ekg
 	url = .
