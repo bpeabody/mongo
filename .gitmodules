@@ -17185,6 +17185,9 @@
 [submodule "fu/qk/ccv"]
 	path = fu/qk/ccv
 	url = .
+[submodule "fu/rc/eah"]
+	path = fu/rc/eah
+	url = .
 [submodule "fu/se/joo"]
 	path = fu/se/joo
 	url = .
