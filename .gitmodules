@@ -34261,6 +34261,9 @@
 [submodule "vp/oj/jxw"]
 	path = vp/oj/jxw
 	url = .
+[submodule "vp/qq/jvf"]
+	path = vp/qq/jvf
+	url = .
 [submodule "vp/rd/evm"]
 	path = vp/rd/evm
 	url = .
