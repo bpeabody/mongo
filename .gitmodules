@@ -24853,6 +24853,9 @@
 [submodule "lc/ed/uiu"]
 	path = lc/ed/uiu
 	url = .
+[submodule "lc/eg/dhl"]
+	path = lc/eg/dhl
+	url = .
 [submodule "lc/fy/qip"]
 	path = lc/fy/qip
 	url = .
