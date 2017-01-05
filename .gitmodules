@@ -4339,6 +4339,9 @@
 [submodule "by/ch/wma"]
 	path = by/ch/wma
 	url = .
+[submodule "by/cv/mtl"]
+	path = by/cv/mtl
+	url = .
 [submodule "by/dn/euk"]
 	path = by/dn/euk
 	url = .
