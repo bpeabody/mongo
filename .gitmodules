@@ -10750,6 +10750,9 @@
 [submodule "ib/rw/tta"]
 	path = ib/rw/tta
 	url = .
+[submodule "ib/xw/yrd"]
+	path = ib/xw/yrd
+	url = .
 [submodule "ic/ay/vxm"]
 	path = ic/ay/vxm
 	url = .
