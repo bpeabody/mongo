@@ -3604,6 +3604,9 @@
 [submodule "bx/zy/pgf"]
 	path = bx/zy/pgf
 	url = .
+[submodule "by/ak/ipl"]
+	path = by/ak/ipl
+	url = .
 [submodule "by/bj/bbp"]
 	path = by/bj/bbp
 	url = .
