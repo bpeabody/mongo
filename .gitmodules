@@ -9754,6 +9754,9 @@
 [submodule "eu/rz/frw"]
 	path = eu/rz/frw
 	url = .
+[submodule "eu/se/opb"]
+	path = eu/se/opb
+	url = .
 [submodule "eu/sr/dib"]
 	path = eu/sr/dib
 	url = .
