@@ -439,6 +439,9 @@
 [submodule "xo/ms/pvz"]
 	path = xo/ms/pvz
 	url = .
+[submodule "xo/pv/glv"]
+	path = xo/pv/glv
+	url = .
 [submodule "xz/iq/pth"]
 	path = xz/iq/pth
 	url = .
