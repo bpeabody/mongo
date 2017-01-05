@@ -41740,6 +41740,9 @@
 [submodule "py/dq/xti"]
 	path = py/dq/xti
 	url = .
+[submodule "py/eq/ace"]
+	path = py/eq/ace
+	url = .
 [submodule "py/gb/qec"]
 	path = py/gb/qec
 	url = .
