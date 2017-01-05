@@ -14737,6 +14737,9 @@
 [submodule "gf/fw/qak"]
 	path = gf/fw/qak
 	url = .
+[submodule "gf/hr/ylk"]
+	path = gf/hr/ylk
+	url = .
 [submodule "gf/jm/fef"]
 	path = gf/jm/fef
 	url = .
