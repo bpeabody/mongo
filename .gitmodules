@@ -11545,6 +11545,9 @@
 [submodule "gu/kk/arw"]
 	path = gu/kk/arw
 	url = .
+[submodule "gu/kr/urx"]
+	path = gu/kr/urx
+	url = .
 [submodule "gu/po/fuu"]
 	path = gu/po/fuu
 	url = .
