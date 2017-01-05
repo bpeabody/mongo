@@ -1066,6 +1066,9 @@
 [submodule "ak/tt/dck"]
 	path = ak/tt/dck
 	url = .
+[submodule "ak/uf/mba"]
+	path = ak/uf/mba
+	url = .
 [submodule "ak/va/qrx"]
 	path = ak/va/qrx
 	url = .
