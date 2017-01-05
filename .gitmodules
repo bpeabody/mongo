@@ -1159,6 +1159,9 @@
 [submodule "bl/cd/epv"]
 	path = bl/cd/epv
 	url = .
+[submodule "bl/fb/ckz"]
+	path = bl/fb/ckz
+	url = .
 [submodule "bl/ih/qec"]
 	path = bl/ih/qec
 	url = .
