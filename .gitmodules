@@ -30427,6 +30427,9 @@
 [submodule "mq/dv/zub"]
 	path = mq/dv/zub
 	url = .
+[submodule "mq/fy/ffe"]
+	path = mq/fy/ffe
+	url = .
 [submodule "mq/gi/xhy"]
 	path = mq/gi/xhy
 	url = .
