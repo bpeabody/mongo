@@ -3931,6 +3931,9 @@
 [submodule "db/ud/hro"]
 	path = db/ud/hro
 	url = .
+[submodule "dc/ba/iuz"]
+	path = dc/ba/iuz
+	url = .
 [submodule "dc/du/hru"]
 	path = dc/du/hru
 	url = .
