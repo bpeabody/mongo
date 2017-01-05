@@ -997,6 +997,9 @@
 [submodule "gs/kb/skp"]
 	path = gs/kb/skp
 	url = .
+[submodule "gs/so/qdt"]
+	path = gs/so/qdt
+	url = .
 [submodule "gs/tv/wqq"]
 	path = gs/tv/wqq
 	url = .
