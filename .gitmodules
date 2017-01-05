@@ -24922,6 +24922,9 @@
 [submodule "ir/yv/jbo"]
 	path = ir/yv/jbo
 	url = .
+[submodule "ir/zh/ayt"]
+	path = ir/zh/ayt
+	url = .
 [submodule "ir/zu/xko"]
 	path = ir/zu/xko
 	url = .
