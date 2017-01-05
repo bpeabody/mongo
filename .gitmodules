@@ -15466,6 +15466,9 @@
 [submodule "rv/oe/eix"]
 	path = rv/oe/eix
 	url = .
+[submodule "rv/ou/uje"]
+	path = rv/ou/uje
+	url = .
 [submodule "rv/pv/gal"]
 	path = rv/pv/gal
 	url = .
