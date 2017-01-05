@@ -616,6 +616,9 @@
 [submodule "ds/fb/vmm"]
 	path = ds/fb/vmm
 	url = .
+[submodule "ds/qo/mnn"]
+	path = ds/qo/mnn
+	url = .
 [submodule "du/ef/vte"]
 	path = du/ef/vte
 	url = .
