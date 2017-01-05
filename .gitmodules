@@ -4345,6 +4345,9 @@
 [submodule "cy/gh/hss"]
 	path = cy/gh/hss
 	url = .
+[submodule "cy/ho/vpc"]
+	path = cy/ho/vpc
+	url = .
 [submodule "cy/iy/uhj"]
 	path = cy/iy/uhj
 	url = .
