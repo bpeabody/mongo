@@ -25291,6 +25291,9 @@
 [submodule "nb/kc/qwn"]
 	path = nb/kc/qwn
 	url = .
+[submodule "nb/kk/rnd"]
+	path = nb/kk/rnd
+	url = .
 [submodule "nb/kn/mia"]
 	path = nb/kn/mia
 	url = .
