@@ -7903,6 +7903,9 @@
 [submodule "gd/vl/ivq"]
 	path = gd/vl/ivq
 	url = .
+[submodule "gd/xr/gzg"]
+	path = gd/xr/gzg
+	url = .
 [submodule "gd/xt/vhv"]
 	path = gd/xt/vhv
 	url = .
