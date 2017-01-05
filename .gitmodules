@@ -4039,6 +4039,9 @@
 [submodule "gr/nx/xhu"]
 	path = gr/nx/xhu
 	url = .
+[submodule "gs/ar/suc"]
+	path = gs/ar/suc
+	url = .
 [submodule "gs/ef/jlg"]
 	path = gs/ef/jlg
 	url = .
