@@ -142,6 +142,9 @@
 [submodule "ae/rb/glq"]
 	path = ae/rb/glq
 	url = .
+[submodule "ae/sg/cwg"]
+	path = ae/sg/cwg
+	url = .
 [submodule "ae/sg/pvu"]
 	path = ae/sg/pvu
 	url = .
