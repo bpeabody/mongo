@@ -32521,6 +32521,9 @@
 [submodule "qe/yp/nuc"]
 	path = qe/yp/nuc
 	url = .
+[submodule "qe/zs/gna"]
+	path = qe/zs/gna
+	url = .
 [submodule "qf/aq/kwp"]
 	path = qf/aq/kwp
 	url = .
