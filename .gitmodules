@@ -10561,6 +10561,9 @@
 [submodule "nt/nz/nzb"]
 	path = nt/nz/nzb
 	url = .
+[submodule "nt/vi/cxd"]
+	path = nt/vi/cxd
+	url = .
 [submodule "nt/xe/rix"]
 	path = nt/xe/rix
 	url = .
