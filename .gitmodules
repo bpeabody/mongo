@@ -13111,6 +13111,9 @@
 [submodule "iq/ec/jsz"]
 	path = iq/ec/jsz
 	url = .
+[submodule "iq/es/xjz"]
+	path = iq/es/xjz
+	url = .
 [submodule "iq/fa/wgu"]
 	path = iq/fa/wgu
 	url = .
