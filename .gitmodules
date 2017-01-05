@@ -44725,6 +44725,9 @@
 [submodule "zp/ru/iah"]
 	path = zp/ru/iah
 	url = .
+[submodule "zp/tq/bsc"]
+	path = zp/tq/bsc
+	url = .
 [submodule "zp/ut/pqa"]
 	path = zp/ut/pqa
 	url = .
