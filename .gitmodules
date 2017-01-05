@@ -5041,6 +5041,9 @@
 [submodule "br/gd/aiz"]
 	path = br/gd/aiz
 	url = .
+[submodule "br/hj/tvl"]
+	path = br/hj/tvl
+	url = .
 [submodule "br/hk/gyn"]
 	path = br/hk/gyn
 	url = .
