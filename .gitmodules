@@ -1381,6 +1381,9 @@
 [submodule "ko/ya/rhn"]
 	path = ko/ya/rhn
 	url = .
+[submodule "kp/lh/qlf"]
+	path = kp/lh/qlf
+	url = .
 [submodule "kq/vm/ozg"]
 	path = kq/vm/ozg
 	url = .
