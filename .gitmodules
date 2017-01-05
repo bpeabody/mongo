@@ -37693,6 +37693,9 @@
 [submodule "qw/fo/npl"]
 	path = qw/fo/npl
 	url = .
+[submodule "qw/fz/yuz"]
+	path = qw/fz/yuz
+	url = .
 [submodule "qw/ik/bkv"]
 	path = qw/ik/bkv
 	url = .
