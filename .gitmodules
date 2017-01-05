@@ -23902,6 +23902,9 @@
 [submodule "ku/ep/szj"]
 	path = ku/ep/szj
 	url = .
+[submodule "ku/ff/vkc"]
+	path = ku/ff/vkc
+	url = .
 [submodule "ku/gs/upz"]
 	path = ku/gs/upz
 	url = .
