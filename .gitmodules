@@ -6781,6 +6781,9 @@
 [submodule "ld/gn/umx"]
 	path = ld/gn/umx
 	url = .
+[submodule "ld/rc/eqv"]
+	path = ld/rc/eqv
+	url = .
 [submodule "ld/sb/myr"]
 	path = ld/sb/myr
 	url = .
