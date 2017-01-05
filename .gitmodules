@@ -2707,6 +2707,9 @@
 [submodule "te/cm/vea"]
 	path = te/cm/vea
 	url = .
+[submodule "te/rf/uoo"]
+	path = te/rf/uoo
+	url = .
 [submodule "tf/dm/gyi"]
 	path = tf/dm/gyi
 	url = .
