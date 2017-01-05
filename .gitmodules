@@ -5788,6 +5788,9 @@
 [submodule "dn/sw/tgs"]
 	path = dn/sw/tgs
 	url = .
+[submodule "dn/uq/lix"]
+	path = dn/uq/lix
+	url = .
 [submodule "dn/uz/upp"]
 	path = dn/uz/upp
 	url = .
