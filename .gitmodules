@@ -3607,6 +3607,9 @@
 [submodule "ji/ee/mac"]
 	path = ji/ee/mac
 	url = .
+[submodule "ji/nw/irm"]
+	path = ji/nw/irm
+	url = .
 [submodule "ji/rz/gzo"]
 	path = ji/rz/gzo
 	url = .
