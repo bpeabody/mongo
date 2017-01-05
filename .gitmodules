@@ -7525,6 +7525,9 @@
 [submodule "hw/kf/hmm"]
 	path = hw/kf/hmm
 	url = .
+[submodule "hw/lv/kdu"]
+	path = hw/lv/kdu
+	url = .
 [submodule "hw/pq/rbp"]
 	path = hw/pq/rbp
 	url = .
