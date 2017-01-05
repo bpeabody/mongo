@@ -4786,6 +4786,9 @@
 [submodule "em/zn/lcm"]
 	path = em/zn/lcm
 	url = .
+[submodule "en/ee/usd"]
+	path = en/ee/usd
+	url = .
 [submodule "en/hp/lkg"]
 	path = en/hp/lkg
 	url = .
