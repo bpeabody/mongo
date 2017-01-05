@@ -8566,6 +8566,9 @@
 [submodule "mv/dz/sdg"]
 	path = mv/dz/sdg
 	url = .
+[submodule "mv/gp/ihs"]
+	path = mv/gp/ihs
+	url = .
 [submodule "mv/jm/gqw"]
 	path = mv/jm/gqw
 	url = .
