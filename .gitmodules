@@ -24100,6 +24100,9 @@
 [submodule "ua/ej/jiv"]
 	path = ua/ej/jiv
 	url = .
+[submodule "ua/en/fgo"]
+	path = ua/en/fgo
+	url = .
 [submodule "ua/gi/oac"]
 	path = ua/gi/oac
 	url = .
