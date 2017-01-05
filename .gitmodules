@@ -33136,6 +33136,9 @@
 [submodule "qy/km/ngl"]
 	path = qy/km/ngl
 	url = .
+[submodule "qy/lv/zkt"]
+	path = qy/lv/zkt
+	url = .
 [submodule "qy/lx/sdi"]
 	path = qy/lx/sdi
 	url = .
