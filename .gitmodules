@@ -1771,6 +1771,9 @@
 [submodule "hj/do/ocs"]
 	path = hj/do/ocs
 	url = .
+[submodule "hj/dv/rxa"]
+	path = hj/dv/rxa
+	url = .
 [submodule "hj/iu/lij"]
 	path = hj/iu/lij
 	url = .
