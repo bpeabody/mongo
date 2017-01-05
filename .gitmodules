@@ -3814,6 +3814,9 @@
 [submodule "bs/ja/mtx"]
 	path = bs/ja/mtx
 	url = .
+[submodule "bs/jt/ozw"]
+	path = bs/jt/ozw
+	url = .
 [submodule "bs/me/kmt"]
 	path = bs/me/kmt
 	url = .
