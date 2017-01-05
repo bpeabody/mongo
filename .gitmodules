@@ -58339,6 +58339,9 @@
 [submodule "xh/sl/lsb"]
 	path = xh/sl/lsb
 	url = .
+[submodule "xh/te/mvd"]
+	path = xh/te/mvd
+	url = .
 [submodule "xh/tj/een"]
 	path = xh/tj/een
 	url = .
