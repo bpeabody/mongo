@@ -5071,6 +5071,9 @@
 [submodule "tv/ay/kig"]
 	path = tv/ay/kig
 	url = .
+[submodule "tv/jz/whv"]
+	path = tv/jz/whv
+	url = .
 [submodule "tw/bv/luz"]
 	path = tw/bv/luz
 	url = .
