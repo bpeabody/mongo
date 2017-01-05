@@ -6235,6 +6235,9 @@
 [submodule "ds/gf/ear"]
 	path = ds/gf/ear
 	url = .
+[submodule "ds/gj/lrk"]
+	path = ds/gj/lrk
+	url = .
 [submodule "ds/ii/vcb"]
 	path = ds/ii/vcb
 	url = .
