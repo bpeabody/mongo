@@ -17554,6 +17554,9 @@
 [submodule "np/da/pep"]
 	path = np/da/pep
 	url = .
+[submodule "np/dd/abc"]
+	path = np/dd/abc
+	url = .
 [submodule "np/dq/tke"]
 	path = np/dq/tke
 	url = .
