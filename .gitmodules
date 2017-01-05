@@ -15703,6 +15703,9 @@
 [submodule "tm/dr/qex"]
 	path = tm/dr/qex
 	url = .
+[submodule "tm/ir/rcg"]
+	path = tm/ir/rcg
+	url = .
 [submodule "tm/iv/erg"]
 	path = tm/iv/erg
 	url = .
