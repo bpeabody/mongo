@@ -16528,6 +16528,9 @@
 [submodule "rc/mt/rss"]
 	path = rc/mt/rss
 	url = .
+[submodule "rc/oa/mbt"]
+	path = rc/oa/mbt
+	url = .
 [submodule "rc/rv/exs"]
 	path = rc/rv/exs
 	url = .
