@@ -7456,6 +7456,9 @@
 [submodule "jo/ed/bmh"]
 	path = jo/ed/bmh
 	url = .
+[submodule "jo/ge/afb"]
+	path = jo/ge/afb
+	url = .
 [submodule "jo/ic/xtu"]
 	path = jo/ic/xtu
 	url = .
