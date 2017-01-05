@@ -6616,6 +6616,9 @@
 [submodule "cx/ky/msd"]
 	path = cx/ky/msd
 	url = .
+[submodule "cx/lj/xym"]
+	path = cx/lj/xym
+	url = .
 [submodule "cx/ll/yqi"]
 	path = cx/ll/yqi
 	url = .
