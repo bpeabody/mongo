@@ -38035,6 +38035,9 @@
 [submodule "rv/nn/hms"]
 	path = rv/nn/hms
 	url = .
+[submodule "rv/ny/zqk"]
+	path = rv/ny/zqk
+	url = .
 [submodule "rv/oe/eix"]
 	path = rv/oe/eix
 	url = .
