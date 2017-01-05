@@ -2596,6 +2596,9 @@
 [submodule "bf/di/auy"]
 	path = bf/di/auy
 	url = .
+[submodule "bf/en/jua"]
+	path = bf/en/jua
+	url = .
 [submodule "bf/et/lss"]
 	path = bf/et/lss
 	url = .
