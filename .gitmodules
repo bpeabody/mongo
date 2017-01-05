@@ -832,6 +832,9 @@
 [submodule "qw/kp/jpp"]
 	path = qw/kp/jpp
 	url = .
+[submodule "qx/iv/ewm"]
+	path = qx/iv/ewm
+	url = .
 [submodule "qz/jf/iwg"]
 	path = qz/jf/iwg
 	url = .
