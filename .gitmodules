@@ -4669,6 +4669,9 @@
 [submodule "qj/mh/hnd"]
 	path = qj/mh/hnd
 	url = .
+[submodule "qj/qi/fkk"]
+	path = qj/qi/fkk
+	url = .
 [submodule "qj/sf/nrq"]
 	path = qj/sf/nrq
 	url = .
