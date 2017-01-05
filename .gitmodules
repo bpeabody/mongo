@@ -6790,6 +6790,9 @@
 [submodule "fc/lh/njm"]
 	path = fc/lh/njm
 	url = .
+[submodule "fc/lj/dte"]
+	path = fc/lj/dte
+	url = .
 [submodule "fc/lp/kav"]
 	path = fc/lp/kav
 	url = .
