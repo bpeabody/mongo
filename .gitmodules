@@ -11734,6 +11734,9 @@
 [submodule "er/mk/ppu"]
 	path = er/mk/ppu
 	url = .
+[submodule "er/mx/adc"]
+	path = er/mx/adc
+	url = .
 [submodule "er/nc/zun"]
 	path = er/nc/zun
 	url = .
