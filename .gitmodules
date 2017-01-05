@@ -19081,6 +19081,9 @@
 [submodule "ir/yv/jbo"]
 	path = ir/yv/jbo
 	url = .
+[submodule "ir/zz/ntc"]
+	path = ir/zz/ntc
+	url = .
 [submodule "is/ac/lkn"]
 	path = is/ac/lkn
 	url = .
