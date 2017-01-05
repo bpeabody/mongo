@@ -10513,6 +10513,9 @@
 [submodule "el/oi/naj"]
 	path = el/oi/naj
 	url = .
+[submodule "el/op/fef"]
+	path = el/op/fef
+	url = .
 [submodule "el/os/bku"]
 	path = el/os/bku
 	url = .
