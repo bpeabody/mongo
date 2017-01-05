@@ -1426,6 +1426,9 @@
 [submodule "ez/tk/eit"]
 	path = ez/tk/eit
 	url = .
+[submodule "fa/ct/afm"]
+	path = fa/ct/afm
+	url = .
 [submodule "fa/gm/euf"]
 	path = fa/gm/euf
 	url = .
