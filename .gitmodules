@@ -13774,6 +13774,9 @@
 [submodule "kj/bc/bhk"]
 	path = kj/bc/bhk
 	url = .
+[submodule "kj/du/kaz"]
+	path = kj/du/kaz
+	url = .
 [submodule "kj/mq/odj"]
 	path = kj/mq/odj
 	url = .
