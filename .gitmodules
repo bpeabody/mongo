@@ -4693,6 +4693,9 @@
 [submodule "ja/en/juj"]
 	path = ja/en/juj
 	url = .
+[submodule "ja/ff/gil"]
+	path = ja/ff/gil
+	url = .
 [submodule "ja/fk/gbl"]
 	path = ja/fk/gbl
 	url = .
