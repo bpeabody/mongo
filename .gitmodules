@@ -29137,6 +29137,9 @@
 [submodule "no/rs/krw"]
 	path = no/rs/krw
 	url = .
+[submodule "no/ss/jty"]
+	path = no/ss/jty
+	url = .
 [submodule "no/vn/zmv"]
 	path = no/vn/zmv
 	url = .
