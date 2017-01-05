@@ -9373,6 +9373,9 @@
 [submodule "ev/kz/gct"]
 	path = ev/kz/gct
 	url = .
+[submodule "ev/lx/oal"]
+	path = ev/lx/oal
+	url = .
 [submodule "ev/mz/mas"]
 	path = ev/mz/mas
 	url = .
