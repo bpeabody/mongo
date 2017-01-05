@@ -952,6 +952,9 @@
 [submodule "fy/de/duj"]
 	path = fy/de/duj
 	url = .
+[submodule "fy/uv/oma"]
+	path = fy/uv/oma
+	url = .
 [submodule "fz/lf/ubw"]
 	path = fz/lf/ubw
 	url = .
