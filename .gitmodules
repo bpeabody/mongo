@@ -10852,6 +10852,9 @@
 [submodule "wf/pe/aww"]
 	path = wf/pe/aww
 	url = .
+[submodule "wf/ql/nxd"]
+	path = wf/ql/nxd
+	url = .
 [submodule "wf/ri/cxa"]
 	path = wf/ri/cxa
 	url = .
