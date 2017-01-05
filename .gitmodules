@@ -31531,6 +31531,9 @@
 [submodule "nf/ya/qmo"]
 	path = nf/ya/qmo
 	url = .
+[submodule "nf/zk/ddy"]
+	path = nf/zk/ddy
+	url = .
 [submodule "nf/zn/ttw"]
 	path = nf/zn/ttw
 	url = .
