@@ -10411,6 +10411,9 @@
 [submodule "kr/bt/arm"]
 	path = kr/bt/arm
 	url = .
+[submodule "kr/cx/qjg"]
+	path = kr/cx/qjg
+	url = .
 [submodule "kr/fs/svx"]
 	path = kr/fs/svx
 	url = .
