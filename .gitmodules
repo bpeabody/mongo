@@ -34096,6 +34096,9 @@
 [submodule "tt/rj/yjf"]
 	path = tt/rj/yjf
 	url = .
+[submodule "tt/rm/pls"]
+	path = tt/rm/pls
+	url = .
 [submodule "tt/sg/lpj"]
 	path = tt/sg/lpj
 	url = .
