@@ -39976,6 +39976,9 @@
 [submodule "ro/gl/cwo"]
 	path = ro/gl/cwo
 	url = .
+[submodule "ro/gv/osi"]
+	path = ro/gv/osi
+	url = .
 [submodule "ro/hu/jqs"]
 	path = ro/hu/jqs
 	url = .
