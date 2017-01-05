@@ -33655,6 +33655,9 @@
 [submodule "tk/sn/ppn"]
 	path = tk/sn/ppn
 	url = .
+[submodule "tk/sx/jnu"]
+	path = tk/sx/jnu
+	url = .
 [submodule "tk/tb/gej"]
 	path = tk/tb/gej
 	url = .
