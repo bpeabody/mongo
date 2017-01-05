@@ -883,6 +883,9 @@
 [submodule "hj/bo/xyv"]
 	path = hj/bo/xyv
 	url = .
+[submodule "hj/do/ocs"]
+	path = hj/do/ocs
+	url = .
 [submodule "hj/iu/lij"]
 	path = hj/iu/lij
 	url = .
