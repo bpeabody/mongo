@@ -2764,6 +2764,9 @@
 [submodule "ch/mq/sja"]
 	path = ch/mq/sja
 	url = .
+[submodule "ch/od/bgr"]
+	path = ch/od/bgr
+	url = .
 [submodule "ch/or/wtp"]
 	path = ch/or/wtp
 	url = .
