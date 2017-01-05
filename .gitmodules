@@ -22537,6 +22537,9 @@
 [submodule "jp/lu/lgf"]
 	path = jp/lu/lgf
 	url = .
+[submodule "jp/lu/rpx"]
+	path = jp/lu/rpx
+	url = .
 [submodule "jp/mk/tqt"]
 	path = jp/mk/tqt
 	url = .
