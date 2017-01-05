@@ -241,6 +241,9 @@
 [submodule "cy/yz/gcj"]
 	path = cy/yz/gcj
 	url = .
+[submodule "cz/dy/dmv"]
+	path = cz/dy/dmv
+	url = .
 [submodule "db/aw/yos"]
 	path = db/aw/yos
 	url = .
