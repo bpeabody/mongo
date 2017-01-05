@@ -265,6 +265,9 @@
 [submodule "am/vc/wkc"]
 	path = am/vc/wkc
 	url = .
+[submodule "am/xu/dwy"]
+	path = am/xu/dwy
+	url = .
 [submodule "an/cr/fax"]
 	path = an/cr/fax
 	url = .
