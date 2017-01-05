@@ -1210,6 +1210,9 @@
 [submodule "fr/wm/acz"]
 	path = fr/wm/acz
 	url = .
+[submodule "fs/ai/hln"]
+	path = fs/ai/hln
+	url = .
 [submodule "fs/bj/zmw"]
 	path = fs/bj/zmw
 	url = .
