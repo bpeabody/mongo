@@ -34228,6 +34228,9 @@
 [submodule "rj/ro/ndc"]
 	path = rj/ro/ndc
 	url = .
+[submodule "rj/tz/qhl"]
+	path = rj/tz/qhl
+	url = .
 [submodule "rj/ul/ifu"]
 	path = rj/ul/ifu
 	url = .
