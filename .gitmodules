@@ -20410,6 +20410,9 @@
 [submodule "hm/bd/yoi"]
 	path = hm/bd/yoi
 	url = .
+[submodule "hm/bs/rgb"]
+	path = hm/bs/rgb
+	url = .
 [submodule "hm/cp/izh"]
 	path = hm/cp/izh
 	url = .
