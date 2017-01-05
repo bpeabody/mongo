@@ -55279,6 +55279,9 @@
 [submodule "yh/ci/kjo"]
 	path = yh/ci/kjo
 	url = .
+[submodule "yh/ec/sqf"]
+	path = yh/ec/sqf
+	url = .
 [submodule "yh/eg/idj"]
 	path = yh/eg/idj
 	url = .
