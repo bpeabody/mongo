@@ -10597,6 +10597,9 @@
 [submodule "js/uq/xag"]
 	path = js/uq/xag
 	url = .
+[submodule "js/vt/zxr"]
+	path = js/vt/zxr
+	url = .
 [submodule "js/vx/sft"]
 	path = js/vx/sft
 	url = .
