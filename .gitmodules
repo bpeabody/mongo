@@ -25672,6 +25672,9 @@
 [submodule "wt/dw/lbs"]
 	path = wt/dw/lbs
 	url = .
+[submodule "wt/hf/kaj"]
+	path = wt/hf/kaj
+	url = .
 [submodule "wt/hi/frz"]
 	path = wt/hi/frz
 	url = .
