@@ -9103,6 +9103,9 @@
 [submodule "dg/xp/ikm"]
 	path = dg/xp/ikm
 	url = .
+[submodule "dg/xq/plg"]
+	path = dg/xq/plg
+	url = .
 [submodule "dg/xt/gdd"]
 	path = dg/xt/gdd
 	url = .
