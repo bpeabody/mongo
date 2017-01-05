@@ -26335,6 +26335,9 @@
 [submodule "rd/ip/rjk"]
 	path = rd/ip/rjk
 	url = .
+[submodule "rd/iv/ydi"]
+	path = rd/iv/ydi
+	url = .
 [submodule "rd/jh/iob"]
 	path = rd/jh/iob
 	url = .
