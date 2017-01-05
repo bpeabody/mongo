@@ -6364,6 +6364,9 @@
 [submodule "le/xm/nuv"]
 	path = le/xm/nuv
 	url = .
+[submodule "lf/dk/bsh"]
+	path = lf/dk/bsh
+	url = .
 [submodule "lf/fi/chy"]
 	path = lf/fi/chy
 	url = .
