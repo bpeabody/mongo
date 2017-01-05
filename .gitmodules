@@ -45421,6 +45421,9 @@
 [submodule "si/lq/rif"]
 	path = si/lq/rif
 	url = .
+[submodule "si/lx/vex"]
+	path = si/lx/vex
+	url = .
 [submodule "si/mk/lcx"]
 	path = si/mk/lcx
 	url = .
