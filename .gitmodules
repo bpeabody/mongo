@@ -30361,6 +30361,9 @@
 [submodule "rz/sn/mfp"]
 	path = rz/sn/mfp
 	url = .
+[submodule "rz/st/idc"]
+	path = rz/st/idc
+	url = .
 [submodule "rz/ye/nhh"]
 	path = rz/ye/nhh
 	url = .
