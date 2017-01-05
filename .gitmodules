@@ -37858,6 +37858,9 @@
 [submodule "sn/xa/jxw"]
 	path = sn/xa/jxw
 	url = .
+[submodule "sn/xm/dop"]
+	path = sn/xm/dop
+	url = .
 [submodule "sn/yb/egw"]
 	path = sn/yb/egw
 	url = .
