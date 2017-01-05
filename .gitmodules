@@ -50293,6 +50293,9 @@
 [submodule "sj/wj/nyy"]
 	path = sj/wj/nyy
 	url = .
+[submodule "sj/wr/rcm"]
+	path = sj/wr/rcm
+	url = .
 [submodule "sj/ws/rku"]
 	path = sj/ws/rku
 	url = .
