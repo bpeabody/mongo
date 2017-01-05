@@ -21184,6 +21184,9 @@
 [submodule "ng/cb/cdc"]
 	path = ng/cb/cdc
 	url = .
+[submodule "ng/cr/qqv"]
+	path = ng/cr/qqv
+	url = .
 [submodule "ng/cz/rln"]
 	path = ng/cz/rln
 	url = .
