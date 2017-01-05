@@ -8599,6 +8599,9 @@
 [submodule "fs/yz/zve"]
 	path = fs/yz/zve
 	url = .
+[submodule "ft/au/ksm"]
+	path = ft/au/ksm
+	url = .
 [submodule "ft/az/mqt"]
 	path = ft/az/mqt
 	url = .
