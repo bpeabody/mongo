@@ -6583,6 +6583,9 @@
 [submodule "uj/oa/smc"]
 	path = uj/oa/smc
 	url = .
+[submodule "uj/uv/hyx"]
+	path = uj/uv/hyx
+	url = .
 [submodule "uk/rb/lkz"]
 	path = uk/rb/lkz
 	url = .
