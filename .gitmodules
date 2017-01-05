@@ -20110,6 +20110,9 @@
 [submodule "ji/sp/oxl"]
 	path = ji/sp/oxl
 	url = .
+[submodule "ji/su/lqb"]
+	path = ji/su/lqb
+	url = .
 [submodule "ji/sx/jgo"]
 	path = ji/sx/jgo
 	url = .
