@@ -19294,6 +19294,9 @@
 [submodule "gw/wm/mli"]
 	path = gw/wm/mli
 	url = .
+[submodule "gw/xx/mme"]
+	path = gw/xx/mme
+	url = .
 [submodule "gw/yo/etq"]
 	path = gw/yo/etq
 	url = .
