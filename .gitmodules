@@ -40408,6 +40408,9 @@
 [submodule "tz/jo/jwb"]
 	path = tz/jo/jwb
 	url = .
+[submodule "tz/kq/fly"]
+	path = tz/kq/fly
+	url = .
 [submodule "tz/kq/qfr"]
 	path = tz/kq/qfr
 	url = .
