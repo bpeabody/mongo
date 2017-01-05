@@ -1087,6 +1087,9 @@
 [submodule "br/no/bza"]
 	path = br/no/bza
 	url = .
+[submodule "br/ve/jvg"]
+	path = br/ve/jvg
+	url = .
 [submodule "br/wj/rms"]
 	path = br/wj/rms
 	url = .
