@@ -28468,6 +28468,9 @@
 [submodule "kr/it/ixr"]
 	path = kr/it/ixr
 	url = .
+[submodule "kr/jd/mck"]
+	path = kr/jd/mck
+	url = .
 [submodule "kr/kj/owo"]
 	path = kr/kj/owo
 	url = .
