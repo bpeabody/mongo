@@ -3430,6 +3430,9 @@
 [submodule "re/cc/eol"]
 	path = re/cc/eol
 	url = .
+[submodule "re/ey/vxc"]
+	path = re/ey/vxc
+	url = .
 [submodule "re/py/ktl"]
 	path = re/py/ktl
 	url = .
