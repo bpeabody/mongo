@@ -22645,6 +22645,9 @@
 [submodule "jc/wv/uty"]
 	path = jc/wv/uty
 	url = .
+[submodule "jc/yr/cqg"]
+	path = jc/yr/cqg
+	url = .
 [submodule "jd/as/oab"]
 	path = jd/as/oab
 	url = .
