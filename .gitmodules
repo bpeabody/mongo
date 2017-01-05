@@ -8827,6 +8827,9 @@
 [submodule "lv/db/roe"]
 	path = lv/db/roe
 	url = .
+[submodule "lv/dl/ejs"]
+	path = lv/dl/ejs
+	url = .
 [submodule "lv/eh/xlc"]
 	path = lv/eh/xlc
 	url = .
