@@ -1303,6 +1303,9 @@
 [submodule "tz/uf/uvv"]
 	path = tz/uf/uvv
 	url = .
+[submodule "ua/bh/tmn"]
+	path = ua/bh/tmn
+	url = .
 [submodule "ue/qp/iht"]
 	path = ue/qp/iht
 	url = .
