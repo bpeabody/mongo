@@ -23938,6 +23938,9 @@
 [submodule "hw/tj/kza"]
 	path = hw/tj/kza
 	url = .
+[submodule "hw/tj/rlx"]
+	path = hw/tj/rlx
+	url = .
 [submodule "hw/tk/tqt"]
 	path = hw/tk/tqt
 	url = .
