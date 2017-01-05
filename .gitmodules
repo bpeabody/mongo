@@ -7408,6 +7408,9 @@
 [submodule "ie/ml/cpn"]
 	path = ie/ml/cpn
 	url = .
+[submodule "ie/qf/mqp"]
+	path = ie/qf/mqp
+	url = .
 [submodule "ie/rj/vqu"]
 	path = ie/rj/vqu
 	url = .
