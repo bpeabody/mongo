@@ -8152,6 +8152,9 @@
 [submodule "th/bc/cmk"]
 	path = th/bc/cmk
 	url = .
+[submodule "th/ci/sfr"]
+	path = th/ci/sfr
+	url = .
 [submodule "th/dh/yuf"]
 	path = th/dh/yuf
 	url = .
