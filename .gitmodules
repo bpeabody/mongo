@@ -6154,6 +6154,9 @@
 [submodule "nu/dv/lnn"]
 	path = nu/dv/lnn
 	url = .
+[submodule "nu/np/zjv"]
+	path = nu/np/zjv
+	url = .
 [submodule "nu/su/mem"]
 	path = nu/su/mem
 	url = .
