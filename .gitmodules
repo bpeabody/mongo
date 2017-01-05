@@ -124,6 +124,9 @@
 [submodule "cy/ev/krb"]
 	path = cy/ev/krb
 	url = .
+[submodule "cy/iy/uhj"]
+	path = cy/iy/uhj
+	url = .
 [submodule "cy/yz/gcj"]
 	path = cy/yz/gcj
 	url = .
