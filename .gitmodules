@@ -74935,6 +74935,9 @@
 [submodule "yt/cg/nmw"]
 	path = yt/cg/nmw
 	url = .
+[submodule "yt/ci/ysr"]
+	path = yt/ci/ysr
+	url = .
 [submodule "yt/cn/pgu"]
 	path = yt/cn/pgu
 	url = .
