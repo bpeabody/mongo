@@ -847,6 +847,9 @@
 [submodule "cl/co/mmh"]
 	path = cl/co/mmh
 	url = .
+[submodule "cl/ld/usb"]
+	path = cl/ld/usb
+	url = .
 [submodule "cl/vg/wto"]
 	path = cl/vg/wto
 	url = .
