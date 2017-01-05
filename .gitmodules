@@ -42640,6 +42640,9 @@
 [submodule "qs/no/jnb"]
 	path = qs/no/jnb
 	url = .
+[submodule "qs/ny/swf"]
+	path = qs/ny/swf
+	url = .
 [submodule "qs/pu/idt"]
 	path = qs/pu/idt
 	url = .
