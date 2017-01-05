@@ -2593,6 +2593,9 @@
 [submodule "ca/da/jhl"]
 	path = ca/da/jhl
 	url = .
+[submodule "ca/du/hzy"]
+	path = ca/du/hzy
+	url = .
 [submodule "ca/gg/tqc"]
 	path = ca/gg/tqc
 	url = .
