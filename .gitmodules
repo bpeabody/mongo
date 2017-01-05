@@ -27565,6 +27565,9 @@
 [submodule "wi/nd/xty"]
 	path = wi/nd/xty
 	url = .
+[submodule "wi/ng/fhr"]
+	path = wi/ng/fhr
+	url = .
 [submodule "wi/qs/koe"]
 	path = wi/qs/koe
 	url = .
