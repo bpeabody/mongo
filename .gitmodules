@@ -42160,6 +42160,9 @@
 [submodule "sg/xw/voj"]
 	path = sg/xw/voj
 	url = .
+[submodule "sg/ya/kuz"]
+	path = sg/ya/kuz
+	url = .
 [submodule "sg/yj/qob"]
 	path = sg/yj/qob
 	url = .
