@@ -3175,6 +3175,9 @@
 [submodule "ip/al/aal"]
 	path = ip/al/aal
 	url = .
+[submodule "ip/bf/kmo"]
+	path = ip/bf/kmo
+	url = .
 [submodule "ip/ck/fck"]
 	path = ip/ck/fck
 	url = .
