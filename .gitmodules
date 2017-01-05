@@ -8128,6 +8128,9 @@
 [submodule "dz/kv/mlb"]
 	path = dz/kv/mlb
 	url = .
+[submodule "dz/mk/skd"]
+	path = dz/mk/skd
+	url = .
 [submodule "dz/ov/yaf"]
 	path = dz/ov/yaf
 	url = .
