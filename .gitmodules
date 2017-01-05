@@ -32215,6 +32215,9 @@
 [submodule "ky/uu/ejl"]
 	path = ky/uu/ejl
 	url = .
+[submodule "ky/uu/hux"]
+	path = ky/uu/hux
+	url = .
 [submodule "ky/uv/zjr"]
 	path = ky/uv/zjr
 	url = .
