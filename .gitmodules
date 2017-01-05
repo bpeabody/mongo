@@ -10750,6 +10750,9 @@
 [submodule "wl/ig/bek"]
 	path = wl/ig/bek
 	url = .
+[submodule "wl/jy/xpg"]
+	path = wl/jy/xpg
+	url = .
 [submodule "wl/uf/ghb"]
 	path = wl/uf/ghb
 	url = .
