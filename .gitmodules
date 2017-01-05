@@ -3946,6 +3946,9 @@
 [submodule "hc/ka/bfu"]
 	path = hc/ka/bfu
 	url = .
+[submodule "hc/kk/vcb"]
+	path = hc/kk/vcb
+	url = .
 [submodule "hc/ns/ejv"]
 	path = hc/ns/ejv
 	url = .
