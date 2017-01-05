@@ -13861,6 +13861,9 @@
 [submodule "lm/rq/lpt"]
 	path = lm/rq/lpt
 	url = .
+[submodule "lm/sj/hxg"]
+	path = lm/sj/hxg
+	url = .
 [submodule "lm/tb/bnl"]
 	path = lm/tb/bnl
 	url = .
