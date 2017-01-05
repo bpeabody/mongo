@@ -3199,6 +3199,9 @@
 [submodule "nr/lr/mub"]
 	path = nr/lr/mub
 	url = .
+[submodule "nr/lw/uzt"]
+	path = nr/lw/uzt
+	url = .
 [submodule "nr/ng/kpg"]
 	path = nr/ng/kpg
 	url = .
