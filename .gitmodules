@@ -24382,6 +24382,9 @@
 [submodule "od/xl/vky"]
 	path = od/xl/vky
 	url = .
+[submodule "od/xr/daz"]
+	path = od/xr/daz
+	url = .
 [submodule "od/yu/jit"]
 	path = od/yu/jit
 	url = .
