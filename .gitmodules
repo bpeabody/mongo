@@ -3988,6 +3988,9 @@
 [submodule "ux/nb/lvh"]
 	path = ux/nb/lvh
 	url = .
+[submodule "ux/qm/umq"]
+	path = ux/qm/umq
+	url = .
 [submodule "ux/xq/yfg"]
 	path = ux/xq/yfg
 	url = .
