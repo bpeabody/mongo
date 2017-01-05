@@ -30466,6 +30466,9 @@
 [submodule "lx/bl/awk"]
 	path = lx/bl/awk
 	url = .
+[submodule "lx/cj/lai"]
+	path = lx/cj/lai
+	url = .
 [submodule "lx/co/whu"]
 	path = lx/co/whu
 	url = .
