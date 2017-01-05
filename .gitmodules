@@ -36826,6 +36826,9 @@
 [submodule "pc/bk/pyn"]
 	path = pc/bk/pyn
 	url = .
+[submodule "pc/br/fxr"]
+	path = pc/br/fxr
+	url = .
 [submodule "pc/ct/bsk"]
 	path = pc/ct/bsk
 	url = .
