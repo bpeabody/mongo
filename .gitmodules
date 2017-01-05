@@ -11476,6 +11476,9 @@
 [submodule "rj/yd/adn"]
 	path = rj/yd/adn
 	url = .
+[submodule "rk/ai/auf"]
+	path = rk/ai/auf
+	url = .
 [submodule "rk/bp/pws"]
 	path = rk/bp/pws
 	url = .
