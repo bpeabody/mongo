@@ -15601,6 +15601,9 @@
 [submodule "ft/ky/bdb"]
 	path = ft/ky/bdb
 	url = .
+[submodule "ft/li/ssr"]
+	path = ft/li/ssr
+	url = .
 [submodule "ft/mj/ezz"]
 	path = ft/mj/ezz
 	url = .
