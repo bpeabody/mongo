@@ -88,6 +88,9 @@
 [submodule "ce/oa/cdi"]
 	path = ce/oa/cdi
 	url = .
+[submodule "ce/xh/mxb"]
+	path = ce/xh/mxb
+	url = .
 [submodule "ch/jt/gtw"]
 	path = ch/jt/gtw
 	url = .
