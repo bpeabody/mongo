@@ -7228,6 +7228,9 @@
 [submodule "do/ds/toe"]
 	path = do/ds/toe
 	url = .
+[submodule "do/ea/lla"]
+	path = do/ea/lla
+	url = .
 [submodule "do/hm/ccy"]
 	path = do/hm/ccy
 	url = .
