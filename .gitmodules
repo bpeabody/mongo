@@ -3871,6 +3871,9 @@
 [submodule "gm/fa/thc"]
 	path = gm/fa/thc
 	url = .
+[submodule "gm/gc/ume"]
+	path = gm/gc/ume
+	url = .
 [submodule "gm/gy/ori"]
 	path = gm/gy/ori
 	url = .
