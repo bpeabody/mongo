@@ -15328,6 +15328,9 @@
 [submodule "td/sy/xcz"]
 	path = td/sy/xcz
 	url = .
+[submodule "td/tl/gmd"]
+	path = td/tl/gmd
+	url = .
 [submodule "td/tt/eig"]
 	path = td/tt/eig
 	url = .
