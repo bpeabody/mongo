@@ -8707,6 +8707,9 @@
 [submodule "mm/jw/yde"]
 	path = mm/jw/yde
 	url = .
+[submodule "mm/tp/pka"]
+	path = mm/tp/pka
+	url = .
 [submodule "mm/tr/xgh"]
 	path = mm/tr/xgh
 	url = .
