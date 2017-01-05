@@ -19453,6 +19453,9 @@
 [submodule "sr/wv/aca"]
 	path = sr/wv/aca
 	url = .
+[submodule "sr/xp/cuh"]
+	path = sr/xp/cuh
+	url = .
 [submodule "sr/ym/ivf"]
 	path = sr/ym/ivf
 	url = .
