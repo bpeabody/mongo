@@ -6964,6 +6964,9 @@
 [submodule "rm/xn/emh"]
 	path = rm/xn/emh
 	url = .
+[submodule "rn/el/szk"]
+	path = rn/el/szk
+	url = .
 [submodule "rn/eo/eux"]
 	path = rn/eo/eux
 	url = .
