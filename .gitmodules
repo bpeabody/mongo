@@ -8332,6 +8332,9 @@
 [submodule "iw/jt/rsw"]
 	path = iw/jt/rsw
 	url = .
+[submodule "iw/mq/wmr"]
+	path = iw/mq/wmr
+	url = .
 [submodule "iw/om/pvf"]
 	path = iw/om/pvf
 	url = .
