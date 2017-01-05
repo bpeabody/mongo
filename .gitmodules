@@ -42952,6 +42952,9 @@
 [submodule "ub/eu/dnd"]
 	path = ub/eu/dnd
 	url = .
+[submodule "ub/gl/cxd"]
+	path = ub/gl/cxd
+	url = .
 [submodule "ub/gu/wbj"]
 	path = ub/gu/wbj
 	url = .
