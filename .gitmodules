@@ -9256,6 +9256,9 @@
 [submodule "rc/av/ssw"]
 	path = rc/av/ssw
 	url = .
+[submodule "rc/ca/ydl"]
+	path = rc/ca/ydl
+	url = .
 [submodule "rc/ef/cuy"]
 	path = rc/ef/cuy
 	url = .
