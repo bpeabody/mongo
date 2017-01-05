@@ -17680,6 +17680,9 @@
 [submodule "nc/cg/mjn"]
 	path = nc/cg/mjn
 	url = .
+[submodule "nc/dq/vwf"]
+	path = nc/dq/vwf
+	url = .
 [submodule "nc/ez/vbw"]
 	path = nc/ez/vbw
 	url = .
