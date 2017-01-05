@@ -1240,6 +1240,9 @@
 [submodule "bp/ku/fnv"]
 	path = bp/ku/fnv
 	url = .
+[submodule "bp/pl/zjk"]
+	path = bp/pl/zjk
+	url = .
 [submodule "bp/po/rhp"]
 	path = bp/po/rhp
 	url = .
