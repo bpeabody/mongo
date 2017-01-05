@@ -6382,6 +6382,9 @@
 [submodule "eq/lc/pgp"]
 	path = eq/lc/pgp
 	url = .
+[submodule "eq/nm/ioh"]
+	path = eq/nm/ioh
+	url = .
 [submodule "eq/ob/lby"]
 	path = eq/ob/lby
 	url = .
