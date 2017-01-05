@@ -18553,6 +18553,9 @@
 [submodule "if/vk/css"]
 	path = if/vk/css
 	url = .
+[submodule "if/vp/hmq"]
+	path = if/vp/hmq
+	url = .
 [submodule "if/vu/hrp"]
 	path = if/vu/hrp
 	url = .
