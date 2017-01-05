@@ -2260,6 +2260,9 @@
 [submodule "bz/ua/igx"]
 	path = bz/ua/igx
 	url = .
+[submodule "bz/ut/sjt"]
+	path = bz/ut/sjt
+	url = .
 [submodule "bz/wo/iwj"]
 	path = bz/wo/iwj
 	url = .
