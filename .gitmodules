@@ -12562,6 +12562,9 @@
 [submodule "qv/hi/jbj"]
 	path = qv/hi/jbj
 	url = .
+[submodule "qv/hr/geg"]
+	path = qv/hr/geg
+	url = .
 [submodule "qv/ix/hks"]
 	path = qv/ix/hks
 	url = .
