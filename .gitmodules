@@ -35410,6 +35410,9 @@
 [submodule "wk/hr/gyr"]
 	path = wk/hr/gyr
 	url = .
+[submodule "wk/hv/soc"]
+	path = wk/hv/soc
+	url = .
 [submodule "wk/if/htn"]
 	path = wk/if/htn
 	url = .
