@@ -1630,6 +1630,9 @@
 [submodule "ck/vn/dpb"]
 	path = ck/vn/dpb
 	url = .
+[submodule "ck/xv/zzp"]
+	path = ck/xv/zzp
+	url = .
 [submodule "cl/ba/lvn"]
 	path = cl/ba/lvn
 	url = .
