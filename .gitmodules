@@ -27049,6 +27049,9 @@
 [submodule "nk/ag/vcr"]
 	path = nk/ag/vcr
 	url = .
+[submodule "nk/ar/ngf"]
+	path = nk/ar/ngf
+	url = .
 [submodule "nk/ed/gtw"]
 	path = nk/ed/gtw
 	url = .
