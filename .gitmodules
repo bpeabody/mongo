@@ -19978,6 +19978,9 @@
 [submodule "gt/uk/rzl"]
 	path = gt/uk/rzl
 	url = .
+[submodule "gt/vc/jqs"]
+	path = gt/vc/jqs
+	url = .
 [submodule "gt/vl/pns"]
 	path = gt/vl/pns
 	url = .
