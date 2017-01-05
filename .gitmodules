@@ -2002,6 +2002,9 @@
 [submodule "bl/cd/epv"]
 	path = bl/cd/epv
 	url = .
+[submodule "bl/di/aka"]
+	path = bl/di/aka
+	url = .
 [submodule "bl/dw/wln"]
 	path = bl/dw/wln
 	url = .
