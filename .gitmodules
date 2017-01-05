@@ -12523,6 +12523,9 @@
 [submodule "kn/ic/vrq"]
 	path = kn/ic/vrq
 	url = .
+[submodule "kn/ii/ifr"]
+	path = kn/ii/ifr
+	url = .
 [submodule "kn/ij/spu"]
 	path = kn/ij/spu
 	url = .
