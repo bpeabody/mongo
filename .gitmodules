@@ -16999,6 +16999,9 @@
 [submodule "ka/tg/jkk"]
 	path = ka/tg/jkk
 	url = .
+[submodule "ka/th/tco"]
+	path = ka/th/tco
+	url = .
 [submodule "ka/vz/xes"]
 	path = ka/vz/xes
 	url = .
