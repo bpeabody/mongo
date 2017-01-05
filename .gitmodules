@@ -43126,6 +43126,9 @@
 [submodule "qs/lh/oyc"]
 	path = qs/lh/oyc
 	url = .
+[submodule "qs/mq/gov"]
+	path = qs/mq/gov
+	url = .
 [submodule "qs/no/jnb"]
 	path = qs/no/jnb
 	url = .
