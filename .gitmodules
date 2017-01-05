@@ -35233,6 +35233,9 @@
 [submodule "qb/si/qqa"]
 	path = qb/si/qqa
 	url = .
+[submodule "qb/tw/qaq"]
+	path = qb/tw/qaq
+	url = .
 [submodule "qb/ub/tou"]
 	path = qb/ub/tou
 	url = .
