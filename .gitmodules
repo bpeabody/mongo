@@ -739,6 +739,9 @@
 [submodule "au/dm/gfo"]
 	path = au/dm/gfo
 	url = .
+[submodule "au/gw/sgn"]
+	path = au/gw/sgn
+	url = .
 [submodule "au/hq/wjj"]
 	path = au/hq/wjj
 	url = .
