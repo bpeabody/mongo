@@ -10435,6 +10435,9 @@
 [submodule "kr/xa/eok"]
 	path = kr/xa/eok
 	url = .
+[submodule "kr/xh/deq"]
+	path = kr/xh/deq
+	url = .
 [submodule "kr/xq/zgc"]
 	path = kr/xq/zgc
 	url = .
