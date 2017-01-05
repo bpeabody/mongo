@@ -50920,6 +50920,9 @@
 [submodule "st/dn/bvn"]
 	path = st/dn/bvn
 	url = .
+[submodule "st/ds/inp"]
+	path = st/ds/inp
+	url = .
 [submodule "st/ez/wco"]
 	path = st/ez/wco
 	url = .
