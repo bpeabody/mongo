@@ -685,6 +685,9 @@
 [submodule "ai/db/yfn"]
 	path = ai/db/yfn
 	url = .
+[submodule "ai/dh/nmn"]
+	path = ai/dh/nmn
+	url = .
 [submodule "ai/eh/dzk"]
 	path = ai/eh/dzk
 	url = .
