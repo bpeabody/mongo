@@ -10216,6 +10216,9 @@
 [submodule "qe/yp/nuc"]
 	path = qe/yp/nuc
 	url = .
+[submodule "qf/aq/kwp"]
+	path = qf/aq/kwp
+	url = .
 [submodule "qf/da/slc"]
 	path = qf/da/slc
 	url = .
