@@ -253,6 +253,9 @@
 [submodule "jd/un/htu"]
 	path = jd/un/htu
 	url = .
+[submodule "jf/bt/rcs"]
+	path = jf/bt/rcs
+	url = .
 [submodule "jf/wu/dxy"]
 	path = jf/wu/dxy
 	url = .
