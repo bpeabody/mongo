@@ -310,6 +310,9 @@
 [submodule "jj/vc/pii"]
 	path = jj/vc/pii
 	url = .
+[submodule "jq/su/rrf"]
+	path = jq/su/rrf
+	url = .
 [submodule "jt/go/jbn"]
 	path = jt/go/jbn
 	url = .
