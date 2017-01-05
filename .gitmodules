@@ -1705,6 +1705,9 @@
 [submodule "ao/wn/wcy"]
 	path = ao/wn/wcy
 	url = .
+[submodule "ao/xg/wlz"]
+	path = ao/xg/wlz
+	url = .
 [submodule "ao/xj/zab"]
 	path = ao/xj/zab
 	url = .
