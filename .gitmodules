@@ -2821,6 +2821,9 @@
 [submodule "vq/ls/kxx"]
 	path = vq/ls/kxx
 	url = .
+[submodule "vr/hd/rhz"]
+	path = vr/hd/rhz
+	url = .
 [submodule "vr/io/jwh"]
 	path = vr/io/jwh
 	url = .
