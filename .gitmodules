@@ -7330,6 +7330,9 @@
 [submodule "cn/bw/uuc"]
 	path = cn/bw/uuc
 	url = .
+[submodule "cn/ca/ndz"]
+	path = cn/ca/ndz
+	url = .
 [submodule "cn/cb/dpk"]
 	path = cn/cb/dpk
 	url = .
