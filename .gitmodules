@@ -24346,6 +24346,9 @@
 [submodule "mj/hd/wzn"]
 	path = mj/hd/wzn
 	url = .
+[submodule "mj/ld/fxf"]
+	path = mj/ld/fxf
+	url = .
 [submodule "mj/mo/eii"]
 	path = mj/mo/eii
 	url = .
