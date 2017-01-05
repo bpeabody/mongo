@@ -23431,6 +23431,9 @@
 [submodule "hw/id/qsv"]
 	path = hw/id/qsv
 	url = .
+[submodule "hw/if/ucn"]
+	path = hw/if/ucn
+	url = .
 [submodule "hw/ip/udl"]
 	path = hw/ip/udl
 	url = .
