@@ -2743,6 +2743,9 @@
 [submodule "cs/jt/myn"]
 	path = cs/jt/myn
 	url = .
+[submodule "cs/ks/psh"]
+	path = cs/ks/psh
+	url = .
 [submodule "cs/mh/hgh"]
 	path = cs/mh/hgh
 	url = .
