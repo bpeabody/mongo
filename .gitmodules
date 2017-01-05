@@ -34411,6 +34411,9 @@
 [submodule "ph/tk/exu"]
 	path = ph/tk/exu
 	url = .
+[submodule "ph/ut/nwo"]
+	path = ph/ut/nwo
+	url = .
 [submodule "ph/vo/kko"]
 	path = ph/vo/kko
 	url = .
