@@ -22621,6 +22621,9 @@
 [submodule "hv/pz/drj"]
 	path = hv/pz/drj
 	url = .
+[submodule "hv/ql/lic"]
+	path = hv/ql/lic
+	url = .
 [submodule "hv/qv/ovt"]
 	path = hv/qv/ovt
 	url = .
