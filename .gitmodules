@@ -35842,6 +35842,9 @@
 [submodule "sy/fj/ryo"]
 	path = sy/fj/ryo
 	url = .
+[submodule "sy/gx/qvw"]
+	path = sy/gx/qvw
+	url = .
 [submodule "sy/hl/xnz"]
 	path = sy/hl/xnz
 	url = .
