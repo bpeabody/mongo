@@ -48469,6 +48469,9 @@
 [submodule "rs/jh/dea"]
 	path = rs/jh/dea
 	url = .
+[submodule "rs/jp/nwd"]
+	path = rs/jp/nwd
+	url = .
 [submodule "rs/kp/yit"]
 	path = rs/kp/yit
 	url = .
