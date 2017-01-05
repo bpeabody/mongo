@@ -4738,6 +4738,9 @@
 [submodule "ce/rl/bbr"]
 	path = ce/rl/bbr
 	url = .
+[submodule "ce/rn/ahn"]
+	path = ce/rn/ahn
+	url = .
 [submodule "ce/tb/gya"]
 	path = ce/tb/gya
 	url = .
