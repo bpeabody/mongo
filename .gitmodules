@@ -11572,6 +11572,9 @@
 [submodule "st/kq/jch"]
 	path = st/kq/jch
 	url = .
+[submodule "st/uc/lob"]
+	path = st/uc/lob
+	url = .
 [submodule "st/xm/gws"]
 	path = st/xm/gws
 	url = .
