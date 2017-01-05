@@ -24280,6 +24280,9 @@
 [submodule "ns/lg/bww"]
 	path = ns/lg/bww
 	url = .
+[submodule "ns/nk/kak"]
+	path = ns/nk/kak
+	url = .
 [submodule "ns/nt/rlf"]
 	path = ns/nt/rlf
 	url = .
