@@ -29875,6 +29875,9 @@
 [submodule "py/ge/lfi"]
 	path = py/ge/lfi
 	url = .
+[submodule "py/gm/vgb"]
+	path = py/gm/vgb
+	url = .
 [submodule "py/gv/qle"]
 	path = py/gv/qle
 	url = .
