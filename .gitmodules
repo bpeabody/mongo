@@ -2383,6 +2383,9 @@
 [submodule "qn/zk/lni"]
 	path = qn/zk/lni
 	url = .
+[submodule "qq/ca/cjm"]
+	path = qq/ca/cjm
+	url = .
 [submodule "qq/sr/crf"]
 	path = qq/sr/crf
 	url = .
