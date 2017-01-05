@@ -45883,6 +45883,9 @@
 [submodule "wn/eg/jtw"]
 	path = wn/eg/jtw
 	url = .
+[submodule "wn/eq/qxi"]
+	path = wn/eq/qxi
+	url = .
 [submodule "wn/fb/qla"]
 	path = wn/fb/qla
 	url = .
