@@ -39904,6 +39904,9 @@
 [submodule "sp/mj/lyb"]
 	path = sp/mj/lyb
 	url = .
+[submodule "sp/mm/syj"]
+	path = sp/mm/syj
+	url = .
 [submodule "sp/mp/qdr"]
 	path = sp/mp/qdr
 	url = .
