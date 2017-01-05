@@ -7114,6 +7114,9 @@
 [submodule "lk/py/ovo"]
 	path = lk/py/ovo
 	url = .
+[submodule "lk/rw/fwn"]
+	path = lk/rw/fwn
+	url = .
 [submodule "lk/rw/oon"]
 	path = lk/rw/oon
 	url = .
