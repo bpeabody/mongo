@@ -34777,6 +34777,9 @@
 [submodule "me/sm/rqt"]
 	path = me/sm/rqt
 	url = .
+[submodule "me/sw/wft"]
+	path = me/sw/wft
+	url = .
 [submodule "me/ts/zce"]
 	path = me/ts/zce
 	url = .
