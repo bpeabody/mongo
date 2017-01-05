@@ -205,6 +205,9 @@
 [submodule "bp/rs/wfb"]
 	path = bp/rs/wfb
 	url = .
+[submodule "bq/ev/jis"]
+	path = bq/ev/jis
+	url = .
 [submodule "bq/un/rpi"]
 	path = bq/un/rpi
 	url = .
