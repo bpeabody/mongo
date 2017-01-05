@@ -1501,6 +1501,9 @@
 [submodule "ir/dx/enz"]
 	path = ir/dx/enz
 	url = .
+[submodule "ir/np/nhu"]
+	path = ir/np/nhu
+	url = .
 [submodule "is/ll/wxn"]
 	path = is/ll/wxn
 	url = .
