@@ -2587,6 +2587,9 @@
 [submodule "of/gj/hru"]
 	path = of/gj/hru
 	url = .
+[submodule "of/te/dec"]
+	path = of/te/dec
+	url = .
 [submodule "of/vd/bhw"]
 	path = of/vd/bhw
 	url = .
