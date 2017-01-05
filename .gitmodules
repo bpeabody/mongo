@@ -28432,6 +28432,9 @@
 [submodule "sv/vq/dmh"]
 	path = sv/vq/dmh
 	url = .
+[submodule "sv/wx/wvg"]
+	path = sv/wx/wvg
+	url = .
 [submodule "sv/xt/bls"]
 	path = sv/xt/bls
 	url = .
