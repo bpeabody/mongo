@@ -7825,6 +7825,9 @@
 [submodule "mo/xd/mbc"]
 	path = mo/xd/mbc
 	url = .
+[submodule "mp/aj/yhj"]
+	path = mp/aj/yhj
+	url = .
 [submodule "mp/eo/vxk"]
 	path = mp/eo/vxk
 	url = .
