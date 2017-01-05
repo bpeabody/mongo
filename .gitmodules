@@ -1555,6 +1555,9 @@
 [submodule "jj/nc/xek"]
 	path = jj/nc/xek
 	url = .
+[submodule "jj/td/clj"]
+	path = jj/td/clj
+	url = .
 [submodule "jj/uz/swu"]
 	path = jj/uz/swu
 	url = .
