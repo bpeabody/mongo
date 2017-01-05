@@ -53731,6 +53731,9 @@
 [submodule "ue/gg/agr"]
 	path = ue/gg/agr
 	url = .
+[submodule "ue/gh/vqt"]
+	path = ue/gh/vqt
+	url = .
 [submodule "ue/ia/axk"]
 	path = ue/ia/axk
 	url = .
