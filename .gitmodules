@@ -3976,6 +3976,9 @@
 [submodule "cj/bd/lhe"]
 	path = cj/bd/lhe
 	url = .
+[submodule "cj/ct/rhf"]
+	path = cj/ct/rhf
+	url = .
 [submodule "cj/gh/wlp"]
 	path = cj/gh/wlp
 	url = .
