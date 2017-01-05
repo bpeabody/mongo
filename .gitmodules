@@ -35950,6 +35950,9 @@
 [submodule "po/eh/hxl"]
 	path = po/eh/hxl
 	url = .
+[submodule "po/gy/gvj"]
+	path = po/gy/gvj
+	url = .
 [submodule "po/jl/yap"]
 	path = po/jl/yap
 	url = .
