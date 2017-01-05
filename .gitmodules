@@ -5479,6 +5479,9 @@
 [submodule "da/fs/wna"]
 	path = da/fs/wna
 	url = .
+[submodule "da/fu/dyw"]
+	path = da/fu/dyw
+	url = .
 [submodule "da/gk/keh"]
 	path = da/gk/keh
 	url = .
