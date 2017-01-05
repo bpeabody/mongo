@@ -10492,6 +10492,9 @@
 [submodule "pp/xp/nxe"]
 	path = pp/xp/nxe
 	url = .
+[submodule "pp/xu/yeu"]
+	path = pp/xu/yeu
+	url = .
 [submodule "pp/zu/nzb"]
 	path = pp/zu/nzb
 	url = .
