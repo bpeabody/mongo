@@ -12553,6 +12553,9 @@
 [submodule "np/cs/vsu"]
 	path = np/cs/vsu
 	url = .
+[submodule "np/da/pep"]
+	path = np/da/pep
+	url = .
 [submodule "np/dq/tke"]
 	path = np/dq/tke
 	url = .
