@@ -36694,6 +36694,9 @@
 [submodule "vm/xv/lgf"]
 	path = vm/xv/lgf
 	url = .
+[submodule "vm/yv/dzn"]
+	path = vm/yv/dzn
+	url = .
 [submodule "vn/by/hiy"]
 	path = vn/by/hiy
 	url = .
