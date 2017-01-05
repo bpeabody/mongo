@@ -9406,6 +9406,9 @@
 [submodule "fh/ko/dii"]
 	path = fh/ko/dii
 	url = .
+[submodule "fh/lk/euo"]
+	path = fh/lk/euo
+	url = .
 [submodule "fh/ma/kxw"]
 	path = fh/ma/kxw
 	url = .
