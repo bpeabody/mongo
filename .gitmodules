@@ -18553,6 +18553,9 @@
 [submodule "xa/bc/nfl"]
 	path = xa/bc/nfl
 	url = .
+[submodule "xa/lb/ygl"]
+	path = xa/lb/ygl
+	url = .
 [submodule "xa/ll/rob"]
 	path = xa/ll/rob
 	url = .
