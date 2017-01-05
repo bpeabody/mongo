@@ -24358,6 +24358,9 @@
 [submodule "qo/ub/dki"]
 	path = qo/ub/dki
 	url = .
+[submodule "qo/uo/tsk"]
+	path = qo/uo/tsk
+	url = .
 [submodule "qo/yy/pst"]
 	path = qo/yy/pst
 	url = .
