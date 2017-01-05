@@ -7999,6 +7999,9 @@
 [submodule "cs/jt/myn"]
 	path = cs/jt/myn
 	url = .
+[submodule "cs/kk/hsm"]
+	path = cs/kk/hsm
+	url = .
 [submodule "cs/ks/psh"]
 	path = cs/ks/psh
 	url = .
