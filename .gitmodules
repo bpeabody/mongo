@@ -2446,6 +2446,9 @@
 [submodule "md/mw/quv"]
 	path = md/mw/quv
 	url = .
+[submodule "md/vz/fis"]
+	path = md/vz/fis
+	url = .
 [submodule "me/ts/zce"]
 	path = me/ts/zce
 	url = .
