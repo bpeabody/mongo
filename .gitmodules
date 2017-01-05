@@ -9031,6 +9031,9 @@
 [submodule "gp/aa/ily"]
 	path = gp/aa/ily
 	url = .
+[submodule "gp/aq/dqi"]
+	path = gp/aq/dqi
+	url = .
 [submodule "gp/bl/pht"]
 	path = gp/bl/pht
 	url = .
