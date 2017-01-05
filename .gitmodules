@@ -4288,6 +4288,9 @@
 [submodule "br/xg/kqz"]
 	path = br/xg/kqz
 	url = .
+[submodule "br/xg/yvg"]
+	path = br/xg/yvg
+	url = .
 [submodule "br/xi/lvb"]
 	path = br/xi/lvb
 	url = .
