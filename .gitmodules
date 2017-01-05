@@ -6328,6 +6328,9 @@
 [submodule "ef/gb/xjc"]
 	path = ef/gb/xjc
 	url = .
+[submodule "ef/go/zrn"]
+	path = ef/go/zrn
+	url = .
 [submodule "ef/lf/tes"]
 	path = ef/lf/tes
 	url = .
