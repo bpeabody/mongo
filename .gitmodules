@@ -15277,6 +15277,9 @@
 [submodule "he/yo/ftb"]
 	path = he/yo/ftb
 	url = .
+[submodule "he/yo/uso"]
+	path = he/yo/uso
+	url = .
 [submodule "he/yr/axq"]
 	path = he/yr/axq
 	url = .
