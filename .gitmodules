@@ -40495,6 +40495,9 @@
 [submodule "pr/yt/koq"]
 	path = pr/yt/koq
 	url = .
+[submodule "ps/ag/dpa"]
+	path = ps/ag/dpa
+	url = .
 [submodule "ps/av/vrp"]
 	path = ps/av/vrp
 	url = .
