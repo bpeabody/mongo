@@ -106,6 +106,9 @@
 [submodule "al/lg/gfj"]
 	path = al/lg/gfj
 	url = .
+[submodule "al/rc/qww"]
+	path = al/rc/qww
+	url = .
 [submodule "al/tc/vmi"]
 	path = al/tc/vmi
 	url = .
