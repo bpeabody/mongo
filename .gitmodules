@@ -8215,6 +8215,9 @@
 [submodule "nn/az/hds"]
 	path = nn/az/hds
 	url = .
+[submodule "nn/bk/rzy"]
+	path = nn/bk/rzy
+	url = .
 [submodule "nn/ec/zcg"]
 	path = nn/ec/zcg
 	url = .
