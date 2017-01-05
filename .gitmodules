@@ -9553,6 +9553,9 @@
 [submodule "nz/qr/rdi"]
 	path = nz/qr/rdi
 	url = .
+[submodule "nz/sb/rnb"]
+	path = nz/sb/rnb
+	url = .
 [submodule "nz/ur/hqo"]
 	path = nz/ur/hqo
 	url = .
