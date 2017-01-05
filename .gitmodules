@@ -26710,6 +26710,9 @@
 [submodule "nh/oi/giq"]
 	path = nh/oi/giq
 	url = .
+[submodule "nh/uw/etm"]
+	path = nh/uw/etm
+	url = .
 [submodule "nh/xn/lao"]
 	path = nh/xn/lao
 	url = .
