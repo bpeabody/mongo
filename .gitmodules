@@ -535,6 +535,9 @@
 [submodule "ah/gh/gcp"]
 	path = ah/gh/gcp
 	url = .
+[submodule "ah/gw/bms"]
+	path = ah/gw/bms
+	url = .
 [submodule "ah/ha/ycf"]
 	path = ah/ha/ycf
 	url = .
