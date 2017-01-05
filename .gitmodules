@@ -5260,6 +5260,9 @@
 [submodule "nw/ls/col"]
 	path = nw/ls/col
 	url = .
+[submodule "nw/mk/hnq"]
+	path = nw/mk/hnq
+	url = .
 [submodule "nw/vq/udv"]
 	path = nw/vq/udv
 	url = .
