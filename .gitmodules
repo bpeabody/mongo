@@ -10447,6 +10447,9 @@
 [submodule "ep/bq/xbu"]
 	path = ep/bq/xbu
 	url = .
+[submodule "ep/cm/vsq"]
+	path = ep/cm/vsq
+	url = .
 [submodule "ep/cp/twh"]
 	path = ep/cp/twh
 	url = .
