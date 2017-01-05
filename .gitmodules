@@ -25369,6 +25369,9 @@
 [submodule "mg/fv/rod"]
 	path = mg/fv/rod
 	url = .
+[submodule "mg/hc/buv"]
+	path = mg/hc/buv
+	url = .
 [submodule "mg/hy/skv"]
 	path = mg/hy/skv
 	url = .
