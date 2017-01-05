@@ -33646,6 +33646,9 @@
 [submodule "qk/bv/yos"]
 	path = qk/bv/yos
 	url = .
+[submodule "qk/db/acc"]
+	path = qk/db/acc
+	url = .
 [submodule "qk/dc/ywi"]
 	path = qk/dc/ywi
 	url = .
