@@ -11797,6 +11797,9 @@
 [submodule "ul/fz/ivu"]
 	path = ul/fz/ivu
 	url = .
+[submodule "ul/nr/uno"]
+	path = ul/nr/uno
+	url = .
 [submodule "um/cf/sqk"]
 	path = um/cf/sqk
 	url = .
