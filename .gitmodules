@@ -2062,6 +2062,9 @@
 [submodule "eb/qq/rtx"]
 	path = eb/qq/rtx
 	url = .
+[submodule "eb/xj/fre"]
+	path = eb/xj/fre
+	url = .
 [submodule "ec/ev/etz"]
 	path = ec/ev/etz
 	url = .
