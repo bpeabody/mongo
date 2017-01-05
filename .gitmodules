@@ -71788,6 +71788,9 @@
 [submodule "xv/np/tcc"]
 	path = xv/np/tcc
 	url = .
+[submodule "xv/nz/bdt"]
+	path = xv/nz/bdt
+	url = .
 [submodule "xv/ou/kya"]
 	path = xv/ou/kya
 	url = .
