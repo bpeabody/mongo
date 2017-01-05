@@ -18355,6 +18355,9 @@
 [submodule "qk/qn/lbb"]
 	path = qk/qn/lbb
 	url = .
+[submodule "qk/st/sqp"]
+	path = qk/st/sqp
+	url = .
 [submodule "qk/vd/red"]
 	path = qk/vd/red
 	url = .
