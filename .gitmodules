@@ -19969,6 +19969,9 @@
 [submodule "ks/tt/lno"]
 	path = ks/tt/lno
 	url = .
+[submodule "ks/ue/dzx"]
+	path = ks/ue/dzx
+	url = .
 [submodule "ks/vd/mnc"]
 	path = ks/vd/mnc
 	url = .
