@@ -3058,6 +3058,9 @@
 [submodule "bk/hn/vnq"]
 	path = bk/hn/vnq
 	url = .
+[submodule "bk/ho/hjf"]
+	path = bk/ho/hjf
+	url = .
 [submodule "bk/la/wfw"]
 	path = bk/la/wfw
 	url = .
