@@ -7090,6 +7090,9 @@
 [submodule "ob/ya/gsa"]
 	path = ob/ya/gsa
 	url = .
+[submodule "oc/at/apd"]
+	path = oc/at/apd
+	url = .
 [submodule "oc/js/bmo"]
 	path = oc/js/bmo
 	url = .
