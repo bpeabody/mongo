@@ -10363,6 +10363,9 @@
 [submodule "fw/gb/fxt"]
 	path = fw/gb/fxt
 	url = .
+[submodule "fw/gh/iuy"]
+	path = fw/gh/iuy
+	url = .
 [submodule "fw/gq/ulp"]
 	path = fw/gq/ulp
 	url = .
