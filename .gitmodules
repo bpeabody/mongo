@@ -7090,6 +7090,9 @@
 [submodule "nx/dg/sre"]
 	path = nx/dg/sre
 	url = .
+[submodule "nx/do/ndy"]
+	path = nx/do/ndy
+	url = .
 [submodule "nx/fu/chj"]
 	path = nx/fu/chj
 	url = .
