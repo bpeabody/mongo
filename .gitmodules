@@ -5515,6 +5515,9 @@
 [submodule "bw/jb/ukv"]
 	path = bw/jb/ukv
 	url = .
+[submodule "bw/ji/egl"]
+	path = bw/ji/egl
+	url = .
 [submodule "bw/jq/uvc"]
 	path = bw/jq/uvc
 	url = .
