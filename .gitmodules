@@ -2140,6 +2140,9 @@
 [submodule "et/fy/kpp"]
 	path = et/fy/kpp
 	url = .
+[submodule "et/mo/pfa"]
+	path = et/mo/pfa
+	url = .
 [submodule "et/ql/vhx"]
 	path = et/ql/vhx
 	url = .
