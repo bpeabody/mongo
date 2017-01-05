@@ -2002,6 +2002,9 @@
 [submodule "iy/hy/etd"]
 	path = iy/hy/etd
 	url = .
+[submodule "iy/ou/aim"]
+	path = iy/ou/aim
+	url = .
 [submodule "ja/fk/gbl"]
 	path = ja/fk/gbl
 	url = .
