@@ -5416,6 +5416,9 @@
 [submodule "uw/rm/vwf"]
 	path = uw/rm/vwf
 	url = .
+[submodule "uw/xl/slj"]
+	path = uw/xl/slj
+	url = .
 [submodule "ux/nb/lvh"]
 	path = ux/nb/lvh
 	url = .
