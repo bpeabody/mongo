@@ -25654,6 +25654,9 @@
 [submodule "ky/dw/pnw"]
 	path = ky/dw/pnw
 	url = .
+[submodule "ky/ed/xsl"]
+	path = ky/ed/xsl
+	url = .
 [submodule "ky/fo/ilq"]
 	path = ky/fo/ilq
 	url = .
