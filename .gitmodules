@@ -5650,6 +5650,9 @@
 [submodule "cp/ag/hmu"]
 	path = cp/ag/hmu
 	url = .
+[submodule "cp/be/ixx"]
+	path = cp/be/ixx
+	url = .
 [submodule "cp/cb/jnh"]
 	path = cp/cb/jnh
 	url = .
