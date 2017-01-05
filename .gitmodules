@@ -2344,6 +2344,9 @@
 [submodule "sg/vn/oaf"]
 	path = sg/vn/oaf
 	url = .
+[submodule "sk/uv/ada"]
+	path = sk/uv/ada
+	url = .
 [submodule "sm/ai/qfy"]
 	path = sm/ai/qfy
 	url = .
