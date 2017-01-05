@@ -2272,6 +2272,9 @@
 [submodule "co/iz/fxn"]
 	path = co/iz/fxn
 	url = .
+[submodule "co/kb/skc"]
+	path = co/kb/skc
+	url = .
 [submodule "co/of/qoi"]
 	path = co/of/qoi
 	url = .
