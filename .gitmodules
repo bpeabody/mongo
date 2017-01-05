@@ -8089,6 +8089,9 @@
 [submodule "rf/or/nyj"]
 	path = rf/or/nyj
 	url = .
+[submodule "rf/sa/jms"]
+	path = rf/sa/jms
+	url = .
 [submodule "rg/bb/wfk"]
 	path = rg/bb/wfk
 	url = .
