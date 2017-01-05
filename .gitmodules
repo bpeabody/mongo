@@ -6337,6 +6337,9 @@
 [submodule "gk/mw/ksp"]
 	path = gk/mw/ksp
 	url = .
+[submodule "gk/nm/lkv"]
+	path = gk/nm/lkv
+	url = .
 [submodule "gk/nz/uti"]
 	path = gk/nz/uti
 	url = .
