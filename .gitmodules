@@ -23608,6 +23608,9 @@
 [submodule "ro/av/olr"]
 	path = ro/av/olr
 	url = .
+[submodule "ro/cg/xwd"]
+	path = ro/cg/xwd
+	url = .
 [submodule "ro/cx/agh"]
 	path = ro/cx/agh
 	url = .
