@@ -2263,6 +2263,9 @@
 [submodule "bp/te/rts"]
 	path = bp/te/rts
 	url = .
+[submodule "bp/vq/rfp"]
+	path = bp/vq/rfp
+	url = .
 [submodule "bp/xc/fgr"]
 	path = bp/xc/fgr
 	url = .
