@@ -43120,6 +43120,9 @@
 [submodule "wq/ii/nrk"]
 	path = wq/ii/nrk
 	url = .
+[submodule "wq/ij/sso"]
+	path = wq/ij/sso
+	url = .
 [submodule "wq/iy/egs"]
 	path = wq/iy/egs
 	url = .
