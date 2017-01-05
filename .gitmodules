@@ -15358,6 +15358,9 @@
 [submodule "no/po/fro"]
 	path = no/po/fro
 	url = .
+[submodule "no/pq/cxg"]
+	path = no/pq/cxg
+	url = .
 [submodule "no/qw/oes"]
 	path = no/qw/oes
 	url = .
