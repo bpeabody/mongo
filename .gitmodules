@@ -40180,6 +40180,9 @@
 [submodule "rl/wu/dwr"]
 	path = rl/wu/dwr
 	url = .
+[submodule "rl/xi/wik"]
+	path = rl/xi/wik
+	url = .
 [submodule "rl/yb/bwp"]
 	path = rl/yb/bwp
 	url = .
