@@ -65413,6 +65413,9 @@
 [submodule "xk/ow/sya"]
 	path = xk/ow/sya
 	url = .
+[submodule "xk/oy/cpp"]
+	path = xk/oy/cpp
+	url = .
 [submodule "xk/ps/ujw"]
 	path = xk/ps/ujw
 	url = .
