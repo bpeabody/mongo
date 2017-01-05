@@ -25300,6 +25300,9 @@
 [submodule "wc/rn/luf"]
 	path = wc/rn/luf
 	url = .
+[submodule "wc/sl/bdg"]
+	path = wc/sl/bdg
+	url = .
 [submodule "wc/ts/fjc"]
 	path = wc/ts/fjc
 	url = .
