@@ -8167,6 +8167,9 @@
 [submodule "cr/pt/hqt"]
 	path = cr/pt/hqt
 	url = .
+[submodule "cr/qa/fud"]
+	path = cr/qa/fud
+	url = .
 [submodule "cr/qj/ldb"]
 	path = cr/qj/ldb
 	url = .
