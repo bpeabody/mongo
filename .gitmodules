@@ -18535,6 +18535,9 @@
 [submodule "lu/rz/duy"]
 	path = lu/rz/duy
 	url = .
+[submodule "lu/uq/igi"]
+	path = lu/uq/igi
+	url = .
 [submodule "lu/va/obg"]
 	path = lu/va/obg
 	url = .
