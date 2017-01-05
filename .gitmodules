@@ -20935,6 +20935,9 @@
 [submodule "lv/wj/dxz"]
 	path = lv/wj/dxz
 	url = .
+[submodule "lv/xg/eqc"]
+	path = lv/xg/eqc
+	url = .
 [submodule "lv/zr/gmn"]
 	path = lv/zr/gmn
 	url = .
