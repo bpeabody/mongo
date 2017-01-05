@@ -16609,6 +16609,9 @@
 [submodule "ra/mx/rbt"]
 	path = ra/mx/rbt
 	url = .
+[submodule "ra/nh/bgf"]
+	path = ra/nh/bgf
+	url = .
 [submodule "ra/qt/aux"]
 	path = ra/qt/aux
 	url = .
