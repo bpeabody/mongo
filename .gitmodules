@@ -56560,6 +56560,9 @@
 [submodule "tv/mf/xos"]
 	path = tv/mf/xos
 	url = .
+[submodule "tv/mg/avi"]
+	path = tv/mg/avi
+	url = .
 [submodule "tv/mu/swr"]
 	path = tv/mu/swr
 	url = .
