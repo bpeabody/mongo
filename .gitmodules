@@ -47221,6 +47221,9 @@
 [submodule "tc/vn/mps"]
 	path = tc/vn/mps
 	url = .
+[submodule "tc/xa/ndn"]
+	path = tc/xa/ndn
+	url = .
 [submodule "tc/yg/jde"]
 	path = tc/yg/jde
 	url = .
