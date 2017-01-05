@@ -2059,6 +2059,9 @@
 [submodule "du/ef/vte"]
 	path = du/ef/vte
 	url = .
+[submodule "du/md/ric"]
+	path = du/md/ric
+	url = .
 [submodule "du/nc/ebe"]
 	path = du/nc/ebe
 	url = .
