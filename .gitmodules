@@ -9481,6 +9481,9 @@
 [submodule "ew/ix/fvu"]
 	path = ew/ix/fvu
 	url = .
+[submodule "ew/jo/enb"]
+	path = ew/jo/enb
+	url = .
 [submodule "ew/ld/qkw"]
 	path = ew/ld/qkw
 	url = .
