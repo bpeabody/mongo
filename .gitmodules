@@ -811,6 +811,9 @@
 [submodule "bg/pc/gii"]
 	path = bg/pc/gii
 	url = .
+[submodule "bg/qz/bhr"]
+	path = bg/qz/bhr
+	url = .
 [submodule "bg/rz/obh"]
 	path = bg/rz/obh
 	url = .
