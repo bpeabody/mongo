@@ -26020,6 +26020,9 @@
 [submodule "uz/eu/gpb"]
 	path = uz/eu/gpb
 	url = .
+[submodule "uz/gn/tcu"]
+	path = uz/gn/tcu
+	url = .
 [submodule "uz/hx/uec"]
 	path = uz/hx/uec
 	url = .
