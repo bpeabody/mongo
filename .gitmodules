@@ -835,6 +835,9 @@
 [submodule "bi/kc/rba"]
 	path = bi/kc/rba
 	url = .
+[submodule "bi/ow/kdk"]
+	path = bi/ow/kdk
+	url = .
 [submodule "bi/vm/emc"]
 	path = bi/vm/emc
 	url = .
