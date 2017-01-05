@@ -11068,6 +11068,9 @@
 [submodule "rz/hf/dig"]
 	path = rz/hf/dig
 	url = .
+[submodule "rz/ml/fmq"]
+	path = rz/ml/fmq
+	url = .
 [submodule "rz/ye/nhh"]
 	path = rz/ye/nhh
 	url = .
