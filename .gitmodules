@@ -5362,6 +5362,9 @@
 [submodule "uv/zb/pvp"]
 	path = uv/zb/pvp
 	url = .
+[submodule "uw/ah/hca"]
+	path = uw/ah/hca
+	url = .
 [submodule "uw/kn/fbv"]
 	path = uw/kn/fbv
 	url = .
