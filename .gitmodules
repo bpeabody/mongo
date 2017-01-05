@@ -39718,6 +39718,9 @@
 [submodule "qd/me/myc"]
 	path = qd/me/myc
 	url = .
+[submodule "qd/mt/ckg"]
+	path = qd/mt/ckg
+	url = .
 [submodule "qd/mt/xxp"]
 	path = qd/mt/xxp
 	url = .
