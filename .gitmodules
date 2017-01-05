@@ -39067,6 +39067,9 @@
 [submodule "oj/wv/ajb"]
 	path = oj/wv/ajb
 	url = .
+[submodule "oj/wy/qfl"]
+	path = oj/wy/qfl
+	url = .
 [submodule "oj/xm/wrc"]
 	path = oj/xm/wrc
 	url = .
