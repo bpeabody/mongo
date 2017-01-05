@@ -33622,6 +33622,9 @@
 [submodule "oc/bi/trf"]
 	path = oc/bi/trf
 	url = .
+[submodule "oc/by/qqi"]
+	path = oc/by/qqi
+	url = .
 [submodule "oc/dq/unq"]
 	path = oc/dq/unq
 	url = .
