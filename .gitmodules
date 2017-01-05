@@ -2641,6 +2641,9 @@
 [submodule "gj/lf/onp"]
 	path = gj/lf/onp
 	url = .
+[submodule "gj/nw/qvk"]
+	path = gj/nw/qvk
+	url = .
 [submodule "gj/tg/mta"]
 	path = gj/tg/mta
 	url = .
