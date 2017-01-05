@@ -49054,6 +49054,9 @@
 [submodule "yg/gn/cdn"]
 	path = yg/gn/cdn
 	url = .
+[submodule "yg/hs/uil"]
+	path = yg/hs/uil
+	url = .
 [submodule "yg/hs/yah"]
 	path = yg/hs/yah
 	url = .
