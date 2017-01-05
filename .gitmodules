@@ -2293,6 +2293,9 @@
 [submodule "eq/io/des"]
 	path = eq/io/des
 	url = .
+[submodule "eq/vy/kof"]
+	path = eq/vy/kof
+	url = .
 [submodule "eq/xk/wdn"]
 	path = eq/xk/wdn
 	url = .
