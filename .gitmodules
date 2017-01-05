@@ -256,6 +256,9 @@
 [submodule "kg/og/owe"]
 	path = kg/og/owe
 	url = .
+[submodule "kk/xf/mqx"]
+	path = kk/xf/mqx
+	url = .
 [submodule "ko/xh/ucl"]
 	path = ko/xh/ucl
 	url = .
