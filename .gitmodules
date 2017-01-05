@@ -46366,6 +46366,9 @@
 [submodule "wc/vt/dcr"]
 	path = wc/vt/dcr
 	url = .
+[submodule "wc/wx/nuq"]
+	path = wc/wx/nuq
+	url = .
 [submodule "wc/yj/txl"]
 	path = wc/yj/txl
 	url = .
