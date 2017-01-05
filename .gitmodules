@@ -15646,6 +15646,9 @@
 [submodule "iu/qd/yxo"]
 	path = iu/qd/yxo
 	url = .
+[submodule "iu/rc/gum"]
+	path = iu/rc/gum
+	url = .
 [submodule "iu/up/hly"]
 	path = iu/up/hly
 	url = .
