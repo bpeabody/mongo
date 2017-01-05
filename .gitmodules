@@ -23728,6 +23728,9 @@
 [submodule "sr/ce/mab"]
 	path = sr/ce/mab
 	url = .
+[submodule "sr/ci/feh"]
+	path = sr/ci/feh
+	url = .
 [submodule "sr/cm/mqr"]
 	path = sr/cm/mqr
 	url = .
