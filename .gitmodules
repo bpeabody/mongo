@@ -4993,6 +4993,9 @@
 [submodule "ff/rt/vnp"]
 	path = ff/rt/vnp
 	url = .
+[submodule "ff/sd/coi"]
+	path = ff/sd/coi
+	url = .
 [submodule "ff/xd/avo"]
 	path = ff/xd/avo
 	url = .
