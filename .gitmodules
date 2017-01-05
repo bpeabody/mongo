@@ -59371,6 +59371,9 @@
 [submodule "xz/ua/qdr"]
 	path = xz/ua/qdr
 	url = .
+[submodule "xz/uj/svd"]
+	path = xz/uj/svd
+	url = .
 [submodule "xz/va/mdt"]
 	path = xz/va/mdt
 	url = .
