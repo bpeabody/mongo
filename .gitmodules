@@ -9457,6 +9457,9 @@
 [submodule "hh/gq/epm"]
 	path = hh/gq/epm
 	url = .
+[submodule "hh/hf/rdf"]
+	path = hh/hf/rdf
+	url = .
 [submodule "hh/ht/ivh"]
 	path = hh/ht/ivh
 	url = .
