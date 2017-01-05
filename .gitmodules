@@ -41356,6 +41356,9 @@
 [submodule "qg/pm/vdv"]
 	path = qg/pm/vdv
 	url = .
+[submodule "qg/qp/keg"]
+	path = qg/qp/keg
+	url = .
 [submodule "qg/qq/ocz"]
 	path = qg/qq/ocz
 	url = .
