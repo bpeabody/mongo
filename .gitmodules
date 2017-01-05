@@ -21193,6 +21193,9 @@
 [submodule "jp/az/kpo"]
 	path = jp/az/kpo
 	url = .
+[submodule "jp/bb/wdr"]
+	path = jp/bb/wdr
+	url = .
 [submodule "jp/cb/xni"]
 	path = jp/cb/xni
 	url = .
