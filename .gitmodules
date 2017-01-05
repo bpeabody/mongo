@@ -1099,6 +1099,9 @@
 [submodule "bu/py/kao"]
 	path = bu/py/kao
 	url = .
+[submodule "bu/se/hyi"]
+	path = bu/se/hyi
+	url = .
 [submodule "bv/cy/qvp"]
 	path = bv/cy/qvp
 	url = .
