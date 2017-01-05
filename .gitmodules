@@ -27391,6 +27391,9 @@
 [submodule "ql/xy/nyo"]
 	path = ql/xy/nyo
 	url = .
+[submodule "ql/za/dip"]
+	path = ql/za/dip
+	url = .
 [submodule "qm/ap/ylf"]
 	path = qm/ap/ylf
 	url = .
