@@ -56887,6 +56887,9 @@
 [submodule "tr/pa/qwr"]
 	path = tr/pa/qwr
 	url = .
+[submodule "tr/pg/vgm"]
+	path = tr/pg/vgm
+	url = .
 [submodule "tr/pv/lsh"]
 	path = tr/pv/lsh
 	url = .
