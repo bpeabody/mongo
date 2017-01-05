@@ -61,6 +61,9 @@
 [submodule "gn/ij/ywb"]
 	path = gn/ij/ywb
 	url = .
+[submodule "gp/mr/mji"]
+	path = gp/mr/mji
+	url = .
 [submodule "hn/be/klz"]
 	path = hn/be/klz
 	url = .
