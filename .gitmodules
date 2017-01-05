@@ -30421,6 +30421,9 @@
 [submodule "qe/ed/ezh"]
 	path = qe/ed/ezh
 	url = .
+[submodule "qe/es/yfq"]
+	path = qe/es/yfq
+	url = .
 [submodule "qe/gm/byb"]
 	path = qe/gm/byb
 	url = .
