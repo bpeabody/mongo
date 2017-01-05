@@ -26008,6 +26008,9 @@
 [submodule "zu/qi/zjz"]
 	path = zu/qi/zjz
 	url = .
+[submodule "zu/qv/obb"]
+	path = zu/qv/obb
+	url = .
 [submodule "zu/sg/lpu"]
 	path = zu/sg/lpu
 	url = .
