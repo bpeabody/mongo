@@ -30499,6 +30499,9 @@
 [submodule "oq/ml/wnb"]
 	path = oq/ml/wnb
 	url = .
+[submodule "oq/ms/siw"]
+	path = oq/ms/siw
+	url = .
 [submodule "oq/ms/xcn"]
 	path = oq/ms/xcn
 	url = .
