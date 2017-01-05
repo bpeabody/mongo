@@ -7432,6 +7432,9 @@
 [submodule "dg/sb/pif"]
 	path = dg/sb/pif
 	url = .
+[submodule "dg/sz/pkn"]
+	path = dg/sz/pkn
+	url = .
 [submodule "dg/tv/sey"]
 	path = dg/tv/sey
 	url = .
