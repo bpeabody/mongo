@@ -40075,6 +40075,9 @@
 [submodule "yq/ku/edi"]
 	path = yq/ku/edi
 	url = .
+[submodule "yq/pq/weo"]
+	path = yq/pq/weo
+	url = .
 [submodule "yq/sc/drd"]
 	path = yq/sc/drd
 	url = .
