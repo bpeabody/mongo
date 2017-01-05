@@ -20218,6 +20218,9 @@
 [submodule "ji/sx/jgo"]
 	path = ji/sx/jgo
 	url = .
+[submodule "ji/tf/xuf"]
+	path = ji/tf/xuf
+	url = .
 [submodule "ji/vk/fnq"]
 	path = ji/vk/fnq
 	url = .
