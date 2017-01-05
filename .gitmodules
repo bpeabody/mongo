@@ -67159,6 +67159,9 @@
 [submodule "wk/ks/lpn"]
 	path = wk/ks/lpn
 	url = .
+[submodule "wk/ng/byr"]
+	path = wk/ng/byr
+	url = .
 [submodule "wk/ng/tir"]
 	path = wk/ng/tir
 	url = .
