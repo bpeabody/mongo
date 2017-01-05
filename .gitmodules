@@ -20326,6 +20326,9 @@
 [submodule "is/px/zze"]
 	path = is/px/zze
 	url = .
+[submodule "is/ua/qdm"]
+	path = is/ua/qdm
+	url = .
 [submodule "is/uo/qpr"]
 	path = is/uo/qpr
 	url = .
