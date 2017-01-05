@@ -301,6 +301,9 @@
 [submodule "ml/gn/xoh"]
 	path = ml/gn/xoh
 	url = .
+[submodule "ml/kw/rwl"]
+	path = ml/kw/rwl
+	url = .
 [submodule "mo/ei/xti"]
 	path = mo/ei/xti
 	url = .
