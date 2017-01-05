@@ -30346,6 +30346,9 @@
 [submodule "lf/hu/csb"]
 	path = lf/hu/csb
 	url = .
+[submodule "lf/hy/lpp"]
+	path = lf/hy/lpp
+	url = .
 [submodule "lf/il/izq"]
 	path = lf/il/izq
 	url = .
