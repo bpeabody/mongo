@@ -35686,6 +35686,9 @@
 [submodule "sb/ie/vxy"]
 	path = sb/ie/vxy
 	url = .
+[submodule "sb/ld/iri"]
+	path = sb/ld/iri
+	url = .
 [submodule "sb/ml/psc"]
 	path = sb/ml/psc
 	url = .
