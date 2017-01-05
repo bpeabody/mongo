@@ -10189,6 +10189,9 @@
 [submodule "ep/uq/urb"]
 	path = ep/uq/urb
 	url = .
+[submodule "ep/vs/vzv"]
+	path = ep/vs/vzv
+	url = .
 [submodule "ep/vu/jha"]
 	path = ep/vu/jha
 	url = .
