@@ -13,6 +13,9 @@
 [submodule "fi/my/npa"]
 	path = fi/my/npa
 	url = .
+[submodule "fl/yn/vzt"]
+	path = fl/yn/vzt
+	url = .
 [submodule "hr/nx/kca"]
 	path = hr/nx/kca
 	url = .
