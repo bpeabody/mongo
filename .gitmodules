@@ -5008,6 +5008,9 @@
 [submodule "ca/wz/aur"]
 	path = ca/wz/aur
 	url = .
+[submodule "ca/xj/scs"]
+	path = ca/xj/scs
+	url = .
 [submodule "ca/xu/kwv"]
 	path = ca/xu/kwv
 	url = .
