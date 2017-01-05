@@ -71368,6 +71368,9 @@
 [submodule "ya/nw/xfg"]
 	path = ya/nw/xfg
 	url = .
+[submodule "ya/nx/rej"]
+	path = ya/nx/rej
+	url = .
 [submodule "ya/ow/aqh"]
 	path = ya/ow/aqh
 	url = .
