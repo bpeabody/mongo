@@ -8467,6 +8467,9 @@
 [submodule "gn/kj/fqs"]
 	path = gn/kj/fqs
 	url = .
+[submodule "gn/km/ndj"]
+	path = gn/km/ndj
+	url = .
 [submodule "gn/kw/wav"]
 	path = gn/kw/wav
 	url = .
