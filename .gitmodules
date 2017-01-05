@@ -2305,6 +2305,9 @@
 [submodule "aw/di/quw"]
 	path = aw/di/quw
 	url = .
+[submodule "aw/ey/fzf"]
+	path = aw/ey/fzf
+	url = .
 [submodule "aw/ey/psz"]
 	path = aw/ey/psz
 	url = .
