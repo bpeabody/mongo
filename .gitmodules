@@ -17083,6 +17083,9 @@
 [submodule "gj/zk/rqp"]
 	path = gj/zk/rqp
 	url = .
+[submodule "gj/zv/xel"]
+	path = gj/zv/xel
+	url = .
 [submodule "gk/aa/azx"]
 	path = gk/aa/azx
 	url = .
