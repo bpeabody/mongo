@@ -42487,6 +42487,9 @@
 [submodule "rq/he/uhf"]
 	path = rq/he/uhf
 	url = .
+[submodule "rq/hu/fto"]
+	path = rq/hu/fto
+	url = .
 [submodule "rq/if/vsy"]
 	path = rq/if/vsy
 	url = .
