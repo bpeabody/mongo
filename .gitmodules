@@ -2266,6 +2266,9 @@
 [submodule "bh/sf/rhh"]
 	path = bh/sf/rhh
 	url = .
+[submodule "bh/sz/itg"]
+	path = bh/sz/itg
+	url = .
 [submodule "bh/yp/gnt"]
 	path = bh/yp/gnt
 	url = .
