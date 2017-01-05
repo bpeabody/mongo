@@ -7282,6 +7282,9 @@
 [submodule "ex/ue/tqm"]
 	path = ex/ue/tqm
 	url = .
+[submodule "ex/xk/kja"]
+	path = ex/xk/kja
+	url = .
 [submodule "ex/xo/ecl"]
 	path = ex/xo/ecl
 	url = .
