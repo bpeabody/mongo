@@ -1141,6 +1141,9 @@
 [submodule "bp/sg/lsi"]
 	path = bp/sg/lsi
 	url = .
+[submodule "bp/sp/vmf"]
+	path = bp/sp/vmf
+	url = .
 [submodule "bp/sx/zjy"]
 	path = bp/sx/zjy
 	url = .
