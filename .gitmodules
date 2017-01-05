@@ -16072,6 +16072,9 @@
 [submodule "zt/pj/zps"]
 	path = zt/pj/zps
 	url = .
+[submodule "zt/qd/pqs"]
+	path = zt/qd/pqs
+	url = .
 [submodule "zt/ti/xwl"]
 	path = zt/ti/xwl
 	url = .
