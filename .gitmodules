@@ -2983,6 +2983,9 @@
 [submodule "fz/ed/lhb"]
 	path = fz/ed/lhb
 	url = .
+[submodule "fz/hg/mqv"]
+	path = fz/hg/mqv
+	url = .
 [submodule "fz/hq/xuo"]
 	path = fz/hq/xuo
 	url = .
