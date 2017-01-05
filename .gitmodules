@@ -6934,6 +6934,9 @@
 [submodule "rn/hl/mkk"]
 	path = rn/hl/mkk
 	url = .
+[submodule "rn/uc/ncn"]
+	path = rn/uc/ncn
+	url = .
 [submodule "rn/uh/qmv"]
 	path = rn/uh/qmv
 	url = .
