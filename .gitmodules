@@ -7954,6 +7954,9 @@
 [submodule "hp/qr/pld"]
 	path = hp/qr/pld
 	url = .
+[submodule "hp/rx/swl"]
+	path = hp/rx/swl
+	url = .
 [submodule "hp/ub/jfq"]
 	path = hp/ub/jfq
 	url = .
