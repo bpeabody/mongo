@@ -853,6 +853,9 @@
 [submodule "ne/zn/urq"]
 	path = ne/zn/urq
 	url = .
+[submodule "ng/io/njq"]
+	path = ng/io/njq
+	url = .
 [submodule "nh/js/wmn"]
 	path = nh/js/wmn
 	url = .
