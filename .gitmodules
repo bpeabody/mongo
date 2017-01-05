@@ -24751,6 +24751,9 @@
 [submodule "ra/nh/bgf"]
 	path = ra/nh/bgf
 	url = .
+[submodule "ra/nj/utc"]
+	path = ra/nj/utc
+	url = .
 [submodule "ra/nn/ssb"]
 	path = ra/nn/ssb
 	url = .
