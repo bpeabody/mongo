@@ -6451,6 +6451,9 @@
 [submodule "cq/jq/biz"]
 	path = cq/jq/biz
 	url = .
+[submodule "cq/nb/wyr"]
+	path = cq/nb/wyr
+	url = .
 [submodule "cq/nq/gje"]
 	path = cq/nq/gje
 	url = .
