@@ -17452,6 +17452,9 @@
 [submodule "jg/kd/dmq"]
 	path = jg/kd/dmq
 	url = .
+[submodule "jg/kd/qcx"]
+	path = jg/kd/qcx
+	url = .
 [submodule "jg/kp/ikh"]
 	path = jg/kp/ikh
 	url = .
