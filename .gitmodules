@@ -754,6 +754,9 @@
 [submodule "ag/tt/hyl"]
 	path = ag/tt/hyl
 	url = .
+[submodule "ag/tu/ynj"]
+	path = ag/tu/ynj
+	url = .
 [submodule "ag/ub/mzo"]
 	path = ag/ub/mzo
 	url = .
