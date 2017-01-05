@@ -7228,6 +7228,9 @@
 [submodule "jd/ka/gwg"]
 	path = jd/ka/gwg
 	url = .
+[submodule "jd/ll/tgn"]
+	path = jd/ll/tgn
+	url = .
 [submodule "jd/lt/cjf"]
 	path = jd/lt/cjf
 	url = .
