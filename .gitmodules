@@ -24232,6 +24232,9 @@
 [submodule "hz/tm/nhf"]
 	path = hz/tm/nhf
 	url = .
+[submodule "hz/tm/nld"]
+	path = hz/tm/nld
+	url = .
 [submodule "hz/tn/mnp"]
 	path = hz/tn/mnp
 	url = .
