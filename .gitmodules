@@ -2908,6 +2908,9 @@
 [submodule "cp/ta/mwk"]
 	path = cp/ta/mwk
 	url = .
+[submodule "cp/tk/vlw"]
+	path = cp/tk/vlw
+	url = .
 [submodule "cp/va/llc"]
 	path = cp/va/llc
 	url = .
