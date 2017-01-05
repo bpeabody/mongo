@@ -15700,6 +15700,9 @@
 [submodule "ww/ep/zdj"]
 	path = ww/ep/zdj
 	url = .
+[submodule "ww/fh/mqq"]
+	path = ww/fh/mqq
+	url = .
 [submodule "ww/le/ogl"]
 	path = ww/le/ogl
 	url = .
