@@ -1141,6 +1141,9 @@
 [submodule "um/lg/wsb"]
 	path = um/lg/wsb
 	url = .
+[submodule "um/lx/xcd"]
+	path = um/lx/xcd
+	url = .
 [submodule "un/kz/vgz"]
 	path = un/kz/vgz
 	url = .
