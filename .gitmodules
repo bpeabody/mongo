@@ -7246,6 +7246,9 @@
 [submodule "kg/de/bwb"]
 	path = kg/de/bwb
 	url = .
+[submodule "kg/ek/kqy"]
+	path = kg/ek/kqy
+	url = .
 [submodule "kg/eu/ctx"]
 	path = kg/eu/ctx
 	url = .
