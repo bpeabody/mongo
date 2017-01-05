@@ -39778,6 +39778,9 @@
 [submodule "yo/op/ayy"]
 	path = yo/op/ayy
 	url = .
+[submodule "yo/ps/tuf"]
+	path = yo/ps/tuf
+	url = .
 [submodule "yo/sq/iwr"]
 	path = yo/sq/iwr
 	url = .
