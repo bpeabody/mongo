@@ -9811,6 +9811,9 @@
 [submodule "hv/yn/jjx"]
 	path = hv/yn/jjx
 	url = .
+[submodule "hw/cs/iha"]
+	path = hw/cs/iha
+	url = .
 [submodule "hw/fs/pxc"]
 	path = hw/fs/pxc
 	url = .
