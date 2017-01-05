@@ -8944,6 +8944,9 @@
 [submodule "pk/rd/brg"]
 	path = pk/rd/brg
 	url = .
+[submodule "pk/up/wwn"]
+	path = pk/up/wwn
+	url = .
 [submodule "pl/mt/dgj"]
 	path = pl/mt/dgj
 	url = .
