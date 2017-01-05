@@ -5143,6 +5143,9 @@
 [submodule "cg/gc/oni"]
 	path = cg/gc/oni
 	url = .
+[submodule "cg/hp/gub"]
+	path = cg/hp/gub
+	url = .
 [submodule "cg/jc/aqr"]
 	path = cg/jc/aqr
 	url = .
