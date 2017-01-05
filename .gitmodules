@@ -58372,6 +58372,9 @@
 [submodule "xc/lw/sca"]
 	path = xc/lw/sca
 	url = .
+[submodule "xc/lw/xns"]
+	path = xc/lw/xns
+	url = .
 [submodule "xc/nw/yyh"]
 	path = xc/nw/yyh
 	url = .
