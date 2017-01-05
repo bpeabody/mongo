@@ -5110,6 +5110,9 @@
 [submodule "dd/uv/ykq"]
 	path = dd/uv/ykq
 	url = .
+[submodule "dd/uy/wrb"]
+	path = dd/uy/wrb
+	url = .
 [submodule "dd/vb/awq"]
 	path = dd/vb/awq
 	url = .
