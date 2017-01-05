@@ -4267,6 +4267,9 @@
 [submodule "dk/be/ans"]
 	path = dk/be/ans
 	url = .
+[submodule "dk/by/xpu"]
+	path = dk/by/xpu
+	url = .
 [submodule "dk/cj/ovv"]
 	path = dk/cj/ovv
 	url = .
