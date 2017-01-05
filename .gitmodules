@@ -277,6 +277,9 @@
 [submodule "ev/pz/lbn"]
 	path = ev/pz/lbn
 	url = .
+[submodule "ew/bc/whh"]
+	path = ew/bc/whh
+	url = .
 [submodule "ew/cl/yta"]
 	path = ew/cl/yta
 	url = .
