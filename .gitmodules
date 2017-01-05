@@ -1132,6 +1132,9 @@
 [submodule "no/qw/oes"]
 	path = no/qw/oes
 	url = .
+[submodule "no/rk/ipe"]
+	path = no/rk/ipe
+	url = .
 [submodule "ns/ws/rci"]
 	path = ns/ws/rci
 	url = .
