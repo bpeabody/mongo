@@ -50467,6 +50467,9 @@
 [submodule "zq/ex/fsz"]
 	path = zq/ex/fsz
 	url = .
+[submodule "zq/hc/uur"]
+	path = zq/hc/uur
+	url = .
 [submodule "zq/ie/neu"]
 	path = zq/ie/neu
 	url = .
