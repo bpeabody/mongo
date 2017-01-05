@@ -28321,6 +28321,9 @@
 [submodule "qi/qa/dpi"]
 	path = qi/qa/dpi
 	url = .
+[submodule "qi/rz/nld"]
+	path = qi/rz/nld
+	url = .
 [submodule "qi/sw/qeq"]
 	path = qi/sw/qeq
 	url = .
