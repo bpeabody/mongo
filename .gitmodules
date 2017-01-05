@@ -48484,6 +48484,9 @@
 [submodule "sn/kv/nfn"]
 	path = sn/kv/nfn
 	url = .
+[submodule "sn/la/ogz"]
+	path = sn/la/ogz
+	url = .
 [submodule "sn/nm/dfd"]
 	path = sn/nm/dfd
 	url = .
