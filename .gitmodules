@@ -17518,6 +17518,9 @@
 [submodule "yi/an/kmo"]
 	path = yi/an/kmo
 	url = .
+[submodule "yi/ar/lqn"]
+	path = yi/ar/lqn
+	url = .
 [submodule "yi/dd/jqw"]
 	path = yi/dd/jqw
 	url = .
