@@ -247,6 +247,9 @@
 [submodule "ac/go/qgq"]
 	path = ac/go/qgq
 	url = .
+[submodule "ac/id/hch"]
+	path = ac/id/hch
+	url = .
 [submodule "ac/im/aph"]
 	path = ac/im/aph
 	url = .
