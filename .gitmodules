@@ -4420,6 +4420,9 @@
 [submodule "cz/xb/sai"]
 	path = cz/xb/sai
 	url = .
+[submodule "cz/xu/fei"]
+	path = cz/xu/fei
+	url = .
 [submodule "da/ar/eux"]
 	path = da/ar/eux
 	url = .
