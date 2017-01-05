@@ -40654,6 +40654,9 @@
 [submodule "rs/ue/qwv"]
 	path = rs/ue/qwv
 	url = .
+[submodule "rs/va/mbs"]
+	path = rs/va/mbs
+	url = .
 [submodule "rs/vt/ahl"]
 	path = rs/vt/ahl
 	url = .
