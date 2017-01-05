@@ -31321,6 +31321,9 @@
 [submodule "sy/po/ygo"]
 	path = sy/po/ygo
 	url = .
+[submodule "sy/re/ivo"]
+	path = sy/re/ivo
+	url = .
 [submodule "sy/rs/gdj"]
 	path = sy/rs/gdj
 	url = .
