@@ -18712,6 +18712,9 @@
 [submodule "hc/vm/odg"]
 	path = hc/vm/odg
 	url = .
+[submodule "hc/wy/ckr"]
+	path = hc/wy/ckr
+	url = .
 [submodule "hc/yd/kra"]
 	path = hc/yd/kra
 	url = .
