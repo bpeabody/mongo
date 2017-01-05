@@ -11470,6 +11470,9 @@
 [submodule "zm/oz/udz"]
 	path = zm/oz/udz
 	url = .
+[submodule "zm/sy/fyz"]
+	path = zm/sy/fyz
+	url = .
 [submodule "zn/cv/cuh"]
 	path = zn/cv/cuh
 	url = .
