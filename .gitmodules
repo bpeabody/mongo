@@ -460,6 +460,9 @@
 [submodule "iw/ik/riv"]
 	path = iw/ik/riv
 	url = .
+[submodule "ix/qy/hgt"]
+	path = ix/qy/hgt
+	url = .
 [submodule "ix/yt/okh"]
 	path = ix/yt/okh
 	url = .
