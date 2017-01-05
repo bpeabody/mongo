@@ -38299,6 +38299,9 @@
 [submodule "vx/tc/onm"]
 	path = vx/tc/onm
 	url = .
+[submodule "vx/ux/zry"]
+	path = vx/ux/zry
+	url = .
 [submodule "vx/vi/gzq"]
 	path = vx/vi/gzq
 	url = .
