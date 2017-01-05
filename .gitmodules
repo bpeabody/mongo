@@ -19714,6 +19714,9 @@
 [submodule "pw/nn/ekh"]
 	path = pw/nn/ekh
 	url = .
+[submodule "pw/sf/qvc"]
+	path = pw/sf/qvc
+	url = .
 [submodule "pw/ty/zag"]
 	path = pw/ty/zag
 	url = .
