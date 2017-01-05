@@ -6937,6 +6937,9 @@
 [submodule "eg/ex/uxr"]
 	path = eg/ex/uxr
 	url = .
+[submodule "eg/gb/kou"]
+	path = eg/gb/kou
+	url = .
 [submodule "eg/gu/qbq"]
 	path = eg/gu/qbq
 	url = .
