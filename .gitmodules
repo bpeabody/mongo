@@ -424,6 +424,9 @@
 [submodule "ao/rv/pdd"]
 	path = ao/rv/pdd
 	url = .
+[submodule "ao/su/txq"]
+	path = ao/su/txq
+	url = .
 [submodule "ao/tn/caf"]
 	path = ao/tn/caf
 	url = .
