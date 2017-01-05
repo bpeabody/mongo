@@ -8629,6 +8629,9 @@
 [submodule "jt/lj/upn"]
 	path = jt/lj/upn
 	url = .
+[submodule "jt/rr/bvr"]
+	path = jt/rr/bvr
+	url = .
 [submodule "jt/tb/ioi"]
 	path = jt/tb/ioi
 	url = .
