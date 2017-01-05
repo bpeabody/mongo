@@ -2806,6 +2806,9 @@
 [submodule "cc/gw/vtg"]
 	path = cc/gw/vtg
 	url = .
+[submodule "cc/hm/ecd"]
+	path = cc/hm/ecd
+	url = .
 [submodule "cc/hq/dph"]
 	path = cc/hq/dph
 	url = .
