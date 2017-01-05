@@ -40531,6 +40531,9 @@
 [submodule "yd/bx/ngy"]
 	path = yd/bx/ngy
 	url = .
+[submodule "yd/da/mxd"]
+	path = yd/da/mxd
+	url = .
 [submodule "yd/da/qsb"]
 	path = yd/da/qsb
 	url = .
