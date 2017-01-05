@@ -16315,6 +16315,9 @@
 [submodule "vs/mo/nnx"]
 	path = vs/mo/nnx
 	url = .
+[submodule "vs/mq/hyk"]
+	path = vs/mq/hyk
+	url = .
 [submodule "vs/sy/zwz"]
 	path = vs/sy/zwz
 	url = .
