@@ -12436,6 +12436,9 @@
 [submodule "fq/ty/fib"]
 	path = fq/ty/fib
 	url = .
+[submodule "fq/uu/duf"]
+	path = fq/uu/duf
+	url = .
 [submodule "fq/ux/msk"]
 	path = fq/ux/msk
 	url = .
