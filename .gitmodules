@@ -15328,6 +15328,9 @@
 [submodule "hd/oq/qyg"]
 	path = hd/oq/qyg
 	url = .
+[submodule "hd/pl/xpr"]
+	path = hd/pl/xpr
+	url = .
 [submodule "hd/pt/vof"]
 	path = hd/pt/vof
 	url = .
