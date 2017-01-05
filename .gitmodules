@@ -65290,6 +65290,9 @@
 [submodule "wi/mr/nyg"]
 	path = wi/mr/nyg
 	url = .
+[submodule "wi/mw/dek"]
+	path = wi/mw/dek
+	url = .
 [submodule "wi/nd/xty"]
 	path = wi/nd/xty
 	url = .
