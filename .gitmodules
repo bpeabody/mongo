@@ -9865,6 +9865,9 @@
 [submodule "qz/vo/osx"]
 	path = qz/vo/osx
 	url = .
+[submodule "qz/vp/aae"]
+	path = qz/vp/aae
+	url = .
 [submodule "qz/yk/nrb"]
 	path = qz/yk/nrb
 	url = .
