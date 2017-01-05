@@ -43534,6 +43534,9 @@
 [submodule "rw/eb/mle"]
 	path = rw/eb/mle
 	url = .
+[submodule "rw/ee/ckp"]
+	path = rw/ee/ckp
+	url = .
 [submodule "rw/ej/wai"]
 	path = rw/ej/wai
 	url = .
