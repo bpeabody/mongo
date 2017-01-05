@@ -2407,6 +2407,9 @@
 [submodule "ln/pg/khf"]
 	path = ln/pg/khf
 	url = .
+[submodule "lo/be/eue"]
+	path = lo/be/eue
+	url = .
 [submodule "lo/en/aei"]
 	path = lo/en/aei
 	url = .
