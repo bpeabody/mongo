@@ -16633,6 +16633,9 @@
 [submodule "om/if/kau"]
 	path = om/if/kau
 	url = .
+[submodule "om/kl/ujj"]
+	path = om/kl/ujj
+	url = .
 [submodule "om/mq/ony"]
 	path = om/mq/ony
 	url = .
