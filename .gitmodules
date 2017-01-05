@@ -20122,6 +20122,9 @@
 [submodule "kc/qp/vuz"]
 	path = kc/qp/vuz
 	url = .
+[submodule "kc/ru/uku"]
+	path = kc/ru/uku
+	url = .
 [submodule "kc/tm/avi"]
 	path = kc/tm/avi
 	url = .
