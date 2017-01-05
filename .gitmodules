@@ -30631,6 +30631,9 @@
 [submodule "md/rp/dqj"]
 	path = md/rp/dqj
 	url = .
+[submodule "md/sc/tgx"]
+	path = md/sc/tgx
+	url = .
 [submodule "md/td/vbp"]
 	path = md/td/vbp
 	url = .
