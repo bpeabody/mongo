@@ -11968,6 +11968,9 @@
 [submodule "fn/wy/nor"]
 	path = fn/wy/nor
 	url = .
+[submodule "fn/yd/rof"]
+	path = fn/yd/rof
+	url = .
 [submodule "fn/yd/sri"]
 	path = fn/yd/sri
 	url = .
