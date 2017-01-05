@@ -16861,6 +16861,9 @@
 [submodule "kc/gx/trz"]
 	path = kc/gx/trz
 	url = .
+[submodule "kc/io/hbo"]
+	path = kc/io/hbo
+	url = .
 [submodule "kc/ir/umq"]
 	path = kc/ir/umq
 	url = .
