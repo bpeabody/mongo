@@ -1741,6 +1741,9 @@
 [submodule "fs/lr/yer"]
 	path = fs/lr/yer
 	url = .
+[submodule "fs/oy/tjg"]
+	path = fs/oy/tjg
+	url = .
 [submodule "fs/vh/xqg"]
 	path = fs/vh/xqg
 	url = .
