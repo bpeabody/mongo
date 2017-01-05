@@ -12244,6 +12244,9 @@
 [submodule "jb/ms/btq"]
 	path = jb/ms/btq
 	url = .
+[submodule "jb/my/qsq"]
+	path = jb/my/qsq
+	url = .
 [submodule "jb/sq/ibi"]
 	path = jb/sq/ibi
 	url = .
