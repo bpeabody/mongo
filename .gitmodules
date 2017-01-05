@@ -45373,6 +45373,9 @@
 [submodule "vx/fs/azq"]
 	path = vx/fs/azq
 	url = .
+[submodule "vx/gq/ifb"]
+	path = vx/gq/ifb
+	url = .
 [submodule "vx/ho/uix"]
 	path = vx/ho/uix
 	url = .
