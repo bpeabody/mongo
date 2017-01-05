@@ -6373,6 +6373,9 @@
 [submodule "cu/fp/stj"]
 	path = cu/fp/stj
 	url = .
+[submodule "cu/ix/hdi"]
+	path = cu/ix/hdi
+	url = .
 [submodule "cu/ix/yqc"]
 	path = cu/ix/yqc
 	url = .
