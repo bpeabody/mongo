@@ -12559,6 +12559,9 @@
 [submodule "fs/bj/zmw"]
 	path = fs/bj/zmw
 	url = .
+[submodule "fs/cj/avd"]
+	path = fs/cj/avd
+	url = .
 [submodule "fs/cr/aov"]
 	path = fs/cr/aov
 	url = .
