@@ -16279,6 +16279,9 @@
 [submodule "yr/hq/lca"]
 	path = yr/hq/lca
 	url = .
+[submodule "yr/id/loc"]
+	path = yr/id/loc
+	url = .
 [submodule "yr/kd/cdq"]
 	path = yr/kd/cdq
 	url = .
