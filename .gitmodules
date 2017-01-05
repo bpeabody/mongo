@@ -5563,6 +5563,9 @@
 [submodule "bz/rn/bjk"]
 	path = bz/rn/bjk
 	url = .
+[submodule "bz/rs/tba"]
+	path = bz/rs/tba
+	url = .
 [submodule "bz/tb/enc"]
 	path = bz/tb/enc
 	url = .
