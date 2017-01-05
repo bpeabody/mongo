@@ -22597,6 +22597,9 @@
 [submodule "zs/nc/tdc"]
 	path = zs/nc/tdc
 	url = .
+[submodule "zs/nq/qeg"]
+	path = zs/nq/qeg
+	url = .
 [submodule "zs/rh/oif"]
 	path = zs/rh/oif
 	url = .
