@@ -21985,6 +21985,9 @@
 [submodule "hg/za/hce"]
 	path = hg/za/hce
 	url = .
+[submodule "hg/zf/aqr"]
+	path = hg/zf/aqr
+	url = .
 [submodule "hh/aj/hnd"]
 	path = hh/aj/hnd
 	url = .
