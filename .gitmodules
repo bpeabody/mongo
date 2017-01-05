@@ -44083,6 +44083,9 @@
 [submodule "tl/hw/wui"]
 	path = tl/hw/wui
 	url = .
+[submodule "tl/il/rqc"]
+	path = tl/il/rqc
+	url = .
 [submodule "tl/iv/vny"]
 	path = tl/iv/vny
 	url = .
