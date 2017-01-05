@@ -3694,6 +3694,9 @@
 [submodule "cd/iu/bqv"]
 	path = cd/iu/bqv
 	url = .
+[submodule "cd/pr/mwu"]
+	path = cd/pr/mwu
+	url = .
 [submodule "cd/wm/acw"]
 	path = cd/wm/acw
 	url = .
