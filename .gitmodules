@@ -19123,6 +19123,9 @@
 [submodule "oe/qt/gef"]
 	path = oe/qt/gef
 	url = .
+[submodule "oe/rn/tli"]
+	path = oe/rn/tli
+	url = .
 [submodule "oe/vd/lla"]
 	path = oe/vd/lla
 	url = .
