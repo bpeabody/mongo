@@ -22999,6 +22999,9 @@
 [submodule "te/ao/dsr"]
 	path = te/ao/dsr
 	url = .
+[submodule "te/bh/cmh"]
+	path = te/bh/cmh
+	url = .
 [submodule "te/cm/vea"]
 	path = te/cm/vea
 	url = .
