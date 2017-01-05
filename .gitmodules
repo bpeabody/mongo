@@ -16192,6 +16192,9 @@
 [submodule "gw/ir/kob"]
 	path = gw/ir/kob
 	url = .
+[submodule "gw/iv/qfk"]
+	path = gw/iv/qfk
+	url = .
 [submodule "gw/jy/sup"]
 	path = gw/jy/sup
 	url = .
