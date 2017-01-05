@@ -14743,6 +14743,9 @@
 [submodule "ku/jg/web"]
 	path = ku/jg/web
 	url = .
+[submodule "ku/jy/ctu"]
+	path = ku/jy/ctu
+	url = .
 [submodule "ku/ko/rty"]
 	path = ku/ko/rty
 	url = .
