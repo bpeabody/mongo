@@ -4675,6 +4675,9 @@
 [submodule "ik/vn/fbd"]
 	path = ik/vn/fbd
 	url = .
+[submodule "ik/xx/tqt"]
+	path = ik/xx/tqt
+	url = .
 [submodule "il/kk/qdt"]
 	path = il/kk/qdt
 	url = .
