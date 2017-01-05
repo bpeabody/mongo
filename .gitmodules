@@ -841,6 +841,9 @@
 [submodule "ba/oy/aca"]
 	path = ba/oy/aca
 	url = .
+[submodule "ba/rm/rxk"]
+	path = ba/rm/rxk
+	url = .
 [submodule "ba/tp/lcn"]
 	path = ba/tp/lcn
 	url = .
