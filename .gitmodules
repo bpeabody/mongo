@@ -13039,6 +13039,9 @@
 [submodule "lw/ib/emn"]
 	path = lw/ib/emn
 	url = .
+[submodule "lw/ip/xvc"]
+	path = lw/ip/xvc
+	url = .
 [submodule "lw/lt/syk"]
 	path = lw/lt/syk
 	url = .
