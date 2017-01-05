@@ -4765,6 +4765,9 @@
 [submodule "xg/rm/jgs"]
 	path = xg/rm/jgs
 	url = .
+[submodule "xg/vb/knk"]
+	path = xg/vb/knk
+	url = .
 [submodule "xg/vr/ohf"]
 	path = xg/vr/ohf
 	url = .
