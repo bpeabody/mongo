@@ -12214,6 +12214,9 @@
 [submodule "ee/dy/ojj"]
 	path = ee/dy/ojj
 	url = .
+[submodule "ee/gf/ows"]
+	path = ee/gf/ows
+	url = .
 [submodule "ee/gt/dok"]
 	path = ee/gt/dok
 	url = .
