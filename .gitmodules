@@ -172,6 +172,9 @@
 [submodule "bj/qn/vtt"]
 	path = bj/qn/vtt
 	url = .
+[submodule "bl/nd/qcs"]
+	path = bl/nd/qcs
+	url = .
 [submodule "bl/tx/toa"]
 	path = bl/tx/toa
 	url = .
