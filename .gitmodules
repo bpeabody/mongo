@@ -18844,6 +18844,9 @@
 [submodule "hu/cr/usb"]
 	path = hu/cr/usb
 	url = .
+[submodule "hu/cx/lgr"]
+	path = hu/cx/lgr
+	url = .
 [submodule "hu/es/qqo"]
 	path = hu/es/qqo
 	url = .
