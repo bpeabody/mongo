@@ -55312,6 +55312,9 @@
 [submodule "uv/vc/woj"]
 	path = uv/vc/woj
 	url = .
+[submodule "uv/vj/dqe"]
+	path = uv/vj/dqe
+	url = .
 [submodule "uv/vn/wcn"]
 	path = uv/vn/wcn
 	url = .
