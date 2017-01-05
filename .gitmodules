@@ -15895,6 +15895,9 @@
 [submodule "jb/my/qsq"]
 	path = jb/my/qsq
 	url = .
+[submodule "jb/oj/oel"]
+	path = jb/oj/oel
+	url = .
 [submodule "jb/ox/wut"]
 	path = jb/ox/wut
 	url = .
