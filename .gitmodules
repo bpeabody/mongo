@@ -2764,6 +2764,9 @@
 [submodule "vn/zf/ilc"]
 	path = vn/zf/ilc
 	url = .
+[submodule "vo/et/fgu"]
+	path = vo/et/fgu
+	url = .
 [submodule "vo/jq/ker"]
 	path = vo/jq/ker
 	url = .
