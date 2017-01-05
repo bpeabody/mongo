@@ -59653,6 +59653,9 @@
 [submodule "wj/ji/llc"]
 	path = wj/ji/llc
 	url = .
+[submodule "wj/ji/zte"]
+	path = wj/ji/zte
+	url = .
 [submodule "wj/jj/gck"]
 	path = wj/jj/gck
 	url = .
