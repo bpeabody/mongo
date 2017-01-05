@@ -22420,6 +22420,9 @@
 [submodule "jq/hg/kab"]
 	path = jq/hg/kab
 	url = .
+[submodule "jq/ij/wgs"]
+	path = jq/ij/wgs
+	url = .
 [submodule "jq/is/usn"]
 	path = jq/is/usn
 	url = .
