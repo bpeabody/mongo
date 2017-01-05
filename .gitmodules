@@ -15718,6 +15718,9 @@
 [submodule "gr/yt/zkd"]
 	path = gr/yt/zkd
 	url = .
+[submodule "gr/ze/rhh"]
+	path = gr/ze/rhh
+	url = .
 [submodule "gr/zf/rhq"]
 	path = gr/zf/rhq
 	url = .
