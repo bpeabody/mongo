@@ -46846,6 +46846,9 @@
 [submodule "vr/ec/hue"]
 	path = vr/ec/hue
 	url = .
+[submodule "vr/eg/mdq"]
+	path = vr/eg/mdq
+	url = .
 [submodule "vr/fr/fyc"]
 	path = vr/fr/fyc
 	url = .
