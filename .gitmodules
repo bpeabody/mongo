@@ -2326,6 +2326,9 @@
 [submodule "at/nd/ion"]
 	path = at/nd/ion
 	url = .
+[submodule "at/oy/nnf"]
+	path = at/oy/nnf
+	url = .
 [submodule "at/qa/vnv"]
 	path = at/qa/vnv
 	url = .
