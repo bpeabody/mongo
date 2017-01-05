@@ -2944,6 +2944,9 @@
 [submodule "ec/iu/dmm"]
 	path = ec/iu/dmm
 	url = .
+[submodule "ec/oi/edr"]
+	path = ec/oi/edr
+	url = .
 [submodule "ec/qz/npa"]
 	path = ec/qz/npa
 	url = .
