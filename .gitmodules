@@ -12637,6 +12637,9 @@
 [submodule "js/sj/fok"]
 	path = js/sj/fok
 	url = .
+[submodule "js/uc/jtt"]
+	path = js/uc/jtt
+	url = .
 [submodule "js/uq/xag"]
 	path = js/uq/xag
 	url = .
