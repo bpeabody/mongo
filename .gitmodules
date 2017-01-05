@@ -3286,6 +3286,9 @@
 [submodule "hq/zh/wcq"]
 	path = hq/zh/wcq
 	url = .
+[submodule "hr/ip/kau"]
+	path = hr/ip/kau
+	url = .
 [submodule "hr/kl/mff"]
 	path = hr/kl/mff
 	url = .
