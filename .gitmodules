@@ -970,6 +970,9 @@
 [submodule "on/xl/tjo"]
 	path = on/xl/tjo
 	url = .
+[submodule "oq/os/nsq"]
+	path = oq/os/nsq
+	url = .
 [submodule "oq/ov/tlq"]
 	path = oq/ov/tlq
 	url = .
