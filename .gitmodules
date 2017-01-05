@@ -18727,6 +18727,9 @@
 [submodule "sd/sf/nwl"]
 	path = sd/sf/nwl
 	url = .
+[submodule "sd/sz/uir"]
+	path = sd/sz/uir
+	url = .
 [submodule "sd/vb/gsg"]
 	path = sd/vb/gsg
 	url = .
