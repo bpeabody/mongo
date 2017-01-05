@@ -20776,6 +20776,9 @@
 [submodule "hw/ff/eeu"]
 	path = hw/ff/eeu
 	url = .
+[submodule "hw/fh/ppo"]
+	path = hw/fh/ppo
+	url = .
 [submodule "hw/fs/pxc"]
 	path = hw/fs/pxc
 	url = .
