@@ -36289,6 +36289,9 @@
 [submodule "mq/al/rdn"]
 	path = mq/al/rdn
 	url = .
+[submodule "mq/ao/ajb"]
+	path = mq/ao/ajb
+	url = .
 [submodule "mq/bm/gme"]
 	path = mq/bm/gme
 	url = .
