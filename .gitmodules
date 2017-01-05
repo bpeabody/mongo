@@ -22084,6 +22084,9 @@
 [submodule "xo/dg/cqa"]
 	path = xo/dg/cqa
 	url = .
+[submodule "xo/dq/wuc"]
+	path = xo/dq/wuc
+	url = .
 [submodule "xo/eb/gto"]
 	path = xo/eb/gto
 	url = .
