@@ -4690,6 +4690,9 @@
 [submodule "mh/or/hfq"]
 	path = mh/or/hfq
 	url = .
+[submodule "mi/hg/svp"]
+	path = mi/hg/svp
+	url = .
 [submodule "mi/tj/yzx"]
 	path = mi/tj/yzx
 	url = .
