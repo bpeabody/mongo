@@ -21652,6 +21652,9 @@
 [submodule "mr/pb/yqy"]
 	path = mr/pb/yqy
 	url = .
+[submodule "mr/pn/zkd"]
+	path = mr/pn/zkd
+	url = .
 [submodule "mr/pw/zvx"]
 	path = mr/pw/zvx
 	url = .
