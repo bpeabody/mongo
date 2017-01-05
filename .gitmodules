@@ -4462,6 +4462,9 @@
 [submodule "dp/mx/msi"]
 	path = dp/mx/msi
 	url = .
+[submodule "dp/no/pgu"]
+	path = dp/no/pgu
+	url = .
 [submodule "dp/pz/qjf"]
 	path = dp/pz/qjf
 	url = .
