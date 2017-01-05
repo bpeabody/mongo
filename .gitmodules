@@ -15700,6 +15700,9 @@
 [submodule "ol/hm/nsi"]
 	path = ol/hm/nsi
 	url = .
+[submodule "ol/jq/poe"]
+	path = ol/jq/poe
+	url = .
 [submodule "ol/ju/fxe"]
 	path = ol/ju/fxe
 	url = .
