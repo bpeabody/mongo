@@ -46378,6 +46378,9 @@
 [submodule "va/jl/jcc"]
 	path = va/jl/jcc
 	url = .
+[submodule "va/ko/duj"]
+	path = va/ko/duj
+	url = .
 [submodule "va/lb/cbb"]
 	path = va/lb/cbb
 	url = .
