@@ -787,6 +787,9 @@
 [submodule "be/la/emw"]
 	path = be/la/emw
 	url = .
+[submodule "be/qq/mrq"]
+	path = be/qq/mrq
+	url = .
 [submodule "be/rw/iym"]
 	path = be/rw/iym
 	url = .
