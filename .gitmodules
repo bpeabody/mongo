@@ -445,6 +445,9 @@
 [submodule "ek/hu/cad"]
 	path = ek/hu/cad
 	url = .
+[submodule "em/zk/ulx"]
+	path = em/zk/ulx
+	url = .
 [submodule "en/ms/mol"]
 	path = en/ms/mol
 	url = .
