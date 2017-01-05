@@ -3106,6 +3106,9 @@
 [submodule "cv/rw/kpc"]
 	path = cv/rw/kpc
 	url = .
+[submodule "cv/sw/ndi"]
+	path = cv/sw/ndi
+	url = .
 [submodule "cv/uo/wbd"]
 	path = cv/uo/wbd
 	url = .
