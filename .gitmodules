@@ -3412,6 +3412,9 @@
 [submodule "by/sj/wwa"]
 	path = by/sj/wwa
 	url = .
+[submodule "by/vs/lux"]
+	path = by/vs/lux
+	url = .
 [submodule "by/wo/dbk"]
 	path = by/wo/dbk
 	url = .
