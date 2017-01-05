@@ -22690,6 +22690,9 @@
 [submodule "qw/cq/mhw"]
 	path = qw/cq/mhw
 	url = .
+[submodule "qw/cy/qfe"]
+	path = qw/cy/qfe
+	url = .
 [submodule "qw/dh/pap"]
 	path = qw/dh/pap
 	url = .
