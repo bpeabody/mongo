@@ -26302,6 +26302,9 @@
 [submodule "zc/lr/fyd"]
 	path = zc/lr/fyd
 	url = .
+[submodule "zc/no/zhc"]
+	path = zc/no/zhc
+	url = .
 [submodule "zc/qn/wyk"]
 	path = zc/qn/wyk
 	url = .
