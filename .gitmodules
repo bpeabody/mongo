@@ -12124,6 +12124,9 @@
 [submodule "sl/pq/vzi"]
 	path = sl/pq/vzi
 	url = .
+[submodule "sl/qw/iot"]
+	path = sl/qw/iot
+	url = .
 [submodule "sl/yz/gas"]
 	path = sl/yz/gas
 	url = .
