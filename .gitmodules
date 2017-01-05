@@ -14983,6 +14983,9 @@
 [submodule "fo/co/xtp"]
 	path = fo/co/xtp
 	url = .
+[submodule "fo/dg/acq"]
+	path = fo/dg/acq
+	url = .
 [submodule "fo/dg/pyw"]
 	path = fo/dg/pyw
 	url = .
