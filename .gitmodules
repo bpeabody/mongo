@@ -19234,6 +19234,9 @@
 [submodule "mu/qf/skc"]
 	path = mu/qf/skc
 	url = .
+[submodule "mu/qh/suc"]
+	path = mu/qh/suc
+	url = .
 [submodule "mu/ql/kzw"]
 	path = mu/ql/kzw
 	url = .
