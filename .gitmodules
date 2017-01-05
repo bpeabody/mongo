@@ -6313,6 +6313,9 @@
 [submodule "hr/cb/bpk"]
 	path = hr/cb/bpk
 	url = .
+[submodule "hr/dy/rgs"]
+	path = hr/dy/rgs
+	url = .
 [submodule "hr/hk/vxr"]
 	path = hr/hk/vxr
 	url = .
