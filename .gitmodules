@@ -394,6 +394,9 @@
 [submodule "dj/ix/zjk"]
 	path = dj/ix/zjk
 	url = .
+[submodule "dj/vm/qff"]
+	path = dj/vm/qff
+	url = .
 [submodule "dj/vs/xju"]
 	path = dj/vs/xju
 	url = .
