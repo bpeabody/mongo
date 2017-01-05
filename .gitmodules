@@ -2818,6 +2818,9 @@
 [submodule "ou/up/cxz"]
 	path = ou/up/cxz
 	url = .
+[submodule "ou/yy/dlt"]
+	path = ou/yy/dlt
+	url = .
 [submodule "ov/an/tni"]
 	path = ov/an/tni
 	url = .
