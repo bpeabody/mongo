@@ -12397,6 +12397,9 @@
 [submodule "kw/up/cbt"]
 	path = kw/up/cbt
 	url = .
+[submodule "kw/xx/djl"]
+	path = kw/xx/djl
+	url = .
 [submodule "kw/zj/bxw"]
 	path = kw/zj/bxw
 	url = .
