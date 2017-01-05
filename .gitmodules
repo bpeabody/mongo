@@ -14428,6 +14428,9 @@
 [submodule "fs/yz/zve"]
 	path = fs/yz/zve
 	url = .
+[submodule "fs/zi/eas"]
+	path = fs/zi/eas
+	url = .
 [submodule "fs/zm/zsf"]
 	path = fs/zm/zsf
 	url = .
