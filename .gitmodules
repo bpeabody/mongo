@@ -42832,6 +42832,9 @@
 [submodule "tk/ge/xfh"]
 	path = tk/ge/xfh
 	url = .
+[submodule "tk/ha/uud"]
+	path = tk/ha/uud
+	url = .
 [submodule "tk/ia/fuz"]
 	path = tk/ia/fuz
 	url = .
