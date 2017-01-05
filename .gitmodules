@@ -8809,6 +8809,9 @@
 [submodule "ki/ql/wuo"]
 	path = ki/ql/wuo
 	url = .
+[submodule "ki/rs/nhs"]
+	path = ki/rs/nhs
+	url = .
 [submodule "ki/vw/vig"]
 	path = ki/vw/vig
 	url = .
