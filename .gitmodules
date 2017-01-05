@@ -7843,6 +7843,9 @@
 [submodule "ho/nq/gll"]
 	path = ho/nq/gll
 	url = .
+[submodule "ho/nt/xvd"]
+	path = ho/nt/xvd
+	url = .
 [submodule "ho/sg/pwu"]
 	path = ho/sg/pwu
 	url = .
