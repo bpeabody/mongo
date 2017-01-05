@@ -5122,6 +5122,9 @@
 [submodule "ik/pd/qno"]
 	path = ik/pd/qno
 	url = .
+[submodule "ik/rt/tsq"]
+	path = ik/rt/tsq
+	url = .
 [submodule "ik/ui/ggm"]
 	path = ik/ui/ggm
 	url = .
