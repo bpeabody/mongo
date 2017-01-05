@@ -6955,6 +6955,9 @@
 [submodule "xc/lw/sca"]
 	path = xc/lw/sca
 	url = .
+[submodule "xc/qq/gtr"]
+	path = xc/qq/gtr
+	url = .
 [submodule "xc/si/eec"]
 	path = xc/si/eec
 	url = .
