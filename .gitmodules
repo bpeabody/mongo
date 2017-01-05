@@ -53683,6 +53683,9 @@
 [submodule "sv/xt/bls"]
 	path = sv/xt/bls
 	url = .
+[submodule "sw/ad/cgt"]
+	path = sw/ad/cgt
+	url = .
 [submodule "sw/ai/rxe"]
 	path = sw/ai/rxe
 	url = .
