@@ -21868,6 +21868,9 @@
 [submodule "qq/ca/cjm"]
 	path = qq/ca/cjm
 	url = .
+[submodule "qq/cx/ava"]
+	path = qq/cx/ava
+	url = .
 [submodule "qq/cx/bwj"]
 	path = qq/cx/bwj
 	url = .
