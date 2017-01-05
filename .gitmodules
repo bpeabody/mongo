@@ -2125,6 +2125,9 @@
 [submodule "as/dl/ytz"]
 	path = as/dl/ytz
 	url = .
+[submodule "as/du/hat"]
+	path = as/du/hat
+	url = .
 [submodule "as/eh/xxw"]
 	path = as/eh/xxw
 	url = .
