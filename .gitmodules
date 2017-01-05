@@ -39796,6 +39796,9 @@
 [submodule "qj/bc/ovv"]
 	path = qj/bc/ovv
 	url = .
+[submodule "qj/cp/snj"]
+	path = qj/cp/snj
+	url = .
 [submodule "qj/dj/qdy"]
 	path = qj/dj/qdy
 	url = .
