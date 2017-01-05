@@ -18829,6 +18829,9 @@
 [submodule "yo/xi/zsh"]
 	path = yo/xi/zsh
 	url = .
+[submodule "yo/xs/bdv"]
+	path = yo/xs/bdv
+	url = .
 [submodule "yp/ff/fdn"]
 	path = yp/ff/fdn
 	url = .
