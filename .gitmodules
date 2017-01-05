@@ -1120,6 +1120,9 @@
 [submodule "ao/su/txq"]
 	path = ao/su/txq
 	url = .
+[submodule "ao/tj/irr"]
+	path = ao/tj/irr
+	url = .
 [submodule "ao/tn/caf"]
 	path = ao/tn/caf
 	url = .
