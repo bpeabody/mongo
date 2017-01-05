@@ -9700,6 +9700,9 @@
 [submodule "sf/xv/mdj"]
 	path = sf/xv/mdj
 	url = .
+[submodule "sg/bd/azb"]
+	path = sg/bd/azb
+	url = .
 [submodule "sg/ds/fmm"]
 	path = sg/ds/fmm
 	url = .
