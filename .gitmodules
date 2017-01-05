@@ -1528,6 +1528,9 @@
 [submodule "bw/iu/vbu"]
 	path = bw/iu/vbu
 	url = .
+[submodule "bw/lh/uei"]
+	path = bw/lh/uei
+	url = .
 [submodule "bw/lr/dla"]
 	path = bw/lr/dla
 	url = .
