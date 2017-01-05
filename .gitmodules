@@ -21058,6 +21058,9 @@
 [submodule "kb/gi/rgp"]
 	path = kb/gi/rgp
 	url = .
+[submodule "kb/ia/jmz"]
+	path = kb/ia/jmz
+	url = .
 [submodule "kb/ih/dqj"]
 	path = kb/ih/dqj
 	url = .
