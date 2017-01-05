@@ -42712,6 +42712,9 @@
 [submodule "rs/em/ghw"]
 	path = rs/em/ghw
 	url = .
+[submodule "rs/et/xxr"]
+	path = rs/et/xxr
+	url = .
 [submodule "rs/fi/tjy"]
 	path = rs/fi/tjy
 	url = .
