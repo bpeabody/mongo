@@ -16222,6 +16222,9 @@
 [submodule "gl/fk/jbp"]
 	path = gl/fk/jbp
 	url = .
+[submodule "gl/gn/osk"]
+	path = gl/gn/osk
+	url = .
 [submodule "gl/go/wfl"]
 	path = gl/go/wfl
 	url = .
