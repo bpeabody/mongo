@@ -8950,6 +8950,9 @@
 [submodule "hk/gj/qzr"]
 	path = hk/gj/qzr
 	url = .
+[submodule "hk/ik/gro"]
+	path = hk/ik/gro
+	url = .
 [submodule "hk/ir/ffz"]
 	path = hk/ir/ffz
 	url = .
