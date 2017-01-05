@@ -27175,6 +27175,9 @@
 [submodule "jc/kp/sxa"]
 	path = jc/kp/sxa
 	url = .
+[submodule "jc/oh/qve"]
+	path = jc/oh/qve
+	url = .
 [submodule "jc/pe/ynw"]
 	path = jc/pe/ynw
 	url = .
