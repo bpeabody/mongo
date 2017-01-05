@@ -22630,6 +22630,9 @@
 [submodule "yj/md/ywv"]
 	path = yj/md/ywv
 	url = .
+[submodule "yj/nz/jic"]
+	path = yj/nz/jic
+	url = .
 [submodule "yj/sy/zbb"]
 	path = yj/sy/zbb
 	url = .
