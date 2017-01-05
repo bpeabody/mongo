@@ -2122,6 +2122,9 @@
 [submodule "at/jp/zcv"]
 	path = at/jp/zcv
 	url = .
+[submodule "at/jr/xhu"]
+	path = at/jr/xhu
+	url = .
 [submodule "at/kx/nhz"]
 	path = at/kx/nhz
 	url = .
