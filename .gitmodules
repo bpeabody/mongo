@@ -10729,6 +10729,9 @@
 [submodule "ls/om/cxf"]
 	path = ls/om/cxf
 	url = .
+[submodule "ls/oy/jcn"]
+	path = ls/oy/jcn
+	url = .
 [submodule "ls/yw/arg"]
 	path = ls/yw/arg
 	url = .
