@@ -18016,6 +18016,9 @@
 [submodule "tt/yt/uix"]
 	path = tt/yt/uix
 	url = .
+[submodule "tu/ai/bkn"]
+	path = tu/ai/bkn
+	url = .
 [submodule "tu/ay/tuy"]
 	path = tu/ay/tuy
 	url = .
