@@ -8767,6 +8767,9 @@
 [submodule "dj/vs/xju"]
 	path = dj/vs/xju
 	url = .
+[submodule "dj/vt/ywk"]
+	path = dj/vt/ywk
+	url = .
 [submodule "dj/wf/alx"]
 	path = dj/wf/alx
 	url = .
