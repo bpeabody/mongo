@@ -47113,6 +47113,9 @@
 [submodule "sl/du/xhu"]
 	path = sl/du/xhu
 	url = .
+[submodule "sl/gd/bhs"]
+	path = sl/gd/bhs
+	url = .
 [submodule "sl/gl/dfv"]
 	path = sl/gl/dfv
 	url = .
