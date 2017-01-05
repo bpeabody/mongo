@@ -40441,6 +40441,9 @@
 [submodule "od/nk/rvb"]
 	path = od/nk/rvb
 	url = .
+[submodule "od/ok/kbs"]
+	path = od/ok/kbs
+	url = .
 [submodule "od/oq/bot"]
 	path = od/oq/bot
 	url = .
