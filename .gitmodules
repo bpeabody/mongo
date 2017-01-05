@@ -27160,6 +27160,9 @@
 [submodule "ya/ne/twn"]
 	path = ya/ne/twn
 	url = .
+[submodule "ya/xq/gdm"]
+	path = ya/xq/gdm
+	url = .
 [submodule "ya/xy/ofa"]
 	path = ya/xy/ofa
 	url = .
