@@ -3322,6 +3322,9 @@
 [submodule "bh/ac/ssd"]
 	path = bh/ac/ssd
 	url = .
+[submodule "bh/as/gku"]
+	path = bh/as/gku
+	url = .
 [submodule "bh/cp/gsw"]
 	path = bh/cp/gsw
 	url = .
