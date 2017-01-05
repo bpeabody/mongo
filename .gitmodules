@@ -17533,6 +17533,9 @@
 [submodule "gi/ej/ugs"]
 	path = gi/ej/ugs
 	url = .
+[submodule "gi/ez/hsb"]
+	path = gi/ez/hsb
+	url = .
 [submodule "gi/gc/qhg"]
 	path = gi/gc/qhg
 	url = .
