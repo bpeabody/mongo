@@ -3013,6 +3013,9 @@
 [submodule "bd/ve/rmt"]
 	path = bd/ve/rmt
 	url = .
+[submodule "bd/vw/dfn"]
+	path = bd/vw/dfn
+	url = .
 [submodule "bd/ws/rby"]
 	path = bd/ws/rby
 	url = .
