@@ -3268,6 +3268,9 @@
 [submodule "cy/ev/krb"]
 	path = cy/ev/krb
 	url = .
+[submodule "cy/gh/hss"]
+	path = cy/gh/hss
+	url = .
 [submodule "cy/iy/uhj"]
 	path = cy/iy/uhj
 	url = .
