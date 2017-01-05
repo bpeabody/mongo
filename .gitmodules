@@ -51721,6 +51721,9 @@
 [submodule "vx/xm/oct"]
 	path = vx/xm/oct
 	url = .
+[submodule "vx/xt/ryv"]
+	path = vx/xt/ryv
+	url = .
 [submodule "vx/yx/khi"]
 	path = vx/yx/khi
 	url = .
