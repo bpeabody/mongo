@@ -42850,6 +42850,9 @@
 [submodule "vt/dr/xqr"]
 	path = vt/dr/xqr
 	url = .
+[submodule "vt/ed/mvz"]
+	path = vt/ed/mvz
+	url = .
 [submodule "vt/ey/uoo"]
 	path = vt/ey/uoo
 	url = .
