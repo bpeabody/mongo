@@ -46,6 +46,9 @@
 [submodule "aa/le/zus"]
 	path = aa/le/zus
 	url = .
+[submodule "aa/mr/zvc"]
+	path = aa/mr/zvc
+	url = .
 [submodule "aa/oe/eje"]
 	path = aa/oe/eje
 	url = .
