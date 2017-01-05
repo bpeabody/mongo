@@ -30868,6 +30868,9 @@
 [submodule "mb/ln/fvu"]
 	path = mb/ln/fvu
 	url = .
+[submodule "mb/lo/ych"]
+	path = mb/lo/ych
+	url = .
 [submodule "mb/my/rjq"]
 	path = mb/my/rjq
 	url = .
