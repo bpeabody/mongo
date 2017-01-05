@@ -4450,6 +4450,9 @@
 [submodule "hq/zh/wcq"]
 	path = hq/zh/wcq
 	url = .
+[submodule "hr/hk/vxr"]
+	path = hr/hk/vxr
+	url = .
 [submodule "hr/ip/kau"]
 	path = hr/ip/kau
 	url = .
