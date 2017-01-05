@@ -3397,6 +3397,9 @@
 [submodule "fz/bw/vmo"]
 	path = fz/bw/vmo
 	url = .
+[submodule "fz/cj/ayt"]
+	path = fz/cj/ayt
+	url = .
 [submodule "fz/ed/lhb"]
 	path = fz/ed/lhb
 	url = .
