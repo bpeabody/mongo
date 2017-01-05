@@ -3289,6 +3289,9 @@
 [submodule "ib/hc/whx"]
 	path = ib/hc/whx
 	url = .
+[submodule "ic/ay/vxm"]
+	path = ic/ay/vxm
+	url = .
 [submodule "ic/iy/pkl"]
 	path = ic/iy/pkl
 	url = .
