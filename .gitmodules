@@ -2035,6 +2035,9 @@
 [submodule "wu/mh/yvs"]
 	path = wu/mh/yvs
 	url = .
+[submodule "wv/mc/wlc"]
+	path = wv/mc/wlc
+	url = .
 [submodule "ww/ws/wsi"]
 	path = ww/ws/wsi
 	url = .
