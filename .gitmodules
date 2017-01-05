@@ -45676,6 +45676,9 @@
 [submodule "ze/hn/ajk"]
 	path = ze/hn/ajk
 	url = .
+[submodule "ze/jp/vmt"]
+	path = ze/jp/vmt
+	url = .
 [submodule "ze/ju/kdj"]
 	path = ze/ju/kdj
 	url = .
