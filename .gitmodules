@@ -2074,6 +2074,9 @@
 [submodule "ni/wa/hib"]
 	path = ni/wa/hib
 	url = .
+[submodule "nj/qi/ewp"]
+	path = nj/qi/ewp
+	url = .
 [submodule "nk/ag/vcr"]
 	path = nk/ag/vcr
 	url = .
