@@ -2788,6 +2788,9 @@
 [submodule "gb/pr/wxx"]
 	path = gb/pr/wxx
 	url = .
+[submodule "gb/re/jsu"]
+	path = gb/re/jsu
+	url = .
 [submodule "gb/ur/esj"]
 	path = gb/ur/esj
 	url = .
