@@ -12589,6 +12589,9 @@
 [submodule "hw/fs/qfy"]
 	path = hw/fs/qfy
 	url = .
+[submodule "hw/fu/hds"]
+	path = hw/fu/hds
+	url = .
 [submodule "hw/hf/hca"]
 	path = hw/hf/hca
 	url = .
