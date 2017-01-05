@@ -38275,6 +38275,9 @@
 [submodule "vs/xc/qtr"]
 	path = vs/xc/qtr
 	url = .
+[submodule "vs/xe/jau"]
+	path = vs/xe/jau
+	url = .
 [submodule "vt/bb/liz"]
 	path = vt/bb/liz
 	url = .
