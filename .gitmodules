@@ -7822,6 +7822,9 @@
 [submodule "cp/pa/bnj"]
 	path = cp/pa/bnj
 	url = .
+[submodule "cp/pk/ejg"]
+	path = cp/pk/ejg
+	url = .
 [submodule "cp/rj/mnr"]
 	path = cp/rj/mnr
 	url = .
