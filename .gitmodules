@@ -48679,6 +48679,9 @@
 [submodule "yn/mu/hnz"]
 	path = yn/mu/hnz
 	url = .
+[submodule "yn/mw/lot"]
+	path = yn/mw/lot
+	url = .
 [submodule "yn/nw/ccx"]
 	path = yn/nw/ccx
 	url = .
