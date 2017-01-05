@@ -14758,6 +14758,9 @@
 [submodule "xg/ds/eas"]
 	path = xg/ds/eas
 	url = .
+[submodule "xg/ic/vee"]
+	path = xg/ic/vee
+	url = .
 [submodule "xg/jn/kml"]
 	path = xg/jn/kml
 	url = .
