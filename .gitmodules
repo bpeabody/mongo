@@ -59518,6 +59518,9 @@
 [submodule "vy/og/vsu"]
 	path = vy/og/vsu
 	url = .
+[submodule "vy/rg/rea"]
+	path = vy/rg/rea
+	url = .
 [submodule "vy/sb/cjz"]
 	path = vy/sb/cjz
 	url = .
