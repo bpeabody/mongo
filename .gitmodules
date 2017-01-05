@@ -12634,6 +12634,9 @@
 [submodule "ml/md/jqg"]
 	path = ml/md/jqg
 	url = .
+[submodule "ml/pp/sle"]
+	path = ml/pp/sle
+	url = .
 [submodule "ml/qi/ked"]
 	path = ml/qi/ked
 	url = .
