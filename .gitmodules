@@ -37,6 +37,9 @@
 [submodule "ad/dn/amk"]
 	path = ad/dn/amk
 	url = .
+[submodule "ad/kq/vlu"]
+	path = ad/kq/vlu
+	url = .
 [submodule "ad/rv/tfg"]
 	path = ad/rv/tfg
 	url = .
