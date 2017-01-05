@@ -775,6 +775,9 @@
 [submodule "qf/pm/cwg"]
 	path = qf/pm/cwg
 	url = .
+[submodule "qk/mu/gcj"]
+	path = qk/mu/gcj
+	url = .
 [submodule "qm/uc/cvk"]
 	path = qm/uc/cvk
 	url = .
