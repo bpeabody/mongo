@@ -1129,6 +1129,9 @@
 [submodule "vh/cw/xsr"]
 	path = vh/cw/xsr
 	url = .
+[submodule "vj/dp/rde"]
+	path = vj/dp/rde
+	url = .
 [submodule "vj/fm/ifx"]
 	path = vj/fm/ifx
 	url = .
