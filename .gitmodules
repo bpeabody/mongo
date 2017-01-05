@@ -48157,6 +48157,9 @@
 [submodule "rh/dh/jce"]
 	path = rh/dh/jce
 	url = .
+[submodule "rh/ec/loa"]
+	path = rh/ec/loa
+	url = .
 [submodule "rh/eh/jst"]
 	path = rh/eh/jst
 	url = .
