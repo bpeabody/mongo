@@ -15616,6 +15616,9 @@
 [submodule "fk/bl/mbi"]
 	path = fk/bl/mbi
 	url = .
+[submodule "fk/bq/dgb"]
+	path = fk/bq/dgb
+	url = .
 [submodule "fk/di/gbv"]
 	path = fk/di/gbv
 	url = .
