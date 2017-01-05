@@ -18922,6 +18922,9 @@
 [submodule "wn/yp/vns"]
 	path = wn/yp/vns
 	url = .
+[submodule "wo/cu/arz"]
+	path = wo/cu/arz
+	url = .
 [submodule "wo/fr/qjn"]
 	path = wo/fr/qjn
 	url = .
