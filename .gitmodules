@@ -30607,6 +30607,9 @@
 [submodule "qt/fh/uaf"]
 	path = qt/fh/uaf
 	url = .
+[submodule "qt/fk/oug"]
+	path = qt/fk/oug
+	url = .
 [submodule "qt/fl/esd"]
 	path = qt/fl/esd
 	url = .
