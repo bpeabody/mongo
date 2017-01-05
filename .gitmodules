@@ -36337,6 +36337,9 @@
 [submodule "qr/rm/vmj"]
 	path = qr/rm/vmj
 	url = .
+[submodule "qr/sx/vll"]
+	path = qr/sx/vll
+	url = .
 [submodule "qr/tq/lrg"]
 	path = qr/tq/lrg
 	url = .
