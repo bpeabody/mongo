@@ -11020,6 +11020,9 @@
 [submodule "rp/dy/czh"]
 	path = rp/dy/czh
 	url = .
+[submodule "rp/fe/bop"]
+	path = rp/fe/bop
+	url = .
 [submodule "rp/ro/lng"]
 	path = rp/ro/lng
 	url = .
