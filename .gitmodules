@@ -15430,6 +15430,9 @@
 [submodule "xs/st/nwr"]
 	path = xs/st/nwr
 	url = .
+[submodule "xs/sw/usf"]
+	path = xs/sw/usf
+	url = .
 [submodule "xs/tp/stf"]
 	path = xs/tp/stf
 	url = .
