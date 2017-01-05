@@ -21385,6 +21385,9 @@
 [submodule "vs/wt/wsq"]
 	path = vs/wt/wsq
 	url = .
+[submodule "vt/ce/akd"]
+	path = vt/ce/akd
+	url = .
 [submodule "vt/cr/bsj"]
 	path = vt/cr/bsj
 	url = .
