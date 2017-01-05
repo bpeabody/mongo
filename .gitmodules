@@ -7723,6 +7723,9 @@
 [submodule "gh/rj/kmp"]
 	path = gh/rj/kmp
 	url = .
+[submodule "gh/sc/jds"]
+	path = gh/sc/jds
+	url = .
 [submodule "gh/uh/edi"]
 	path = gh/uh/edi
 	url = .
