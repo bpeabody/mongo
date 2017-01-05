@@ -376,6 +376,9 @@
 [submodule "ep/af/pop"]
 	path = ep/af/pop
 	url = .
+[submodule "er/pl/ybq"]
+	path = er/pl/ybq
+	url = .
 [submodule "et/ql/vhx"]
 	path = et/ql/vhx
 	url = .
