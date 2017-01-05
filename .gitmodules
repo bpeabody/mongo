@@ -16225,6 +16225,9 @@
 [submodule "gi/ta/yii"]
 	path = gi/ta/yii
 	url = .
+[submodule "gi/ul/bnx"]
+	path = gi/ul/bnx
+	url = .
 [submodule "gi/um/alg"]
 	path = gi/um/alg
 	url = .
