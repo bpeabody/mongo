@@ -40594,6 +40594,9 @@
 [submodule "tk/nr/jjd"]
 	path = tk/nr/jjd
 	url = .
+[submodule "tk/nx/jyi"]
+	path = tk/nx/jyi
+	url = .
 [submodule "tk/od/mrf"]
 	path = tk/od/mrf
 	url = .
