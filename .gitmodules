@@ -2845,6 +2845,9 @@
 [submodule "ez/pt/rwn"]
 	path = ez/pt/rwn
 	url = .
+[submodule "ez/sm/irr"]
+	path = ez/sm/irr
+	url = .
 [submodule "ez/tk/eit"]
 	path = ez/tk/eit
 	url = .
