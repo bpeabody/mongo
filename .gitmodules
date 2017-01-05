@@ -6586,6 +6586,9 @@
 [submodule "ch/fb/cia"]
 	path = ch/fb/cia
 	url = .
+[submodule "ch/fq/eyt"]
+	path = ch/fq/eyt
+	url = .
 [submodule "ch/hv/dzh"]
 	path = ch/hv/dzh
 	url = .
