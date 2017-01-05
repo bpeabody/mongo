@@ -23464,6 +23464,9 @@
 [submodule "ms/db/gbv"]
 	path = ms/db/gbv
 	url = .
+[submodule "ms/df/izf"]
+	path = ms/df/izf
+	url = .
 [submodule "ms/ed/kdk"]
 	path = ms/ed/kdk
 	url = .
