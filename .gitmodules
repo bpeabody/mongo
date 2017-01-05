@@ -17677,6 +17677,9 @@
 [submodule "pu/jw/fke"]
 	path = pu/jw/fke
 	url = .
+[submodule "pu/jy/vmc"]
+	path = pu/jy/vmc
+	url = .
 [submodule "pu/my/yiq"]
 	path = pu/my/yiq
 	url = .
