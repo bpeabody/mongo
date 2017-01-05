@@ -5149,6 +5149,9 @@
 [submodule "cj/lw/hsp"]
 	path = cj/lw/hsp
 	url = .
+[submodule "cj/ly/pob"]
+	path = cj/ly/pob
+	url = .
 [submodule "cj/md/hdg"]
 	path = cj/md/hdg
 	url = .
