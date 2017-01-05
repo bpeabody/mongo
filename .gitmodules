@@ -1582,6 +1582,9 @@
 [submodule "bq/ov/vfs"]
 	path = bq/ov/vfs
 	url = .
+[submodule "bq/sk/oxl"]
+	path = bq/sk/oxl
+	url = .
 [submodule "bq/tn/mqs"]
 	path = bq/tn/mqs
 	url = .
