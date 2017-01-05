@@ -2662,6 +2662,9 @@
 [submodule "sd/vb/gsg"]
 	path = sd/vb/gsg
 	url = .
+[submodule "se/fb/lgi"]
+	path = se/fb/lgi
+	url = .
 [submodule "se/fp/sbv"]
 	path = se/fp/sbv
 	url = .
