@@ -775,6 +775,9 @@
 [submodule "dh/nq/llo"]
 	path = dh/nq/llo
 	url = .
+[submodule "dh/qf/fcd"]
+	path = dh/qf/fcd
+	url = .
 [submodule "dh/we/nfj"]
 	path = dh/we/nfj
 	url = .
