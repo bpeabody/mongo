@@ -34528,6 +34528,9 @@
 [submodule "qx/zt/xkc"]
 	path = qx/zt/xkc
 	url = .
+[submodule "qy/az/khu"]
+	path = qy/az/khu
+	url = .
 [submodule "qy/cj/uzd"]
 	path = qy/cj/uzd
 	url = .
