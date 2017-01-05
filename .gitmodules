@@ -36397,6 +36397,9 @@
 [submodule "sn/tv/xhs"]
 	path = sn/tv/xhs
 	url = .
+[submodule "sn/ue/jmo"]
+	path = sn/ue/jmo
+	url = .
 [submodule "sn/ui/evt"]
 	path = sn/ui/evt
 	url = .
