@@ -20044,6 +20044,9 @@
 [submodule "hf/em/sga"]
 	path = hf/em/sga
 	url = .
+[submodule "hf/en/lyr"]
+	path = hf/en/lyr
+	url = .
 [submodule "hf/fu/cfi"]
 	path = hf/fu/cfi
 	url = .
