@@ -4006,6 +4006,9 @@
 [submodule "hl/gg/yok"]
 	path = hl/gg/yok
 	url = .
+[submodule "hl/gk/egx"]
+	path = hl/gk/egx
+	url = .
 [submodule "hl/je/yuc"]
 	path = hl/je/yuc
 	url = .
