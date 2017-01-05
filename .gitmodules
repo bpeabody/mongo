@@ -47392,6 +47392,9 @@
 [submodule "yx/qp/ttq"]
 	path = yx/qp/ttq
 	url = .
+[submodule "yx/se/xxi"]
+	path = yx/se/xxi
+	url = .
 [submodule "yx/sq/uyo"]
 	path = yx/sq/uyo
 	url = .
