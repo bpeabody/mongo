@@ -6586,6 +6586,9 @@
 [submodule "jf/dw/xlo"]
 	path = jf/dw/xlo
 	url = .
+[submodule "jf/et/fyg"]
+	path = jf/et/fyg
+	url = .
 [submodule "jf/ke/kzu"]
 	path = jf/ke/kzu
 	url = .
