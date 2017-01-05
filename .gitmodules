@@ -5302,6 +5302,9 @@
 [submodule "lv/ur/xvy"]
 	path = lv/ur/xvy
 	url = .
+[submodule "lv/vl/reg"]
+	path = lv/vl/reg
+	url = .
 [submodule "lv/wj/dxz"]
 	path = lv/wj/dxz
 	url = .
