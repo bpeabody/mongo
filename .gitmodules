@@ -970,6 +970,9 @@
 [submodule "uu/dt/hkz"]
 	path = uu/dt/hkz
 	url = .
+[submodule "uv/if/hpx"]
+	path = uv/if/hpx
+	url = .
 [submodule "uv/vn/wcn"]
 	path = uv/vn/wcn
 	url = .
