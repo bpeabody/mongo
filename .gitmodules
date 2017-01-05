@@ -28915,6 +28915,9 @@
 [submodule "mv/sv/jjz"]
 	path = mv/sv/jjz
 	url = .
+[submodule "mv/us/ldi"]
+	path = mv/us/ldi
+	url = .
 [submodule "mv/ux/rqb"]
 	path = mv/ux/rqb
 	url = .
