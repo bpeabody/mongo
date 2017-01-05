@@ -25258,6 +25258,9 @@
 [submodule "ts/rz/mxt"]
 	path = ts/rz/mxt
 	url = .
+[submodule "ts/so/qlp"]
+	path = ts/so/qlp
+	url = .
 [submodule "ts/uh/nvn"]
 	path = ts/uh/nvn
 	url = .
