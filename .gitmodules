@@ -39178,6 +39178,9 @@
 [submodule "qt/yc/dhe"]
 	path = qt/yc/dhe
 	url = .
+[submodule "qt/ym/uno"]
+	path = qt/ym/uno
+	url = .
 [submodule "qt/zs/prm"]
 	path = qt/zs/prm
 	url = .
