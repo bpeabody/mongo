@@ -21214,6 +21214,9 @@
 [submodule "te/cz/hwe"]
 	path = te/cz/hwe
 	url = .
+[submodule "te/ek/wsj"]
+	path = te/ek/wsj
+	url = .
 [submodule "te/fd/mcm"]
 	path = te/fd/mcm
 	url = .
