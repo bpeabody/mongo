@@ -16399,6 +16399,9 @@
 [submodule "hu/qd/khl"]
 	path = hu/qd/khl
 	url = .
+[submodule "hu/qo/ydg"]
+	path = hu/qo/ydg
+	url = .
 [submodule "hu/ro/jyt"]
 	path = hu/ro/jyt
 	url = .
