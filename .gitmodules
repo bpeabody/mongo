@@ -199,6 +199,9 @@
 [submodule "ap/zf/avk"]
 	path = ap/zf/avk
 	url = .
+[submodule "ar/hb/aqy"]
+	path = ar/hb/aqy
+	url = .
 [submodule "ar/ij/era"]
 	path = ar/ij/era
 	url = .
