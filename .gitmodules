@@ -484,6 +484,9 @@
 [submodule "ae/jq/zrg"]
 	path = ae/jq/zrg
 	url = .
+[submodule "ae/lb/aca"]
+	path = ae/lb/aca
+	url = .
 [submodule "ae/lc/usf"]
 	path = ae/lc/usf
 	url = .
