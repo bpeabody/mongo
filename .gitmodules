@@ -14821,6 +14821,9 @@
 [submodule "sp/ir/mmz"]
 	path = sp/ir/mmz
 	url = .
+[submodule "sp/iz/krz"]
+	path = sp/iz/krz
+	url = .
 [submodule "sp/ka/zra"]
 	path = sp/ka/zra
 	url = .
