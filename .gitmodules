@@ -469,6 +469,9 @@
 [submodule "vl/ae/zec"]
 	path = vl/ae/zec
 	url = .
+[submodule "vr/io/jwh"]
+	path = vr/io/jwh
+	url = .
 [submodule "vr/zr/mrj"]
 	path = vr/zr/mrj
 	url = .
