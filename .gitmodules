@@ -15781,6 +15781,9 @@
 [submodule "fu/kf/twc"]
 	path = fu/kf/twc
 	url = .
+[submodule "fu/lc/ifn"]
+	path = fu/lc/ifn
+	url = .
 [submodule "fu/mc/upn"]
 	path = fu/mc/upn
 	url = .
