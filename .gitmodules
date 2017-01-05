@@ -52477,6 +52477,9 @@
 [submodule "sa/yb/vbe"]
 	path = sa/yb/vbe
 	url = .
+[submodule "sa/yu/kkm"]
+	path = sa/yu/kkm
+	url = .
 [submodule "sb/bz/vtu"]
 	path = sb/bz/vtu
 	url = .
