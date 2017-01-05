@@ -22165,6 +22165,9 @@
 [submodule "om/vo/qot"]
 	path = om/vo/qot
 	url = .
+[submodule "om/xd/jvi"]
+	path = om/xd/jvi
+	url = .
 [submodule "om/xv/whe"]
 	path = om/xv/whe
 	url = .
