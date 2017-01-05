@@ -1006,6 +1006,9 @@
 [submodule "bq/ov/vfs"]
 	path = bq/ov/vfs
 	url = .
+[submodule "bq/tn/mqs"]
+	path = bq/tn/mqs
+	url = .
 [submodule "bq/un/rpi"]
 	path = bq/un/rpi
 	url = .
