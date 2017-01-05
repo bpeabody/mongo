@@ -9421,6 +9421,9 @@
 [submodule "de/at/xcw"]
 	path = de/at/xcw
 	url = .
+[submodule "de/av/uci"]
+	path = de/av/uci
+	url = .
 [submodule "de/bv/wov"]
 	path = de/bv/wov
 	url = .
