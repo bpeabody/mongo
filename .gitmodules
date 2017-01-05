@@ -6454,6 +6454,9 @@
 [submodule "vm/xc/cpf"]
 	path = vm/xc/cpf
 	url = .
+[submodule "vn/jk/vti"]
+	path = vn/jk/vti
+	url = .
 [submodule "vn/qv/ugr"]
 	path = vn/qv/ugr
 	url = .
