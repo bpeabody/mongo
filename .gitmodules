@@ -35755,6 +35755,9 @@
 [submodule "oo/md/wgz"]
 	path = oo/md/wgz
 	url = .
+[submodule "oo/oq/nlu"]
+	path = oo/oq/nlu
+	url = .
 [submodule "oo/pu/jym"]
 	path = oo/pu/jym
 	url = .
