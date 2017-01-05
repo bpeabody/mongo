@@ -5956,6 +5956,9 @@
 [submodule "wi/se/yua"]
 	path = wi/se/yua
 	url = .
+[submodule "wj/af/yas"]
+	path = wj/af/yas
+	url = .
 [submodule "wj/aq/hmt"]
 	path = wj/aq/hmt
 	url = .
