@@ -9316,6 +9316,9 @@
 [submodule "ik/ui/ggm"]
 	path = ik/ui/ggm
 	url = .
+[submodule "ik/uz/byl"]
+	path = ik/uz/byl
+	url = .
 [submodule "ik/uz/skt"]
 	path = ik/uz/skt
 	url = .
