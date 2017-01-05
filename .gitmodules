@@ -6139,6 +6139,9 @@
 [submodule "ww/ws/wsi"]
 	path = ww/ws/wsi
 	url = .
+[submodule "wx/fr/rsf"]
+	path = wx/fr/rsf
+	url = .
 [submodule "wx/pp/kvi"]
 	path = wx/pp/kvi
 	url = .
