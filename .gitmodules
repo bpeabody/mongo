@@ -45097,6 +45097,9 @@
 [submodule "qk/nh/hpx"]
 	path = qk/nh/hpx
 	url = .
+[submodule "qk/ns/vxi"]
+	path = qk/ns/vxi
+	url = .
 [submodule "qk/or/yio"]
 	path = qk/or/yio
 	url = .
