@@ -33097,6 +33097,9 @@
 [submodule "sk/pm/ioy"]
 	path = sk/pm/ioy
 	url = .
+[submodule "sk/qj/kyz"]
+	path = sk/qj/kyz
+	url = .
 [submodule "sk/sg/alr"]
 	path = sk/sg/alr
 	url = .
