@@ -53527,6 +53527,9 @@
 [submodule "ur/wx/bwi"]
 	path = ur/wx/bwi
 	url = .
+[submodule "ur/zh/feq"]
+	path = ur/zh/feq
+	url = .
 [submodule "ur/zw/dfk"]
 	path = ur/zw/dfk
 	url = .
