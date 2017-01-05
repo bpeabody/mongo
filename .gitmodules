@@ -6469,6 +6469,9 @@
 [submodule "of/vd/bhw"]
 	path = of/vd/bhw
 	url = .
+[submodule "of/xo/guk"]
+	path = of/xo/guk
+	url = .
 [submodule "og/lr/pdf"]
 	path = og/lr/pdf
 	url = .
