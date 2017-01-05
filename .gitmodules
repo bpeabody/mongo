@@ -30520,6 +30520,9 @@
 [submodule "uy/go/gmo"]
 	path = uy/go/gmo
 	url = .
+[submodule "uy/gr/vgk"]
+	path = uy/gr/vgk
+	url = .
 [submodule "uy/ho/cxp"]
 	path = uy/ho/cxp
 	url = .
