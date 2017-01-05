@@ -1555,6 +1555,9 @@
 [submodule "cl/qa/sdu"]
 	path = cl/qa/sdu
 	url = .
+[submodule "cl/sd/uxp"]
+	path = cl/sd/uxp
+	url = .
 [submodule "cl/sy/qxt"]
 	path = cl/sy/qxt
 	url = .
