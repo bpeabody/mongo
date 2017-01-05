@@ -2578,6 +2578,9 @@
 [submodule "cw/cm/dwr"]
 	path = cw/cm/dwr
 	url = .
+[submodule "cw/ex/zea"]
+	path = cw/ex/zea
+	url = .
 [submodule "cw/ki/zyb"]
 	path = cw/ki/zyb
 	url = .
