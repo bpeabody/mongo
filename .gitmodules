@@ -12562,6 +12562,9 @@
 [submodule "li/gb/mou"]
 	path = li/gb/mou
 	url = .
+[submodule "li/hp/pxa"]
+	path = li/hp/pxa
+	url = .
 [submodule "li/hq/ipv"]
 	path = li/hq/ipv
 	url = .
