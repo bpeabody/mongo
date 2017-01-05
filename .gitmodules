@@ -12586,6 +12586,9 @@
 [submodule "te/nk/die"]
 	path = te/nk/die
 	url = .
+[submodule "te/nq/kgi"]
+	path = te/nq/kgi
+	url = .
 [submodule "te/rf/uoo"]
 	path = te/rf/uoo
 	url = .
