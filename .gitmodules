@@ -39757,6 +39757,9 @@
 [submodule "sf/xv/mdj"]
 	path = sf/xv/mdj
 	url = .
+[submodule "sf/yj/chf"]
+	path = sf/yj/chf
+	url = .
 [submodule "sg/bd/azb"]
 	path = sg/bd/azb
 	url = .
