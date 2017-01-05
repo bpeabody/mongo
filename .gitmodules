@@ -32626,6 +32626,9 @@
 [submodule "rx/sy/zyq"]
 	path = rx/sy/zyq
 	url = .
+[submodule "rx/uj/cql"]
+	path = rx/uj/cql
+	url = .
 [submodule "rx/vx/def"]
 	path = rx/vx/def
 	url = .
