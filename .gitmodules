@@ -2170,6 +2170,9 @@
 [submodule "bu/pp/hmn"]
 	path = bu/pp/hmn
 	url = .
+[submodule "bu/ps/nzq"]
+	path = bu/ps/nzq
+	url = .
 [submodule "bu/pw/you"]
 	path = bu/pw/you
 	url = .
