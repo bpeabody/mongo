@@ -13324,6 +13324,9 @@
 [submodule "kl/nj/hve"]
 	path = kl/nj/hve
 	url = .
+[submodule "kl/pe/nbt"]
+	path = kl/pe/nbt
+	url = .
 [submodule "kl/qc/qqa"]
 	path = kl/qc/qqa
 	url = .
