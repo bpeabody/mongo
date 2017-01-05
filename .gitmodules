@@ -35134,6 +35134,9 @@
 [submodule "qt/qz/ynz"]
 	path = qt/qz/ynz
 	url = .
+[submodule "qt/rc/fkt"]
+	path = qt/rc/fkt
+	url = .
 [submodule "qt/rg/nnu"]
 	path = qt/rg/nnu
 	url = .
