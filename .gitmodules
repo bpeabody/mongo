@@ -28786,6 +28786,9 @@
 [submodule "jp/ck/few"]
 	path = jp/ck/few
 	url = .
+[submodule "jp/ea/wov"]
+	path = jp/ea/wov
+	url = .
 [submodule "jp/eb/cki"]
 	path = jp/eb/cki
 	url = .
