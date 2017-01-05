@@ -2755,6 +2755,9 @@
 [submodule "cr/ez/bmz"]
 	path = cr/ez/bmz
 	url = .
+[submodule "cr/fw/akw"]
+	path = cr/fw/akw
+	url = .
 [submodule "cr/gp/tjf"]
 	path = cr/gp/tjf
 	url = .
