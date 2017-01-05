@@ -69997,6 +69997,9 @@
 [submodule "zn/gn/jwq"]
 	path = zn/gn/jwq
 	url = .
+[submodule "zn/hj/ril"]
+	path = zn/hj/ril
+	url = .
 [submodule "zn/hv/utu"]
 	path = zn/hv/utu
 	url = .
