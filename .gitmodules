@@ -1576,6 +1576,9 @@
 [submodule "at/gz/bvu"]
 	path = at/gz/bvu
 	url = .
+[submodule "at/io/vuv"]
+	path = at/io/vuv
+	url = .
 [submodule "at/jp/zcv"]
 	path = at/jp/zcv
 	url = .
