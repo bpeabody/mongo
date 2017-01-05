@@ -844,6 +844,9 @@
 [submodule "bt/ay/uad"]
 	path = bt/ay/uad
 	url = .
+[submodule "bt/dt/bjx"]
+	path = bt/dt/bjx
+	url = .
 [submodule "bt/jc/huz"]
 	path = bt/jc/huz
 	url = .
