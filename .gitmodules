@@ -163,6 +163,9 @@
 [submodule "ti/ta/tcc"]
 	path = ti/ta/tcc
 	url = .
+[submodule "tr/gs/kgr"]
+	path = tr/gs/kgr
+	url = .
 [submodule "tz/cc/juy"]
 	path = tz/cc/juy
 	url = .
