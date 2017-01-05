@@ -6412,6 +6412,9 @@
 [submodule "cz/xu/fei"]
 	path = cz/xu/fei
 	url = .
+[submodule "cz/ya/wkx"]
+	path = cz/ya/wkx
+	url = .
 [submodule "cz/yr/fit"]
 	path = cz/yr/fit
 	url = .
