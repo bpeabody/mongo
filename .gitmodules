@@ -24469,6 +24469,9 @@
 [submodule "nn/cs/wnm"]
 	path = nn/cs/wnm
 	url = .
+[submodule "nn/dd/sim"]
+	path = nn/dd/sim
+	url = .
 [submodule "nn/ec/zcg"]
 	path = nn/ec/zcg
 	url = .
