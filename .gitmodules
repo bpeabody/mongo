@@ -10069,6 +10069,9 @@
 [submodule "vh/ns/cqg"]
 	path = vh/ns/cqg
 	url = .
+[submodule "vh/pu/qyc"]
+	path = vh/pu/qyc
+	url = .
 [submodule "vi/dt/ltr"]
 	path = vi/dt/ltr
 	url = .
