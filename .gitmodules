@@ -4273,6 +4273,9 @@
 [submodule "bl/vl/qdo"]
 	path = bl/vl/qdo
 	url = .
+[submodule "bl/xz/bar"]
+	path = bl/xz/bar
+	url = .
 [submodule "bl/yg/lun"]
 	path = bl/yg/lun
 	url = .
