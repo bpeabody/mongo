@@ -10057,6 +10057,9 @@
 [submodule "hs/vm/ogf"]
 	path = hs/vm/ogf
 	url = .
+[submodule "hs/wj/jfj"]
+	path = hs/wj/jfj
+	url = .
 [submodule "hs/zc/fir"]
 	path = hs/zc/fir
 	url = .
