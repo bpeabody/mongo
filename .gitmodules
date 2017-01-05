@@ -52,6 +52,9 @@
 [submodule "au/po/jse"]
 	path = au/po/jse
 	url = .
+[submodule "az/mz/sgo"]
+	path = az/mz/sgo
+	url = .
 [submodule "ba/wp/uup"]
 	path = ba/wp/uup
 	url = .
