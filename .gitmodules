@@ -226,6 +226,9 @@
 [submodule "om/qv/cyr"]
 	path = om/qv/cyr
 	url = .
+[submodule "om/zn/uyy"]
+	path = om/zn/uyy
+	url = .
 [submodule "on/vh/ytb"]
 	path = on/vh/ytb
 	url = .
