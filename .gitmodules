@@ -40561,6 +40561,9 @@
 [submodule "sk/sq/cpa"]
 	path = sk/sq/cpa
 	url = .
+[submodule "sk/uk/yuf"]
+	path = sk/uk/yuf
+	url = .
 [submodule "sk/us/vao"]
 	path = sk/us/vao
 	url = .
