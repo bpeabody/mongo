@@ -5230,6 +5230,9 @@
 [submodule "qf/da/slc"]
 	path = qf/da/slc
 	url = .
+[submodule "qf/dj/hug"]
+	path = qf/dj/hug
+	url = .
 [submodule "qf/gn/pcs"]
 	path = qf/gn/pcs
 	url = .
