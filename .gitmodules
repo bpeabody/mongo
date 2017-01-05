@@ -10798,6 +10798,9 @@
 [submodule "et/zp/whc"]
 	path = et/zp/whc
 	url = .
+[submodule "eu/an/qog"]
+	path = eu/an/qog
+	url = .
 [submodule "eu/aw/rej"]
 	path = eu/aw/rej
 	url = .
