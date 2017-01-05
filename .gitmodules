@@ -10747,6 +10747,9 @@
 [submodule "kx/rg/bfl"]
 	path = kx/rg/bfl
 	url = .
+[submodule "kx/sw/dgs"]
+	path = kx/sw/dgs
+	url = .
 [submodule "kx/tw/ydp"]
 	path = kx/tw/ydp
 	url = .
