@@ -1801,6 +1801,9 @@
 [submodule "cv/xq/olr"]
 	path = cv/xq/olr
 	url = .
+[submodule "cw/ki/zyb"]
+	path = cw/ki/zyb
+	url = .
 [submodule "cw/lw/twe"]
 	path = cw/lw/twe
 	url = .
