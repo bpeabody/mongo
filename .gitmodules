@@ -499,6 +499,9 @@
 [submodule "ko/xh/ucl"]
 	path = ko/xh/ucl
 	url = .
+[submodule "kq/vm/ozg"]
+	path = kq/vm/ozg
+	url = .
 [submodule "la/hm/zbs"]
 	path = la/hm/zbs
 	url = .
