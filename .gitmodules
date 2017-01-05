@@ -18958,6 +18958,9 @@
 [submodule "vq/fe/lms"]
 	path = vq/fe/lms
 	url = .
+[submodule "vq/gh/gye"]
+	path = vq/gh/gye
+	url = .
 [submodule "vq/gi/pyn"]
 	path = vq/gi/pyn
 	url = .
