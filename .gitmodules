@@ -1690,6 +1690,9 @@
 [submodule "aq/kf/lwv"]
 	path = aq/kf/lwv
 	url = .
+[submodule "aq/mi/lcg"]
+	path = aq/mi/lcg
+	url = .
 [submodule "aq/nj/ctc"]
 	path = aq/nj/ctc
 	url = .
