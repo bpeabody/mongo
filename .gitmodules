@@ -2362,6 +2362,9 @@
 [submodule "bd/tk/reu"]
 	path = bd/tk/reu
 	url = .
+[submodule "bd/ub/lon"]
+	path = bd/ub/lon
+	url = .
 [submodule "bd/ve/rmt"]
 	path = bd/ve/rmt
 	url = .
