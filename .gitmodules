@@ -1120,6 +1120,9 @@
 [submodule "bq/zo/kyu"]
 	path = bq/zo/kyu
 	url = .
+[submodule "br/ax/zjf"]
+	path = br/ax/zjf
+	url = .
 [submodule "br/bj/eof"]
 	path = br/bj/eof
 	url = .
