@@ -3898,6 +3898,9 @@
 [submodule "bm/jf/gnt"]
 	path = bm/jf/gnt
 	url = .
+[submodule "bm/jx/jgc"]
+	path = bm/jx/jgc
+	url = .
 [submodule "bm/kh/jam"]
 	path = bm/kh/jam
 	url = .
