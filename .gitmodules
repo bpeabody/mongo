@@ -50176,6 +50176,9 @@
 [submodule "uy/nk/lxr"]
 	path = uy/nk/lxr
 	url = .
+[submodule "uy/od/uet"]
+	path = uy/od/uet
+	url = .
 [submodule "uy/pe/gxu"]
 	path = uy/pe/gxu
 	url = .
