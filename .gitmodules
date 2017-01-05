@@ -6055,6 +6055,9 @@
 [submodule "mj/gf/fsf"]
 	path = mj/gf/fsf
 	url = .
+[submodule "mj/hd/wzn"]
+	path = mj/hd/wzn
+	url = .
 [submodule "mj/su/qxu"]
 	path = mj/su/qxu
 	url = .
