@@ -30583,6 +30583,9 @@
 [submodule "uo/gp/nrp"]
 	path = uo/gp/nrp
 	url = .
+[submodule "uo/gx/pen"]
+	path = uo/gx/pen
+	url = .
 [submodule "uo/ir/mjk"]
 	path = uo/ir/mjk
 	url = .
