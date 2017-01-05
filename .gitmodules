@@ -21028,6 +21028,9 @@
 [submodule "sz/bt/evm"]
 	path = sz/bt/evm
 	url = .
+[submodule "sz/cu/ryy"]
+	path = sz/cu/ryy
+	url = .
 [submodule "sz/dv/skx"]
 	path = sz/dv/skx
 	url = .
