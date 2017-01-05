@@ -15664,6 +15664,9 @@
 [submodule "ft/ru/dml"]
 	path = ft/ru/dml
 	url = .
+[submodule "ft/to/yuq"]
+	path = ft/to/yuq
+	url = .
 [submodule "ft/ub/ztc"]
 	path = ft/ub/ztc
 	url = .
