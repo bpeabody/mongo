@@ -22702,6 +22702,9 @@
 [submodule "mx/fu/dyi"]
 	path = mx/fu/dyi
 	url = .
+[submodule "mx/gi/qsg"]
+	path = mx/gi/qsg
+	url = .
 [submodule "mx/hb/rkd"]
 	path = mx/hb/rkd
 	url = .
