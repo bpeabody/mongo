@@ -9439,6 +9439,9 @@
 [submodule "si/mk/lcx"]
 	path = si/mk/lcx
 	url = .
+[submodule "sj/vd/bpa"]
+	path = sj/vd/bpa
+	url = .
 [submodule "sj/wj/nyy"]
 	path = sj/wj/nyy
 	url = .
