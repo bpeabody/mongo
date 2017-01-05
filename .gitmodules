@@ -25528,6 +25528,9 @@
 [submodule "mj/fk/bce"]
 	path = mj/fk/bce
 	url = .
+[submodule "mj/fl/xvy"]
+	path = mj/fl/xvy
+	url = .
 [submodule "mj/gf/fsf"]
 	path = mj/gf/fsf
 	url = .
