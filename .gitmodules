@@ -37153,6 +37153,9 @@
 [submodule "vr/nr/yjn"]
 	path = vr/nr/yjn
 	url = .
+[submodule "vr/pd/mpe"]
+	path = vr/pd/mpe
+	url = .
 [submodule "vr/pg/bfy"]
 	path = vr/pg/bfy
 	url = .
