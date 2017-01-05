@@ -1927,6 +1927,9 @@
 [submodule "ba/vp/pul"]
 	path = ba/vp/pul
 	url = .
+[submodule "ba/wm/inv"]
+	path = ba/wm/inv
+	url = .
 [submodule "ba/wm/pad"]
 	path = ba/wm/pad
 	url = .
