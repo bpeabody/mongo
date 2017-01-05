@@ -3328,6 +3328,9 @@
 [submodule "hz/ca/ijp"]
 	path = hz/ca/ijp
 	url = .
+[submodule "hz/la/xvc"]
+	path = hz/la/xvc
+	url = .
 [submodule "hz/mp/odp"]
 	path = hz/mp/odp
 	url = .
