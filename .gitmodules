@@ -6514,6 +6514,9 @@
 [submodule "lz/pq/asy"]
 	path = lz/pq/asy
 	url = .
+[submodule "lz/rm/hsl"]
+	path = lz/rm/hsl
+	url = .
 [submodule "ma/ba/dhq"]
 	path = ma/ba/dhq
 	url = .
