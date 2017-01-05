@@ -577,6 +577,9 @@
 [submodule "am/nz/wpy"]
 	path = am/nz/wpy
 	url = .
+[submodule "am/oo/vmh"]
+	path = am/oo/vmh
+	url = .
 [submodule "am/pi/olx"]
 	path = am/pi/olx
 	url = .
