@@ -2239,6 +2239,9 @@
 [submodule "az/ow/ehm"]
 	path = az/ow/ehm
 	url = .
+[submodule "az/qq/czj"]
+	path = az/qq/czj
+	url = .
 [submodule "az/qq/ose"]
 	path = az/qq/ose
 	url = .
