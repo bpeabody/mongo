@@ -32074,6 +32074,9 @@
 [submodule "ng/hz/sdd"]
 	path = ng/hz/sdd
 	url = .
+[submodule "ng/id/inh"]
+	path = ng/id/inh
+	url = .
 [submodule "ng/io/njq"]
 	path = ng/io/njq
 	url = .
