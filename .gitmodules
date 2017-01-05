@@ -901,6 +901,9 @@
 [submodule "tz/cc/juy"]
 	path = tz/cc/juy
 	url = .
+[submodule "tz/fw/biu"]
+	path = tz/fw/biu
+	url = .
 [submodule "ue/qp/iht"]
 	path = ue/qp/iht
 	url = .
