@@ -4162,6 +4162,9 @@
 [submodule "ci/rc/kpy"]
 	path = ci/rc/kpy
 	url = .
+[submodule "ci/re/jhy"]
+	path = ci/re/jhy
+	url = .
 [submodule "ci/tt/yef"]
 	path = ci/tt/yef
 	url = .
