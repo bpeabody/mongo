@@ -8689,6 +8689,9 @@
 [submodule "pd/iu/bkm"]
 	path = pd/iu/bkm
 	url = .
+[submodule "pd/oi/lhe"]
+	path = pd/oi/lhe
+	url = .
 [submodule "pd/oq/wcx"]
 	path = pd/oq/wcx
 	url = .
