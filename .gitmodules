@@ -1024,6 +1024,9 @@
 [submodule "aw/sc/tgn"]
 	path = aw/sc/tgn
 	url = .
+[submodule "aw/ts/mrm"]
+	path = aw/ts/mrm
+	url = .
 [submodule "ax/ak/dty"]
 	path = ax/ak/dty
 	url = .
