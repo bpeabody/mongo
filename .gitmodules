@@ -35878,6 +35878,9 @@
 [submodule "oe/jl/yud"]
 	path = oe/jl/yud
 	url = .
+[submodule "oe/jn/jqy"]
+	path = oe/jn/jqy
+	url = .
 [submodule "oe/jp/gyt"]
 	path = oe/jp/gyt
 	url = .
