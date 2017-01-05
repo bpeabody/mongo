@@ -7285,6 +7285,9 @@
 [submodule "cl/bo/znr"]
 	path = cl/bo/znr
 	url = .
+[submodule "cl/ck/epk"]
+	path = cl/ck/epk
+	url = .
 [submodule "cl/co/mmh"]
 	path = cl/co/mmh
 	url = .
