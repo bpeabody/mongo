@@ -22099,6 +22099,9 @@
 [submodule "ka/wh/mju"]
 	path = ka/wh/mju
 	url = .
+[submodule "ka/wj/kzy"]
+	path = ka/wj/kzy
+	url = .
 [submodule "ka/xm/uxq"]
 	path = ka/xm/uxq
 	url = .
