@@ -23107,6 +23107,9 @@
 [submodule "ri/om/cqw"]
 	path = ri/om/cqw
 	url = .
+[submodule "ri/qq/sqh"]
+	path = ri/qq/sqh
+	url = .
 [submodule "ri/rp/cjx"]
 	path = ri/rp/cjx
 	url = .
