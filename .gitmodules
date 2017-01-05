@@ -11791,6 +11791,9 @@
 [submodule "kg/ue/kfl"]
 	path = kg/ue/kfl
 	url = .
+[submodule "kg/ul/aqx"]
+	path = kg/ul/aqx
+	url = .
 [submodule "kg/vi/qvw"]
 	path = kg/vi/qvw
 	url = .
