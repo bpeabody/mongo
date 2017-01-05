@@ -601,6 +601,9 @@
 [submodule "bg/sd/pvw"]
 	path = bg/sd/pvw
 	url = .
+[submodule "bg/ub/hli"]
+	path = bg/ub/hli
+	url = .
 [submodule "bg/uv/ldg"]
 	path = bg/uv/ldg
 	url = .
