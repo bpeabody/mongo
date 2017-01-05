@@ -18853,6 +18853,9 @@
 [submodule "hn/gx/xht"]
 	path = hn/gx/xht
 	url = .
+[submodule "hn/jc/naj"]
+	path = hn/jc/naj
+	url = .
 [submodule "hn/lu/lal"]
 	path = hn/lu/lal
 	url = .
