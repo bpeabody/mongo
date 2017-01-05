@@ -32464,6 +32464,9 @@
 [submodule "mk/vx/ubc"]
 	path = mk/vx/ubc
 	url = .
+[submodule "mk/wh/hhp"]
+	path = mk/wh/hhp
+	url = .
 [submodule "mk/wl/ybi"]
 	path = mk/wl/ybi
 	url = .
