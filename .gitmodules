@@ -13765,6 +13765,9 @@
 [submodule "fy/pe/aqo"]
 	path = fy/pe/aqo
 	url = .
+[submodule "fy/po/fdt"]
+	path = fy/po/fdt
+	url = .
 [submodule "fy/qf/pgo"]
 	path = fy/qf/pgo
 	url = .
