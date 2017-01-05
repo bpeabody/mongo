@@ -8587,6 +8587,9 @@
 [submodule "jo/ge/afb"]
 	path = jo/ge/afb
 	url = .
+[submodule "jo/gz/sks"]
+	path = jo/gz/sks
+	url = .
 [submodule "jo/ic/xtu"]
 	path = jo/ic/xtu
 	url = .
