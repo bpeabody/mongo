@@ -1603,6 +1603,9 @@
 [submodule "bl/tx/toa"]
 	path = bl/tx/toa
 	url = .
+[submodule "bl/vl/qdo"]
+	path = bl/vl/qdo
+	url = .
 [submodule "bm/fp/vmk"]
 	path = bm/fp/vmk
 	url = .
