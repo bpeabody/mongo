@@ -29473,6 +29473,9 @@
 [submodule "lk/gz/vgl"]
 	path = lk/gz/vgl
 	url = .
+[submodule "lk/ib/tqc"]
+	path = lk/ib/tqc
+	url = .
 [submodule "lk/iy/zfw"]
 	path = lk/iy/zfw
 	url = .
