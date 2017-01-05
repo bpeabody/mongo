@@ -7378,6 +7378,9 @@
 [submodule "fu/dm/nlg"]
 	path = fu/dm/nlg
 	url = .
+[submodule "fu/fl/jup"]
+	path = fu/fl/jup
+	url = .
 [submodule "fu/ig/zgr"]
 	path = fu/ig/zgr
 	url = .
