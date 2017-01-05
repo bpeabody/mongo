@@ -1411,6 +1411,9 @@
 [submodule "jw/oh/pjo"]
 	path = jw/oh/pjo
 	url = .
+[submodule "jw/qb/kjx"]
+	path = jw/qb/kjx
+	url = .
 [submodule "jw/tk/xhw"]
 	path = jw/tk/xhw
 	url = .
