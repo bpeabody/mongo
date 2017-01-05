@@ -21703,6 +21703,9 @@
 [submodule "ti/jy/agu"]
 	path = ti/jy/agu
 	url = .
+[submodule "ti/ls/poa"]
+	path = ti/ls/poa
+	url = .
 [submodule "ti/mn/ngn"]
 	path = ti/mn/ngn
 	url = .
