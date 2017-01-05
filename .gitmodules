@@ -595,6 +595,9 @@
 [submodule "bf/nd/kou"]
 	path = bf/nd/kou
 	url = .
+[submodule "bf/vr/rce"]
+	path = bf/vr/rce
+	url = .
 [submodule "bf/vy/hjt"]
 	path = bf/vy/hjt
 	url = .
