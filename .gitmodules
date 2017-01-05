@@ -2020,6 +2020,9 @@
 [submodule "eu/oj/lht"]
 	path = eu/oj/lht
 	url = .
+[submodule "eu/xy/jya"]
+	path = eu/xy/jya
+	url = .
 [submodule "ev/co/nst"]
 	path = ev/co/nst
 	url = .
