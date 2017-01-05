@@ -5449,6 +5449,9 @@
 [submodule "uo/ca/jyg"]
 	path = uo/ca/jyg
 	url = .
+[submodule "uo/cf/hmc"]
+	path = uo/cf/hmc
+	url = .
 [submodule "uo/dz/sgx"]
 	path = uo/dz/sgx
 	url = .
