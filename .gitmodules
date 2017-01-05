@@ -11347,6 +11347,9 @@
 [submodule "jj/he/fss"]
 	path = jj/he/fss
 	url = .
+[submodule "jj/hh/nyg"]
+	path = jj/hh/nyg
+	url = .
 [submodule "jj/mk/wol"]
 	path = jj/mk/wol
 	url = .
