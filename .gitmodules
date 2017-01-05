@@ -3199,6 +3199,9 @@
 [submodule "gh/rj/kmp"]
 	path = gh/rj/kmp
 	url = .
+[submodule "gh/uh/edi"]
+	path = gh/uh/edi
+	url = .
 [submodule "gh/zc/qwz"]
 	path = gh/zc/qwz
 	url = .
