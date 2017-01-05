@@ -247,6 +247,9 @@
 [submodule "uv/vn/wcn"]
 	path = uv/vn/wcn
 	url = .
+[submodule "vc/nc/ngc"]
+	path = vc/nc/ngc
+	url = .
 [submodule "vk/mp/wjp"]
 	path = vk/mp/wjp
 	url = .
