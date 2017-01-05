@@ -12313,6 +12313,9 @@
 [submodule "je/uf/ish"]
 	path = je/uf/ish
 	url = .
+[submodule "je/vn/vft"]
+	path = je/vn/vft
+	url = .
 [submodule "je/ws/egx"]
 	path = je/ws/egx
 	url = .
