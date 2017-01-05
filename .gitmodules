@@ -3670,6 +3670,9 @@
 [submodule "fi/eg/wqk"]
 	path = fi/eg/wqk
 	url = .
+[submodule "fi/gl/ine"]
+	path = fi/gl/ine
+	url = .
 [submodule "fi/hg/ywd"]
 	path = fi/hg/ywd
 	url = .
