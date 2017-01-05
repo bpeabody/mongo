@@ -8698,6 +8698,9 @@
 [submodule "el/nt/aoo"]
 	path = el/nt/aoo
 	url = .
+[submodule "el/os/bku"]
+	path = el/os/bku
+	url = .
 [submodule "el/qn/gju"]
 	path = el/qn/gju
 	url = .
