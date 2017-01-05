@@ -3898,6 +3898,9 @@
 [submodule "ru/vq/mmk"]
 	path = ru/vq/mmk
 	url = .
+[submodule "ru/xb/kxf"]
+	path = ru/xb/kxf
+	url = .
 [submodule "rv/cv/kkk"]
 	path = rv/cv/kkk
 	url = .
