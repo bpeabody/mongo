@@ -18790,6 +18790,9 @@
 [submodule "kd/cf/upb"]
 	path = kd/cf/upb
 	url = .
+[submodule "kd/cu/xht"]
+	path = kd/cu/xht
+	url = .
 [submodule "kd/da/pys"]
 	path = kd/da/pys
 	url = .
