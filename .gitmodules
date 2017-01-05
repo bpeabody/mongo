@@ -26275,6 +26275,9 @@
 [submodule "iw/ah/ntl"]
 	path = iw/ah/ntl
 	url = .
+[submodule "iw/bk/uxb"]
+	path = iw/bk/uxb
+	url = .
 [submodule "iw/bl/djd"]
 	path = iw/bl/djd
 	url = .
