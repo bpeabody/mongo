@@ -8143,6 +8143,9 @@
 [submodule "kv/la/xco"]
 	path = kv/la/xco
 	url = .
+[submodule "kv/qa/syw"]
+	path = kv/qa/syw
+	url = .
 [submodule "kv/tr/pfj"]
 	path = kv/tr/pfj
 	url = .
