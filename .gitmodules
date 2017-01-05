@@ -565,6 +565,9 @@
 [submodule "al/fc/lbi"]
 	path = al/fc/lbi
 	url = .
+[submodule "al/gk/kwf"]
+	path = al/gk/kwf
+	url = .
 [submodule "al/lf/onw"]
 	path = al/lf/onw
 	url = .
