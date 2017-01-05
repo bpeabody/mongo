@@ -12184,6 +12184,9 @@
 [submodule "eh/fd/uqs"]
 	path = eh/fd/uqs
 	url = .
+[submodule "eh/fe/taf"]
+	path = eh/fe/taf
+	url = .
 [submodule "eh/gg/dde"]
 	path = eh/gg/dde
 	url = .
