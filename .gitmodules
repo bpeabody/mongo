@@ -36211,6 +36211,9 @@
 [submodule "xt/md/rgj"]
 	path = xt/md/rgj
 	url = .
+[submodule "xt/nw/swc"]
+	path = xt/nw/swc
+	url = .
 [submodule "xt/pg/hun"]
 	path = xt/pg/hun
 	url = .
