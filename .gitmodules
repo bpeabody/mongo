@@ -2599,6 +2599,9 @@
 [submodule "ch/lj/ffr"]
 	path = ch/lj/ffr
 	url = .
+[submodule "ch/ls/akr"]
+	path = ch/ls/akr
+	url = .
 [submodule "ch/mq/sja"]
 	path = ch/mq/sja
 	url = .
