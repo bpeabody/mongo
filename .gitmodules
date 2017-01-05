@@ -3442,6 +3442,9 @@
 [submodule "wo/ot/udm"]
 	path = wo/ot/udm
 	url = .
+[submodule "wp/tw/bal"]
+	path = wp/tw/bal
+	url = .
 [submodule "wq/gm/rli"]
 	path = wq/gm/rli
 	url = .
