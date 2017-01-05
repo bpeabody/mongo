@@ -17449,6 +17449,9 @@
 [submodule "hf/ri/cui"]
 	path = hf/ri/cui
 	url = .
+[submodule "hf/sc/fwg"]
+	path = hf/sc/fwg
+	url = .
 [submodule "hf/sn/rvo"]
 	path = hf/sn/rvo
 	url = .
