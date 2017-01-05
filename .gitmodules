@@ -16510,6 +16510,9 @@
 [submodule "sm/ai/qfy"]
 	path = sm/ai/qfy
 	url = .
+[submodule "sm/kd/qzd"]
+	path = sm/kd/qzd
+	url = .
 [submodule "sm/lf/drd"]
 	path = sm/lf/drd
 	url = .
