@@ -19492,6 +19492,9 @@
 [submodule "jt/ra/mxv"]
 	path = jt/ra/mxv
 	url = .
+[submodule "jt/ri/jvs"]
+	path = jt/ri/jvs
+	url = .
 [submodule "jt/rr/bvr"]
 	path = jt/rr/bvr
 	url = .
