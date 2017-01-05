@@ -40009,6 +40009,9 @@
 [submodule "rk/xm/nao"]
 	path = rk/xm/nao
 	url = .
+[submodule "rk/zp/sdm"]
+	path = rk/zp/sdm
+	url = .
 [submodule "rl/ak/pny"]
 	path = rl/ak/pny
 	url = .
