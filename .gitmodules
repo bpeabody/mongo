@@ -34291,6 +34291,9 @@
 [submodule "ue/bq/hqe"]
 	path = ue/bq/hqe
 	url = .
+[submodule "ue/dp/hxp"]
+	path = ue/dp/hxp
+	url = .
 [submodule "ue/eb/icp"]
 	path = ue/eb/icp
 	url = .
