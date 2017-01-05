@@ -2509,6 +2509,9 @@
 [submodule "aw/kp/hct"]
 	path = aw/kp/hct
 	url = .
+[submodule "aw/md/ipb"]
+	path = aw/md/ipb
+	url = .
 [submodule "aw/ov/odc"]
 	path = aw/ov/odc
 	url = .
