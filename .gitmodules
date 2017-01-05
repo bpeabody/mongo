@@ -25624,6 +25624,9 @@
 [submodule "km/kg/niq"]
 	path = km/kg/niq
 	url = .
+[submodule "km/ki/zfz"]
+	path = km/ki/zfz
+	url = .
 [submodule "km/lm/tjm"]
 	path = km/lm/tjm
 	url = .
