@@ -5788,6 +5788,9 @@
 [submodule "hs/ae/gvg"]
 	path = hs/ae/gvg
 	url = .
+[submodule "hs/fi/eyo"]
+	path = hs/fi/eyo
+	url = .
 [submodule "hs/gv/jsn"]
 	path = hs/gv/jsn
 	url = .
