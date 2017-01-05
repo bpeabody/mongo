@@ -8557,6 +8557,9 @@
 [submodule "on/rg/qyg"]
 	path = on/rg/qyg
 	url = .
+[submodule "on/ur/jba"]
+	path = on/ur/jba
+	url = .
 [submodule "on/vh/ytb"]
 	path = on/vh/ytb
 	url = .
