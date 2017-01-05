@@ -10804,6 +10804,9 @@
 [submodule "jc/wv/uty"]
 	path = jc/wv/uty
 	url = .
+[submodule "jd/bp/jtn"]
+	path = jd/bp/jtn
+	url = .
 [submodule "jd/br/drd"]
 	path = jd/br/drd
 	url = .
