@@ -23377,6 +23377,9 @@
 [submodule "qg/nk/lzi"]
 	path = qg/nk/lzi
 	url = .
+[submodule "qg/nw/hvo"]
+	path = qg/nw/hvo
+	url = .
 [submodule "qg/rw/ajb"]
 	path = qg/rw/ajb
 	url = .
