@@ -1033,6 +1033,9 @@
 [submodule "bt/gf/ero"]
 	path = bt/gf/ero
 	url = .
+[submodule "bt/gx/xlr"]
+	path = bt/gx/xlr
+	url = .
 [submodule "bt/jc/huz"]
 	path = bt/jc/huz
 	url = .
