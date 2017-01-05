@@ -31726,6 +31726,9 @@
 [submodule "ox/cm/hrr"]
 	path = ox/cm/hrr
 	url = .
+[submodule "ox/dd/bsr"]
+	path = ox/dd/bsr
+	url = .
 [submodule "ox/ed/fxq"]
 	path = ox/ed/fxq
 	url = .
