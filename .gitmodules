@@ -14641,6 +14641,9 @@
 [submodule "ha/sp/iqb"]
 	path = ha/sp/iqb
 	url = .
+[submodule "ha/sv/dam"]
+	path = ha/sv/dam
+	url = .
 [submodule "ha/tb/qll"]
 	path = ha/tb/qll
 	url = .
