@@ -66544,6 +66544,9 @@
 [submodule "vz/pl/rap"]
 	path = vz/pl/rap
 	url = .
+[submodule "vz/pl/zlp"]
+	path = vz/pl/zlp
+	url = .
 [submodule "vz/rc/kpb"]
 	path = vz/rc/kpb
 	url = .
