@@ -8857,6 +8857,9 @@
 [submodule "ms/ar/agy"]
 	path = ms/ar/agy
 	url = .
+[submodule "ms/ft/vqe"]
+	path = ms/ft/vqe
+	url = .
 [submodule "ms/he/orj"]
 	path = ms/he/orj
 	url = .
