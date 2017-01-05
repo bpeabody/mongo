@@ -7390,6 +7390,9 @@
 [submodule "gz/wv/szw"]
 	path = gz/wv/szw
 	url = .
+[submodule "ha/bk/snl"]
+	path = ha/bk/snl
+	url = .
 [submodule "ha/bo/vyo"]
 	path = ha/bo/vyo
 	url = .
