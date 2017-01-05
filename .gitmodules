@@ -16990,6 +16990,9 @@
 [submodule "oj/wo/nzh"]
 	path = oj/wo/nzh
 	url = .
+[submodule "oj/wv/ajb"]
+	path = oj/wv/ajb
+	url = .
 [submodule "oj/xm/wrc"]
 	path = oj/xm/wrc
 	url = .
