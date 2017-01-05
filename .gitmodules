@@ -148,6 +148,9 @@
 [submodule "fw/vz/wll"]
 	path = fw/vz/wll
 	url = .
+[submodule "fx/aw/oab"]
+	path = fx/aw/oab
+	url = .
 [submodule "gg/uq/ftl"]
 	path = gg/uq/ftl
 	url = .
