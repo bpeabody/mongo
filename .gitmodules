@@ -20167,6 +20167,9 @@
 [submodule "ju/et/bwf"]
 	path = ju/et/bwf
 	url = .
+[submodule "ju/ie/lsf"]
+	path = ju/ie/lsf
+	url = .
 [submodule "ju/io/lmd"]
 	path = ju/io/lmd
 	url = .
