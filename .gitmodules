@@ -8587,6 +8587,9 @@
 [submodule "et/uq/pkh"]
 	path = et/uq/pkh
 	url = .
+[submodule "et/xs/vhz"]
+	path = et/xs/vhz
+	url = .
 [submodule "et/za/nmv"]
 	path = et/za/nmv
 	url = .
