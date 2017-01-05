@@ -1093,6 +1093,9 @@
 [submodule "aj/sj/qxk"]
 	path = aj/sj/qxk
 	url = .
+[submodule "aj/tk/cnr"]
+	path = aj/tk/cnr
+	url = .
 [submodule "aj/vp/wxu"]
 	path = aj/vp/wxu
 	url = .
