@@ -5911,6 +5911,9 @@
 [submodule "ho/uy/dyt"]
 	path = ho/uy/dyt
 	url = .
+[submodule "ho/yn/kpd"]
+	path = ho/yn/kpd
+	url = .
 [submodule "hp/ab/gqe"]
 	path = hp/ab/gqe
 	url = .
