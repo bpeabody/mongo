@@ -1402,6 +1402,9 @@
 [submodule "bk/eh/mvp"]
 	path = bk/eh/mvp
 	url = .
+[submodule "bk/ej/iez"]
+	path = bk/ej/iez
+	url = .
 [submodule "bk/gb/msj"]
 	path = bk/gb/msj
 	url = .
