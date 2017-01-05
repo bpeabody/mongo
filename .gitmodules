@@ -18451,6 +18451,9 @@
 [submodule "ty/wj/dqx"]
 	path = ty/wj/dqx
 	url = .
+[submodule "ty/xo/icd"]
+	path = ty/xo/icd
+	url = .
 [submodule "tz/ae/xhg"]
 	path = tz/ae/xhg
 	url = .
