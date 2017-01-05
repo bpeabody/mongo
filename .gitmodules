@@ -1195,6 +1195,9 @@
 [submodule "ao/kw/zkr"]
 	path = ao/kw/zkr
 	url = .
+[submodule "ao/ma/dig"]
+	path = ao/ma/dig
+	url = .
 [submodule "ao/my/bgz"]
 	path = ao/my/bgz
 	url = .
