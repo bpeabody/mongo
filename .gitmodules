@@ -10096,6 +10096,9 @@
 [submodule "jc/wo/qgb"]
 	path = jc/wo/qgb
 	url = .
+[submodule "jc/wv/uty"]
+	path = jc/wv/uty
+	url = .
 [submodule "jd/dh/tqw"]
 	path = jd/dh/tqw
 	url = .
