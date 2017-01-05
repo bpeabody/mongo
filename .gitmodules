@@ -29164,6 +29164,9 @@
 [submodule "py/rn/htd"]
 	path = py/rn/htd
 	url = .
+[submodule "py/ru/oan"]
+	path = py/ru/oan
+	url = .
 [submodule "py/ub/pjs"]
 	path = py/ub/pjs
 	url = .
