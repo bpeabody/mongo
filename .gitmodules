@@ -16315,6 +16315,9 @@
 [submodule "hf/pe/zyn"]
 	path = hf/pe/zyn
 	url = .
+[submodule "hf/qb/rgr"]
+	path = hf/qb/rgr
+	url = .
 [submodule "hf/ri/cui"]
 	path = hf/ri/cui
 	url = .
