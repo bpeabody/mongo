@@ -112,6 +112,9 @@
 [submodule "ah/gd/wow"]
 	path = ah/gd/wow
 	url = .
+[submodule "ah/gh/gcp"]
+	path = ah/gh/gcp
+	url = .
 [submodule "ah/hv/qfy"]
 	path = ah/hv/qfy
 	url = .
