@@ -4738,6 +4738,9 @@
 [submodule "hb/rw/dln"]
 	path = hb/rw/dln
 	url = .
+[submodule "hb/vn/qkz"]
+	path = hb/vn/qkz
+	url = .
 [submodule "hc/cw/kiz"]
 	path = hc/cw/kiz
 	url = .
