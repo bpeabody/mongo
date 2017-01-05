@@ -3316,6 +3316,9 @@
 [submodule "bc/rc/txp"]
 	path = bc/rc/txp
 	url = .
+[submodule "bc/sc/fhr"]
+	path = bc/sc/fhr
+	url = .
 [submodule "bc/ss/hcf"]
 	path = bc/ss/hcf
 	url = .
