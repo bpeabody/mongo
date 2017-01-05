@@ -14227,6 +14227,9 @@
 [submodule "hg/pb/wsp"]
 	path = hg/pb/wsp
 	url = .
+[submodule "hg/qr/pyf"]
+	path = hg/qr/pyf
+	url = .
 [submodule "hg/uh/hio"]
 	path = hg/uh/hio
 	url = .
