@@ -127,6 +127,9 @@
 [submodule "bf/gf/vfh"]
 	path = bf/gf/vfh
 	url = .
+[submodule "bg/uv/ldg"]
+	path = bg/uv/ldg
+	url = .
 [submodule "bh/ny/vzd"]
 	path = bh/ny/vzd
 	url = .
