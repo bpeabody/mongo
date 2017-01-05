@@ -13171,6 +13171,9 @@
 [submodule "gf/oi/teu"]
 	path = gf/oi/teu
 	url = .
+[submodule "gf/oy/vib"]
+	path = gf/oy/vib
+	url = .
 [submodule "gf/pr/kmp"]
 	path = gf/pr/kmp
 	url = .
