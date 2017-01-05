@@ -4270,6 +4270,9 @@
 [submodule "sc/ri/ugg"]
 	path = sc/ri/ugg
 	url = .
+[submodule "sc/se/mxz"]
+	path = sc/se/mxz
+	url = .
 [submodule "sc/sm/ezq"]
 	path = sc/sm/ezq
 	url = .
