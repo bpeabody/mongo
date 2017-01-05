@@ -18355,6 +18355,9 @@
 [submodule "md/wv/cqm"]
 	path = md/wv/cqm
 	url = .
+[submodule "md/xv/iry"]
+	path = md/xv/iry
+	url = .
 [submodule "md/zd/ohd"]
 	path = md/zd/ohd
 	url = .
