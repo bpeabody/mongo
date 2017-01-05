@@ -52609,6 +52609,9 @@
 [submodule "sh/ua/mfj"]
 	path = sh/ua/mfj
 	url = .
+[submodule "sh/us/rum"]
+	path = sh/us/rum
+	url = .
 [submodule "sh/vp/sxs"]
 	path = sh/vp/sxs
 	url = .
