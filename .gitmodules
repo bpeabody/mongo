@@ -4147,6 +4147,9 @@
 [submodule "he/sp/goo"]
 	path = he/sp/goo
 	url = .
+[submodule "he/tu/zih"]
+	path = he/tu/zih
+	url = .
 [submodule "he/ui/dnr"]
 	path = he/ui/dnr
 	url = .
