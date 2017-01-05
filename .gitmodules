@@ -9364,6 +9364,9 @@
 [submodule "pp/ij/gaz"]
 	path = pp/ij/gaz
 	url = .
+[submodule "pp/jk/rls"]
+	path = pp/jk/rls
+	url = .
 [submodule "pp/wo/siw"]
 	path = pp/wo/siw
 	url = .
