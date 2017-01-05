@@ -23002,6 +23002,9 @@
 [submodule "kj/tu/xae"]
 	path = kj/tu/xae
 	url = .
+[submodule "kj/xp/rpu"]
+	path = kj/xp/rpu
+	url = .
 [submodule "kj/xs/ryg"]
 	path = kj/xs/ryg
 	url = .
