@@ -3874,6 +3874,9 @@
 [submodule "bp/hz/dsy"]
 	path = bp/hz/dsy
 	url = .
+[submodule "bp/ka/lds"]
+	path = bp/ka/lds
+	url = .
 [submodule "bp/kk/jts"]
 	path = bp/kk/jts
 	url = .
