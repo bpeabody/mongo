@@ -7048,6 +7048,9 @@
 [submodule "qw/mw/qsc"]
 	path = qw/mw/qsc
 	url = .
+[submodule "qx/an/wce"]
+	path = qx/an/wce
+	url = .
 [submodule "qx/cf/vga"]
 	path = qx/cf/vga
 	url = .
