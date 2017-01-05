@@ -19423,6 +19423,9 @@
 [submodule "tf/dm/gyi"]
 	path = tf/dm/gyi
 	url = .
+[submodule "tf/gc/jgd"]
+	path = tf/gc/jgd
+	url = .
 [submodule "tf/hf/dmg"]
 	path = tf/hf/dmg
 	url = .
