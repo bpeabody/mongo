@@ -9847,6 +9847,9 @@
 [submodule "ik/gp/cjh"]
 	path = ik/gp/cjh
 	url = .
+[submodule "ik/iv/noy"]
+	path = ik/iv/noy
+	url = .
 [submodule "ik/jo/agy"]
 	path = ik/jo/agy
 	url = .
