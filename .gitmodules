@@ -709,6 +709,9 @@
 [submodule "ai/bp/nyf"]
 	path = ai/bp/nyf
 	url = .
+[submodule "ai/bv/aiz"]
+	path = ai/bv/aiz
+	url = .
 [submodule "ai/db/yfn"]
 	path = ai/db/yfn
 	url = .
