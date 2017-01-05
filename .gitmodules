@@ -24490,6 +24490,9 @@
 [submodule "lx/dl/ksd"]
 	path = lx/dl/ksd
 	url = .
+[submodule "lx/dr/xlo"]
+	path = lx/dr/xlo
+	url = .
 [submodule "lx/ec/exi"]
 	path = lx/ec/exi
 	url = .
