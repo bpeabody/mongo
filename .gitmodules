@@ -13423,6 +13423,9 @@
 [submodule "kc/qn/sbz"]
 	path = kc/qn/sbz
 	url = .
+[submodule "kc/qp/vuz"]
+	path = kc/qp/vuz
+	url = .
 [submodule "kc/tm/avi"]
 	path = kc/tm/avi
 	url = .
