@@ -901,6 +901,9 @@
 [submodule "uv/zb/pvp"]
 	path = uv/zb/pvp
 	url = .
+[submodule "uw/kn/fbv"]
+	path = uw/kn/fbv
+	url = .
 [submodule "vb/ip/gty"]
 	path = vb/ip/gty
 	url = .
