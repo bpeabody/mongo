@@ -3208,6 +3208,9 @@
 [submodule "gb/bn/zgq"]
 	path = gb/bn/zgq
 	url = .
+[submodule "gb/cb/awn"]
+	path = gb/cb/awn
+	url = .
 [submodule "gb/cg/rom"]
 	path = gb/cg/rom
 	url = .
