@@ -10435,6 +10435,9 @@
 [submodule "eq/eb/fau"]
 	path = eq/eb/fau
 	url = .
+[submodule "eq/fa/ucv"]
+	path = eq/fa/ucv
+	url = .
 [submodule "eq/gc/byp"]
 	path = eq/gc/byp
 	url = .
