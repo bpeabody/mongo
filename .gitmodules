@@ -6850,6 +6850,9 @@
 [submodule "fg/zn/evi"]
 	path = fg/zn/evi
 	url = .
+[submodule "fh/ad/xyb"]
+	path = fh/ad/xyb
+	url = .
 [submodule "fh/dm/aib"]
 	path = fh/dm/aib
 	url = .
