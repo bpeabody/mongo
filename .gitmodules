@@ -21667,6 +21667,9 @@
 [submodule "kb/ov/kir"]
 	path = kb/ov/kir
 	url = .
+[submodule "kb/pj/eeb"]
+	path = kb/pj/eeb
+	url = .
 [submodule "kb/pw/jqh"]
 	path = kb/pw/jqh
 	url = .
