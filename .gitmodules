@@ -244,6 +244,9 @@
 [submodule "wq/ii/nrk"]
 	path = wq/ii/nrk
 	url = .
+[submodule "wq/sk/yph"]
+	path = wq/sk/yph
+	url = .
 [submodule "wy/uy/gtt"]
 	path = wy/uy/gtt
 	url = .
