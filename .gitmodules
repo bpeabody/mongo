@@ -2749,6 +2749,9 @@
 [submodule "cf/vk/fdz"]
 	path = cf/vk/fdz
 	url = .
+[submodule "cf/vm/jzc"]
+	path = cf/vm/jzc
+	url = .
 [submodule "cf/xq/xkp"]
 	path = cf/xq/xkp
 	url = .
