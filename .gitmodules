@@ -31459,6 +31459,9 @@
 [submodule "pl/ak/hmf"]
 	path = pl/ak/hmf
 	url = .
+[submodule "pl/bt/hmq"]
+	path = pl/bt/hmq
+	url = .
 [submodule "pl/bu/kke"]
 	path = pl/bu/kke
 	url = .
