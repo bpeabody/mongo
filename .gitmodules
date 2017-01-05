@@ -4288,6 +4288,9 @@
 [submodule "sc/ew/pns"]
 	path = sc/ew/pns
 	url = .
+[submodule "sc/lz/txs"]
+	path = sc/lz/txs
+	url = .
 [submodule "sc/ri/ugg"]
 	path = sc/ri/ugg
 	url = .
