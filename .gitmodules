@@ -17413,6 +17413,9 @@
 [submodule "oq/ls/imj"]
 	path = oq/ls/imj
 	url = .
+[submodule "oq/ml/wnb"]
+	path = oq/ml/wnb
+	url = .
 [submodule "oq/ms/xcn"]
 	path = oq/ms/xcn
 	url = .
