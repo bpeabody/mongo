@@ -16735,6 +16735,9 @@
 [submodule "is/cv/trd"]
 	path = is/cv/trd
 	url = .
+[submodule "is/et/hrk"]
+	path = is/et/hrk
+	url = .
 [submodule "is/ir/uhi"]
 	path = is/ir/uhi
 	url = .
