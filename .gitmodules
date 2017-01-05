@@ -39883,6 +39883,9 @@
 [submodule "pg/kq/lmh"]
 	path = pg/kq/lmh
 	url = .
+[submodule "pg/lf/noc"]
+	path = pg/lf/noc
+	url = .
 [submodule "pg/lz/eqe"]
 	path = pg/lz/eqe
 	url = .
