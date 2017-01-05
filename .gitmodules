@@ -1873,6 +1873,9 @@
 [submodule "dk/be/ans"]
 	path = dk/be/ans
 	url = .
+[submodule "dk/cp/auy"]
+	path = dk/cp/auy
+	url = .
 [submodule "dk/ju/cav"]
 	path = dk/ju/cav
 	url = .
