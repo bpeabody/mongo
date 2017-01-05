@@ -2386,6 +2386,9 @@
 [submodule "bl/ha/lvv"]
 	path = bl/ha/lvv
 	url = .
+[submodule "bl/hb/hdu"]
+	path = bl/hb/hdu
+	url = .
 [submodule "bl/ih/qec"]
 	path = bl/ih/qec
 	url = .
