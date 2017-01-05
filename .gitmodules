@@ -2587,6 +2587,9 @@
 [submodule "bu/bx/you"]
 	path = bu/bx/you
 	url = .
+[submodule "bu/fr/zpp"]
+	path = bu/fr/zpp
+	url = .
 [submodule "bu/fz/rjs"]
 	path = bu/fz/rjs
 	url = .
