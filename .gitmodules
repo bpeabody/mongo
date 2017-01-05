@@ -283,6 +283,9 @@
 [submodule "ao/db/zpp"]
 	path = ao/db/zpp
 	url = .
+[submodule "ao/fj/tss"]
+	path = ao/fj/tss
+	url = .
 [submodule "ao/fo/bcc"]
 	path = ao/fo/bcc
 	url = .
