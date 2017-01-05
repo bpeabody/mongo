@@ -12838,6 +12838,9 @@
 [submodule "iz/mn/qbn"]
 	path = iz/mn/qbn
 	url = .
+[submodule "iz/nz/tep"]
+	path = iz/nz/tep
+	url = .
 [submodule "iz/ok/dte"]
 	path = iz/ok/dte
 	url = .
