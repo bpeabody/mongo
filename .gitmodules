@@ -31078,6 +31078,9 @@
 [submodule "sc/bs/tgl"]
 	path = sc/bs/tgl
 	url = .
+[submodule "sc/cz/izq"]
+	path = sc/cz/izq
+	url = .
 [submodule "sc/ew/pns"]
 	path = sc/ew/pns
 	url = .
