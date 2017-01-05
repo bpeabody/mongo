@@ -8365,6 +8365,9 @@
 [submodule "gs/xw/gzx"]
 	path = gs/xw/gzx
 	url = .
+[submodule "gs/xw/iro"]
+	path = gs/xw/iro
+	url = .
 [submodule "gt/ft/vfx"]
 	path = gt/ft/vfx
 	url = .
