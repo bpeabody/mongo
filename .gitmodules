@@ -1102,6 +1102,9 @@
 [submodule "ey/za/jib"]
 	path = ey/za/jib
 	url = .
+[submodule "ez/au/afl"]
+	path = ez/au/afl
+	url = .
 [submodule "ez/by/kwl"]
 	path = ez/by/kwl
 	url = .
