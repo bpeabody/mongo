@@ -1921,6 +1921,9 @@
 [submodule "cm/wq/rdy"]
 	path = cm/wq/rdy
 	url = .
+[submodule "cm/xi/gdv"]
+	path = cm/xi/gdv
+	url = .
 [submodule "cn/dv/yld"]
 	path = cn/dv/yld
 	url = .
