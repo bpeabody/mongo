@@ -44851,6 +44851,9 @@
 [submodule "st/sl/vwr"]
 	path = st/sl/vwr
 	url = .
+[submodule "st/tk/sqq"]
+	path = st/tk/sqq
+	url = .
 [submodule "st/tq/wml"]
 	path = st/tq/wml
 	url = .
