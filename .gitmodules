@@ -44188,6 +44188,9 @@
 [submodule "rk/vy/ohs"]
 	path = rk/vy/ohs
 	url = .
+[submodule "rk/xi/dmw"]
+	path = rk/xi/dmw
+	url = .
 [submodule "rk/xj/byq"]
 	path = rk/xj/byq
 	url = .
