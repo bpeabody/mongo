@@ -39148,6 +39148,9 @@
 [submodule "ow/qo/jfn"]
 	path = ow/qo/jfn
 	url = .
+[submodule "ow/qs/jvi"]
+	path = ow/qs/jvi
+	url = .
 [submodule "ow/qy/flx"]
 	path = ow/qy/flx
 	url = .
