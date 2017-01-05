@@ -820,6 +820,9 @@
 [submodule "or/hk/eif"]
 	path = or/hk/eif
 	url = .
+[submodule "or/xk/qoy"]
+	path = or/xk/qoy
+	url = .
 [submodule "os/cs/nyc"]
 	path = os/cs/nyc
 	url = .
