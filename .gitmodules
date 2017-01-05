@@ -28693,6 +28693,9 @@
 [submodule "py/ge/lfi"]
 	path = py/ge/lfi
 	url = .
+[submodule "py/gv/qle"]
+	path = py/gv/qle
+	url = .
 [submodule "py/hc/lyr"]
 	path = py/hc/lyr
 	url = .
