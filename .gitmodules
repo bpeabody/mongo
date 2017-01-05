@@ -2410,6 +2410,9 @@
 [submodule "gb/cg/rom"]
 	path = gb/cg/rom
 	url = .
+[submodule "gb/gn/tot"]
+	path = gb/gn/tot
+	url = .
 [submodule "gb/hd/btg"]
 	path = gb/hd/btg
 	url = .
