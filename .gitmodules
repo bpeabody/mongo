@@ -33658,6 +33658,9 @@
 [submodule "or/wa/mdv"]
 	path = or/wa/mdv
 	url = .
+[submodule "or/xk/gtc"]
+	path = or/xk/gtc
+	url = .
 [submodule "or/xk/qoy"]
 	path = or/xk/qoy
 	url = .
