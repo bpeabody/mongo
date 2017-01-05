@@ -32209,6 +32209,9 @@
 [submodule "mj/ld/fxf"]
 	path = mj/ld/fxf
 	url = .
+[submodule "mj/ll/kei"]
+	path = mj/ll/kei
+	url = .
 [submodule "mj/mo/eii"]
 	path = mj/mo/eii
 	url = .
