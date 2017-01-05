@@ -1831,6 +1831,9 @@
 [submodule "cc/ih/ugv"]
 	path = cc/ih/ugv
 	url = .
+[submodule "cc/jj/ewq"]
+	path = cc/jj/ewq
+	url = .
 [submodule "cc/mv/ptg"]
 	path = cc/mv/ptg
 	url = .
