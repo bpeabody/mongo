@@ -7858,6 +7858,9 @@
 [submodule "zr/dl/syv"]
 	path = zr/dl/syv
 	url = .
+[submodule "zr/eb/svs"]
+	path = zr/eb/svs
+	url = .
 [submodule "zr/nw/sax"]
 	path = zr/nw/sax
 	url = .
