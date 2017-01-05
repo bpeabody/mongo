@@ -33778,6 +33778,9 @@
 [submodule "vu/vx/tso"]
 	path = vu/vx/tso
 	url = .
+[submodule "vv/fj/equ"]
+	path = vv/fj/equ
+	url = .
 [submodule "vv/fw/zqw"]
 	path = vv/fw/zqw
 	url = .
