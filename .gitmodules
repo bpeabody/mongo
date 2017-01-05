@@ -23344,6 +23344,9 @@
 [submodule "ib/lc/xin"]
 	path = ib/lc/xin
 	url = .
+[submodule "ib/lh/elf"]
+	path = ib/lh/elf
+	url = .
 [submodule "ib/lz/fni"]
 	path = ib/lz/fni
 	url = .
