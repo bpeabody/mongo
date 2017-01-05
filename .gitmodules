@@ -16024,6 +16024,9 @@
 [submodule "hx/wg/jqh"]
 	path = hx/wg/jqh
 	url = .
+[submodule "hy/ar/mga"]
+	path = hy/ar/mga
+	url = .
 [submodule "hy/co/ljo"]
 	path = hy/co/ljo
 	url = .
