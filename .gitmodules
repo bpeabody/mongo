@@ -45832,6 +45832,9 @@
 [submodule "sy/jz/odn"]
 	path = sy/jz/odn
 	url = .
+[submodule "sy/kn/nfe"]
+	path = sy/kn/nfe
+	url = .
 [submodule "sy/kz/rzt"]
 	path = sy/kz/rzt
 	url = .
