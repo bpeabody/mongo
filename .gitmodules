@@ -16144,6 +16144,9 @@
 [submodule "ip/xs/ixk"]
 	path = ip/xs/ixk
 	url = .
+[submodule "ip/xs/uko"]
+	path = ip/xs/uko
+	url = .
 [submodule "ip/xy/pyz"]
 	path = ip/xy/pyz
 	url = .
