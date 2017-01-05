@@ -54130,6 +54130,9 @@
 [submodule "sj/qs/ntu"]
 	path = sj/qs/ntu
 	url = .
+[submodule "sj/si/wuf"]
+	path = sj/si/wuf
+	url = .
 [submodule "sj/uk/fzo"]
 	path = sj/uk/fzo
 	url = .
