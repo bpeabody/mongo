@@ -10429,6 +10429,9 @@
 [submodule "hg/dr/muy"]
 	path = hg/dr/muy
 	url = .
+[submodule "hg/gv/qip"]
+	path = hg/gv/qip
+	url = .
 [submodule "hg/hb/dxf"]
 	path = hg/hb/dxf
 	url = .
