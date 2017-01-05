@@ -9355,6 +9355,9 @@
 [submodule "dw/hn/mzn"]
 	path = dw/hn/mzn
 	url = .
+[submodule "dw/hp/yow"]
+	path = dw/hp/yow
+	url = .
 [submodule "dw/jd/iim"]
 	path = dw/jd/iim
 	url = .
