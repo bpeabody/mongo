@@ -18649,6 +18649,9 @@
 [submodule "ym/hf/dik"]
 	path = ym/hf/dik
 	url = .
+[submodule "ym/ia/fdq"]
+	path = ym/ia/fdq
+	url = .
 [submodule "ym/jw/hyg"]
 	path = ym/jw/hyg
 	url = .
