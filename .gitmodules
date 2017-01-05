@@ -42946,6 +42946,9 @@
 [submodule "sz/pp/xhv"]
 	path = sz/pp/xhv
 	url = .
+[submodule "sz/rh/wsm"]
+	path = sz/rh/wsm
+	url = .
 [submodule "sz/rq/jgn"]
 	path = sz/rq/jgn
 	url = .
