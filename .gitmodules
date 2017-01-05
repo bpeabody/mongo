@@ -17827,6 +17827,9 @@
 [submodule "uz/di/fwo"]
 	path = uz/di/fwo
 	url = .
+[submodule "uz/eu/gpb"]
+	path = uz/eu/gpb
+	url = .
 [submodule "uz/hx/uec"]
 	path = uz/hx/uec
 	url = .
