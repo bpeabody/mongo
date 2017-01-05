@@ -469,6 +469,9 @@
 [submodule "ah/ax/uqh"]
 	path = ah/ax/uqh
 	url = .
+[submodule "ah/bl/awp"]
+	path = ah/bl/awp
+	url = .
 [submodule "ah/ft/fmz"]
 	path = ah/ft/fmz
 	url = .
