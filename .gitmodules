@@ -5389,6 +5389,9 @@
 [submodule "ei/kv/uas"]
 	path = ei/kv/uas
 	url = .
+[submodule "ei/mb/qwc"]
+	path = ei/mb/qwc
+	url = .
 [submodule "ei/nd/wwd"]
 	path = ei/nd/wwd
 	url = .
