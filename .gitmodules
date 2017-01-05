@@ -3142,6 +3142,9 @@
 [submodule "be/jo/mux"]
 	path = be/jo/mux
 	url = .
+[submodule "be/ju/syf"]
+	path = be/ju/syf
+	url = .
 [submodule "be/la/emw"]
 	path = be/la/emw
 	url = .
