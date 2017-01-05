@@ -10165,6 +10165,9 @@
 [submodule "hh/rg/zte"]
 	path = hh/rg/zte
 	url = .
+[submodule "hh/rt/hdy"]
+	path = hh/rt/hdy
+	url = .
 [submodule "hh/ua/lus"]
 	path = hh/ua/lus
 	url = .
