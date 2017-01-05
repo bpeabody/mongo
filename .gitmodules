@@ -10597,6 +10597,9 @@
 [submodule "fp/ma/fdb"]
 	path = fp/ma/fdb
 	url = .
+[submodule "fp/mq/qix"]
+	path = fp/mq/qix
+	url = .
 [submodule "fp/om/txk"]
 	path = fp/om/txk
 	url = .
