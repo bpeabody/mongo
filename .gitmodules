@@ -54904,6 +54904,9 @@
 [submodule "sl/gl/dfv"]
 	path = sl/gl/dfv
 	url = .
+[submodule "sl/gn/mwq"]
+	path = sl/gn/mwq
+	url = .
 [submodule "sl/gy/riu"]
 	path = sl/gy/riu
 	url = .
