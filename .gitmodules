@@ -18838,6 +18838,9 @@
 [submodule "iw/no/ytf"]
 	path = iw/no/ytf
 	url = .
+[submodule "iw/np/kpz"]
+	path = iw/np/kpz
+	url = .
 [submodule "iw/om/pvf"]
 	path = iw/om/pvf
 	url = .
