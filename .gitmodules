@@ -8656,6 +8656,9 @@
 [submodule "wl/ah/ion"]
 	path = wl/ah/ion
 	url = .
+[submodule "wl/fg/szf"]
+	path = wl/fg/szf
+	url = .
 [submodule "wl/fq/ose"]
 	path = wl/fq/ose
 	url = .
