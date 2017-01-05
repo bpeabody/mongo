@@ -11641,6 +11641,9 @@
 [submodule "uj/uv/hyx"]
 	path = uj/uv/hyx
 	url = .
+[submodule "uk/hm/kio"]
+	path = uk/hm/kio
+	url = .
 [submodule "uk/og/akg"]
 	path = uk/og/akg
 	url = .
