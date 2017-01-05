@@ -9946,6 +9946,9 @@
 [submodule "mi/hg/svp"]
 	path = mi/hg/svp
 	url = .
+[submodule "mi/ij/aek"]
+	path = mi/ij/aek
+	url = .
 [submodule "mi/lv/kel"]
 	path = mi/lv/kel
 	url = .
