@@ -8167,6 +8167,9 @@
 [submodule "kw/ti/wub"]
 	path = kw/ti/wub
 	url = .
+[submodule "kw/up/cbt"]
+	path = kw/up/cbt
+	url = .
 [submodule "kw/zj/bxw"]
 	path = kw/zj/bxw
 	url = .
