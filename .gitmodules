@@ -1006,6 +1006,9 @@
 [submodule "me/wq/bls"]
 	path = me/wq/bls
 	url = .
+[submodule "mf/an/rug"]
+	path = mf/an/rug
+	url = .
 [submodule "mg/fm/amn"]
 	path = mg/fm/amn
 	url = .
