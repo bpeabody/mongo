@@ -36064,6 +36064,9 @@
 [submodule "uw/ty/cnf"]
 	path = uw/ty/cnf
 	url = .
+[submodule "uw/vi/rai"]
+	path = uw/vi/rai
+	url = .
 [submodule "uw/xl/slj"]
 	path = uw/xl/slj
 	url = .
