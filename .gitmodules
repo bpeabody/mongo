@@ -11803,6 +11803,9 @@
 [submodule "fh/zo/iip"]
 	path = fh/zo/iip
 	url = .
+[submodule "fi/bi/vvi"]
+	path = fi/bi/vvi
+	url = .
 [submodule "fi/dm/why"]
 	path = fi/dm/why
 	url = .
