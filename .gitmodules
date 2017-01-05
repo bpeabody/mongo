@@ -2377,6 +2377,9 @@
 [submodule "mk/gi/mho"]
 	path = mk/gi/mho
 	url = .
+[submodule "mk/hb/qfl"]
+	path = mk/hb/qfl
+	url = .
 [submodule "ml/ao/hkx"]
 	path = ml/ao/hkx
 	url = .
