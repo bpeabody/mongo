@@ -22729,6 +22729,9 @@
 [submodule "im/ij/hig"]
 	path = im/ij/hig
 	url = .
+[submodule "im/ku/fer"]
+	path = im/ku/fer
+	url = .
 [submodule "im/lg/grl"]
 	path = im/lg/grl
 	url = .
