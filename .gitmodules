@@ -19609,6 +19609,9 @@
 [submodule "rp/jh/mmc"]
 	path = rp/jh/mmc
 	url = .
+[submodule "rp/jn/ywx"]
+	path = rp/jn/ywx
+	url = .
 [submodule "rp/nw/vpd"]
 	path = rp/nw/vpd
 	url = .
