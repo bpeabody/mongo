@@ -7495,6 +7495,9 @@
 [submodule "fd/sm/msd"]
 	path = fd/sm/msd
 	url = .
+[submodule "fd/uj/xdt"]
+	path = fd/uj/xdt
+	url = .
 [submodule "fd/xb/dny"]
 	path = fd/xb/dny
 	url = .
