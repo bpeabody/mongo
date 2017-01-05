@@ -11263,6 +11263,9 @@
 [submodule "jv/ef/vjd"]
 	path = jv/ef/vjd
 	url = .
+[submodule "jv/hu/zrn"]
+	path = jv/hu/zrn
+	url = .
 [submodule "jv/no/vqn"]
 	path = jv/no/vqn
 	url = .
