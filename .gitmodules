@@ -10327,6 +10327,9 @@
 [submodule "gk/kp/cos"]
 	path = gk/kp/cos
 	url = .
+[submodule "gk/ly/eam"]
+	path = gk/ly/eam
+	url = .
 [submodule "gk/mw/ksp"]
 	path = gk/mw/ksp
 	url = .
