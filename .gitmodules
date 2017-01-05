@@ -41356,6 +41356,9 @@
 [submodule "oi/fs/rgb"]
 	path = oi/fs/rgb
 	url = .
+[submodule "oi/go/kau"]
+	path = oi/go/kau
+	url = .
 [submodule "oi/gu/adq"]
 	path = oi/gu/adq
 	url = .
