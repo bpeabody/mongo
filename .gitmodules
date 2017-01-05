@@ -6346,6 +6346,9 @@
 [submodule "cm/va/bhf"]
 	path = cm/va/bhf
 	url = .
+[submodule "cm/vh/gix"]
+	path = cm/vh/gix
+	url = .
 [submodule "cm/wc/edn"]
 	path = cm/wc/edn
 	url = .
