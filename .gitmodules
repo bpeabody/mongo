@@ -22675,6 +22675,9 @@
 [submodule "ml/kw/rwl"]
 	path = ml/kw/rwl
 	url = .
+[submodule "ml/lg/afr"]
+	path = ml/lg/afr
+	url = .
 [submodule "ml/mb/amg"]
 	path = ml/mb/amg
 	url = .
