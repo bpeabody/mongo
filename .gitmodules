@@ -31501,6 +31501,9 @@
 [submodule "xo/vm/jrz"]
 	path = xo/vm/jrz
 	url = .
+[submodule "xo/vu/gso"]
+	path = xo/vu/gso
+	url = .
 [submodule "xo/yr/tex"]
 	path = xo/yr/tex
 	url = .
