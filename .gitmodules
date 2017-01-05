@@ -2434,6 +2434,9 @@
 [submodule "be/qq/mrq"]
 	path = be/qq/mrq
 	url = .
+[submodule "be/ri/sof"]
+	path = be/ri/sof
+	url = .
 [submodule "be/rw/iym"]
 	path = be/rw/iym
 	url = .
