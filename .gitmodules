@@ -34606,6 +34606,9 @@
 [submodule "re/gh/czt"]
 	path = re/gh/czt
 	url = .
+[submodule "re/ky/eqk"]
+	path = re/ky/eqk
+	url = .
 [submodule "re/ky/tlt"]
 	path = re/ky/tlt
 	url = .
