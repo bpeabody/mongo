@@ -30943,6 +30943,9 @@
 [submodule "xs/tu/mco"]
 	path = xs/tu/mco
 	url = .
+[submodule "xs/uk/kmm"]
+	path = xs/uk/kmm
+	url = .
 [submodule "xs/wu/gfx"]
 	path = xs/wu/gfx
 	url = .
