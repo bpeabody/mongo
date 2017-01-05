@@ -6943,6 +6943,9 @@
 [submodule "zj/fw/emf"]
 	path = zj/fw/emf
 	url = .
+[submodule "zj/hr/vbm"]
+	path = zj/hr/vbm
+	url = .
 [submodule "zj/ib/pqs"]
 	path = zj/ib/pqs
 	url = .
