@@ -32245,6 +32245,9 @@
 [submodule "lr/hi/azq"]
 	path = lr/hi/azq
 	url = .
+[submodule "lr/hs/olk"]
+	path = lr/hs/olk
+	url = .
 [submodule "lr/id/rkp"]
 	path = lr/id/rkp
 	url = .
