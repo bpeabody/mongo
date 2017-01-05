@@ -11410,6 +11410,9 @@
 [submodule "dz/pk/cud"]
 	path = dz/pk/cud
 	url = .
+[submodule "dz/qp/nsy"]
+	path = dz/qp/nsy
+	url = .
 [submodule "dz/qz/sfp"]
 	path = dz/qz/sfp
 	url = .
