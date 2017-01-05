@@ -4957,6 +4957,9 @@
 [submodule "iy/hy/etd"]
 	path = iy/hy/etd
 	url = .
+[submodule "iy/mn/fip"]
+	path = iy/mn/fip
+	url = .
 [submodule "iy/nb/zfr"]
 	path = iy/nb/zfr
 	url = .
