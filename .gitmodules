@@ -17740,6 +17740,9 @@
 [submodule "ql/pd/idi"]
 	path = ql/pd/idi
 	url = .
+[submodule "ql/pg/ipw"]
+	path = ql/pg/ipw
+	url = .
 [submodule "ql/pi/xrw"]
 	path = ql/pi/xrw
 	url = .
