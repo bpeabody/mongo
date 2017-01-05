@@ -13039,6 +13039,9 @@
 [submodule "ut/gg/jqv"]
 	path = ut/gg/jqv
 	url = .
+[submodule "ut/gt/aly"]
+	path = ut/gt/aly
+	url = .
 [submodule "ut/hr/wei"]
 	path = ut/hr/wei
 	url = .
