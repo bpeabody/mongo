@@ -2329,6 +2329,9 @@
 [submodule "cg/wk/elp"]
 	path = cg/wk/elp
 	url = .
+[submodule "cg/ww/sri"]
+	path = cg/ww/sri
+	url = .
 [submodule "cg/ze/hsp"]
 	path = cg/ze/hsp
 	url = .
