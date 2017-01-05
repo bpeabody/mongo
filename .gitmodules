@@ -1660,6 +1660,9 @@
 [submodule "bm/md/xvd"]
 	path = bm/md/xvd
 	url = .
+[submodule "bm/nw/qdt"]
+	path = bm/nw/qdt
+	url = .
 [submodule "bm/os/tkp"]
 	path = bm/os/tkp
 	url = .
