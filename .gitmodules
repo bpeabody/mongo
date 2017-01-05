@@ -6526,6 +6526,9 @@
 [submodule "dz/ov/yaf"]
 	path = dz/ov/yaf
 	url = .
+[submodule "dz/qz/sfp"]
+	path = dz/qz/sfp
+	url = .
 [submodule "dz/rq/eii"]
 	path = dz/rq/eii
 	url = .
