@@ -2758,6 +2758,9 @@
 [submodule "tt/ax/hnq"]
 	path = tt/ax/hnq
 	url = .
+[submodule "tt/gt/rjn"]
+	path = tt/gt/rjn
+	url = .
 [submodule "tt/rj/yjf"]
 	path = tt/rj/yjf
 	url = .
