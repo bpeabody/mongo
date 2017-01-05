@@ -9568,6 +9568,9 @@
 [submodule "ij/sp/idk"]
 	path = ij/sp/idk
 	url = .
+[submodule "ij/wq/mjw"]
+	path = ij/wq/mjw
+	url = .
 [submodule "ij/xb/gzu"]
 	path = ij/xb/gzu
 	url = .
