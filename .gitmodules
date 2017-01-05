@@ -17890,6 +17890,9 @@
 [submodule "vs/oo/xzh"]
 	path = vs/oo/xzh
 	url = .
+[submodule "vs/ps/cyn"]
+	path = vs/ps/cyn
+	url = .
 [submodule "vs/sy/zwz"]
 	path = vs/sy/zwz
 	url = .
