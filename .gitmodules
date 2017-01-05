@@ -2851,6 +2851,9 @@
 [submodule "oi/ss/rqj"]
 	path = oi/ss/rqj
 	url = .
+[submodule "oi/uw/vfb"]
+	path = oi/uw/vfb
+	url = .
 [submodule "oj/gz/gro"]
 	path = oj/gz/gro
 	url = .
