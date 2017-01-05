@@ -10183,6 +10183,9 @@
 [submodule "dz/ov/yaf"]
 	path = dz/ov/yaf
 	url = .
+[submodule "dz/ph/hhh"]
+	path = dz/ph/hhh
+	url = .
 [submodule "dz/pk/cud"]
 	path = dz/pk/cud
 	url = .
