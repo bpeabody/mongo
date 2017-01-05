@@ -11950,6 +11950,9 @@
 [submodule "hf/wc/bio"]
 	path = hf/wc/bio
 	url = .
+[submodule "hf/ws/smo"]
+	path = hf/ws/smo
+	url = .
 [submodule "hf/ya/inm"]
 	path = hf/ya/inm
 	url = .
