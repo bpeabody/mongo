@@ -463,6 +463,9 @@
 [submodule "ad/st/vhu"]
 	path = ad/st/vhu
 	url = .
+[submodule "ad/tc/bzf"]
+	path = ad/tc/bzf
+	url = .
 [submodule "ad/ti/ecg"]
 	path = ad/ti/ecg
 	url = .
