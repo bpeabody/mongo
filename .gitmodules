@@ -2497,6 +2497,9 @@
 [submodule "az/xa/mrb"]
 	path = az/xa/mrb
 	url = .
+[submodule "az/xv/mmp"]
+	path = az/xv/mmp
+	url = .
 [submodule "az/yx/gdm"]
 	path = az/yx/gdm
 	url = .
