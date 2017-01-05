@@ -27052,6 +27052,9 @@
 [submodule "yv/ck/qwk"]
 	path = yv/ck/qwk
 	url = .
+[submodule "yv/db/rgb"]
+	path = yv/db/rgb
+	url = .
 [submodule "yv/ft/ovg"]
 	path = yv/ft/ovg
 	url = .
