@@ -4357,6 +4357,9 @@
 [submodule "fr/mo/brt"]
 	path = fr/mo/brt
 	url = .
+[submodule "fr/qv/atl"]
+	path = fr/qv/atl
+	url = .
 [submodule "fr/rs/ygf"]
 	path = fr/rs/ygf
 	url = .
