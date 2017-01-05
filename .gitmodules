@@ -1204,6 +1204,9 @@
 [submodule "ax/ht/ayz"]
 	path = ax/ht/ayz
 	url = .
+[submodule "ax/ib/fmg"]
+	path = ax/ib/fmg
+	url = .
 [submodule "ax/jt/ltn"]
 	path = ax/jt/ltn
 	url = .
