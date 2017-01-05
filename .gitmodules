@@ -5959,6 +5959,9 @@
 [submodule "nx/fu/chj"]
 	path = nx/fu/chj
 	url = .
+[submodule "nx/ld/hnf"]
+	path = nx/ld/hnf
+	url = .
 [submodule "nx/ls/qzh"]
 	path = nx/ls/qzh
 	url = .
