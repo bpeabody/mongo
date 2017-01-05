@@ -18022,6 +18022,9 @@
 [submodule "gu/po/fuu"]
 	path = gu/po/fuu
 	url = .
+[submodule "gu/ql/gti"]
+	path = gu/ql/gti
+	url = .
 [submodule "gu/si/lln"]
 	path = gu/si/lln
 	url = .
