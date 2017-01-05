@@ -38245,6 +38245,9 @@
 [submodule "tf/gc/jgd"]
 	path = tf/gc/jgd
 	url = .
+[submodule "tf/gh/dkg"]
+	path = tf/gh/dkg
+	url = .
 [submodule "tf/hf/dmg"]
 	path = tf/hf/dmg
 	url = .
