@@ -3853,6 +3853,9 @@
 [submodule "dr/ve/moa"]
 	path = dr/ve/moa
 	url = .
+[submodule "dr/wv/qkh"]
+	path = dr/wv/qkh
+	url = .
 [submodule "ds/fb/vmm"]
 	path = ds/fb/vmm
 	url = .
