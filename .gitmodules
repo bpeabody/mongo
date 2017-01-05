@@ -66514,6 +66514,9 @@
 [submodule "wu/ct/mej"]
 	path = wu/ct/mej
 	url = .
+[submodule "wu/ea/ghq"]
+	path = wu/ea/ghq
+	url = .
 [submodule "wu/eg/jnl"]
 	path = wu/eg/jnl
 	url = .
