@@ -7432,6 +7432,9 @@
 [submodule "ms/kc/jka"]
 	path = ms/kc/jka
 	url = .
+[submodule "ms/kn/mnh"]
+	path = ms/kn/mnh
+	url = .
 [submodule "ms/ls/zrf"]
 	path = ms/ls/zrf
 	url = .
