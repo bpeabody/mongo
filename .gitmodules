@@ -754,6 +754,9 @@
 [submodule "bz/jf/mvk"]
 	path = bz/jf/mvk
 	url = .
+[submodule "bz/jl/yhr"]
+	path = bz/jl/yhr
+	url = .
 [submodule "bz/yj/aio"]
 	path = bz/yj/aio
 	url = .
