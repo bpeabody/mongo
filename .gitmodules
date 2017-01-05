@@ -17797,6 +17797,9 @@
 [submodule "gv/fq/xfr"]
 	path = gv/fq/xfr
 	url = .
+[submodule "gv/gx/aqq"]
+	path = gv/gx/aqq
+	url = .
 [submodule "gv/ii/mlm"]
 	path = gv/ii/mlm
 	url = .
