@@ -3298,6 +3298,9 @@
 [submodule "bq/zo/kyu"]
 	path = bq/zo/kyu
 	url = .
+[submodule "br/ad/feq"]
+	path = br/ad/feq
+	url = .
 [submodule "br/ax/zjf"]
 	path = br/ax/zjf
 	url = .
