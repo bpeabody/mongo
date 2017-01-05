@@ -4705,6 +4705,9 @@
 [submodule "fe/ff/cbs"]
 	path = fe/ff/cbs
 	url = .
+[submodule "fe/ge/ouj"]
+	path = fe/ge/ouj
+	url = .
 [submodule "fe/gu/ron"]
 	path = fe/gu/ron
 	url = .
