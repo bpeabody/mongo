@@ -58801,6 +58801,9 @@
 [submodule "vr/qn/vvk"]
 	path = vr/qn/vvk
 	url = .
+[submodule "vr/rw/ibs"]
+	path = vr/rw/ibs
+	url = .
 [submodule "vr/rx/bww"]
 	path = vr/rx/bww
 	url = .
