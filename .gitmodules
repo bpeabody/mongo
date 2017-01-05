@@ -5440,6 +5440,9 @@
 [submodule "tw/bv/luz"]
 	path = tw/bv/luz
 	url = .
+[submodule "tw/wg/qei"]
+	path = tw/wg/qei
+	url = .
 [submodule "tx/sy/knt"]
 	path = tx/sy/knt
 	url = .
