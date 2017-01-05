@@ -41986,6 +41986,9 @@
 [submodule "qv/lk/mfp"]
 	path = qv/lk/mfp
 	url = .
+[submodule "qv/ls/aod"]
+	path = qv/ls/aod
+	url = .
 [submodule "qv/ni/fqc"]
 	path = qv/ni/fqc
 	url = .
