@@ -4552,6 +4552,9 @@
 [submodule "cg/tv/nrk"]
 	path = cg/tv/nrk
 	url = .
+[submodule "cg/wd/cml"]
+	path = cg/wd/cml
+	url = .
 [submodule "cg/wk/elp"]
 	path = cg/wk/elp
 	url = .
