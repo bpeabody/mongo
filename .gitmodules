@@ -4783,6 +4783,9 @@
 [submodule "jr/dp/sqt"]
 	path = jr/dp/sqt
 	url = .
+[submodule "jr/fh/awa"]
+	path = jr/fh/awa
+	url = .
 [submodule "jr/iu/oka"]
 	path = jr/iu/oka
 	url = .
