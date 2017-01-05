@@ -3076,6 +3076,9 @@
 [submodule "db/kf/eke"]
 	path = db/kf/eke
 	url = .
+[submodule "db/mc/exv"]
+	path = db/mc/exv
+	url = .
 [submodule "db/ng/poe"]
 	path = db/ng/poe
 	url = .
