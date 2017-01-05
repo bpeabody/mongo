@@ -38374,6 +38374,9 @@
 [submodule "ug/rg/nwg"]
 	path = ug/rg/nwg
 	url = .
+[submodule "ug/ru/hfs"]
+	path = ug/ru/hfs
+	url = .
 [submodule "ug/uj/jum"]
 	path = ug/uj/jum
 	url = .
