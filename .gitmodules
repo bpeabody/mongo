@@ -47869,6 +47869,9 @@
 [submodule "xy/jq/qvl"]
 	path = xy/jq/qvl
 	url = .
+[submodule "xy/ol/suz"]
+	path = xy/ol/suz
+	url = .
 [submodule "xy/on/yky"]
 	path = xy/on/yky
 	url = .
