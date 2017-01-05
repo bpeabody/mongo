@@ -40753,6 +40753,9 @@
 [submodule "vu/fv/pem"]
 	path = vu/fv/pem
 	url = .
+[submodule "vu/fx/kqw"]
+	path = vu/fx/kqw
+	url = .
 [submodule "vu/gf/qty"]
 	path = vu/gf/qty
 	url = .
