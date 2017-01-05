@@ -1219,6 +1219,9 @@
 [submodule "dc/zx/qhn"]
 	path = dc/zx/qhn
 	url = .
+[submodule "dd/bx/bum"]
+	path = dd/bx/bum
+	url = .
 [submodule "dd/fn/srx"]
 	path = dd/fn/srx
 	url = .
