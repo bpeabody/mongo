@@ -21979,6 +21979,9 @@
 [submodule "uk/rb/lkz"]
 	path = uk/rb/lkz
 	url = .
+[submodule "uk/ro/lst"]
+	path = uk/ro/lst
+	url = .
 [submodule "uk/so/asv"]
 	path = uk/so/asv
 	url = .
