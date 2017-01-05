@@ -1672,6 +1672,9 @@
 [submodule "eq/io/des"]
 	path = eq/io/des
 	url = .
+[submodule "eq/xk/wdn"]
+	path = eq/xk/wdn
+	url = .
 [submodule "er/bt/erq"]
 	path = er/bt/erq
 	url = .
