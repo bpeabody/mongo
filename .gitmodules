@@ -42571,6 +42571,9 @@
 [submodule "ve/dn/lgy"]
 	path = ve/dn/lgy
 	url = .
+[submodule "ve/dq/vlr"]
+	path = ve/dq/vlr
+	url = .
 [submodule "ve/du/hsw"]
 	path = ve/du/hsw
 	url = .
