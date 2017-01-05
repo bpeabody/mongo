@@ -1216,6 +1216,9 @@
 [submodule "by/gm/iur"]
 	path = by/gm/iur
 	url = .
+[submodule "by/hu/zqc"]
+	path = by/hu/zqc
+	url = .
 [submodule "by/kk/jis"]
 	path = by/kk/jis
 	url = .
