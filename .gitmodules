@@ -8746,6 +8746,9 @@
 [submodule "ds/ue/grm"]
 	path = ds/ue/grm
 	url = .
+[submodule "ds/ui/ytb"]
+	path = ds/ui/ytb
+	url = .
 [submodule "ds/uz/vjz"]
 	path = ds/uz/vjz
 	url = .
