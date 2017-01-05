@@ -24127,6 +24127,9 @@
 [submodule "qa/pk/uan"]
 	path = qa/pk/uan
 	url = .
+[submodule "qa/pl/vmy"]
+	path = qa/pl/vmy
+	url = .
 [submodule "qa/qv/vrr"]
 	path = qa/qv/vrr
 	url = .
