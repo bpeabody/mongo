@@ -64117,6 +64117,9 @@
 [submodule "vg/gm/yxo"]
 	path = vg/gm/yxo
 	url = .
+[submodule "vg/gw/hmc"]
+	path = vg/gw/hmc
+	url = .
 [submodule "vg/ie/zdf"]
 	path = vg/ie/zdf
 	url = .
