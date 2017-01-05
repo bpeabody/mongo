@@ -8281,6 +8281,9 @@
 [submodule "ns/it/ahr"]
 	path = ns/it/ahr
 	url = .
+[submodule "ns/lg/bww"]
+	path = ns/lg/bww
+	url = .
 [submodule "ns/qb/slc"]
 	path = ns/qb/slc
 	url = .
