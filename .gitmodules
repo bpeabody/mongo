@@ -27280,6 +27280,9 @@
 [submodule "mi/ez/iir"]
 	path = mi/ez/iir
 	url = .
+[submodule "mi/fn/enr"]
+	path = mi/fn/enr
+	url = .
 [submodule "mi/gw/zbp"]
 	path = mi/gw/zbp
 	url = .
