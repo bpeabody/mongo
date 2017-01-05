@@ -5890,6 +5890,9 @@
 [submodule "dv/ht/zzj"]
 	path = dv/ht/zzj
 	url = .
+[submodule "dv/io/mik"]
+	path = dv/io/mik
+	url = .
 [submodule "dv/kw/tiy"]
 	path = dv/kw/tiy
 	url = .
