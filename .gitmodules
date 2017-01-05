@@ -27796,6 +27796,9 @@
 [submodule "mu/ux/vqd"]
 	path = mu/ux/vqd
 	url = .
+[submodule "mu/wi/cbv"]
+	path = mu/wi/cbv
+	url = .
 [submodule "mu/wm/djk"]
 	path = mu/wm/djk
 	url = .
