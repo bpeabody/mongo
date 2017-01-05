@@ -16804,6 +16804,9 @@
 [submodule "fr/ur/zqc"]
 	path = fr/ur/zqc
 	url = .
+[submodule "fr/ve/zvy"]
+	path = fr/ve/zvy
+	url = .
 [submodule "fr/wm/acz"]
 	path = fr/wm/acz
 	url = .
