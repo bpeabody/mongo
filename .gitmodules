@@ -4639,6 +4639,9 @@
 [submodule "fx/so/skm"]
 	path = fx/so/skm
 	url = .
+[submodule "fx/tq/igj"]
+	path = fx/tq/igj
+	url = .
 [submodule "fx/ux/zee"]
 	path = fx/ux/zee
 	url = .
