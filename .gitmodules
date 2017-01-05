@@ -30700,6 +30700,9 @@
 [submodule "mb/yn/xrk"]
 	path = mb/yn/xrk
 	url = .
+[submodule "mb/yp/anm"]
+	path = mb/yp/anm
+	url = .
 [submodule "mc/am/cws"]
 	path = mc/am/cws
 	url = .
