@@ -2248,6 +2248,9 @@
 [submodule "nd/hu/hif"]
 	path = nd/hu/hif
 	url = .
+[submodule "nd/qb/ija"]
+	path = nd/qb/ija
+	url = .
 [submodule "ne/ph/val"]
 	path = ne/ph/val
 	url = .
