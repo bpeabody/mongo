@@ -48052,6 +48052,9 @@
 [submodule "yc/kc/zjy"]
 	path = yc/kc/zjy
 	url = .
+[submodule "yc/ks/gtn"]
+	path = yc/ks/gtn
+	url = .
 [submodule "yc/lq/nep"]
 	path = yc/lq/nep
 	url = .
