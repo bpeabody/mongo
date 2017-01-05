@@ -1030,6 +1030,9 @@
 [submodule "ay/ri/kno"]
 	path = ay/ri/kno
 	url = .
+[submodule "az/cl/pxi"]
+	path = az/cl/pxi
+	url = .
 [submodule "az/ek/tjs"]
 	path = az/ek/tjs
 	url = .
