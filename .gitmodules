@@ -6850,6 +6850,9 @@
 [submodule "eu/uo/ubm"]
 	path = eu/uo/ubm
 	url = .
+[submodule "eu/wg/aoz"]
+	path = eu/wg/aoz
+	url = .
 [submodule "eu/xy/jya"]
 	path = eu/xy/jya
 	url = .
