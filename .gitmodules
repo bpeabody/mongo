@@ -38101,6 +38101,9 @@
 [submodule "vk/hi/npd"]
 	path = vk/hi/npd
 	url = .
+[submodule "vk/ja/vaq"]
+	path = vk/ja/vaq
+	url = .
 [submodule "vk/jb/dvu"]
 	path = vk/jb/dvu
 	url = .
