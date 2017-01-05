@@ -26683,6 +26683,9 @@
 [submodule "nf/if/uvy"]
 	path = nf/if/uvy
 	url = .
+[submodule "nf/jc/kmr"]
+	path = nf/jc/kmr
+	url = .
 [submodule "nf/lh/zno"]
 	path = nf/lh/zno
 	url = .
