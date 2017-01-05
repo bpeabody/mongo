@@ -55684,6 +55684,9 @@
 [submodule "xs/wu/gfx"]
 	path = xs/wu/gfx
 	url = .
+[submodule "xs/xa/bip"]
+	path = xs/xa/bip
+	url = .
 [submodule "xs/zg/kay"]
 	path = xs/zg/kay
 	url = .
