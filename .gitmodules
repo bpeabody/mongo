@@ -313,6 +313,9 @@
 [submodule "bu/pw/you"]
 	path = bu/pw/you
 	url = .
+[submodule "bu/py/kao"]
+	path = bu/py/kao
+	url = .
 [submodule "bw/dj/yde"]
 	path = bw/dj/yde
 	url = .
