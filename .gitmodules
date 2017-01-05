@@ -53836,6 +53836,9 @@
 [submodule "uw/mv/ezi"]
 	path = uw/mv/ezi
 	url = .
+[submodule "uw/nn/hse"]
+	path = uw/nn/hse
+	url = .
 [submodule "uw/ny/pvw"]
 	path = uw/ny/pvw
 	url = .
