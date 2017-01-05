@@ -2785,6 +2785,9 @@
 [submodule "ba/yv/ezy"]
 	path = ba/yv/ezy
 	url = .
+[submodule "ba/zv/vzl"]
+	path = ba/zv/vzl
+	url = .
 [submodule "bb/am/msm"]
 	path = bb/am/msm
 	url = .
