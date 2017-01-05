@@ -19066,6 +19066,9 @@
 [submodule "yg/bt/mqf"]
 	path = yg/bt/mqf
 	url = .
+[submodule "yg/bt/mtj"]
+	path = yg/bt/mtj
+	url = .
 [submodule "yg/fm/kqy"]
 	path = yg/fm/kqy
 	url = .
