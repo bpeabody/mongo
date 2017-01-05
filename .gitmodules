@@ -4795,6 +4795,9 @@
 [submodule "vq/cz/jiz"]
 	path = vq/cz/jiz
 	url = .
+[submodule "vq/fe/lms"]
+	path = vq/fe/lms
+	url = .
 [submodule "vq/gi/pyn"]
 	path = vq/gi/pyn
 	url = .
