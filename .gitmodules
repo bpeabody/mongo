@@ -39985,6 +39985,9 @@
 [submodule "nn/wi/lty"]
 	path = nn/wi/lty
 	url = .
+[submodule "nn/xs/fax"]
+	path = nn/xs/fax
+	url = .
 [submodule "nn/yk/buy"]
 	path = nn/yk/buy
 	url = .
