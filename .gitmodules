@@ -5956,6 +5956,9 @@
 [submodule "vp/do/jvf"]
 	path = vp/do/jvf
 	url = .
+[submodule "vp/ha/tvw"]
+	path = vp/ha/tvw
+	url = .
 [submodule "vp/hq/gqa"]
 	path = vp/hq/gqa
 	url = .
