@@ -52012,6 +52012,9 @@
 [submodule "uf/lr/tcy"]
 	path = uf/lr/tcy
 	url = .
+[submodule "uf/mq/aas"]
+	path = uf/mq/aas
+	url = .
 [submodule "uf/nq/iuu"]
 	path = uf/nq/iuu
 	url = .
