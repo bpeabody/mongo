@@ -9325,6 +9325,9 @@
 [submodule "vi/xb/tav"]
 	path = vi/xb/tav
 	url = .
+[submodule "vi/yo/huj"]
+	path = vi/yo/huj
+	url = .
 [submodule "vj/dp/rde"]
 	path = vj/dp/rde
 	url = .
