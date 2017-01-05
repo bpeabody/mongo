@@ -7666,6 +7666,9 @@
 [submodule "eh/cz/gwi"]
 	path = eh/cz/gwi
 	url = .
+[submodule "eh/du/pyq"]
+	path = eh/du/pyq
+	url = .
 [submodule "eh/ez/wgq"]
 	path = eh/ez/wgq
 	url = .
