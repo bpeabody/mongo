@@ -5764,6 +5764,9 @@
 [submodule "hw/fs/pxc"]
 	path = hw/fs/pxc
 	url = .
+[submodule "hw/hf/hca"]
+	path = hw/hf/hca
+	url = .
 [submodule "hw/ip/zem"]
 	path = hw/ip/zem
 	url = .
