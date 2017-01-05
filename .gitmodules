@@ -17995,6 +17995,9 @@
 [submodule "ul/pm/ngv"]
 	path = ul/pm/ngv
 	url = .
+[submodule "ul/uu/uzk"]
+	path = ul/uu/uzk
+	url = .
 [submodule "ul/wh/shl"]
 	path = ul/wh/shl
 	url = .
