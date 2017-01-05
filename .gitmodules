@@ -21553,6 +21553,9 @@
 [submodule "uq/fr/xtq"]
 	path = uq/fr/xtq
 	url = .
+[submodule "uq/go/bbj"]
+	path = uq/go/bbj
+	url = .
 [submodule "uq/gv/haz"]
 	path = uq/gv/haz
 	url = .
