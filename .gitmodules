@@ -14908,6 +14908,9 @@
 [submodule "ft/vz/wkm"]
 	path = ft/vz/wkm
 	url = .
+[submodule "ft/wj/wgb"]
+	path = ft/wj/wgb
+	url = .
 [submodule "ft/xj/jcl"]
 	path = ft/xj/jcl
 	url = .
