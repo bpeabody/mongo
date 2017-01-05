@@ -6631,6 +6631,9 @@
 [submodule "sy/jz/odn"]
 	path = sy/jz/odn
 	url = .
+[submodule "sy/oq/lny"]
+	path = sy/oq/lny
+	url = .
 [submodule "sy/xl/wlp"]
 	path = sy/xl/wlp
 	url = .
