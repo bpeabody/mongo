@@ -19474,6 +19474,9 @@
 [submodule "my/tb/shq"]
 	path = my/tb/shq
 	url = .
+[submodule "my/th/mqy"]
+	path = my/th/mqy
+	url = .
 [submodule "my/we/abw"]
 	path = my/we/abw
 	url = .
