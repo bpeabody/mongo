@@ -15424,6 +15424,9 @@
 [submodule "ql/dd/xaq"]
 	path = ql/dd/xaq
 	url = .
+[submodule "ql/dk/ghw"]
+	path = ql/dk/ghw
+	url = .
 [submodule "ql/ef/gjc"]
 	path = ql/ef/gjc
 	url = .
