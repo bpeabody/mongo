@@ -16354,6 +16354,9 @@
 [submodule "ht/oo/lhx"]
 	path = ht/oo/lhx
 	url = .
+[submodule "ht/pl/qnk"]
+	path = ht/pl/qnk
+	url = .
 [submodule "ht/qa/fbg"]
 	path = ht/qa/fbg
 	url = .
