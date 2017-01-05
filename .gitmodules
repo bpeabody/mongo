@@ -10360,6 +10360,9 @@
 [submodule "xz/iq/pth"]
 	path = xz/iq/pth
 	url = .
+[submodule "xz/pp/rsm"]
+	path = xz/pp/rsm
+	url = .
 [submodule "xz/ua/qdr"]
 	path = xz/ua/qdr
 	url = .
