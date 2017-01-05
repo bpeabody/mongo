@@ -51451,6 +51451,9 @@
 [submodule "vk/pg/kty"]
 	path = vk/pg/kty
 	url = .
+[submodule "vk/qe/ads"]
+	path = vk/qe/ads
+	url = .
 [submodule "vk/rh/ebf"]
 	path = vk/rh/ebf
 	url = .
