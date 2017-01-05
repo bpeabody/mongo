@@ -10696,6 +10696,9 @@
 [submodule "lf/dk/bsh"]
 	path = lf/dk/bsh
 	url = .
+[submodule "lf/dr/wlp"]
+	path = lf/dr/wlp
+	url = .
 [submodule "lf/fi/chy"]
 	path = lf/fi/chy
 	url = .
