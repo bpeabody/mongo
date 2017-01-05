@@ -9826,6 +9826,9 @@
 [submodule "fr/sd/wly"]
 	path = fr/sd/wly
 	url = .
+[submodule "fr/ur/zqc"]
+	path = fr/ur/zqc
+	url = .
 [submodule "fr/wm/acz"]
 	path = fr/wm/acz
 	url = .
