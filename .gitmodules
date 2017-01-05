@@ -12748,6 +12748,9 @@
 [submodule "ln/hy/nws"]
 	path = ln/hy/nws
 	url = .
+[submodule "ln/mz/bil"]
+	path = ln/mz/bil
+	url = .
 [submodule "ln/pg/khf"]
 	path = ln/pg/khf
 	url = .
