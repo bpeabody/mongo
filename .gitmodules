@@ -38392,6 +38392,9 @@
 [submodule "pu/po/qzk"]
 	path = pu/po/qzk
 	url = .
+[submodule "pu/sk/mdm"]
+	path = pu/sk/mdm
+	url = .
 [submodule "pu/tm/axo"]
 	path = pu/tm/axo
 	url = .
