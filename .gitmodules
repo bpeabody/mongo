@@ -33724,6 +33724,9 @@
 [submodule "qo/mv/wda"]
 	path = qo/mv/wda
 	url = .
+[submodule "qo/ph/akg"]
+	path = qo/ph/akg
+	url = .
 [submodule "qo/rt/fir"]
 	path = qo/rt/fir
 	url = .
