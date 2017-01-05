@@ -31864,6 +31864,9 @@
 [submodule "na/qh/amj"]
 	path = na/qh/amj
 	url = .
+[submodule "na/rt/gfu"]
+	path = na/rt/gfu
+	url = .
 [submodule "na/sb/xtl"]
 	path = na/sb/xtl
 	url = .
