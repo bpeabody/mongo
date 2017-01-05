@@ -46378,6 +46378,9 @@
 [submodule "sn/gn/cnl"]
 	path = sn/gn/cnl
 	url = .
+[submodule "sn/gv/qac"]
+	path = sn/gv/qac
+	url = .
 [submodule "sn/hd/oga"]
 	path = sn/hd/oga
 	url = .
