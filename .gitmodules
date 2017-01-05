@@ -7066,6 +7066,9 @@
 [submodule "ci/rv/nhz"]
 	path = ci/rv/nhz
 	url = .
+[submodule "ci/tq/uod"]
+	path = ci/tq/uod
+	url = .
 [submodule "ci/tt/yef"]
 	path = ci/tt/yef
 	url = .
