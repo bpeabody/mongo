@@ -4615,6 +4615,9 @@
 [submodule "xp/gw/ifb"]
 	path = xp/gw/ifb
 	url = .
+[submodule "xp/ic/jww"]
+	path = xp/ic/jww
+	url = .
 [submodule "xq/bm/nwx"]
 	path = xq/bm/nwx
 	url = .
