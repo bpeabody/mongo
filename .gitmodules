@@ -34117,6 +34117,9 @@
 [submodule "qi/vo/uwe"]
 	path = qi/vo/uwe
 	url = .
+[submodule "qi/vt/fwr"]
+	path = qi/vt/fwr
+	url = .
 [submodule "qj/as/snn"]
 	path = qj/as/snn
 	url = .
