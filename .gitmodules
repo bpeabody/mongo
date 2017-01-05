@@ -3145,6 +3145,9 @@
 [submodule "eo/bq/wxb"]
 	path = eo/bq/wxb
 	url = .
+[submodule "eo/ca/xqr"]
+	path = eo/ca/xqr
+	url = .
 [submodule "eo/dd/asm"]
 	path = eo/dd/asm
 	url = .
