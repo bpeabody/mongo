@@ -625,6 +625,9 @@
 [submodule "af/so/yoz"]
 	path = af/so/yoz
 	url = .
+[submodule "af/ua/cyu"]
+	path = af/ua/cyu
+	url = .
 [submodule "af/up/tea"]
 	path = af/up/tea
 	url = .
