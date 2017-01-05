@@ -50221,6 +50221,9 @@
 [submodule "tm/fw/red"]
 	path = tm/fw/red
 	url = .
+[submodule "tm/ir/hfk"]
+	path = tm/ir/hfk
+	url = .
 [submodule "tm/ir/rcg"]
 	path = tm/ir/rcg
 	url = .
