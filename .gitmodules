@@ -1294,6 +1294,9 @@
 [submodule "yj/bz/jdu"]
 	path = yj/bz/jdu
 	url = .
+[submodule "yj/zu/jxt"]
+	path = yj/zu/jxt
+	url = .
 [submodule "yk/vm/ezb"]
 	path = yk/vm/ezb
 	url = .
