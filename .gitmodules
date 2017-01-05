@@ -6079,6 +6079,9 @@
 [submodule "kq/at/equ"]
 	path = kq/at/equ
 	url = .
+[submodule "kq/bk/tbc"]
+	path = kq/bk/tbc
+	url = .
 [submodule "kq/fv/fcm"]
 	path = kq/fv/fcm
 	url = .
