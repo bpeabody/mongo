@@ -42358,6 +42358,9 @@
 [submodule "wy/es/tmq"]
 	path = wy/es/tmq
 	url = .
+[submodule "wy/gu/bgb"]
+	path = wy/gu/bgb
+	url = .
 [submodule "wy/iy/uxw"]
 	path = wy/iy/uxw
 	url = .
