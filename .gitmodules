@@ -10264,6 +10264,9 @@
 [submodule "ni/fr/cmc"]
 	path = ni/fr/cmc
 	url = .
+[submodule "ni/gb/hbm"]
+	path = ni/gb/hbm
+	url = .
 [submodule "ni/nw/ajn"]
 	path = ni/nw/ajn
 	url = .
