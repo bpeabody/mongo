@@ -45703,6 +45703,9 @@
 [submodule "tm/ep/rvz"]
 	path = tm/ep/rvz
 	url = .
+[submodule "tm/fw/red"]
+	path = tm/fw/red
+	url = .
 [submodule "tm/ir/rcg"]
 	path = tm/ir/rcg
 	url = .
