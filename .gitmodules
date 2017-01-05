@@ -118,6 +118,9 @@
 [submodule "la/hm/zbs"]
 	path = la/hm/zbs
 	url = .
+[submodule "lh/cu/qpy"]
+	path = lh/cu/qpy
+	url = .
 [submodule "mo/ei/xti"]
 	path = mo/ei/xti
 	url = .
