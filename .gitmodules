@@ -10258,6 +10258,9 @@
 [submodule "fb/ik/kyw"]
 	path = fb/ik/kyw
 	url = .
+[submodule "fb/is/kla"]
+	path = fb/is/kla
+	url = .
 [submodule "fb/ix/azd"]
 	path = fb/ix/azd
 	url = .
