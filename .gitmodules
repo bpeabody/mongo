@@ -46456,6 +46456,9 @@
 [submodule "ui/eo/owo"]
 	path = ui/eo/owo
 	url = .
+[submodule "ui/fo/ltl"]
+	path = ui/fo/ltl
+	url = .
 [submodule "ui/gu/sot"]
 	path = ui/gu/sot
 	url = .
