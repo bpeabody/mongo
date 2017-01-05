@@ -9385,6 +9385,9 @@
 [submodule "hb/zs/rwo"]
 	path = hb/zs/rwo
 	url = .
+[submodule "hb/zt/mdc"]
+	path = hb/zt/mdc
+	url = .
 [submodule "hc/co/wgo"]
 	path = hc/co/wgo
 	url = .
