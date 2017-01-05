@@ -3679,6 +3679,9 @@
 [submodule "dw/pz/kbu"]
 	path = dw/pz/kbu
 	url = .
+[submodule "dw/rp/otc"]
+	path = dw/rp/otc
+	url = .
 [submodule "dw/uw/egd"]
 	path = dw/uw/egd
 	url = .
