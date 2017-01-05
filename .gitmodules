@@ -6712,6 +6712,9 @@
 [submodule "xc/lw/sca"]
 	path = xc/lw/sca
 	url = .
+[submodule "xc/si/eec"]
+	path = xc/si/eec
+	url = .
 [submodule "xc/ua/lzz"]
 	path = xc/ua/lzz
 	url = .
