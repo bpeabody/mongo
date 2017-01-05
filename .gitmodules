@@ -2068,6 +2068,9 @@
 [submodule "bf/zb/aej"]
 	path = bf/zb/aej
 	url = .
+[submodule "bf/zh/rsc"]
+	path = bf/zh/rsc
+	url = .
 [submodule "bg/ar/gqu"]
 	path = bg/ar/gqu
 	url = .
