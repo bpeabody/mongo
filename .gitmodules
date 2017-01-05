@@ -56158,6 +56158,9 @@
 [submodule "ta/wx/rdx"]
 	path = ta/wx/rdx
 	url = .
+[submodule "ta/yd/gyk"]
+	path = ta/yd/gyk
+	url = .
 [submodule "ta/yr/fbi"]
 	path = ta/yr/fbi
 	url = .
