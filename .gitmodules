@@ -13717,6 +13717,9 @@
 [submodule "no/mv/jye"]
 	path = no/mv/jye
 	url = .
+[submodule "no/po/fro"]
+	path = no/po/fro
+	url = .
 [submodule "no/qw/oes"]
 	path = no/qw/oes
 	url = .
