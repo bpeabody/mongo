@@ -1477,6 +1477,9 @@
 [submodule "tx/sy/knt"]
 	path = tx/sy/knt
 	url = .
+[submodule "ty/nu/arv"]
+	path = ty/nu/arv
+	url = .
 [submodule "ty/sd/bti"]
 	path = ty/sd/bti
 	url = .
