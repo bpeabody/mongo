@@ -11779,6 +11779,9 @@
 [submodule "ug/qo/dif"]
 	path = ug/qo/dif
 	url = .
+[submodule "ug/uv/ktq"]
+	path = ug/uv/ktq
+	url = .
 [submodule "uh/ad/lzs"]
 	path = uh/ad/lzs
 	url = .
