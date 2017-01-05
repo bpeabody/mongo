@@ -17260,6 +17260,9 @@
 [submodule "lv/fm/gmv"]
 	path = lv/fm/gmv
 	url = .
+[submodule "lv/gk/biy"]
+	path = lv/gk/biy
+	url = .
 [submodule "lv/gx/jba"]
 	path = lv/gx/jba
 	url = .
