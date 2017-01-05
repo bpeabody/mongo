@@ -1231,6 +1231,9 @@
 [submodule "dq/uc/bwb"]
 	path = dq/uc/bwb
 	url = .
+[submodule "dq/xp/tyy"]
+	path = dq/xp/tyy
+	url = .
 [submodule "dr/ad/bei"]
 	path = dr/ad/bei
 	url = .
