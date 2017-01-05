@@ -24904,6 +24904,9 @@
 [submodule "mh/nh/noc"]
 	path = mh/nh/noc
 	url = .
+[submodule "mh/nr/cdb"]
+	path = mh/nr/cdb
+	url = .
 [submodule "mh/or/hfq"]
 	path = mh/or/hfq
 	url = .
