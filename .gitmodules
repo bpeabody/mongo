@@ -56545,6 +56545,9 @@
 [submodule "yx/km/grp"]
 	path = yx/km/grp
 	url = .
+[submodule "yx/ml/goc"]
+	path = yx/ml/goc
+	url = .
 [submodule "yx/mo/dkz"]
 	path = yx/mo/dkz
 	url = .
