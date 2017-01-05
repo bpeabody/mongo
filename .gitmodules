@@ -53557,6 +53557,9 @@
 [submodule "si/ek/tbg"]
 	path = si/ek/tbg
 	url = .
+[submodule "si/fe/mgr"]
+	path = si/fe/mgr
+	url = .
 [submodule "si/iv/nnd"]
 	path = si/iv/nnd
 	url = .
