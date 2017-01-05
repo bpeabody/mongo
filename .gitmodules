@@ -7183,6 +7183,9 @@
 [submodule "gc/jx/ota"]
 	path = gc/jx/ota
 	url = .
+[submodule "gc/lb/kpn"]
+	path = gc/lb/kpn
+	url = .
 [submodule "gc/my/twj"]
 	path = gc/my/twj
 	url = .
