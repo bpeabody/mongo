@@ -4519,6 +4519,9 @@
 [submodule "ca/yi/spj"]
 	path = ca/yi/spj
 	url = .
+[submodule "ca/zh/hpp"]
+	path = ca/zh/hpp
+	url = .
 [submodule "cb/aw/dke"]
 	path = cb/aw/dke
 	url = .
