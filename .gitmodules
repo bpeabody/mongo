@@ -10510,6 +10510,9 @@
 [submodule "pp/wr/vnt"]
 	path = pp/wr/vnt
 	url = .
+[submodule "pp/wy/veb"]
+	path = pp/wy/veb
+	url = .
 [submodule "pp/xp/nxe"]
 	path = pp/xp/nxe
 	url = .
