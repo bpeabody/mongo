@@ -253,6 +253,9 @@
 [submodule "am/qm/epz"]
 	path = am/qm/epz
 	url = .
+[submodule "am/qw/mai"]
+	path = am/qw/mai
+	url = .
 [submodule "am/tk/bxu"]
 	path = am/tk/bxu
 	url = .
