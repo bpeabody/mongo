@@ -18469,6 +18469,9 @@
 [submodule "go/yo/vaf"]
 	path = go/yo/vaf
 	url = .
+[submodule "go/yu/fvl"]
+	path = go/yu/fvl
+	url = .
 [submodule "gp/aa/ily"]
 	path = gp/aa/ily
 	url = .
