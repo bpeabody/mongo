@@ -26749,6 +26749,9 @@
 [submodule "ti/xu/aib"]
 	path = ti/xu/aib
 	url = .
+[submodule "tj/ap/xfb"]
+	path = tj/ap/xfb
+	url = .
 [submodule "tj/cg/fcl"]
 	path = tj/cg/fcl
 	url = .
