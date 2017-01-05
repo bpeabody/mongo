@@ -3589,6 +3589,9 @@
 [submodule "bn/io/wsy"]
 	path = bn/io/wsy
 	url = .
+[submodule "bn/kc/swo"]
+	path = bn/kc/swo
+	url = .
 [submodule "bn/kg/fhi"]
 	path = bn/kg/fhi
 	url = .
