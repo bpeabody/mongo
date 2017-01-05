@@ -33979,6 +33979,9 @@
 [submodule "rr/hm/owg"]
 	path = rr/hm/owg
 	url = .
+[submodule "rr/ho/vir"]
+	path = rr/ho/vir
+	url = .
 [submodule "rr/jz/qqp"]
 	path = rr/jz/qqp
 	url = .
