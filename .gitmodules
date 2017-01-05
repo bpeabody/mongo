@@ -21940,6 +21940,9 @@
 [submodule "su/we/szr"]
 	path = su/we/szr
 	url = .
+[submodule "su/ys/jlj"]
+	path = su/ys/jlj
+	url = .
 [submodule "sv/by/acu"]
 	path = sv/by/acu
 	url = .
