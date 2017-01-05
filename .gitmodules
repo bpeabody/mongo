@@ -16651,6 +16651,9 @@
 [submodule "hp/kh/wul"]
 	path = hp/kh/wul
 	url = .
+[submodule "hp/kz/eew"]
+	path = hp/kz/eew
+	url = .
 [submodule "hp/mm/mkz"]
 	path = hp/mm/mkz
 	url = .
