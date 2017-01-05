@@ -45199,6 +45199,9 @@
 [submodule "um/bt/irl"]
 	path = um/bt/irl
 	url = .
+[submodule "um/bx/jnq"]
+	path = um/bx/jnq
+	url = .
 [submodule "um/cc/erh"]
 	path = um/cc/erh
 	url = .
