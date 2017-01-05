@@ -79,6 +79,9 @@
 [submodule "dx/iy/zau"]
 	path = dx/iy/zau
 	url = .
+[submodule "dx/uz/mhf"]
+	path = dx/uz/mhf
+	url = .
 [submodule "ea/lu/hnu"]
 	path = ea/lu/hnu
 	url = .
