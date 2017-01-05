@@ -2224,6 +2224,9 @@
 [submodule "dl/cu/lnn"]
 	path = dl/cu/lnn
 	url = .
+[submodule "dl/hh/mgb"]
+	path = dl/hh/mgb
+	url = .
 [submodule "dl/hv/vmr"]
 	path = dl/hv/vmr
 	url = .
