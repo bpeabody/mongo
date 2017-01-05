@@ -19417,6 +19417,9 @@
 [submodule "qs/hh/pau"]
 	path = qs/hh/pau
 	url = .
+[submodule "qs/ht/hzf"]
+	path = qs/ht/hzf
+	url = .
 [submodule "qs/in/sgf"]
 	path = qs/in/sgf
 	url = .
