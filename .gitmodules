@@ -10846,6 +10846,9 @@
 [submodule "sa/dp/bhi"]
 	path = sa/dp/bhi
 	url = .
+[submodule "sa/gk/pnn"]
+	path = sa/gk/pnn
+	url = .
 [submodule "sa/ka/biu"]
 	path = sa/ka/biu
 	url = .
