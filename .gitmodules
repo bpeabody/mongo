@@ -2074,6 +2074,9 @@
 [submodule "dh/dz/zfh"]
 	path = dh/dz/zfh
 	url = .
+[submodule "dh/kb/pns"]
+	path = dh/kb/pns
+	url = .
 [submodule "dh/kp/tlh"]
 	path = dh/kp/tlh
 	url = .
