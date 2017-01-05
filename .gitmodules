@@ -22633,6 +22633,9 @@
 [submodule "hm/uq/can"]
 	path = hm/uq/can
 	url = .
+[submodule "hm/uy/qen"]
+	path = hm/uy/qen
+	url = .
 [submodule "hm/xe/seg"]
 	path = hm/xe/seg
 	url = .
