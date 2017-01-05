@@ -32695,6 +32695,9 @@
 [submodule "mr/bi/wkw"]
 	path = mr/bi/wkw
 	url = .
+[submodule "mr/cm/bne"]
+	path = mr/cm/bne
+	url = .
 [submodule "mr/cs/yro"]
 	path = mr/cs/yro
 	url = .
