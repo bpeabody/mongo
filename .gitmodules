@@ -2209,6 +2209,9 @@
 [submodule "fc/mw/fwa"]
 	path = fc/mw/fwa
 	url = .
+[submodule "fc/qp/pdk"]
+	path = fc/qp/pdk
+	url = .
 [submodule "fc/qy/iqb"]
 	path = fc/qy/iqb
 	url = .
