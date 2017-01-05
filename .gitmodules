@@ -760,6 +760,9 @@
 [submodule "bw/xu/sko"]
 	path = bw/xu/sko
 	url = .
+[submodule "bw/zv/geu"]
+	path = bw/zv/geu
+	url = .
 [submodule "bx/al/whr"]
 	path = bx/al/whr
 	url = .
