@@ -7762,6 +7762,9 @@
 [submodule "cu/ds/hdt"]
 	path = cu/ds/hdt
 	url = .
+[submodule "cu/et/kft"]
+	path = cu/et/kft
+	url = .
 [submodule "cu/et/pwq"]
 	path = cu/et/pwq
 	url = .
