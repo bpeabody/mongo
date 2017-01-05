@@ -6064,6 +6064,9 @@
 [submodule "dp/uu/wnz"]
 	path = dp/uu/wnz
 	url = .
+[submodule "dp/wb/lhe"]
+	path = dp/wb/lhe
+	url = .
 [submodule "dp/wf/vyx"]
 	path = dp/wf/vyx
 	url = .
