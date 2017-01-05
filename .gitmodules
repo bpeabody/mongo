@@ -7768,6 +7768,9 @@
 [submodule "gm/ot/txf"]
 	path = gm/ot/txf
 	url = .
+[submodule "gm/pe/lbg"]
+	path = gm/pe/lbg
+	url = .
 [submodule "gm/pn/qce"]
 	path = gm/pn/qce
 	url = .
