@@ -25273,6 +25273,9 @@
 [submodule "sq/iv/skk"]
 	path = sq/iv/skk
 	url = .
+[submodule "sq/kq/qxy"]
+	path = sq/kq/qxy
+	url = .
 [submodule "sq/kx/psy"]
 	path = sq/kx/psy
 	url = .
