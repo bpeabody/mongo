@@ -5863,6 +5863,9 @@
 [submodule "dk/kj/iaw"]
 	path = dk/kj/iaw
 	url = .
+[submodule "dk/lw/bwo"]
+	path = dk/lw/bwo
+	url = .
 [submodule "dk/nn/zwe"]
 	path = dk/nn/zwe
 	url = .
