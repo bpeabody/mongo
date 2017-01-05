@@ -47461,6 +47461,9 @@
 [submodule "wq/qv/gvp"]
 	path = wq/qv/gvp
 	url = .
+[submodule "wq/qy/xdc"]
+	path = wq/qy/xdc
+	url = .
 [submodule "wq/sf/wzu"]
 	path = wq/sf/wzu
 	url = .
