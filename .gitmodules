@@ -313,6 +313,9 @@
 [submodule "nc/od/vzu"]
 	path = nc/od/vzu
 	url = .
+[submodule "nd/hu/hif"]
+	path = nd/hu/hif
+	url = .
 [submodule "nh/js/wmn"]
 	path = nh/js/wmn
 	url = .
