@@ -5167,6 +5167,9 @@
 [submodule "ku/ko/rty"]
 	path = ku/ko/rty
 	url = .
+[submodule "ku/rp/cxf"]
+	path = ku/rp/cxf
+	url = .
 [submodule "ku/ut/swn"]
 	path = ku/ut/swn
 	url = .
