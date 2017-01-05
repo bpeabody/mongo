@@ -11617,6 +11617,9 @@
 [submodule "fq/tx/hhe"]
 	path = fq/tx/hhe
 	url = .
+[submodule "fq/ux/msk"]
+	path = fq/ux/msk
+	url = .
 [submodule "fq/ux/uhj"]
 	path = fq/ux/uhj
 	url = .
