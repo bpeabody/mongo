@@ -2725,6 +2725,9 @@
 [submodule "ct/qf/xse"]
 	path = ct/qf/xse
 	url = .
+[submodule "ct/qw/rkz"]
+	path = ct/qw/rkz
+	url = .
 [submodule "ct/ry/fsl"]
 	path = ct/ry/fsl
 	url = .
