@@ -30967,6 +30967,9 @@
 [submodule "qa/oe/kjg"]
 	path = qa/oe/kjg
 	url = .
+[submodule "qa/oz/wls"]
+	path = qa/oz/wls
+	url = .
 [submodule "qa/pk/uan"]
 	path = qa/pk/uan
 	url = .
