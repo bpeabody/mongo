@@ -622,6 +622,9 @@
 [submodule "ax/he/vnl"]
 	path = ax/he/vnl
 	url = .
+[submodule "ax/ht/ayz"]
+	path = ax/ht/ayz
+	url = .
 [submodule "ax/jt/ltn"]
 	path = ax/jt/ltn
 	url = .
