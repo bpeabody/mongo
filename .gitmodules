@@ -47032,6 +47032,9 @@
 [submodule "qp/im/kdo"]
 	path = qp/im/kdo
 	url = .
+[submodule "qp/ix/uao"]
+	path = qp/ix/uao
+	url = .
 [submodule "qp/jp/ujb"]
 	path = qp/jp/ujb
 	url = .
