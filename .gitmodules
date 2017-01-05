@@ -7177,6 +7177,9 @@
 [submodule "du/ng/bjb"]
 	path = du/ng/bjb
 	url = .
+[submodule "du/ny/jqb"]
+	path = du/ny/jqb
+	url = .
 [submodule "du/ou/gdh"]
 	path = du/ou/gdh
 	url = .
