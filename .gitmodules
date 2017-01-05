@@ -16648,6 +16648,9 @@
 [submodule "fx/ow/nnf"]
 	path = fx/ow/nnf
 	url = .
+[submodule "fx/rd/vnc"]
+	path = fx/rd/vnc
+	url = .
 [submodule "fx/rd/xny"]
 	path = fx/rd/xny
 	url = .
