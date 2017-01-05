@@ -46879,6 +46879,9 @@
 [submodule "rs/or/azu"]
 	path = rs/or/azu
 	url = .
+[submodule "rs/ou/qij"]
+	path = rs/ou/qij
+	url = .
 [submodule "rs/po/jpi"]
 	path = rs/po/jpi
 	url = .
