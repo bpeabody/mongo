@@ -24376,6 +24376,9 @@
 [submodule "js/ht/sgk"]
 	path = js/ht/sgk
 	url = .
+[submodule "js/ik/qfb"]
+	path = js/ik/qfb
+	url = .
 [submodule "js/ja/rgv"]
 	path = js/ja/rgv
 	url = .
