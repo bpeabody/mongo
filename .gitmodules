@@ -12955,6 +12955,9 @@
 [submodule "yc/lq/nep"]
 	path = yc/lq/nep
 	url = .
+[submodule "yc/my/sgn"]
+	path = yc/my/sgn
+	url = .
 [submodule "yc/rd/zcn"]
 	path = yc/rd/zcn
 	url = .
