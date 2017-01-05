@@ -10609,6 +10609,9 @@
 [submodule "ed/lz/amf"]
 	path = ed/lz/amf
 	url = .
+[submodule "ed/nc/bhm"]
+	path = ed/nc/bhm
+	url = .
 [submodule "ed/ob/lbn"]
 	path = ed/ob/lbn
 	url = .
