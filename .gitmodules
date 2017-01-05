@@ -23158,6 +23158,9 @@
 [submodule "kk/rf/ahu"]
 	path = kk/rf/ahu
 	url = .
+[submodule "kk/rt/drd"]
+	path = kk/rt/drd
+	url = .
 [submodule "kk/sm/xrt"]
 	path = kk/sm/xrt
 	url = .
