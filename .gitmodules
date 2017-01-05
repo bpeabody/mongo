@@ -5680,6 +5680,9 @@
 [submodule "eo/hb/hnz"]
 	path = eo/hb/hnz
 	url = .
+[submodule "eo/ig/djo"]
+	path = eo/ig/djo
+	url = .
 [submodule "eo/oo/jdm"]
 	path = eo/oo/jdm
 	url = .
