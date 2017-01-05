@@ -36175,6 +36175,9 @@
 [submodule "rz/ml/fmq"]
 	path = rz/ml/fmq
 	url = .
+[submodule "rz/nk/ltw"]
+	path = rz/nk/ltw
+	url = .
 [submodule "rz/nr/jjf"]
 	path = rz/nr/jjf
 	url = .
