@@ -23125,6 +23125,9 @@
 [submodule "ie/kn/zhz"]
 	path = ie/kn/zhz
 	url = .
+[submodule "ie/lj/mcg"]
+	path = ie/lj/mcg
+	url = .
 [submodule "ie/lr/yws"]
 	path = ie/lr/yws
 	url = .
