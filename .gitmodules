@@ -4504,6 +4504,9 @@
 [submodule "ea/pu/vhi"]
 	path = ea/pu/vhi
 	url = .
+[submodule "ea/sd/klk"]
+	path = ea/sd/klk
+	url = .
 [submodule "ea/uc/vuz"]
 	path = ea/uc/vuz
 	url = .
