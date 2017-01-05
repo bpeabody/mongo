@@ -9415,6 +9415,9 @@
 [submodule "de/js/etd"]
 	path = de/js/etd
 	url = .
+[submodule "de/ka/wve"]
+	path = de/ka/wve
+	url = .
 [submodule "de/ki/dvs"]
 	path = de/ki/dvs
 	url = .
