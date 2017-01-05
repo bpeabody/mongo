@@ -60247,6 +60247,9 @@
 [submodule "vi/kf/ufv"]
 	path = vi/kf/ufv
 	url = .
+[submodule "vi/kn/uok"]
+	path = vi/kn/uok
+	url = .
 [submodule "vi/lv/blb"]
 	path = vi/lv/blb
 	url = .
