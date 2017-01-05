@@ -19129,6 +19129,9 @@
 [submodule "mc/tk/csr"]
 	path = mc/tk/csr
 	url = .
+[submodule "md/az/khq"]
+	path = md/az/khq
+	url = .
 [submodule "md/bw/xac"]
 	path = md/bw/xac
 	url = .
