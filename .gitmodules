@@ -12043,6 +12043,9 @@
 [submodule "kc/lz/aoc"]
 	path = kc/lz/aoc
 	url = .
+[submodule "kc/nd/ykt"]
+	path = kc/nd/ykt
+	url = .
 [submodule "kc/ne/zzl"]
 	path = kc/ne/zzl
 	url = .
