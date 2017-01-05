@@ -12472,6 +12472,9 @@
 [submodule "fq/nw/rwk"]
 	path = fq/nw/rwk
 	url = .
+[submodule "fq/oa/jeb"]
+	path = fq/oa/jeb
+	url = .
 [submodule "fq/oi/nvy"]
 	path = fq/oi/nvy
 	url = .
