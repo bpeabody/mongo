@@ -10225,6 +10225,9 @@
 [submodule "gu/um/ibt"]
 	path = gu/um/ibt
 	url = .
+[submodule "gu/uo/ykt"]
+	path = gu/uo/ykt
+	url = .
 [submodule "gu/uq/lvf"]
 	path = gu/uq/lvf
 	url = .
