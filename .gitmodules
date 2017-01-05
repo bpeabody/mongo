@@ -30826,6 +30826,9 @@
 [submodule "nk/ar/ngf"]
 	path = nk/ar/ngf
 	url = .
+[submodule "nk/ca/edk"]
+	path = nk/ca/edk
+	url = .
 [submodule "nk/ed/gtw"]
 	path = nk/ed/gtw
 	url = .
