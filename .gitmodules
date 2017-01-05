@@ -904,6 +904,9 @@
 [submodule "vv/xk/bft"]
 	path = vv/xk/bft
 	url = .
+[submodule "vw/ms/uvh"]
+	path = vw/ms/uvh
+	url = .
 [submodule "vz/br/lko"]
 	path = vz/br/lko
 	url = .
