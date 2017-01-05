@@ -2392,6 +2392,9 @@
 [submodule "gw/rg/gwm"]
 	path = gw/rg/gwm
 	url = .
+[submodule "gw/ri/ooj"]
+	path = gw/ri/ooj
+	url = .
 [submodule "gx/kl/mlf"]
 	path = gx/kl/mlf
 	url = .
