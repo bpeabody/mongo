@@ -40654,6 +40654,9 @@
 [submodule "us/mt/omp"]
 	path = us/mt/omp
 	url = .
+[submodule "us/pj/vvb"]
+	path = us/pj/vvb
+	url = .
 [submodule "us/py/ivv"]
 	path = us/py/ivv
 	url = .
