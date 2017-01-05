@@ -19702,6 +19702,9 @@
 [submodule "kf/vv/scg"]
 	path = kf/vv/scg
 	url = .
+[submodule "kf/wj/gug"]
+	path = kf/wj/gug
+	url = .
 [submodule "kf/wv/pro"]
 	path = kf/wv/pro
 	url = .
