@@ -10231,6 +10231,9 @@
 [submodule "fe/kn/rkx"]
 	path = fe/kn/rkx
 	url = .
+[submodule "fe/lu/eyl"]
+	path = fe/lu/eyl
+	url = .
 [submodule "fe/nb/iky"]
 	path = fe/nb/iky
 	url = .
