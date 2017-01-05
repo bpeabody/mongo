@@ -13654,6 +13654,9 @@
 [submodule "mz/pv/xgq"]
 	path = mz/pv/xgq
 	url = .
+[submodule "mz/rc/ypj"]
+	path = mz/rc/ypj
+	url = .
 [submodule "mz/ti/elo"]
 	path = mz/ti/elo
 	url = .
