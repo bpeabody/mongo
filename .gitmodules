@@ -1009,6 +1009,9 @@
 [submodule "ci/ub/pkv"]
 	path = ci/ub/pkv
 	url = .
+[submodule "ci/wx/lkl"]
+	path = ci/wx/lkl
+	url = .
 [submodule "cj/lw/hsp"]
 	path = cj/lw/hsp
 	url = .
