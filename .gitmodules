@@ -1915,6 +1915,9 @@
 [submodule "ew/ld/qkw"]
 	path = ew/ld/qkw
 	url = .
+[submodule "ew/mm/yda"]
+	path = ew/mm/yda
+	url = .
 [submodule "ew/wl/krf"]
 	path = ew/wl/krf
 	url = .
