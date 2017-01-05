@@ -1207,6 +1207,9 @@
 [submodule "tf/dm/gyi"]
 	path = tf/dm/gyi
 	url = .
+[submodule "tf/mz/boy"]
+	path = tf/mz/boy
+	url = .
 [submodule "tg/ky/bbk"]
 	path = tg/ky/bbk
 	url = .
