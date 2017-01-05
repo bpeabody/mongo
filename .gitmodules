@@ -53593,6 +53593,9 @@
 [submodule "rs/po/jpi"]
 	path = rs/po/jpi
 	url = .
+[submodule "rs/qm/mri"]
+	path = rs/qm/mri
+	url = .
 [submodule "rs/rx/yfv"]
 	path = rs/rx/yfv
 	url = .
