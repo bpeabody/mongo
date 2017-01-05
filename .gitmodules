@@ -6196,6 +6196,9 @@
 [submodule "lf/gd/qdt"]
 	path = lf/gd/qdt
 	url = .
+[submodule "lf/kz/wou"]
+	path = lf/kz/wou
+	url = .
 [submodule "lf/mw/itq"]
 	path = lf/mw/itq
 	url = .
