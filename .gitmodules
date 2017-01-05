@@ -721,6 +721,9 @@
 [submodule "bl/tx/toa"]
 	path = bl/tx/toa
 	url = .
+[submodule "bm/fp/vmk"]
+	path = bm/fp/vmk
+	url = .
 [submodule "bm/go/vbn"]
 	path = bm/go/vbn
 	url = .
