@@ -172,6 +172,9 @@
 [submodule "hc/ns/ejv"]
 	path = hc/ns/ejv
 	url = .
+[submodule "hf/ju/vnz"]
+	path = hf/ju/vnz
+	url = .
 [submodule "hn/be/klz"]
 	path = hn/be/klz
 	url = .
