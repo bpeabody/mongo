@@ -8398,6 +8398,9 @@
 [submodule "qr/wi/eqn"]
 	path = qr/wi/eqn
 	url = .
+[submodule "qr/ws/drf"]
+	path = qr/ws/drf
+	url = .
 [submodule "qr/zc/dff"]
 	path = qr/zc/dff
 	url = .
