@@ -970,6 +970,9 @@
 [submodule "hs/nc/mmm"]
 	path = hs/nc/mmm
 	url = .
+[submodule "hu/es/qqo"]
+	path = hu/es/qqo
+	url = .
 [submodule "hu/uq/jpy"]
 	path = hu/uq/jpy
 	url = .
