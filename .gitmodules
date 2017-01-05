@@ -6064,6 +6064,9 @@
 [submodule "cr/fw/akw"]
 	path = cr/fw/akw
 	url = .
+[submodule "cr/fw/xjp"]
+	path = cr/fw/xjp
+	url = .
 [submodule "cr/gp/tjf"]
 	path = cr/gp/tjf
 	url = .
