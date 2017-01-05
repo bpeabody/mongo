@@ -1,3 +1,6 @@
 [submodule "mr/og/htr"]
 	path = mr/og/htr
 	url = .
+[submodule "re/py/ktl"]
+	path = re/py/ktl
+	url = .
