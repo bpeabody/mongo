@@ -14428,6 +14428,9 @@
 [submodule "yt/zq/uyh"]
 	path = yt/zq/uyh
 	url = .
+[submodule "yu/bt/qfg"]
+	path = yu/bt/qfg
+	url = .
 [submodule "yu/cd/pki"]
 	path = yu/cd/pki
 	url = .
