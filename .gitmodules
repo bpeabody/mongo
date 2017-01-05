@@ -21994,6 +21994,9 @@
 [submodule "je/qb/mmx"]
 	path = je/qb/mmx
 	url = .
+[submodule "je/qn/ncs"]
+	path = je/qn/ncs
+	url = .
 [submodule "je/qt/xwc"]
 	path = je/qt/xwc
 	url = .
