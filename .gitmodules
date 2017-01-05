@@ -13804,6 +13804,9 @@
 [submodule "fg/sp/ekg"]
 	path = fg/sp/ekg
 	url = .
+[submodule "fg/sp/xuq"]
+	path = fg/sp/xuq
+	url = .
 [submodule "fg/sw/bvr"]
 	path = fg/sw/bvr
 	url = .
