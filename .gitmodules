@@ -1564,6 +1564,9 @@
 [submodule "bc/kt/gjg"]
 	path = bc/kt/gjg
 	url = .
+[submodule "bc/mi/gsg"]
+	path = bc/mi/gsg
+	url = .
 [submodule "bc/mu/mnw"]
 	path = bc/mu/mnw
 	url = .
