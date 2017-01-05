@@ -6457,6 +6457,9 @@
 [submodule "cc/uy/qdy"]
 	path = cc/uy/qdy
 	url = .
+[submodule "cc/va/btq"]
+	path = cc/va/btq
+	url = .
 [submodule "cc/vi/nbt"]
 	path = cc/vi/nbt
 	url = .
