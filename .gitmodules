@@ -36661,6 +36661,9 @@
 [submodule "ol/xn/wyx"]
 	path = ol/xn/wyx
 	url = .
+[submodule "ol/xs/oio"]
+	path = ol/xs/oio
+	url = .
 [submodule "ol/ya/wkn"]
 	path = ol/ya/wkn
 	url = .
