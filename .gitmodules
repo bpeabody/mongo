@@ -4270,6 +4270,9 @@
 [submodule "bz/mv/ywq"]
 	path = bz/mv/ywq
 	url = .
+[submodule "bz/nx/bom"]
+	path = bz/nx/bom
+	url = .
 [submodule "bz/oi/lms"]
 	path = bz/oi/lms
 	url = .
