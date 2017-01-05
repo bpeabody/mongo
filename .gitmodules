@@ -46657,6 +46657,9 @@
 [submodule "sy/yd/nyt"]
 	path = sy/yd/nyt
 	url = .
+[submodule "sy/yh/hdh"]
+	path = sy/yh/hdh
+	url = .
 [submodule "sy/yp/nrc"]
 	path = sy/yp/nrc
 	url = .
