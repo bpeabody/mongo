@@ -7774,6 +7774,9 @@
 [submodule "fz/ni/qbb"]
 	path = fz/ni/qbb
 	url = .
+[submodule "fz/os/qko"]
+	path = fz/os/qko
+	url = .
 [submodule "fz/pk/waw"]
 	path = fz/pk/waw
 	url = .
