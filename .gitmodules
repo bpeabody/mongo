@@ -17950,6 +17950,9 @@
 [submodule "oc/qk/hex"]
 	path = oc/qk/hex
 	url = .
+[submodule "oc/sd/fwd"]
+	path = oc/sd/fwd
+	url = .
 [submodule "oc/th/soo"]
 	path = oc/th/soo
 	url = .
