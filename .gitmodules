@@ -7618,6 +7618,9 @@
 [submodule "fg/js/azs"]
 	path = fg/js/azs
 	url = .
+[submodule "fg/kd/ltv"]
+	path = fg/kd/ltv
+	url = .
 [submodule "fg/kn/yug"]
 	path = fg/kn/yug
 	url = .
