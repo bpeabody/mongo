@@ -14815,6 +14815,9 @@
 [submodule "tn/gv/ygg"]
 	path = tn/gv/ygg
 	url = .
+[submodule "tn/ip/agb"]
+	path = tn/ip/agb
+	url = .
 [submodule "tn/kb/nso"]
 	path = tn/kb/nso
 	url = .
