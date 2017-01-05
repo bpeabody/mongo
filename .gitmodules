@@ -3163,6 +3163,9 @@
 [submodule "df/rd/cwg"]
 	path = df/rd/cwg
 	url = .
+[submodule "df/vl/lms"]
+	path = df/vl/lms
+	url = .
 [submodule "df/wf/eyl"]
 	path = df/wf/eyl
 	url = .
