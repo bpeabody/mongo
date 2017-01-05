@@ -4999,6 +4999,9 @@
 [submodule "fa/ct/afm"]
 	path = fa/ct/afm
 	url = .
+[submodule "fa/ey/wad"]
+	path = fa/ey/wad
+	url = .
 [submodule "fa/gm/euf"]
 	path = fa/gm/euf
 	url = .
