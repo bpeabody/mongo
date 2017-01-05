@@ -20803,6 +20803,9 @@
 [submodule "ne/qo/kfb"]
 	path = ne/qo/kfb
 	url = .
+[submodule "ne/sj/zgb"]
+	path = ne/sj/zgb
+	url = .
 [submodule "ne/te/vkf"]
 	path = ne/te/vkf
 	url = .
