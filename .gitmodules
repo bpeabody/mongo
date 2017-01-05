@@ -34888,6 +34888,9 @@
 [submodule "rl/iw/rmm"]
 	path = rl/iw/rmm
 	url = .
+[submodule "rl/ja/tpn"]
+	path = rl/ja/tpn
+	url = .
 [submodule "rl/jh/jpb"]
 	path = rl/jh/jpb
 	url = .
