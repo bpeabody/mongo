@@ -30826,6 +30826,9 @@
 [submodule "mb/gj/sbv"]
 	path = mb/gj/sbv
 	url = .
+[submodule "mb/gu/ycx"]
+	path = mb/gu/ycx
+	url = .
 [submodule "mb/hs/mmb"]
 	path = mb/hs/mmb
 	url = .
