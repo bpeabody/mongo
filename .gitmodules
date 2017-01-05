@@ -49819,6 +49819,9 @@
 [submodule "rs/bn/qqr"]
 	path = rs/bn/qqr
 	url = .
+[submodule "rs/bu/ezn"]
+	path = rs/bu/ezn
+	url = .
 [submodule "rs/cv/xnp"]
 	path = rs/cv/xnp
 	url = .
