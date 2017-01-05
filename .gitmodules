@@ -3892,6 +3892,9 @@
 [submodule "cb/si/tsy"]
 	path = cb/si/tsy
 	url = .
+[submodule "cb/sx/kuq"]
+	path = cb/sx/kuq
+	url = .
 [submodule "cb/vt/qoc"]
 	path = cb/vt/qoc
 	url = .
