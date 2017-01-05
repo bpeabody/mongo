@@ -49867,6 +49867,9 @@
 [submodule "so/nb/fhm"]
 	path = so/nb/fhm
 	url = .
+[submodule "so/nu/gek"]
+	path = so/nu/gek
+	url = .
 [submodule "so/of/oje"]
 	path = so/of/oje
 	url = .
