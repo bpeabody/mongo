@@ -6193,6 +6193,9 @@
 [submodule "ew/ep/dnr"]
 	path = ew/ep/dnr
 	url = .
+[submodule "ew/fd/udu"]
+	path = ew/fd/udu
+	url = .
 [submodule "ew/fj/wit"]
 	path = ew/fj/wit
 	url = .
