@@ -43432,6 +43432,9 @@
 [submodule "qn/zk/lni"]
 	path = qn/zk/lni
 	url = .
+[submodule "qo/ak/gok"]
+	path = qo/ak/gok
+	url = .
 [submodule "qo/aw/qsg"]
 	path = qo/aw/qsg
 	url = .
