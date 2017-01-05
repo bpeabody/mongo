@@ -42952,6 +42952,9 @@
 [submodule "yg/xl/klb"]
 	path = yg/xl/klb
 	url = .
+[submodule "yg/yx/kue"]
+	path = yg/yx/kue
+	url = .
 [submodule "yh/bq/qml"]
 	path = yh/bq/qml
 	url = .
