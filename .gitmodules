@@ -52327,6 +52327,9 @@
 [submodule "xk/yy/qsr"]
 	path = xk/yy/qsr
 	url = .
+[submodule "xk/zu/lrp"]
+	path = xk/zu/lrp
+	url = .
 [submodule "xl/ag/lyy"]
 	path = xl/ag/lyy
 	url = .
