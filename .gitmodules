@@ -30481,6 +30481,9 @@
 [submodule "ko/gc/gzk"]
 	path = ko/gc/gzk
 	url = .
+[submodule "ko/gm/qsw"]
+	path = ko/gm/qsw
+	url = .
 [submodule "ko/gn/eeg"]
 	path = ko/gn/eeg
 	url = .
