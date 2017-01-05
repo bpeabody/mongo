@@ -13630,6 +13630,9 @@
 [submodule "ii/fg/vcm"]
 	path = ii/fg/vcm
 	url = .
+[submodule "ii/hr/ylw"]
+	path = ii/hr/ylw
+	url = .
 [submodule "ii/ir/kwa"]
 	path = ii/ir/kwa
 	url = .
