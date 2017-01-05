@@ -3676,6 +3676,9 @@
 [submodule "hf/wc/bio"]
 	path = hf/wc/bio
 	url = .
+[submodule "hf/ya/inm"]
+	path = hf/ya/inm
+	url = .
 [submodule "hf/yf/gni"]
 	path = hf/yf/gni
 	url = .
