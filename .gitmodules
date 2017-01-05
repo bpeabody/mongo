@@ -3358,6 +3358,9 @@
 [submodule "co/sk/pmj"]
 	path = co/sk/pmj
 	url = .
+[submodule "co/vl/rbp"]
+	path = co/vl/rbp
+	url = .
 [submodule "co/wf/idi"]
 	path = co/wf/idi
 	url = .
