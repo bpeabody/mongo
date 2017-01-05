@@ -36268,6 +36268,9 @@
 [submodule "xe/mm/jtw"]
 	path = xe/mm/jtw
 	url = .
+[submodule "xe/pe/jlc"]
+	path = xe/pe/jlc
+	url = .
 [submodule "xe/pm/xbi"]
 	path = xe/pm/xbi
 	url = .
