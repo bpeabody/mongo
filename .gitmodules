@@ -29668,6 +29668,9 @@
 [submodule "lf/rl/rlp"]
 	path = lf/rl/rlp
 	url = .
+[submodule "lf/rx/ksw"]
+	path = lf/rx/ksw
+	url = .
 [submodule "lf/rx/xxd"]
 	path = lf/rx/xxd
 	url = .
