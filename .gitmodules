@@ -46114,6 +46114,9 @@
 [submodule "re/py/ktl"]
 	path = re/py/ktl
 	url = .
+[submodule "re/qf/fkj"]
+	path = re/qf/fkj
+	url = .
 [submodule "re/se/qxf"]
 	path = re/se/qxf
 	url = .
