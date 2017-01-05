@@ -1867,6 +1867,9 @@
 [submodule "hd/wl/czb"]
 	path = hd/wl/czb
 	url = .
+[submodule "he/jz/lay"]
+	path = he/jz/lay
+	url = .
 [submodule "he/sp/goo"]
 	path = he/sp/goo
 	url = .
