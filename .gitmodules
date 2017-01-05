@@ -32518,6 +32518,9 @@
 [submodule "sj/kk/ylb"]
 	path = sj/kk/ylb
 	url = .
+[submodule "sj/lc/gdy"]
+	path = sj/lc/gdy
+	url = .
 [submodule "sj/mb/bjn"]
 	path = sj/mb/bjn
 	url = .
