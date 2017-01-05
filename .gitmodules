@@ -12238,6 +12238,9 @@
 [submodule "sv/by/acu"]
 	path = sv/by/acu
 	url = .
+[submodule "sv/fq/hvs"]
+	path = sv/fq/hvs
+	url = .
 [submodule "sv/fx/lkt"]
 	path = sv/fx/lkt
 	url = .
