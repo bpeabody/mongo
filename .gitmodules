@@ -20593,6 +20593,9 @@
 [submodule "kj/du/kaz"]
 	path = kj/du/kaz
 	url = .
+[submodule "kj/gq/ppd"]
+	path = kj/gq/ppd
+	url = .
 [submodule "kj/hw/jmg"]
 	path = kj/hw/jmg
 	url = .
