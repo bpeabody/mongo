@@ -16957,6 +16957,9 @@
 [submodule "kq/pk/ark"]
 	path = kq/pk/ark
 	url = .
+[submodule "kq/ri/nrr"]
+	path = kq/ri/nrr
+	url = .
 [submodule "kq/ro/ido"]
 	path = kq/ro/ido
 	url = .
