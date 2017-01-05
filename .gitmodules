@@ -6205,6 +6205,9 @@
 [submodule "hj/dv/rxa"]
 	path = hj/dv/rxa
 	url = .
+[submodule "hj/eh/lyj"]
+	path = hj/eh/lyj
+	url = .
 [submodule "hj/iu/lij"]
 	path = hj/iu/lij
 	url = .
