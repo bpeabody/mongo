@@ -4129,6 +4129,9 @@
 [submodule "sp/lc/ngv"]
 	path = sp/lc/ngv
 	url = .
+[submodule "sp/pa/uga"]
+	path = sp/pa/uga
+	url = .
 [submodule "sp/yj/tlr"]
 	path = sp/yj/tlr
 	url = .
