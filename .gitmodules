@@ -538,6 +538,9 @@
 [submodule "ao/my/bgz"]
 	path = ao/my/bgz
 	url = .
+[submodule "ao/nz/klw"]
+	path = ao/nz/klw
+	url = .
 [submodule "ao/ob/dur"]
 	path = ao/ob/dur
 	url = .
