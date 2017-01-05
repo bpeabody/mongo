@@ -22339,6 +22339,9 @@
 [submodule "iq/jh/jcj"]
 	path = iq/jh/jcj
 	url = .
+[submodule "iq/kd/dvi"]
+	path = iq/kd/dvi
+	url = .
 [submodule "iq/kd/mwz"]
 	path = iq/kd/mwz
 	url = .
