@@ -15346,6 +15346,9 @@
 [submodule "li/th/mpo"]
 	path = li/th/mpo
 	url = .
+[submodule "li/vs/qcl"]
+	path = li/vs/qcl
+	url = .
 [submodule "li/wm/sxk"]
 	path = li/wm/sxk
 	url = .
