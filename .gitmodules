@@ -4045,6 +4045,9 @@
 [submodule "gw/ri/ooj"]
 	path = gw/ri/ooj
 	url = .
+[submodule "gw/yv/apr"]
+	path = gw/yv/apr
+	url = .
 [submodule "gx/kc/ybg"]
 	path = gx/kc/ybg
 	url = .
