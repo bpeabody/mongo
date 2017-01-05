@@ -2218,6 +2218,9 @@
 [submodule "bk/ln/qhr"]
 	path = bk/ln/qhr
 	url = .
+[submodule "bk/lz/hny"]
+	path = bk/lz/hny
+	url = .
 [submodule "bk/op/qic"]
 	path = bk/op/qic
 	url = .
