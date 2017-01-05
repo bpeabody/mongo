@@ -5212,6 +5212,9 @@
 [submodule "jo/lc/jig"]
 	path = jo/lc/jig
 	url = .
+[submodule "jo/ou/rtf"]
+	path = jo/ou/rtf
+	url = .
 [submodule "jo/tz/shy"]
 	path = jo/tz/shy
 	url = .
