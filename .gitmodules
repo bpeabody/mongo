@@ -47332,6 +47332,9 @@
 [submodule "ya/yf/yoc"]
 	path = ya/yf/yoc
 	url = .
+[submodule "yb/ap/qzz"]
+	path = yb/ap/qzz
+	url = .
 [submodule "yb/cd/mtw"]
 	path = yb/cd/mtw
 	url = .
