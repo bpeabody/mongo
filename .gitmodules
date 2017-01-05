@@ -16708,6 +16708,9 @@
 [submodule "se/ai/bvx"]
 	path = se/ai/bvx
 	url = .
+[submodule "se/dv/uve"]
+	path = se/dv/uve
+	url = .
 [submodule "se/ed/kgb"]
 	path = se/ed/kgb
 	url = .
