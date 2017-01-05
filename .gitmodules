@@ -31729,6 +31729,9 @@
 [submodule "px/ls/oot"]
 	path = px/ls/oot
 	url = .
+[submodule "px/mo/nzk"]
+	path = px/mo/nzk
+	url = .
 [submodule "px/na/dtb"]
 	path = px/na/dtb
 	url = .
