@@ -16801,6 +16801,9 @@
 [submodule "kn/ij/spu"]
 	path = kn/ij/spu
 	url = .
+[submodule "kn/jp/euo"]
+	path = kn/jp/euo
+	url = .
 [submodule "kn/jr/lsi"]
 	path = kn/jr/lsi
 	url = .
