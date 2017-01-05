@@ -23824,6 +23824,9 @@
 [submodule "me/gm/ppy"]
 	path = me/gm/ppy
 	url = .
+[submodule "me/hi/sqv"]
+	path = me/hi/sqv
+	url = .
 [submodule "me/hj/cwk"]
 	path = me/hj/cwk
 	url = .
