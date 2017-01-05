@@ -3817,6 +3817,9 @@
 [submodule "vt/ii/ucj"]
 	path = vt/ii/ucj
 	url = .
+[submodule "vt/su/guw"]
+	path = vt/su/guw
+	url = .
 [submodule "vu/ba/jql"]
 	path = vu/ba/jql
 	url = .
