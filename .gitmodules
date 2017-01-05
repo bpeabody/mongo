@@ -61108,6 +61108,9 @@
 [submodule "ww/os/sov"]
 	path = ww/os/sov
 	url = .
+[submodule "ww/pk/evy"]
+	path = ww/pk/evy
+	url = .
 [submodule "ww/pl/rvg"]
 	path = ww/pl/rvg
 	url = .
