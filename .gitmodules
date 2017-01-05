@@ -1954,6 +1954,9 @@
 [submodule "bk/la/wfw"]
 	path = bk/la/wfw
 	url = .
+[submodule "bk/ln/qhr"]
+	path = bk/ln/qhr
+	url = .
 [submodule "bk/op/qic"]
 	path = bk/op/qic
 	url = .
