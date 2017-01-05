@@ -50959,6 +50959,9 @@
 [submodule "sa/ly/ktq"]
 	path = sa/ly/ktq
 	url = .
+[submodule "sa/mf/wqm"]
+	path = sa/mf/wqm
+	url = .
 [submodule "sa/nc/xgc"]
 	path = sa/nc/xgc
 	url = .
