@@ -5260,6 +5260,9 @@
 [submodule "cm/en/ucw"]
 	path = cm/en/ucw
 	url = .
+[submodule "cm/ez/qlu"]
+	path = cm/ez/qlu
+	url = .
 [submodule "cm/fd/cmu"]
 	path = cm/fd/cmu
 	url = .
