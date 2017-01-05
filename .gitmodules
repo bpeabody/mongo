@@ -11725,6 +11725,9 @@
 [submodule "ee/kz/hfp"]
 	path = ee/kz/hfp
 	url = .
+[submodule "ee/lb/otx"]
+	path = ee/lb/otx
+	url = .
 [submodule "ee/li/zdc"]
 	path = ee/li/zdc
 	url = .
