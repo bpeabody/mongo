@@ -12163,6 +12163,9 @@
 [submodule "oa/tz/hlr"]
 	path = oa/tz/hlr
 	url = .
+[submodule "oa/vu/wqm"]
+	path = oa/vu/wqm
+	url = .
 [submodule "oa/zr/typ"]
 	path = oa/zr/typ
 	url = .
