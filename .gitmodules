@@ -17173,6 +17173,9 @@
 [submodule "ha/zg/utz"]
 	path = ha/zg/utz
 	url = .
+[submodule "ha/zo/qud"]
+	path = ha/zo/qud
+	url = .
 [submodule "hb/co/cbv"]
 	path = hb/co/cbv
 	url = .
