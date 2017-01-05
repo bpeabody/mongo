@@ -41698,6 +41698,9 @@
 [submodule "qx/ns/vkr"]
 	path = qx/ns/vkr
 	url = .
+[submodule "qx/nt/jip"]
+	path = qx/nt/jip
+	url = .
 [submodule "qx/ok/tmv"]
 	path = qx/ok/tmv
 	url = .
