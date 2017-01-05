@@ -13225,6 +13225,9 @@
 [submodule "gk/dp/vnk"]
 	path = gk/dp/vnk
 	url = .
+[submodule "gk/ds/vqx"]
+	path = gk/ds/vqx
+	url = .
 [submodule "gk/gv/uds"]
 	path = gk/gv/uds
 	url = .
