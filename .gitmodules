@@ -10771,6 +10771,9 @@
 [submodule "eo/ze/srd"]
 	path = eo/ze/srd
 	url = .
+[submodule "eo/zj/cje"]
+	path = eo/zj/cje
+	url = .
 [submodule "ep/af/pop"]
 	path = ep/af/pop
 	url = .
