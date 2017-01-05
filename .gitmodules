@@ -556,6 +556,9 @@
 [submodule "cf/xq/xkp"]
 	path = cf/xq/xkp
 	url = .
+[submodule "cf/zx/uaj"]
+	path = cf/zx/uaj
+	url = .
 [submodule "cg/dd/ytz"]
 	path = cg/dd/ytz
 	url = .
