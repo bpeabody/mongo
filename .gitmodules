@@ -5029,6 +5029,9 @@
 [submodule "cx/rr/dky"]
 	path = cx/rr/dky
 	url = .
+[submodule "cx/sx/vkd"]
+	path = cx/sx/vkd
+	url = .
 [submodule "cx/tv/qph"]
 	path = cx/tv/qph
 	url = .
