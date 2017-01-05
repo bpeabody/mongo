@@ -48622,6 +48622,9 @@
 [submodule "yi/yc/rii"]
 	path = yi/yc/rii
 	url = .
+[submodule "yi/yw/rsz"]
+	path = yi/yw/rsz
+	url = .
 [submodule "yi/zd/upt"]
 	path = yi/zd/upt
 	url = .
