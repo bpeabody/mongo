@@ -3082,6 +3082,9 @@
 [submodule "gw/ri/ooj"]
 	path = gw/ri/ooj
 	url = .
+[submodule "gx/kc/ybg"]
+	path = gx/kc/ybg
+	url = .
 [submodule "gx/kl/mlf"]
 	path = gx/kl/mlf
 	url = .
