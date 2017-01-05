@@ -24508,6 +24508,9 @@
 [submodule "wx/rt/mwk"]
 	path = wx/rt/mwk
 	url = .
+[submodule "wx/tj/xkq"]
+	path = wx/tj/xkq
+	url = .
 [submodule "wx/va/unt"]
 	path = wx/va/unt
 	url = .
