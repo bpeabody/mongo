@@ -11101,6 +11101,9 @@
 [submodule "lv/vu/ipk"]
 	path = lv/vu/ipk
 	url = .
+[submodule "lv/vx/rks"]
+	path = lv/vx/rks
+	url = .
 [submodule "lv/wc/gsj"]
 	path = lv/wc/gsj
 	url = .
