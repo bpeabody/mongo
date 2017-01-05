@@ -1504,6 +1504,9 @@
 [submodule "fo/qz/ndm"]
 	path = fo/qz/ndm
 	url = .
+[submodule "fo/uh/egy"]
+	path = fo/uh/egy
+	url = .
 [submodule "fo/uv/gtl"]
 	path = fo/uv/gtl
 	url = .
