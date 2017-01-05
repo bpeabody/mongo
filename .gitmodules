@@ -25450,6 +25450,9 @@
 [submodule "yx/dl/dmn"]
 	path = yx/dl/dmn
 	url = .
+[submodule "yx/ga/pnl"]
+	path = yx/ga/pnl
+	url = .
 [submodule "yx/gd/gih"]
 	path = yx/gd/gih
 	url = .
