@@ -550,6 +550,9 @@
 [submodule "bf/km/vso"]
 	path = bf/km/vso
 	url = .
+[submodule "bf/vy/hjt"]
+	path = bf/vy/hjt
+	url = .
 [submodule "bg/ax/rzw"]
 	path = bg/ax/rzw
 	url = .
