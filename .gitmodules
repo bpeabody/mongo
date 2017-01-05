@@ -19843,6 +19843,9 @@
 [submodule "nm/ih/szz"]
 	path = nm/ih/szz
 	url = .
+[submodule "nm/ko/izu"]
+	path = nm/ko/izu
+	url = .
 [submodule "nm/lk/jot"]
 	path = nm/lk/jot
 	url = .
