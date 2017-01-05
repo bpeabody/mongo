@@ -13003,6 +13003,9 @@
 [submodule "qq/ui/kyz"]
 	path = qq/ui/kyz
 	url = .
+[submodule "qq/vd/otz"]
+	path = qq/vd/otz
+	url = .
 [submodule "qq/vi/bli"]
 	path = qq/vi/bli
 	url = .
