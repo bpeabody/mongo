@@ -28873,6 +28873,9 @@
 [submodule "ml/rc/ykr"]
 	path = ml/rc/ykr
 	url = .
+[submodule "ml/ru/snu"]
+	path = ml/ru/snu
+	url = .
 [submodule "ml/se/wri"]
 	path = ml/se/wri
 	url = .
