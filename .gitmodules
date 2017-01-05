@@ -29119,6 +29119,9 @@
 [submodule "pc/fk/vpf"]
 	path = pc/fk/vpf
 	url = .
+[submodule "pc/ha/vqx"]
+	path = pc/ha/vqx
+	url = .
 [submodule "pc/ig/dnl"]
 	path = pc/ig/dnl
 	url = .
