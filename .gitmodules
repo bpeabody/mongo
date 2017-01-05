@@ -35416,6 +35416,9 @@
 [submodule "mo/eq/hsm"]
 	path = mo/eq/hsm
 	url = .
+[submodule "mo/fx/zyk"]
+	path = mo/fx/zyk
+	url = .
 [submodule "mo/gb/otf"]
 	path = mo/gb/otf
 	url = .
