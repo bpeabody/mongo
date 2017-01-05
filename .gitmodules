@@ -3049,6 +3049,9 @@
 [submodule "cv/ax/cxi"]
 	path = cv/ax/cxi
 	url = .
+[submodule "cv/hd/vax"]
+	path = cv/hd/vax
+	url = .
 [submodule "cv/mm/qgu"]
 	path = cv/mm/qgu
 	url = .
