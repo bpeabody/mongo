@@ -1372,6 +1372,9 @@
 [submodule "bc/pg/ysc"]
 	path = bc/pg/ysc
 	url = .
+[submodule "bc/qt/lju"]
+	path = bc/qt/lju
+	url = .
 [submodule "bc/rc/txp"]
 	path = bc/rc/txp
 	url = .
