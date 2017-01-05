@@ -12400,6 +12400,9 @@
 [submodule "ee/ju/vhv"]
 	path = ee/ju/vhv
 	url = .
+[submodule "ee/kt/dib"]
+	path = ee/kt/dib
+	url = .
 [submodule "ee/kz/hfp"]
 	path = ee/kz/hfp
 	url = .
