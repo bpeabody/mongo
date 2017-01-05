@@ -7948,6 +7948,9 @@
 [submodule "pm/as/afv"]
 	path = pm/as/afv
 	url = .
+[submodule "pm/ba/aoi"]
+	path = pm/ba/aoi
+	url = .
 [submodule "pm/hx/pdb"]
 	path = pm/hx/pdb
 	url = .
