@@ -39640,6 +39640,9 @@
 [submodule "pi/jg/xbu"]
 	path = pi/jg/xbu
 	url = .
+[submodule "pi/ko/vrk"]
+	path = pi/ko/vrk
+	url = .
 [submodule "pi/kw/flz"]
 	path = pi/kw/flz
 	url = .
