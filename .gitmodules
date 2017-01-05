@@ -4315,6 +4315,9 @@
 [submodule "kh/re/nev"]
 	path = kh/re/nev
 	url = .
+[submodule "kh/vo/cpu"]
+	path = kh/vo/cpu
+	url = .
 [submodule "ki/au/grq"]
 	path = ki/au/grq
 	url = .
