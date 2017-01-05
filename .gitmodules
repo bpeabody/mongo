@@ -10477,6 +10477,9 @@
 [submodule "lg/bp/xgj"]
 	path = lg/bp/xgj
 	url = .
+[submodule "lg/fr/omj"]
+	path = lg/fr/omj
+	url = .
 [submodule "lg/hp/ofq"]
 	path = lg/hp/ofq
 	url = .
