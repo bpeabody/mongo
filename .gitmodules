@@ -733,6 +733,9 @@
 [submodule "ek/hu/cad"]
 	path = ek/hu/cad
 	url = .
+[submodule "ek/rz/yub"]
+	path = ek/rz/yub
+	url = .
 [submodule "ek/xl/tru"]
 	path = ek/xl/tru
 	url = .
