@@ -13696,6 +13696,9 @@
 [submodule "ib/ma/hbk"]
 	path = ib/ma/hbk
 	url = .
+[submodule "ib/mh/uii"]
+	path = ib/mh/uii
+	url = .
 [submodule "ib/nb/jrb"]
 	path = ib/nb/jrb
 	url = .
