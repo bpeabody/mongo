@@ -3391,6 +3391,9 @@
 [submodule "bu/bx/you"]
 	path = bu/bx/you
 	url = .
+[submodule "bu/cb/bmx"]
+	path = bu/cb/bmx
+	url = .
 [submodule "bu/fr/zpp"]
 	path = bu/fr/zpp
 	url = .
