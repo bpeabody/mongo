@@ -2134,6 +2134,9 @@
 [submodule "qf/pm/cwg"]
 	path = qf/pm/cwg
 	url = .
+[submodule "qg/hg/hyp"]
+	path = qg/hg/hyp
+	url = .
 [submodule "qg/tw/cdi"]
 	path = qg/tw/cdi
 	url = .
