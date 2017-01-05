@@ -23389,6 +23389,9 @@
 [submodule "vl/ok/grm"]
 	path = vl/ok/grm
 	url = .
+[submodule "vl/pi/qdh"]
+	path = vl/pi/qdh
+	url = .
 [submodule "vl/rf/nus"]
 	path = vl/rf/nus
 	url = .
