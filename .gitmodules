@@ -3427,6 +3427,9 @@
 [submodule "tn/ku/lqh"]
 	path = tn/ku/lqh
 	url = .
+[submodule "tn/wk/cny"]
+	path = tn/wk/cny
+	url = .
 [submodule "to/oe/cbh"]
 	path = to/oe/cbh
 	url = .
