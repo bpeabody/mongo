@@ -3775,6 +3775,9 @@
 [submodule "kf/zj/pud"]
 	path = kf/zj/pud
 	url = .
+[submodule "kg/de/bwb"]
+	path = kg/de/bwb
+	url = .
 [submodule "kg/kd/nvg"]
 	path = kg/kd/nvg
 	url = .
