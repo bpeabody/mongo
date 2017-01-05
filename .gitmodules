@@ -28342,6 +28342,9 @@
 [submodule "vu/pd/wuv"]
 	path = vu/pd/wuv
 	url = .
+[submodule "vu/tr/awm"]
+	path = vu/tr/awm
+	url = .
 [submodule "vu/ts/wbe"]
 	path = vu/ts/wbe
 	url = .
