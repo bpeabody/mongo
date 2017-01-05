@@ -34837,6 +34837,9 @@
 [submodule "mo/xd/mbc"]
 	path = mo/xd/mbc
 	url = .
+[submodule "mo/yo/cfi"]
+	path = mo/yo/cfi
+	url = .
 [submodule "mp/aj/yhj"]
 	path = mp/aj/yhj
 	url = .
