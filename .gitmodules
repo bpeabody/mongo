@@ -36724,6 +36724,9 @@
 [submodule "mg/vm/mej"]
 	path = mg/vm/mej
 	url = .
+[submodule "mg/vz/tot"]
+	path = mg/vz/tot
+	url = .
 [submodule "mg/wo/qpd"]
 	path = mg/wo/qpd
 	url = .
