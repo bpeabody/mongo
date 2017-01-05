@@ -62287,6 +62287,9 @@
 [submodule "ya/nr/zac"]
 	path = ya/nr/zac
 	url = .
+[submodule "ya/nw/xfg"]
+	path = ya/nw/xfg
+	url = .
 [submodule "ya/ow/aqh"]
 	path = ya/ow/aqh
 	url = .
