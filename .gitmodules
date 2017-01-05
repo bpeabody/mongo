@@ -14083,6 +14083,9 @@
 [submodule "fn/ft/tjx"]
 	path = fn/ft/tjx
 	url = .
+[submodule "fn/fx/qkw"]
+	path = fn/fx/qkw
+	url = .
 [submodule "fn/ko/jrt"]
 	path = fn/ko/jrt
 	url = .
