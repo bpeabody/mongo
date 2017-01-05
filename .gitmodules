@@ -47269,6 +47269,9 @@
 [submodule "uh/mh/txg"]
 	path = uh/mh/txg
 	url = .
+[submodule "uh/mt/cyr"]
+	path = uh/mt/cyr
+	url = .
 [submodule "uh/oc/wfm"]
 	path = uh/oc/wfm
 	url = .
