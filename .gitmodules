@@ -20005,6 +20005,9 @@
 [submodule "ht/gk/dpu"]
 	path = ht/gk/dpu
 	url = .
+[submodule "ht/gu/zka"]
+	path = ht/gu/zka
+	url = .
 [submodule "ht/hc/amx"]
 	path = ht/hc/amx
 	url = .
