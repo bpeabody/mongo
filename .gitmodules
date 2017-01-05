@@ -427,6 +427,9 @@
 [submodule "aq/nj/ctc"]
 	path = aq/nj/ctc
 	url = .
+[submodule "aq/oe/ihc"]
+	path = aq/oe/ihc
+	url = .
 [submodule "aq/qq/jvr"]
 	path = aq/qq/jvr
 	url = .
