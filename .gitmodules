@@ -1936,6 +1936,9 @@
 [submodule "hj/iu/lij"]
 	path = hj/iu/lij
 	url = .
+[submodule "hj/lm/cjo"]
+	path = hj/lm/cjo
+	url = .
 [submodule "hj/ob/krn"]
 	path = hj/ob/krn
 	url = .
