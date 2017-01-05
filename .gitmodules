@@ -50464,6 +50464,9 @@
 [submodule "rm/fu/qvv"]
 	path = rm/fu/qvv
 	url = .
+[submodule "rm/fv/ich"]
+	path = rm/fv/ich
+	url = .
 [submodule "rm/ht/djq"]
 	path = rm/ht/djq
 	url = .
