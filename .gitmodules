@@ -9337,6 +9337,9 @@
 [submodule "do/ta/tey"]
 	path = do/ta/tey
 	url = .
+[submodule "do/tr/prh"]
+	path = do/tr/prh
+	url = .
 [submodule "do/um/pxc"]
 	path = do/um/pxc
 	url = .
