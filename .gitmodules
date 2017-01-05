@@ -37270,6 +37270,9 @@
 [submodule "vf/yb/goz"]
 	path = vf/yb/goz
 	url = .
+[submodule "vf/yd/xcp"]
+	path = vf/yd/xcp
+	url = .
 [submodule "vg/bo/aar"]
 	path = vg/bo/aar
 	url = .
