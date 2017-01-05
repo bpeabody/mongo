@@ -40834,6 +40834,9 @@
 [submodule "tf/dm/gyi"]
 	path = tf/dm/gyi
 	url = .
+[submodule "tf/gb/hyi"]
+	path = tf/gb/hyi
+	url = .
 [submodule "tf/gc/jgd"]
 	path = tf/gc/jgd
 	url = .
