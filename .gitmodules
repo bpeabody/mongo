@@ -2842,6 +2842,9 @@
 [submodule "zx/zk/xvy"]
 	path = zx/zk/xvy
 	url = .
+[submodule "zy/fi/rjo"]
+	path = zy/fi/rjo
+	url = .
 [submodule "zy/gw/pmx"]
 	path = zy/gw/pmx
 	url = .
