@@ -4276,6 +4276,9 @@
 [submodule "gh/hk/ehl"]
 	path = gh/hk/ehl
 	url = .
+[submodule "gh/jk/qec"]
+	path = gh/jk/qec
+	url = .
 [submodule "gh/oe/svx"]
 	path = gh/oe/svx
 	url = .
