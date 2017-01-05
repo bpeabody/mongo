@@ -34507,6 +34507,9 @@
 [submodule "qb/yz/alg"]
 	path = qb/yz/alg
 	url = .
+[submodule "qb/zc/ndu"]
+	path = qb/zc/ndu
+	url = .
 [submodule "qb/zl/vut"]
 	path = qb/zl/vut
 	url = .
