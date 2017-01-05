@@ -18127,6 +18127,9 @@
 [submodule "tf/pf/dfu"]
 	path = tf/pf/dfu
 	url = .
+[submodule "tf/pz/zsc"]
+	path = tf/pz/zsc
+	url = .
 [submodule "tf/vg/uhu"]
 	path = tf/vg/uhu
 	url = .
