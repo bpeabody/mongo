@@ -5155,6 +5155,9 @@
 [submodule "jg/bd/nut"]
 	path = jg/bd/nut
 	url = .
+[submodule "jg/ig/xby"]
+	path = jg/ig/xby
+	url = .
 [submodule "jg/ii/eto"]
 	path = jg/ii/eto
 	url = .
