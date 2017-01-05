@@ -22738,6 +22738,9 @@
 [submodule "mt/pq/azy"]
 	path = mt/pq/azy
 	url = .
+[submodule "mt/qf/noy"]
+	path = mt/qf/noy
+	url = .
 [submodule "mt/qv/qnb"]
 	path = mt/qv/qnb
 	url = .
