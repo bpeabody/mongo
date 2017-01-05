@@ -37099,6 +37099,9 @@
 [submodule "rd/fo/ixb"]
 	path = rd/fo/ixb
 	url = .
+[submodule "rd/hl/cra"]
+	path = rd/hl/cra
+	url = .
 [submodule "rd/if/upv"]
 	path = rd/if/upv
 	url = .
