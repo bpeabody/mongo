@@ -9634,6 +9634,9 @@
 [submodule "gf/fl/xgr"]
 	path = gf/fl/xgr
 	url = .
+[submodule "gf/fs/nke"]
+	path = gf/fs/nke
+	url = .
 [submodule "gf/jq/zze"]
 	path = gf/jq/zze
 	url = .
