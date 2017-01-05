@@ -40006,6 +40006,9 @@
 [submodule "ua/my/qnm"]
 	path = ua/my/qnm
 	url = .
+[submodule "ua/ph/urj"]
+	path = ua/ph/urj
+	url = .
 [submodule "ua/pk/zkz"]
 	path = ua/pk/zkz
 	url = .
