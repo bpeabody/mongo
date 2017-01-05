@@ -36769,6 +36769,9 @@
 [submodule "no/pe/scc"]
 	path = no/pe/scc
 	url = .
+[submodule "no/pn/uli"]
+	path = no/pn/uli
+	url = .
 [submodule "no/po/fro"]
 	path = no/po/fro
 	url = .
