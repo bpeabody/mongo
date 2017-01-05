@@ -2221,6 +2221,9 @@
 [submodule "cs/ep/uvn"]
 	path = cs/ep/uvn
 	url = .
+[submodule "cs/hg/nlu"]
+	path = cs/hg/nlu
+	url = .
 [submodule "cs/jt/myn"]
 	path = cs/jt/myn
 	url = .
