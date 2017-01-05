@@ -29587,6 +29587,9 @@
 [submodule "tz/hg/kgf"]
 	path = tz/hg/kgf
 	url = .
+[submodule "tz/jo/jwb"]
+	path = tz/jo/jwb
+	url = .
 [submodule "tz/kq/qfr"]
 	path = tz/kq/qfr
 	url = .
