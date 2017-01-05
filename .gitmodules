@@ -11680,6 +11680,9 @@
 [submodule "hn/ut/eml"]
 	path = hn/ut/eml
 	url = .
+[submodule "hn/vp/hli"]
+	path = hn/vp/hli
+	url = .
 [submodule "hn/vv/vuq"]
 	path = hn/vv/vuq
 	url = .
