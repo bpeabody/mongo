@@ -3232,6 +3232,9 @@
 [submodule "bb/sk/ize"]
 	path = bb/sk/ize
 	url = .
+[submodule "bb/sm/quc"]
+	path = bb/sm/quc
+	url = .
 [submodule "bb/tk/lbm"]
 	path = bb/tk/lbm
 	url = .
