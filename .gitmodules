@@ -9868,6 +9868,9 @@
 [submodule "eo/yu/ugf"]
 	path = eo/yu/ugf
 	url = .
+[submodule "eo/ze/srd"]
+	path = eo/ze/srd
+	url = .
 [submodule "ep/af/pop"]
 	path = ep/af/pop
 	url = .
