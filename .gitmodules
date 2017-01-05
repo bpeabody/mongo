@@ -4156,6 +4156,9 @@
 [submodule "bk/vk/fvd"]
 	path = bk/vk/fvd
 	url = .
+[submodule "bk/vp/pju"]
+	path = bk/vp/pju
+	url = .
 [submodule "bk/wq/rwj"]
 	path = bk/wq/rwj
 	url = .
