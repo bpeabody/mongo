@@ -31684,6 +31684,9 @@
 [submodule "mm/kw/kun"]
 	path = mm/kw/kun
 	url = .
+[submodule "mm/lu/uco"]
+	path = mm/lu/uco
+	url = .
 [submodule "mm/mc/ptf"]
 	path = mm/mc/ptf
 	url = .
