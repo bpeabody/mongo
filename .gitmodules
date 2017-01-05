@@ -11653,6 +11653,9 @@
 [submodule "en/pr/kfd"]
 	path = en/pr/kfd
 	url = .
+[submodule "en/qi/mwl"]
+	path = en/qi/mwl
+	url = .
 [submodule "en/qo/aop"]
 	path = en/qo/aop
 	url = .
