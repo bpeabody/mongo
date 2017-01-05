@@ -292,6 +292,9 @@
 [submodule "ad/vs/pcs"]
 	path = ad/vs/pcs
 	url = .
+[submodule "ad/yf/cnx"]
+	path = ad/yf/cnx
+	url = .
 [submodule "ad/zw/qbx"]
 	path = ad/zw/qbx
 	url = .
