@@ -17131,6 +17131,9 @@
 [submodule "le/xm/nuv"]
 	path = le/xm/nuv
 	url = .
+[submodule "le/yy/aoo"]
+	path = le/yy/aoo
+	url = .
 [submodule "le/zt/qll"]
 	path = le/zt/qll
 	url = .
