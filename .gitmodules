@@ -7405,6 +7405,9 @@
 [submodule "py/ge/lfi"]
 	path = py/ge/lfi
 	url = .
+[submodule "py/ox/wns"]
+	path = py/ox/wns
+	url = .
 [submodule "py/rn/htd"]
 	path = py/rn/htd
 	url = .
