@@ -64,6 +64,9 @@
 [submodule "ad/dn/amk"]
 	path = ad/dn/amk
 	url = .
+[submodule "ad/ib/wwy"]
+	path = ad/ib/wwy
+	url = .
 [submodule "ad/kq/vlu"]
 	path = ad/kq/vlu
 	url = .
