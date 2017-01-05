@@ -907,6 +907,9 @@
 [submodule "ha/ea/nsr"]
 	path = ha/ea/nsr
 	url = .
+[submodule "hb/gr/oqm"]
+	path = hb/gr/oqm
+	url = .
 [submodule "hb/hk/lnj"]
 	path = hb/hk/lnj
 	url = .
