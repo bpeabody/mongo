@@ -41338,6 +41338,9 @@
 [submodule "yj/sy/zbb"]
 	path = yj/sy/zbb
 	url = .
+[submodule "yj/tv/tnk"]
+	path = yj/tv/tnk
+	url = .
 [submodule "yj/tx/qrm"]
 	path = yj/tx/qrm
 	url = .
