@@ -19093,6 +19093,9 @@
 [submodule "xr/tr/gwg"]
 	path = xr/tr/gwg
 	url = .
+[submodule "xr/ug/oom"]
+	path = xr/ug/oom
+	url = .
 [submodule "xr/xx/ehp"]
 	path = xr/xx/ehp
 	url = .
