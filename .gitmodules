@@ -27544,6 +27544,9 @@
 [submodule "kr/ua/ggc"]
 	path = kr/ua/ggc
 	url = .
+[submodule "kr/uf/dfn"]
+	path = kr/uf/dfn
+	url = .
 [submodule "kr/um/div"]
 	path = kr/um/div
 	url = .
