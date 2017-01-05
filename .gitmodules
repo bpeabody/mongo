@@ -4921,6 +4921,9 @@
 [submodule "cy/vc/wik"]
 	path = cy/vc/wik
 	url = .
+[submodule "cy/vh/ihz"]
+	path = cy/vh/ihz
+	url = .
 [submodule "cy/wn/eng"]
 	path = cy/wn/eng
 	url = .
