@@ -17347,6 +17347,9 @@
 [submodule "gs/gs/ydp"]
 	path = gs/gs/ydp
 	url = .
+[submodule "gs/gu/adp"]
+	path = gs/gu/adp
+	url = .
 [submodule "gs/ir/ore"]
 	path = gs/ir/ore
 	url = .
