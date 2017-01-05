@@ -61096,6 +61096,9 @@
 [submodule "yx/mo/dkz"]
 	path = yx/mo/dkz
 	url = .
+[submodule "yx/no/wen"]
+	path = yx/no/wen
+	url = .
 [submodule "yx/or/hve"]
 	path = yx/or/hve
 	url = .
