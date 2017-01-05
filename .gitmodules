@@ -10597,6 +10597,9 @@
 [submodule "lt/ey/zej"]
 	path = lt/ey/zej
 	url = .
+[submodule "lt/hg/lfc"]
+	path = lt/hg/lfc
+	url = .
 [submodule "lt/iv/wyq"]
 	path = lt/iv/wyq
 	url = .
