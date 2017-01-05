@@ -22231,6 +22231,9 @@
 [submodule "qq/vz/lwy"]
 	path = qq/vz/lwy
 	url = .
+[submodule "qr/co/hzd"]
+	path = qr/co/hzd
+	url = .
 [submodule "qr/fy/lhf"]
 	path = qr/fy/lhf
 	url = .
