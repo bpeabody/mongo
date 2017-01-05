@@ -9358,6 +9358,9 @@
 [submodule "iu/xw/jwq"]
 	path = iu/xw/jwq
 	url = .
+[submodule "iv/bc/wnc"]
+	path = iv/bc/wnc
+	url = .
 [submodule "iv/cz/lld"]
 	path = iv/cz/lld
 	url = .
