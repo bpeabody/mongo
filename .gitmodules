@@ -2704,6 +2704,9 @@
 [submodule "cm/cr/iux"]
 	path = cm/cr/iux
 	url = .
+[submodule "cm/en/ucw"]
+	path = cm/en/ucw
+	url = .
 [submodule "cm/ga/nxh"]
 	path = cm/ga/nxh
 	url = .
