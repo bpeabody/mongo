@@ -29512,6 +29512,9 @@
 [submodule "jr/lp/iif"]
 	path = jr/lp/iif
 	url = .
+[submodule "jr/mh/qwr"]
+	path = jr/mh/qwr
+	url = .
 [submodule "jr/mm/wap"]
 	path = jr/mm/wap
 	url = .
