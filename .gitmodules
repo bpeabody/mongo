@@ -18958,6 +18958,9 @@
 [submodule "hb/hp/dmz"]
 	path = hb/hp/dmz
 	url = .
+[submodule "hb/hw/jfe"]
+	path = hb/hw/jfe
+	url = .
 [submodule "hb/hy/fss"]
 	path = hb/hy/fss
 	url = .
