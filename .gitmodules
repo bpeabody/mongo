@@ -6664,6 +6664,9 @@
 [submodule "dk/oo/rse"]
 	path = dk/oo/rse
 	url = .
+[submodule "dk/oo/tjg"]
+	path = dk/oo/tjg
+	url = .
 [submodule "dk/ot/zwp"]
 	path = dk/ot/zwp
 	url = .
