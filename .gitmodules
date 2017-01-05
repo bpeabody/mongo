@@ -40930,6 +40930,9 @@
 [submodule "qn/mq/zzl"]
 	path = qn/mq/zzl
 	url = .
+[submodule "qn/nk/ctu"]
+	path = qn/nk/ctu
+	url = .
 [submodule "qn/ny/ljn"]
 	path = qn/ny/ljn
 	url = .
