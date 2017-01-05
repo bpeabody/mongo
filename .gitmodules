@@ -55618,6 +55618,9 @@
 [submodule "sp/pu/isb"]
 	path = sp/pu/isb
 	url = .
+[submodule "sp/pu/qws"]
+	path = sp/pu/qws
+	url = .
 [submodule "sp/qa/onn"]
 	path = sp/qa/onn
 	url = .
