@@ -18928,6 +18928,9 @@
 [submodule "io/ay/dkc"]
 	path = io/ay/dkc
 	url = .
+[submodule "io/ck/cot"]
+	path = io/ck/cot
+	url = .
 [submodule "io/dj/bir"]
 	path = io/dj/bir
 	url = .
