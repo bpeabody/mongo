@@ -40354,6 +40354,9 @@
 [submodule "rw/iq/lxs"]
 	path = rw/iq/lxs
 	url = .
+[submodule "rw/jj/afb"]
+	path = rw/jj/afb
+	url = .
 [submodule "rw/lh/npz"]
 	path = rw/lh/npz
 	url = .
