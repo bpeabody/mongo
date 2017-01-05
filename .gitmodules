@@ -15937,6 +15937,9 @@
 [submodule "ir/vd/idi"]
 	path = ir/vd/idi
 	url = .
+[submodule "ir/xo/lol"]
+	path = ir/xo/lol
+	url = .
 [submodule "ir/yv/jbo"]
 	path = ir/yv/jbo
 	url = .
