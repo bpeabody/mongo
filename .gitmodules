@@ -5149,6 +5149,9 @@
 [submodule "lp/xx/uep"]
 	path = lp/xx/uep
 	url = .
+[submodule "lq/ho/agn"]
+	path = lq/ho/agn
+	url = .
 [submodule "lq/my/dod"]
 	path = lq/my/dod
 	url = .
