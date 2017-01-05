@@ -39778,6 +39778,9 @@
 [submodule "rw/lh/npz"]
 	path = rw/lh/npz
 	url = .
+[submodule "rw/nb/gmx"]
+	path = rw/nb/gmx
+	url = .
 [submodule "rw/nm/fvi"]
 	path = rw/nm/fvi
 	url = .
