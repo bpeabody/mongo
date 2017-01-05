@@ -3793,6 +3793,9 @@
 [submodule "uo/ca/jyg"]
 	path = uo/ca/jyg
 	url = .
+[submodule "uo/dz/sgx"]
+	path = uo/dz/sgx
+	url = .
 [submodule "uo/qv/nrn"]
 	path = uo/qv/nrn
 	url = .
