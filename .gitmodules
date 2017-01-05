@@ -3595,6 +3595,9 @@
 [submodule "wz/gn/kav"]
 	path = wz/gn/kav
 	url = .
+[submodule "wz/kq/lvx"]
+	path = wz/kq/lvx
+	url = .
 [submodule "wz/wu/epi"]
 	path = wz/wu/epi
 	url = .
