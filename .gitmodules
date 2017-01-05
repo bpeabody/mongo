@@ -23584,6 +23584,9 @@
 [submodule "in/yj/tgd"]
 	path = in/yj/tgd
 	url = .
+[submodule "in/yq/kwo"]
+	path = in/yq/kwo
+	url = .
 [submodule "in/yt/gsl"]
 	path = in/yt/gsl
 	url = .
