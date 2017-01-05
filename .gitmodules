@@ -8767,6 +8767,9 @@
 [submodule "im/oz/vzw"]
 	path = im/oz/vzw
 	url = .
+[submodule "im/re/yao"]
+	path = im/re/yao
+	url = .
 [submodule "im/ua/rge"]
 	path = im/ua/rge
 	url = .
