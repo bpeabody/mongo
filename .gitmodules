@@ -7393,6 +7393,9 @@
 [submodule "lv/vu/efs"]
 	path = lv/vu/efs
 	url = .
+[submodule "lv/vu/ipk"]
+	path = lv/vu/ipk
+	url = .
 [submodule "lv/wc/gsj"]
 	path = lv/wc/gsj
 	url = .
