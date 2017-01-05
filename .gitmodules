@@ -1096,6 +1096,9 @@
 [submodule "ap/sw/uze"]
 	path = ap/sw/uze
 	url = .
+[submodule "ap/tf/ala"]
+	path = ap/tf/ala
+	url = .
 [submodule "ap/ua/qtm"]
 	path = ap/ua/qtm
 	url = .
