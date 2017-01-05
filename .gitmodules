@@ -3823,6 +3823,9 @@
 [submodule "lc/sl/yco"]
 	path = lc/sl/yco
 	url = .
+[submodule "lc/wd/mjq"]
+	path = lc/wd/mjq
+	url = .
 [submodule "ld/by/oxx"]
 	path = ld/by/oxx
 	url = .
