@@ -18700,6 +18700,9 @@
 [submodule "jq/qm/cua"]
 	path = jq/qm/cua
 	url = .
+[submodule "jq/rz/ypu"]
+	path = jq/rz/ypu
+	url = .
 [submodule "jq/su/rrf"]
 	path = jq/su/rrf
 	url = .
