@@ -25810,6 +25810,9 @@
 [submodule "ud/sz/srn"]
 	path = ud/sz/srn
 	url = .
+[submodule "ud/uz/zey"]
+	path = ud/uz/zey
+	url = .
 [submodule "ue/ia/axk"]
 	path = ue/ia/axk
 	url = .
