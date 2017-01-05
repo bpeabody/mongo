@@ -13432,6 +13432,9 @@
 [submodule "gc/lb/kpn"]
 	path = gc/lb/kpn
 	url = .
+[submodule "gc/ly/kpm"]
+	path = gc/ly/kpm
+	url = .
 [submodule "gc/my/twj"]
 	path = gc/my/twj
 	url = .
