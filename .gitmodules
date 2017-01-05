@@ -22738,6 +22738,9 @@
 [submodule "ng/io/njq"]
 	path = ng/io/njq
 	url = .
+[submodule "ng/iq/pje"]
+	path = ng/iq/pje
+	url = .
 [submodule "ng/kl/ate"]
 	path = ng/kl/ate
 	url = .
