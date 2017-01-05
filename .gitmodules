@@ -9295,6 +9295,9 @@
 [submodule "qe/nx/jrv"]
 	path = qe/nx/jrv
 	url = .
+[submodule "qe/sx/rhw"]
+	path = qe/sx/rhw
+	url = .
 [submodule "qe/xp/wit"]
 	path = qe/xp/wit
 	url = .
