@@ -38680,6 +38680,9 @@
 [submodule "vu/vx/tso"]
 	path = vu/vx/tso
 	url = .
+[submodule "vv/af/wbd"]
+	path = vv/af/wbd
+	url = .
 [submodule "vv/ak/adm"]
 	path = vv/ak/adm
 	url = .
