@@ -6919,6 +6919,9 @@
 [submodule "cg/md/hvj"]
 	path = cg/md/hvj
 	url = .
+[submodule "cg/ml/trq"]
+	path = cg/ml/trq
+	url = .
 [submodule "cg/mm/hpu"]
 	path = cg/mm/hpu
 	url = .
