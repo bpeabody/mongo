@@ -11653,6 +11653,9 @@
 [submodule "ie/uc/roq"]
 	path = ie/uc/roq
 	url = .
+[submodule "ie/vm/lsv"]
+	path = ie/vm/lsv
+	url = .
 [submodule "ie/wg/alu"]
 	path = ie/wg/alu
 	url = .
