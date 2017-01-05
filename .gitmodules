@@ -5017,6 +5017,9 @@
 [submodule "ur/vv/jtr"]
 	path = ur/vv/jtr
 	url = .
+[submodule "us/jc/oei"]
+	path = us/jc/oei
+	url = .
 [submodule "us/ki/guc"]
 	path = us/ki/guc
 	url = .
