@@ -421,6 +421,9 @@
 [submodule "ft/mj/ezz"]
 	path = ft/mj/ezz
 	url = .
+[submodule "fv/pk/lvp"]
+	path = fv/pk/lvp
+	url = .
 [submodule "fv/qa/hgd"]
 	path = fv/qa/hgd
 	url = .
