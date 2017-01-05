@@ -6367,6 +6367,9 @@
 [submodule "dv/ng/jsc"]
 	path = dv/ng/jsc
 	url = .
+[submodule "dv/nx/ymj"]
+	path = dv/nx/ymj
+	url = .
 [submodule "dv/pm/uuq"]
 	path = dv/pm/uuq
 	url = .
