@@ -17131,6 +17131,9 @@
 [submodule "xk/hk/jwq"]
 	path = xk/hk/jwq
 	url = .
+[submodule "xk/ic/mch"]
+	path = xk/ic/mch
+	url = .
 [submodule "xk/ig/lsf"]
 	path = xk/ig/lsf
 	url = .
