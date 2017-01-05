@@ -8362,6 +8362,9 @@
 [submodule "cz/qt/zrw"]
 	path = cz/qt/zrw
 	url = .
+[submodule "cz/rs/uep"]
+	path = cz/rs/uep
+	url = .
 [submodule "cz/sp/snl"]
 	path = cz/sp/snl
 	url = .
