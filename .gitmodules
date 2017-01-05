@@ -18139,6 +18139,9 @@
 [submodule "vk/fz/dkl"]
 	path = vk/fz/dkl
 	url = .
+[submodule "vk/hi/npd"]
+	path = vk/hi/npd
+	url = .
 [submodule "vk/kw/kpb"]
 	path = vk/kw/kpb
 	url = .
