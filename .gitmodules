@@ -148,6 +148,9 @@
 [submodule "ab/ib/zqd"]
 	path = ab/ib/zqd
 	url = .
+[submodule "ab/ii/dpz"]
+	path = ab/ii/dpz
+	url = .
 [submodule "ab/in/men"]
 	path = ab/in/men
 	url = .
