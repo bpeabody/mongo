@@ -7474,6 +7474,9 @@
 [submodule "ij/xb/gzu"]
 	path = ij/xb/gzu
 	url = .
+[submodule "ij/yh/bgz"]
+	path = ij/yh/bgz
+	url = .
 [submodule "ij/zn/bbs"]
 	path = ij/zn/bbs
 	url = .
