@@ -11278,6 +11278,9 @@
 [submodule "kp/au/rot"]
 	path = kp/au/rot
 	url = .
+[submodule "kp/bw/vfn"]
+	path = kp/bw/vfn
+	url = .
 [submodule "kp/jm/zzy"]
 	path = kp/jm/zzy
 	url = .
