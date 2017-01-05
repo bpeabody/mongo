@@ -775,6 +775,9 @@
 [submodule "bj/em/jzh"]
 	path = bj/em/jzh
 	url = .
+[submodule "bj/hl/ecc"]
+	path = bj/hl/ecc
+	url = .
 [submodule "bj/ig/hye"]
 	path = bj/ig/hye
 	url = .
