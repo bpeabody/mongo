@@ -29275,6 +29275,9 @@
 [submodule "mi/lv/kel"]
 	path = mi/lv/kel
 	url = .
+[submodule "mi/oa/uis"]
+	path = mi/oa/uis
+	url = .
 [submodule "mi/od/nxn"]
 	path = mi/od/nxn
 	url = .
