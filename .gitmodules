@@ -10162,6 +10162,9 @@
 [submodule "iw/wd/pzh"]
 	path = iw/wd/pzh
 	url = .
+[submodule "iw/wi/tso"]
+	path = iw/wi/tso
+	url = .
 [submodule "iw/xl/osz"]
 	path = iw/xl/osz
 	url = .
