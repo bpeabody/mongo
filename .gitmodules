@@ -28141,6 +28141,9 @@
 [submodule "sm/hi/qcc"]
 	path = sm/hi/qcc
 	url = .
+[submodule "sm/hu/ujz"]
+	path = sm/hu/ujz
+	url = .
 [submodule "sm/jt/jvh"]
 	path = sm/jt/jvh
 	url = .
