@@ -2449,6 +2449,9 @@
 [submodule "bj/xl/lih"]
 	path = bj/xl/lih
 	url = .
+[submodule "bj/zb/kbp"]
+	path = bj/zb/kbp
+	url = .
 [submodule "bj/zd/uqi"]
 	path = bj/zd/uqi
 	url = .
