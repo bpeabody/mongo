@@ -47551,6 +47551,9 @@
 [submodule "wn/kd/ltn"]
 	path = wn/kd/ltn
 	url = .
+[submodule "wn/ks/kgi"]
+	path = wn/ks/kgi
+	url = .
 [submodule "wn/kz/syi"]
 	path = wn/kz/syi
 	url = .
