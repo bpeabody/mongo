@@ -10810,6 +10810,9 @@
 [submodule "jp/kl/juf"]
 	path = jp/kl/juf
 	url = .
+[submodule "jp/lu/lgf"]
+	path = jp/lu/lgf
+	url = .
 [submodule "jp/mk/tqt"]
 	path = jp/mk/tqt
 	url = .
