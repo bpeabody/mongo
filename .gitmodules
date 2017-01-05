@@ -3775,6 +3775,9 @@
 [submodule "ej/wy/qrz"]
 	path = ej/wy/qrz
 	url = .
+[submodule "ej/yp/aty"]
+	path = ej/yp/aty
+	url = .
 [submodule "ek/bh/rli"]
 	path = ek/bh/rli
 	url = .
