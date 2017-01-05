@@ -43927,6 +43927,9 @@
 [submodule "rh/ui/ajs"]
 	path = rh/ui/ajs
 	url = .
+[submodule "rh/uu/qsi"]
+	path = rh/uu/qsi
+	url = .
 [submodule "rh/vp/dwc"]
 	path = rh/vp/dwc
 	url = .
