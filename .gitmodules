@@ -5770,6 +5770,9 @@
 [submodule "xs/wu/gfx"]
 	path = xs/wu/gfx
 	url = .
+[submodule "xt/fv/mjj"]
+	path = xt/fv/mjj
+	url = .
 [submodule "xt/vr/eog"]
 	path = xt/vr/eog
 	url = .
