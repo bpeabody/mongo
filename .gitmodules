@@ -2008,6 +2008,9 @@
 [submodule "ar/bf/qtg"]
 	path = ar/bf/qtg
 	url = .
+[submodule "ar/bs/csx"]
+	path = ar/bs/csx
+	url = .
 [submodule "ar/bu/gxk"]
 	path = ar/bu/gxk
 	url = .
