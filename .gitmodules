@@ -1603,6 +1603,9 @@
 [submodule "az/hw/xtj"]
 	path = az/hw/xtj
 	url = .
+[submodule "az/ij/hra"]
+	path = az/ij/hra
+	url = .
 [submodule "az/jb/wvl"]
 	path = az/jb/wvl
 	url = .
