@@ -352,6 +352,9 @@
 [submodule "af/bq/rxi"]
 	path = af/bq/rxi
 	url = .
+[submodule "af/bv/rdp"]
+	path = af/bv/rdp
+	url = .
 [submodule "af/ha/edd"]
 	path = af/ha/edd
 	url = .
