@@ -28384,6 +28384,9 @@
 [submodule "ly/kf/orx"]
 	path = ly/kf/orx
 	url = .
+[submodule "ly/mn/jpt"]
+	path = ly/mn/jpt
+	url = .
 [submodule "ly/nj/ime"]
 	path = ly/nj/ime
 	url = .
