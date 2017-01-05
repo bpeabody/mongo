@@ -5431,6 +5431,9 @@
 [submodule "mr/rd/ptn"]
 	path = mr/rd/ptn
 	url = .
+[submodule "mr/sh/qwk"]
+	path = mr/sh/qwk
+	url = .
 [submodule "mr/ud/fup"]
 	path = mr/ud/fup
 	url = .
