@@ -21604,6 +21604,9 @@
 [submodule "of/jr/opr"]
 	path = of/jr/opr
 	url = .
+[submodule "of/pk/kyy"]
+	path = of/pk/kyy
+	url = .
 [submodule "of/pn/ypn"]
 	path = of/pn/ypn
 	url = .
