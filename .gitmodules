@@ -17095,6 +17095,9 @@
 [submodule "lb/vz/fys"]
 	path = lb/vz/fys
 	url = .
+[submodule "lb/wc/pyd"]
+	path = lb/wc/pyd
+	url = .
 [submodule "lb/wp/ojf"]
 	path = lb/wp/ojf
 	url = .
