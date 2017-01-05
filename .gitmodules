@@ -14881,6 +14881,9 @@
 [submodule "je/ct/lek"]
 	path = je/ct/lek
 	url = .
+[submodule "je/do/kbl"]
+	path = je/do/kbl
+	url = .
 [submodule "je/dw/omo"]
 	path = je/dw/omo
 	url = .
