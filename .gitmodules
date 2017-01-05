@@ -3673,6 +3673,9 @@
 [submodule "bj/wk/igh"]
 	path = bj/wk/igh
 	url = .
+[submodule "bj/wk/lqb"]
+	path = bj/wk/lqb
+	url = .
 [submodule "bj/wp/otz"]
 	path = bj/wp/otz
 	url = .
