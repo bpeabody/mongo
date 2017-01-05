@@ -50713,6 +50713,9 @@
 [submodule "sw/wo/zvk"]
 	path = sw/wo/zvk
 	url = .
+[submodule "sw/wy/auo"]
+	path = sw/wy/auo
+	url = .
 [submodule "sw/yf/jpc"]
 	path = sw/yf/jpc
 	url = .
