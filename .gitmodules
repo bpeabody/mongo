@@ -781,6 +781,9 @@
 [submodule "vb/ip/gty"]
 	path = vb/ip/gty
 	url = .
+[submodule "vc/hy/dod"]
+	path = vc/hy/dod
+	url = .
 [submodule "vc/nc/ngc"]
 	path = vc/nc/ngc
 	url = .
