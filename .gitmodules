@@ -19054,6 +19054,9 @@
 [submodule "km/dx/dnl"]
 	path = km/dx/dnl
 	url = .
+[submodule "km/dy/yie"]
+	path = km/dy/yie
+	url = .
 [submodule "km/fq/tsz"]
 	path = km/fq/tsz
 	url = .
