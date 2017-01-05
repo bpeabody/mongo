@@ -12649,6 +12649,9 @@
 [submodule "vg/uc/lne"]
 	path = vg/uc/lne
 	url = .
+[submodule "vg/wb/gds"]
+	path = vg/wb/gds
+	url = .
 [submodule "vg/xc/opq"]
 	path = vg/xc/opq
 	url = .
