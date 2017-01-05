@@ -27553,6 +27553,9 @@
 [submodule "yd/da/qsb"]
 	path = yd/da/qsb
 	url = .
+[submodule "yd/jn/alk"]
+	path = yd/jn/alk
+	url = .
 [submodule "yd/ku/ubz"]
 	path = yd/ku/ubz
 	url = .
