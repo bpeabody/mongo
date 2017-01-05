@@ -35479,6 +35479,9 @@
 [submodule "mi/fn/enr"]
 	path = mi/fn/enr
 	url = .
+[submodule "mi/gn/obe"]
+	path = mi/gn/obe
+	url = .
 [submodule "mi/gw/zbp"]
 	path = mi/gw/zbp
 	url = .
