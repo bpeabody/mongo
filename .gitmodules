@@ -39802,6 +39802,9 @@
 [submodule "vv/wc/abp"]
 	path = vv/wc/abp
 	url = .
+[submodule "vv/xd/cbz"]
+	path = vv/xd/cbz
+	url = .
 [submodule "vv/xd/pgi"]
 	path = vv/xd/pgi
 	url = .
