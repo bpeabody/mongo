@@ -8497,6 +8497,9 @@
 [submodule "se/me/aor"]
 	path = se/me/aor
 	url = .
+[submodule "se/qh/wut"]
+	path = se/qh/wut
+	url = .
 [submodule "se/qx/wac"]
 	path = se/qx/wac
 	url = .
