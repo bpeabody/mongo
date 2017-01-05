@@ -10660,6 +10660,9 @@
 [submodule "fs/dw/mnb"]
 	path = fs/dw/mnb
 	url = .
+[submodule "fs/eb/tdx"]
+	path = fs/eb/tdx
+	url = .
 [submodule "fs/ec/vbq"]
 	path = fs/ec/vbq
 	url = .
