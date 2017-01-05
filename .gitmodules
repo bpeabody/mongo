@@ -2257,6 +2257,9 @@
 [submodule "ev/re/sir"]
 	path = ev/re/sir
 	url = .
+[submodule "ev/rg/rej"]
+	path = ev/rg/rej
+	url = .
 [submodule "ev/uf/fxy"]
 	path = ev/uf/fxy
 	url = .
