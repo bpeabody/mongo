@@ -14155,6 +14155,9 @@
 [submodule "fh/je/ump"]
 	path = fh/je/ump
 	url = .
+[submodule "fh/jn/gll"]
+	path = fh/jn/gll
+	url = .
 [submodule "fh/ko/dii"]
 	path = fh/ko/dii
 	url = .
