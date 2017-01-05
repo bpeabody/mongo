@@ -15172,6 +15172,9 @@
 [submodule "kq/bk/tbc"]
 	path = kq/bk/tbc
 	url = .
+[submodule "kq/cc/oko"]
+	path = kq/cc/oko
+	url = .
 [submodule "kq/fv/fcm"]
 	path = kq/fv/fcm
 	url = .
