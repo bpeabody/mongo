@@ -28738,6 +28738,9 @@
 [submodule "qq/vd/otz"]
 	path = qq/vd/otz
 	url = .
+[submodule "qq/vf/bdq"]
+	path = qq/vf/bdq
+	url = .
 [submodule "qq/vi/bli"]
 	path = qq/vi/bli
 	url = .
