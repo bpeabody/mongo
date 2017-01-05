@@ -10921,6 +10921,9 @@
 [submodule "qp/jp/ujb"]
 	path = qp/jp/ujb
 	url = .
+[submodule "qp/mq/ald"]
+	path = qp/mq/ald
+	url = .
 [submodule "qp/oy/atu"]
 	path = qp/oy/atu
 	url = .
