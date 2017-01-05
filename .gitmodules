@@ -7954,6 +7954,9 @@
 [submodule "mc/ix/quj"]
 	path = mc/ix/quj
 	url = .
+[submodule "mc/me/cmh"]
+	path = mc/me/cmh
+	url = .
 [submodule "md/ec/taj"]
 	path = md/ec/taj
 	url = .
