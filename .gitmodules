@@ -56860,6 +56860,9 @@
 [submodule "vj/fm/ifx"]
 	path = vj/fm/ifx
 	url = .
+[submodule "vj/it/lut"]
+	path = vj/it/lut
+	url = .
 [submodule "vj/jl/eme"]
 	path = vj/jl/eme
 	url = .
