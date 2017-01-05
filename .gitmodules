@@ -8284,6 +8284,9 @@
 [submodule "ek/hu/cad"]
 	path = ek/hu/cad
 	url = .
+[submodule "ek/ic/yvb"]
+	path = ek/ic/yvb
+	url = .
 [submodule "ek/il/roo"]
 	path = ek/il/roo
 	url = .
