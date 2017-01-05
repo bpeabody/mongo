@@ -8254,6 +8254,9 @@
 [submodule "ss/xo/wte"]
 	path = ss/xo/wte
 	url = .
+[submodule "st/xm/gws"]
+	path = st/xm/gws
+	url = .
 [submodule "st/zh/tac"]
 	path = st/zh/tac
 	url = .
