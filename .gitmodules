@@ -8644,6 +8644,9 @@
 [submodule "jp/tw/nmy"]
 	path = jp/tw/nmy
 	url = .
+[submodule "jp/ut/ycz"]
+	path = jp/ut/ycz
+	url = .
 [submodule "jq/cf/rgs"]
 	path = jq/cf/rgs
 	url = .
