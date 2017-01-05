@@ -6517,6 +6517,9 @@
 [submodule "de/pc/aac"]
 	path = de/pc/aac
 	url = .
+[submodule "de/sc/tvc"]
+	path = de/sc/tvc
+	url = .
 [submodule "de/sj/xmf"]
 	path = de/sj/xmf
 	url = .
