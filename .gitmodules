@@ -26266,6 +26266,9 @@
 [submodule "po/xd/xft"]
 	path = po/xd/xft
 	url = .
+[submodule "po/xf/tvp"]
+	path = po/xf/tvp
+	url = .
 [submodule "po/xw/ckl"]
 	path = po/xw/ckl
 	url = .
