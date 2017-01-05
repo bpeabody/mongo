@@ -26905,6 +26905,9 @@
 [submodule "qo/aw/qsg"]
 	path = qo/aw/qsg
 	url = .
+[submodule "qo/bc/hvt"]
+	path = qo/bc/hvt
+	url = .
 [submodule "qo/bi/usq"]
 	path = qo/bi/usq
 	url = .
