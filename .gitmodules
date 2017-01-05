@@ -15445,6 +15445,9 @@
 [submodule "qy/lx/sdi"]
 	path = qy/lx/sdi
 	url = .
+[submodule "qy/ly/etq"]
+	path = qy/ly/etq
+	url = .
 [submodule "qy/lz/nqv"]
 	path = qy/lz/nqv
 	url = .
