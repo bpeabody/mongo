@@ -8290,6 +8290,9 @@
 [submodule "pu/bb/hdk"]
 	path = pu/bb/hdk
 	url = .
+[submodule "pu/bx/abu"]
+	path = pu/bx/abu
+	url = .
 [submodule "pu/vb/yyv"]
 	path = pu/vb/yyv
 	url = .
