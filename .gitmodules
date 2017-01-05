@@ -54541,6 +54541,9 @@
 [submodule "ws/su/smw"]
 	path = ws/su/smw
 	url = .
+[submodule "ws/vu/auf"]
+	path = ws/vu/auf
+	url = .
 [submodule "ws/vy/fux"]
 	path = ws/vy/fux
 	url = .
