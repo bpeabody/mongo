@@ -3199,6 +3199,9 @@
 [submodule "ua/xq/gqx"]
 	path = ua/xq/gqx
 	url = .
+[submodule "ub/wb/lmb"]
+	path = ub/wb/lmb
+	url = .
 [submodule "uc/km/twd"]
 	path = uc/km/twd
 	url = .
