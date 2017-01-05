@@ -25768,6 +25768,9 @@
 [submodule "qj/dj/qdy"]
 	path = qj/dj/qdy
 	url = .
+[submodule "qj/fl/vsg"]
+	path = qj/fl/vsg
+	url = .
 [submodule "qj/gr/iqh"]
 	path = qj/gr/iqh
 	url = .
