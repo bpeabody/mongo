@@ -616,6 +616,9 @@
 [submodule "bp/rs/wfb"]
 	path = bp/rs/wfb
 	url = .
+[submodule "bq/bm/cmy"]
+	path = bq/bm/cmy
+	url = .
 [submodule "bq/ev/jis"]
 	path = bq/ev/jis
 	url = .
