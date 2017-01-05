@@ -21355,6 +21355,9 @@
 [submodule "wo/fr/qjn"]
 	path = wo/fr/qjn
 	url = .
+[submodule "wo/fv/ksz"]
+	path = wo/fv/ksz
+	url = .
 [submodule "wo/io/qjn"]
 	path = wo/io/qjn
 	url = .
