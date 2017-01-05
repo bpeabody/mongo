@@ -2971,6 +2971,9 @@
 [submodule "bj/em/jzh"]
 	path = bj/em/jzh
 	url = .
+[submodule "bj/em/wpy"]
+	path = bj/em/wpy
+	url = .
 [submodule "bj/hl/ecc"]
 	path = bj/hl/ecc
 	url = .
