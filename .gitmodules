@@ -286,6 +286,9 @@
 [submodule "gk/tf/chi"]
 	path = gk/tf/chi
 	url = .
+[submodule "gn/ad/scv"]
+	path = gn/ad/scv
+	url = .
 [submodule "gn/ij/ywb"]
 	path = gn/ij/ywb
 	url = .
