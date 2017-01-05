@@ -346,6 +346,9 @@
 [submodule "od/bl/ppr"]
 	path = od/bl/ppr
 	url = .
+[submodule "og/uj/mdn"]
+	path = og/uj/mdn
+	url = .
 [submodule "ok/ce/akb"]
 	path = ok/ce/akb
 	url = .
