@@ -10747,6 +10747,9 @@
 [submodule "lv/ei/hfg"]
 	path = lv/ei/hfg
 	url = .
+[submodule "lv/gx/jba"]
+	path = lv/gx/jba
+	url = .
 [submodule "lv/ie/exu"]
 	path = lv/ie/exu
 	url = .
