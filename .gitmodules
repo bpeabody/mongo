@@ -3289,6 +3289,9 @@
 [submodule "gb/bn/zgq"]
 	path = gb/bn/zgq
 	url = .
+[submodule "gb/bw/dla"]
+	path = gb/bw/dla
+	url = .
 [submodule "gb/cb/awn"]
 	path = gb/cb/awn
 	url = .
