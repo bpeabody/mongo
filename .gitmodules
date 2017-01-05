@@ -20662,6 +20662,9 @@
 [submodule "sn/vd/jwk"]
 	path = sn/vd/jwk
 	url = .
+[submodule "sn/xa/jxw"]
+	path = sn/xa/jxw
+	url = .
 [submodule "so/bw/ayw"]
 	path = so/bw/ayw
 	url = .
