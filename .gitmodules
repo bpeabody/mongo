@@ -15562,6 +15562,9 @@
 [submodule "gd/as/iog"]
 	path = gd/as/iog
 	url = .
+[submodule "gd/au/hlu"]
+	path = gd/au/hlu
+	url = .
 [submodule "gd/av/eid"]
 	path = gd/av/eid
 	url = .
