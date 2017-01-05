@@ -20092,6 +20092,9 @@
 [submodule "hn/jc/naj"]
 	path = hn/jc/naj
 	url = .
+[submodule "hn/jh/art"]
+	path = hn/jh/art
+	url = .
 [submodule "hn/lu/lal"]
 	path = hn/lu/lal
 	url = .
