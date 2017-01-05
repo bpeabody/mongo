@@ -30220,6 +30220,9 @@
 [submodule "sa/gk/pnn"]
 	path = sa/gk/pnn
 	url = .
+[submodule "sa/hd/qbb"]
+	path = sa/hd/qbb
+	url = .
 [submodule "sa/jv/mpe"]
 	path = sa/jv/mpe
 	url = .
