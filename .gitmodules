@@ -7546,6 +7546,9 @@
 [submodule "gd/if/rgj"]
 	path = gd/if/rgj
 	url = .
+[submodule "gd/im/yyb"]
+	path = gd/im/yyb
+	url = .
 [submodule "gd/iv/lfc"]
 	path = gd/iv/lfc
 	url = .
