@@ -44263,6 +44263,9 @@
 [submodule "td/au/yho"]
 	path = td/au/yho
 	url = .
+[submodule "td/bv/vve"]
+	path = td/bv/vve
+	url = .
 [submodule "td/ei/ocy"]
 	path = td/ei/ocy
 	url = .
