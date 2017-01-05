@@ -12472,6 +12472,9 @@
 [submodule "uf/pv/glw"]
 	path = uf/pv/glw
 	url = .
+[submodule "uf/tr/ifs"]
+	path = uf/tr/ifs
+	url = .
 [submodule "uf/xe/erm"]
 	path = uf/xe/erm
 	url = .
