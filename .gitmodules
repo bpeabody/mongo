@@ -54220,6 +54220,9 @@
 [submodule "wr/ih/jwi"]
 	path = wr/ih/jwi
 	url = .
+[submodule "wr/jq/wmy"]
+	path = wr/jq/wmy
+	url = .
 [submodule "wr/ju/drm"]
 	path = wr/ju/drm
 	url = .
