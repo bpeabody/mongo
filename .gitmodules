@@ -13,6 +13,9 @@
 [submodule "an/yd/yif"]
 	path = an/yd/yif
 	url = .
+[submodule "ao/fo/bcc"]
+	path = ao/fo/bcc
+	url = .
 [submodule "ao/ob/dur"]
 	path = ao/ob/dur
 	url = .
