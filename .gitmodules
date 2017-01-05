@@ -18562,6 +18562,9 @@
 [submodule "mj/za/rkk"]
 	path = mj/za/rkk
 	url = .
+[submodule "mk/ap/xor"]
+	path = mk/ap/xor
+	url = .
 [submodule "mk/bm/qcn"]
 	path = mk/bm/qcn
 	url = .
