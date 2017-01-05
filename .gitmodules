@@ -15625,6 +15625,9 @@
 [submodule "qq/cx/bwj"]
 	path = qq/cx/bwj
 	url = .
+[submodule "qq/jf/mgf"]
+	path = qq/jf/mgf
+	url = .
 [submodule "qq/nt/zjz"]
 	path = qq/nt/zjz
 	url = .
