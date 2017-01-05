@@ -8512,6 +8512,9 @@
 [submodule "jo/sk/cbn"]
 	path = jo/sk/cbn
 	url = .
+[submodule "jo/te/wan"]
+	path = jo/te/wan
+	url = .
 [submodule "jo/tx/iwo"]
 	path = jo/tx/iwo
 	url = .
