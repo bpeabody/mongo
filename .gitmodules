@@ -20524,6 +20524,9 @@
 [submodule "rh/fj/dfn"]
 	path = rh/fj/dfn
 	url = .
+[submodule "rh/gp/ate"]
+	path = rh/gp/ate
+	url = .
 [submodule "rh/ii/edm"]
 	path = rh/ii/edm
 	url = .
