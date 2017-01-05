@@ -6640,6 +6640,9 @@
 [submodule "fd/sm/msd"]
 	path = fd/sm/msd
 	url = .
+[submodule "fd/xb/dny"]
+	path = fd/xb/dny
+	url = .
 [submodule "fe/af/tmf"]
 	path = fe/af/tmf
 	url = .
