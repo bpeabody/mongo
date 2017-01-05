@@ -2641,6 +2641,9 @@
 [submodule "ba/bk/tri"]
 	path = ba/bk/tri
 	url = .
+[submodule "ba/cc/udt"]
+	path = ba/cc/udt
+	url = .
 [submodule "ba/ch/clt"]
 	path = ba/ch/clt
 	url = .
