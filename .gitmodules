@@ -27430,6 +27430,9 @@
 [submodule "pw/vi/sbg"]
 	path = pw/vi/sbg
 	url = .
+[submodule "pw/vu/rih"]
+	path = pw/vu/rih
+	url = .
 [submodule "px/bc/dli"]
 	path = px/bc/dli
 	url = .
