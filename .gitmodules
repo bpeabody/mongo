@@ -5098,6 +5098,9 @@
 [submodule "zq/lx/vkt"]
 	path = zq/lx/vkt
 	url = .
+[submodule "zq/zc/nxn"]
+	path = zq/zc/nxn
+	url = .
 [submodule "zr/dl/syv"]
 	path = zr/dl/syv
 	url = .
