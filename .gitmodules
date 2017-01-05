@@ -2575,6 +2575,9 @@
 [submodule "in/kj/vjz"]
 	path = in/kj/vjz
 	url = .
+[submodule "in/pc/lwm"]
+	path = in/pc/lwm
+	url = .
 [submodule "io/aw/fgo"]
 	path = io/aw/fgo
 	url = .
