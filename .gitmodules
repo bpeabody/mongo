@@ -29929,6 +29929,9 @@
 [submodule "te/nq/kgi"]
 	path = te/nq/kgi
 	url = .
+[submodule "te/oh/zym"]
+	path = te/oh/zym
+	url = .
 [submodule "te/on/ghk"]
 	path = te/on/ghk
 	url = .
