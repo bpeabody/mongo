@@ -64558,6 +64558,9 @@
 [submodule "yh/eg/idj"]
 	path = yh/eg/idj
 	url = .
+[submodule "yh/fr/nbk"]
+	path = yh/fr/nbk
+	url = .
 [submodule "yh/fy/rnn"]
 	path = yh/fy/rnn
 	url = .
