@@ -58234,6 +58234,9 @@
 [submodule "vi/np/grq"]
 	path = vi/np/grq
 	url = .
+[submodule "vi/np/xvd"]
+	path = vi/np/xvd
+	url = .
 [submodule "vi/rb/eol"]
 	path = vi/rb/eol
 	url = .
