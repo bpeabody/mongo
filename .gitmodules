@@ -3937,6 +3937,9 @@
 [submodule "lx/mk/cfl"]
 	path = lx/mk/cfl
 	url = .
+[submodule "ly/od/bnk"]
+	path = ly/od/bnk
+	url = .
 [submodule "ly/qd/fws"]
 	path = ly/qd/fws
 	url = .
