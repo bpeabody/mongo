@@ -12655,6 +12655,9 @@
 [submodule "pb/ph/dnh"]
 	path = pb/ph/dnh
 	url = .
+[submodule "pb/pl/qpa"]
+	path = pb/pl/qpa
+	url = .
 [submodule "pb/qh/mhp"]
 	path = pb/qh/mhp
 	url = .
