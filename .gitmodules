@@ -38374,6 +38374,9 @@
 [submodule "yo/st/ffk"]
 	path = yo/st/ffk
 	url = .
+[submodule "yo/wp/qrr"]
+	path = yo/wp/qrr
+	url = .
 [submodule "yo/xi/zsh"]
 	path = yo/xi/zsh
 	url = .
