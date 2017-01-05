@@ -26386,6 +26386,9 @@
 [submodule "sp/er/umd"]
 	path = sp/er/umd
 	url = .
+[submodule "sp/fo/uqp"]
+	path = sp/fo/uqp
+	url = .
 [submodule "sp/fw/hys"]
 	path = sp/fw/hys
 	url = .
