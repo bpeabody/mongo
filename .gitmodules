@@ -7600,6 +7600,9 @@
 [submodule "dd/hi/ioo"]
 	path = dd/hi/ioo
 	url = .
+[submodule "dd/hz/ert"]
+	path = dd/hz/ert
+	url = .
 [submodule "dd/ih/dxs"]
 	path = dd/ih/dxs
 	url = .
