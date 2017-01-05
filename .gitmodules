@@ -24334,6 +24334,9 @@
 [submodule "mo/oz/bln"]
 	path = mo/oz/bln
 	url = .
+[submodule "mo/rp/ixj"]
+	path = mo/rp/ixj
+	url = .
 [submodule "mo/rq/bco"]
 	path = mo/rq/bco
 	url = .
