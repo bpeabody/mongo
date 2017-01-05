@@ -79,6 +79,9 @@
 [submodule "ao/ob/dur"]
 	path = ao/ob/dur
 	url = .
+[submodule "ap/lv/jgx"]
+	path = ap/lv/jgx
+	url = .
 [submodule "ap/vr/hmp"]
 	path = ap/vr/hmp
 	url = .
