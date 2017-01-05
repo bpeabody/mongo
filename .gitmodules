@@ -24709,6 +24709,9 @@
 [submodule "kb/uc/fkk"]
 	path = kb/uc/fkk
 	url = .
+[submodule "kb/uf/rug"]
+	path = kb/uf/rug
+	url = .
 [submodule "kb/wb/onr"]
 	path = kb/wb/onr
 	url = .
