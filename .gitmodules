@@ -63496,6 +63496,9 @@
 [submodule "va/gc/dki"]
 	path = va/gc/dki
 	url = .
+[submodule "va/go/eyi"]
+	path = va/go/eyi
+	url = .
 [submodule "va/ip/yft"]
 	path = va/ip/yft
 	url = .
