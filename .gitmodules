@@ -27820,6 +27820,9 @@
 [submodule "vt/ua/nro"]
 	path = vt/ua/nro
 	url = .
+[submodule "vt/uc/bzv"]
+	path = vt/uc/bzv
+	url = .
 [submodule "vt/yh/vlj"]
 	path = vt/yh/vlj
 	url = .
