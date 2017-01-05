@@ -4174,6 +4174,9 @@
 [submodule "cq/gy/vcw"]
 	path = cq/gy/vcw
 	url = .
+[submodule "cq/hn/ulm"]
+	path = cq/hn/ulm
+	url = .
 [submodule "cq/hw/yns"]
 	path = cq/hw/yns
 	url = .
