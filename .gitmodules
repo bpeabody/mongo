@@ -30511,6 +30511,9 @@
 [submodule "vc/io/wfa"]
 	path = vc/io/wfa
 	url = .
+[submodule "vc/km/wnf"]
+	path = vc/km/wnf
+	url = .
 [submodule "vc/nc/ngc"]
 	path = vc/nc/ngc
 	url = .
