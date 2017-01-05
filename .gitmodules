@@ -40522,6 +40522,9 @@
 [submodule "xn/xo/zam"]
 	path = xn/xo/zam
 	url = .
+[submodule "xn/zm/qsc"]
+	path = xn/zm/qsc
+	url = .
 [submodule "xn/zn/uuk"]
 	path = xn/zn/uuk
 	url = .
