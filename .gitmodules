@@ -28,6 +28,9 @@
 [submodule "aa/ts/aja"]
 	path = aa/ts/aja
 	url = .
+[submodule "aa/uu/noe"]
+	path = aa/uu/noe
+	url = .
 [submodule "aa/uz/vij"]
 	path = aa/uz/vij
 	url = .
