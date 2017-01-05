@@ -2440,6 +2440,9 @@
 [submodule "rr/zf/oqn"]
 	path = rr/zf/oqn
 	url = .
+[submodule "rs/ho/bmk"]
+	path = rs/ho/bmk
+	url = .
 [submodule "rt/en/jjm"]
 	path = rt/en/jjm
 	url = .
