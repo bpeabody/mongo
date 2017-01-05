@@ -20713,6 +20713,9 @@
 [submodule "tp/ri/sjn"]
 	path = tp/ri/sjn
 	url = .
+[submodule "tp/sy/jnr"]
+	path = tp/sy/jnr
+	url = .
 [submodule "tp/wh/yuj"]
 	path = tp/wh/yuj
 	url = .
