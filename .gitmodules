@@ -2995,6 +2995,9 @@
 [submodule "fj/zz/qpd"]
 	path = fj/zz/qpd
 	url = .
+[submodule "fk/bl/mbi"]
+	path = fk/bl/mbi
+	url = .
 [submodule "fk/sj/ary"]
 	path = fk/sj/ary
 	url = .
