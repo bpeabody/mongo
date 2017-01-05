@@ -26791,6 +26791,9 @@
 [submodule "kx/ym/xhw"]
 	path = kx/ym/xhw
 	url = .
+[submodule "ky/dc/kog"]
+	path = ky/dc/kog
+	url = .
 [submodule "ky/dw/pnw"]
 	path = ky/dw/pnw
 	url = .
