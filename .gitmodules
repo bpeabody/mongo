@@ -52852,6 +52852,9 @@
 [submodule "yp/jr/aba"]
 	path = yp/jr/aba
 	url = .
+[submodule "yp/kg/wdz"]
+	path = yp/kg/wdz
+	url = .
 [submodule "yp/kq/hem"]
 	path = yp/kq/hem
 	url = .
