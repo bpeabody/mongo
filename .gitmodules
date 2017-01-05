@@ -3580,6 +3580,9 @@
 [submodule "bs/ja/mtx"]
 	path = bs/ja/mtx
 	url = .
+[submodule "bs/me/kmt"]
+	path = bs/me/kmt
+	url = .
 [submodule "bs/mn/keq"]
 	path = bs/mn/keq
 	url = .
