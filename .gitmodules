@@ -5275,6 +5275,9 @@
 [submodule "el/kh/acy"]
 	path = el/kh/acy
 	url = .
+[submodule "el/nb/jsl"]
+	path = el/nb/jsl
+	url = .
 [submodule "el/nt/aoo"]
 	path = el/nt/aoo
 	url = .
