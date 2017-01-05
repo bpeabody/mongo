@@ -9460,6 +9460,9 @@
 [submodule "oe/vi/xfd"]
 	path = oe/vi/xfd
 	url = .
+[submodule "of/an/yzp"]
+	path = of/an/yzp
+	url = .
 [submodule "of/ar/msp"]
 	path = of/ar/msp
 	url = .
