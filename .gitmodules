@@ -23956,6 +23956,9 @@
 [submodule "jw/vx/bxr"]
 	path = jw/vx/bxr
 	url = .
+[submodule "jw/wh/apw"]
+	path = jw/wh/apw
+	url = .
 [submodule "jw/xu/fap"]
 	path = jw/xu/fap
 	url = .
