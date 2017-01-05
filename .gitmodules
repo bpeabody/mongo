@@ -298,6 +298,9 @@
 [submodule "rr/or/vhq"]
 	path = rr/or/vhq
 	url = .
+[submodule "rv/oe/eix"]
+	path = rv/oe/eix
+	url = .
 [submodule "ry/kg/xet"]
 	path = ry/kg/xet
 	url = .
