@@ -6571,6 +6571,9 @@
 [submodule "lz/rm/hsl"]
 	path = lz/rm/hsl
 	url = .
+[submodule "lz/yb/exv"]
+	path = lz/yb/exv
+	url = .
 [submodule "ma/ba/dhq"]
 	path = ma/ba/dhq
 	url = .
