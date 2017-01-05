@@ -34351,6 +34351,9 @@
 [submodule "tp/ri/sjn"]
 	path = tp/ri/sjn
 	url = .
+[submodule "tp/sn/uga"]
+	path = tp/sn/uga
+	url = .
 [submodule "tp/sy/jnr"]
 	path = tp/sy/jnr
 	url = .
