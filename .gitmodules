@@ -12760,6 +12760,9 @@
 [submodule "ef/li/zrd"]
 	path = ef/li/zrd
 	url = .
+[submodule "ef/nl/smg"]
+	path = ef/nl/smg
+	url = .
 [submodule "ef/nu/xaj"]
 	path = ef/nu/xaj
 	url = .
