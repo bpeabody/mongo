@@ -22552,6 +22552,9 @@
 [submodule "ry/gm/kun"]
 	path = ry/gm/kun
 	url = .
+[submodule "ry/go/igr"]
+	path = ry/go/igr
+	url = .
 [submodule "ry/hk/rfi"]
 	path = ry/hk/rfi
 	url = .
