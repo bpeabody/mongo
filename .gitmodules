@@ -58042,6 +58042,9 @@
 [submodule "ui/nk/itf"]
 	path = ui/nk/itf
 	url = .
+[submodule "ui/nr/fno"]
+	path = ui/nr/fno
+	url = .
 [submodule "ui/nw/zkj"]
 	path = ui/nw/zkj
 	url = .
