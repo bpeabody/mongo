@@ -3199,6 +3199,9 @@
 [submodule "rd/vn/eky"]
 	path = rd/vn/eky
 	url = .
+[submodule "rd/yi/lxq"]
+	path = rd/yi/lxq
+	url = .
 [submodule "re/cc/eol"]
 	path = re/cc/eol
 	url = .
