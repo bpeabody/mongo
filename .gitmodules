@@ -13117,6 +13117,9 @@
 [submodule "hd/wb/ril"]
 	path = hd/wb/ril
 	url = .
+[submodule "hd/wk/fzo"]
+	path = hd/wk/fzo
+	url = .
 [submodule "hd/wl/czb"]
 	path = hd/wl/czb
 	url = .
