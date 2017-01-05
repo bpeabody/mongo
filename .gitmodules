@@ -2347,6 +2347,9 @@
 [submodule "ck/vn/dpb"]
 	path = ck/vn/dpb
 	url = .
+[submodule "ck/xs/bov"]
+	path = ck/xs/bov
+	url = .
 [submodule "ck/xv/zzp"]
 	path = ck/xv/zzp
 	url = .
