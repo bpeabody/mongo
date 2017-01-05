@@ -2767,6 +2767,9 @@
 [submodule "be/qq/mrq"]
 	path = be/qq/mrq
 	url = .
+[submodule "be/rf/pbv"]
+	path = be/rf/pbv
+	url = .
 [submodule "be/ri/sof"]
 	path = be/ri/sof
 	url = .
