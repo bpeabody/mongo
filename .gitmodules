@@ -16831,6 +16831,9 @@
 [submodule "wr/rx/gad"]
 	path = wr/rx/gad
 	url = .
+[submodule "wr/sl/gox"]
+	path = wr/sl/gox
+	url = .
 [submodule "wr/uc/env"]
 	path = wr/uc/env
 	url = .
