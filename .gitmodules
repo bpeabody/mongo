@@ -16636,6 +16636,9 @@
 [submodule "yk/vm/ygq"]
 	path = yk/vm/ygq
 	url = .
+[submodule "yl/by/gsa"]
+	path = yl/by/gsa
+	url = .
 [submodule "yl/cl/eck"]
 	path = yl/cl/eck
 	url = .
