@@ -7513,6 +7513,9 @@
 [submodule "dt/kn/dxs"]
 	path = dt/kn/dxs
 	url = .
+[submodule "dt/ld/sjq"]
+	path = dt/ld/sjq
+	url = .
 [submodule "dt/mn/kgd"]
 	path = dt/mn/kgd
 	url = .
