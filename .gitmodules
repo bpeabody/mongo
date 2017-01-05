@@ -21814,6 +21814,9 @@
 [submodule "mv/ux/rqb"]
 	path = mv/ux/rqb
 	url = .
+[submodule "mv/va/vpn"]
+	path = mv/va/vpn
+	url = .
 [submodule "mv/vb/voi"]
 	path = mv/vb/voi
 	url = .
