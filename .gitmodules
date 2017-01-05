@@ -7804,6 +7804,9 @@
 [submodule "th/pw/phd"]
 	path = th/pw/phd
 	url = .
+[submodule "th/ui/lxs"]
+	path = th/ui/lxs
+	url = .
 [submodule "ti/jy/agu"]
 	path = ti/jy/agu
 	url = .
