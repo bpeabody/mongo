@@ -45589,6 +45589,9 @@
 [submodule "sg/zo/ovk"]
 	path = sg/zo/ovk
 	url = .
+[submodule "sh/av/hmx"]
+	path = sh/av/hmx
+	url = .
 [submodule "sh/dh/dyt"]
 	path = sh/dh/dyt
 	url = .
