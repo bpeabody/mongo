@@ -29554,6 +29554,9 @@
 [submodule "np/wg/xrl"]
 	path = np/wg/xrl
 	url = .
+[submodule "np/wk/eeq"]
+	path = np/wk/eeq
+	url = .
 [submodule "np/xs/wyo"]
 	path = np/xs/wyo
 	url = .
