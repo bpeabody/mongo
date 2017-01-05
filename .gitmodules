@@ -8494,6 +8494,9 @@
 [submodule "ni/wa/hib"]
 	path = ni/wa/hib
 	url = .
+[submodule "nj/ck/sij"]
+	path = nj/ck/sij
+	url = .
 [submodule "nj/eg/ren"]
 	path = nj/eg/ren
 	url = .
