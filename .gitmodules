@@ -400,6 +400,9 @@
 [submodule "ip/al/aal"]
 	path = ip/al/aal
 	url = .
+[submodule "iq/fa/wgu"]
+	path = iq/fa/wgu
+	url = .
 [submodule "it/bs/vuh"]
 	path = it/bs/vuh
 	url = .
