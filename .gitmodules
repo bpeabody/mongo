@@ -6214,6 +6214,9 @@
 [submodule "cx/mi/scp"]
 	path = cx/mi/scp
 	url = .
+[submodule "cx/nt/ojg"]
+	path = cx/nt/ojg
+	url = .
 [submodule "cx/nt/qvg"]
 	path = cx/nt/qvg
 	url = .
