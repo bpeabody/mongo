@@ -24688,6 +24688,9 @@
 [submodule "ix/sa/eae"]
 	path = ix/sa/eae
 	url = .
+[submodule "ix/sj/yny"]
+	path = ix/sj/yny
+	url = .
 [submodule "ix/sm/ojh"]
 	path = ix/sm/ojh
 	url = .
