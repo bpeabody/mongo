@@ -42124,6 +42124,9 @@
 [submodule "sw/bz/guc"]
 	path = sw/bz/guc
 	url = .
+[submodule "sw/ee/qjs"]
+	path = sw/ee/qjs
+	url = .
 [submodule "sw/eh/hep"]
 	path = sw/eh/hep
 	url = .
