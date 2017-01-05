@@ -15706,6 +15706,9 @@
 [submodule "qd/mt/xxp"]
 	path = qd/mt/xxp
 	url = .
+[submodule "qd/od/etu"]
+	path = qd/od/etu
+	url = .
 [submodule "qd/qy/pwv"]
 	path = qd/qy/pwv
 	url = .
