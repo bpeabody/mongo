@@ -52474,6 +52474,9 @@
 [submodule "wl/oe/jmj"]
 	path = wl/oe/jmj
 	url = .
+[submodule "wl/pc/lbc"]
+	path = wl/pc/lbc
+	url = .
 [submodule "wl/qc/iyg"]
 	path = wl/qc/iyg
 	url = .
