@@ -2164,6 +2164,9 @@
 [submodule "mt/fw/one"]
 	path = mt/fw/one
 	url = .
+[submodule "mt/ow/ecc"]
+	path = mt/ow/ecc
+	url = .
 [submodule "mt/qv/qnb"]
 	path = mt/qv/qnb
 	url = .
