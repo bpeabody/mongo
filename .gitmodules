@@ -24271,6 +24271,9 @@
 [submodule "wr/oi/jeo"]
 	path = wr/oi/jeo
 	url = .
+[submodule "wr/rn/ftr"]
+	path = wr/rn/ftr
+	url = .
 [submodule "wr/ru/nra"]
 	path = wr/ru/nra
 	url = .
