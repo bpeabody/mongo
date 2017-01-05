@@ -1603,6 +1603,9 @@
 [submodule "oy/ae/our"]
 	path = oy/ae/our
 	url = .
+[submodule "oy/cu/uuj"]
+	path = oy/cu/uuj
+	url = .
 [submodule "oz/sm/jnu"]
 	path = oz/sm/jnu
 	url = .
