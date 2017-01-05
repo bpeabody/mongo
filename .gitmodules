@@ -41962,6 +41962,9 @@
 [submodule "pt/gh/gmb"]
 	path = pt/gh/gmb
 	url = .
+[submodule "pt/gm/nch"]
+	path = pt/gm/nch
+	url = .
 [submodule "pt/gw/vmu"]
 	path = pt/gw/vmu
 	url = .
