@@ -19561,6 +19561,9 @@
 [submodule "th/wp/xda"]
 	path = th/wp/xda
 	url = .
+[submodule "ti/ac/otf"]
+	path = ti/ac/otf
+	url = .
 [submodule "ti/bt/ruc"]
 	path = ti/bt/ruc
 	url = .
