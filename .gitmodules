@@ -21322,6 +21322,9 @@
 [submodule "sd/ly/brd"]
 	path = sd/ly/brd
 	url = .
+[submodule "sd/ng/zvp"]
+	path = sd/ng/zvp
+	url = .
 [submodule "sd/pr/nlb"]
 	path = sd/pr/nlb
 	url = .
