@@ -5971,6 +5971,9 @@
 [submodule "pp/ij/gaz"]
 	path = pp/ij/gaz
 	url = .
+[submodule "pp/wo/siw"]
+	path = pp/wo/siw
+	url = .
 [submodule "pp/wr/vnt"]
 	path = pp/wr/vnt
 	url = .
