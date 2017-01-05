@@ -787,6 +787,9 @@
 [submodule "dk/vu/dzc"]
 	path = dk/vu/dzc
 	url = .
+[submodule "dk/vx/tuk"]
+	path = dk/vx/tuk
+	url = .
 [submodule "dl/pt/yqs"]
 	path = dl/pt/yqs
 	url = .
