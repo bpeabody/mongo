@@ -2032,6 +2032,9 @@
 [submodule "fp/ye/prp"]
 	path = fp/ye/prp
 	url = .
+[submodule "fq/aa/fhq"]
+	path = fq/aa/fhq
+	url = .
 [submodule "fq/gf/qzt"]
 	path = fq/gf/qzt
 	url = .
