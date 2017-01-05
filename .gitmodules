@@ -22828,6 +22828,9 @@
 [submodule "rh/su/cxq"]
 	path = rh/su/cxq
 	url = .
+[submodule "rh/uh/wys"]
+	path = rh/uh/wys
+	url = .
 [submodule "ri/aq/saf"]
 	path = ri/aq/saf
 	url = .
