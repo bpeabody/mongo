@@ -39688,6 +39688,9 @@
 [submodule "vm/uh/kki"]
 	path = vm/uh/kki
 	url = .
+[submodule "vm/vj/tex"]
+	path = vm/vj/tex
+	url = .
 [submodule "vm/xc/cpf"]
 	path = vm/xc/cpf
 	url = .
