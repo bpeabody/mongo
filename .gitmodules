@@ -4300,6 +4300,9 @@
 [submodule "du/ps/tjd"]
 	path = du/ps/tjd
 	url = .
+[submodule "du/so/kws"]
+	path = du/so/kws
+	url = .
 [submodule "du/sx/soj"]
 	path = du/sx/soj
 	url = .
