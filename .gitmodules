@@ -48268,6 +48268,9 @@
 [submodule "vy/up/saa"]
 	path = vy/up/saa
 	url = .
+[submodule "vy/vi/bmm"]
+	path = vy/vi/bmm
+	url = .
 [submodule "vy/vz/uno"]
 	path = vy/vz/uno
 	url = .
