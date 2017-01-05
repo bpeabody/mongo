@@ -9184,6 +9184,9 @@
 [submodule "gx/wr/rxu"]
 	path = gx/wr/rxu
 	url = .
+[submodule "gx/xb/luh"]
+	path = gx/xb/luh
+	url = .
 [submodule "gx/zc/ywo"]
 	path = gx/zc/ywo
 	url = .
