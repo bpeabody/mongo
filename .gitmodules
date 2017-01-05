@@ -16582,6 +16582,9 @@
 [submodule "fu/se/joo"]
 	path = fu/se/joo
 	url = .
+[submodule "fu/si/rpn"]
+	path = fu/si/rpn
+	url = .
 [submodule "fu/tj/mut"]
 	path = fu/tj/mut
 	url = .
