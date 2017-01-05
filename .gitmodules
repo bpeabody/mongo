@@ -3847,6 +3847,9 @@
 [submodule "cg/jk/kps"]
 	path = cg/jk/kps
 	url = .
+[submodule "cg/mm/hpu"]
+	path = cg/mm/hpu
+	url = .
 [submodule "cg/qc/vly"]
 	path = cg/qc/vly
 	url = .
