@@ -9295,6 +9295,9 @@
 [submodule "sq/rk/fel"]
 	path = sq/rk/fel
 	url = .
+[submodule "sq/tb/zds"]
+	path = sq/tb/zds
+	url = .
 [submodule "sq/xw/eva"]
 	path = sq/xw/eva
 	url = .
