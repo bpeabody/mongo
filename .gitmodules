@@ -6313,6 +6313,9 @@
 [submodule "cv/hd/vax"]
 	path = cv/hd/vax
 	url = .
+[submodule "cv/in/imo"]
+	path = cv/in/imo
+	url = .
 [submodule "cv/jm/wsz"]
 	path = cv/jm/wsz
 	url = .
