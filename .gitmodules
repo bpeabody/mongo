@@ -8413,6 +8413,9 @@
 [submodule "uf/zu/esb"]
 	path = uf/zu/esb
 	url = .
+[submodule "ug/ny/eeh"]
+	path = ug/ny/eeh
+	url = .
 [submodule "ug/on/xmb"]
 	path = ug/on/xmb
 	url = .
