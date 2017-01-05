@@ -13132,6 +13132,9 @@
 [submodule "uw/lk/irr"]
 	path = uw/lk/irr
 	url = .
+[submodule "uw/mv/ezi"]
+	path = uw/mv/ezi
+	url = .
 [submodule "uw/pv/daq"]
 	path = uw/pv/daq
 	url = .
