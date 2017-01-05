@@ -6295,6 +6295,9 @@
 [submodule "co/dt/zxv"]
 	path = co/dt/zxv
 	url = .
+[submodule "co/dv/gkt"]
+	path = co/dv/gkt
+	url = .
 [submodule "co/eg/lpr"]
 	path = co/eg/lpr
 	url = .
