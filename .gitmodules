@@ -1273,6 +1273,9 @@
 [submodule "bt/nf/bit"]
 	path = bt/nf/bit
 	url = .
+[submodule "bt/nq/glc"]
+	path = bt/nq/glc
+	url = .
 [submodule "bt/og/clt"]
 	path = bt/og/clt
 	url = .
