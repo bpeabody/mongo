@@ -8332,6 +8332,9 @@
 [submodule "ir/go/bnf"]
 	path = ir/go/bnf
 	url = .
+[submodule "ir/ib/rka"]
+	path = ir/ib/rka
+	url = .
 [submodule "ir/jt/fti"]
 	path = ir/jt/fti
 	url = .
