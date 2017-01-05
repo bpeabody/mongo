@@ -1942,6 +1942,9 @@
 [submodule "jq/su/rrf"]
 	path = jq/su/rrf
 	url = .
+[submodule "jr/ak/lml"]
+	path = jr/ak/lml
+	url = .
 [submodule "jr/ci/xvx"]
 	path = jr/ci/xvx
 	url = .
