@@ -1174,6 +1174,9 @@
 [submodule "ct/nd/tzl"]
 	path = ct/nd/tzl
 	url = .
+[submodule "ct/or/qdb"]
+	path = ct/or/qdb
+	url = .
 [submodule "ct/xa/uqh"]
 	path = ct/xa/uqh
 	url = .
