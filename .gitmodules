@@ -18022,6 +18022,9 @@
 [submodule "ua/xq/gqx"]
 	path = ua/xq/gqx
 	url = .
+[submodule "ub/dn/emj"]
+	path = ub/dn/emj
+	url = .
 [submodule "ub/eq/ntt"]
 	path = ub/eq/ntt
 	url = .
