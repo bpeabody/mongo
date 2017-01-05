@@ -7318,6 +7318,9 @@
 [submodule "kh/vo/cpu"]
 	path = kh/vo/cpu
 	url = .
+[submodule "kh/xg/pcu"]
+	path = kh/xg/pcu
+	url = .
 [submodule "ki/au/grq"]
 	path = ki/au/grq
 	url = .
