@@ -26632,6 +26632,9 @@
 [submodule "ln/hy/nws"]
 	path = ln/hy/nws
 	url = .
+[submodule "ln/je/hhu"]
+	path = ln/je/hhu
+	url = .
 [submodule "ln/jo/slx"]
 	path = ln/jo/slx
 	url = .
