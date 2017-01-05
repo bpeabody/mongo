@@ -7207,6 +7207,9 @@
 [submodule "fw/ia/jis"]
 	path = fw/ia/jis
 	url = .
+[submodule "fw/op/ltx"]
+	path = fw/op/ltx
+	url = .
 [submodule "fw/oy/vlr"]
 	path = fw/oy/vlr
 	url = .
