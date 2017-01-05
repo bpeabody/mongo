@@ -7471,6 +7471,9 @@
 [submodule "gk/do/rdl"]
 	path = gk/do/rdl
 	url = .
+[submodule "gk/dp/vnk"]
+	path = gk/dp/vnk
+	url = .
 [submodule "gk/ko/xlz"]
 	path = gk/ko/xlz
 	url = .
