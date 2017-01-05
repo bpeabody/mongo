@@ -16513,6 +16513,9 @@
 [submodule "hm/ik/yen"]
 	path = hm/ik/yen
 	url = .
+[submodule "hm/iv/yum"]
+	path = hm/iv/yum
+	url = .
 [submodule "hm/ji/wsm"]
 	path = hm/ji/wsm
 	url = .
