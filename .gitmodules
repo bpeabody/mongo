@@ -14488,6 +14488,9 @@
 [submodule "rt/mt/gkg"]
 	path = rt/mt/gkg
 	url = .
+[submodule "rt/pd/swk"]
+	path = rt/pd/swk
+	url = .
 [submodule "rt/yw/ddd"]
 	path = rt/yw/ddd
 	url = .
