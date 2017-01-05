@@ -2620,6 +2620,9 @@
 [submodule "xc/ez/whe"]
 	path = xc/ez/whe
 	url = .
+[submodule "xc/lw/sca"]
+	path = xc/lw/sca
+	url = .
 [submodule "xc/ua/lzz"]
 	path = xc/ua/lzz
 	url = .
