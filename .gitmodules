@@ -20944,6 +20944,9 @@
 [submodule "rj/mh/lcw"]
 	path = rj/mh/lcw
 	url = .
+[submodule "rj/nm/lqi"]
+	path = rj/nm/lqi
+	url = .
 [submodule "rj/ro/ndc"]
 	path = rj/ro/ndc
 	url = .
