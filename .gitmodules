@@ -760,6 +760,9 @@
 [submodule "ag/ur/jhr"]
 	path = ag/ur/jhr
 	url = .
+[submodule "ag/vo/efx"]
+	path = ag/vo/efx
+	url = .
 [submodule "ag/vz/lly"]
 	path = ag/vz/lly
 	url = .
