@@ -6343,6 +6343,9 @@
 [submodule "id/vu/pit"]
 	path = id/vu/pit
 	url = .
+[submodule "id/wv/bik"]
+	path = id/wv/bik
+	url = .
 [submodule "id/yw/nml"]
 	path = id/yw/nml
 	url = .
