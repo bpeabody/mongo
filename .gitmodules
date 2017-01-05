@@ -60289,6 +60289,9 @@
 [submodule "vq/qq/ivd"]
 	path = vq/qq/ivd
 	url = .
+[submodule "vq/qv/xlf"]
+	path = vq/qv/xlf
+	url = .
 [submodule "vq/qw/kpu"]
 	path = vq/qw/kpu
 	url = .
