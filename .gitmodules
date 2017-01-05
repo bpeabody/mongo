@@ -40342,6 +40342,9 @@
 [submodule "xo/ms/pvz"]
 	path = xo/ms/pvz
 	url = .
+[submodule "xo/nq/icc"]
+	path = xo/nq/icc
+	url = .
 [submodule "xo/nu/kng"]
 	path = xo/nu/kng
 	url = .
