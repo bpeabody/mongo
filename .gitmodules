@@ -1753,6 +1753,9 @@
 [submodule "gd/ek/rem"]
 	path = gd/ek/rem
 	url = .
+[submodule "gd/vd/jwe"]
+	path = gd/vd/jwe
+	url = .
 [submodule "gd/vl/ivq"]
 	path = gd/vl/ivq
 	url = .
