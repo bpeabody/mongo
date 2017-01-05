@@ -1711,6 +1711,9 @@
 [submodule "hn/be/klz"]
 	path = hn/be/klz
 	url = .
+[submodule "hn/ew/bzt"]
+	path = hn/ew/bzt
+	url = .
 [submodule "hn/gx/xht"]
 	path = hn/gx/xht
 	url = .
