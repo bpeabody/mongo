@@ -8038,6 +8038,9 @@
 [submodule "kz/fe/fbj"]
 	path = kz/fe/fbj
 	url = .
+[submodule "kz/fl/srz"]
+	path = kz/fl/srz
+	url = .
 [submodule "kz/rk/dtc"]
 	path = kz/rk/dtc
 	url = .
