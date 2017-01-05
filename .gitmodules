@@ -15973,6 +15973,9 @@
 [submodule "oc/uw/xpo"]
 	path = oc/uw/xpo
 	url = .
+[submodule "oc/xl/sij"]
+	path = oc/xl/sij
+	url = .
 [submodule "od/bl/ppr"]
 	path = od/bl/ppr
 	url = .
