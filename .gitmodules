@@ -37672,6 +37672,9 @@
 [submodule "tj/sd/rxc"]
 	path = tj/sd/rxc
 	url = .
+[submodule "tj/sq/jpd"]
+	path = tj/sq/jpd
+	url = .
 [submodule "tj/to/ajz"]
 	path = tj/to/ajz
 	url = .
