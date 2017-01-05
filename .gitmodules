@@ -40744,6 +40744,9 @@
 [submodule "wu/pq/ajo"]
 	path = wu/pq/ajo
 	url = .
+[submodule "wu/qd/bri"]
+	path = wu/qd/bri
+	url = .
 [submodule "wu/qi/mbt"]
 	path = wu/qi/mbt
 	url = .
