@@ -12502,6 +12502,9 @@
 [submodule "nr/ye/nlu"]
 	path = nr/ye/nlu
 	url = .
+[submodule "nr/yh/ewv"]
+	path = nr/yh/ewv
+	url = .
 [submodule "ns/bp/sls"]
 	path = ns/bp/sls
 	url = .
