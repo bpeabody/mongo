@@ -1948,6 +1948,9 @@
 [submodule "at/da/miw"]
 	path = at/da/miw
 	url = .
+[submodule "at/er/nft"]
+	path = at/er/nft
+	url = .
 [submodule "at/et/lac"]
 	path = at/et/lac
 	url = .
