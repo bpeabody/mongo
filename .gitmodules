@@ -1690,6 +1690,9 @@
 [submodule "ay/zc/gxd"]
 	path = ay/zc/gxd
 	url = .
+[submodule "az/ay/grt"]
+	path = az/ay/grt
+	url = .
 [submodule "az/cl/pxi"]
 	path = az/cl/pxi
 	url = .
