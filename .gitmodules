@@ -6988,6 +6988,9 @@
 [submodule "fn/dd/nng"]
 	path = fn/dd/nng
 	url = .
+[submodule "fn/ee/lcb"]
+	path = fn/ee/lcb
+	url = .
 [submodule "fn/fc/bdz"]
 	path = fn/fc/bdz
 	url = .
