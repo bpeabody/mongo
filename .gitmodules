@@ -19000,6 +19000,9 @@
 [submodule "xy/pr/hcb"]
 	path = xy/pr/hcb
 	url = .
+[submodule "xy/rt/vqa"]
+	path = xy/rt/vqa
+	url = .
 [submodule "xy/ug/mhq"]
 	path = xy/ug/mhq
 	url = .
