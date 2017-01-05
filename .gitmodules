@@ -47671,6 +47671,9 @@
 [submodule "yu/fj/wfv"]
 	path = yu/fj/wfv
 	url = .
+[submodule "yu/gq/aqj"]
+	path = yu/gq/aqj
+	url = .
 [submodule "yu/hp/eww"]
 	path = yu/hp/eww
 	url = .
