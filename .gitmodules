@@ -4417,6 +4417,9 @@
 [submodule "jw/vs/xin"]
 	path = jw/vs/xin
 	url = .
+[submodule "jw/xu/fap"]
+	path = jw/xu/fap
+	url = .
 [submodule "jx/bk/hva"]
 	path = jx/bk/hva
 	url = .
