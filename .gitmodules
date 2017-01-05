@@ -66520,6 +66520,9 @@
 [submodule "wv/dh/boa"]
 	path = wv/dh/boa
 	url = .
+[submodule "wv/eg/gqi"]
+	path = wv/eg/gqi
+	url = .
 [submodule "wv/gb/trz"]
 	path = wv/gb/trz
 	url = .
