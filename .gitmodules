@@ -1054,6 +1054,9 @@
 [submodule "fb/ji/hks"]
 	path = fb/ji/hks
 	url = .
+[submodule "fb/oc/irl"]
+	path = fb/oc/irl
+	url = .
 [submodule "fb/or/gcu"]
 	path = fb/or/gcu
 	url = .
