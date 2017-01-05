@@ -988,6 +988,9 @@
 [submodule "am/wb/gpw"]
 	path = am/wb/gpw
 	url = .
+[submodule "am/xd/kwi"]
+	path = am/xd/kwi
+	url = .
 [submodule "am/xu/dwy"]
 	path = am/xu/dwy
 	url = .
