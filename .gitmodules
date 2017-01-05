@@ -39865,6 +39865,9 @@
 [submodule "rj/ro/ndc"]
 	path = rj/ro/ndc
 	url = .
+[submodule "rj/th/pkn"]
+	path = rj/th/pkn
+	url = .
 [submodule "rj/tz/qhl"]
 	path = rj/tz/qhl
 	url = .
