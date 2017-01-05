@@ -220,6 +220,9 @@
 [submodule "rr/or/vhq"]
 	path = rr/or/vhq
 	url = .
+[submodule "ry/kg/xet"]
+	path = ry/kg/xet
+	url = .
 [submodule "se/qx/wac"]
 	path = se/qx/wac
 	url = .
