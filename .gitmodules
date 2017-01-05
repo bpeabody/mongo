@@ -10360,6 +10360,9 @@
 [submodule "qn/zk/lni"]
 	path = qn/zk/lni
 	url = .
+[submodule "qo/rt/fir"]
+	path = qo/rt/fir
+	url = .
 [submodule "qo/sk/wsu"]
 	path = qo/sk/wsu
 	url = .
