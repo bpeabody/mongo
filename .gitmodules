@@ -8560,6 +8560,9 @@
 [submodule "jv/zf/iat"]
 	path = jv/zf/iat
 	url = .
+[submodule "jv/zo/meg"]
+	path = jv/zo/meg
+	url = .
 [submodule "jw/ch/bvs"]
 	path = jw/ch/bvs
 	url = .
