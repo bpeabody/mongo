@@ -8446,6 +8446,9 @@
 [submodule "gm/jq/tke"]
 	path = gm/jq/tke
 	url = .
+[submodule "gm/kd/kig"]
+	path = gm/kd/kig
+	url = .
 [submodule "gm/kq/ont"]
 	path = gm/kq/ont
 	url = .
