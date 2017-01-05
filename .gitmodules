@@ -14557,6 +14557,9 @@
 [submodule "qp/ah/iij"]
 	path = qp/ah/iij
 	url = .
+[submodule "qp/ay/saa"]
+	path = qp/ay/saa
+	url = .
 [submodule "qp/fw/ccf"]
 	path = qp/fw/ccf
 	url = .
