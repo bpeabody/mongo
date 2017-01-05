@@ -736,6 +736,9 @@
 [submodule "zh/yd/aqo"]
 	path = zh/yd/aqo
 	url = .
+[submodule "zj/kp/kbl"]
+	path = zj/kp/kbl
+	url = .
 [submodule "zl/wk/gwc"]
 	path = zl/wk/gwc
 	url = .
