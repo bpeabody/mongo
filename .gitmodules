@@ -4006,6 +4006,9 @@
 [submodule "bu/qx/erv"]
 	path = bu/qx/erv
 	url = .
+[submodule "bu/qz/xwk"]
+	path = bu/qz/xwk
+	url = .
 [submodule "bu/rh/emq"]
 	path = bu/rh/emq
 	url = .
