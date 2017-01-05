@@ -10495,6 +10495,9 @@
 [submodule "ug/on/xmb"]
 	path = ug/on/xmb
 	url = .
+[submodule "ug/qo/dif"]
+	path = ug/qo/dif
+	url = .
 [submodule "uh/dg/des"]
 	path = uh/dg/des
 	url = .
