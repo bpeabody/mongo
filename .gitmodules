@@ -8212,6 +8212,9 @@
 [submodule "cx/tv/qph"]
 	path = cx/tv/qph
 	url = .
+[submodule "cx/ty/amu"]
+	path = cx/ty/amu
+	url = .
 [submodule "cx/ub/ccw"]
 	path = cx/ub/ccw
 	url = .
