@@ -29974,6 +29974,9 @@
 [submodule "us/mt/omp"]
 	path = us/mt/omp
 	url = .
+[submodule "us/py/ivv"]
+	path = us/py/ivv
+	url = .
 [submodule "us/qf/naf"]
 	path = us/qf/naf
 	url = .
