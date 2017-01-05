@@ -20536,6 +20536,9 @@
 [submodule "nd/yk/arn"]
 	path = nd/yk/arn
 	url = .
+[submodule "ne/ag/clb"]
+	path = ne/ag/clb
+	url = .
 [submodule "ne/bc/gaf"]
 	path = ne/bc/gaf
 	url = .
