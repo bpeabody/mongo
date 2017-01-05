@@ -6925,6 +6925,9 @@
 [submodule "oh/ih/fcp"]
 	path = oh/ih/fcp
 	url = .
+[submodule "oh/xb/ewi"]
+	path = oh/xb/ewi
+	url = .
 [submodule "oi/bg/bwo"]
 	path = oi/bg/bwo
 	url = .
