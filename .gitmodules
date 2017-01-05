@@ -13879,6 +13879,9 @@
 [submodule "fj/gb/rlx"]
 	path = fj/gb/rlx
 	url = .
+[submodule "fj/gd/jdg"]
+	path = fj/gd/jdg
+	url = .
 [submodule "fj/gj/emx"]
 	path = fj/gj/emx
 	url = .
