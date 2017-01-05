@@ -16573,6 +16573,9 @@
 [submodule "ms/ft/vqe"]
 	path = ms/ft/vqe
 	url = .
+[submodule "ms/fx/kaf"]
+	path = ms/fx/kaf
+	url = .
 [submodule "ms/he/orj"]
 	path = ms/he/orj
 	url = .
