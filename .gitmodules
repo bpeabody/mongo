@@ -4126,6 +4126,9 @@
 [submodule "cs/mh/hgh"]
 	path = cs/mh/hgh
 	url = .
+[submodule "cs/rj/pcn"]
+	path = cs/rj/pcn
+	url = .
 [submodule "cs/rp/jpk"]
 	path = cs/rp/jpk
 	url = .
