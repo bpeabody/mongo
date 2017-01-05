@@ -6847,6 +6847,9 @@
 [submodule "ji/rz/gzo"]
 	path = ji/rz/gzo
 	url = .
+[submodule "ji/si/lrj"]
+	path = ji/si/lrj
+	url = .
 [submodule "ji/vk/fnq"]
 	path = ji/vk/fnq
 	url = .
