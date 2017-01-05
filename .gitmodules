@@ -17383,6 +17383,9 @@
 [submodule "yi/no/kpl"]
 	path = yi/no/kpl
 	url = .
+[submodule "yi/np/slo"]
+	path = yi/np/slo
+	url = .
 [submodule "yi/tz/tqi"]
 	path = yi/tz/tqi
 	url = .
