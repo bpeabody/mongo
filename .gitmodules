@@ -20038,6 +20038,9 @@
 [submodule "ly/zw/vmr"]
 	path = ly/zw/vmr
 	url = .
+[submodule "lz/dl/dly"]
+	path = lz/dl/dly
+	url = .
 [submodule "lz/dz/msa"]
 	path = lz/dz/msa
 	url = .
