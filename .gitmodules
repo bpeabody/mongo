@@ -673,6 +673,9 @@
 [submodule "iu/pm/pym"]
 	path = iu/pm/pym
 	url = .
+[submodule "iu/xw/jwq"]
+	path = iu/xw/jwq
+	url = .
 [submodule "iw/ik/riv"]
 	path = iw/ik/riv
 	url = .
