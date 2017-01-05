@@ -31792,6 +31792,9 @@
 [submodule "sy/ce/hfj"]
 	path = sy/ce/hfj
 	url = .
+[submodule "sy/cu/hbb"]
+	path = sy/cu/hbb
+	url = .
 [submodule "sy/fj/ryo"]
 	path = sy/fj/ryo
 	url = .
