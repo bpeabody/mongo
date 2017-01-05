@@ -34228,6 +34228,9 @@
 [submodule "ue/bq/hqe"]
 	path = ue/bq/hqe
 	url = .
+[submodule "ue/eb/icp"]
+	path = ue/eb/icp
+	url = .
 [submodule "ue/fk/acb"]
 	path = ue/fk/acb
 	url = .
