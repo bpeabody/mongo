@@ -3013,6 +3013,9 @@
 [submodule "ce/ut/jch"]
 	path = ce/ut/jch
 	url = .
+[submodule "ce/vp/hdc"]
+	path = ce/vp/hdc
+	url = .
 [submodule "ce/wa/ozr"]
 	path = ce/wa/ozr
 	url = .
