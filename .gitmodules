@@ -54916,6 +54916,9 @@
 [submodule "ty/tn/spk"]
 	path = ty/tn/spk
 	url = .
+[submodule "ty/tr/dfe"]
+	path = ty/tr/dfe
+	url = .
 [submodule "ty/ui/osx"]
 	path = ty/ui/osx
 	url = .
