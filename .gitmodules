@@ -20485,6 +20485,9 @@
 [submodule "ox/zd/nok"]
 	path = ox/zd/nok
 	url = .
+[submodule "ox/zj/ybn"]
+	path = ox/zj/ybn
+	url = .
 [submodule "ox/zl/kbw"]
 	path = ox/zl/kbw
 	url = .
