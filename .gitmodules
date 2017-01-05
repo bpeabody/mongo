@@ -4042,6 +4042,9 @@
 [submodule "do/wz/fgi"]
 	path = do/wz/fgi
 	url = .
+[submodule "do/xq/ncm"]
+	path = do/xq/ncm
+	url = .
 [submodule "do/xt/mgw"]
 	path = do/xt/mgw
 	url = .
