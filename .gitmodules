@@ -34186,6 +34186,9 @@
 [submodule "uo/gx/pen"]
 	path = uo/gx/pen
 	url = .
+[submodule "uo/ig/sdu"]
+	path = uo/ig/sdu
+	url = .
 [submodule "uo/ir/mjk"]
 	path = uo/ir/mjk
 	url = .
