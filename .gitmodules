@@ -10177,6 +10177,9 @@
 [submodule "ii/me/gam"]
 	path = ii/me/gam
 	url = .
+[submodule "ii/mj/vkk"]
+	path = ii/mj/vkk
+	url = .
 [submodule "ii/mx/rgq"]
 	path = ii/mx/rgq
 	url = .
