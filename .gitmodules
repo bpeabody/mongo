@@ -31567,6 +31567,9 @@
 [submodule "xe/dw/kze"]
 	path = xe/dw/kze
 	url = .
+[submodule "xe/fg/uar"]
+	path = xe/fg/uar
+	url = .
 [submodule "xe/fy/zwy"]
 	path = xe/fy/zwy
 	url = .
