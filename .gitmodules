@@ -19978,6 +19978,9 @@
 [submodule "jo/zu/ilb"]
 	path = jo/zu/ilb
 	url = .
+[submodule "jp/av/uzf"]
+	path = jp/av/uzf
+	url = .
 [submodule "jp/az/kpo"]
 	path = jp/az/kpo
 	url = .
