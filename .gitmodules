@@ -9832,6 +9832,9 @@
 [submodule "jp/id/ymp"]
 	path = jp/id/ymp
 	url = .
+[submodule "jp/kl/juf"]
+	path = jp/kl/juf
+	url = .
 [submodule "jp/mk/tqt"]
 	path = jp/mk/tqt
 	url = .
