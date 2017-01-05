@@ -49342,6 +49342,9 @@
 [submodule "wn/sp/iaf"]
 	path = wn/sp/iaf
 	url = .
+[submodule "wn/th/ian"]
+	path = wn/th/ian
+	url = .
 [submodule "wn/up/aga"]
 	path = wn/up/aga
 	url = .
