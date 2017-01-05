@@ -10849,6 +10849,9 @@
 [submodule "dt/di/ufp"]
 	path = dt/di/ufp
 	url = .
+[submodule "dt/gz/ymd"]
+	path = dt/gz/ymd
+	url = .
 [submodule "dt/hf/zqh"]
 	path = dt/hf/zqh
 	url = .
