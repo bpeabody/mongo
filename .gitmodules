@@ -24892,6 +24892,9 @@
 [submodule "su/jt/mrn"]
 	path = su/jt/mrn
 	url = .
+[submodule "su/lv/uag"]
+	path = su/lv/uag
+	url = .
 [submodule "su/qs/cnj"]
 	path = su/qs/cnj
 	url = .
