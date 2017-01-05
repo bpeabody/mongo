@@ -775,6 +775,9 @@
 [submodule "iw/ik/riv"]
 	path = iw/ik/riv
 	url = .
+[submodule "ix/dr/gqd"]
+	path = ix/dr/gqd
+	url = .
 [submodule "ix/qy/hgt"]
 	path = ix/qy/hgt
 	url = .
