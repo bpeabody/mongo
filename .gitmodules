@@ -23557,6 +23557,9 @@
 [submodule "mp/hh/qcs"]
 	path = mp/hh/qcs
 	url = .
+[submodule "mp/hm/itx"]
+	path = mp/hm/itx
+	url = .
 [submodule "mp/ih/fsa"]
 	path = mp/ih/fsa
 	url = .
