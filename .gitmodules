@@ -244,6 +244,9 @@
 [submodule "ar/ij/era"]
 	path = ar/ij/era
 	url = .
+[submodule "ar/my/msa"]
+	path = ar/my/msa
+	url = .
 [submodule "ar/sk/lip"]
 	path = ar/sk/lip
 	url = .
