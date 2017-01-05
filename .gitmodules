@@ -2122,6 +2122,9 @@
 [submodule "uq/at/vvl"]
 	path = uq/at/vvl
 	url = .
+[submodule "uq/xb/xuw"]
+	path = uq/xb/xuw
+	url = .
 [submodule "ur/le/qqt"]
 	path = ur/le/qqt
 	url = .
