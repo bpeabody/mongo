@@ -229,6 +229,9 @@
 [submodule "ai/vg/lop"]
 	path = ai/vg/lop
 	url = .
+[submodule "aj/ag/fpe"]
+	path = aj/ag/fpe
+	url = .
 [submodule "aj/aj/rez"]
 	path = aj/aj/rez
 	url = .
