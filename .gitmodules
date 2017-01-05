@@ -8821,6 +8821,9 @@
 [submodule "fi/ie/mcq"]
 	path = fi/ie/mcq
 	url = .
+[submodule "fi/if/xyw"]
+	path = fi/if/xyw
+	url = .
 [submodule "fi/io/njs"]
 	path = fi/io/njs
 	url = .
