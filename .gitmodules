@@ -2863,6 +2863,9 @@
 [submodule "xs/st/nwr"]
 	path = xs/st/nwr
 	url = .
+[submodule "xs/wu/gfx"]
+	path = xs/wu/gfx
+	url = .
 [submodule "xu/ej/boe"]
 	path = xu/ej/boe
 	url = .
