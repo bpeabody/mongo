@@ -1330,6 +1330,9 @@
 [submodule "vr/io/jwh"]
 	path = vr/io/jwh
 	url = .
+[submodule "vr/zq/fuh"]
+	path = vr/zq/fuh
+	url = .
 [submodule "vr/zr/mrj"]
 	path = vr/zr/mrj
 	url = .
