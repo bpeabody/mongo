@@ -9502,6 +9502,9 @@
 [submodule "fq/fz/bbx"]
 	path = fq/fz/bbx
 	url = .
+[submodule "fq/gb/ibs"]
+	path = fq/gb/ibs
+	url = .
 [submodule "fq/gf/qzt"]
 	path = fq/gf/qzt
 	url = .
