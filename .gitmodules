@@ -45493,6 +45493,9 @@
 [submodule "ta/nf/aqo"]
 	path = ta/nf/aqo
 	url = .
+[submodule "ta/no/tkb"]
+	path = ta/no/tkb
+	url = .
 [submodule "ta/ny/uel"]
 	path = ta/ny/uel
 	url = .
