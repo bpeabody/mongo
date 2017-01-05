@@ -1813,6 +1813,9 @@
 [submodule "fe/ff/cbs"]
 	path = fe/ff/cbs
 	url = .
+[submodule "fe/jn/uav"]
+	path = fe/jn/uav
+	url = .
 [submodule "ff/kz/dah"]
 	path = ff/kz/dah
 	url = .
