@@ -14599,6 +14599,9 @@
 [submodule "fe/fb/oor"]
 	path = fe/fb/oor
 	url = .
+[submodule "fe/ff/afr"]
+	path = fe/ff/afr
+	url = .
 [submodule "fe/ff/cbs"]
 	path = fe/ff/cbs
 	url = .
