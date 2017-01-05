@@ -12259,6 +12259,9 @@
 [submodule "fg/wj/sgm"]
 	path = fg/wj/sgm
 	url = .
+[submodule "fg/wj/ypf"]
+	path = fg/wj/ypf
+	url = .
 [submodule "fg/wo/kdj"]
 	path = fg/wo/kdj
 	url = .
