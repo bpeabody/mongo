@@ -58099,6 +58099,9 @@
 [submodule "to/fd/qeg"]
 	path = to/fd/qeg
 	url = .
+[submodule "to/fe/wqs"]
+	path = to/fe/wqs
+	url = .
 [submodule "to/gd/kbv"]
 	path = to/gd/kbv
 	url = .
