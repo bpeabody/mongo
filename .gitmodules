@@ -25924,6 +25924,9 @@
 [submodule "kq/th/itg"]
 	path = kq/th/itg
 	url = .
+[submodule "kq/tq/ebg"]
+	path = kq/tq/ebg
+	url = .
 [submodule "kq/ux/afm"]
 	path = kq/ux/afm
 	url = .
