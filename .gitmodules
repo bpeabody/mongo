@@ -4213,6 +4213,9 @@
 [submodule "bo/tu/gpy"]
 	path = bo/tu/gpy
 	url = .
+[submodule "bo/ua/vqr"]
+	path = bo/ua/vqr
+	url = .
 [submodule "bo/vv/juz"]
 	path = bo/vv/juz
 	url = .
