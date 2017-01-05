@@ -18472,6 +18472,9 @@
 [submodule "he/pf/evs"]
 	path = he/pf/evs
 	url = .
+[submodule "he/qc/xgb"]
+	path = he/qc/xgb
+	url = .
 [submodule "he/qf/ovz"]
 	path = he/qf/ovz
 	url = .
