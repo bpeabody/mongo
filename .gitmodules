@@ -49702,6 +49702,9 @@
 [submodule "ta/ci/lkf"]
 	path = ta/ci/lkf
 	url = .
+[submodule "ta/cx/xrl"]
+	path = ta/cx/xrl
+	url = .
 [submodule "ta/cx/ygg"]
 	path = ta/cx/ygg
 	url = .
