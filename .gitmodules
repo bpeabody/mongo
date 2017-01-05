@@ -27472,6 +27472,9 @@
 [submodule "lp/jp/lkp"]
 	path = lp/jp/lkp
 	url = .
+[submodule "lp/ky/nsl"]
+	path = lp/ky/nsl
+	url = .
 [submodule "lp/la/yma"]
 	path = lp/la/yma
 	url = .
