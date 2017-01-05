@@ -4654,6 +4654,9 @@
 [submodule "nj/iv/wqm"]
 	path = nj/iv/wqm
 	url = .
+[submodule "nj/nu/loy"]
+	path = nj/nu/loy
+	url = .
 [submodule "nj/po/kft"]
 	path = nj/po/kft
 	url = .
