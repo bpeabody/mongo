@@ -8626,6 +8626,9 @@
 [submodule "fk/xv/aju"]
 	path = fk/xv/aju
 	url = .
+[submodule "fk/yr/ngk"]
+	path = fk/yr/ngk
+	url = .
 [submodule "fl/da/ukq"]
 	path = fl/da/ukq
 	url = .
