@@ -15529,6 +15529,9 @@
 [submodule "wf/fo/isc"]
 	path = wf/fo/isc
 	url = .
+[submodule "wf/ha/wqw"]
+	path = wf/ha/wqw
+	url = .
 [submodule "wf/lp/tmm"]
 	path = wf/lp/tmm
 	url = .
