@@ -7438,6 +7438,9 @@
 [submodule "gi/um/alg"]
 	path = gi/um/alg
 	url = .
+[submodule "gi/vb/kcs"]
+	path = gi/vb/kcs
+	url = .
 [submodule "gi/wj/cev"]
 	path = gi/wj/cev
 	url = .
