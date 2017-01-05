@@ -41635,6 +41635,9 @@
 [submodule "su/ba/slk"]
 	path = su/ba/slk
 	url = .
+[submodule "su/cc/bql"]
+	path = su/cc/bql
+	url = .
 [submodule "su/ct/lpi"]
 	path = su/ct/lpi
 	url = .
