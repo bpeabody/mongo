@@ -8236,6 +8236,9 @@
 [submodule "nn/ec/zcg"]
 	path = nn/ec/zcg
 	url = .
+[submodule "nn/ga/fnj"]
+	path = nn/ga/fnj
+	url = .
 [submodule "nn/hp/zjv"]
 	path = nn/hp/zjv
 	url = .
