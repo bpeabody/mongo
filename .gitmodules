@@ -15724,6 +15724,9 @@
 [submodule "uy/bg/brd"]
 	path = uy/bg/brd
 	url = .
+[submodule "uy/cw/edx"]
+	path = uy/cw/edx
+	url = .
 [submodule "uy/fb/lez"]
 	path = uy/fb/lez
 	url = .
