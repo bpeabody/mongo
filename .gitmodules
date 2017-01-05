@@ -7150,6 +7150,9 @@
 [submodule "eb/tg/dka"]
 	path = eb/tg/dka
 	url = .
+[submodule "eb/tg/fpr"]
+	path = eb/tg/fpr
+	url = .
 [submodule "eb/tq/ufr"]
 	path = eb/tq/ufr
 	url = .
