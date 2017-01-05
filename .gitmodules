@@ -31027,6 +31027,9 @@
 [submodule "od/ji/gsz"]
 	path = od/ji/gsz
 	url = .
+[submodule "od/kb/vel"]
+	path = od/kb/vel
+	url = .
 [submodule "od/lw/aln"]
 	path = od/lw/aln
 	url = .
