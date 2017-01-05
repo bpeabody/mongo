@@ -19882,6 +19882,9 @@
 [submodule "kj/du/kaz"]
 	path = kj/du/kaz
 	url = .
+[submodule "kj/hw/jmg"]
+	path = kj/hw/jmg
+	url = .
 [submodule "kj/lv/dvz"]
 	path = kj/lv/dvz
 	url = .
