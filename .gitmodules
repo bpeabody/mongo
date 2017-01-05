@@ -6808,6 +6808,9 @@
 [submodule "cy/mv/yzz"]
 	path = cy/mv/yzz
 	url = .
+[submodule "cy/nj/kin"]
+	path = cy/nj/kin
+	url = .
 [submodule "cy/nt/pff"]
 	path = cy/nt/pff
 	url = .
