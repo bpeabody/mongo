@@ -8899,6 +8899,9 @@
 [submodule "dg/sz/pkn"]
 	path = dg/sz/pkn
 	url = .
+[submodule "dg/sz/vph"]
+	path = dg/sz/vph
+	url = .
 [submodule "dg/tv/sey"]
 	path = dg/tv/sey
 	url = .
