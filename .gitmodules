@@ -9949,6 +9949,9 @@
 [submodule "pz/mm/oal"]
 	path = pz/mm/oal
 	url = .
+[submodule "pz/ox/xra"]
+	path = pz/ox/xra
+	url = .
 [submodule "qa/cl/qhu"]
 	path = qa/cl/qhu
 	url = .
