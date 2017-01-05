@@ -14803,6 +14803,9 @@
 [submodule "hz/pd/ckw"]
 	path = hz/pd/ckw
 	url = .
+[submodule "hz/qe/xql"]
+	path = hz/qe/xql
+	url = .
 [submodule "hz/qr/dxg"]
 	path = hz/qr/dxg
 	url = .
