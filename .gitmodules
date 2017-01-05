@@ -19537,6 +19537,9 @@
 [submodule "xz/vx/lqz"]
 	path = xz/vx/lqz
 	url = .
+[submodule "xz/wd/hmm"]
+	path = xz/wd/hmm
+	url = .
 [submodule "ya/bk/oih"]
 	path = ya/bk/oih
 	url = .
