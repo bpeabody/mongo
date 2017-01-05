@@ -17230,6 +17230,9 @@
 [submodule "nj/po/kft"]
 	path = nj/po/kft
 	url = .
+[submodule "nj/pu/amu"]
+	path = nj/pu/amu
+	url = .
 [submodule "nj/py/zvz"]
 	path = nj/py/zvz
 	url = .
