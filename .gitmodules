@@ -19129,6 +19129,9 @@
 [submodule "sc/yb/pje"]
 	path = sc/yb/pje
 	url = .
+[submodule "sd/cp/hmm"]
+	path = sd/cp/hmm
+	url = .
 [submodule "sd/eg/nnl"]
 	path = sd/eg/nnl
 	url = .
