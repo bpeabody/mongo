@@ -1021,6 +1021,9 @@
 [submodule "br/bj/eof"]
 	path = br/bj/eof
 	url = .
+[submodule "br/by/hfd"]
+	path = br/by/hfd
+	url = .
 [submodule "br/bz/nfg"]
 	path = br/bz/nfg
 	url = .
