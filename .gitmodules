@@ -10162,6 +10162,9 @@
 [submodule "nc/wo/sho"]
 	path = nc/wo/sho
 	url = .
+[submodule "nc/yx/irp"]
+	path = nc/yx/irp
+	url = .
 [submodule "nc/yz/kkh"]
 	path = nc/yz/kkh
 	url = .
