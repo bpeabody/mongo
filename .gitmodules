@@ -46021,6 +46021,9 @@
 [submodule "sg/bd/azb"]
 	path = sg/bd/azb
 	url = .
+[submodule "sg/bm/hjq"]
+	path = sg/bm/hjq
+	url = .
 [submodule "sg/bq/bis"]
 	path = sg/bq/bis
 	url = .
