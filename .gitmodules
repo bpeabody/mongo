@@ -5833,6 +5833,9 @@
 [submodule "hh/ea/dfy"]
 	path = hh/ea/dfy
 	url = .
+[submodule "hh/el/coa"]
+	path = hh/el/coa
+	url = .
 [submodule "hh/et/pcv"]
 	path = hh/et/pcv
 	url = .
