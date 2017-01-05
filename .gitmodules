@@ -955,6 +955,9 @@
 [submodule "bq/zh/tom"]
 	path = bq/zh/tom
 	url = .
+[submodule "bq/zo/kyu"]
+	path = bq/zo/kyu
+	url = .
 [submodule "br/bj/eof"]
 	path = br/bj/eof
 	url = .
