@@ -994,6 +994,9 @@
 [submodule "ld/by/oxx"]
 	path = ld/by/oxx
 	url = .
+[submodule "ld/ys/rru"]
+	path = ld/ys/rru
+	url = .
 [submodule "le/sx/oco"]
 	path = le/sx/oco
 	url = .
