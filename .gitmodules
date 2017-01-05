@@ -10957,6 +10957,9 @@
 [submodule "py/xz/fia"]
 	path = py/xz/fia
 	url = .
+[submodule "py/yt/fpr"]
+	path = py/yt/fpr
+	url = .
 [submodule "pz/ao/ttt"]
 	path = pz/ao/ttt
 	url = .
