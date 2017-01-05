@@ -41239,6 +41239,9 @@
 [submodule "nz/me/vqh"]
 	path = nz/me/vqh
 	url = .
+[submodule "nz/mj/nuk"]
+	path = nz/mj/nuk
+	url = .
 [submodule "nz/mp/kyi"]
 	path = nz/mp/kyi
 	url = .
