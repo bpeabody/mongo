@@ -22552,6 +22552,9 @@
 [submodule "qj/gs/ogd"]
 	path = qj/gs/ogd
 	url = .
+[submodule "qj/gt/amu"]
+	path = qj/gt/amu
+	url = .
 [submodule "qj/hs/wtm"]
 	path = qj/hs/wtm
 	url = .
