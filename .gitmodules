@@ -66472,6 +66472,9 @@
 [submodule "zg/pg/hog"]
 	path = zg/pg/hog
 	url = .
+[submodule "zg/pm/fyz"]
+	path = zg/pm/fyz
+	url = .
 [submodule "zg/pn/pki"]
 	path = zg/pn/pki
 	url = .
