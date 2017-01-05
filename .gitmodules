@@ -16597,6 +16597,9 @@
 [submodule "hs/ae/gvg"]
 	path = hs/ae/gvg
 	url = .
+[submodule "hs/am/znh"]
+	path = hs/am/znh
+	url = .
 [submodule "hs/dm/alp"]
 	path = hs/dm/alp
 	url = .
