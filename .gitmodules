@@ -1582,6 +1582,9 @@
 [submodule "ej/ti/sty"]
 	path = ej/ti/sty
 	url = .
+[submodule "ej/wy/qrz"]
+	path = ej/wy/qrz
+	url = .
 [submodule "ek/hu/cad"]
 	path = ek/hu/cad
 	url = .
