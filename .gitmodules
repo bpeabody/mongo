@@ -4726,6 +4726,9 @@
 [submodule "gk/ac/xtc"]
 	path = gk/ac/xtc
 	url = .
+[submodule "gk/do/rdl"]
+	path = gk/do/rdl
+	url = .
 [submodule "gk/ko/xlz"]
 	path = gk/ko/xlz
 	url = .
