@@ -2977,6 +2977,9 @@
 [submodule "dl/la/sed"]
 	path = dl/la/sed
 	url = .
+[submodule "dl/mh/rjq"]
+	path = dl/mh/rjq
+	url = .
 [submodule "dl/pt/yqs"]
 	path = dl/pt/yqs
 	url = .
