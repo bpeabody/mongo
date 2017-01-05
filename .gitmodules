@@ -27097,6 +27097,9 @@
 [submodule "nk/pr/pmc"]
 	path = nk/pr/pmc
 	url = .
+[submodule "nk/rb/dhv"]
+	path = nk/rb/dhv
+	url = .
 [submodule "nk/rf/rlb"]
 	path = nk/rf/rlb
 	url = .
