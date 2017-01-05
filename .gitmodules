@@ -1882,6 +1882,9 @@
 [submodule "gb/pd/hqj"]
 	path = gb/pd/hqj
 	url = .
+[submodule "gb/pr/wxx"]
+	path = gb/pr/wxx
+	url = .
 [submodule "gb/vy/waw"]
 	path = gb/vy/waw
 	url = .
