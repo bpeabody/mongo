@@ -3448,6 +3448,9 @@
 [submodule "jp/to/cmv"]
 	path = jp/to/cmv
 	url = .
+[submodule "jq/ci/gaz"]
+	path = jq/ci/gaz
+	url = .
 [submodule "jq/mc/oix"]
 	path = jq/mc/oix
 	url = .
