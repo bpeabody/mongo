@@ -19393,6 +19393,9 @@
 [submodule "gu/hb/gmv"]
 	path = gu/hb/gmv
 	url = .
+[submodule "gu/if/eoi"]
+	path = gu/if/eoi
+	url = .
 [submodule "gu/ii/ysc"]
 	path = gu/ii/ysc
 	url = .
