@@ -547,6 +547,9 @@
 [submodule "au/ug/ygv"]
 	path = au/ug/ygv
 	url = .
+[submodule "au/wq/sjk"]
+	path = au/wq/sjk
+	url = .
 [submodule "au/wu/rxr"]
 	path = au/wu/rxr
 	url = .
