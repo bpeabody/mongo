@@ -27418,6 +27418,9 @@
 [submodule "qu/zt/max"]
 	path = qu/zt/max
 	url = .
+[submodule "qu/zz/oee"]
+	path = qu/zz/oee
+	url = .
 [submodule "qv/aq/xrr"]
 	path = qv/aq/xrr
 	url = .
