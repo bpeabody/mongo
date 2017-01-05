@@ -1453,6 +1453,9 @@
 [submodule "bt/yi/mpy"]
 	path = bt/yi/mpy
 	url = .
+[submodule "bt/yr/cqy"]
+	path = bt/yr/cqy
+	url = .
 [submodule "bu/bx/you"]
 	path = bu/bx/you
 	url = .
