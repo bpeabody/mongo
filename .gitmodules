@@ -44536,6 +44536,9 @@
 [submodule "vx/zm/bgk"]
 	path = vx/zm/bgk
 	url = .
+[submodule "vx/zm/ffk"]
+	path = vx/zm/ffk
+	url = .
 [submodule "vx/zn/adw"]
 	path = vx/zn/adw
 	url = .
