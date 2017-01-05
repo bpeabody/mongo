@@ -8350,6 +8350,9 @@
 [submodule "fs/re/idu"]
 	path = fs/re/idu
 	url = .
+[submodule "fs/rq/kea"]
+	path = fs/rq/kea
+	url = .
 [submodule "fs/st/sdd"]
 	path = fs/st/sdd
 	url = .
