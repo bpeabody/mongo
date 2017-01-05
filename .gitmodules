@@ -26101,6 +26101,9 @@
 [submodule "oz/kq/qun"]
 	path = oz/kq/qun
 	url = .
+[submodule "oz/ma/cgk"]
+	path = oz/ma/cgk
+	url = .
 [submodule "oz/nn/tgu"]
 	path = oz/nn/tgu
 	url = .
