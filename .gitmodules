@@ -34846,6 +34846,9 @@
 [submodule "qu/le/vak"]
 	path = qu/le/vak
 	url = .
+[submodule "qu/na/jwi"]
+	path = qu/na/jwi
+	url = .
 [submodule "qu/np/aqx"]
 	path = qu/np/aqx
 	url = .
