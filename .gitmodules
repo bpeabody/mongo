@@ -52798,6 +52798,9 @@
 [submodule "sp/go/gjj"]
 	path = sp/go/gjj
 	url = .
+[submodule "sp/hc/nnq"]
+	path = sp/hc/nnq
+	url = .
 [submodule "sp/hi/tms"]
 	path = sp/hi/tms
 	url = .
