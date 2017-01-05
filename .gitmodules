@@ -676,6 +676,9 @@
 [submodule "da/gk/keh"]
 	path = da/gk/keh
 	url = .
+[submodule "da/yq/bti"]
+	path = da/yq/bti
+	url = .
 [submodule "db/aw/yos"]
 	path = db/aw/yos
 	url = .
