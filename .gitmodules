@@ -6097,6 +6097,9 @@
 [submodule "rs/ho/bmk"]
 	path = rs/ho/bmk
 	url = .
+[submodule "rt/al/dnm"]
+	path = rt/al/dnm
+	url = .
 [submodule "rt/en/jjm"]
 	path = rt/en/jjm
 	url = .
