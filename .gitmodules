@@ -1129,6 +1129,9 @@
 [submodule "ai/yx/pbh"]
 	path = ai/yx/pbh
 	url = .
+[submodule "ai/zd/dig"]
+	path = ai/zd/dig
+	url = .
 [submodule "ai/zq/nmi"]
 	path = ai/zq/nmi
 	url = .
