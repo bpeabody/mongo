@@ -30970,6 +30970,9 @@
 [submodule "tc/jw/tos"]
 	path = tc/jw/tos
 	url = .
+[submodule "tc/jy/mmn"]
+	path = tc/jy/mmn
+	url = .
 [submodule "tc/ke/qze"]
 	path = tc/ke/qze
 	url = .
