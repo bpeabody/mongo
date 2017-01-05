@@ -10285,6 +10285,9 @@
 [submodule "li/gb/mou"]
 	path = li/gb/mou
 	url = .
+[submodule "li/hq/ipv"]
+	path = li/hq/ipv
+	url = .
 [submodule "li/kt/xeu"]
 	path = li/kt/xeu
 	url = .
