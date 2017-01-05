@@ -31222,6 +31222,9 @@
 [submodule "le/vi/uzc"]
 	path = le/vi/uzc
 	url = .
+[submodule "le/wa/vij"]
+	path = le/wa/vij
+	url = .
 [submodule "le/xh/tlc"]
 	path = le/xh/tlc
 	url = .
