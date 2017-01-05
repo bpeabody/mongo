@@ -14734,6 +14734,9 @@
 [submodule "jv/do/ujm"]
 	path = jv/do/ujm
 	url = .
+[submodule "jv/du/kli"]
+	path = jv/du/kli
+	url = .
 [submodule "jv/ef/vjd"]
 	path = jv/ef/vjd
 	url = .
