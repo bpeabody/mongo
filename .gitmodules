@@ -3817,6 +3817,9 @@
 [submodule "rl/yr/qby"]
 	path = rl/yr/qby
 	url = .
+[submodule "rm/cd/cmr"]
+	path = rm/cd/cmr
+	url = .
 [submodule "rm/ft/asl"]
 	path = rm/ft/asl
 	url = .
