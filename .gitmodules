@@ -10957,6 +10957,9 @@
 [submodule "fs/px/gkk"]
 	path = fs/px/gkk
 	url = .
+[submodule "fs/qe/rht"]
+	path = fs/qe/rht
+	url = .
 [submodule "fs/qx/hdn"]
 	path = fs/qx/hdn
 	url = .
