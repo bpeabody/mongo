@@ -994,6 +994,9 @@
 [submodule "aj/aj/rez"]
 	path = aj/aj/rez
 	url = .
+[submodule "aj/be/wpi"]
+	path = aj/be/wpi
+	url = .
 [submodule "aj/bj/tmh"]
 	path = aj/bj/tmh
 	url = .
