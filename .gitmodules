@@ -10639,6 +10639,9 @@
 [submodule "kz/fl/srz"]
 	path = kz/fl/srz
 	url = .
+[submodule "kz/ka/rnd"]
+	path = kz/ka/rnd
+	url = .
 [submodule "kz/ow/xsh"]
 	path = kz/ow/xsh
 	url = .
