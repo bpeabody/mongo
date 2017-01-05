@@ -51598,6 +51598,9 @@
 [submodule "xf/bp/fsw"]
 	path = xf/bp/fsw
 	url = .
+[submodule "xf/bp/uvp"]
+	path = xf/bp/uvp
+	url = .
 [submodule "xf/do/ntc"]
 	path = xf/do/ntc
 	url = .
