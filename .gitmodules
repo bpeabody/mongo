@@ -4,6 +4,9 @@
 [submodule "fi/my/npa"]
 	path = fi/my/npa
 	url = .
+[submodule "hr/nx/kca"]
+	path = hr/nx/kca
+	url = .
 [submodule "mo/ei/xti"]
 	path = mo/ei/xti
 	url = .
