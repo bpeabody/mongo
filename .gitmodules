@@ -32437,6 +32437,9 @@
 [submodule "zb/pb/thc"]
 	path = zb/pb/thc
 	url = .
+[submodule "zb/pm/pyd"]
+	path = zb/pm/pyd
+	url = .
 [submodule "zb/qq/axk"]
 	path = zb/qq/axk
 	url = .
