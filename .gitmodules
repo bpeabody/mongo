@@ -3955,6 +3955,9 @@
 [submodule "by/ak/ipl"]
 	path = by/ak/ipl
 	url = .
+[submodule "by/al/cgc"]
+	path = by/al/cgc
+	url = .
 [submodule "by/bj/bbp"]
 	path = by/bj/bbp
 	url = .
