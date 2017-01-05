@@ -7831,6 +7831,9 @@
 [submodule "fk/jk/mwq"]
 	path = fk/jk/mwq
 	url = .
+[submodule "fk/jz/xdm"]
+	path = fk/jz/xdm
+	url = .
 [submodule "fk/mi/fac"]
 	path = fk/mi/fac
 	url = .
