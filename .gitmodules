@@ -25648,6 +25648,9 @@
 [submodule "zd/gd/nhc"]
 	path = zd/gd/nhc
 	url = .
+[submodule "zd/gk/squ"]
+	path = zd/gk/squ
+	url = .
 [submodule "zd/id/whh"]
 	path = zd/id/whh
 	url = .
