@@ -39955,6 +39955,9 @@
 [submodule "py/ca/ntf"]
 	path = py/ca/ntf
 	url = .
+[submodule "py/co/lgs"]
+	path = py/co/lgs
+	url = .
 [submodule "py/cu/gnt"]
 	path = py/cu/gnt
 	url = .
