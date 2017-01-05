@@ -4582,6 +4582,9 @@
 [submodule "co/of/qoi"]
 	path = co/of/qoi
 	url = .
+[submodule "co/qq/eof"]
+	path = co/qq/eof
+	url = .
 [submodule "co/rc/bza"]
 	path = co/rc/bza
 	url = .
