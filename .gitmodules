@@ -23665,6 +23665,9 @@
 [submodule "ye/bc/lgq"]
 	path = ye/bc/lgq
 	url = .
+[submodule "ye/cl/gtt"]
+	path = ye/cl/gtt
+	url = .
 [submodule "ye/eb/naz"]
 	path = ye/eb/naz
 	url = .
