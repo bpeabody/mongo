@@ -7534,6 +7534,9 @@
 [submodule "cm/do/npw"]
 	path = cm/do/npw
 	url = .
+[submodule "cm/ed/lif"]
+	path = cm/ed/lif
+	url = .
 [submodule "cm/ee/sdr"]
 	path = cm/ee/sdr
 	url = .
