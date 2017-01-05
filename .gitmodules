@@ -11785,6 +11785,9 @@
 [submodule "fu/ys/kbt"]
 	path = fu/ys/kbt
 	url = .
+[submodule "fu/yu/php"]
+	path = fu/yu/php
+	url = .
 [submodule "fv/ae/afo"]
 	path = fv/ae/afo
 	url = .
