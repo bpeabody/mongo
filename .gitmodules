@@ -20776,6 +20776,9 @@
 [submodule "rq/gf/oyy"]
 	path = rq/gf/oyy
 	url = .
+[submodule "rq/he/uhf"]
+	path = rq/he/uhf
+	url = .
 [submodule "rq/if/vsy"]
 	path = rq/if/vsy
 	url = .
