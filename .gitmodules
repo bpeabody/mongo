@@ -34999,6 +34999,9 @@
 [submodule "mt/qf/noy"]
 	path = mt/qf/noy
 	url = .
+[submodule "mt/qt/azu"]
+	path = mt/qt/azu
+	url = .
 [submodule "mt/qu/lmz"]
 	path = mt/qu/lmz
 	url = .
