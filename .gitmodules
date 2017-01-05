@@ -3433,6 +3433,9 @@
 [submodule "bg/sf/ert"]
 	path = bg/sf/ert
 	url = .
+[submodule "bg/tt/bhf"]
+	path = bg/tt/bhf
+	url = .
 [submodule "bg/ub/hli"]
 	path = bg/ub/hli
 	url = .
