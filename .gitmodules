@@ -21916,6 +21916,9 @@
 [submodule "qr/ge/ivz"]
 	path = qr/ge/ivz
 	url = .
+[submodule "qr/gn/otz"]
+	path = qr/gn/otz
+	url = .
 [submodule "qr/go/lpw"]
 	path = qr/go/lpw
 	url = .
