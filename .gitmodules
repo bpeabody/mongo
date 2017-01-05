@@ -66832,6 +66832,9 @@
 [submodule "zj/rz/mbg"]
 	path = zj/rz/mbg
 	url = .
+[submodule "zj/tg/ayt"]
+	path = zj/tg/ayt
+	url = .
 [submodule "zj/wi/tcj"]
 	path = zj/wi/tcj
 	url = .
