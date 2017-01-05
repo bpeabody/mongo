@@ -19894,6 +19894,9 @@
 [submodule "oe/fq/oxk"]
 	path = oe/fq/oxk
 	url = .
+[submodule "oe/gz/oqg"]
+	path = oe/gz/oqg
+	url = .
 [submodule "oe/kp/mie"]
 	path = oe/kp/mie
 	url = .
