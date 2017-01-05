@@ -20524,6 +20524,9 @@
 [submodule "ue/yq/zzk"]
 	path = ue/yq/zzk
 	url = .
+[submodule "ue/zv/huh"]
+	path = ue/zv/huh
+	url = .
 [submodule "uf/ay/ekp"]
 	path = uf/ay/ekp
 	url = .
