@@ -50050,6 +50050,9 @@
 [submodule "wt/vs/uec"]
 	path = wt/vs/uec
 	url = .
+[submodule "wt/wm/uxh"]
+	path = wt/wm/uxh
+	url = .
 [submodule "wt/wu/pdo"]
 	path = wt/wu/pdo
 	url = .
