@@ -27256,6 +27256,9 @@
 [submodule "js/ja/rgv"]
 	path = js/ja/rgv
 	url = .
+[submodule "js/jk/lwl"]
+	path = js/jk/lwl
+	url = .
 [submodule "js/jr/vlw"]
 	path = js/jr/vlw
 	url = .
