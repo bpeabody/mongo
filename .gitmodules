@@ -57664,6 +57664,9 @@
 [submodule "xt/ph/ehg"]
 	path = xt/ph/ehg
 	url = .
+[submodule "xt/qr/pix"]
+	path = xt/qr/pix
+	url = .
 [submodule "xt/qs/fun"]
 	path = xt/qs/fun
 	url = .
