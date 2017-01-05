@@ -12718,6 +12718,9 @@
 [submodule "mk/kf/uye"]
 	path = mk/kf/uye
 	url = .
+[submodule "mk/km/iqu"]
+	path = mk/km/iqu
+	url = .
 [submodule "mk/mj/wel"]
 	path = mk/mj/wel
 	url = .
