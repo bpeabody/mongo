@@ -2941,6 +2941,9 @@
 [submodule "vo/et/fgu"]
 	path = vo/et/fgu
 	url = .
+[submodule "vo/ir/nmf"]
+	path = vo/ir/nmf
+	url = .
 [submodule "vo/jq/ker"]
 	path = vo/jq/ker
 	url = .
