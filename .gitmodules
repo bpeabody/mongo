@@ -28465,6 +28465,9 @@
 [submodule "yv/db/rgb"]
 	path = yv/db/rgb
 	url = .
+[submodule "yv/ey/mpy"]
+	path = yv/ey/mpy
+	url = .
 [submodule "yv/ft/ovg"]
 	path = yv/ft/ovg
 	url = .
