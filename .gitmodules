@@ -11959,6 +11959,9 @@
 [submodule "rc/mp/dyf"]
 	path = rc/mp/dyf
 	url = .
+[submodule "rc/mt/rss"]
+	path = rc/mt/rss
+	url = .
 [submodule "rc/rv/exs"]
 	path = rc/rv/exs
 	url = .
