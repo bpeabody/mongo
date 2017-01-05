@@ -24925,6 +24925,9 @@
 [submodule "pr/ij/ktk"]
 	path = pr/ij/ktk
 	url = .
+[submodule "pr/jd/dic"]
+	path = pr/jd/dic
+	url = .
 [submodule "pr/ko/jva"]
 	path = pr/ko/jva
 	url = .
