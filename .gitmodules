@@ -12391,6 +12391,9 @@
 [submodule "fj/sl/ivg"]
 	path = fj/sl/ivg
 	url = .
+[submodule "fj/tg/mqh"]
+	path = fj/tg/mqh
+	url = .
 [submodule "fj/uk/gzd"]
 	path = fj/uk/gzd
 	url = .
