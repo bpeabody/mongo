@@ -32266,6 +32266,9 @@
 [submodule "mq/sv/tac"]
 	path = mq/sv/tac
 	url = .
+[submodule "mq/to/vad"]
+	path = mq/to/vad
+	url = .
 [submodule "mq/ts/fky"]
 	path = mq/ts/fky
 	url = .
