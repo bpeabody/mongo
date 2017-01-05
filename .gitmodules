@@ -8431,6 +8431,9 @@
 [submodule "el/de/ykd"]
 	path = el/de/ykd
 	url = .
+[submodule "el/dg/isq"]
+	path = el/dg/isq
+	url = .
 [submodule "el/eo/iyg"]
 	path = el/eo/iyg
 	url = .
