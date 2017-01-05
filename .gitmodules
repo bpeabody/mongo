@@ -43645,6 +43645,9 @@
 [submodule "os/wg/bzu"]
 	path = os/wg/bzu
 	url = .
+[submodule "os/wl/pdw"]
+	path = os/wl/pdw
+	url = .
 [submodule "os/xm/wth"]
 	path = os/xm/wth
 	url = .
