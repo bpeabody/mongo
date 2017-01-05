@@ -1969,6 +1969,9 @@
 [submodule "er/wo/drv"]
 	path = er/wo/drv
 	url = .
+[submodule "er/zn/vej"]
+	path = er/zn/vej
+	url = .
 [submodule "es/cy/txn"]
 	path = es/cy/txn
 	url = .
