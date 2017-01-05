@@ -3214,6 +3214,9 @@
 [submodule "gj/hl/sct"]
 	path = gj/hl/sct
 	url = .
+[submodule "gj/ho/qbn"]
+	path = gj/ho/qbn
+	url = .
 [submodule "gj/hu/ljl"]
 	path = gj/hu/ljl
 	url = .
