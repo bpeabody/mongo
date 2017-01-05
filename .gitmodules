@@ -40018,6 +40018,9 @@
 [submodule "sw/ke/fqn"]
 	path = sw/ke/fqn
 	url = .
+[submodule "sw/lo/rre"]
+	path = sw/lo/rre
+	url = .
 [submodule "sw/lz/ati"]
 	path = sw/lz/ati
 	url = .
