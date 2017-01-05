@@ -2617,6 +2617,9 @@
 [submodule "kb/cs/zad"]
 	path = kb/cs/zad
 	url = .
+[submodule "kb/nc/meo"]
+	path = kb/nc/meo
+	url = .
 [submodule "kc/ec/acn"]
 	path = kc/ec/acn
 	url = .
