@@ -27268,6 +27268,9 @@
 [submodule "mt/fw/one"]
 	path = mt/fw/one
 	url = .
+[submodule "mt/gj/iyx"]
+	path = mt/gj/iyx
+	url = .
 [submodule "mt/gp/lvn"]
 	path = mt/gp/lvn
 	url = .
