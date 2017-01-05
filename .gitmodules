@@ -25345,6 +25345,9 @@
 [submodule "nt/kp/vwm"]
 	path = nt/kp/vwm
 	url = .
+[submodule "nt/lb/ioe"]
+	path = nt/lb/ioe
+	url = .
 [submodule "nt/mw/jvc"]
 	path = nt/mw/jvc
 	url = .
