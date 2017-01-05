@@ -1003,6 +1003,9 @@
 [submodule "ay/jy/hnm"]
 	path = ay/jy/hnm
 	url = .
+[submodule "ay/og/gnc"]
+	path = ay/og/gnc
+	url = .
 [submodule "ay/ri/kno"]
 	path = ay/ri/kno
 	url = .
