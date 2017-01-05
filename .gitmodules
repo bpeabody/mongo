@@ -943,6 +943,9 @@
 [submodule "aj/zc/smu"]
 	path = aj/zc/smu
 	url = .
+[submodule "ak/af/mnk"]
+	path = ak/af/mnk
+	url = .
 [submodule "ak/af/wwz"]
 	path = ak/af/wwz
 	url = .
