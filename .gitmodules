@@ -29251,6 +29251,9 @@
 [submodule "ju/po/sao"]
 	path = ju/po/sao
 	url = .
+[submodule "ju/ps/shg"]
+	path = ju/ps/shg
+	url = .
 [submodule "ju/qn/egb"]
 	path = ju/qn/egb
 	url = .
