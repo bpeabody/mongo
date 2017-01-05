@@ -44374,6 +44374,9 @@
 [submodule "qt/lg/tqe"]
 	path = qt/lg/tqe
 	url = .
+[submodule "qt/mo/jxg"]
+	path = qt/mo/jxg
+	url = .
 [submodule "qt/ms/whi"]
 	path = qt/ms/whi
 	url = .
