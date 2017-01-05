@@ -54040,6 +54040,9 @@
 [submodule "ud/qh/nin"]
 	path = ud/qh/nin
 	url = .
+[submodule "ud/qr/qiw"]
+	path = ud/qr/qiw
+	url = .
 [submodule "ud/rl/mmj"]
 	path = ud/rl/mmj
 	url = .
