@@ -40501,6 +40501,9 @@
 [submodule "tv/da/qdf"]
 	path = tv/da/qdf
 	url = .
+[submodule "tv/es/mvz"]
+	path = tv/es/mvz
+	url = .
 [submodule "tv/gl/msr"]
 	path = tv/gl/msr
 	url = .
