@@ -3526,6 +3526,9 @@
 [submodule "be/zc/gem"]
 	path = be/zc/gem
 	url = .
+[submodule "be/zl/kre"]
+	path = be/zl/kre
+	url = .
 [submodule "bf/ad/gbb"]
 	path = bf/ad/gbb
 	url = .
