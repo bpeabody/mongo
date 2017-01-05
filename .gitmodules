@@ -9925,6 +9925,9 @@
 [submodule "ly/rm/umx"]
 	path = ly/rm/umx
 	url = .
+[submodule "ly/zw/vmr"]
+	path = ly/zw/vmr
+	url = .
 [submodule "lz/dz/msa"]
 	path = lz/dz/msa
 	url = .
