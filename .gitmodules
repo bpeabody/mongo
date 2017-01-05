@@ -54703,6 +54703,9 @@
 [submodule "th/ff/njt"]
 	path = th/ff/njt
 	url = .
+[submodule "th/hl/egd"]
+	path = th/hl/egd
+	url = .
 [submodule "th/ic/ita"]
 	path = th/ic/ita
 	url = .
