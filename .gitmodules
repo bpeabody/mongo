@@ -10831,6 +10831,9 @@
 [submodule "lr/qk/snc"]
 	path = lr/qk/snc
 	url = .
+[submodule "lr/qm/hya"]
+	path = lr/qm/hya
+	url = .
 [submodule "lr/ww/qds"]
 	path = lr/ww/qds
 	url = .
