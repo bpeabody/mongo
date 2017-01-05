@@ -25741,6 +25741,9 @@
 [submodule "jt/lj/upn"]
 	path = jt/lj/upn
 	url = .
+[submodule "jt/mo/qno"]
+	path = jt/mo/qno
+	url = .
 [submodule "jt/ni/fpn"]
 	path = jt/ni/fpn
 	url = .
