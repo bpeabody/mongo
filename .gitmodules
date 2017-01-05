@@ -4429,6 +4429,9 @@
 [submodule "fo/at/uzx"]
 	path = fo/at/uzx
 	url = .
+[submodule "fo/gp/rxq"]
+	path = fo/gp/rxq
+	url = .
 [submodule "fo/hh/cav"]
 	path = fo/hh/cav
 	url = .
