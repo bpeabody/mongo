@@ -14341,6 +14341,9 @@
 [submodule "oo/qq/wyd"]
 	path = oo/qq/wyd
 	url = .
+[submodule "oo/rt/bok"]
+	path = oo/rt/bok
+	url = .
 [submodule "oo/vz/uoz"]
 	path = oo/vz/uoz
 	url = .
