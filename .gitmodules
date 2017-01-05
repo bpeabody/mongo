@@ -13,6 +13,9 @@
 [submodule "ab/cw/npg"]
 	path = ab/cw/npg
 	url = .
+[submodule "ab/gf/yia"]
+	path = ab/gf/yia
+	url = .
 [submodule "ab/ix/onx"]
 	path = ab/ix/onx
 	url = .
