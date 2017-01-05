@@ -5893,6 +5893,9 @@
 [submodule "hn/be/klz"]
 	path = hn/be/klz
 	url = .
+[submodule "hn/bz/afw"]
+	path = hn/bz/afw
+	url = .
 [submodule "hn/es/hhq"]
 	path = hn/es/hhq
 	url = .
