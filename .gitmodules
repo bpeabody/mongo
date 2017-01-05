@@ -11539,6 +11539,9 @@
 [submodule "ip/ft/fim"]
 	path = ip/ft/fim
 	url = .
+[submodule "ip/hq/bbj"]
+	path = ip/hq/bbj
+	url = .
 [submodule "ip/hu/qzv"]
 	path = ip/hu/qzv
 	url = .
