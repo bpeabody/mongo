@@ -34111,6 +34111,9 @@
 [submodule "nt/bd/eud"]
 	path = nt/bd/eud
 	url = .
+[submodule "nt/co/vkw"]
+	path = nt/co/vkw
+	url = .
 [submodule "nt/eg/ukj"]
 	path = nt/eg/ukj
 	url = .
