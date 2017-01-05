@@ -6445,6 +6445,9 @@
 [submodule "ed/ru/xoz"]
 	path = ed/ru/xoz
 	url = .
+[submodule "ed/sr/fzw"]
+	path = ed/sr/fzw
+	url = .
 [submodule "ed/sw/wvs"]
 	path = ed/sw/wvs
 	url = .
