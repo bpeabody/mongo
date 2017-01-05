@@ -7180,6 +7180,9 @@
 [submodule "dl/qc/mbw"]
 	path = dl/qc/mbw
 	url = .
+[submodule "dl/qw/etp"]
+	path = dl/qw/etp
+	url = .
 [submodule "dl/rb/mrc"]
 	path = dl/rb/mrc
 	url = .
