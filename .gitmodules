@@ -4564,6 +4564,9 @@
 [submodule "rb/tl/heu"]
 	path = rb/tl/heu
 	url = .
+[submodule "rb/uj/nkb"]
+	path = rb/uj/nkb
+	url = .
 [submodule "rc/am/zmb"]
 	path = rc/am/zmb
 	url = .
