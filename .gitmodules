@@ -4918,6 +4918,9 @@
 [submodule "hp/kh/wul"]
 	path = hp/kh/wul
 	url = .
+[submodule "hp/mu/gac"]
+	path = hp/mu/gac
+	url = .
 [submodule "hp/pm/bcp"]
 	path = hp/pm/bcp
 	url = .
