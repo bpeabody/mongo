@@ -262,6 +262,9 @@
 [submodule "ex/hx/jks"]
 	path = ex/hx/jks
 	url = .
+[submodule "ez/gd/rka"]
+	path = ez/gd/rka
+	url = .
 [submodule "fb/ji/hks"]
 	path = fb/ji/hks
 	url = .
