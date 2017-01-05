@@ -25753,6 +25753,9 @@
 [submodule "pq/jy/cyi"]
 	path = pq/jy/cyi
 	url = .
+[submodule "pq/kp/xdp"]
+	path = pq/kp/xdp
+	url = .
 [submodule "pq/nc/pth"]
 	path = pq/nc/pth
 	url = .
