@@ -23137,6 +23137,9 @@
 [submodule "kg/eu/ctx"]
 	path = kg/eu/ctx
 	url = .
+[submodule "kg/fp/omq"]
+	path = kg/fp/omq
+	url = .
 [submodule "kg/ib/ahh"]
 	path = kg/ib/ahh
 	url = .
