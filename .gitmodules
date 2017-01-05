@@ -8113,6 +8113,9 @@
 [submodule "cr/nx/lvx"]
 	path = cr/nx/lvx
 	url = .
+[submodule "cr/ol/vsp"]
+	path = cr/ol/vsp
+	url = .
 [submodule "cr/or/ean"]
 	path = cr/or/ean
 	url = .
