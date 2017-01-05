@@ -8155,6 +8155,9 @@
 [submodule "nz/oe/nox"]
 	path = nz/oe/nox
 	url = .
+[submodule "nz/pb/qps"]
+	path = nz/pb/qps
+	url = .
 [submodule "nz/qr/rdi"]
 	path = nz/qr/rdi
 	url = .
