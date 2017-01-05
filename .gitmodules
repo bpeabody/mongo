@@ -15295,6 +15295,9 @@
 [submodule "lj/ht/jqh"]
 	path = lj/ht/jqh
 	url = .
+[submodule "lj/pm/hwr"]
+	path = lj/pm/hwr
+	url = .
 [submodule "lj/rh/tju"]
 	path = lj/rh/tju
 	url = .
