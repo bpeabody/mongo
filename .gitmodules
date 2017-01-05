@@ -29233,6 +29233,9 @@
 [submodule "xx/ep/eaf"]
 	path = xx/ep/eaf
 	url = .
+[submodule "xx/eq/joe"]
+	path = xx/eq/joe
+	url = .
 [submodule "xx/jb/dks"]
 	path = xx/jb/dks
 	url = .
