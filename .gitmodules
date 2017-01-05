@@ -17587,6 +17587,9 @@
 [submodule "iv/ga/veo"]
 	path = iv/ga/veo
 	url = .
+[submodule "iv/ge/ksx"]
+	path = iv/ge/ksx
+	url = .
 [submodule "iv/ia/htx"]
 	path = iv/ia/htx
 	url = .
