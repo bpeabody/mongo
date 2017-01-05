@@ -22495,6 +22495,9 @@
 [submodule "np/iq/zzt"]
 	path = np/iq/zzt
 	url = .
+[submodule "np/jh/gan"]
+	path = np/jh/gan
+	url = .
 [submodule "np/kd/key"]
 	path = np/kd/key
 	url = .
