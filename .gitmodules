@@ -45247,6 +45247,9 @@
 [submodule "pk/dp/ckg"]
 	path = pk/dp/ckg
 	url = .
+[submodule "pk/ec/xko"]
+	path = pk/ec/xko
+	url = .
 [submodule "pk/ei/ttf"]
 	path = pk/ei/ttf
 	url = .
