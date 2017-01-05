@@ -52705,6 +52705,9 @@
 [submodule "si/pv/pow"]
 	path = si/pv/pow
 	url = .
+[submodule "si/py/jmm"]
+	path = si/py/jmm
+	url = .
 [submodule "si/qv/iea"]
 	path = si/qv/iea
 	url = .
