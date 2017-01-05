@@ -8155,6 +8155,9 @@
 [submodule "qa/cl/qhu"]
 	path = qa/cl/qhu
 	url = .
+[submodule "qa/de/nmu"]
+	path = qa/de/nmu
+	url = .
 [submodule "qa/gn/ggc"]
 	path = qa/gn/ggc
 	url = .
