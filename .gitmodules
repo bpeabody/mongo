@@ -655,6 +655,9 @@
 [submodule "ie/du/con"]
 	path = ie/du/con
 	url = .
+[submodule "ie/rj/vqu"]
+	path = ie/rj/vqu
+	url = .
 [submodule "if/uj/vjx"]
 	path = if/uj/vjx
 	url = .
