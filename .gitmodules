@@ -19423,6 +19423,9 @@
 [submodule "ql/xw/sdo"]
 	path = ql/xw/sdo
 	url = .
+[submodule "ql/xw/thl"]
+	path = ql/xw/thl
+	url = .
 [submodule "ql/xy/nyo"]
 	path = ql/xy/nyo
 	url = .
