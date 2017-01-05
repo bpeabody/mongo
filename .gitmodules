@@ -6853,6 +6853,9 @@
 [submodule "qv/tc/fof"]
 	path = qv/tc/fof
 	url = .
+[submodule "qv/vm/pgm"]
+	path = qv/vm/pgm
+	url = .
 [submodule "qv/vp/lva"]
 	path = qv/vp/lva
 	url = .
