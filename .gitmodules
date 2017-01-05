@@ -32899,6 +32899,9 @@
 [submodule "te/rf/uoo"]
 	path = te/rf/uoo
 	url = .
+[submodule "te/um/nde"]
+	path = te/um/nde
+	url = .
 [submodule "te/wt/bmn"]
 	path = te/wt/bmn
 	url = .
