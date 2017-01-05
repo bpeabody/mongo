@@ -38740,6 +38740,9 @@
 [submodule "xq/fv/mfe"]
 	path = xq/fv/mfe
 	url = .
+[submodule "xq/hr/jsx"]
+	path = xq/hr/jsx
+	url = .
 [submodule "xq/id/gyr"]
 	path = xq/id/gyr
 	url = .
