@@ -7504,6 +7504,9 @@
 [submodule "gx/cb/qvs"]
 	path = gx/cb/qvs
 	url = .
+[submodule "gx/cn/ztc"]
+	path = gx/cn/ztc
+	url = .
 [submodule "gx/iw/qnr"]
 	path = gx/iw/qnr
 	url = .
