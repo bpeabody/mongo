@@ -9637,6 +9637,9 @@
 [submodule "fr/he/ufm"]
 	path = fr/he/ufm
 	url = .
+[submodule "fr/hl/kra"]
+	path = fr/hl/kra
+	url = .
 [submodule "fr/jw/eab"]
 	path = fr/jw/eab
 	url = .
