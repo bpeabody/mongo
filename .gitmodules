@@ -26188,6 +26188,9 @@
 [submodule "qi/lt/ssa"]
 	path = qi/lt/ssa
 	url = .
+[submodule "qi/ps/uzf"]
+	path = qi/ps/uzf
+	url = .
 [submodule "qi/qa/dpi"]
 	path = qi/qa/dpi
 	url = .
