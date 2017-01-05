@@ -17020,6 +17020,9 @@
 [submodule "fy/ci/rjq"]
 	path = fy/ci/rjq
 	url = .
+[submodule "fy/cw/hbe"]
+	path = fy/cw/hbe
+	url = .
 [submodule "fy/cy/zax"]
 	path = fy/cy/zax
 	url = .
