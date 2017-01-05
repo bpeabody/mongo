@@ -33325,6 +33325,9 @@
 [submodule "uk/gv/vhn"]
 	path = uk/gv/vhn
 	url = .
+[submodule "uk/hh/jui"]
+	path = uk/hh/jui
+	url = .
 [submodule "uk/hm/kio"]
 	path = uk/hm/kio
 	url = .
