@@ -20359,6 +20359,9 @@
 [submodule "mi/ro/tgl"]
 	path = mi/ro/tgl
 	url = .
+[submodule "mi/sj/yvp"]
+	path = mi/sj/yvp
+	url = .
 [submodule "mi/tj/yzx"]
 	path = mi/tj/yzx
 	url = .
