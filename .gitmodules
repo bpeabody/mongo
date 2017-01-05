@@ -41248,6 +41248,9 @@
 [submodule "tr/op/ycs"]
 	path = tr/op/ycs
 	url = .
+[submodule "tr/pv/lsh"]
+	path = tr/pv/lsh
+	url = .
 [submodule "tr/qg/aub"]
 	path = tr/qg/aub
 	url = .
