@@ -25795,6 +25795,9 @@
 [submodule "wy/iy/uxw"]
 	path = wy/iy/uxw
 	url = .
+[submodule "wy/lg/ice"]
+	path = wy/lg/ice
+	url = .
 [submodule "wy/mb/qdd"]
 	path = wy/mb/qdd
 	url = .
