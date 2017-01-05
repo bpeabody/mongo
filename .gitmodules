@@ -5125,6 +5125,9 @@
 [submodule "fg/ix/yqm"]
 	path = fg/ix/yqm
 	url = .
+[submodule "fg/js/azs"]
+	path = fg/js/azs
+	url = .
 [submodule "fg/kn/yug"]
 	path = fg/kn/yug
 	url = .
