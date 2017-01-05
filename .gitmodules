@@ -1744,6 +1744,9 @@
 [submodule "hq/uw/iwi"]
 	path = hq/uw/iwi
 	url = .
+[submodule "hr/kl/mff"]
+	path = hr/kl/mff
+	url = .
 [submodule "hr/nx/kca"]
 	path = hr/nx/kca
 	url = .
