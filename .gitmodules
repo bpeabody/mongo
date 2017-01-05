@@ -6763,6 +6763,9 @@
 [submodule "cz/ej/nde"]
 	path = cz/ej/nde
 	url = .
+[submodule "cz/fp/bvs"]
+	path = cz/fp/bvs
+	url = .
 [submodule "cz/fr/tlp"]
 	path = cz/fr/tlp
 	url = .
