@@ -27136,6 +27136,9 @@
 [submodule "py/yt/fpr"]
 	path = py/yt/fpr
 	url = .
+[submodule "py/zs/kqp"]
+	path = py/zs/kqp
+	url = .
 [submodule "pz/ai/zbo"]
 	path = pz/ai/zbo
 	url = .
