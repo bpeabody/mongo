@@ -52798,6 +52798,9 @@
 [submodule "yz/pr/nlq"]
 	path = yz/pr/nlq
 	url = .
+[submodule "yz/qz/kpu"]
+	path = yz/qz/kpu
+	url = .
 [submodule "yz/sw/gnm"]
 	path = yz/sw/gnm
 	url = .
