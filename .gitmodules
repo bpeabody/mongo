@@ -1939,6 +1939,9 @@
 [submodule "kd/mq/wbd"]
 	path = kd/mq/wbd
 	url = .
+[submodule "kf/sv/bry"]
+	path = kf/sv/bry
+	url = .
 [submodule "kf/vq/zdm"]
 	path = kf/vq/zdm
 	url = .
