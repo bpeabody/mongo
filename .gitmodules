@@ -14131,6 +14131,9 @@
 [submodule "hw/fu/hds"]
 	path = hw/fu/hds
 	url = .
+[submodule "hw/fz/mhw"]
+	path = hw/fz/mhw
+	url = .
 [submodule "hw/hf/hca"]
 	path = hw/hf/hca
 	url = .
