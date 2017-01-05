@@ -2227,6 +2227,9 @@
 [submodule "wv/mc/wlc"]
 	path = wv/mc/wlc
 	url = .
+[submodule "ww/ep/zdj"]
+	path = ww/ep/zdj
+	url = .
 [submodule "ww/ws/wsi"]
 	path = ww/ws/wsi
 	url = .
