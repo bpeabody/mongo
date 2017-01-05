@@ -18730,6 +18730,9 @@
 [submodule "hy/cv/jnu"]
 	path = hy/cv/jnu
 	url = .
+[submodule "hy/eg/hdf"]
+	path = hy/eg/hdf
+	url = .
 [submodule "hy/ev/mgw"]
 	path = hy/ev/mgw
 	url = .
