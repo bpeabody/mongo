@@ -18550,6 +18550,9 @@
 [submodule "jn/kl/dho"]
 	path = jn/kl/dho
 	url = .
+[submodule "jn/lb/jqy"]
+	path = jn/lb/jqy
+	url = .
 [submodule "jn/om/svx"]
 	path = jn/om/svx
 	url = .
