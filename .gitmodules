@@ -9343,6 +9343,9 @@
 [submodule "df/ak/ekl"]
 	path = df/ak/ekl
 	url = .
+[submodule "df/aq/vql"]
+	path = df/aq/vql
+	url = .
 [submodule "df/bf/rcc"]
 	path = df/bf/rcc
 	url = .
