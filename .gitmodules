@@ -28666,6 +28666,9 @@
 [submodule "km/rm/pia"]
 	path = km/rm/pia
 	url = .
+[submodule "km/vp/hwg"]
+	path = km/vp/hwg
+	url = .
 [submodule "km/we/sfp"]
 	path = km/we/sfp
 	url = .
