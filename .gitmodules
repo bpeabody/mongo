@@ -35506,6 +35506,9 @@
 [submodule "nm/tg/eey"]
 	path = nm/tg/eey
 	url = .
+[submodule "nm/ux/fym"]
+	path = nm/ux/fym
+	url = .
 [submodule "nm/vv/flf"]
 	path = nm/vv/flf
 	url = .
