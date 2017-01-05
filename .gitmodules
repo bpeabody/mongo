@@ -7513,6 +7513,9 @@
 [submodule "ft/zw/pqe"]
 	path = ft/zw/pqe
 	url = .
+[submodule "fu/ak/rnm"]
+	path = fu/ak/rnm
+	url = .
 [submodule "fu/ba/sif"]
 	path = fu/ba/sif
 	url = .
