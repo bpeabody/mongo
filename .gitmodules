@@ -16567,6 +16567,9 @@
 [submodule "gn/bh/amf"]
 	path = gn/bh/amf
 	url = .
+[submodule "gn/bm/bgp"]
+	path = gn/bm/bgp
+	url = .
 [submodule "gn/er/vcu"]
 	path = gn/er/vcu
 	url = .
