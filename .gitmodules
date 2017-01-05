@@ -47887,6 +47887,9 @@
 [submodule "wl/ak/tsu"]
 	path = wl/ak/tsu
 	url = .
+[submodule "wl/bb/vlv"]
+	path = wl/bb/vlv
+	url = .
 [submodule "wl/bi/qrk"]
 	path = wl/bi/qrk
 	url = .
