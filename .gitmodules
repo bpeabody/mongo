@@ -2530,6 +2530,9 @@
 [submodule "ef/lf/tes"]
 	path = ef/lf/tes
 	url = .
+[submodule "ef/sg/yqc"]
+	path = ef/sg/yqc
+	url = .
 [submodule "ef/yg/qaw"]
 	path = ef/yg/qaw
 	url = .
