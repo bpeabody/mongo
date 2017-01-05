@@ -6748,6 +6748,9 @@
 [submodule "ci/av/gpk"]
 	path = ci/av/gpk
 	url = .
+[submodule "ci/bz/idq"]
+	path = ci/bz/idq
+	url = .
 [submodule "ci/ca/xex"]
 	path = ci/ca/xex
 	url = .
