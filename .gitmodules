@@ -8314,6 +8314,9 @@
 [submodule "se/lr/sqo"]
 	path = se/lr/sqo
 	url = .
+[submodule "se/me/aor"]
+	path = se/me/aor
+	url = .
 [submodule "se/qx/wac"]
 	path = se/qx/wac
 	url = .
