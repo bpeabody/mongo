@@ -7726,6 +7726,9 @@
 [submodule "zs/nc/tdc"]
 	path = zs/nc/tdc
 	url = .
+[submodule "zt/bd/mqw"]
+	path = zt/bd/mqw
+	url = .
 [submodule "zt/cp/rva"]
 	path = zt/cp/rva
 	url = .
