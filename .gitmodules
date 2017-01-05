@@ -6631,6 +6631,9 @@
 [submodule "dp/wf/vyx"]
 	path = dp/wf/vyx
 	url = .
+[submodule "dp/wr/onb"]
+	path = dp/wr/onb
+	url = .
 [submodule "dp/xr/wro"]
 	path = dp/xr/wro
 	url = .
