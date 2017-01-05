@@ -19150,6 +19150,9 @@
 [submodule "jv/no/vqn"]
 	path = jv/no/vqn
 	url = .
+[submodule "jv/oz/hsl"]
+	path = jv/oz/hsl
+	url = .
 [submodule "jv/qx/qip"]
 	path = jv/qx/qip
 	url = .
