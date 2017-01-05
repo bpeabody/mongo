@@ -29074,6 +29074,9 @@
 [submodule "jz/kx/oys"]
 	path = jz/kx/oys
 	url = .
+[submodule "jz/ky/gsc"]
+	path = jz/ky/gsc
+	url = .
 [submodule "jz/lq/adh"]
 	path = jz/lq/adh
 	url = .
