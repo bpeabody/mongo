@@ -1267,6 +1267,9 @@
 [submodule "cv/uo/wbd"]
 	path = cv/uo/wbd
 	url = .
+[submodule "cv/xq/olr"]
+	path = cv/xq/olr
+	url = .
 [submodule "cw/lw/twe"]
 	path = cw/lw/twe
 	url = .
