@@ -7306,6 +7306,9 @@
 [submodule "kq/kz/mrq"]
 	path = kq/kz/mrq
 	url = .
+[submodule "kq/pk/ark"]
+	path = kq/pk/ark
+	url = .
 [submodule "kq/vm/ozg"]
 	path = kq/vm/ozg
 	url = .
