@@ -12361,6 +12361,9 @@
 [submodule "ro/vy/pqb"]
 	path = ro/vy/pqb
 	url = .
+[submodule "ro/xg/xpg"]
+	path = ro/xg/xpg
+	url = .
 [submodule "rp/al/iwr"]
 	path = rp/al/iwr
 	url = .
