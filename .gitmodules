@@ -20500,6 +20500,9 @@
 [submodule "xz/wd/hmm"]
 	path = xz/wd/hmm
 	url = .
+[submodule "xz/xn/tig"]
+	path = xz/xn/tig
+	url = .
 [submodule "xz/zu/rnb"]
 	path = xz/zu/rnb
 	url = .
