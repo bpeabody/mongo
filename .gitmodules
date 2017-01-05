@@ -2860,6 +2860,9 @@
 [submodule "ru/um/cbp"]
 	path = ru/um/cbp
 	url = .
+[submodule "ru/vq/mmk"]
+	path = ru/vq/mmk
+	url = .
 [submodule "rv/cv/kkk"]
 	path = rv/cv/kkk
 	url = .
