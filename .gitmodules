@@ -8194,6 +8194,9 @@
 [submodule "ld/ys/rru"]
 	path = ld/ys/rru
 	url = .
+[submodule "le/dp/gkm"]
+	path = le/dp/gkm
+	url = .
 [submodule "le/fr/qxy"]
 	path = le/fr/qxy
 	url = .
