@@ -29338,6 +29338,9 @@
 [submodule "or/bj/lja"]
 	path = or/bj/lja
 	url = .
+[submodule "or/cs/vct"]
+	path = or/cs/vct
+	url = .
 [submodule "or/dr/pyg"]
 	path = or/dr/pyg
 	url = .
