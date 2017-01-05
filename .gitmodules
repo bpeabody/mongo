@@ -45922,6 +45922,9 @@
 [submodule "vt/uc/bzv"]
 	path = vt/uc/bzv
 	url = .
+[submodule "vt/ug/ooq"]
+	path = vt/ug/ooq
+	url = .
 [submodule "vt/vh/njs"]
 	path = vt/vh/njs
 	url = .
