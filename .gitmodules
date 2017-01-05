@@ -16597,6 +16597,9 @@
 [submodule "kd/we/tcp"]
 	path = kd/we/tcp
 	url = .
+[submodule "kd/yr/jxl"]
+	path = kd/yr/jxl
+	url = .
 [submodule "kd/yu/ped"]
 	path = kd/yu/ped
 	url = .
