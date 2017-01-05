@@ -7699,6 +7699,9 @@
 [submodule "ez/gd/rka"]
 	path = ez/gd/rka
 	url = .
+[submodule "ez/gi/jhg"]
+	path = ez/gi/jhg
+	url = .
 [submodule "ez/gl/jbh"]
 	path = ez/gl/jbh
 	url = .
