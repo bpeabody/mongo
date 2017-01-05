@@ -25354,6 +25354,9 @@
 [submodule "sg/hy/ugo"]
 	path = sg/hy/ugo
 	url = .
+[submodule "sg/ij/djy"]
+	path = sg/ij/djy
+	url = .
 [submodule "sg/jw/cmm"]
 	path = sg/jw/cmm
 	url = .
