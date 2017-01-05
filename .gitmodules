@@ -8167,6 +8167,9 @@
 [submodule "jw/ch/bvs"]
 	path = jw/ch/bvs
 	url = .
+[submodule "jw/ci/tua"]
+	path = jw/ci/tua
+	url = .
 [submodule "jw/dg/aqr"]
 	path = jw/dg/aqr
 	url = .
