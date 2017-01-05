@@ -18190,6 +18190,9 @@
 [submodule "mj/mo/eii"]
 	path = mj/mo/eii
 	url = .
+[submodule "mj/qc/bkp"]
+	path = mj/qc/bkp
+	url = .
 [submodule "mj/ry/pxq"]
 	path = mj/ry/pxq
 	url = .
