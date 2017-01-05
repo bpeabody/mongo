@@ -10390,6 +10390,9 @@
 [submodule "os/zi/hfq"]
 	path = os/zi/hfq
 	url = .
+[submodule "ot/en/aev"]
+	path = ot/en/aev
+	url = .
 [submodule "ot/op/pfa"]
 	path = ot/op/pfa
 	url = .
