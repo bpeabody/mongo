@@ -10789,6 +10789,9 @@
 [submodule "fn/ux/cpt"]
 	path = fn/ux/cpt
 	url = .
+[submodule "fn/wt/kxt"]
+	path = fn/wt/kxt
+	url = .
 [submodule "fn/wy/nor"]
 	path = fn/wy/nor
 	url = .
