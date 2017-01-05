@@ -35170,6 +35170,9 @@
 [submodule "ma/xj/thc"]
 	path = ma/xj/thc
 	url = .
+[submodule "ma/xm/sdu"]
+	path = ma/xm/sdu
+	url = .
 [submodule "ma/xs/pxx"]
 	path = ma/xs/pxx
 	url = .
