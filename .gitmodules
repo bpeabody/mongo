@@ -1051,6 +1051,9 @@
 [submodule "co/rm/exh"]
 	path = co/rm/exh
 	url = .
+[submodule "co/sc/aho"]
+	path = co/sc/aho
+	url = .
 [submodule "cp/ag/hmu"]
 	path = cp/ag/hmu
 	url = .
