@@ -14239,6 +14239,9 @@
 [submodule "gi/mb/zdx"]
 	path = gi/mb/zdx
 	url = .
+[submodule "gi/md/jrx"]
+	path = gi/md/jrx
+	url = .
 [submodule "gi/me/nfw"]
 	path = gi/me/nfw
 	url = .
