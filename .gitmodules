@@ -3088,6 +3088,9 @@
 [submodule "bi/rq/rdc"]
 	path = bi/rq/rdc
 	url = .
+[submodule "bi/sr/tlx"]
+	path = bi/sr/tlx
+	url = .
 [submodule "bi/ti/vmq"]
 	path = bi/ti/vmq
 	url = .
