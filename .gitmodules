@@ -15673,6 +15673,9 @@
 [submodule "fp/sp/fqb"]
 	path = fp/sp/fqb
 	url = .
+[submodule "fp/sw/hdk"]
+	path = fp/sw/hdk
+	url = .
 [submodule "fp/sz/ixu"]
 	path = fp/sz/ixu
 	url = .
