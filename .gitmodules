@@ -385,6 +385,9 @@
 [submodule "on/vh/ytb"]
 	path = on/vh/ytb
 	url = .
+[submodule "or/hk/eif"]
+	path = or/hk/eif
+	url = .
 [submodule "os/cs/nyc"]
 	path = os/cs/nyc
 	url = .
