@@ -14380,6 +14380,9 @@
 [submodule "ne/nx/pel"]
 	path = ne/nx/pel
 	url = .
+[submodule "ne/ph/qdc"]
+	path = ne/ph/qdc
+	url = .
 [submodule "ne/ph/val"]
 	path = ne/ph/val
 	url = .
