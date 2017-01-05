@@ -37429,6 +37429,9 @@
 [submodule "td/pj/vow"]
 	path = td/pj/vow
 	url = .
+[submodule "td/pr/kxi"]
+	path = td/pr/kxi
+	url = .
 [submodule "td/pu/rhz"]
 	path = td/pu/rhz
 	url = .
