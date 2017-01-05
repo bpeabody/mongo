@@ -15307,6 +15307,9 @@
 [submodule "hz/ai/ahp"]
 	path = hz/ai/ahp
 	url = .
+[submodule "hz/ba/sfp"]
+	path = hz/ba/sfp
+	url = .
 [submodule "hz/ca/ijp"]
 	path = hz/ca/ijp
 	url = .
