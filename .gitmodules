@@ -23881,6 +23881,9 @@
 [submodule "uq/gv/haz"]
 	path = uq/gv/haz
 	url = .
+[submodule "uq/hg/bew"]
+	path = uq/hg/bew
+	url = .
 [submodule "uq/jz/pjb"]
 	path = uq/jz/pjb
 	url = .
