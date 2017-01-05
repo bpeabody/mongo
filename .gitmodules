@@ -5170,6 +5170,9 @@
 [submodule "xe/gt/wqr"]
 	path = xe/gt/wqr
 	url = .
+[submodule "xe/lw/gbb"]
+	path = xe/lw/gbb
+	url = .
 [submodule "xe/qv/bka"]
 	path = xe/qv/bka
 	url = .
