@@ -43588,6 +43588,9 @@
 [submodule "qp/ay/saa"]
 	path = qp/ay/saa
 	url = .
+[submodule "qp/dp/hgx"]
+	path = qp/dp/hgx
+	url = .
 [submodule "qp/ds/jwj"]
 	path = qp/ds/jwj
 	url = .
