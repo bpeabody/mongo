@@ -2428,6 +2428,9 @@
 [submodule "hu/nr/xtl"]
 	path = hu/nr/xtl
 	url = .
+[submodule "hu/pg/sqr"]
+	path = hu/pg/sqr
+	url = .
 [submodule "hu/uq/jpy"]
 	path = hu/uq/jpy
 	url = .
