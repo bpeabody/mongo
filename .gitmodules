@@ -8659,6 +8659,9 @@
 [submodule "wh/cc/nvr"]
 	path = wh/cc/nvr
 	url = .
+[submodule "wh/dh/udd"]
+	path = wh/dh/udd
+	url = .
 [submodule "wh/ga/obo"]
 	path = wh/ga/obo
 	url = .
