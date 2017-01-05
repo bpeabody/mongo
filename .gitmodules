@@ -1660,6 +1660,9 @@
 [submodule "bl/ih/qec"]
 	path = bl/ih/qec
 	url = .
+[submodule "bl/jk/nqr"]
+	path = bl/jk/nqr
+	url = .
 [submodule "bl/jm/zij"]
 	path = bl/jm/zij
 	url = .
