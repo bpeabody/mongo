@@ -37858,6 +37858,9 @@
 [submodule "ub/qp/hwc"]
 	path = ub/qp/hwc
 	url = .
+[submodule "ub/uc/wgi"]
+	path = ub/uc/wgi
+	url = .
 [submodule "ub/vf/hkc"]
 	path = ub/vf/hkc
 	url = .
