@@ -8806,6 +8806,9 @@
 [submodule "ee/bd/ske"]
 	path = ee/bd/ske
 	url = .
+[submodule "ee/dj/jnf"]
+	path = ee/dj/jnf
+	url = .
 [submodule "ee/dy/ojj"]
 	path = ee/dy/ojj
 	url = .
