@@ -4630,6 +4630,9 @@
 [submodule "mf/dd/kec"]
 	path = mf/dd/kec
 	url = .
+[submodule "mf/ex/rlz"]
+	path = mf/ex/rlz
+	url = .
 [submodule "mf/gn/jti"]
 	path = mf/gn/jti
 	url = .
