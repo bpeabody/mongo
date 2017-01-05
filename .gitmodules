@@ -1822,6 +1822,9 @@
 [submodule "hb/eg/ksr"]
 	path = hb/eg/ksr
 	url = .
+[submodule "hb/fd/ins"]
+	path = hb/fd/ins
+	url = .
 [submodule "hb/gr/oqm"]
 	path = hb/gr/oqm
 	url = .
