@@ -1267,6 +1267,9 @@
 [submodule "hr/nx/kca"]
 	path = hr/nx/kca
 	url = .
+[submodule "hr/pd/tgy"]
+	path = hr/pd/tgy
+	url = .
 [submodule "hs/hf/vff"]
 	path = hs/hf/vff
 	url = .
