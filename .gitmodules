@@ -7012,6 +7012,9 @@
 [submodule "ci/fx/cwk"]
 	path = ci/fx/cwk
 	url = .
+[submodule "ci/gp/dcj"]
+	path = ci/gp/dcj
+	url = .
 [submodule "ci/hj/rvp"]
 	path = ci/hj/rvp
 	url = .
