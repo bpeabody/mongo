@@ -46867,6 +46867,9 @@
 [submodule "ri/cx/gsk"]
 	path = ri/cx/gsk
 	url = .
+[submodule "ri/dw/eyk"]
+	path = ri/dw/eyk
+	url = .
 [submodule "ri/fz/cod"]
 	path = ri/fz/cod
 	url = .
