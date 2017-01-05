@@ -4243,6 +4243,9 @@
 [submodule "sv/oz/aer"]
 	path = sv/oz/aer
 	url = .
+[submodule "sw/eh/hep"]
+	path = sw/eh/hep
+	url = .
 [submodule "sw/th/rtc"]
 	path = sw/th/rtc
 	url = .
