@@ -13126,6 +13126,9 @@
 [submodule "ic/qd/ttw"]
 	path = ic/qd/ttw
 	url = .
+[submodule "ic/uz/ucz"]
+	path = ic/uz/ucz
+	url = .
 [submodule "ic/wa/yyu"]
 	path = ic/wa/yyu
 	url = .
