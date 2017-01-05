@@ -39811,6 +39811,9 @@
 [submodule "vh/dj/bah"]
 	path = vh/dj/bah
 	url = .
+[submodule "vh/gk/avn"]
+	path = vh/gk/avn
+	url = .
 [submodule "vh/gl/lcb"]
 	path = vh/gl/lcb
 	url = .
