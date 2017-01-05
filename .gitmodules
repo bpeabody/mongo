@@ -55534,6 +55534,9 @@
 [submodule "uv/ed/vtk"]
 	path = uv/ed/vtk
 	url = .
+[submodule "uv/ep/nwo"]
+	path = uv/ep/nwo
+	url = .
 [submodule "uv/es/sex"]
 	path = uv/es/sex
 	url = .
