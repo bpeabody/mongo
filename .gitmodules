@@ -949,6 +949,9 @@
 [submodule "az/jv/hij"]
 	path = az/jv/hij
 	url = .
+[submodule "az/lj/mpp"]
+	path = az/lj/mpp
+	url = .
 [submodule "az/mj/vac"]
 	path = az/mj/vac
 	url = .
