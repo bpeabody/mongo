@@ -49540,6 +49540,9 @@
 [submodule "vt/la/szh"]
 	path = vt/la/szh
 	url = .
+[submodule "vt/lt/jgd"]
+	path = vt/lt/jgd
+	url = .
 [submodule "vt/ly/mew"]
 	path = vt/ly/mew
 	url = .
