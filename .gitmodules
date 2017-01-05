@@ -1438,6 +1438,9 @@
 [submodule "bn/gc/ekk"]
 	path = bn/gc/ekk
 	url = .
+[submodule "bn/gi/wav"]
+	path = bn/gi/wav
+	url = .
 [submodule "bn/hk/lat"]
 	path = bn/hk/lat
 	url = .
