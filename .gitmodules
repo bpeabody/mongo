@@ -23650,6 +23650,9 @@
 [submodule "nz/gc/kah"]
 	path = nz/gc/kah
 	url = .
+[submodule "nz/go/vsc"]
+	path = nz/go/vsc
+	url = .
 [submodule "nz/ha/cml"]
 	path = nz/ha/cml
 	url = .
