@@ -2875,6 +2875,9 @@
 [submodule "ay/as/bjb"]
 	path = ay/as/bjb
 	url = .
+[submodule "ay/bd/upv"]
+	path = ay/bd/upv
+	url = .
 [submodule "ay/bo/xqb"]
 	path = ay/bo/xqb
 	url = .
