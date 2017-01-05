@@ -36532,6 +36532,9 @@
 [submodule "nv/oo/fed"]
 	path = nv/oo/fed
 	url = .
+[submodule "nv/ov/dry"]
+	path = nv/ov/dry
+	url = .
 [submodule "nv/pt/ftc"]
 	path = nv/pt/ftc
 	url = .
