@@ -7894,6 +7894,9 @@
 [submodule "gg/db/jby"]
 	path = gg/db/jby
 	url = .
+[submodule "gg/ec/vcj"]
+	path = gg/ec/vcj
+	url = .
 [submodule "gg/jd/uma"]
 	path = gg/jd/uma
 	url = .
