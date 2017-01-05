@@ -24232,6 +24232,9 @@
 [submodule "sk/pa/fgj"]
 	path = sk/pa/fgj
 	url = .
+[submodule "sk/sg/alr"]
+	path = sk/sg/alr
+	url = .
 [submodule "sk/uv/ada"]
 	path = sk/uv/ada
 	url = .
