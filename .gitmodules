@@ -45415,6 +45415,9 @@
 [submodule "vf/bb/swi"]
 	path = vf/bb/swi
 	url = .
+[submodule "vf/bg/zvm"]
+	path = vf/bg/zvm
+	url = .
 [submodule "vf/ez/nil"]
 	path = vf/ez/nil
 	url = .
