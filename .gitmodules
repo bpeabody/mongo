@@ -2053,6 +2053,9 @@
 [submodule "hf/ju/vnz"]
 	path = hf/ju/vnz
 	url = .
+[submodule "hf/ky/rei"]
+	path = hf/ky/rei
+	url = .
 [submodule "hf/om/nit"]
 	path = hf/om/nit
 	url = .
