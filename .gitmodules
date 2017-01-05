@@ -7606,6 +7606,9 @@
 [submodule "sa/ur/xvt"]
 	path = sa/ur/xvt
 	url = .
+[submodule "sb/na/neo"]
+	path = sb/na/neo
+	url = .
 [submodule "sb/or/ceo"]
 	path = sb/or/ceo
 	url = .
