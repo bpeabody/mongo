@@ -17365,6 +17365,9 @@
 [submodule "mm/ya/jgn"]
 	path = mm/ya/jgn
 	url = .
+[submodule "mm/yp/hbi"]
+	path = mm/yp/hbi
+	url = .
 [submodule "mm/yv/fno"]
 	path = mm/yv/fno
 	url = .
