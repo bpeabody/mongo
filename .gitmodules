@@ -54454,6 +54454,9 @@
 [submodule "zk/hw/rph"]
 	path = zk/hw/rph
 	url = .
+[submodule "zk/ih/ruc"]
+	path = zk/ih/ruc
+	url = .
 [submodule "zk/jm/puh"]
 	path = zk/jm/puh
 	url = .
