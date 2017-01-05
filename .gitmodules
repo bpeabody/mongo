@@ -3295,6 +3295,9 @@
 [submodule "bl/fb/ckz"]
 	path = bl/fb/ckz
 	url = .
+[submodule "bl/fp/myw"]
+	path = bl/fp/myw
+	url = .
 [submodule "bl/ha/lvv"]
 	path = bl/ha/lvv
 	url = .
