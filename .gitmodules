@@ -22561,6 +22561,9 @@
 [submodule "rv/wh/qlu"]
 	path = rv/wh/qlu
 	url = .
+[submodule "rv/yy/ntd"]
+	path = rv/yy/ntd
+	url = .
 [submodule "rw/ay/csq"]
 	path = rw/ay/csq
 	url = .
