@@ -2890,6 +2890,9 @@
 [submodule "ua/bh/tmn"]
 	path = ua/bh/tmn
 	url = .
+[submodule "ua/ej/jiv"]
+	path = ua/ej/jiv
+	url = .
 [submodule "ua/xq/gqx"]
 	path = ua/xq/gqx
 	url = .
