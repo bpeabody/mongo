@@ -49774,6 +49774,9 @@
 [submodule "vk/vi/lvg"]
 	path = vk/vi/lvg
 	url = .
+[submodule "vk/wm/zht"]
+	path = vk/wm/zht
+	url = .
 [submodule "vk/yc/div"]
 	path = vk/yc/div
 	url = .
