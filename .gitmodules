@@ -15100,6 +15100,9 @@
 [submodule "va/jl/jcc"]
 	path = va/jl/jcc
 	url = .
+[submodule "va/na/lpn"]
+	path = va/na/lpn
+	url = .
 [submodule "va/qy/hgy"]
 	path = va/qy/hgy
 	url = .
