@@ -25336,6 +25336,9 @@
 [submodule "jc/qq/ruo"]
 	path = jc/qq/ruo
 	url = .
+[submodule "jc/ra/vps"]
+	path = jc/ra/vps
+	url = .
 [submodule "jc/ro/cqd"]
 	path = jc/ro/cqd
 	url = .
