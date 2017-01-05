@@ -2935,6 +2935,9 @@
 [submodule "ds/ma/jzx"]
 	path = ds/ma/jzx
 	url = .
+[submodule "ds/mg/dsw"]
+	path = ds/mg/dsw
+	url = .
 [submodule "ds/qo/mnn"]
 	path = ds/qo/mnn
 	url = .
