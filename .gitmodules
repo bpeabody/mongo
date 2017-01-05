@@ -39826,6 +39826,9 @@
 [submodule "qk/tg/grv"]
 	path = qk/tg/grv
 	url = .
+[submodule "qk/tp/ked"]
+	path = qk/tp/ked
+	url = .
 [submodule "qk/uj/ikd"]
 	path = qk/uj/ikd
 	url = .
