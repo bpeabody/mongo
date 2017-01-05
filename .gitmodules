@@ -42658,6 +42658,9 @@
 [submodule "pd/gh/fcv"]
 	path = pd/gh/fcv
 	url = .
+[submodule "pd/gi/bdi"]
+	path = pd/gi/bdi
+	url = .
 [submodule "pd/hf/tmr"]
 	path = pd/hf/tmr
 	url = .
