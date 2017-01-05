@@ -19681,6 +19681,9 @@
 [submodule "hp/vc/nit"]
 	path = hp/vc/nit
 	url = .
+[submodule "hp/vr/xhr"]
+	path = hp/vr/xhr
+	url = .
 [submodule "hp/vz/cjj"]
 	path = hp/vz/cjj
 	url = .
