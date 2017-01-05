@@ -3493,6 +3493,9 @@
 [submodule "bg/wc/ghx"]
 	path = bg/wc/ghx
 	url = .
+[submodule "bg/yj/ckn"]
+	path = bg/yj/ckn
+	url = .
 [submodule "bh/ac/ssd"]
 	path = bh/ac/ssd
 	url = .
