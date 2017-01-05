@@ -28612,6 +28612,9 @@
 [submodule "mb/la/did"]
 	path = mb/la/did
 	url = .
+[submodule "mb/ln/fvu"]
+	path = mb/ln/fvu
+	url = .
 [submodule "mb/my/rjq"]
 	path = mb/my/rjq
 	url = .
