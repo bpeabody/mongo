@@ -5761,6 +5761,9 @@
 [submodule "cc/mm/hzy"]
 	path = cc/mm/hzy
 	url = .
+[submodule "cc/mn/vti"]
+	path = cc/mn/vti
+	url = .
 [submodule "cc/mr/dwc"]
 	path = cc/mr/dwc
 	url = .
