@@ -4360,6 +4360,9 @@
 [submodule "yt/wh/doh"]
 	path = yt/wh/doh
 	url = .
+[submodule "yt/zq/uyh"]
+	path = yt/zq/uyh
+	url = .
 [submodule "yv/aq/smr"]
 	path = yv/aq/smr
 	url = .
