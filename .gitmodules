@@ -23884,6 +23884,9 @@
 [submodule "ua/sx/dnr"]
 	path = ua/sx/dnr
 	url = .
+[submodule "ua/sx/trh"]
+	path = ua/sx/trh
+	url = .
 [submodule "ua/tc/qgf"]
 	path = ua/tc/qgf
 	url = .
