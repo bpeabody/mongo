@@ -21283,6 +21283,9 @@
 [submodule "mx/fg/wts"]
 	path = mx/fg/wts
 	url = .
+[submodule "mx/fi/zuk"]
+	path = mx/fi/zuk
+	url = .
 [submodule "mx/fk/izs"]
 	path = mx/fk/izs
 	url = .
