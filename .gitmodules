@@ -14620,6 +14620,9 @@
 [submodule "mq/uw/eds"]
 	path = mq/uw/eds
 	url = .
+[submodule "mq/ws/aag"]
+	path = mq/ws/aag
+	url = .
 [submodule "mq/wt/rfs"]
 	path = mq/wt/rfs
 	url = .
