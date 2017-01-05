@@ -4915,6 +4915,9 @@
 [submodule "ou/ue/tff"]
 	path = ou/ue/tff
 	url = .
+[submodule "ou/uk/smq"]
+	path = ou/uk/smq
+	url = .
 [submodule "ou/up/cxz"]
 	path = ou/up/cxz
 	url = .
