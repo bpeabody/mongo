@@ -17914,6 +17914,9 @@
 [submodule "gl/bu/slj"]
 	path = gl/bu/slj
 	url = .
+[submodule "gl/co/ryn"]
+	path = gl/co/ryn
+	url = .
 [submodule "gl/dc/grk"]
 	path = gl/dc/grk
 	url = .
