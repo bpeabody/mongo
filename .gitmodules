@@ -10183,6 +10183,9 @@
 [submodule "jv/qx/qip"]
 	path = jv/qx/qip
 	url = .
+[submodule "jv/tq/avt"]
+	path = jv/tq/avt
+	url = .
 [submodule "jv/tz/hnz"]
 	path = jv/tz/hnz
 	url = .
