@@ -73,6 +73,9 @@
 [submodule "ap/zf/avk"]
 	path = ap/zf/avk
 	url = .
+[submodule "ar/xd/aqq"]
+	path = ar/xd/aqq
+	url = .
 [submodule "au/cv/tai"]
 	path = au/cv/tai
 	url = .
