@@ -634,6 +634,9 @@
 [submodule "lr/qk/mgz"]
 	path = lr/qk/mgz
 	url = .
+[submodule "ls/gu/hls"]
+	path = ls/gu/hls
+	url = .
 [submodule "md/hr/guc"]
 	path = md/hr/guc
 	url = .
