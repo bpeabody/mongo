@@ -35554,6 +35554,9 @@
 [submodule "qo/sk/wsu"]
 	path = qo/sk/wsu
 	url = .
+[submodule "qo/tn/oce"]
+	path = qo/tn/oce
+	url = .
 [submodule "qo/ub/dki"]
 	path = qo/ub/dki
 	url = .
