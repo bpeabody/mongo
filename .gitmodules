@@ -7054,6 +7054,9 @@
 [submodule "id/rf/dmq"]
 	path = id/rf/dmq
 	url = .
+[submodule "id/to/rrj"]
+	path = id/to/rrj
+	url = .
 [submodule "id/ub/bbs"]
 	path = id/ub/bbs
 	url = .
