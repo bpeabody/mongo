@@ -30043,6 +30043,9 @@
 [submodule "ki/hk/sxa"]
 	path = ki/hk/sxa
 	url = .
+[submodule "ki/hs/agp"]
+	path = ki/hs/agp
+	url = .
 [submodule "ki/hx/keg"]
 	path = ki/hx/keg
 	url = .
