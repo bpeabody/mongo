@@ -38128,6 +38128,9 @@
 [submodule "rj/km/cwr"]
 	path = rj/km/cwr
 	url = .
+[submodule "rj/ln/jtc"]
+	path = rj/ln/jtc
+	url = .
 [submodule "rj/lu/bdz"]
 	path = rj/lu/bdz
 	url = .
