@@ -3505,6 +3505,9 @@
 [submodule "bt/rm/ked"]
 	path = bt/rm/ked
 	url = .
+[submodule "bt/xa/aqf"]
+	path = bt/xa/aqf
+	url = .
 [submodule "bt/xc/bcj"]
 	path = bt/xc/bcj
 	url = .
