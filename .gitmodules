@@ -8329,6 +8329,9 @@
 [submodule "jg/fv/wqb"]
 	path = jg/fv/wqb
 	url = .
+[submodule "jg/fy/onk"]
+	path = jg/fy/onk
+	url = .
 [submodule "jg/hq/adt"]
 	path = jg/hq/adt
 	url = .
