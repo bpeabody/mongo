@@ -41770,6 +41770,9 @@
 [submodule "sl/be/dym"]
 	path = sl/be/dym
 	url = .
+[submodule "sl/ci/nmn"]
+	path = sl/ci/nmn
+	url = .
 [submodule "sl/de/lcq"]
 	path = sl/de/lcq
 	url = .
