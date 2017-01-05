@@ -41920,6 +41920,9 @@
 [submodule "uj/kb/kub"]
 	path = uj/kb/kub
 	url = .
+[submodule "uj/lc/vmc"]
+	path = uj/lc/vmc
+	url = .
 [submodule "uj/lf/eiv"]
 	path = uj/lf/eiv
 	url = .
