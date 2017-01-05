@@ -10564,6 +10564,9 @@
 [submodule "nd/vm/umb"]
 	path = nd/vm/umb
 	url = .
+[submodule "ne/bc/gaf"]
+	path = ne/bc/gaf
+	url = .
 [submodule "ne/dp/dna"]
 	path = ne/dp/dna
 	url = .
