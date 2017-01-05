@@ -3028,6 +3028,9 @@
 [submodule "gn/kw/wav"]
 	path = gn/kw/wav
 	url = .
+[submodule "gn/st/fpx"]
+	path = gn/st/fpx
+	url = .
 [submodule "gn/xc/iek"]
 	path = gn/xc/iek
 	url = .
