@@ -22006,6 +22006,9 @@
 [submodule "wx/fr/rsf"]
 	path = wx/fr/rsf
 	url = .
+[submodule "wx/ic/cuv"]
+	path = wx/ic/cuv
+	url = .
 [submodule "wx/lq/zet"]
 	path = wx/lq/zet
 	url = .
