@@ -7951,6 +7951,9 @@
 [submodule "cz/ls/rsr"]
 	path = cz/ls/rsr
 	url = .
+[submodule "cz/mb/ogs"]
+	path = cz/mb/ogs
+	url = .
 [submodule "cz/od/mmk"]
 	path = cz/od/mmk
 	url = .
