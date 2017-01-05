@@ -31108,6 +31108,9 @@
 [submodule "mt/ks/lnm"]
 	path = mt/ks/lnm
 	url = .
+[submodule "mt/lg/qxt"]
+	path = mt/lg/qxt
+	url = .
 [submodule "mt/mt/dbx"]
 	path = mt/mt/dbx
 	url = .
