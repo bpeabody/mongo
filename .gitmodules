@@ -8344,6 +8344,9 @@
 [submodule "gy/fr/wli"]
 	path = gy/fr/wli
 	url = .
+[submodule "gy/jq/oar"]
+	path = gy/jq/oar
+	url = .
 [submodule "gy/kc/zpc"]
 	path = gy/kc/zpc
 	url = .
