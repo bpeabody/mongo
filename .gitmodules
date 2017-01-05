@@ -34624,6 +34624,9 @@
 [submodule "tq/xa/dhu"]
 	path = tq/xa/dhu
 	url = .
+[submodule "tq/xh/nxf"]
+	path = tq/xh/nxf
+	url = .
 [submodule "tq/xh/sds"]
 	path = tq/xh/sds
 	url = .
