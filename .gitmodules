@@ -7861,6 +7861,9 @@
 [submodule "dg/fg/vnl"]
 	path = dg/fg/vnl
 	url = .
+[submodule "dg/hp/iek"]
+	path = dg/hp/iek
+	url = .
 [submodule "dg/in/ups"]
 	path = dg/in/ups
 	url = .
