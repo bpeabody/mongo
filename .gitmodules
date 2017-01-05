@@ -10354,6 +10354,9 @@
 [submodule "ld/by/oxx"]
 	path = ld/by/oxx
 	url = .
+[submodule "ld/cf/vvx"]
+	path = ld/cf/vvx
+	url = .
 [submodule "ld/fj/ncw"]
 	path = ld/fj/ncw
 	url = .
