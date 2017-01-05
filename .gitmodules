@@ -6409,6 +6409,9 @@
 [submodule "hy/sz/fsm"]
 	path = hy/sz/fsm
 	url = .
+[submodule "hy/uj/swj"]
+	path = hy/uj/swj
+	url = .
 [submodule "hy/uy/uej"]
 	path = hy/uy/uej
 	url = .
