@@ -8950,6 +8950,9 @@
 [submodule "dp/zt/dkw"]
 	path = dp/zt/dkw
 	url = .
+[submodule "dq/bp/hri"]
+	path = dq/bp/hri
+	url = .
 [submodule "dq/ck/muk"]
 	path = dq/ck/muk
 	url = .
