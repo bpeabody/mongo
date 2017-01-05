@@ -901,6 +901,9 @@
 [submodule "ar/ij/era"]
 	path = ar/ij/era
 	url = .
+[submodule "ar/ij/noe"]
+	path = ar/ij/noe
+	url = .
 [submodule "ar/lc/ark"]
 	path = ar/lc/ark
 	url = .
