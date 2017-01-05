@@ -13210,6 +13210,9 @@
 [submodule "fr/ki/kkl"]
 	path = fr/ki/kkl
 	url = .
+[submodule "fr/lq/ang"]
+	path = fr/lq/ang
+	url = .
 [submodule "fr/lu/xnz"]
 	path = fr/lu/xnz
 	url = .
