@@ -25750,6 +25750,9 @@
 [submodule "yr/ez/jbz"]
 	path = yr/ez/jbz
 	url = .
+[submodule "yr/fl/kri"]
+	path = yr/fl/kri
+	url = .
 [submodule "yr/gh/dep"]
 	path = yr/gh/dep
 	url = .
