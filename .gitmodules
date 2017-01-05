@@ -14947,6 +14947,9 @@
 [submodule "kt/vp/elm"]
 	path = kt/vp/elm
 	url = .
+[submodule "kt/xe/lmy"]
+	path = kt/xe/lmy
+	url = .
 [submodule "kt/yq/mps"]
 	path = kt/yq/mps
 	url = .
