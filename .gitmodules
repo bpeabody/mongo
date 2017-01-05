@@ -22936,6 +22936,9 @@
 [submodule "os/ll/buy"]
 	path = os/ll/buy
 	url = .
+[submodule "os/mg/qxs"]
+	path = os/mg/qxs
+	url = .
 [submodule "os/mq/jyi"]
 	path = os/mq/jyi
 	url = .
