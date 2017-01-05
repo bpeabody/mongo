@@ -35533,6 +35533,9 @@
 [submodule "ly/bn/bho"]
 	path = ly/bn/bho
 	url = .
+[submodule "ly/bw/vrv"]
+	path = ly/bw/vrv
+	url = .
 [submodule "ly/dc/avx"]
 	path = ly/dc/avx
 	url = .
