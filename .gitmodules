@@ -9127,6 +9127,9 @@
 [submodule "nn/tr/brw"]
 	path = nn/tr/brw
 	url = .
+[submodule "nn/uy/wen"]
+	path = nn/uy/wen
+	url = .
 [submodule "nn/vn/slo"]
 	path = nn/vn/slo
 	url = .
