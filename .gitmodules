@@ -19429,6 +19429,9 @@
 [submodule "pl/mt/dgj"]
 	path = pl/mt/dgj
 	url = .
+[submodule "pl/ny/egg"]
+	path = pl/ny/egg
+	url = .
 [submodule "pl/qa/clw"]
 	path = pl/qa/clw
 	url = .
