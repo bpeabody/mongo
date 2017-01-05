@@ -2449,6 +2449,9 @@
 [submodule "av/um/pbc"]
 	path = av/um/pbc
 	url = .
+[submodule "av/ux/kor"]
+	path = av/ux/kor
+	url = .
 [submodule "av/vi/ovd"]
 	path = av/vi/ovd
 	url = .
