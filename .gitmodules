@@ -15043,6 +15043,9 @@
 [submodule "mc/dc/otc"]
 	path = mc/dc/otc
 	url = .
+[submodule "mc/gi/zeq"]
+	path = mc/gi/zeq
+	url = .
 [submodule "mc/hf/clc"]
 	path = mc/hf/clc
 	url = .
