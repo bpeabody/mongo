@@ -5077,6 +5077,9 @@
 [submodule "cj/bd/nhe"]
 	path = cj/bd/nhe
 	url = .
+[submodule "cj/bo/noi"]
+	path = cj/bo/noi
+	url = .
 [submodule "cj/ct/rhf"]
 	path = cj/ct/rhf
 	url = .
