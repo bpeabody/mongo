@@ -27865,6 +27865,9 @@
 [submodule "nd/gv/hbv"]
 	path = nd/gv/hbv
 	url = .
+[submodule "nd/hg/muf"]
+	path = nd/hg/muf
+	url = .
 [submodule "nd/hu/hif"]
 	path = nd/hu/hif
 	url = .
