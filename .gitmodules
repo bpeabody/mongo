@@ -47821,6 +47821,9 @@
 [submodule "yy/hi/oib"]
 	path = yy/hi/oib
 	url = .
+[submodule "yy/hl/zdp"]
+	path = yy/hl/zdp
+	url = .
 [submodule "yy/hm/twm"]
 	path = yy/hm/twm
 	url = .
