@@ -6049,6 +6049,9 @@
 [submodule "cs/gg/uvh"]
 	path = cs/gg/uvh
 	url = .
+[submodule "cs/go/qgl"]
+	path = cs/go/qgl
+	url = .
 [submodule "cs/hg/nlu"]
 	path = cs/hg/nlu
 	url = .
