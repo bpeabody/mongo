@@ -29455,6 +29455,9 @@
 [submodule "py/qa/tbk"]
 	path = py/qa/tbk
 	url = .
+[submodule "py/qr/uep"]
+	path = py/qr/uep
+	url = .
 [submodule "py/rn/htd"]
 	path = py/rn/htd
 	url = .
