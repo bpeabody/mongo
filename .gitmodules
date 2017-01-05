@@ -2731,6 +2731,9 @@
 [submodule "ge/if/wgp"]
 	path = ge/if/wgp
 	url = .
+[submodule "ge/ij/dri"]
+	path = ge/ij/dri
+	url = .
 [submodule "ge/ip/pok"]
 	path = ge/ip/pok
 	url = .
