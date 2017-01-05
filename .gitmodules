@@ -20569,6 +20569,9 @@
 [submodule "kq/fv/fcm"]
 	path = kq/fv/fcm
 	url = .
+[submodule "kq/fy/okr"]
+	path = kq/fy/okr
+	url = .
 [submodule "kq/im/drg"]
 	path = kq/im/drg
 	url = .
