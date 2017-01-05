@@ -22912,6 +22912,9 @@
 [submodule "ot/am/cvm"]
 	path = ot/am/cvm
 	url = .
+[submodule "ot/bm/htm"]
+	path = ot/bm/htm
+	url = .
 [submodule "ot/br/eux"]
 	path = ot/br/eux
 	url = .
