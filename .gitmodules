@@ -30229,6 +30229,9 @@
 [submodule "ki/pt/dif"]
 	path = ki/pt/dif
 	url = .
+[submodule "ki/qd/hwy"]
+	path = ki/qd/hwy
+	url = .
 [submodule "ki/ql/wuo"]
 	path = ki/ql/wuo
 	url = .
