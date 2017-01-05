@@ -6781,6 +6781,9 @@
 [submodule "ml/kl/aoz"]
 	path = ml/kl/aoz
 	url = .
+[submodule "ml/ku/naz"]
+	path = ml/ku/naz
+	url = .
 [submodule "ml/kw/rwl"]
 	path = ml/kw/rwl
 	url = .
