@@ -39715,6 +39715,9 @@
 [submodule "nu/ly/wmj"]
 	path = nu/ly/wmj
 	url = .
+[submodule "nu/ma/jbc"]
+	path = nu/ma/jbc
+	url = .
 [submodule "nu/ml/eea"]
 	path = nu/ml/eea
 	url = .
