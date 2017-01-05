@@ -6319,6 +6319,9 @@
 [submodule "nw/vq/udv"]
 	path = nw/vq/udv
 	url = .
+[submodule "nw/vv/eji"]
+	path = nw/vv/eji
+	url = .
 [submodule "nw/wq/hse"]
 	path = nw/wq/hse
 	url = .
