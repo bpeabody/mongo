@@ -8134,6 +8134,9 @@
 [submodule "rh/qr/frh"]
 	path = rh/qr/frh
 	url = .
+[submodule "rh/rd/xrl"]
+	path = rh/rd/xrl
+	url = .
 [submodule "ri/be/ntt"]
 	path = ri/be/ntt
 	url = .
