@@ -1288,6 +1288,9 @@
 [submodule "dn/rx/kgq"]
 	path = dn/rx/kgq
 	url = .
+[submodule "dn/yv/yth"]
+	path = dn/yv/yth
+	url = .
 [submodule "do/ou/opr"]
 	path = do/ou/opr
 	url = .
