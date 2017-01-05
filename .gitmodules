@@ -28618,6 +28618,9 @@
 [submodule "oc/ko/hqf"]
 	path = oc/ko/hqf
 	url = .
+[submodule "oc/ku/qvj"]
+	path = oc/ku/qvj
+	url = .
 [submodule "oc/ky/agt"]
 	path = oc/ky/agt
 	url = .
