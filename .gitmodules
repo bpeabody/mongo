@@ -7636,6 +7636,9 @@
 [submodule "fu/fl/jup"]
 	path = fu/fl/jup
 	url = .
+[submodule "fu/gp/vzw"]
+	path = fu/gp/vzw
+	url = .
 [submodule "fu/ig/zgr"]
 	path = fu/ig/zgr
 	url = .
