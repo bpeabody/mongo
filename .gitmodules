@@ -5599,6 +5599,9 @@
 [submodule "hc/cw/kiz"]
 	path = hc/cw/kiz
 	url = .
+[submodule "hc/ed/dxv"]
+	path = hc/ed/dxv
+	url = .
 [submodule "hc/eu/lgd"]
 	path = hc/eu/lgd
 	url = .
