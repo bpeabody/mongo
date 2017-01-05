@@ -19705,6 +19705,9 @@
 [submodule "xp/jp/fsq"]
 	path = xp/jp/fsq
 	url = .
+[submodule "xp/mp/sxn"]
+	path = xp/mp/sxn
+	url = .
 [submodule "xp/oa/bag"]
 	path = xp/oa/bag
 	url = .
