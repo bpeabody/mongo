@@ -1921,6 +1921,9 @@
 [submodule "wo/ot/udm"]
 	path = wo/ot/udm
 	url = .
+[submodule "wq/gm/rli"]
+	path = wq/gm/rli
+	url = .
 [submodule "wq/ii/nrk"]
 	path = wq/ii/nrk
 	url = .
