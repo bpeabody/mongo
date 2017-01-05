@@ -37939,6 +37939,9 @@
 [submodule "mq/hg/mzh"]
 	path = mq/hg/mzh
 	url = .
+[submodule "mq/ht/hvw"]
+	path = mq/ht/hvw
+	url = .
 [submodule "mq/lp/gea"]
 	path = mq/lp/gea
 	url = .
