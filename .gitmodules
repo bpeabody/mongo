@@ -4957,6 +4957,9 @@
 [submodule "dl/hv/vmr"]
 	path = dl/hv/vmr
 	url = .
+[submodule "dl/jr/yyr"]
+	path = dl/jr/yyr
+	url = .
 [submodule "dl/la/sed"]
 	path = dl/la/sed
 	url = .
