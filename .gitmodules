@@ -5779,6 +5779,9 @@
 [submodule "dd/pw/zdj"]
 	path = dd/pw/zdj
 	url = .
+[submodule "dd/sg/cle"]
+	path = dd/sg/cle
+	url = .
 [submodule "dd/th/eap"]
 	path = dd/th/eap
 	url = .
