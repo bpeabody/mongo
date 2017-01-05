@@ -2176,6 +2176,9 @@
 [submodule "bc/mi/gsg"]
 	path = bc/mi/gsg
 	url = .
+[submodule "bc/mm/xqt"]
+	path = bc/mm/xqt
+	url = .
 [submodule "bc/mu/mnw"]
 	path = bc/mu/mnw
 	url = .
