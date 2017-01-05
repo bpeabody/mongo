@@ -6634,6 +6634,9 @@
 [submodule "ez/pt/rwn"]
 	path = ez/pt/rwn
 	url = .
+[submodule "ez/qh/nos"]
+	path = ez/qh/nos
+	url = .
 [submodule "ez/sm/irr"]
 	path = ez/sm/irr
 	url = .
