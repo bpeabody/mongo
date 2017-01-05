@@ -736,6 +736,9 @@
 [submodule "kh/dy/lne"]
 	path = kh/dy/lne
 	url = .
+[submodule "ki/pt/dif"]
+	path = ki/pt/dif
+	url = .
 [submodule "kj/aa/pwk"]
 	path = kj/aa/pwk
 	url = .
