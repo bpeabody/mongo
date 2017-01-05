@@ -1921,6 +1921,9 @@
 [submodule "bn/ql/hyj"]
 	path = bn/ql/hyj
 	url = .
+[submodule "bn/rx/uaq"]
+	path = bn/rx/uaq
+	url = .
 [submodule "bn/sg/hst"]
 	path = bn/sg/hst
 	url = .
