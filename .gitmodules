@@ -8737,6 +8737,9 @@
 [submodule "vd/jp/duc"]
 	path = vd/jp/duc
 	url = .
+[submodule "vd/tf/lto"]
+	path = vd/tf/lto
+	url = .
 [submodule "vd/tv/ruj"]
 	path = vd/tv/ruj
 	url = .
