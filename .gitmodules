@@ -20854,6 +20854,9 @@
 [submodule "zf/ej/slq"]
 	path = zf/ej/slq
 	url = .
+[submodule "zf/gb/slf"]
+	path = zf/gb/slf
+	url = .
 [submodule "zf/gk/xpp"]
 	path = zf/gk/xpp
 	url = .
