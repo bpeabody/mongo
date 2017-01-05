@@ -61756,6 +61756,9 @@
 [submodule "xy/sd/qdw"]
 	path = xy/sd/qdw
 	url = .
+[submodule "xy/sz/duc"]
+	path = xy/sz/duc
+	url = .
 [submodule "xy/th/deb"]
 	path = xy/th/deb
 	url = .
