@@ -14644,6 +14644,9 @@
 [submodule "yv/pa/iva"]
 	path = yv/pa/iva
 	url = .
+[submodule "yw/cb/vpn"]
+	path = yw/cb/vpn
+	url = .
 [submodule "yw/df/nep"]
 	path = yw/df/nep
 	url = .
