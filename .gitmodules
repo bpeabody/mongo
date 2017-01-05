@@ -760,6 +760,9 @@
 [submodule "ml/gn/xoh"]
 	path = ml/gn/xoh
 	url = .
+[submodule "ml/ix/lte"]
+	path = ml/ix/lte
+	url = .
 [submodule "ml/kw/rwl"]
 	path = ml/kw/rwl
 	url = .
