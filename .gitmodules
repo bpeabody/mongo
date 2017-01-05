@@ -13009,6 +13009,9 @@
 [submodule "eh/zf/bbn"]
 	path = eh/zf/bbn
 	url = .
+[submodule "eh/zp/vsd"]
+	path = eh/zp/vsd
+	url = .
 [submodule "ei/af/zmk"]
 	path = ei/af/zmk
 	url = .
