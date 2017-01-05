@@ -25849,6 +25849,9 @@
 [submodule "tm/wt/pvw"]
 	path = tm/wt/pvw
 	url = .
+[submodule "tm/xd/wnp"]
+	path = tm/xd/wnp
+	url = .
 [submodule "tm/xm/wks"]
 	path = tm/xm/wks
 	url = .
