@@ -60571,6 +60571,9 @@
 [submodule "uz/lj/hwo"]
 	path = uz/lj/hwo
 	url = .
+[submodule "uz/mi/hol"]
+	path = uz/mi/hol
+	url = .
 [submodule "uz/nt/atf"]
 	path = uz/nt/atf
 	url = .
