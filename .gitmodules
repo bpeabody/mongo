@@ -9106,6 +9106,9 @@
 [submodule "ja/ue/sux"]
 	path = ja/ue/sux
 	url = .
+[submodule "ja/yd/reb"]
+	path = ja/yd/reb
+	url = .
 [submodule "ja/ys/fok"]
 	path = ja/ys/fok
 	url = .
