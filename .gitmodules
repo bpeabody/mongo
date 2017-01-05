@@ -2287,6 +2287,9 @@
 [submodule "na/fu/uup"]
 	path = na/fu/uup
 	url = .
+[submodule "nb/ax/gtc"]
+	path = nb/ax/gtc
+	url = .
 [submodule "nb/hj/wdq"]
 	path = nb/hj/wdq
 	url = .
