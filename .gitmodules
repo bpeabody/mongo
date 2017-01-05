@@ -2575,6 +2575,9 @@
 [submodule "cs/ep/uvn"]
 	path = cs/ep/uvn
 	url = .
+[submodule "cs/gg/uvh"]
+	path = cs/gg/uvh
+	url = .
 [submodule "cs/hg/nlu"]
 	path = cs/hg/nlu
 	url = .
