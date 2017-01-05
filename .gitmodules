@@ -7573,6 +7573,9 @@
 [submodule "qg/is/jqr"]
 	path = qg/is/jqr
 	url = .
+[submodule "qg/nk/lzi"]
+	path = qg/nk/lzi
+	url = .
 [submodule "qg/tw/cdi"]
 	path = qg/tw/cdi
 	url = .
