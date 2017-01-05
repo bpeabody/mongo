@@ -6712,6 +6712,9 @@
 [submodule "dj/fe/qng"]
 	path = dj/fe/qng
 	url = .
+[submodule "dj/gg/dsp"]
+	path = dj/gg/dsp
+	url = .
 [submodule "dj/ix/zjk"]
 	path = dj/ix/zjk
 	url = .
