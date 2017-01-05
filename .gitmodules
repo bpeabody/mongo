@@ -5782,6 +5782,9 @@
 [submodule "tz/ae/xhg"]
 	path = tz/ae/xhg
 	url = .
+[submodule "tz/cb/blp"]
+	path = tz/cb/blp
+	url = .
 [submodule "tz/cc/juy"]
 	path = tz/cc/juy
 	url = .
