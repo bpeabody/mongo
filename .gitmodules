@@ -934,6 +934,9 @@
 [submodule "fb/qh/ysb"]
 	path = fb/qh/ysb
 	url = .
+[submodule "fb/wr/ony"]
+	path = fb/wr/ony
+	url = .
 [submodule "fc/hz/szw"]
 	path = fc/hz/szw
 	url = .
