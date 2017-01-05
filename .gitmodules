@@ -10927,6 +10927,9 @@
 [submodule "fd/lc/iwa"]
 	path = fd/lc/iwa
 	url = .
+[submodule "fd/lu/lxn"]
+	path = fd/lu/lxn
+	url = .
 [submodule "fd/md/fwi"]
 	path = fd/md/fwi
 	url = .
