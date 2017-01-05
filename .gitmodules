@@ -37354,6 +37354,9 @@
 [submodule "nv/pt/ftc"]
 	path = nv/pt/ftc
 	url = .
+[submodule "nv/qn/meo"]
+	path = nv/qn/meo
+	url = .
 [submodule "nv/qq/jad"]
 	path = nv/qq/jad
 	url = .
