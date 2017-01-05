@@ -5896,6 +5896,9 @@
 [submodule "rd/if/upv"]
 	path = rd/if/upv
 	url = .
+[submodule "rd/jp/kvs"]
+	path = rd/jp/kvs
+	url = .
 [submodule "rd/ng/ipx"]
 	path = rd/ng/ipx
 	url = .
