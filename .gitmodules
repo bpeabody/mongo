@@ -12760,6 +12760,9 @@
 [submodule "tj/kg/ytc"]
 	path = tj/kg/ytc
 	url = .
+[submodule "tj/kv/kei"]
+	path = tj/kv/kei
+	url = .
 [submodule "tj/lb/gwh"]
 	path = tj/lb/gwh
 	url = .
