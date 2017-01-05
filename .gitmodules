@@ -295,6 +295,9 @@
 [submodule "co/of/qoi"]
 	path = co/of/qoi
 	url = .
+[submodule "cp/kt/eau"]
+	path = cp/kt/eau
+	url = .
 [submodule "cp/lx/gql"]
 	path = cp/lx/gql
 	url = .
