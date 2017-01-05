@@ -22990,6 +22990,9 @@
 [submodule "jg/hq/adt"]
 	path = jg/hq/adt
 	url = .
+[submodule "jg/ig/jaj"]
+	path = jg/ig/jaj
+	url = .
 [submodule "jg/ig/xby"]
 	path = jg/ig/xby
 	url = .
