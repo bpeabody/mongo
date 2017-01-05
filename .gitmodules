@@ -3994,6 +3994,9 @@
 [submodule "hb/fd/ins"]
 	path = hb/fd/ins
 	url = .
+[submodule "hb/ft/wnq"]
+	path = hb/ft/wnq
+	url = .
 [submodule "hb/gr/oqm"]
 	path = hb/gr/oqm
 	url = .
