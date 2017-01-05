@@ -20638,6 +20638,9 @@
 [submodule "kl/ha/nad"]
 	path = kl/ha/nad
 	url = .
+[submodule "kl/ib/yiv"]
+	path = kl/ib/yiv
+	url = .
 [submodule "kl/iy/ioj"]
 	path = kl/iy/ioj
 	url = .
