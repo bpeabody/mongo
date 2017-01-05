@@ -289,6 +289,9 @@
 [submodule "ap/ar/nzk"]
 	path = ap/ar/nzk
 	url = .
+[submodule "ap/fh/mga"]
+	path = ap/fh/mga
+	url = .
 [submodule "ap/lv/jgx"]
 	path = ap/lv/jgx
 	url = .
