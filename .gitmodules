@@ -3619,6 +3619,9 @@
 [submodule "eb/vf/juj"]
 	path = eb/vf/juj
 	url = .
+[submodule "eb/wf/lgj"]
+	path = eb/wf/lgj
+	url = .
 [submodule "eb/xj/fre"]
 	path = eb/xj/fre
 	url = .
