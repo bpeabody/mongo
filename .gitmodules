@@ -4420,6 +4420,9 @@
 [submodule "bo/wb/euj"]
 	path = bo/wb/euj
 	url = .
+[submodule "bo/wj/djz"]
+	path = bo/wj/djz
+	url = .
 [submodule "bo/yb/gvg"]
 	path = bo/yb/gvg
 	url = .
