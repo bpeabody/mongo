@@ -6916,6 +6916,9 @@
 [submodule "gq/ft/guv"]
 	path = gq/ft/guv
 	url = .
+[submodule "gq/ib/txc"]
+	path = gq/ib/txc
+	url = .
 [submodule "gq/jw/mhv"]
 	path = gq/jw/mhv
 	url = .
