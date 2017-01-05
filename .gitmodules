@@ -4930,6 +4930,9 @@
 [submodule "ew/mm/yda"]
 	path = ew/mm/yda
 	url = .
+[submodule "ew/nu/jnn"]
+	path = ew/nu/jnn
+	url = .
 [submodule "ew/sh/gta"]
 	path = ew/sh/gta
 	url = .
