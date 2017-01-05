@@ -19339,6 +19339,9 @@
 [submodule "lp/la/yma"]
 	path = lp/la/yma
 	url = .
+[submodule "lp/lv/wzc"]
+	path = lp/lv/wzc
+	url = .
 [submodule "lp/ol/ldl"]
 	path = lp/ol/ldl
 	url = .
