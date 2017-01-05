@@ -47605,6 +47605,9 @@
 [submodule "ti/bt/ruc"]
 	path = ti/bt/ruc
 	url = .
+[submodule "ti/ce/lue"]
+	path = ti/ce/lue
+	url = .
 [submodule "ti/cw/tlw"]
 	path = ti/cw/tlw
 	url = .
