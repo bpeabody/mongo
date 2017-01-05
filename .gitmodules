@@ -2329,6 +2329,9 @@
 [submodule "ea/uc/vuz"]
 	path = ea/uc/vuz
 	url = .
+[submodule "ea/xg/uui"]
+	path = ea/xg/uui
+	url = .
 [submodule "ea/zy/wdn"]
 	path = ea/zy/wdn
 	url = .
