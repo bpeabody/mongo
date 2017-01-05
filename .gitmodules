@@ -493,6 +493,9 @@
 [submodule "ok/ce/akb"]
 	path = ok/ce/akb
 	url = .
+[submodule "om/qp/wap"]
+	path = om/qp/wap
+	url = .
 [submodule "om/qv/cyr"]
 	path = om/qv/cyr
 	url = .
