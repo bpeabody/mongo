@@ -28618,6 +28618,9 @@
 [submodule "ww/qq/ovk"]
 	path = ww/qq/ovk
 	url = .
+[submodule "ww/qx/chd"]
+	path = ww/qx/chd
+	url = .
 [submodule "ww/sr/yqx"]
 	path = ww/sr/yqx
 	url = .
