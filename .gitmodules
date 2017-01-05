@@ -39025,6 +39025,9 @@
 [submodule "vu/hm/xnd"]
 	path = vu/hm/xnd
 	url = .
+[submodule "vu/hw/htt"]
+	path = vu/hw/htt
+	url = .
 [submodule "vu/kc/qna"]
 	path = vu/kc/qna
 	url = .
