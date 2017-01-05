@@ -40372,6 +40372,9 @@
 [submodule "rj/el/tww"]
 	path = rj/el/tww
 	url = .
+[submodule "rj/ew/jfi"]
+	path = rj/ew/jfi
+	url = .
 [submodule "rj/fk/yqt"]
 	path = rj/fk/yqt
 	url = .
