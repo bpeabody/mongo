@@ -4093,6 +4093,9 @@
 [submodule "et/za/nmv"]
 	path = et/za/nmv
 	url = .
+[submodule "eu/bd/xri"]
+	path = eu/bd/xri
+	url = .
 [submodule "eu/dh/mtb"]
 	path = eu/dh/mtb
 	url = .
