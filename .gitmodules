@@ -8983,6 +8983,9 @@
 [submodule "yh/um/yzh"]
 	path = yh/um/yzh
 	url = .
+[submodule "yh/yb/qjt"]
+	path = yh/yb/qjt
+	url = .
 [submodule "yi/an/kmo"]
 	path = yi/an/kmo
 	url = .
