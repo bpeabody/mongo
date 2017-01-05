@@ -23347,6 +23347,9 @@
 [submodule "ow/tn/irc"]
 	path = ow/tn/irc
 	url = .
+[submodule "ow/tq/gaj"]
+	path = ow/tq/gaj
+	url = .
 [submodule "ow/vg/xkn"]
 	path = ow/vg/xkn
 	url = .
