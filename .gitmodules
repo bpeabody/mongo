@@ -946,6 +946,9 @@
 [submodule "jf/dc/bus"]
 	path = jf/dc/bus
 	url = .
+[submodule "jf/dw/xlo"]
+	path = jf/dw/xlo
+	url = .
 [submodule "jf/vz/rtu"]
 	path = jf/vz/rtu
 	url = .
