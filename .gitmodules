@@ -4885,6 +4885,9 @@
 [submodule "de/ab/eqo"]
 	path = de/ab/eqo
 	url = .
+[submodule "de/at/xcw"]
+	path = de/at/xcw
+	url = .
 [submodule "de/bv/wov"]
 	path = de/bv/wov
 	url = .
