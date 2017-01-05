@@ -36664,6 +36664,9 @@
 [submodule "te/on/ghk"]
 	path = te/on/ghk
 	url = .
+[submodule "te/pg/lpq"]
+	path = te/pg/lpq
+	url = .
 [submodule "te/rf/ely"]
 	path = te/rf/ely
 	url = .
