@@ -41071,6 +41071,9 @@
 [submodule "vo/oe/xzo"]
 	path = vo/oe/xzo
 	url = .
+[submodule "vo/pg/sts"]
+	path = vo/pg/sts
+	url = .
 [submodule "vo/qi/fmd"]
 	path = vo/qi/fmd
 	url = .
