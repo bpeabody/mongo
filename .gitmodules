@@ -931,6 +931,9 @@
 [submodule "bb/qj/qsw"]
 	path = bb/qj/qsw
 	url = .
+[submodule "bb/qy/xew"]
+	path = bb/qy/xew
+	url = .
 [submodule "bb/sk/ize"]
 	path = bb/sk/ize
 	url = .
