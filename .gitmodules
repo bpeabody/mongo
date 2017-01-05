@@ -3436,6 +3436,9 @@
 [submodule "fp/lx/twu"]
 	path = fp/lx/twu
 	url = .
+[submodule "fp/ma/fdb"]
+	path = fp/ma/fdb
+	url = .
 [submodule "fp/sp/fqb"]
 	path = fp/sp/fqb
 	url = .
