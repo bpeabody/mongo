@@ -2476,6 +2476,9 @@
 [submodule "ba/ng/fry"]
 	path = ba/ng/fry
 	url = .
+[submodule "ba/ns/kap"]
+	path = ba/ns/kap
+	url = .
 [submodule "ba/oy/aca"]
 	path = ba/oy/aca
 	url = .
