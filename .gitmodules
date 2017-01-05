@@ -16156,6 +16156,9 @@
 [submodule "po/ef/cqg"]
 	path = po/ef/cqg
 	url = .
+[submodule "po/me/ftk"]
+	path = po/me/ftk
+	url = .
 [submodule "po/pk/bfp"]
 	path = po/pk/bfp
 	url = .
