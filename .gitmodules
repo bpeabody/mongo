@@ -2533,6 +2533,9 @@
 [submodule "cr/cu/sym"]
 	path = cr/cu/sym
 	url = .
+[submodule "cr/ez/bmz"]
+	path = cr/ez/bmz
+	url = .
 [submodule "cr/gp/tjf"]
 	path = cr/gp/tjf
 	url = .
