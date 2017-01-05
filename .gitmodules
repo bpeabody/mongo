@@ -49741,6 +49741,9 @@
 [submodule "xd/tk/wiq"]
 	path = xd/tk/wiq
 	url = .
+[submodule "xd/vn/kmb"]
+	path = xd/vn/kmb
+	url = .
 [submodule "xd/wc/ein"]
 	path = xd/wc/ein
 	url = .
