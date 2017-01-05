@@ -3340,6 +3340,9 @@
 [submodule "bh/as/gku"]
 	path = bh/as/gku
 	url = .
+[submodule "bh/cn/sze"]
+	path = bh/cn/sze
+	url = .
 [submodule "bh/cp/gsw"]
 	path = bh/cp/gsw
 	url = .
