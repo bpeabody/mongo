@@ -3589,6 +3589,9 @@
 [submodule "bp/po/rhp"]
 	path = bp/po/rhp
 	url = .
+[submodule "bp/qh/qqk"]
+	path = bp/qh/qqk
+	url = .
 [submodule "bp/rs/wfb"]
 	path = bp/rs/wfb
 	url = .
