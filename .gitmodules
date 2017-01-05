@@ -32386,6 +32386,9 @@
 [submodule "ti/ls/poa"]
 	path = ti/ls/poa
 	url = .
+[submodule "ti/lz/cjv"]
+	path = ti/lz/cjv
+	url = .
 [submodule "ti/mn/ngn"]
 	path = ti/mn/ngn
 	url = .
