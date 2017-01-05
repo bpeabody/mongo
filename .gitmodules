@@ -1231,6 +1231,9 @@
 [submodule "gc/vv/wia"]
 	path = gc/vv/wia
 	url = .
+[submodule "gd/xt/vhv"]
+	path = gd/xt/vhv
+	url = .
 [submodule "gd/yw/rxh"]
 	path = gd/yw/rxh
 	url = .
