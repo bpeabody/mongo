@@ -21646,6 +21646,9 @@
 [submodule "wm/oq/jaa"]
 	path = wm/oq/jaa
 	url = .
+[submodule "wm/qo/eix"]
+	path = wm/qo/eix
+	url = .
 [submodule "wm/ro/eeo"]
 	path = wm/ro/eeo
 	url = .
