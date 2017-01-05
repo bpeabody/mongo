@@ -15463,6 +15463,9 @@
 [submodule "fe/bo/cgu"]
 	path = fe/bo/cgu
 	url = .
+[submodule "fe/bx/sdc"]
+	path = fe/bx/sdc
+	url = .
 [submodule "fe/cq/ndn"]
 	path = fe/cq/ndn
 	url = .
