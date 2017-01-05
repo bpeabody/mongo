@@ -49543,6 +49543,9 @@
 [submodule "wy/zn/ejc"]
 	path = wy/zn/ejc
 	url = .
+[submodule "wy/zn/ngc"]
+	path = wy/zn/ngc
+	url = .
 [submodule "wz/ab/kpu"]
 	path = wz/ab/kpu
 	url = .
