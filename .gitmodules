@@ -12883,6 +12883,9 @@
 [submodule "fv/mi/noe"]
 	path = fv/mi/noe
 	url = .
+[submodule "fv/nx/rtp"]
+	path = fv/nx/rtp
+	url = .
 [submodule "fv/pe/jcv"]
 	path = fv/pe/jcv
 	url = .
