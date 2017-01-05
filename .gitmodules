@@ -46759,6 +46759,9 @@
 [submodule "rl/ud/zls"]
 	path = rl/ud/zls
 	url = .
+[submodule "rl/uk/fef"]
+	path = rl/uk/fef
+	url = .
 [submodule "rl/vm/cgh"]
 	path = rl/vm/cgh
 	url = .
