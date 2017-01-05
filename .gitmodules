@@ -6220,6 +6220,9 @@
 [submodule "wg/xf/owz"]
 	path = wg/xf/owz
 	url = .
+[submodule "wh/cc/nvr"]
+	path = wh/cc/nvr
+	url = .
 [submodule "wh/ga/obo"]
 	path = wh/ga/obo
 	url = .
