@@ -12187,6 +12187,9 @@
 [submodule "gd/kj/ddl"]
 	path = gd/kj/ddl
 	url = .
+[submodule "gd/kp/ogj"]
+	path = gd/kp/ogj
+	url = .
 [submodule "gd/kz/yne"]
 	path = gd/kz/yne
 	url = .
