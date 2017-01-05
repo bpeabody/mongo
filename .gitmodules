@@ -34222,6 +34222,9 @@
 [submodule "ny/gs/cmp"]
 	path = ny/gs/cmp
 	url = .
+[submodule "ny/jb/frp"]
+	path = ny/jb/frp
+	url = .
 [submodule "ny/jc/awo"]
 	path = ny/jc/awo
 	url = .
