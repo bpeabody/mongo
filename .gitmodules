@@ -3691,6 +3691,9 @@
 [submodule "ln/pg/khf"]
 	path = ln/pg/khf
 	url = .
+[submodule "ln/qd/bfu"]
+	path = ln/qd/bfu
+	url = .
 [submodule "lo/ak/wpv"]
 	path = lo/ak/wpv
 	url = .
