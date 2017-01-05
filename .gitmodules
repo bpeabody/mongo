@@ -44560,6 +44560,9 @@
 [submodule "tp/wz/yum"]
 	path = tp/wz/yum
 	url = .
+[submodule "tp/xe/tya"]
+	path = tp/xe/tya
+	url = .
 [submodule "tp/xi/wed"]
 	path = tp/xi/wed
 	url = .
