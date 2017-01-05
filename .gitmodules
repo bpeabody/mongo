@@ -30757,6 +30757,9 @@
 [submodule "qe/gm/byb"]
 	path = qe/gm/byb
 	url = .
+[submodule "qe/hd/oly"]
+	path = qe/hd/oly
+	url = .
 [submodule "qe/id/lzf"]
 	path = qe/id/lzf
 	url = .
