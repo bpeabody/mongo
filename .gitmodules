@@ -27799,6 +27799,9 @@
 [submodule "yy/xd/fzr"]
 	path = yy/xd/fzr
 	url = .
+[submodule "yy/xr/xul"]
+	path = yy/xr/xul
+	url = .
 [submodule "yy/yx/oqn"]
 	path = yy/yx/oqn
 	url = .
