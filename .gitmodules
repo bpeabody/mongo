@@ -57217,6 +57217,9 @@
 [submodule "ve/lx/dlc"]
 	path = ve/lx/dlc
 	url = .
+[submodule "ve/oo/dob"]
+	path = ve/oo/dob
+	url = .
 [submodule "ve/pl/rxm"]
 	path = ve/pl/rxm
 	url = .
