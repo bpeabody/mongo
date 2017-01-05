@@ -6106,6 +6106,9 @@
 [submodule "fc/ov/tnh"]
 	path = fc/ov/tnh
 	url = .
+[submodule "fc/pa/yfr"]
+	path = fc/pa/yfr
+	url = .
 [submodule "fc/qd/hss"]
 	path = fc/qd/hss
 	url = .
