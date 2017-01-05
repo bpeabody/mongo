@@ -3379,6 +3379,9 @@
 [submodule "in/pc/lwm"]
 	path = in/pc/lwm
 	url = .
+[submodule "in/xe/zkt"]
+	path = in/xe/zkt
+	url = .
 [submodule "io/aw/fgo"]
 	path = io/aw/fgo
 	url = .
