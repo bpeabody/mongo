@@ -7954,6 +7954,9 @@
 [submodule "kh/xg/pcu"]
 	path = kh/xg/pcu
 	url = .
+[submodule "kh/yv/hbn"]
+	path = kh/yv/hbn
+	url = .
 [submodule "ki/au/grq"]
 	path = ki/au/grq
 	url = .
