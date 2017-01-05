@@ -115,6 +115,9 @@
 [submodule "nx/bs/wir"]
 	path = nx/bs/wir
 	url = .
+[submodule "ob/ro/ypa"]
+	path = ob/ro/ypa
+	url = .
 [submodule "oc/tm/nla"]
 	path = oc/tm/nla
 	url = .
