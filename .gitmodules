@@ -13513,6 +13513,9 @@
 [submodule "lj/ht/jqh"]
 	path = lj/ht/jqh
 	url = .
+[submodule "lj/rh/tju"]
+	path = lj/rh/tju
+	url = .
 [submodule "lj/yj/cmy"]
 	path = lj/yj/cmy
 	url = .
