@@ -31858,6 +31858,9 @@
 [submodule "km/vp/hwg"]
 	path = km/vp/hwg
 	url = .
+[submodule "km/vu/uwi"]
+	path = km/vu/uwi
+	url = .
 [submodule "km/we/sfp"]
 	path = km/we/sfp
 	url = .
