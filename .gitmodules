@@ -1693,6 +1693,9 @@
 [submodule "bx/al/whr"]
 	path = bx/al/whr
 	url = .
+[submodule "bx/ap/jje"]
+	path = bx/ap/jje
+	url = .
 [submodule "bx/ca/rpc"]
 	path = bx/ca/rpc
 	url = .
