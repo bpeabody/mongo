@@ -6358,6 +6358,9 @@
 [submodule "lh/rb/oht"]
 	path = lh/rb/oht
 	url = .
+[submodule "lh/rm/hmk"]
+	path = lh/rm/hmk
+	url = .
 [submodule "lh/zm/jvb"]
 	path = lh/zm/jvb
 	url = .
