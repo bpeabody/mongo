@@ -4879,6 +4879,9 @@
 [submodule "bq/wn/wmx"]
 	path = bq/wn/wmx
 	url = .
+[submodule "bq/wp/bww"]
+	path = bq/wp/bww
+	url = .
 [submodule "bq/wq/ezi"]
 	path = bq/wq/ezi
 	url = .
