@@ -298,6 +298,9 @@
 [submodule "cr/nq/ugi"]
 	path = cr/nq/ugi
 	url = .
+[submodule "cs/rp/jpk"]
+	path = cs/rp/jpk
+	url = .
 [submodule "cs/sj/pyk"]
 	path = cs/sj/pyk
 	url = .
