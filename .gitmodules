@@ -16663,6 +16663,9 @@
 [submodule "qc/fn/zro"]
 	path = qc/fn/zro
 	url = .
+[submodule "qc/hk/ubb"]
+	path = qc/hk/ubb
+	url = .
 [submodule "qc/ii/ngz"]
 	path = qc/ii/ngz
 	url = .
