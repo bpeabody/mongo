@@ -8050,6 +8050,9 @@
 [submodule "dw/as/hvn"]
 	path = dw/as/hvn
 	url = .
+[submodule "dw/bh/qwy"]
+	path = dw/bh/qwy
+	url = .
 [submodule "dw/bq/pow"]
 	path = dw/bq/pow
 	url = .
