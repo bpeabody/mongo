@@ -13375,6 +13375,9 @@
 [submodule "sq/hw/cof"]
 	path = sq/hw/cof
 	url = .
+[submodule "sq/nq/kmg"]
+	path = sq/nq/kmg
+	url = .
 [submodule "sq/rk/fel"]
 	path = sq/rk/fel
 	url = .
