@@ -412,6 +412,9 @@
 [submodule "ea/zy/wdn"]
 	path = ea/zy/wdn
 	url = .
+[submodule "ec/vp/kwm"]
+	path = ec/vp/kwm
+	url = .
 [submodule "ee/li/zdc"]
 	path = ee/li/zdc
 	url = .
