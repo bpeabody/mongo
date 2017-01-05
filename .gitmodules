@@ -1765,6 +1765,9 @@
 [submodule "pm/as/afv"]
 	path = pm/as/afv
 	url = .
+[submodule "pm/lh/gar"]
+	path = pm/lh/gar
+	url = .
 [submodule "pp/hu/cof"]
 	path = pp/hu/cof
 	url = .
