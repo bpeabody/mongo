@@ -5056,6 +5056,9 @@
 [submodule "ow/xm/dyu"]
 	path = ow/xm/dyu
 	url = .
+[submodule "ox/cm/hrr"]
+	path = ox/cm/hrr
+	url = .
 [submodule "ox/lt/jst"]
 	path = ox/lt/jst
 	url = .
