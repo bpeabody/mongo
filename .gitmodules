@@ -6637,6 +6637,9 @@
 [submodule "gq/uh/xnh"]
 	path = gq/uh/xnh
 	url = .
+[submodule "gq/zb/ror"]
+	path = gq/zb/ror
+	url = .
 [submodule "gr/ad/kcd"]
 	path = gr/ad/kcd
 	url = .
