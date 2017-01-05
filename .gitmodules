@@ -1927,6 +1927,9 @@
 [submodule "av/yp/zqn"]
 	path = av/yp/zqn
 	url = .
+[submodule "av/yz/eqa"]
+	path = av/yz/eqa
+	url = .
 [submodule "av/zu/hyh"]
 	path = av/zu/hyh
 	url = .
