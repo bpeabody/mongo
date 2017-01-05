@@ -17596,6 +17596,9 @@
 [submodule "hc/ad/qfp"]
 	path = hc/ad/qfp
 	url = .
+[submodule "hc/as/wzm"]
+	path = hc/as/wzm
+	url = .
 [submodule "hc/co/wgo"]
 	path = hc/co/wgo
 	url = .
