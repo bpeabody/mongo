@@ -44536,6 +44536,9 @@
 [submodule "ot/ls/ebl"]
 	path = ot/ls/ebl
 	url = .
+[submodule "ot/nu/ktl"]
+	path = ot/nu/ktl
+	url = .
 [submodule "ot/nw/wwa"]
 	path = ot/nw/wwa
 	url = .
