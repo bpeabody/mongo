@@ -23074,6 +23074,9 @@
 [submodule "lp/uu/ukw"]
 	path = lp/uu/ukw
 	url = .
+[submodule "lp/vd/fch"]
+	path = lp/vd/fch
+	url = .
 [submodule "lp/vu/pan"]
 	path = lp/vu/pan
 	url = .
