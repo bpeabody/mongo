@@ -53137,6 +53137,9 @@
 [submodule "xv/sm/aee"]
 	path = xv/sm/aee
 	url = .
+[submodule "xv/su/ria"]
+	path = xv/su/ria
+	url = .
 [submodule "xv/ud/gqt"]
 	path = xv/ud/gqt
 	url = .
