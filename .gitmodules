@@ -19966,6 +19966,9 @@
 [submodule "hu/ro/jyt"]
 	path = hu/ro/jyt
 	url = .
+[submodule "hu/rt/qgj"]
+	path = hu/rt/qgj
+	url = .
 [submodule "hu/ry/axp"]
 	path = hu/ry/axp
 	url = .
