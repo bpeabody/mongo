@@ -8257,6 +8257,9 @@
 [submodule "dl/la/sed"]
 	path = dl/la/sed
 	url = .
+[submodule "dl/ma/gtb"]
+	path = dl/ma/gtb
+	url = .
 [submodule "dl/mh/rjq"]
 	path = dl/mh/rjq
 	url = .
