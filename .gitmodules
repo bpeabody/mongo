@@ -6208,6 +6208,9 @@
 [submodule "xt/kh/yar"]
 	path = xt/kh/yar
 	url = .
+[submodule "xt/lc/mnz"]
+	path = xt/lc/mnz
+	url = .
 [submodule "xt/vr/eog"]
 	path = xt/vr/eog
 	url = .
