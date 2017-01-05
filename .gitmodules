@@ -10453,6 +10453,9 @@
 [submodule "dz/qz/sfp"]
 	path = dz/qz/sfp
 	url = .
+[submodule "dz/qz/tsl"]
+	path = dz/qz/tsl
+	url = .
 [submodule "dz/rq/eii"]
 	path = dz/rq/eii
 	url = .
