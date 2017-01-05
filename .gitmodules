@@ -21820,6 +21820,9 @@
 [submodule "nr/az/fri"]
 	path = nr/az/fri
 	url = .
+[submodule "nr/cb/xmt"]
+	path = nr/cb/xmt
+	url = .
 [submodule "nr/iw/sjg"]
 	path = nr/iw/sjg
 	url = .
