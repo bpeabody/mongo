@@ -40480,6 +40480,9 @@
 [submodule "pv/dj/ehk"]
 	path = pv/dj/ehk
 	url = .
+[submodule "pv/ea/ukn"]
+	path = pv/ea/ukn
+	url = .
 [submodule "pv/in/kyv"]
 	path = pv/in/kyv
 	url = .
