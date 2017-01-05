@@ -22690,6 +22690,9 @@
 [submodule "zh/pn/tsn"]
 	path = zh/pn/tsn
 	url = .
+[submodule "zh/qg/cws"]
+	path = zh/qg/cws
+	url = .
 [submodule "zh/qg/pad"]
 	path = zh/qg/pad
 	url = .
