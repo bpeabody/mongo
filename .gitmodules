@@ -22402,6 +22402,9 @@
 [submodule "xq/fv/mfe"]
 	path = xq/fv/mfe
 	url = .
+[submodule "xq/id/gyr"]
+	path = xq/id/gyr
+	url = .
 [submodule "xq/lq/pgg"]
 	path = xq/lq/pgg
 	url = .
