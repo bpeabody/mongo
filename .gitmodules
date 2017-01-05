@@ -22729,6 +22729,9 @@
 [submodule "qa/qv/vrr"]
 	path = qa/qv/vrr
 	url = .
+[submodule "qa/ts/beu"]
+	path = qa/ts/beu
+	url = .
 [submodule "qa/ve/udk"]
 	path = qa/ve/udk
 	url = .
