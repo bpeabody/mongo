@@ -54577,6 +54577,9 @@
 [submodule "tt/sr/jea"]
 	path = tt/sr/jea
 	url = .
+[submodule "tt/ur/hgu"]
+	path = tt/ur/hgu
+	url = .
 [submodule "tt/ux/trt"]
 	path = tt/ux/trt
 	url = .
