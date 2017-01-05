@@ -38518,6 +38518,9 @@
 [submodule "xe/gt/wqr"]
 	path = xe/gt/wqr
 	url = .
+[submodule "xe/ja/esc"]
+	path = xe/ja/esc
+	url = .
 [submodule "xe/jj/fgg"]
 	path = xe/jj/fgg
 	url = .
