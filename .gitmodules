@@ -12919,6 +12919,9 @@
 [submodule "eu/ey/mct"]
 	path = eu/ey/mct
 	url = .
+[submodule "eu/il/uqo"]
+	path = eu/il/uqo
+	url = .
 [submodule "eu/jm/vce"]
 	path = eu/jm/vce
 	url = .
