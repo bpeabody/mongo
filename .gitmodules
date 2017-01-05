@@ -19831,6 +19831,9 @@
 [submodule "xt/md/rgj"]
 	path = xt/md/rgj
 	url = .
+[submodule "xt/ph/ecj"]
+	path = xt/ph/ecj
+	url = .
 [submodule "xt/ut/jiz"]
 	path = xt/ut/jiz
 	url = .
