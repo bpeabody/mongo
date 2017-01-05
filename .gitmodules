@@ -29986,6 +29986,9 @@
 [submodule "nb/kn/mia"]
 	path = nb/kn/mia
 	url = .
+[submodule "nb/kr/zqa"]
+	path = nb/kr/zqa
+	url = .
 [submodule "nb/mj/omy"]
 	path = nb/mj/omy
 	url = .
