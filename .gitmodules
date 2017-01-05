@@ -757,6 +757,9 @@
 [submodule "jo/ic/xtu"]
 	path = jo/ic/xtu
 	url = .
+[submodule "jp/mk/tqt"]
+	path = jp/mk/tqt
+	url = .
 [submodule "jq/su/rrf"]
 	path = jq/su/rrf
 	url = .
