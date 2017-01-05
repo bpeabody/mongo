@@ -3559,6 +3559,9 @@
 [submodule "es/vj/dho"]
 	path = es/vj/dho
 	url = .
+[submodule "es/xy/lhe"]
+	path = es/xy/lhe
+	url = .
 [submodule "es/ys/van"]
 	path = es/ys/van
 	url = .
