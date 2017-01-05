@@ -250,6 +250,9 @@
 [submodule "ad/pi/lxv"]
 	path = ad/pi/lxv
 	url = .
+[submodule "ad/pl/tqg"]
+	path = ad/pl/tqg
+	url = .
 [submodule "ad/qc/acu"]
 	path = ad/qc/acu
 	url = .
