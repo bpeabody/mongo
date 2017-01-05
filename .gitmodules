@@ -499,6 +499,9 @@
 [submodule "af/bv/rdp"]
 	path = af/bv/rdp
 	url = .
+[submodule "af/cy/wkd"]
+	path = af/cy/wkd
+	url = .
 [submodule "af/ha/edd"]
 	path = af/ha/edd
 	url = .
