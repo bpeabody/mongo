@@ -58864,6 +58864,9 @@
 [submodule "tn/hq/bcn"]
 	path = tn/hq/bcn
 	url = .
+[submodule "tn/hs/mqq"]
+	path = tn/hs/mqq
+	url = .
 [submodule "tn/ip/agb"]
 	path = tn/ip/agb
 	url = .
