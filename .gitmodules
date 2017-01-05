@@ -3064,6 +3064,9 @@
 [submodule "bc/xl/pox"]
 	path = bc/xl/pox
 	url = .
+[submodule "bc/xt/uim"]
+	path = bc/xt/uim
+	url = .
 [submodule "bc/xu/lqi"]
 	path = bc/xu/lqi
 	url = .
