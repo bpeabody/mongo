@@ -3007,6 +3007,9 @@
 [submodule "pc/ii/qei"]
 	path = pc/ii/qei
 	url = .
+[submodule "pc/vp/zjj"]
+	path = pc/vp/zjj
+	url = .
 [submodule "pc/yc/ycq"]
 	path = pc/yc/ycq
 	url = .
