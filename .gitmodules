@@ -16024,6 +16024,9 @@
 [submodule "nu/az/bkl"]
 	path = nu/az/bkl
 	url = .
+[submodule "nu/bl/lyb"]
+	path = nu/bl/lyb
+	url = .
 [submodule "nu/dv/lnn"]
 	path = nu/dv/lnn
 	url = .
