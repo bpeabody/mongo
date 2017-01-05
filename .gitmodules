@@ -30508,6 +30508,9 @@
 [submodule "oe/cc/zng"]
 	path = oe/cc/zng
 	url = .
+[submodule "oe/es/mms"]
+	path = oe/es/mms
+	url = .
 [submodule "oe/fq/oxk"]
 	path = oe/fq/oxk
 	url = .
