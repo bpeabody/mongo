@@ -50221,6 +50221,9 @@
 [submodule "su/zu/pjh"]
 	path = su/zu/pjh
 	url = .
+[submodule "sv/ad/wxk"]
+	path = sv/ad/wxk
+	url = .
 [submodule "sv/by/acu"]
 	path = sv/by/acu
 	url = .
