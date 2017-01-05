@@ -11284,6 +11284,9 @@
 [submodule "iy/pf/qsb"]
 	path = iy/pf/qsb
 	url = .
+[submodule "iy/qt/xvg"]
+	path = iy/qt/xvg
+	url = .
 [submodule "iy/sv/mov"]
 	path = iy/sv/mov
 	url = .
