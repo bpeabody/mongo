@@ -25585,6 +25585,9 @@
 [submodule "nh/nu/cbh"]
 	path = nh/nu/cbh
 	url = .
+[submodule "nh/oe/feu"]
+	path = nh/oe/feu
+	url = .
 [submodule "nh/oi/giq"]
 	path = nh/oi/giq
 	url = .
