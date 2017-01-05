@@ -17953,6 +17953,9 @@
 [submodule "qv/ca/dhs"]
 	path = qv/ca/dhs
 	url = .
+[submodule "qv/dl/emu"]
+	path = qv/dl/emu
+	url = .
 [submodule "qv/ec/afk"]
 	path = qv/ec/afk
 	url = .
