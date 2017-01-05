@@ -11311,6 +11311,9 @@
 [submodule "jd/yp/eqp"]
 	path = jd/yp/eqp
 	url = .
+[submodule "jd/zj/zss"]
+	path = jd/zj/zss
+	url = .
 [submodule "je/ct/lek"]
 	path = je/ct/lek
 	url = .
