@@ -9277,6 +9277,9 @@
 [submodule "ev/hp/ofr"]
 	path = ev/hp/ofr
 	url = .
+[submodule "ev/ir/qrw"]
+	path = ev/ir/qrw
+	url = .
 [submodule "ev/kz/gct"]
 	path = ev/kz/gct
 	url = .
