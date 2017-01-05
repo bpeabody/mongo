@@ -45409,6 +45409,9 @@
 [submodule "rs/bn/qii"]
 	path = rs/bn/qii
 	url = .
+[submodule "rs/bn/qqr"]
+	path = rs/bn/qqr
+	url = .
 [submodule "rs/cv/xnp"]
 	path = rs/cv/xnp
 	url = .
