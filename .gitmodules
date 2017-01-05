@@ -3232,6 +3232,9 @@
 [submodule "bs/if/yuv"]
 	path = bs/if/yuv
 	url = .
+[submodule "bs/ja/mtx"]
+	path = bs/ja/mtx
+	url = .
 [submodule "bs/mn/keq"]
 	path = bs/mn/keq
 	url = .
