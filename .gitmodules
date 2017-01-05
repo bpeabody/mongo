@@ -35050,6 +35050,9 @@
 [submodule "lz/lw/zur"]
 	path = lz/lw/zur
 	url = .
+[submodule "lz/mb/jdp"]
+	path = lz/mb/jdp
+	url = .
 [submodule "lz/pe/jsz"]
 	path = lz/pe/jsz
 	url = .
