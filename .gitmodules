@@ -3061,6 +3061,9 @@
 [submodule "ie/rj/vqu"]
 	path = ie/rj/vqu
 	url = .
+[submodule "ie/yy/mup"]
+	path = ie/yy/mup
+	url = .
 [submodule "ie/zr/gbx"]
 	path = ie/zr/gbx
 	url = .
