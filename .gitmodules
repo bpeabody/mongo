@@ -3718,6 +3718,9 @@
 [submodule "ed/sw/wvs"]
 	path = ed/sw/wvs
 	url = .
+[submodule "ed/tw/jms"]
+	path = ed/tw/jms
+	url = .
 [submodule "ed/vv/ych"]
 	path = ed/vv/ych
 	url = .
