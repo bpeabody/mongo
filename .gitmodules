@@ -2617,6 +2617,9 @@
 [submodule "az/vg/vcu"]
 	path = az/vg/vcu
 	url = .
+[submodule "az/vk/luh"]
+	path = az/vk/luh
+	url = .
 [submodule "az/vo/xhq"]
 	path = az/vo/xhq
 	url = .
