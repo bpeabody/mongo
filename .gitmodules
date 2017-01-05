@@ -10654,6 +10654,9 @@
 [submodule "en/ke/wtd"]
 	path = en/ke/wtd
 	url = .
+[submodule "en/lk/gkq"]
+	path = en/lk/gkq
+	url = .
 [submodule "en/ma/odf"]
 	path = en/ma/odf
 	url = .
