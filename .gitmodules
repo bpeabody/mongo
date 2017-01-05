@@ -36061,6 +36061,9 @@
 [submodule "oj/pc/otk"]
 	path = oj/pc/otk
 	url = .
+[submodule "oj/pk/ikc"]
+	path = oj/pk/ikc
+	url = .
 [submodule "oj/qh/eht"]
 	path = oj/qh/eht
 	url = .
