@@ -30646,6 +30646,9 @@
 [submodule "sq/fq/upo"]
 	path = sq/fq/upo
 	url = .
+[submodule "sq/gh/wik"]
+	path = sq/gh/wik
+	url = .
 [submodule "sq/gn/ugl"]
 	path = sq/gn/ugl
 	url = .
