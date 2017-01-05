@@ -481,6 +481,9 @@
 [submodule "ae/iz/cjt"]
 	path = ae/iz/cjt
 	url = .
+[submodule "ae/ja/tun"]
+	path = ae/ja/tun
+	url = .
 [submodule "ae/jc/bxq"]
 	path = ae/jc/bxq
 	url = .
