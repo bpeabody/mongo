@@ -55660,6 +55660,9 @@
 [submodule "so/wm/scj"]
 	path = so/wm/scj
 	url = .
+[submodule "so/ww/ukt"]
+	path = so/ww/ukt
+	url = .
 [submodule "so/xi/buo"]
 	path = so/xi/buo
 	url = .
