@@ -6523,6 +6523,9 @@
 [submodule "um/xl/wsl"]
 	path = um/xl/wsl
 	url = .
+[submodule "um/zt/mqc"]
+	path = um/zt/mqc
+	url = .
 [submodule "un/kz/vgz"]
 	path = un/kz/vgz
 	url = .
