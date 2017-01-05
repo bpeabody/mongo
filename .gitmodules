@@ -7,6 +7,9 @@
 [submodule "ac/mt/loe"]
 	path = ac/mt/loe
 	url = .
+[submodule "ad/zw/qbx"]
+	path = ad/zw/qbx
+	url = .
 [submodule "ah/qy/stj"]
 	path = ah/qy/stj
 	url = .
