@@ -13852,6 +13852,9 @@
 [submodule "gs/ef/jlg"]
 	path = gs/ef/jlg
 	url = .
+[submodule "gs/el/vhq"]
+	path = gs/el/vhq
+	url = .
 [submodule "gs/fn/vvp"]
 	path = gs/fn/vvp
 	url = .
