@@ -18856,6 +18856,9 @@
 [submodule "oe/vs/dvz"]
 	path = oe/vs/dvz
 	url = .
+[submodule "oe/wl/vgr"]
+	path = oe/wl/vgr
+	url = .
 [submodule "of/an/yzp"]
 	path = of/an/yzp
 	url = .
