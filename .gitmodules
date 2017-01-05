@@ -1111,6 +1111,9 @@
 [submodule "bd/ve/rmt"]
 	path = bd/ve/rmt
 	url = .
+[submodule "bd/zb/grr"]
+	path = bd/zb/grr
+	url = .
 [submodule "be/ce/aum"]
 	path = be/ce/aum
 	url = .
