@@ -31777,6 +31777,9 @@
 [submodule "on/ys/dzt"]
 	path = on/ys/dzt
 	url = .
+[submodule "oo/bq/gql"]
+	path = oo/bq/gql
+	url = .
 [submodule "oo/bs/wkv"]
 	path = oo/bs/wkv
 	url = .
