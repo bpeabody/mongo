@@ -34606,6 +34606,9 @@
 [submodule "vq/dv/cld"]
 	path = vq/dv/cld
 	url = .
+[submodule "vq/eh/wfx"]
+	path = vq/eh/wfx
+	url = .
 [submodule "vq/eu/gas"]
 	path = vq/eu/gas
 	url = .
