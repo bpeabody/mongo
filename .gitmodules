@@ -27787,6 +27787,9 @@
 [submodule "rh/rd/xrl"]
 	path = rh/rd/xrl
 	url = .
+[submodule "rh/sj/cln"]
+	path = rh/sj/cln
+	url = .
 [submodule "rh/su/cxq"]
 	path = rh/su/cxq
 	url = .
