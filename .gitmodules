@@ -532,6 +532,9 @@
 [submodule "ah/qy/stj"]
 	path = ah/qy/stj
 	url = .
+[submodule "ah/sh/miy"]
+	path = ah/sh/miy
+	url = .
 [submodule "ah/sn/gxh"]
 	path = ah/sn/gxh
 	url = .
