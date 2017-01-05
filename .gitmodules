@@ -44092,6 +44092,9 @@
 [submodule "ra/ot/mwh"]
 	path = ra/ot/mwh
 	url = .
+[submodule "ra/ow/wyv"]
+	path = ra/ow/wyv
+	url = .
 [submodule "ra/qt/aux"]
 	path = ra/qt/aux
 	url = .
