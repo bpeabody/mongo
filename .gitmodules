@@ -5782,6 +5782,9 @@
 [submodule "fo/uv/gtl"]
 	path = fo/uv/gtl
 	url = .
+[submodule "fo/vk/ymq"]
+	path = fo/vk/ymq
+	url = .
 [submodule "fo/ws/rkm"]
 	path = fo/ws/rkm
 	url = .
