@@ -8389,6 +8389,9 @@
 [submodule "qh/uw/sjj"]
 	path = qh/uw/sjj
 	url = .
+[submodule "qh/wl/dsr"]
+	path = qh/wl/dsr
+	url = .
 [submodule "qi/ac/hbv"]
 	path = qi/ac/hbv
 	url = .
