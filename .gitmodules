@@ -30055,6 +30055,9 @@
 [submodule "wl/ak/tsu"]
 	path = wl/ak/tsu
 	url = .
+[submodule "wl/bi/qrk"]
+	path = wl/bi/qrk
+	url = .
 [submodule "wl/fg/szf"]
 	path = wl/fg/szf
 	url = .
