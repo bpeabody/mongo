@@ -12985,6 +12985,9 @@
 [submodule "gn/st/zsn"]
 	path = gn/st/zsn
 	url = .
+[submodule "gn/uz/sms"]
+	path = gn/uz/sms
+	url = .
 [submodule "gn/va/yzc"]
 	path = gn/va/yzc
 	url = .
