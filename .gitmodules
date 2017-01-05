@@ -1621,6 +1621,9 @@
 [submodule "md/hr/guc"]
 	path = md/hr/guc
 	url = .
+[submodule "me/ts/zce"]
+	path = me/ts/zce
+	url = .
 [submodule "me/wq/bls"]
 	path = me/wq/bls
 	url = .
