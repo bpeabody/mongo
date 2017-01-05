@@ -15664,6 +15664,9 @@
 [submodule "mt/gp/lvn"]
 	path = mt/gp/lvn
 	url = .
+[submodule "mt/nh/oqj"]
+	path = mt/nh/oqj
+	url = .
 [submodule "mt/nj/hmc"]
 	path = mt/nj/hmc
 	url = .
