@@ -44467,6 +44467,9 @@
 [submodule "ri/bs/nfo"]
 	path = ri/bs/nfo
 	url = .
+[submodule "ri/ca/ppt"]
+	path = ri/ca/ppt
+	url = .
 [submodule "ri/cx/gsk"]
 	path = ri/cx/gsk
 	url = .
