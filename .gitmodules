@@ -11692,6 +11692,9 @@
 [submodule "pb/bd/rpx"]
 	path = pb/bd/rpx
 	url = .
+[submodule "pb/er/lsb"]
+	path = pb/er/lsb
+	url = .
 [submodule "pb/ha/lbw"]
 	path = pb/ha/lbw
 	url = .
