@@ -46687,6 +46687,9 @@
 [submodule "pq/zh/lzb"]
 	path = pq/zh/lzb
 	url = .
+[submodule "pq/zw/hpc"]
+	path = pq/zw/hpc
+	url = .
 [submodule "pr/al/daw"]
 	path = pr/al/daw
 	url = .
