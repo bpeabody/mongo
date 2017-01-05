@@ -45826,6 +45826,9 @@
 [submodule "ti/ur/rdq"]
 	path = ti/ur/rdq
 	url = .
+[submodule "ti/vi/vms"]
+	path = ti/vi/vms
+	url = .
 [submodule "ti/we/jxp"]
 	path = ti/we/jxp
 	url = .
