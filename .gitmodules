@@ -1873,6 +1873,9 @@
 [submodule "lx/mk/cfl"]
 	path = lx/mk/cfl
 	url = .
+[submodule "lz/ky/gcn"]
+	path = lz/ky/gcn
+	url = .
 [submodule "mc/dc/otc"]
 	path = mc/dc/otc
 	url = .
