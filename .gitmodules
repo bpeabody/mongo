@@ -54148,6 +54148,9 @@
 [submodule "yx/qp/ttq"]
 	path = yx/qp/ttq
 	url = .
+[submodule "yx/rc/ptd"]
+	path = yx/rc/ptd
+	url = .
 [submodule "yx/se/xxi"]
 	path = yx/se/xxi
 	url = .
