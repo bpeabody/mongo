@@ -18340,6 +18340,9 @@
 [submodule "tp/ox/lda"]
 	path = tp/ox/lda
 	url = .
+[submodule "tp/pe/irk"]
+	path = tp/pe/irk
+	url = .
 [submodule "tp/qh/kzb"]
 	path = tp/qh/kzb
 	url = .
