@@ -13657,6 +13657,9 @@
 [submodule "fj/jr/cdc"]
 	path = fj/jr/cdc
 	url = .
+[submodule "fj/lq/eme"]
+	path = fj/lq/eme
+	url = .
 [submodule "fj/ni/pgu"]
 	path = fj/ni/pgu
 	url = .
