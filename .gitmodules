@@ -25474,6 +25474,9 @@
 [submodule "kr/vs/tba"]
 	path = kr/vs/tba
 	url = .
+[submodule "kr/vx/xqv"]
+	path = kr/vx/xqv
+	url = .
 [submodule "kr/wb/lru"]
 	path = kr/wb/lru
 	url = .
