@@ -4603,6 +4603,9 @@
 [submodule "lr/qk/mgz"]
 	path = lr/qk/mgz
 	url = .
+[submodule "lr/ww/qds"]
+	path = lr/ww/qds
+	url = .
 [submodule "ls/gu/hls"]
 	path = ls/gu/hls
 	url = .
