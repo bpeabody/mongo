@@ -6658,6 +6658,9 @@
 [submodule "mg/fm/amn"]
 	path = mg/fm/amn
 	url = .
+[submodule "mg/hy/skv"]
+	path = mg/hy/skv
+	url = .
 [submodule "mg/kz/lln"]
 	path = mg/kz/lln
 	url = .
