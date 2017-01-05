@@ -8686,6 +8686,9 @@
 [submodule "rq/gf/oyy"]
 	path = rq/gf/oyy
 	url = .
+[submodule "rq/if/vsy"]
+	path = rq/if/vsy
+	url = .
 [submodule "rq/ik/coq"]
 	path = rq/ik/coq
 	url = .
