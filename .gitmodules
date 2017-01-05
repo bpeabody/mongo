@@ -1873,6 +1873,9 @@
 [submodule "dv/by/rkp"]
 	path = dv/by/rkp
 	url = .
+[submodule "dv/bz/lsf"]
+	path = dv/bz/lsf
+	url = .
 [submodule "dv/wz/xxu"]
 	path = dv/wz/xxu
 	url = .
