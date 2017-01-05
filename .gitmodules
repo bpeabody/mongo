@@ -9076,6 +9076,9 @@
 [submodule "dw/sh/frr"]
 	path = dw/sh/frr
 	url = .
+[submodule "dw/ui/csb"]
+	path = dw/ui/csb
+	url = .
 [submodule "dw/uw/egd"]
 	path = dw/uw/egd
 	url = .
