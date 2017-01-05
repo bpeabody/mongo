@@ -7855,6 +7855,9 @@
 [submodule "ec/nh/sae"]
 	path = ec/nh/sae
 	url = .
+[submodule "ec/nw/xvp"]
+	path = ec/nw/xvp
+	url = .
 [submodule "ec/ob/snz"]
 	path = ec/ob/snz
 	url = .
