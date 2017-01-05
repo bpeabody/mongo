@@ -9760,6 +9760,9 @@
 [submodule "fu/ak/rnm"]
 	path = fu/ak/rnm
 	url = .
+[submodule "fu/at/ddx"]
+	path = fu/at/ddx
+	url = .
 [submodule "fu/ba/sif"]
 	path = fu/ba/sif
 	url = .
