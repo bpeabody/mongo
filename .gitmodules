@@ -8731,6 +8731,9 @@
 [submodule "hw/pq/rbp"]
 	path = hw/pq/rbp
 	url = .
+[submodule "hw/qb/sbl"]
+	path = hw/qb/sbl
+	url = .
 [submodule "hw/rj/jbt"]
 	path = hw/rj/jbt
 	url = .
