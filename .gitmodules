@@ -49576,6 +49576,9 @@
 [submodule "ue/ec/bcb"]
 	path = ue/ec/bcb
 	url = .
+[submodule "ue/es/yoe"]
+	path = ue/es/yoe
+	url = .
 [submodule "ue/fk/acb"]
 	path = ue/fk/acb
 	url = .
