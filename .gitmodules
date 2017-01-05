@@ -74251,6 +74251,9 @@
 [submodule "yp/vq/iys"]
 	path = yp/vq/iys
 	url = .
+[submodule "yp/xh/lvo"]
+	path = yp/xh/lvo
+	url = .
 [submodule "yp/zn/kzn"]
 	path = yp/zn/kzn
 	url = .
