@@ -3739,6 +3739,9 @@
 [submodule "xi/cx/lii"]
 	path = xi/cx/lii
 	url = .
+[submodule "xi/wg/gmg"]
+	path = xi/wg/gmg
+	url = .
 [submodule "xj/az/dsw"]
 	path = xj/az/dsw
 	url = .
