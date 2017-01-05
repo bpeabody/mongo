@@ -361,6 +361,9 @@
 [submodule "co/of/qoi"]
 	path = co/of/qoi
 	url = .
+[submodule "cp/kk/rym"]
+	path = cp/kk/rym
+	url = .
 [submodule "cp/kt/eau"]
 	path = cp/kt/eau
 	url = .
