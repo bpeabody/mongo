@@ -154,6 +154,9 @@
 [submodule "cr/ms/mcf"]
 	path = cr/ms/mcf
 	url = .
+[submodule "cs/sj/pyk"]
+	path = cs/sj/pyk
+	url = .
 [submodule "cu/dj/mca"]
 	path = cu/dj/mca
 	url = .
