@@ -4408,6 +4408,9 @@
 [submodule "kv/iy/iap"]
 	path = kv/iy/iap
 	url = .
+[submodule "kv/tv/xhl"]
+	path = kv/tv/xhl
+	url = .
 [submodule "kv/wq/msi"]
 	path = kv/wq/msi
 	url = .
