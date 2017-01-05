@@ -1645,6 +1645,9 @@
 [submodule "ax/vg/qzk"]
 	path = ax/vg/qzk
 	url = .
+[submodule "ax/vy/vbw"]
+	path = ax/vy/vbw
+	url = .
 [submodule "ax/ww/aku"]
 	path = ax/ww/aku
 	url = .
