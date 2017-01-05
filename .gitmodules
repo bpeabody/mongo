@@ -33316,6 +33316,9 @@
 [submodule "tb/cc/dse"]
 	path = tb/cc/dse
 	url = .
+[submodule "tb/fn/vjh"]
+	path = tb/fn/vjh
+	url = .
 [submodule "tb/ke/eqz"]
 	path = tb/ke/eqz
 	url = .
