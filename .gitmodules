@@ -3532,6 +3532,9 @@
 [submodule "eo/oo/myr"]
 	path = eo/oo/myr
 	url = .
+[submodule "eo/vu/ubt"]
+	path = eo/vu/ubt
+	url = .
 [submodule "ep/af/pop"]
 	path = ep/af/pop
 	url = .
