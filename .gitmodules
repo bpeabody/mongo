@@ -21571,6 +21571,9 @@
 [submodule "hy/wr/ciy"]
 	path = hy/wr/ciy
 	url = .
+[submodule "hy/xe/ehu"]
+	path = hy/xe/ehu
+	url = .
 [submodule "hy/yl/lfy"]
 	path = hy/yl/lfy
 	url = .
