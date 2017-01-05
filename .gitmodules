@@ -44908,6 +44908,9 @@
 [submodule "vz/bx/pgr"]
 	path = vz/bx/pgr
 	url = .
+[submodule "vz/ch/buj"]
+	path = vz/ch/buj
+	url = .
 [submodule "vz/fm/nij"]
 	path = vz/fm/nij
 	url = .
