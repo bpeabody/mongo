@@ -20200,6 +20200,9 @@
 [submodule "ts/vf/mco"]
 	path = ts/vf/mco
 	url = .
+[submodule "ts/wc/kom"]
+	path = ts/wc/kom
+	url = .
 [submodule "ts/yl/vpz"]
 	path = ts/yl/vpz
 	url = .
