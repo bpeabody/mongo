@@ -38809,6 +38809,9 @@
 [submodule "pl/hq/fgj"]
 	path = pl/hq/fgj
 	url = .
+[submodule "pl/hs/wns"]
+	path = pl/hs/wns
+	url = .
 [submodule "pl/in/ubr"]
 	path = pl/in/ubr
 	url = .
