@@ -11770,6 +11770,9 @@
 [submodule "ip/ux/xfc"]
 	path = ip/ux/xfc
 	url = .
+[submodule "ip/xd/yty"]
+	path = ip/xd/yty
+	url = .
 [submodule "ip/xs/ixk"]
 	path = ip/xs/ixk
 	url = .
