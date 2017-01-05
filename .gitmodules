@@ -2854,6 +2854,9 @@
 [submodule "em/zn/lcm"]
 	path = em/zn/lcm
 	url = .
+[submodule "en/hp/lkg"]
+	path = en/hp/lkg
+	url = .
 [submodule "en/ke/wtd"]
 	path = en/ke/wtd
 	url = .
