@@ -14602,6 +14602,9 @@
 [submodule "jv/kf/oqr"]
 	path = jv/kf/oqr
 	url = .
+[submodule "jv/ki/crg"]
+	path = jv/ki/crg
+	url = .
 [submodule "jv/no/vqn"]
 	path = jv/no/vqn
 	url = .
