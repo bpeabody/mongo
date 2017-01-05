@@ -29866,6 +29866,9 @@
 [submodule "zh/qg/pad"]
 	path = zh/qg/pad
 	url = .
+[submodule "zh/qp/kni"]
+	path = zh/qp/kni
+	url = .
 [submodule "zh/qx/dxe"]
 	path = zh/qx/dxe
 	url = .
