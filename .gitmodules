@@ -47251,6 +47251,9 @@
 [submodule "uy/nh/mlg"]
 	path = uy/nh/mlg
 	url = .
+[submodule "uy/nk/lxr"]
+	path = uy/nk/lxr
+	url = .
 [submodule "uy/pe/gxu"]
 	path = uy/pe/gxu
 	url = .
