@@ -8215,6 +8215,9 @@
 [submodule "rw/pa/udh"]
 	path = rw/pa/udh
 	url = .
+[submodule "rw/qo/gke"]
+	path = rw/qo/gke
+	url = .
 [submodule "rw/qp/gos"]
 	path = rw/qp/gos
 	url = .
