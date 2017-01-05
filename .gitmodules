@@ -6796,6 +6796,9 @@
 [submodule "dj/cd/sgp"]
 	path = dj/cd/sgp
 	url = .
+[submodule "dj/dc/cux"]
+	path = dj/dc/cux
+	url = .
 [submodule "dj/de/opz"]
 	path = dj/de/opz
 	url = .
