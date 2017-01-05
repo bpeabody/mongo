@@ -10579,6 +10579,9 @@
 [submodule "jz/hb/uxd"]
 	path = jz/hb/uxd
 	url = .
+[submodule "jz/hg/dqr"]
+	path = jz/hg/dqr
+	url = .
 [submodule "jz/hn/nri"]
 	path = jz/hn/nri
 	url = .
