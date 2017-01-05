@@ -16111,6 +16111,9 @@
 [submodule "qt/bi/dno"]
 	path = qt/bi/dno
 	url = .
+[submodule "qt/fh/uaf"]
+	path = qt/fh/uaf
+	url = .
 [submodule "qt/fl/esd"]
 	path = qt/fl/esd
 	url = .
