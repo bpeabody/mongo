@@ -463,6 +463,9 @@
 [submodule "ix/yt/okh"]
 	path = ix/yt/okh
 	url = .
+[submodule "iy/az/ymy"]
+	path = iy/az/ymy
+	url = .
 [submodule "iy/dh/qsl"]
 	path = iy/dh/qsl
 	url = .
