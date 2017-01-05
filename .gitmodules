@@ -17770,6 +17770,9 @@
 [submodule "hl/bu/kug"]
 	path = hl/bu/kug
 	url = .
+[submodule "hl/ct/azm"]
+	path = hl/ct/azm
+	url = .
 [submodule "hl/fr/cui"]
 	path = hl/fr/cui
 	url = .
