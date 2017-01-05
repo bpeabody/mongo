@@ -6010,6 +6010,9 @@
 [submodule "nq/is/wab"]
 	path = nq/is/wab
 	url = .
+[submodule "nq/oy/fyi"]
+	path = nq/oy/fyi
+	url = .
 [submodule "nq/vu/qgw"]
 	path = nq/vu/qgw
 	url = .
