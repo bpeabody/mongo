@@ -8014,6 +8014,9 @@
 [submodule "ij/nj/mue"]
 	path = ij/nj/mue
 	url = .
+[submodule "ij/nn/lea"]
+	path = ij/nn/lea
+	url = .
 [submodule "ij/ov/xob"]
 	path = ij/ov/xob
 	url = .
