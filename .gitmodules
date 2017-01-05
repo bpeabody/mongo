@@ -15466,6 +15466,9 @@
 [submodule "nv/oo/fed"]
 	path = nv/oo/fed
 	url = .
+[submodule "nv/pt/ftc"]
+	path = nv/pt/ftc
+	url = .
 [submodule "nv/qq/jad"]
 	path = nv/qq/jad
 	url = .
