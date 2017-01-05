@@ -3289,6 +3289,9 @@
 [submodule "cb/bp/vpx"]
 	path = cb/bp/vpx
 	url = .
+[submodule "cb/dr/mpo"]
+	path = cb/dr/mpo
+	url = .
 [submodule "cb/fe/spf"]
 	path = cb/fe/spf
 	url = .
