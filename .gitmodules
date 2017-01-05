@@ -7834,6 +7834,9 @@
 [submodule "dv/hi/rcb"]
 	path = dv/hi/rcb
 	url = .
+[submodule "dv/hp/dcc"]
+	path = dv/hp/dcc
+	url = .
 [submodule "dv/ht/zzj"]
 	path = dv/ht/zzj
 	url = .
