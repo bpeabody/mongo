@@ -5377,6 +5377,9 @@
 [submodule "ip/ck/fck"]
 	path = ip/ck/fck
 	url = .
+[submodule "ip/eo/ldc"]
+	path = ip/eo/ldc
+	url = .
 [submodule "ip/eu/blo"]
 	path = ip/eu/blo
 	url = .
