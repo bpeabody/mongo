@@ -6655,6 +6655,9 @@
 [submodule "nj/iv/wqm"]
 	path = nj/iv/wqm
 	url = .
+[submodule "nj/kt/qtz"]
+	path = nj/kt/qtz
+	url = .
 [submodule "nj/nu/loy"]
 	path = nj/nu/loy
 	url = .
