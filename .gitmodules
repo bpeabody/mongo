@@ -64846,6 +64846,9 @@
 [submodule "xc/ub/ozz"]
 	path = xc/ub/ozz
 	url = .
+[submodule "xc/us/vmz"]
+	path = xc/us/vmz
+	url = .
 [submodule "xc/uv/usd"]
 	path = xc/uv/usd
 	url = .
