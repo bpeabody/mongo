@@ -22174,6 +22174,9 @@
 [submodule "mu/dq/hzv"]
 	path = mu/dq/hzv
 	url = .
+[submodule "mu/fm/ebd"]
+	path = mu/fm/ebd
+	url = .
 [submodule "mu/ig/bwn"]
 	path = mu/ig/bwn
 	url = .
