@@ -18694,6 +18694,9 @@
 [submodule "js/ar/sky"]
 	path = js/ar/sky
 	url = .
+[submodule "js/bv/vte"]
+	path = js/bv/vte
+	url = .
 [submodule "js/di/miz"]
 	path = js/di/miz
 	url = .
