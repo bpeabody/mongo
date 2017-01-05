@@ -3724,6 +3724,9 @@
 [submodule "bj/vh/gly"]
 	path = bj/vh/gly
 	url = .
+[submodule "bj/vh/jqh"]
+	path = bj/vh/jqh
+	url = .
 [submodule "bj/wk/igh"]
 	path = bj/wk/igh
 	url = .
