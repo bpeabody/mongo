@@ -41038,6 +41038,9 @@
 [submodule "nu/ew/rns"]
 	path = nu/ew/rns
 	url = .
+[submodule "nu/fu/zir"]
+	path = nu/fu/zir
+	url = .
 [submodule "nu/ha/rys"]
 	path = nu/ha/rys
 	url = .
