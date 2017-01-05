@@ -16195,6 +16195,9 @@
 [submodule "kd/br/xxg"]
 	path = kd/br/xxg
 	url = .
+[submodule "kd/bw/nmx"]
+	path = kd/bw/nmx
+	url = .
 [submodule "kd/cf/upb"]
 	path = kd/cf/upb
 	url = .
