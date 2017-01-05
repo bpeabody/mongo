@@ -59887,6 +59887,9 @@
 [submodule "xm/qd/bwp"]
 	path = xm/qd/bwp
 	url = .
+[submodule "xm/qu/upr"]
+	path = xm/qu/upr
+	url = .
 [submodule "xm/qw/vjq"]
 	path = xm/qw/vjq
 	url = .
