@@ -68527,6 +68527,9 @@
 [submodule "yg/lq/faq"]
 	path = yg/lq/faq
 	url = .
+[submodule "yg/lq/gbz"]
+	path = yg/lq/gbz
+	url = .
 [submodule "yg/lv/bcz"]
 	path = yg/lv/bcz
 	url = .
