@@ -37741,6 +37741,9 @@
 [submodule "ng/yu/rrs"]
 	path = ng/yu/rrs
 	url = .
+[submodule "nh/aq/kui"]
+	path = nh/aq/kui
+	url = .
 [submodule "nh/ar/rip"]
 	path = nh/ar/rip
 	url = .
