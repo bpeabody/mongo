@@ -24835,6 +24835,9 @@
 [submodule "tq/fu/lrd"]
 	path = tq/fu/lrd
 	url = .
+[submodule "tq/gc/fwj"]
+	path = tq/gc/fwj
+	url = .
 [submodule "tq/ic/urb"]
 	path = tq/ic/urb
 	url = .
