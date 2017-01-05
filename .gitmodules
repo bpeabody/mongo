@@ -4240,6 +4240,9 @@
 [submodule "gh/uh/edi"]
 	path = gh/uh/edi
 	url = .
+[submodule "gh/xg/pmi"]
+	path = gh/xg/pmi
+	url = .
 [submodule "gh/zc/qwz"]
 	path = gh/zc/qwz
 	url = .
