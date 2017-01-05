@@ -8311,6 +8311,9 @@
 [submodule "if/vu/hrp"]
 	path = if/vu/hrp
 	url = .
+[submodule "if/xe/ixs"]
+	path = if/xe/ixs
+	url = .
 [submodule "if/xy/cmh"]
 	path = if/xy/cmh
 	url = .
