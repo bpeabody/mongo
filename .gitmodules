@@ -27001,6 +27001,9 @@
 [submodule "sq/nq/kmg"]
 	path = sq/nq/kmg
 	url = .
+[submodule "sq/nv/brk"]
+	path = sq/nv/brk
+	url = .
 [submodule "sq/rk/fel"]
 	path = sq/rk/fel
 	url = .
