@@ -39439,6 +39439,9 @@
 [submodule "pw/ip/jiw"]
 	path = pw/ip/jiw
 	url = .
+[submodule "pw/iv/qyv"]
+	path = pw/iv/qyv
+	url = .
 [submodule "pw/jn/lnk"]
 	path = pw/jn/lnk
 	url = .
