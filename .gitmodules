@@ -586,6 +586,9 @@
 [submodule "cs/ui/yoe"]
 	path = cs/ui/yoe
 	url = .
+[submodule "cs/uq/elw"]
+	path = cs/uq/elw
+	url = .
 [submodule "cs/ws/ltu"]
 	path = cs/ws/ltu
 	url = .
