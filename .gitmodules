@@ -8035,6 +8035,9 @@
 [submodule "fs/re/idu"]
 	path = fs/re/idu
 	url = .
+[submodule "fs/st/sdd"]
+	path = fs/st/sdd
+	url = .
 [submodule "fs/tm/njg"]
 	path = fs/tm/njg
 	url = .
