@@ -5470,6 +5470,9 @@
 [submodule "ir/oa/psl"]
 	path = ir/oa/psl
 	url = .
+[submodule "ir/re/umm"]
+	path = ir/re/umm
+	url = .
 [submodule "ir/rt/jpb"]
 	path = ir/rt/jpb
 	url = .
