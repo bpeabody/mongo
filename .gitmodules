@@ -154,6 +154,9 @@
 [submodule "pr/od/nld"]
 	path = pr/od/nld
 	url = .
+[submodule "pv/ca/bhp"]
+	path = pv/ca/bhp
+	url = .
 [submodule "pw/df/mqn"]
 	path = pw/df/mqn
 	url = .
