@@ -9634,6 +9634,9 @@
 [submodule "ur/vv/jtr"]
 	path = ur/vv/jtr
 	url = .
+[submodule "ur/wc/gkn"]
+	path = ur/wc/gkn
+	url = .
 [submodule "us/jc/oei"]
 	path = us/jc/oei
 	url = .
