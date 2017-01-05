@@ -6373,6 +6373,9 @@
 [submodule "kv/iy/iap"]
 	path = kv/iy/iap
 	url = .
+[submodule "kv/kk/hos"]
+	path = kv/kk/hos
+	url = .
 [submodule "kv/la/xco"]
 	path = kv/la/xco
 	url = .
