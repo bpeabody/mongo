@@ -64,6 +64,9 @@
 [submodule "cb/yj/osl"]
 	path = cb/yj/osl
 	url = .
+[submodule "cd/ea/jdu"]
+	path = cd/ea/jdu
+	url = .
 [submodule "ce/oa/cdi"]
 	path = ce/oa/cdi
 	url = .
