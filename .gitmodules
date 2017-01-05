@@ -115,6 +115,9 @@
 [submodule "hr/nx/kca"]
 	path = hr/nx/kca
 	url = .
+[submodule "id/av/buj"]
+	path = id/av/buj
+	url = .
 [submodule "if/uj/vjx"]
 	path = if/uj/vjx
 	url = .
