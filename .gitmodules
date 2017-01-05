@@ -30562,6 +30562,9 @@
 [submodule "wg/mo/fua"]
 	path = wg/mo/fua
 	url = .
+[submodule "wg/mt/akn"]
+	path = wg/mt/akn
+	url = .
 [submodule "wg/no/qgg"]
 	path = wg/no/qgg
 	url = .
