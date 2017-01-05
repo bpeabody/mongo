@@ -1624,6 +1624,9 @@
 [submodule "ej/lz/tfw"]
 	path = ej/lz/tfw
 	url = .
+[submodule "ej/nv/cqq"]
+	path = ej/nv/cqq
+	url = .
 [submodule "ej/si/lya"]
 	path = ej/si/lya
 	url = .
