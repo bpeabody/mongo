@@ -2050,6 +2050,9 @@
 [submodule "em/me/irr"]
 	path = em/me/irr
 	url = .
+[submodule "em/mw/vqe"]
+	path = em/mw/vqe
+	url = .
 [submodule "em/ys/bfl"]
 	path = em/ys/bfl
 	url = .
