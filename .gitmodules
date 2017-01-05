@@ -2329,6 +2329,9 @@
 [submodule "de/gc/fvk"]
 	path = de/gc/fvk
 	url = .
+[submodule "de/ht/upb"]
+	path = de/ht/upb
+	url = .
 [submodule "de/js/etd"]
 	path = de/js/etd
 	url = .
