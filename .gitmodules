@@ -97,6 +97,9 @@
 [submodule "az/mz/sgo"]
 	path = az/mz/sgo
 	url = .
+[submodule "ba/ng/fry"]
+	path = ba/ng/fry
+	url = .
 [submodule "ba/wp/uup"]
 	path = ba/wp/uup
 	url = .
