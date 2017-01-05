@@ -637,6 +637,9 @@
 [submodule "bk/qd/txn"]
 	path = bk/qd/txn
 	url = .
+[submodule "bk/zw/edj"]
+	path = bk/zw/edj
+	url = .
 [submodule "bl/ao/itb"]
 	path = bl/ao/itb
 	url = .
