@@ -4045,6 +4045,9 @@
 [submodule "fi/my/npa"]
 	path = fi/my/npa
 	url = .
+[submodule "fi/vb/mwu"]
+	path = fi/vb/mwu
+	url = .
 [submodule "fi/yg/vlf"]
 	path = fi/yg/vlf
 	url = .
