@@ -2104,6 +2104,9 @@
 [submodule "iy/ou/aim"]
 	path = iy/ou/aim
 	url = .
+[submodule "ja/ba/smw"]
+	path = ja/ba/smw
+	url = .
 [submodule "ja/fk/gbl"]
 	path = ja/fk/gbl
 	url = .
