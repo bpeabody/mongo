@@ -13141,6 +13141,9 @@
 [submodule "km/mp/dkx"]
 	path = km/mp/dkx
 	url = .
+[submodule "km/nc/lxc"]
+	path = km/nc/lxc
+	url = .
 [submodule "km/we/sfp"]
 	path = km/we/sfp
 	url = .
