@@ -9028,6 +9028,9 @@
 [submodule "gb/rt/ypu"]
 	path = gb/rt/ypu
 	url = .
+[submodule "gb/th/aul"]
+	path = gb/th/aul
+	url = .
 [submodule "gb/ur/esj"]
 	path = gb/ur/esj
 	url = .
