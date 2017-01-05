@@ -1804,6 +1804,9 @@
 [submodule "fg/hj/pgd"]
 	path = fg/hj/pgd
 	url = .
+[submodule "fg/wj/sgm"]
+	path = fg/wj/sgm
+	url = .
 [submodule "fg/xh/jto"]
 	path = fg/xh/jto
 	url = .
