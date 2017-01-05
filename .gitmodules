@@ -22441,6 +22441,9 @@
 [submodule "wb/en/zaq"]
 	path = wb/en/zaq
 	url = .
+[submodule "wb/fo/trv"]
+	path = wb/fo/trv
+	url = .
 [submodule "wb/gh/lwl"]
 	path = wb/gh/lwl
 	url = .
