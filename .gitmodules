@@ -8122,6 +8122,9 @@
 [submodule "ta/jb/lkm"]
 	path = ta/jb/lkm
 	url = .
+[submodule "ta/kj/lpe"]
+	path = ta/kj/lpe
+	url = .
 [submodule "ta/oc/fgs"]
 	path = ta/oc/fgs
 	url = .
