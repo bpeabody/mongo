@@ -50149,6 +50149,9 @@
 [submodule "sq/mb/huf"]
 	path = sq/mb/huf
 	url = .
+[submodule "sq/mq/coa"]
+	path = sq/mq/coa
+	url = .
 [submodule "sq/mq/xgw"]
 	path = sq/mq/xgw
 	url = .
