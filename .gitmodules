@@ -8665,6 +8665,9 @@
 [submodule "db/mc/exv"]
 	path = db/mc/exv
 	url = .
+[submodule "db/mc/uqc"]
+	path = db/mc/uqc
+	url = .
 [submodule "db/ng/poe"]
 	path = db/ng/poe
 	url = .
