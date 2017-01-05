@@ -33196,6 +33196,9 @@
 [submodule "lc/ww/gyg"]
 	path = lc/ww/gyg
 	url = .
+[submodule "lc/xc/eco"]
+	path = lc/xc/eco
+	url = .
 [submodule "lc/xg/uas"]
 	path = lc/xg/uas
 	url = .
