@@ -28795,6 +28795,9 @@
 [submodule "uh/it/buv"]
 	path = uh/it/buv
 	url = .
+[submodule "uh/lk/aqk"]
+	path = uh/lk/aqk
+	url = .
 [submodule "uh/ln/bzn"]
 	path = uh/ln/bzn
 	url = .
