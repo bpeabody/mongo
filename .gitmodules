@@ -847,6 +847,9 @@
 [submodule "be/rw/iym"]
 	path = be/rw/iym
 	url = .
+[submodule "be/ya/chc"]
+	path = be/ya/chc
+	url = .
 [submodule "bf/ad/gbb"]
 	path = bf/ad/gbb
 	url = .
