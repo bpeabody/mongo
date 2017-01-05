@@ -367,6 +367,9 @@
 [submodule "aj/aj/rez"]
 	path = aj/aj/rez
 	url = .
+[submodule "aj/bj/tmh"]
+	path = aj/bj/tmh
+	url = .
 [submodule "aj/do/kkl"]
 	path = aj/do/kkl
 	url = .
