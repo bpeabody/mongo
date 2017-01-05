@@ -47323,6 +47323,9 @@
 [submodule "vq/qw/kpu"]
 	path = vq/qw/kpu
 	url = .
+[submodule "vq/rf/wyr"]
+	path = vq/rf/wyr
+	url = .
 [submodule "vq/rj/nod"]
 	path = vq/rj/nod
 	url = .
