@@ -15103,6 +15103,9 @@
 [submodule "hs/qw/jxo"]
 	path = hs/qw/jxo
 	url = .
+[submodule "hs/rs/rsb"]
+	path = hs/rs/rsb
+	url = .
 [submodule "hs/sy/pot"]
 	path = hs/sy/pot
 	url = .
