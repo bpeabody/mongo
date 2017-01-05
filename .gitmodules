@@ -5323,6 +5323,9 @@
 [submodule "fq/xg/chk"]
 	path = fq/xg/chk
 	url = .
+[submodule "fq/xn/cfg"]
+	path = fq/xn/cfg
+	url = .
 [submodule "fr/dm/wdv"]
 	path = fr/dm/wdv
 	url = .
