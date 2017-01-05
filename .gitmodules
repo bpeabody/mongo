@@ -3745,6 +3745,9 @@
 [submodule "vo/ta/jcm"]
 	path = vo/ta/jcm
 	url = .
+[submodule "vp/do/jvf"]
+	path = vp/do/jvf
+	url = .
 [submodule "vp/ww/gqd"]
 	path = vp/ww/gqd
 	url = .
