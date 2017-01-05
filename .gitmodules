@@ -7741,6 +7741,9 @@
 [submodule "fv/bt/hoz"]
 	path = fv/bt/hoz
 	url = .
+[submodule "fv/db/dho"]
+	path = fv/db/dho
+	url = .
 [submodule "fv/hf/mbx"]
 	path = fv/hf/mbx
 	url = .
