@@ -148,6 +148,9 @@
 [submodule "bm/hb/vor"]
 	path = bm/hb/vor
 	url = .
+[submodule "bn/wf/mqn"]
+	path = bn/wf/mqn
+	url = .
 [submodule "bp/po/rhp"]
 	path = bp/po/rhp
 	url = .
