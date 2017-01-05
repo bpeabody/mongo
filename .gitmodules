@@ -1921,6 +1921,9 @@
 [submodule "bw/bh/rmk"]
 	path = bw/bh/rmk
 	url = .
+[submodule "bw/bq/vgo"]
+	path = bw/bq/vgo
+	url = .
 [submodule "bw/dj/yde"]
 	path = bw/dj/yde
 	url = .
