@@ -11446,6 +11446,9 @@
 [submodule "sr/nt/hjv"]
 	path = sr/nt/hjv
 	url = .
+[submodule "sr/ol/rns"]
+	path = sr/ol/rns
+	url = .
 [submodule "sr/vj/lwz"]
 	path = sr/vj/lwz
 	url = .
