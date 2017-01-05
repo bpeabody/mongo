@@ -28816,6 +28816,9 @@
 [submodule "lq/to/ctz"]
 	path = lq/to/ctz
 	url = .
+[submodule "lq/ug/yzg"]
+	path = lq/ug/yzg
+	url = .
 [submodule "lq/uo/wer"]
 	path = lq/uo/wer
 	url = .
