@@ -3115,6 +3115,9 @@
 [submodule "dt/bn/eev"]
 	path = dt/bn/eev
 	url = .
+[submodule "dt/cr/fzl"]
+	path = dt/cr/fzl
+	url = .
 [submodule "dt/mn/kgd"]
 	path = dt/mn/kgd
 	url = .
