@@ -22789,6 +22789,9 @@
 [submodule "kw/xx/djl"]
 	path = kw/xx/djl
 	url = .
+[submodule "kw/zd/qum"]
+	path = kw/zd/qum
+	url = .
 [submodule "kw/zj/bxw"]
 	path = kw/zj/bxw
 	url = .
