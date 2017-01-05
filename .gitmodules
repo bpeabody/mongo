@@ -28558,6 +28558,9 @@
 [submodule "nt/eg/ukj"]
 	path = nt/eg/ukj
 	url = .
+[submodule "nt/em/qgr"]
+	path = nt/em/qgr
+	url = .
 [submodule "nt/gt/rga"]
 	path = nt/gt/rga
 	url = .
