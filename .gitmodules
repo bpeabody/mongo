@@ -22261,6 +22261,9 @@
 [submodule "sc/oe/mmb"]
 	path = sc/oe/mmb
 	url = .
+[submodule "sc/om/plo"]
+	path = sc/om/plo
+	url = .
 [submodule "sc/or/vuo"]
 	path = sc/or/vuo
 	url = .
