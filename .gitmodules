@@ -8950,6 +8950,9 @@
 [submodule "ei/ea/cyk"]
 	path = ei/ea/cyk
 	url = .
+[submodule "ei/ei/wjs"]
+	path = ei/ei/wjs
+	url = .
 [submodule "ei/ep/ofz"]
 	path = ei/ep/ofz
 	url = .
