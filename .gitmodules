@@ -5104,6 +5104,9 @@
 [submodule "mo/xd/mbc"]
 	path = mo/xd/mbc
 	url = .
+[submodule "mp/eo/vxk"]
+	path = mp/eo/vxk
+	url = .
 [submodule "mp/fx/tus"]
 	path = mp/fx/tus
 	url = .
