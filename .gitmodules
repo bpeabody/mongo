@@ -25384,6 +25384,9 @@
 [submodule "kv/sg/wwb"]
 	path = kv/sg/wwb
 	url = .
+[submodule "kv/sm/ase"]
+	path = kv/sm/ase
+	url = .
 [submodule "kv/tr/pfj"]
 	path = kv/tr/pfj
 	url = .
