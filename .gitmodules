@@ -27451,6 +27451,9 @@
 [submodule "mm/tr/xgh"]
 	path = mm/tr/xgh
 	url = .
+[submodule "mm/uk/vgz"]
+	path = mm/uk/vgz
+	url = .
 [submodule "mm/ve/nbq"]
 	path = mm/ve/nbq
 	url = .
