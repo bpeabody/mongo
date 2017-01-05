@@ -45640,6 +45640,9 @@
 [submodule "sk/iu/yjr"]
 	path = sk/iu/yjr
 	url = .
+[submodule "sk/lr/zts"]
+	path = sk/lr/zts
+	url = .
 [submodule "sk/me/tnx"]
 	path = sk/me/tnx
 	url = .
