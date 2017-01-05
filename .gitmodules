@@ -25333,6 +25333,9 @@
 [submodule "ni/rd/kgh"]
 	path = ni/rd/kgh
 	url = .
+[submodule "ni/sg/bwy"]
+	path = ni/sg/bwy
+	url = .
 [submodule "ni/te/jdt"]
 	path = ni/te/jdt
 	url = .
