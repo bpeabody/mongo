@@ -19570,6 +19570,9 @@
 [submodule "yc/ny/xsm"]
 	path = yc/ny/xsm
 	url = .
+[submodule "yc/pl/kzl"]
+	path = yc/pl/kzl
+	url = .
 [submodule "yc/rd/zcn"]
 	path = yc/rd/zcn
 	url = .
