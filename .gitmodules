@@ -8050,6 +8050,9 @@
 [submodule "nq/is/wab"]
 	path = nq/is/wab
 	url = .
+[submodule "nq/kl/oek"]
+	path = nq/kl/oek
+	url = .
 [submodule "nq/ow/rrh"]
 	path = nq/ow/rrh
 	url = .
