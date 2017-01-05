@@ -445,6 +445,9 @@
 [submodule "ap/vr/hmp"]
 	path = ap/vr/hmp
 	url = .
+[submodule "ap/wt/ifs"]
+	path = ap/wt/ifs
+	url = .
 [submodule "ap/ya/fyg"]
 	path = ap/ya/fyg
 	url = .
