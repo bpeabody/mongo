@@ -4867,6 +4867,9 @@
 [submodule "gv/wl/ymk"]
 	path = gv/wl/ymk
 	url = .
+[submodule "gv/yh/goo"]
+	path = gv/yh/goo
+	url = .
 [submodule "gw/ey/hwz"]
 	path = gw/ey/hwz
 	url = .
