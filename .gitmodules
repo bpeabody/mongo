@@ -7504,6 +7504,9 @@
 [submodule "ra/um/jno"]
 	path = ra/um/jno
 	url = .
+[submodule "rb/eb/nut"]
+	path = rb/eb/nut
+	url = .
 [submodule "rb/qe/ecs"]
 	path = rb/qe/ecs
 	url = .
