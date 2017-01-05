@@ -1618,6 +1618,9 @@
 [submodule "ao/hm/yok"]
 	path = ao/hm/yok
 	url = .
+[submodule "ao/hs/xnq"]
+	path = ao/hs/xnq
+	url = .
 [submodule "ao/ih/cai"]
 	path = ao/ih/cai
 	url = .
