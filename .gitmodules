@@ -18442,6 +18442,9 @@
 [submodule "gv/gx/aqq"]
 	path = gv/gx/aqq
 	url = .
+[submodule "gv/hi/yag"]
+	path = gv/hi/yag
+	url = .
 [submodule "gv/ii/mlm"]
 	path = gv/ii/mlm
 	url = .
