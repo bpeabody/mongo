@@ -17101,6 +17101,9 @@
 [submodule "gq/jw/mhv"]
 	path = gq/jw/mhv
 	url = .
+[submodule "gq/lk/eki"]
+	path = gq/lk/eki
+	url = .
 [submodule "gq/ly/uet"]
 	path = gq/ly/uet
 	url = .
