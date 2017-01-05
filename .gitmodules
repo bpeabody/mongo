@@ -5779,6 +5779,9 @@
 [submodule "ck/vn/dpb"]
 	path = ck/vn/dpb
 	url = .
+[submodule "ck/wi/brw"]
+	path = ck/wi/brw
+	url = .
 [submodule "ck/xp/qtv"]
 	path = ck/xp/qtv
 	url = .
