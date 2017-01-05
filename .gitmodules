@@ -12823,6 +12823,9 @@
 [submodule "fo/jm/uke"]
 	path = fo/jm/uke
 	url = .
+[submodule "fo/kg/lcu"]
+	path = fo/kg/lcu
+	url = .
 [submodule "fo/lj/uzm"]
 	path = fo/lj/uzm
 	url = .
