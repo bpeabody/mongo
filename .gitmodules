@@ -11326,6 +11326,9 @@
 [submodule "jf/fp/pot"]
 	path = jf/fp/pot
 	url = .
+[submodule "jf/fx/nai"]
+	path = jf/fx/nai
+	url = .
 [submodule "jf/ke/kzu"]
 	path = jf/ke/kzu
 	url = .
