@@ -12208,6 +12208,9 @@
 [submodule "sh/jr/hks"]
 	path = sh/jr/hks
 	url = .
+[submodule "sh/lb/leh"]
+	path = sh/lb/leh
+	url = .
 [submodule "sh/mw/ktz"]
 	path = sh/mw/ktz
 	url = .
