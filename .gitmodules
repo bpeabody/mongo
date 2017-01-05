@@ -24136,6 +24136,9 @@
 [submodule "oa/zr/typ"]
 	path = oa/zr/typ
 	url = .
+[submodule "ob/bt/diq"]
+	path = ob/bt/diq
+	url = .
 [submodule "ob/fd/udj"]
 	path = ob/fd/udj
 	url = .
