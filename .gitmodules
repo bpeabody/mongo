@@ -11323,6 +11323,9 @@
 [submodule "pi/dx/qlr"]
 	path = pi/dx/qlr
 	url = .
+[submodule "pi/qa/rav"]
+	path = pi/qa/rav
+	url = .
 [submodule "pi/ub/emp"]
 	path = pi/ub/emp
 	url = .
