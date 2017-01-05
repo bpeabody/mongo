@@ -9358,6 +9358,9 @@
 [submodule "sp/dp/skd"]
 	path = sp/dp/skd
 	url = .
+[submodule "sp/ef/vsa"]
+	path = sp/ef/vsa
+	url = .
 [submodule "sp/lc/ngv"]
 	path = sp/lc/ngv
 	url = .
