@@ -5707,6 +5707,9 @@
 [submodule "ez/to/mjj"]
 	path = ez/to/mjj
 	url = .
+[submodule "ez/ts/ddg"]
+	path = ez/ts/ddg
+	url = .
 [submodule "ez/yd/ouv"]
 	path = ez/yd/ouv
 	url = .
