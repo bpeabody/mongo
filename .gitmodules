@@ -7402,6 +7402,9 @@
 [submodule "jc/vl/cpm"]
 	path = jc/vl/cpm
 	url = .
+[submodule "jc/wi/ogn"]
+	path = jc/wi/ogn
+	url = .
 [submodule "jd/dt/zfq"]
 	path = jd/dt/zfq
 	url = .
