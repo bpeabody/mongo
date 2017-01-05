@@ -37447,6 +37447,9 @@
 [submodule "ms/eu/rnm"]
 	path = ms/eu/rnm
 	url = .
+[submodule "ms/fa/rft"]
+	path = ms/fa/rft
+	url = .
 [submodule "ms/fr/ayn"]
 	path = ms/fr/ayn
 	url = .
