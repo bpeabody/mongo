@@ -60193,6 +60193,9 @@
 [submodule "vd/eu/zuo"]
 	path = vd/eu/zuo
 	url = .
+[submodule "vd/fd/wpk"]
+	path = vd/fd/wpk
+	url = .
 [submodule "vd/ft/yjm"]
 	path = vd/ft/yjm
 	url = .
