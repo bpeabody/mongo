@@ -29062,6 +29062,9 @@
 [submodule "nn/mx/rwh"]
 	path = nn/mx/rwh
 	url = .
+[submodule "nn/no/ngq"]
+	path = nn/no/ngq
+	url = .
 [submodule "nn/pm/fip"]
 	path = nn/pm/fip
 	url = .
