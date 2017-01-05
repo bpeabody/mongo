@@ -17809,6 +17809,9 @@
 [submodule "qm/lx/fvm"]
 	path = qm/lx/fvm
 	url = .
+[submodule "qm/ma/yrq"]
+	path = qm/ma/yrq
+	url = .
 [submodule "qm/od/jev"]
 	path = qm/od/jev
 	url = .
