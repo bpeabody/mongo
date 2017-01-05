@@ -4756,6 +4756,9 @@
 [submodule "ic/jg/yci"]
 	path = ic/jg/yci
 	url = .
+[submodule "ic/nf/jpt"]
+	path = ic/nf/jpt
+	url = .
 [submodule "ic/xr/aik"]
 	path = ic/xr/aik
 	url = .
