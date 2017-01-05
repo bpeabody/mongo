@@ -3715,6 +3715,9 @@
 [submodule "fx/so/skm"]
 	path = fx/so/skm
 	url = .
+[submodule "fx/ux/zee"]
+	path = fx/ux/zee
+	url = .
 [submodule "fx/vj/pbw"]
 	path = fx/vj/pbw
 	url = .
