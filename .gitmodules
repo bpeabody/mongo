@@ -8221,6 +8221,9 @@
 [submodule "ti/jy/agu"]
 	path = ti/jy/agu
 	url = .
+[submodule "ti/mn/ngn"]
+	path = ti/mn/ngn
+	url = .
 [submodule "ti/ta/tcc"]
 	path = ti/ta/tcc
 	url = .
