@@ -187,6 +187,9 @@
 [submodule "xd/xz/sum"]
 	path = xd/xz/sum
 	url = .
+[submodule "xj/az/dsw"]
+	path = xj/az/dsw
+	url = .
 [submodule "xj/bi/qoi"]
 	path = xj/bi/qoi
 	url = .
