@@ -53863,6 +53863,9 @@
 [submodule "uc/km/twd"]
 	path = uc/km/twd
 	url = .
+[submodule "uc/kw/yaq"]
+	path = uc/kw/yaq
+	url = .
 [submodule "uc/lp/rzn"]
 	path = uc/lp/rzn
 	url = .
