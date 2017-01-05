@@ -10417,6 +10417,9 @@
 [submodule "zt/db/czb"]
 	path = zt/db/czb
 	url = .
+[submodule "zt/ix/gda"]
+	path = zt/ix/gda
+	url = .
 [submodule "zt/pj/zps"]
 	path = zt/pj/zps
 	url = .
