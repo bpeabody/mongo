@@ -29380,6 +29380,9 @@
 [submodule "oj/cc/nsd"]
 	path = oj/cc/nsd
 	url = .
+[submodule "oj/dy/xzs"]
+	path = oj/dy/xzs
+	url = .
 [submodule "oj/eg/qdj"]
 	path = oj/eg/qdj
 	url = .
