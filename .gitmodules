@@ -5077,6 +5077,9 @@
 [submodule "wo/ot/udm"]
 	path = wo/ot/udm
 	url = .
+[submodule "wo/oz/enx"]
+	path = wo/oz/enx
+	url = .
 [submodule "wp/cj/zcu"]
 	path = wp/cj/zcu
 	url = .
