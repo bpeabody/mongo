@@ -1183,6 +1183,9 @@
 [submodule "am/ra/cdb"]
 	path = am/ra/cdb
 	url = .
+[submodule "am/rc/hvr"]
+	path = am/rc/hvr
+	url = .
 [submodule "am/rr/vve"]
 	path = am/rr/vve
 	url = .
