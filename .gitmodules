@@ -29443,6 +29443,9 @@
 [submodule "nc/yz/kkh"]
 	path = nc/yz/kkh
 	url = .
+[submodule "nc/zz/poe"]
+	path = nc/zz/poe
+	url = .
 [submodule "nd/bn/bsv"]
 	path = nd/bn/bsv
 	url = .
