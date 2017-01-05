@@ -17791,6 +17791,9 @@
 [submodule "wd/qq/wkg"]
 	path = wd/qq/wkg
 	url = .
+[submodule "wd/te/vky"]
+	path = wd/te/vky
+	url = .
 [submodule "wd/tg/oie"]
 	path = wd/tg/oie
 	url = .
