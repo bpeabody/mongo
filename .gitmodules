@@ -17740,6 +17740,9 @@
 [submodule "kd/et/ptp"]
 	path = kd/et/ptp
 	url = .
+[submodule "kd/ez/stf"]
+	path = kd/ez/stf
+	url = .
 [submodule "kd/fk/olj"]
 	path = kd/fk/olj
 	url = .
