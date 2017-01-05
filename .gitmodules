@@ -23320,6 +23320,9 @@
 [submodule "iv/xb/pdu"]
 	path = iv/xb/pdu
 	url = .
+[submodule "iv/xr/xap"]
+	path = iv/xr/xap
+	url = .
 [submodule "iv/yy/rbw"]
 	path = iv/yy/rbw
 	url = .
