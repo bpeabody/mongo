@@ -12568,6 +12568,9 @@
 [submodule "kk/np/qpj"]
 	path = kk/np/qpj
 	url = .
+[submodule "kk/oe/kgz"]
+	path = kk/oe/kgz
+	url = .
 [submodule "kk/of/qun"]
 	path = kk/of/qun
 	url = .
