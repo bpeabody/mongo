@@ -8506,6 +8506,9 @@
 [submodule "sn/hl/nel"]
 	path = sn/hl/nel
 	url = .
+[submodule "sn/ix/bqn"]
+	path = sn/ix/bqn
+	url = .
 [submodule "sn/jf/heq"]
 	path = sn/jf/heq
 	url = .
