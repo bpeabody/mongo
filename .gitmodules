@@ -16366,6 +16366,9 @@
 [submodule "gj/pe/jdo"]
 	path = gj/pe/jdo
 	url = .
+[submodule "gj/pr/huq"]
+	path = gj/pr/huq
+	url = .
 [submodule "gj/qc/exb"]
 	path = gj/qc/exb
 	url = .
