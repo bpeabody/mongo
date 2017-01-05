@@ -19777,6 +19777,9 @@
 [submodule "jg/fy/onk"]
 	path = jg/fy/onk
 	url = .
+[submodule "jg/gp/cwr"]
+	path = jg/gp/cwr
+	url = .
 [submodule "jg/hj/yrm"]
 	path = jg/hj/yrm
 	url = .
