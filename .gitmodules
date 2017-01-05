@@ -11950,6 +11950,9 @@
 [submodule "hw/kf/hmm"]
 	path = hw/kf/hmm
 	url = .
+[submodule "hw/kg/kwu"]
+	path = hw/kg/kwu
+	url = .
 [submodule "hw/lv/kdu"]
 	path = hw/lv/kdu
 	url = .
