@@ -23020,6 +23020,9 @@
 [submodule "yh/ci/kjo"]
 	path = yh/ci/kjo
 	url = .
+[submodule "yh/go/uky"]
+	path = yh/go/uky
+	url = .
 [submodule "yh/ng/vtc"]
 	path = yh/ng/vtc
 	url = .
