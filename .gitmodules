@@ -46579,6 +46579,9 @@
 [submodule "ry/ur/ysa"]
 	path = ry/ur/ysa
 	url = .
+[submodule "ry/uu/vga"]
+	path = ry/uu/vga
+	url = .
 [submodule "ry/vj/myc"]
 	path = ry/vj/myc
 	url = .
