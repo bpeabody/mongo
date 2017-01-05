@@ -4060,6 +4060,9 @@
 [submodule "iv/wy/owd"]
 	path = iv/wy/owd
 	url = .
+[submodule "iw/hc/rmd"]
+	path = iw/hc/rmd
+	url = .
 [submodule "iw/ik/riv"]
 	path = iw/ik/riv
 	url = .
