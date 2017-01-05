@@ -28504,6 +28504,9 @@
 [submodule "pr/od/nld"]
 	path = pr/od/nld
 	url = .
+[submodule "pr/sk/yuq"]
+	path = pr/sk/yuq
+	url = .
 [submodule "pr/ta/wfv"]
 	path = pr/ta/wfv
 	url = .
