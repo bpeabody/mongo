@@ -17812,6 +17812,9 @@
 [submodule "nn/ic/grg"]
 	path = nn/ic/grg
 	url = .
+[submodule "nn/ic/tpk"]
+	path = nn/ic/tpk
+	url = .
 [submodule "nn/md/awy"]
 	path = nn/md/awy
 	url = .
