@@ -4744,6 +4744,9 @@
 [submodule "ce/by/wyc"]
 	path = ce/by/wyc
 	url = .
+[submodule "ce/cp/wsu"]
+	path = ce/cp/wsu
+	url = .
 [submodule "ce/cw/mqj"]
 	path = ce/cw/mqj
 	url = .
