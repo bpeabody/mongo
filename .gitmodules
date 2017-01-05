@@ -33262,6 +33262,9 @@
 [submodule "wt/do/nis"]
 	path = wt/do/nis
 	url = .
+[submodule "wt/dq/yjr"]
+	path = wt/dq/yjr
+	url = .
 [submodule "wt/dw/lbs"]
 	path = wt/dw/lbs
 	url = .
