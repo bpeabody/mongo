@@ -16450,6 +16450,9 @@
 [submodule "pj/wk/nfy"]
 	path = pj/wk/nfy
 	url = .
+[submodule "pj/wl/vpc"]
+	path = pj/wl/vpc
+	url = .
 [submodule "pk/aa/zfs"]
 	path = pk/aa/zfs
 	url = .
