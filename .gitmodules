@@ -7708,6 +7708,9 @@
 [submodule "cq/qc/bsa"]
 	path = cq/qc/bsa
 	url = .
+[submodule "cq/qd/jcn"]
+	path = cq/qd/jcn
+	url = .
 [submodule "cq/qk/gis"]
 	path = cq/qk/gis
 	url = .
