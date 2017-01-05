@@ -1963,6 +1963,9 @@
 [submodule "gt/ft/vfx"]
 	path = gt/ft/vfx
 	url = .
+[submodule "gt/ie/lox"]
+	path = gt/ie/lox
+	url = .
 [submodule "gt/zo/zif"]
 	path = gt/zo/zif
 	url = .
