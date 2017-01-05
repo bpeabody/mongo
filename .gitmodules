@@ -28972,6 +28972,9 @@
 [submodule "yh/ng/vtc"]
 	path = yh/ng/vtc
 	url = .
+[submodule "yh/ou/xoc"]
+	path = yh/ou/xoc
+	url = .
 [submodule "yh/pl/tna"]
 	path = yh/pl/tna
 	url = .
