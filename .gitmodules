@@ -14593,6 +14593,9 @@
 [submodule "mn/eo/crq"]
 	path = mn/eo/crq
 	url = .
+[submodule "mn/gr/uba"]
+	path = mn/gr/uba
+	url = .
 [submodule "mn/gu/mvl"]
 	path = mn/gu/mvl
 	url = .
