@@ -1129,6 +1129,9 @@
 [submodule "aj/jn/lie"]
 	path = aj/jn/lie
 	url = .
+[submodule "aj/mp/hjg"]
+	path = aj/mp/hjg
+	url = .
 [submodule "aj/my/kip"]
 	path = aj/my/kip
 	url = .
