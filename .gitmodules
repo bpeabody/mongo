@@ -53305,6 +53305,9 @@
 [submodule "sr/cm/mqr"]
 	path = sr/cm/mqr
 	url = .
+[submodule "sr/cy/vii"]
+	path = sr/cy/vii
+	url = .
 [submodule "sr/ds/hhm"]
 	path = sr/ds/hhm
 	url = .
