@@ -13861,6 +13861,9 @@
 [submodule "km/nc/lxc"]
 	path = km/nc/lxc
 	url = .
+[submodule "km/qa/utk"]
+	path = km/qa/utk
+	url = .
 [submodule "km/we/sfp"]
 	path = km/we/sfp
 	url = .
