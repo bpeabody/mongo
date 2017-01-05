@@ -28636,6 +28636,9 @@
 [submodule "yu/qn/gnj"]
 	path = yu/qn/gnj
 	url = .
+[submodule "yu/qr/dcl"]
+	path = yu/qr/dcl
+	url = .
 [submodule "yu/vx/mhj"]
 	path = yu/vx/mhj
 	url = .
