@@ -30883,6 +30883,9 @@
 [submodule "qq/pm/xei"]
 	path = qq/pm/xei
 	url = .
+[submodule "qq/sc/dde"]
+	path = qq/sc/dde
+	url = .
 [submodule "qq/sr/crf"]
 	path = qq/sr/crf
 	url = .
