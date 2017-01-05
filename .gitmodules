@@ -4009,6 +4009,9 @@
 [submodule "hc/uy/svm"]
 	path = hc/uy/svm
 	url = .
+[submodule "hc/yd/kra"]
+	path = hc/yd/kra
+	url = .
 [submodule "hc/yn/cws"]
 	path = hc/yn/cws
 	url = .
