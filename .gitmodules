@@ -40972,6 +40972,9 @@
 [submodule "nn/yk/buy"]
 	path = nn/yk/buy
 	url = .
+[submodule "nn/ym/qgn"]
+	path = nn/ym/qgn
+	url = .
 [submodule "nn/yt/yvx"]
 	path = nn/yt/yvx
 	url = .
