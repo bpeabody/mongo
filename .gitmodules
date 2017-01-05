@@ -13720,6 +13720,9 @@
 [submodule "hr/ip/kau"]
 	path = hr/ip/kau
 	url = .
+[submodule "hr/iv/gdg"]
+	path = hr/iv/gdg
+	url = .
 [submodule "hr/kc/wpu"]
 	path = hr/kc/wpu
 	url = .
