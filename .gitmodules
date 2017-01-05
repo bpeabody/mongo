@@ -11152,6 +11152,9 @@
 [submodule "lu/ce/mdo"]
 	path = lu/ce/mdo
 	url = .
+[submodule "lu/ey/bod"]
+	path = lu/ey/bod
+	url = .
 [submodule "lu/kv/dsc"]
 	path = lu/kv/dsc
 	url = .
