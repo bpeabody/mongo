@@ -9406,6 +9406,9 @@
 [submodule "db/rx/wyh"]
 	path = db/rx/wyh
 	url = .
+[submodule "db/sf/hdd"]
+	path = db/sf/hdd
+	url = .
 [submodule "db/ti/jdk"]
 	path = db/ti/jdk
 	url = .
