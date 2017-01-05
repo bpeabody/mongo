@@ -6949,6 +6949,9 @@
 [submodule "cr/xr/jsv"]
 	path = cr/xr/jsv
 	url = .
+[submodule "cs/as/sgm"]
+	path = cs/as/sgm
+	url = .
 [submodule "cs/bh/ibg"]
 	path = cs/bh/ibg
 	url = .
