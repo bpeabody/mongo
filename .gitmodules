@@ -38170,6 +38170,9 @@
 [submodule "uq/nh/nfq"]
 	path = uq/nh/nfq
 	url = .
+[submodule "uq/ph/nmf"]
+	path = uq/ph/nmf
+	url = .
 [submodule "uq/th/pdy"]
 	path = uq/th/pdy
 	url = .
