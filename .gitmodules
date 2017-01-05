@@ -58489,6 +58489,9 @@
 [submodule "ud/bo/nlp"]
 	path = ud/bo/nlp
 	url = .
+[submodule "ud/cc/dxy"]
+	path = ud/cc/dxy
+	url = .
 [submodule "ud/ec/ova"]
 	path = ud/ec/ova
 	url = .
