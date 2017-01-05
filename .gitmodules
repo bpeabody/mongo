@@ -20779,6 +20779,9 @@
 [submodule "wh/qb/qhy"]
 	path = wh/qb/qhy
 	url = .
+[submodule "wh/qr/jld"]
+	path = wh/qr/jld
+	url = .
 [submodule "wh/qs/obv"]
 	path = wh/qs/obv
 	url = .
