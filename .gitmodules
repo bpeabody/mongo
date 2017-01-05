@@ -9625,6 +9625,9 @@
 [submodule "xc/xl/vqk"]
 	path = xc/xl/vqk
 	url = .
+[submodule "xd/gw/lke"]
+	path = xd/gw/lke
+	url = .
 [submodule "xd/ju/jye"]
 	path = xd/ju/jye
 	url = .
