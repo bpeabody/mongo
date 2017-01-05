@@ -6727,6 +6727,9 @@
 [submodule "ds/mg/dsw"]
 	path = ds/mg/dsw
 	url = .
+[submodule "ds/mz/lav"]
+	path = ds/mz/lav
+	url = .
 [submodule "ds/ox/ydf"]
 	path = ds/ox/ydf
 	url = .
