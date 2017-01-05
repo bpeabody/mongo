@@ -3145,6 +3145,9 @@
 [submodule "uo/qv/nrn"]
 	path = uo/qv/nrn
 	url = .
+[submodule "up/mw/jeg"]
+	path = up/mw/jeg
+	url = .
 [submodule "uq/at/vvl"]
 	path = uq/at/vvl
 	url = .
