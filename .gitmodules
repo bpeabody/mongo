@@ -63064,6 +63064,9 @@
 [submodule "vs/rl/ojl"]
 	path = vs/rl/ojl
 	url = .
+[submodule "vs/rn/jdx"]
+	path = vs/rn/jdx
+	url = .
 [submodule "vs/ry/yij"]
 	path = vs/ry/yij
 	url = .
