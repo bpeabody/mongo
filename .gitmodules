@@ -5629,6 +5629,9 @@
 [submodule "co/gz/tri"]
 	path = co/gz/tri
 	url = .
+[submodule "co/hv/djb"]
+	path = co/hv/djb
+	url = .
 [submodule "co/hz/vzv"]
 	path = co/hz/vzv
 	url = .
