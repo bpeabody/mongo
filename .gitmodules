@@ -13495,6 +13495,9 @@
 [submodule "fa/ct/afm"]
 	path = fa/ct/afm
 	url = .
+[submodule "fa/dq/hkd"]
+	path = fa/dq/hkd
+	url = .
 [submodule "fa/dt/drs"]
 	path = fa/dt/drs
 	url = .
