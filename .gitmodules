@@ -6553,6 +6553,9 @@
 [submodule "vn/qv/ugr"]
 	path = vn/qv/ugr
 	url = .
+[submodule "vn/xi/qlb"]
+	path = vn/xi/qlb
+	url = .
 [submodule "vn/zf/ilc"]
 	path = vn/zf/ilc
 	url = .
