@@ -35653,6 +35653,9 @@
 [submodule "qa/cl/qhu"]
 	path = qa/cl/qhu
 	url = .
+[submodule "qa/cq/stg"]
+	path = qa/cq/stg
+	url = .
 [submodule "qa/da/ohc"]
 	path = qa/da/ohc
 	url = .
