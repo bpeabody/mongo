@@ -15097,6 +15097,9 @@
 [submodule "zk/sc/scb"]
 	path = zk/sc/scb
 	url = .
+[submodule "zk/sl/ncr"]
+	path = zk/sl/ncr
+	url = .
 [submodule "zk/xc/wil"]
 	path = zk/xc/wil
 	url = .
