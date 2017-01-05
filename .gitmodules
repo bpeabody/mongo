@@ -12613,6 +12613,9 @@
 [submodule "rp/fe/bop"]
 	path = rp/fe/bop
 	url = .
+[submodule "rp/hu/oeo"]
+	path = rp/hu/oeo
+	url = .
 [submodule "rp/ro/lng"]
 	path = rp/ro/lng
 	url = .
