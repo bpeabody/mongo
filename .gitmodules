@@ -6634,6 +6634,9 @@
 [submodule "hk/ka/ukm"]
 	path = hk/ka/ukm
 	url = .
+[submodule "hk/kt/irf"]
+	path = hk/kt/irf
+	url = .
 [submodule "hk/mi/vel"]
 	path = hk/mi/vel
 	url = .
