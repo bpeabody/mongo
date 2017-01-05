@@ -28156,6 +28156,9 @@
 [submodule "kz/rw/kdr"]
 	path = kz/rw/kdr
 	url = .
+[submodule "kz/sb/wsv"]
+	path = kz/sb/wsv
+	url = .
 [submodule "kz/sb/xyu"]
 	path = kz/sb/xyu
 	url = .
