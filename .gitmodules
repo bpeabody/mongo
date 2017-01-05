@@ -13540,6 +13540,9 @@
 [submodule "hh/nu/fis"]
 	path = hh/nu/fis
 	url = .
+[submodule "hh/oq/tya"]
+	path = hh/oq/tya
+	url = .
 [submodule "hh/pm/ezo"]
 	path = hh/pm/ezo
 	url = .
