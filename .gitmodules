@@ -35059,6 +35059,9 @@
 [submodule "ym/pg/dcg"]
 	path = ym/pg/dcg
 	url = .
+[submodule "ym/qg/zkb"]
+	path = ym/qg/zkb
+	url = .
 [submodule "ym/qr/clr"]
 	path = ym/qr/clr
 	url = .
