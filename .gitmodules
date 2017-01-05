@@ -18514,6 +18514,9 @@
 [submodule "kr/xa/eok"]
 	path = kr/xa/eok
 	url = .
+[submodule "kr/xa/ffb"]
+	path = kr/xa/ffb
+	url = .
 [submodule "kr/xh/deq"]
 	path = kr/xh/deq
 	url = .
