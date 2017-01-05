@@ -34375,6 +34375,9 @@
 [submodule "ua/ce/pxu"]
 	path = ua/ce/pxu
 	url = .
+[submodule "ua/cw/eoh"]
+	path = ua/cw/eoh
+	url = .
 [submodule "ua/do/xli"]
 	path = ua/do/xli
 	url = .
