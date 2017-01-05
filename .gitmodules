@@ -3574,6 +3574,9 @@
 [submodule "jv/xz/unk"]
 	path = jv/xz/unk
 	url = .
+[submodule "jw/ch/bvs"]
+	path = jw/ch/bvs
+	url = .
 [submodule "jw/di/atx"]
 	path = jw/di/atx
 	url = .
