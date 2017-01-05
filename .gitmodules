@@ -4411,6 +4411,9 @@
 [submodule "bt/og/clt"]
 	path = bt/og/clt
 	url = .
+[submodule "bt/qh/alt"]
+	path = bt/qh/alt
+	url = .
 [submodule "bt/rm/ked"]
 	path = bt/rm/ked
 	url = .
