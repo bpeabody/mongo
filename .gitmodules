@@ -24985,6 +24985,9 @@
 [submodule "jn/mz/bmo"]
 	path = jn/mz/bmo
 	url = .
+[submodule "jn/na/qzx"]
+	path = jn/na/qzx
+	url = .
 [submodule "jn/om/svx"]
 	path = jn/om/svx
 	url = .
