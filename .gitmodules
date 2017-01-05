@@ -2263,6 +2263,9 @@
 [submodule "uf/zu/esb"]
 	path = uf/zu/esb
 	url = .
+[submodule "ug/on/xmb"]
+	path = ug/on/xmb
+	url = .
 [submodule "uh/it/buv"]
 	path = uh/it/buv
 	url = .
