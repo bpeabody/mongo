@@ -7318,6 +7318,9 @@
 [submodule "hp/mu/gac"]
 	path = hp/mu/gac
 	url = .
+[submodule "hp/ne/dbb"]
+	path = hp/ne/dbb
+	url = .
 [submodule "hp/pm/bcp"]
 	path = hp/pm/bcp
 	url = .
