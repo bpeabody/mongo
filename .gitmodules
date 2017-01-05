@@ -6871,6 +6871,9 @@
 [submodule "ui/ke/qzu"]
 	path = ui/ke/qzu
 	url = .
+[submodule "ui/lp/oky"]
+	path = ui/lp/oky
+	url = .
 [submodule "ui/sz/htx"]
 	path = ui/sz/htx
 	url = .
