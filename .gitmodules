@@ -36490,6 +36490,9 @@
 [submodule "ut/no/jhm"]
 	path = ut/no/jhm
 	url = .
+[submodule "ut/oh/wsw"]
+	path = ut/oh/wsw
+	url = .
 [submodule "ut/ow/cxi"]
 	path = ut/ow/cxi
 	url = .
