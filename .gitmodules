@@ -661,6 +661,9 @@
 [submodule "bh/jc/lfl"]
 	path = bh/jc/lfl
 	url = .
+[submodule "bh/nt/fje"]
+	path = bh/nt/fje
+	url = .
 [submodule "bh/ny/vzd"]
 	path = bh/ny/vzd
 	url = .
