@@ -4123,6 +4123,9 @@
 [submodule "bm/hb/vor"]
 	path = bm/hb/vor
 	url = .
+[submodule "bm/hz/udi"]
+	path = bm/hz/udi
+	url = .
 [submodule "bm/it/vfk"]
 	path = bm/it/vfk
 	url = .
