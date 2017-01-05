@@ -10630,6 +10630,9 @@
 [submodule "gs/vl/ygh"]
 	path = gs/vl/ygh
 	url = .
+[submodule "gs/vr/eyu"]
+	path = gs/vr/eyu
+	url = .
 [submodule "gs/xw/gzx"]
 	path = gs/xw/gzx
 	url = .
