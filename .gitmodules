@@ -2020,6 +2020,9 @@
 [submodule "fw/sf/ipq"]
 	path = fw/sf/ipq
 	url = .
+[submodule "fw/vw/vps"]
+	path = fw/vw/vps
+	url = .
 [submodule "fw/vz/wll"]
 	path = fw/vz/wll
 	url = .
