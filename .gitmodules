@@ -33433,6 +33433,9 @@
 [submodule "lq/nb/vla"]
 	path = lq/nb/vla
 	url = .
+[submodule "lq/nu/uzx"]
+	path = lq/nu/uzx
+	url = .
 [submodule "lq/oc/djq"]
 	path = lq/oc/djq
 	url = .
