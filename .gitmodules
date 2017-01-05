@@ -3064,6 +3064,9 @@
 [submodule "bd/qp/jbd"]
 	path = bd/qp/jbd
 	url = .
+[submodule "bd/sg/pvx"]
+	path = bd/sg/pvx
+	url = .
 [submodule "bd/sm/dxa"]
 	path = bd/sm/dxa
 	url = .
