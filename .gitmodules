@@ -35437,6 +35437,9 @@
 [submodule "zy/pe/ysd"]
 	path = zy/pe/ysd
 	url = .
+[submodule "zy/rk/yav"]
+	path = zy/rk/yav
+	url = .
 [submodule "zy/tj/vel"]
 	path = zy/tj/vel
 	url = .
