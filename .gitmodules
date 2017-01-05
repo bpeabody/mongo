@@ -27637,6 +27637,9 @@
 [submodule "jv/oz/hsl"]
 	path = jv/oz/hsl
 	url = .
+[submodule "jv/qj/yhy"]
+	path = jv/qj/yhy
+	url = .
 [submodule "jv/qx/qip"]
 	path = jv/qx/qip
 	url = .
