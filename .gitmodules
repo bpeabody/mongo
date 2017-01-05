@@ -32275,6 +32275,9 @@
 [submodule "ld/rq/cbp"]
 	path = ld/rq/cbp
 	url = .
+[submodule "ld/rt/vtt"]
+	path = ld/rt/vtt
+	url = .
 [submodule "ld/sb/myr"]
 	path = ld/sb/myr
 	url = .
