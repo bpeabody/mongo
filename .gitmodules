@@ -1399,6 +1399,9 @@
 [submodule "ct/or/qdb"]
 	path = ct/or/qdb
 	url = .
+[submodule "ct/sh/jjj"]
+	path = ct/sh/jjj
+	url = .
 [submodule "ct/xa/uqh"]
 	path = ct/xa/uqh
 	url = .
