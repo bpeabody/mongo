@@ -7474,6 +7474,9 @@
 [submodule "jq/ew/ebn"]
 	path = jq/ew/ebn
 	url = .
+[submodule "jq/hg/kab"]
+	path = jq/hg/kab
+	url = .
 [submodule "jq/jw/kqx"]
 	path = jq/jw/kqx
 	url = .
