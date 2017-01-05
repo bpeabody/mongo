@@ -10651,6 +10651,9 @@
 [submodule "ec/ra/ybv"]
 	path = ec/ra/ybv
 	url = .
+[submodule "ec/rp/gco"]
+	path = ec/rp/gco
+	url = .
 [submodule "ec/vp/kwm"]
 	path = ec/vp/kwm
 	url = .
