@@ -31141,6 +31141,9 @@
 [submodule "me/cl/jzh"]
 	path = me/cl/jzh
 	url = .
+[submodule "me/cy/vib"]
+	path = me/cy/vib
+	url = .
 [submodule "me/db/ffs"]
 	path = me/db/ffs
 	url = .
