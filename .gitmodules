@@ -3586,6 +3586,9 @@
 [submodule "gq/jw/mhv"]
 	path = gq/jw/mhv
 	url = .
+[submodule "gq/rw/equ"]
+	path = gq/rw/equ
+	url = .
 [submodule "gq/uh/xnh"]
 	path = gq/uh/xnh
 	url = .
