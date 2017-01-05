@@ -39151,6 +39151,9 @@
 [submodule "rs/wt/bko"]
 	path = rs/wt/bko
 	url = .
+[submodule "rs/yj/teg"]
+	path = rs/yj/teg
+	url = .
 [submodule "rs/zz/ggo"]
 	path = rs/zz/ggo
 	url = .
