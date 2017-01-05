@@ -40513,6 +40513,9 @@
 [submodule "sx/js/uem"]
 	path = sx/js/uem
 	url = .
+[submodule "sx/lb/rix"]
+	path = sx/lb/rix
+	url = .
 [submodule "sx/lg/efo"]
 	path = sx/lg/efo
 	url = .
