@@ -58636,6 +58636,9 @@
 [submodule "ws/ds/zhu"]
 	path = ws/ds/zhu
 	url = .
+[submodule "ws/ec/gpo"]
+	path = ws/ec/gpo
+	url = .
 [submodule "ws/gi/edv"]
 	path = ws/gi/edv
 	url = .
