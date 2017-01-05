@@ -20821,6 +20821,9 @@
 [submodule "ol/lf/gjm"]
 	path = ol/lf/gjm
 	url = .
+[submodule "ol/lm/gnm"]
+	path = ol/lm/gnm
+	url = .
 [submodule "ol/op/tjj"]
 	path = ol/op/tjj
 	url = .
