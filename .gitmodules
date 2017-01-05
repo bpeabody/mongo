@@ -2701,6 +2701,9 @@
 [submodule "ci/yf/qyw"]
 	path = ci/yf/qyw
 	url = .
+[submodule "cj/km/eiq"]
+	path = cj/km/eiq
+	url = .
 [submodule "cj/kr/quc"]
 	path = cj/kr/quc
 	url = .
