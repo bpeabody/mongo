@@ -958,6 +958,9 @@
 [submodule "qw/kp/jpp"]
 	path = qw/kp/jpp
 	url = .
+[submodule "qx/ed/jzr"]
+	path = qx/ed/jzr
+	url = .
 [submodule "qx/iv/ewm"]
 	path = qx/iv/ewm
 	url = .
