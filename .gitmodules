@@ -38575,6 +38575,9 @@
 [submodule "ro/ui/dgg"]
 	path = ro/ui/dgg
 	url = .
+[submodule "ro/uj/trd"]
+	path = ro/uj/trd
+	url = .
 [submodule "ro/uz/eyy"]
 	path = ro/uz/eyy
 	url = .
