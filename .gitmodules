@@ -16276,6 +16276,9 @@
 [submodule "gi/ha/yoo"]
 	path = gi/ha/yoo
 	url = .
+[submodule "gi/ib/sfg"]
+	path = gi/ib/sfg
+	url = .
 [submodule "gi/iy/mvf"]
 	path = gi/iy/mvf
 	url = .
