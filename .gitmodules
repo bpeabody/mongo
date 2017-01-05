@@ -49288,6 +49288,9 @@
 [submodule "ts/yl/vpz"]
 	path = ts/yl/vpz
 	url = .
+[submodule "ts/zm/bbm"]
+	path = ts/zm/bbm
+	url = .
 [submodule "tt/ax/hnq"]
 	path = tt/ax/hnq
 	url = .
