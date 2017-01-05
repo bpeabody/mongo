@@ -17380,6 +17380,9 @@
 [submodule "tf/mz/boy"]
 	path = tf/mz/boy
 	url = .
+[submodule "tf/nn/gcc"]
+	path = tf/nn/gcc
+	url = .
 [submodule "tf/pf/dfu"]
 	path = tf/pf/dfu
 	url = .
