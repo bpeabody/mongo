@@ -16405,6 +16405,9 @@
 [submodule "ss/xo/wte"]
 	path = ss/xo/wte
 	url = .
+[submodule "st/ar/ror"]
+	path = st/ar/ror
+	url = .
 [submodule "st/io/vva"]
 	path = st/io/vva
 	url = .
