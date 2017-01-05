@@ -30634,6 +30634,9 @@
 [submodule "lq/uo/wer"]
 	path = lq/uo/wer
 	url = .
+[submodule "lq/vd/xfg"]
+	path = lq/vd/xfg
+	url = .
 [submodule "lq/wg/iyj"]
 	path = lq/wg/iyj
 	url = .
