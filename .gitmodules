@@ -14707,6 +14707,9 @@
 [submodule "uj/mc/gva"]
 	path = uj/mc/gva
 	url = .
+[submodule "uj/ny/brt"]
+	path = uj/ny/brt
+	url = .
 [submodule "uj/oa/smc"]
 	path = uj/oa/smc
 	url = .
