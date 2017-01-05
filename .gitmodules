@@ -14146,6 +14146,9 @@
 [submodule "fh/id/zme"]
 	path = fh/id/zme
 	url = .
+[submodule "fh/if/suk"]
+	path = fh/if/suk
+	url = .
 [submodule "fh/je/ump"]
 	path = fh/je/ump
 	url = .
