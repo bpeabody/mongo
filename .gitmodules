@@ -54403,6 +54403,9 @@
 [submodule "si/uz/elt"]
 	path = si/uz/elt
 	url = .
+[submodule "si/vf/kog"]
+	path = si/vf/kog
+	url = .
 [submodule "si/vg/jah"]
 	path = si/vg/jah
 	url = .
