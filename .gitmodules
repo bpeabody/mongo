@@ -10054,6 +10054,9 @@
 [submodule "vq/ti/ygh"]
 	path = vq/ti/ygh
 	url = .
+[submodule "vq/tp/upm"]
+	path = vq/tp/upm
+	url = .
 [submodule "vr/ec/hol"]
 	path = vr/ec/hol
 	url = .
