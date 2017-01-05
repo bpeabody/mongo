@@ -15187,6 +15187,9 @@
 [submodule "fy/ya/dtb"]
 	path = fy/ya/dtb
 	url = .
+[submodule "fy/yo/gqg"]
+	path = fy/yo/gqg
+	url = .
 [submodule "fy/zj/jev"]
 	path = fy/zj/jev
 	url = .
