@@ -55906,6 +55906,9 @@
 [submodule "vk/uj/tps"]
 	path = vk/uj/tps
 	url = .
+[submodule "vk/us/fyy"]
+	path = vk/us/fyy
+	url = .
 [submodule "vk/vi/lvg"]
 	path = vk/vi/lvg
 	url = .
