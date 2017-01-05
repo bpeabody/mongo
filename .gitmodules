@@ -28528,6 +28528,9 @@
 [submodule "jr/wp/tly"]
 	path = jr/wp/tly
 	url = .
+[submodule "jr/xv/jin"]
+	path = jr/xv/jin
+	url = .
 [submodule "jr/yh/uka"]
 	path = jr/yh/uka
 	url = .
