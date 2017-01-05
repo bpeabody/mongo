@@ -13039,6 +13039,9 @@
 [submodule "ms/kn/mnh"]
 	path = ms/kn/mnh
 	url = .
+[submodule "ms/kr/cva"]
+	path = ms/kr/cva
+	url = .
 [submodule "ms/ls/zrf"]
 	path = ms/ls/zrf
 	url = .
