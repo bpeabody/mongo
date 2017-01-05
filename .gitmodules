@@ -1450,6 +1450,9 @@
 [submodule "bc/pg/ysc"]
 	path = bc/pg/ysc
 	url = .
+[submodule "bc/qo/ioi"]
+	path = bc/qo/ioi
+	url = .
 [submodule "bc/qt/lju"]
 	path = bc/qt/lju
 	url = .
