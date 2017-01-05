@@ -20707,6 +20707,9 @@
 [submodule "pv/mk/pvs"]
 	path = pv/mk/pvs
 	url = .
+[submodule "pv/mw/nrp"]
+	path = pv/mw/nrp
+	url = .
 [submodule "pv/oc/jro"]
 	path = pv/oc/jro
 	url = .
