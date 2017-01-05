@@ -21694,6 +21694,9 @@
 [submodule "kf/qa/azn"]
 	path = kf/qa/azn
 	url = .
+[submodule "kf/qj/hfp"]
+	path = kf/qj/hfp
+	url = .
 [submodule "kf/qn/cvx"]
 	path = kf/qn/cvx
 	url = .
