@@ -121,6 +121,9 @@
 [submodule "ae/ci/znd"]
 	path = ae/ci/znd
 	url = .
+[submodule "ae/go/ifm"]
+	path = ae/go/ifm
+	url = .
 [submodule "ae/iz/cjt"]
 	path = ae/iz/cjt
 	url = .
