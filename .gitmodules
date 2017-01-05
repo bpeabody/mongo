@@ -10789,6 +10789,9 @@
 [submodule "uj/ek/xtp"]
 	path = uj/ek/xtp
 	url = .
+[submodule "uj/kb/kub"]
+	path = uj/kb/kub
+	url = .
 [submodule "uj/oa/smc"]
 	path = uj/oa/smc
 	url = .
