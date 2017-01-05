@@ -12472,6 +12472,9 @@
 [submodule "px/bn/ubn"]
 	path = px/bn/ubn
 	url = .
+[submodule "px/cc/aig"]
+	path = px/cc/aig
+	url = .
 [submodule "px/ek/ywv"]
 	path = px/ek/ywv
 	url = .
