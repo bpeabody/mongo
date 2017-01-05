@@ -13228,6 +13228,9 @@
 [submodule "kj/av/tmg"]
 	path = kj/av/tmg
 	url = .
+[submodule "kj/bc/bhk"]
+	path = kj/bc/bhk
+	url = .
 [submodule "kj/mq/odj"]
 	path = kj/mq/odj
 	url = .
