@@ -2152,6 +2152,9 @@
 [submodule "cg/dz/awd"]
 	path = cg/dz/awd
 	url = .
+[submodule "cg/gc/oni"]
+	path = cg/gc/oni
+	url = .
 [submodule "cg/jk/kps"]
 	path = cg/jk/kps
 	url = .
