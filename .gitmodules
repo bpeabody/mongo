@@ -2962,6 +2962,9 @@
 [submodule "cb/vz/pot"]
 	path = cb/vz/pot
 	url = .
+[submodule "cb/wc/sfj"]
+	path = cb/wc/sfj
+	url = .
 [submodule "cb/xj/gqr"]
 	path = cb/xj/gqr
 	url = .
