@@ -16720,6 +16720,9 @@
 [submodule "gp/hh/lox"]
 	path = gp/hh/lox
 	url = .
+[submodule "gp/hw/ira"]
+	path = gp/hw/ira
+	url = .
 [submodule "gp/iy/fqp"]
 	path = gp/iy/fqp
 	url = .
