@@ -9469,6 +9469,9 @@
 [submodule "ma/mt/zok"]
 	path = ma/mt/zok
 	url = .
+[submodule "ma/su/zlr"]
+	path = ma/su/zlr
+	url = .
 [submodule "ma/um/khl"]
 	path = ma/um/khl
 	url = .
