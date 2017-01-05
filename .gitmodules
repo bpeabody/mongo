@@ -24796,6 +24796,9 @@
 [submodule "jr/ue/lgr"]
 	path = jr/ue/lgr
 	url = .
+[submodule "jr/up/awp"]
+	path = jr/up/awp
+	url = .
 [submodule "jr/ut/mag"]
 	path = jr/ut/mag
 	url = .
