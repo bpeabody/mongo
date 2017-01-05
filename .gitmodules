@@ -2884,6 +2884,9 @@
 [submodule "db/bx/rkq"]
 	path = db/bx/rkq
 	url = .
+[submodule "db/de/uli"]
+	path = db/de/uli
+	url = .
 [submodule "db/hf/hrz"]
 	path = db/hf/hrz
 	url = .
