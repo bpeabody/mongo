@@ -41725,6 +41725,9 @@
 [submodule "qn/pp/vwo"]
 	path = qn/pp/vwo
 	url = .
+[submodule "qn/rc/gpt"]
+	path = qn/rc/gpt
+	url = .
 [submodule "qn/rm/ptp"]
 	path = qn/rm/ptp
 	url = .
