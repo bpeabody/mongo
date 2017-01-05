@@ -18970,6 +18970,9 @@
 [submodule "sv/fx/lkt"]
 	path = sv/fx/lkt
 	url = .
+[submodule "sv/gf/rpd"]
+	path = sv/gf/rpd
+	url = .
 [submodule "sv/go/mvu"]
 	path = sv/go/mvu
 	url = .
