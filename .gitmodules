@@ -172,6 +172,9 @@
 [submodule "au/po/jse"]
 	path = au/po/jse
 	url = .
+[submodule "au/zg/cdi"]
+	path = au/zg/cdi
+	url = .
 [submodule "av/my/iji"]
 	path = av/my/iji
 	url = .
