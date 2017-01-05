@@ -17551,6 +17551,9 @@
 [submodule "rx/rx/wwh"]
 	path = rx/rx/wwh
 	url = .
+[submodule "rx/vx/def"]
+	path = rx/vx/def
+	url = .
 [submodule "rx/xo/vso"]
 	path = rx/xo/vso
 	url = .
