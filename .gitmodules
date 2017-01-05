@@ -2683,6 +2683,9 @@
 [submodule "bs/gs/qif"]
 	path = bs/gs/qif
 	url = .
+[submodule "bs/hu/ovh"]
+	path = bs/hu/ovh
+	url = .
 [submodule "bs/mn/keq"]
 	path = bs/mn/keq
 	url = .
