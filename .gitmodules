@@ -40174,6 +40174,9 @@
 [submodule "rp/jn/ywx"]
 	path = rp/jn/ywx
 	url = .
+[submodule "rp/kx/ept"]
+	path = rp/kx/ept
+	url = .
 [submodule "rp/nw/vpd"]
 	path = rp/nw/vpd
 	url = .
