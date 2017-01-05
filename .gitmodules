@@ -1081,6 +1081,9 @@
 [submodule "yb/sy/tbv"]
 	path = yb/sy/tbv
 	url = .
+[submodule "yb/wr/ozh"]
+	path = yb/wr/ozh
+	url = .
 [submodule "yc/lq/nep"]
 	path = yc/lq/nep
 	url = .
