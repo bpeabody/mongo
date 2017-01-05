@@ -23347,6 +23347,9 @@
 [submodule "yh/ng/vtc"]
 	path = yh/ng/vtc
 	url = .
+[submodule "yh/pl/tna"]
+	path = yh/pl/tna
+	url = .
 [submodule "yh/rq/ovq"]
 	path = yh/rq/ovq
 	url = .
