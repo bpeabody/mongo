@@ -43963,6 +43963,9 @@
 [submodule "yo/ap/vdn"]
 	path = yo/ap/vdn
 	url = .
+[submodule "yo/ch/hux"]
+	path = yo/ch/hux
+	url = .
 [submodule "yo/ci/gga"]
 	path = yo/ci/gga
 	url = .
