@@ -7510,6 +7510,9 @@
 [submodule "fx/na/vkm"]
 	path = fx/na/vkm
 	url = .
+[submodule "fx/nk/evo"]
+	path = fx/nk/evo
+	url = .
 [submodule "fx/nm/tqj"]
 	path = fx/nm/tqj
 	url = .
