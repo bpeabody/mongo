@@ -29896,6 +29896,9 @@
 [submodule "lv/ei/hfg"]
 	path = lv/ei/hfg
 	url = .
+[submodule "lv/eo/edj"]
+	path = lv/eo/edj
+	url = .
 [submodule "lv/fm/gmv"]
 	path = lv/fm/gmv
 	url = .
