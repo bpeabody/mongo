@@ -7687,6 +7687,9 @@
 [submodule "ek/rz/yub"]
 	path = ek/rz/yub
 	url = .
+[submodule "ek/vr/few"]
+	path = ek/vr/few
+	url = .
 [submodule "ek/vw/esh"]
 	path = ek/vw/esh
 	url = .
