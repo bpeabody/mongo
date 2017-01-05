@@ -14404,6 +14404,9 @@
 [submodule "iz/jo/pwm"]
 	path = iz/jo/pwm
 	url = .
+[submodule "iz/kj/yeo"]
+	path = iz/kj/yeo
+	url = .
 [submodule "iz/lc/xcd"]
 	path = iz/lc/xcd
 	url = .
