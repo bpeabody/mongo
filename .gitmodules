@@ -21502,6 +21502,9 @@
 [submodule "ia/jw/qot"]
 	path = ia/jw/qot
 	url = .
+[submodule "ia/mk/syq"]
+	path = ia/mk/syq
+	url = .
 [submodule "ia/nf/noh"]
 	path = ia/nf/noh
 	url = .
