@@ -3901,6 +3901,9 @@
 [submodule "bz/uh/ytg"]
 	path = bz/uh/ytg
 	url = .
+[submodule "bz/um/bbz"]
+	path = bz/um/bbz
+	url = .
 [submodule "bz/ut/sjt"]
 	path = bz/ut/sjt
 	url = .
