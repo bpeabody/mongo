@@ -3601,6 +3601,9 @@
 [submodule "qz/jf/iwg"]
 	path = qz/jf/iwg
 	url = .
+[submodule "qz/vo/osx"]
+	path = qz/vo/osx
+	url = .
 [submodule "qz/yk/nrb"]
 	path = qz/yk/nrb
 	url = .
