@@ -34495,6 +34495,9 @@
 [submodule "qo/bv/gva"]
 	path = qo/bv/gva
 	url = .
+[submodule "qo/cr/gfg"]
+	path = qo/cr/gfg
+	url = .
 [submodule "qo/dv/kqu"]
 	path = qo/dv/kqu
 	url = .
