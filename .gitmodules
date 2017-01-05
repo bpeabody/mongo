@@ -10819,6 +10819,9 @@
 [submodule "ld/ys/rru"]
 	path = ld/ys/rru
 	url = .
+[submodule "le/bo/vjc"]
+	path = le/bo/vjc
+	url = .
 [submodule "le/dp/gkm"]
 	path = le/dp/gkm
 	url = .
