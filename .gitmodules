@@ -7051,6 +7051,9 @@
 [submodule "po/pm/ari"]
 	path = po/pm/ari
 	url = .
+[submodule "pp/fu/dfi"]
+	path = pp/fu/dfi
+	url = .
 [submodule "pp/hu/cof"]
 	path = pp/hu/cof
 	url = .
