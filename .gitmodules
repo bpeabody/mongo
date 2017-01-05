@@ -808,6 +808,9 @@
 [submodule "hh/zo/wju"]
 	path = hh/zo/wju
 	url = .
+[submodule "hi/ll/ldk"]
+	path = hi/ll/ldk
+	url = .
 [submodule "hi/nk/dht"]
 	path = hi/nk/dht
 	url = .
