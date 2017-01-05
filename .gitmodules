@@ -16030,6 +16030,9 @@
 [submodule "fq/ex/kwd"]
 	path = fq/ex/kwd
 	url = .
+[submodule "fq/fa/ckd"]
+	path = fq/fa/ckd
+	url = .
 [submodule "fq/fo/wns"]
 	path = fq/fo/wns
 	url = .
