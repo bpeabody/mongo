@@ -4696,6 +4696,9 @@
 [submodule "cj/bd/lhe"]
 	path = cj/bd/lhe
 	url = .
+[submodule "cj/bd/nhe"]
+	path = cj/bd/nhe
+	url = .
 [submodule "cj/ct/rhf"]
 	path = cj/ct/rhf
 	url = .
