@@ -39397,6 +39397,9 @@
 [submodule "wx/mx/egt"]
 	path = wx/mx/egt
 	url = .
+[submodule "wx/ns/ssm"]
+	path = wx/ns/ssm
+	url = .
 [submodule "wx/oc/mfb"]
 	path = wx/oc/mfb
 	url = .
