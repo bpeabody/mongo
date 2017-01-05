@@ -7765,6 +7765,9 @@
 [submodule "dn/qb/ogh"]
 	path = dn/qb/ogh
 	url = .
+[submodule "dn/qd/ikk"]
+	path = dn/qd/ikk
+	url = .
 [submodule "dn/qj/wts"]
 	path = dn/qj/wts
 	url = .
