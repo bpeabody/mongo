@@ -11230,6 +11230,9 @@
 [submodule "ng/io/njq"]
 	path = ng/io/njq
 	url = .
+[submodule "ng/mk/akb"]
+	path = ng/mk/akb
+	url = .
 [submodule "ng/om/ygd"]
 	path = ng/om/ygd
 	url = .
