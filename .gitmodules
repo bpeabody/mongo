@@ -61609,6 +61609,9 @@
 [submodule "we/yd/okk"]
 	path = we/yd/okk
 	url = .
+[submodule "we/yi/isu"]
+	path = we/yi/isu
+	url = .
 [submodule "we/yp/jdl"]
 	path = we/yp/jdl
 	url = .
