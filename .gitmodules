@@ -5956,6 +5956,9 @@
 [submodule "oj/nf/jpo"]
 	path = oj/nf/jpo
 	url = .
+[submodule "oj/nz/uwa"]
+	path = oj/nz/uwa
+	url = .
 [submodule "oj/qr/xsu"]
 	path = oj/qr/xsu
 	url = .
