@@ -2518,6 +2518,9 @@
 [submodule "kw/if/tgv"]
 	path = kw/if/tgv
 	url = .
+[submodule "kw/ti/wub"]
+	path = kw/ti/wub
+	url = .
 [submodule "kw/zj/bxw"]
 	path = kw/zj/bxw
 	url = .
