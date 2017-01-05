@@ -301,6 +301,9 @@
 [submodule "ea/lu/hnu"]
 	path = ea/lu/hnu
 	url = .
+[submodule "ea/zy/wdn"]
+	path = ea/zy/wdn
+	url = .
 [submodule "ee/li/zdc"]
 	path = ee/li/zdc
 	url = .
