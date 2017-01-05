@@ -223,6 +223,9 @@
 [submodule "cj/rf/qjt"]
 	path = cj/rf/qjt
 	url = .
+[submodule "cj/ua/eft"]
+	path = cj/ua/eft
+	url = .
 [submodule "ck/im/bpv"]
 	path = ck/im/bpv
 	url = .
