@@ -20959,6 +20959,9 @@
 [submodule "hq/fw/kfz"]
 	path = hq/fw/kfz
 	url = .
+[submodule "hq/ha/nnj"]
+	path = hq/ha/nnj
+	url = .
 [submodule "hq/jf/kfe"]
 	path = hq/jf/kfe
 	url = .
