@@ -13537,6 +13537,9 @@
 [submodule "fn/cx/ead"]
 	path = fn/cx/ead
 	url = .
+[submodule "fn/cx/pqk"]
+	path = fn/cx/pqk
+	url = .
 [submodule "fn/dd/nng"]
 	path = fn/dd/nng
 	url = .
