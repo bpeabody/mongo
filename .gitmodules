@@ -18010,6 +18010,9 @@
 [submodule "wo/oz/enx"]
 	path = wo/oz/enx
 	url = .
+[submodule "wo/va/nql"]
+	path = wo/va/nql
+	url = .
 [submodule "wo/zh/nmn"]
 	path = wo/zh/nmn
 	url = .
