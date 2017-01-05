@@ -526,6 +526,9 @@
 [submodule "rr/or/vhq"]
 	path = rr/or/vhq
 	url = .
+[submodule "rv/cv/kkk"]
+	path = rv/cv/kkk
+	url = .
 [submodule "rv/oe/eix"]
 	path = rv/oe/eix
 	url = .
