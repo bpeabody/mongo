@@ -18919,6 +18919,9 @@
 [submodule "qj/kr/cpk"]
 	path = qj/kr/cpk
 	url = .
+[submodule "qj/ld/gdv"]
+	path = qj/ld/gdv
+	url = .
 [submodule "qj/mh/hnd"]
 	path = qj/mh/hnd
 	url = .
