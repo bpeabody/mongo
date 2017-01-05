@@ -16,6 +16,9 @@
 [submodule "ok/ce/akb"]
 	path = ok/ce/akb
 	url = .
+[submodule "qe/nj/vti"]
+	path = qe/nj/vti
+	url = .
 [submodule "qt/fl/esd"]
 	path = qt/fl/esd
 	url = .
