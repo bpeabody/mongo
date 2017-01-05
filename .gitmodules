@@ -3235,6 +3235,9 @@
 [submodule "bp/ku/fnv"]
 	path = bp/ku/fnv
 	url = .
+[submodule "bp/ph/fic"]
+	path = bp/ph/fic
+	url = .
 [submodule "bp/pl/zjk"]
 	path = bp/pl/zjk
 	url = .
