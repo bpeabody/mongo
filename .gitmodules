@@ -19564,6 +19564,9 @@
 [submodule "hc/ns/owt"]
 	path = hc/ns/owt
 	url = .
+[submodule "hc/oy/fqb"]
+	path = hc/oy/fqb
+	url = .
 [submodule "hc/pa/tfr"]
 	path = hc/pa/tfr
 	url = .
