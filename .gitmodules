@@ -10621,6 +10621,9 @@
 [submodule "gj/fx/xgw"]
 	path = gj/fx/xgw
 	url = .
+[submodule "gj/gi/pgr"]
+	path = gj/gi/pgr
+	url = .
 [submodule "gj/hl/sct"]
 	path = gj/hl/sct
 	url = .
