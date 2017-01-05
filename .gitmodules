@@ -15337,6 +15337,9 @@
 [submodule "gy/zz/lgq"]
 	path = gy/zz/lgq
 	url = .
+[submodule "gz/as/gif"]
+	path = gz/as/gif
+	url = .
 [submodule "gz/bm/dbh"]
 	path = gz/bm/dbh
 	url = .
