@@ -14422,6 +14422,9 @@
 [submodule "ww/op/vxa"]
 	path = ww/op/vxa
 	url = .
+[submodule "ww/qq/ovk"]
+	path = ww/qq/ovk
+	url = .
 [submodule "ww/ws/wsi"]
 	path = ww/ws/wsi
 	url = .
