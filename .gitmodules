@@ -1897,6 +1897,9 @@
 [submodule "jh/hi/qmt"]
 	path = jh/hi/qmt
 	url = .
+[submodule "jh/ky/zce"]
+	path = jh/ky/zce
+	url = .
 [submodule "jh/nv/rlg"]
 	path = jh/nv/rlg
 	url = .
