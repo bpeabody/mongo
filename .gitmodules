@@ -8899,6 +8899,9 @@
 [submodule "jk/oc/ssl"]
 	path = jk/oc/ssl
 	url = .
+[submodule "jk/vs/cih"]
+	path = jk/vs/cih
+	url = .
 [submodule "jk/xn/sle"]
 	path = jk/xn/sle
 	url = .
