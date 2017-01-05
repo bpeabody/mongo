@@ -14932,6 +14932,9 @@
 [submodule "ms/os/vns"]
 	path = ms/os/vns
 	url = .
+[submodule "ms/uv/hyu"]
+	path = ms/uv/hyu
+	url = .
 [submodule "ms/zf/xte"]
 	path = ms/zf/xte
 	url = .
