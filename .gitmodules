@@ -7216,6 +7216,9 @@
 [submodule "ew/rd/uot"]
 	path = ew/rd/uot
 	url = .
+[submodule "ew/ri/ekw"]
+	path = ew/ri/ekw
+	url = .
 [submodule "ew/sh/gta"]
 	path = ew/sh/gta
 	url = .
