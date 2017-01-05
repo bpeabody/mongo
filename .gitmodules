@@ -808,6 +808,9 @@
 [submodule "bp/rs/wfb"]
 	path = bp/rs/wfb
 	url = .
+[submodule "bp/sx/zjy"]
+	path = bp/sx/zjy
+	url = .
 [submodule "bq/bm/cmy"]
 	path = bq/bm/cmy
 	url = .
