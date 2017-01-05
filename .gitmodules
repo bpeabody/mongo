@@ -19816,6 +19816,9 @@
 [submodule "ig/uy/fpq"]
 	path = ig/uy/fpq
 	url = .
+[submodule "ig/xi/kps"]
+	path = ig/xi/kps
+	url = .
 [submodule "ig/zn/jqz"]
 	path = ig/zn/jqz
 	url = .
