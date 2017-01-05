@@ -9970,6 +9970,9 @@
 [submodule "ln/dn/eda"]
 	path = ln/dn/eda
 	url = .
+[submodule "ln/hy/nws"]
+	path = ln/hy/nws
+	url = .
 [submodule "ln/pg/khf"]
 	path = ln/pg/khf
 	url = .
