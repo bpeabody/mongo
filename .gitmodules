@@ -25009,6 +25009,9 @@
 [submodule "ls/af/ucw"]
 	path = ls/af/ucw
 	url = .
+[submodule "ls/aj/uht"]
+	path = ls/aj/uht
+	url = .
 [submodule "ls/au/lri"]
 	path = ls/au/lri
 	url = .
