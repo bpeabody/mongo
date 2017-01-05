@@ -1339,6 +1339,9 @@
 [submodule "ao/uq/ekz"]
 	path = ao/uq/ekz
 	url = .
+[submodule "ao/us/rvk"]
+	path = ao/us/rvk
+	url = .
 [submodule "ao/wd/zcb"]
 	path = ao/wd/zcb
 	url = .
