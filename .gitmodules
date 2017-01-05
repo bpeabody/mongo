@@ -1171,6 +1171,9 @@
 [submodule "ki/pt/dif"]
 	path = ki/pt/dif
 	url = .
+[submodule "ki/vw/vig"]
+	path = ki/vw/vig
+	url = .
 [submodule "kj/aa/pwk"]
 	path = kj/aa/pwk
 	url = .
