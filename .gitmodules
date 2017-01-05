@@ -5428,6 +5428,9 @@
 [submodule "go/xl/lqm"]
 	path = go/xl/lqm
 	url = .
+[submodule "go/xo/guk"]
+	path = go/xo/guk
+	url = .
 [submodule "gp/aa/ily"]
 	path = gp/aa/ily
 	url = .
