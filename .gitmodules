@@ -6001,6 +6001,9 @@
 [submodule "oj/gz/vfo"]
 	path = oj/gz/vfo
 	url = .
+[submodule "oj/mx/uof"]
+	path = oj/mx/uof
+	url = .
 [submodule "oj/nf/jpo"]
 	path = oj/nf/jpo
 	url = .
