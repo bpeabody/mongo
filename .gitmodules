@@ -33262,6 +33262,9 @@
 [submodule "ly/as/idb"]
 	path = ly/as/idb
 	url = .
+[submodule "ly/at/sij"]
+	path = ly/at/sij
+	url = .
 [submodule "ly/av/bap"]
 	path = ly/av/bap
 	url = .
