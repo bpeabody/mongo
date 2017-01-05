@@ -49786,6 +49786,9 @@
 [submodule "ss/vm/xow"]
 	path = ss/vm/xow
 	url = .
+[submodule "ss/vs/tqg"]
+	path = ss/vs/tqg
+	url = .
 [submodule "ss/xl/rha"]
 	path = ss/xl/rha
 	url = .
