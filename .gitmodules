@@ -53770,6 +53770,9 @@
 [submodule "tu/rb/xkc"]
 	path = tu/rb/xkc
 	url = .
+[submodule "tu/rv/hif"]
+	path = tu/rv/hif
+	url = .
 [submodule "tu/sh/ttk"]
 	path = tu/sh/ttk
 	url = .
