@@ -274,6 +274,9 @@
 [submodule "ae/rb/glq"]
 	path = ae/rb/glq
 	url = .
+[submodule "ae/ry/vve"]
+	path = ae/ry/vve
+	url = .
 [submodule "ae/sg/cwg"]
 	path = ae/sg/cwg
 	url = .
