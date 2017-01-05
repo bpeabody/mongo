@@ -11824,6 +11824,9 @@
 [submodule "li/kt/xeu"]
 	path = li/kt/xeu
 	url = .
+[submodule "li/oj/sny"]
+	path = li/oj/sny
+	url = .
 [submodule "li/op/mao"]
 	path = li/op/mao
 	url = .
