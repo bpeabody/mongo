@@ -8071,6 +8071,9 @@
 [submodule "pe/jg/zut"]
 	path = pe/jg/zut
 	url = .
+[submodule "pe/kf/awy"]
+	path = pe/kf/awy
+	url = .
 [submodule "pe/mb/fjb"]
 	path = pe/mb/fjb
 	url = .
