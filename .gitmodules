@@ -484,6 +484,9 @@
 [submodule "gv/oi/sph"]
 	path = gv/oi/sph
 	url = .
+[submodule "gy/lv/cko"]
+	path = gy/lv/cko
+	url = .
 [submodule "ha/ci/rbp"]
 	path = ha/ci/rbp
 	url = .
