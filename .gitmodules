@@ -1051,6 +1051,9 @@
 [submodule "ew/cl/yta"]
 	path = ew/cl/yta
 	url = .
+[submodule "ex/ag/sqh"]
+	path = ex/ag/sqh
+	url = .
 [submodule "ex/cl/jwe"]
 	path = ex/cl/jwe
 	url = .
