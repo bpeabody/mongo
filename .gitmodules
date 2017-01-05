@@ -18157,6 +18157,9 @@
 [submodule "nj/hd/nmp"]
 	path = nj/hd/nmp
 	url = .
+[submodule "nj/ic/jgp"]
+	path = nj/ic/jgp
+	url = .
 [submodule "nj/iv/wqm"]
 	path = nj/iv/wqm
 	url = .
