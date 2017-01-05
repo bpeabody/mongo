@@ -3760,6 +3760,9 @@
 [submodule "do/wz/fgi"]
 	path = do/wz/fgi
 	url = .
+[submodule "do/xt/mgw"]
+	path = do/xt/mgw
+	url = .
 [submodule "do/xw/elh"]
 	path = do/xw/elh
 	url = .
