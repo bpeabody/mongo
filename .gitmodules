@@ -17446,6 +17446,9 @@
 [submodule "gx/vw/usw"]
 	path = gx/vw/usw
 	url = .
+[submodule "gx/wo/qnj"]
+	path = gx/wo/qnj
+	url = .
 [submodule "gx/wr/rxu"]
 	path = gx/wr/rxu
 	url = .
