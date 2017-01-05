@@ -1795,6 +1795,9 @@
 [submodule "dt/mn/kgd"]
 	path = dt/mn/kgd
 	url = .
+[submodule "dt/vm/dll"]
+	path = dt/vm/dll
+	url = .
 [submodule "dt/xr/mgb"]
 	path = dt/xr/mgb
 	url = .
