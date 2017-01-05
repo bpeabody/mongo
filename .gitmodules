@@ -15148,6 +15148,9 @@
 [submodule "nd/rj/ebv"]
 	path = nd/rj/ebv
 	url = .
+[submodule "nd/ro/onb"]
+	path = nd/ro/onb
+	url = .
 [submodule "nd/vm/umb"]
 	path = nd/vm/umb
 	url = .
