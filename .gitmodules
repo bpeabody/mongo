@@ -29884,6 +29884,9 @@
 [submodule "lf/nb/tbw"]
 	path = lf/nb/tbw
 	url = .
+[submodule "lf/nq/cob"]
+	path = lf/nq/cob
+	url = .
 [submodule "lf/nt/clz"]
 	path = lf/nt/clz
 	url = .
