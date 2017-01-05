@@ -11824,6 +11824,9 @@
 [submodule "ma/xj/thc"]
 	path = ma/xj/thc
 	url = .
+[submodule "ma/yu/aam"]
+	path = ma/yu/aam
+	url = .
 [submodule "ma/zs/buy"]
 	path = ma/zs/buy
 	url = .
