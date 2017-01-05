@@ -4576,6 +4576,9 @@
 [submodule "kj/ov/ikj"]
 	path = kj/ov/ikj
 	url = .
+[submodule "kj/pm/sup"]
+	path = kj/pm/sup
+	url = .
 [submodule "kk/np/qpj"]
 	path = kk/np/qpj
 	url = .
