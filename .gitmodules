@@ -22483,6 +22483,9 @@
 [submodule "lc/js/yrv"]
 	path = lc/js/yrv
 	url = .
+[submodule "lc/le/gjh"]
+	path = lc/le/gjh
+	url = .
 [submodule "lc/mk/cjk"]
 	path = lc/mk/cjk
 	url = .
