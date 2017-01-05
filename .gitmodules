@@ -1150,6 +1150,9 @@
 [submodule "at/wg/mdq"]
 	path = at/wg/mdq
 	url = .
+[submodule "at/yb/juz"]
+	path = at/yb/juz
+	url = .
 [submodule "au/cv/tai"]
 	path = au/cv/tai
 	url = .
