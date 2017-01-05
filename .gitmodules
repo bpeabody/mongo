@@ -4252,6 +4252,9 @@
 [submodule "bx/dv/oxb"]
 	path = bx/dv/oxb
 	url = .
+[submodule "bx/ew/xva"]
+	path = bx/ew/xva
+	url = .
 [submodule "bx/fs/usq"]
 	path = bx/fs/usq
 	url = .
