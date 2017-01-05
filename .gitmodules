@@ -13480,6 +13480,9 @@
 [submodule "xu/fe/gyu"]
 	path = xu/fe/gyu
 	url = .
+[submodule "xu/ig/ccg"]
+	path = xu/ig/ccg
+	url = .
 [submodule "xu/lr/izs"]
 	path = xu/lr/izs
 	url = .
