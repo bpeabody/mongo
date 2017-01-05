@@ -20281,6 +20281,9 @@
 [submodule "kf/tn/xwv"]
 	path = kf/tn/xwv
 	url = .
+[submodule "kf/uc/qof"]
+	path = kf/uc/qof
+	url = .
 [submodule "kf/ui/pbr"]
 	path = kf/ui/pbr
 	url = .
