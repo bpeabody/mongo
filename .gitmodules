@@ -27409,6 +27409,9 @@
 [submodule "zk/qj/wzg"]
 	path = zk/qj/wzg
 	url = .
+[submodule "zk/qr/hud"]
+	path = zk/qr/hud
+	url = .
 [submodule "zk/qy/zpl"]
 	path = zk/qy/zpl
 	url = .
