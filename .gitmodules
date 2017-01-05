@@ -7204,6 +7204,9 @@
 [submodule "ho/gv/wjf"]
 	path = ho/gv/wjf
 	url = .
+[submodule "ho/kt/yew"]
+	path = ho/kt/yew
+	url = .
 [submodule "ho/kv/cax"]
 	path = ho/kv/cax
 	url = .
