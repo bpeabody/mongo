@@ -61618,6 +61618,9 @@
 [submodule "ut/pn/hdm"]
 	path = ut/pn/hdm
 	url = .
+[submodule "ut/py/ceq"]
+	path = ut/py/ceq
+	url = .
 [submodule "ut/qc/iwm"]
 	path = ut/qc/iwm
 	url = .
