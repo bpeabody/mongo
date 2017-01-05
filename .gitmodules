@@ -7267,6 +7267,9 @@
 [submodule "cl/jl/kid"]
 	path = cl/jl/kid
 	url = .
+[submodule "cl/jz/htw"]
+	path = cl/jz/htw
+	url = .
 [submodule "cl/ld/usb"]
 	path = cl/ld/usb
 	url = .
