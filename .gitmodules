@@ -24940,6 +24940,9 @@
 [submodule "rb/yl/kld"]
 	path = rb/yl/kld
 	url = .
+[submodule "rb/yn/vfd"]
+	path = rb/yn/vfd
+	url = .
 [submodule "rc/am/zmb"]
 	path = rc/am/zmb
 	url = .
