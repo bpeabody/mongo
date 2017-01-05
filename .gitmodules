@@ -4996,6 +4996,9 @@
 [submodule "cd/yy/iog"]
 	path = cd/yy/iog
 	url = .
+[submodule "ce/at/jse"]
+	path = ce/at/jse
+	url = .
 [submodule "ce/az/dbo"]
 	path = ce/az/dbo
 	url = .
