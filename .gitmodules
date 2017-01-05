@@ -1483,6 +1483,9 @@
 [submodule "bo/dv/wig"]
 	path = bo/dv/wig
 	url = .
+[submodule "bo/eu/vbe"]
+	path = bo/eu/vbe
+	url = .
 [submodule "bo/hg/fzn"]
 	path = bo/hg/fzn
 	url = .
