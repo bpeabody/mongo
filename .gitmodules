@@ -10465,6 +10465,9 @@
 [submodule "ea/qy/yyz"]
 	path = ea/qy/yyz
 	url = .
+[submodule "ea/rc/ivx"]
+	path = ea/rc/ivx
+	url = .
 [submodule "ea/ro/mbk"]
 	path = ea/ro/mbk
 	url = .
