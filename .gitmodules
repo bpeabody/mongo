@@ -10141,6 +10141,9 @@
 [submodule "ja/fk/gbl"]
 	path = ja/fk/gbl
 	url = .
+[submodule "ja/gk/yeb"]
+	path = ja/gk/yeb
+	url = .
 [submodule "ja/hb/cbi"]
 	path = ja/hb/cbi
 	url = .
