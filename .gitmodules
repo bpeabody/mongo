@@ -11323,6 +11323,9 @@
 [submodule "ll/dz/coq"]
 	path = ll/dz/coq
 	url = .
+[submodule "ll/eh/cmk"]
+	path = ll/eh/cmk
+	url = .
 [submodule "ll/gc/biu"]
 	path = ll/gc/biu
 	url = .
