@@ -4717,6 +4717,9 @@
 [submodule "dr/gx/zou"]
 	path = dr/gx/zou
 	url = .
+[submodule "dr/ik/azx"]
+	path = dr/ik/azx
+	url = .
 [submodule "dr/ke/sfc"]
 	path = dr/ke/sfc
 	url = .
