@@ -14731,6 +14731,9 @@
 [submodule "fo/om/jxa"]
 	path = fo/om/jxa
 	url = .
+[submodule "fo/ql/qkn"]
+	path = fo/ql/qkn
+	url = .
 [submodule "fo/qz/ndm"]
 	path = fo/qz/ndm
 	url = .
