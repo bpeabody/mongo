@@ -6454,6 +6454,9 @@
 [submodule "ch/ia/uep"]
 	path = ch/ia/uep
 	url = .
+[submodule "ch/is/fbs"]
+	path = ch/is/fbs
+	url = .
 [submodule "ch/jt/gtw"]
 	path = ch/jt/gtw
 	url = .
