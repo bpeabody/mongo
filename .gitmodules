@@ -4660,6 +4660,9 @@
 [submodule "lm/ik/hqo"]
 	path = lm/ik/hqo
 	url = .
+[submodule "lm/oy/cmz"]
+	path = lm/oy/cmz
+	url = .
 [submodule "lm/rn/nvt"]
 	path = lm/rn/nvt
 	url = .
