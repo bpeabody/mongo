@@ -4120,6 +4120,9 @@
 [submodule "kr/xq/zgc"]
 	path = kr/xq/zgc
 	url = .
+[submodule "kr/zz/pan"]
+	path = kr/zz/pan
+	url = .
 [submodule "ks/na/uhw"]
 	path = ks/na/uhw
 	url = .
