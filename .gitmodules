@@ -8092,6 +8092,9 @@
 [submodule "tt/ax/hnq"]
 	path = tt/ax/hnq
 	url = .
+[submodule "tt/be/dya"]
+	path = tt/be/dya
+	url = .
 [submodule "tt/ch/uls"]
 	path = tt/ch/uls
 	url = .
