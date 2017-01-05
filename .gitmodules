@@ -69595,6 +69595,9 @@
 [submodule "zh/ku/evn"]
 	path = zh/ku/evn
 	url = .
+[submodule "zh/ld/gtp"]
+	path = zh/ld/gtp
+	url = .
 [submodule "zh/mh/vsy"]
 	path = zh/mh/vsy
 	url = .
