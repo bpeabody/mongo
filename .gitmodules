@@ -22789,6 +22789,9 @@
 [submodule "sd/pr/nlb"]
 	path = sd/pr/nlb
 	url = .
+[submodule "sd/ri/tpg"]
+	path = sd/ri/tpg
+	url = .
 [submodule "sd/sf/nwl"]
 	path = sd/sf/nwl
 	url = .
