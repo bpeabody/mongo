@@ -1363,6 +1363,9 @@
 [submodule "wh/gg/kxc"]
 	path = wh/gg/kxc
 	url = .
+[submodule "wh/qs/obv"]
+	path = wh/qs/obv
+	url = .
 [submodule "wh/tr/mvi"]
 	path = wh/tr/mvi
 	url = .
