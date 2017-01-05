@@ -26389,6 +26389,9 @@
 [submodule "kk/fv/fou"]
 	path = kk/fv/fou
 	url = .
+[submodule "kk/gn/eci"]
+	path = kk/gn/eci
+	url = .
 [submodule "kk/gs/uqf"]
 	path = kk/gs/uqf
 	url = .
