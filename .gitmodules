@@ -4339,6 +4339,9 @@
 [submodule "fx/na/vkm"]
 	path = fx/na/vkm
 	url = .
+[submodule "fx/nm/tqj"]
+	path = fx/nm/tqj
+	url = .
 [submodule "fx/so/skm"]
 	path = fx/so/skm
 	url = .
