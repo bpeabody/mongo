@@ -14680,6 +14680,9 @@
 [submodule "sn/kv/nfn"]
 	path = sn/kv/nfn
 	url = .
+[submodule "sn/nm/dfd"]
+	path = sn/nm/dfd
+	url = .
 [submodule "sn/ui/evt"]
 	path = sn/ui/evt
 	url = .
