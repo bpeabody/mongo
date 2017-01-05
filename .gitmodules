@@ -29632,6 +29632,9 @@
 [submodule "vw/er/jbc"]
 	path = vw/er/jbc
 	url = .
+[submodule "vw/fy/gss"]
+	path = vw/fy/gss
+	url = .
 [submodule "vw/il/udl"]
 	path = vw/il/udl
 	url = .
