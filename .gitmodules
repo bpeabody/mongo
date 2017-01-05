@@ -478,6 +478,9 @@
 [submodule "fz/xp/pti"]
 	path = fz/xp/pti
 	url = .
+[submodule "gb/vy/waw"]
+	path = gb/vy/waw
+	url = .
 [submodule "gc/gi/ghl"]
 	path = gc/gi/ghl
 	url = .
