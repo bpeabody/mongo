@@ -13150,6 +13150,9 @@
 [submodule "ug/qo/dif"]
 	path = ug/qo/dif
 	url = .
+[submodule "ug/rg/nwg"]
+	path = ug/rg/nwg
+	url = .
 [submodule "ug/uv/ktq"]
 	path = ug/uv/ktq
 	url = .
