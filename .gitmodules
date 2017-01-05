@@ -19,6 +19,9 @@
 [submodule "ac/tc/wxn"]
 	path = ac/tc/wxn
 	url = .
+[submodule "ac/wk/cya"]
+	path = ac/wk/cya
+	url = .
 [submodule "ad/rv/tfg"]
 	path = ad/rv/tfg
 	url = .
