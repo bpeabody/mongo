@@ -11008,6 +11008,9 @@
 [submodule "iu/pc/lbs"]
 	path = iu/pc/lbs
 	url = .
+[submodule "iu/pj/pok"]
+	path = iu/pj/pok
+	url = .
 [submodule "iu/pm/pym"]
 	path = iu/pm/pym
 	url = .
