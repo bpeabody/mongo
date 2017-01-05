@@ -9841,6 +9841,9 @@
 [submodule "dg/pi/faw"]
 	path = dg/pi/faw
 	url = .
+[submodule "dg/px/kfq"]
+	path = dg/px/kfq
+	url = .
 [submodule "dg/sb/pif"]
 	path = dg/sb/pif
 	url = .
