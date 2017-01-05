@@ -529,6 +529,9 @@
 [submodule "cp/ag/hmu"]
 	path = cp/ag/hmu
 	url = .
+[submodule "cp/dx/pjo"]
+	path = cp/dx/pjo
+	url = .
 [submodule "cp/kk/rym"]
 	path = cp/kk/rym
 	url = .
