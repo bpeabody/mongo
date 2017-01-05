@@ -2011,6 +2011,9 @@
 [submodule "lz/ky/gcn"]
 	path = lz/ky/gcn
 	url = .
+[submodule "ma/wt/gen"]
+	path = ma/wt/gen
+	url = .
 [submodule "mc/dc/otc"]
 	path = mc/dc/otc
 	url = .
