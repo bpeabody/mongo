@@ -7024,6 +7024,9 @@
 [submodule "ci/vt/dge"]
 	path = ci/vt/dge
 	url = .
+[submodule "ci/wa/twu"]
+	path = ci/wa/twu
+	url = .
 [submodule "ci/wc/hnj"]
 	path = ci/wc/hnj
 	url = .
