@@ -47479,6 +47479,9 @@
 [submodule "pr/ml/nde"]
 	path = pr/ml/nde
 	url = .
+[submodule "pr/mx/yum"]
+	path = pr/mx/yum
+	url = .
 [submodule "pr/nl/bxm"]
 	path = pr/nl/bxm
 	url = .
