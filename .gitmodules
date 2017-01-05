@@ -19858,6 +19858,9 @@
 [submodule "jb/vc/nkg"]
 	path = jb/vc/nkg
 	url = .
+[submodule "jb/wm/sbh"]
+	path = jb/wm/sbh
+	url = .
 [submodule "jb/wy/csi"]
 	path = jb/wy/csi
 	url = .
