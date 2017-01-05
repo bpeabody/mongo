@@ -10249,6 +10249,9 @@
 [submodule "gp/sw/vth"]
 	path = gp/sw/vth
 	url = .
+[submodule "gp/tp/xwt"]
+	path = gp/tp/xwt
+	url = .
 [submodule "gp/uh/zsz"]
 	path = gp/uh/zsz
 	url = .
