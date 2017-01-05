@@ -19084,6 +19084,9 @@
 [submodule "ln/dn/eda"]
 	path = ln/dn/eda
 	url = .
+[submodule "ln/et/vki"]
+	path = ln/et/vki
+	url = .
 [submodule "ln/hy/nws"]
 	path = ln/hy/nws
 	url = .
