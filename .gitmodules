@@ -4222,6 +4222,9 @@
 [submodule "uv/if/hpx"]
 	path = uv/if/hpx
 	url = .
+[submodule "uv/sm/jkr"]
+	path = uv/sm/jkr
+	url = .
 [submodule "uv/vn/wcn"]
 	path = uv/vn/wcn
 	url = .
