@@ -14206,6 +14206,9 @@
 [submodule "sr/kv/bpu"]
 	path = sr/kv/bpu
 	url = .
+[submodule "sr/kx/bhs"]
+	path = sr/kx/bhs
+	url = .
 [submodule "sr/nt/hjv"]
 	path = sr/nt/hjv
 	url = .
