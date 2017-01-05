@@ -17122,6 +17122,9 @@
 [submodule "ya/xy/ofa"]
 	path = ya/xy/ofa
 	url = .
+[submodule "yb/cd/mtw"]
+	path = yb/cd/mtw
+	url = .
 [submodule "yb/ct/mff"]
 	path = yb/ct/mff
 	url = .
