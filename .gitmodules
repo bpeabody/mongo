@@ -8314,6 +8314,9 @@
 [submodule "sg/vn/oaf"]
 	path = sg/vn/oaf
 	url = .
+[submodule "sh/gu/agc"]
+	path = sh/gu/agc
+	url = .
 [submodule "sh/mw/ktz"]
 	path = sh/mw/ktz
 	url = .
