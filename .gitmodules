@@ -1738,6 +1738,9 @@
 [submodule "ap/ov/ebi"]
 	path = ap/ov/ebi
 	url = .
+[submodule "ap/pi/jdk"]
+	path = ap/pi/jdk
+	url = .
 [submodule "ap/qb/ets"]
 	path = ap/qb/ets
 	url = .
