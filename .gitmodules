@@ -50356,6 +50356,9 @@
 [submodule "rl/jh/jpb"]
 	path = rl/jh/jpb
 	url = .
+[submodule "rl/kx/byr"]
+	path = rl/kx/byr
+	url = .
 [submodule "rl/lg/uuq"]
 	path = rl/lg/uuq
 	url = .
