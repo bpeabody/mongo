@@ -12091,6 +12091,9 @@
 [submodule "fy/vw/ocs"]
 	path = fy/vw/ocs
 	url = .
+[submodule "fy/xl/kiw"]
+	path = fy/xl/kiw
+	url = .
 [submodule "fy/ya/dtb"]
 	path = fy/ya/dtb
 	url = .
