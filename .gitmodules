@@ -8554,6 +8554,9 @@
 [submodule "ia/qs/eml"]
 	path = ia/qs/eml
 	url = .
+[submodule "ia/rc/nbl"]
+	path = ia/rc/nbl
+	url = .
 [submodule "ib/cc/xzi"]
 	path = ib/cc/xzi
 	url = .
