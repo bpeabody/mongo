@@ -6139,6 +6139,9 @@
 [submodule "da/za/msf"]
 	path = da/za/msf
 	url = .
+[submodule "da/zq/ucy"]
+	path = da/zq/ucy
+	url = .
 [submodule "db/aw/yos"]
 	path = db/aw/yos
 	url = .
