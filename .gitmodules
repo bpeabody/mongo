@@ -26491,6 +26491,9 @@
 [submodule "je/ky/nya"]
 	path = je/ky/nya
 	url = .
+[submodule "je/lc/stx"]
+	path = je/lc/stx
+	url = .
 [submodule "je/ld/ocd"]
 	path = je/ld/ocd
 	url = .
