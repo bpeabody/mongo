@@ -27277,6 +27277,9 @@
 [submodule "yg/kq/iqu"]
 	path = yg/kq/iqu
 	url = .
+[submodule "yg/nm/erk"]
+	path = yg/nm/erk
+	url = .
 [submodule "yg/oc/uoa"]
 	path = yg/oc/uoa
 	url = .
