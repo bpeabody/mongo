@@ -26473,6 +26473,9 @@
 [submodule "lp/jd/bdh"]
 	path = lp/jd/bdh
 	url = .
+[submodule "lp/jn/irf"]
+	path = lp/jn/irf
+	url = .
 [submodule "lp/jp/lkp"]
 	path = lp/jp/lkp
 	url = .
