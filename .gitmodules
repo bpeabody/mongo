@@ -5917,6 +5917,9 @@
 [submodule "oa/dv/yri"]
 	path = oa/dv/yri
 	url = .
+[submodule "oa/gi/rnr"]
+	path = oa/gi/rnr
+	url = .
 [submodule "oa/ji/goq"]
 	path = oa/ji/goq
 	url = .
