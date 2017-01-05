@@ -30523,6 +30523,9 @@
 [submodule "qs/bw/plr"]
 	path = qs/bw/plr
 	url = .
+[submodule "qs/ch/coe"]
+	path = qs/ch/coe
+	url = .
 [submodule "qs/ck/usm"]
 	path = qs/ck/usm
 	url = .
