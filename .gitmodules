@@ -250,6 +250,9 @@
 [submodule "ae/tx/evd"]
 	path = ae/tx/evd
 	url = .
+[submodule "ae/ub/sva"]
+	path = ae/ub/sva
+	url = .
 [submodule "ae/ue/cic"]
 	path = ae/ue/cic
 	url = .
