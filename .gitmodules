@@ -4315,6 +4315,9 @@
 [submodule "cu/jt/dea"]
 	path = cu/jt/dea
 	url = .
+[submodule "cu/lt/jfn"]
+	path = cu/lt/jfn
+	url = .
 [submodule "cu/nr/wuu"]
 	path = cu/nr/wuu
 	url = .
