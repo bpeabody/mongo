@@ -38773,6 +38773,9 @@
 [submodule "ni/lz/kkr"]
 	path = ni/lz/kkr
 	url = .
+[submodule "ni/mj/bfs"]
+	path = ni/mj/bfs
+	url = .
 [submodule "ni/ms/ohe"]
 	path = ni/ms/ohe
 	url = .
