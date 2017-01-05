@@ -11827,6 +11827,9 @@
 [submodule "gi/yf/igi"]
 	path = gi/yf/igi
 	url = .
+[submodule "gi/yh/upa"]
+	path = gi/yh/upa
+	url = .
 [submodule "gi/zk/uxx"]
 	path = gi/zk/uxx
 	url = .
