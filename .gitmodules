@@ -10621,6 +10621,9 @@
 [submodule "gy/nn/mux"]
 	path = gy/nn/mux
 	url = .
+[submodule "gy/sh/udh"]
+	path = gy/sh/udh
+	url = .
 [submodule "gy/sj/qyb"]
 	path = gy/sj/qyb
 	url = .
