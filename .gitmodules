@@ -16291,6 +16291,9 @@
 [submodule "jj/qm/aql"]
 	path = jj/qm/aql
 	url = .
+[submodule "jj/qw/koq"]
+	path = jj/qw/koq
+	url = .
 [submodule "jj/si/zof"]
 	path = jj/si/zof
 	url = .
