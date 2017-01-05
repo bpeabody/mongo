@@ -8053,6 +8053,9 @@
 [submodule "ef/ay/nwy"]
 	path = ef/ay/nwy
 	url = .
+[submodule "ef/ef/naz"]
+	path = ef/ef/naz
+	url = .
 [submodule "ef/eg/kfk"]
 	path = ef/eg/kfk
 	url = .
