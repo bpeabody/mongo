@@ -35284,6 +35284,9 @@
 [submodule "ly/jp/pbn"]
 	path = ly/jp/pbn
 	url = .
+[submodule "ly/jy/vjn"]
+	path = ly/jy/vjn
+	url = .
 [submodule "ly/kf/orx"]
 	path = ly/kf/orx
 	url = .
