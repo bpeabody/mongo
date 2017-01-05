@@ -7291,6 +7291,9 @@
 [submodule "oa/tz/hlr"]
 	path = oa/tz/hlr
 	url = .
+[submodule "ob/gh/ttn"]
+	path = ob/gh/ttn
+	url = .
 [submodule "ob/gs/sos"]
 	path = ob/gs/sos
 	url = .
