@@ -3433,6 +3433,9 @@
 [submodule "fo/hs/woz"]
 	path = fo/hs/woz
 	url = .
+[submodule "fo/ia/fon"]
+	path = fo/ia/fon
+	url = .
 [submodule "fo/jm/uke"]
 	path = fo/jm/uke
 	url = .
