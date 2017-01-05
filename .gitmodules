@@ -43432,6 +43432,9 @@
 [submodule "xo/yr/tex"]
 	path = xo/yr/tex
 	url = .
+[submodule "xp/ay/jdk"]
+	path = xp/ay/jdk
+	url = .
 [submodule "xp/bz/hgd"]
 	path = xp/bz/hgd
 	url = .
