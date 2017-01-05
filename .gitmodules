@@ -9751,6 +9751,9 @@
 [submodule "np/se/nik"]
 	path = np/se/nik
 	url = .
+[submodule "np/xs/wyo"]
+	path = np/xs/wyo
+	url = .
 [submodule "nq/ac/rer"]
 	path = nq/ac/rer
 	url = .
