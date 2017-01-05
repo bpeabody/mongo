@@ -4255,6 +4255,9 @@
 [submodule "fi/my/npa"]
 	path = fi/my/npa
 	url = .
+[submodule "fi/on/vqz"]
+	path = fi/on/vqz
+	url = .
 [submodule "fi/vb/mwu"]
 	path = fi/vb/mwu
 	url = .
