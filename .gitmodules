@@ -3022,6 +3022,9 @@
 [submodule "dv/bz/lsf"]
 	path = dv/bz/lsf
 	url = .
+[submodule "dv/co/uks"]
+	path = dv/co/uks
+	url = .
 [submodule "dv/ht/zzj"]
 	path = dv/ht/zzj
 	url = .
