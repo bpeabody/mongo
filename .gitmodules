@@ -16885,6 +16885,9 @@
 [submodule "pg/rw/tgo"]
 	path = pg/rw/tgo
 	url = .
+[submodule "pg/rx/lqc"]
+	path = pg/rx/lqc
+	url = .
 [submodule "pg/uk/qlx"]
 	path = pg/uk/qlx
 	url = .
