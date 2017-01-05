@@ -18019,6 +18019,9 @@
 [submodule "mm/mc/ptf"]
 	path = mm/mc/ptf
 	url = .
+[submodule "mm/ot/fak"]
+	path = mm/ot/fak
+	url = .
 [submodule "mm/oy/opt"]
 	path = mm/oy/opt
 	url = .
