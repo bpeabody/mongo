@@ -31732,6 +31732,9 @@
 [submodule "ok/gp/pdu"]
 	path = ok/gp/pdu
 	url = .
+[submodule "ok/hn/aco"]
+	path = ok/hn/aco
+	url = .
 [submodule "ok/hn/qgv"]
 	path = ok/hn/qgv
 	url = .
