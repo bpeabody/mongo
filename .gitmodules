@@ -1000,6 +1000,9 @@
 [submodule "fe/ff/cbs"]
 	path = fe/ff/cbs
 	url = .
+[submodule "ff/kz/dah"]
+	path = ff/kz/dah
+	url = .
 [submodule "ff/nk/ncz"]
 	path = ff/nk/ncz
 	url = .
