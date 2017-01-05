@@ -7348,6 +7348,9 @@
 [submodule "hv/qv/ovt"]
 	path = hv/qv/ovt
 	url = .
+[submodule "hv/yn/jjx"]
+	path = hv/yn/jjx
+	url = .
 [submodule "hw/fs/pxc"]
 	path = hw/fs/pxc
 	url = .
