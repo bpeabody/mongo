@@ -10048,6 +10048,9 @@
 [submodule "go/ph/vou"]
 	path = go/ph/vou
 	url = .
+[submodule "go/te/qif"]
+	path = go/te/qif
+	url = .
 [submodule "go/uu/qdj"]
 	path = go/uu/qdj
 	url = .
