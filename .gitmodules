@@ -6484,6 +6484,9 @@
 [submodule "lv/ei/hfg"]
 	path = lv/ei/hfg
 	url = .
+[submodule "lv/im/ivr"]
+	path = lv/im/ivr
+	url = .
 [submodule "lv/ja/art"]
 	path = lv/ja/art
 	url = .
