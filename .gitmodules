@@ -12946,6 +12946,9 @@
 [submodule "xo/hy/nst"]
 	path = xo/hy/nst
 	url = .
+[submodule "xo/if/vrl"]
+	path = xo/if/vrl
+	url = .
 [submodule "xo/kl/edv"]
 	path = xo/kl/edv
 	url = .
