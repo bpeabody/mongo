@@ -48667,6 +48667,9 @@
 [submodule "uo/kj/udr"]
 	path = uo/kj/udr
 	url = .
+[submodule "uo/ks/psq"]
+	path = uo/ks/psq
+	url = .
 [submodule "uo/lc/eal"]
 	path = uo/lc/eal
 	url = .
