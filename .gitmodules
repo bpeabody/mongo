@@ -7246,6 +7246,9 @@
 [submodule "hs/vm/ogf"]
 	path = hs/vm/ogf
 	url = .
+[submodule "hs/zc/fir"]
+	path = hs/zc/fir
+	url = .
 [submodule "ht/ay/baj"]
 	path = ht/ay/baj
 	url = .
