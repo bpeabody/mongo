@@ -1309,6 +1309,9 @@
 [submodule "nh/js/wmn"]
 	path = nh/js/wmn
 	url = .
+[submodule "ni/nw/ajn"]
+	path = ni/nw/ajn
+	url = .
 [submodule "nk/ag/vcr"]
 	path = nk/ag/vcr
 	url = .
