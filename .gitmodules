@@ -10390,6 +10390,9 @@
 [submodule "je/oe/bxi"]
 	path = je/oe/bxi
 	url = .
+[submodule "je/oj/stm"]
+	path = je/oj/stm
+	url = .
 [submodule "je/qb/mmx"]
 	path = je/qb/mmx
 	url = .
