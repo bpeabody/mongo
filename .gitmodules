@@ -17881,6 +17881,9 @@
 [submodule "rm/tc/nby"]
 	path = rm/tc/nby
 	url = .
+[submodule "rm/tp/qpt"]
+	path = rm/tp/qpt
+	url = .
 [submodule "rm/xn/emh"]
 	path = rm/xn/emh
 	url = .
