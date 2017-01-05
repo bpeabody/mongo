@@ -30136,6 +30136,9 @@
 [submodule "kg/fp/omq"]
 	path = kg/fp/omq
 	url = .
+[submodule "kg/hv/uhx"]
+	path = kg/hv/uhx
+	url = .
 [submodule "kg/ib/ahh"]
 	path = kg/ib/ahh
 	url = .
