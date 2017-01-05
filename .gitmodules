@@ -8488,6 +8488,9 @@
 [submodule "mk/hb/qfl"]
 	path = mk/hb/qfl
 	url = .
+[submodule "mk/je/snq"]
+	path = mk/je/snq
+	url = .
 [submodule "mk/kf/uye"]
 	path = mk/kf/uye
 	url = .
