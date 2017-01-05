@@ -20746,6 +20746,9 @@
 [submodule "ih/hk/ktq"]
 	path = ih/hk/ktq
 	url = .
+[submodule "ih/ht/oli"]
+	path = ih/ht/oli
+	url = .
 [submodule "ih/hw/fcm"]
 	path = ih/hw/fcm
 	url = .
