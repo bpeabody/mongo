@@ -3409,6 +3409,9 @@
 [submodule "cz/xb/sai"]
 	path = cz/xb/sai
 	url = .
+[submodule "da/ar/eux"]
+	path = da/ar/eux
+	url = .
 [submodule "da/at/nct"]
 	path = da/at/nct
 	url = .
