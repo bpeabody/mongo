@@ -16768,6 +16768,9 @@
 [submodule "gh/uh/edi"]
 	path = gh/uh/edi
 	url = .
+[submodule "gh/ur/kdc"]
+	path = gh/ur/kdc
+	url = .
 [submodule "gh/wa/xtc"]
 	path = gh/wa/xtc
 	url = .
