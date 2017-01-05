@@ -37960,6 +37960,9 @@
 [submodule "xx/eq/joe"]
 	path = xx/eq/joe
 	url = .
+[submodule "xx/ey/bni"]
+	path = xx/ey/bni
+	url = .
 [submodule "xx/fy/ygd"]
 	path = xx/fy/ygd
 	url = .
