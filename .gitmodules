@@ -11773,6 +11773,9 @@
 [submodule "fh/rb/feg"]
 	path = fh/rb/feg
 	url = .
+[submodule "fh/sm/fmq"]
+	path = fh/sm/fmq
+	url = .
 [submodule "fh/tu/hiw"]
 	path = fh/tu/hiw
 	url = .
