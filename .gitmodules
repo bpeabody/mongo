@@ -32629,6 +32629,9 @@
 [submodule "mg/bw/qfk"]
 	path = mg/bw/qfk
 	url = .
+[submodule "mg/ce/kwm"]
+	path = mg/ce/kwm
+	url = .
 [submodule "mg/cz/mwo"]
 	path = mg/cz/mwo
 	url = .
