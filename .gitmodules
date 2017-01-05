@@ -48901,6 +48901,9 @@
 [submodule "sg/wf/ujs"]
 	path = sg/wf/ujs
 	url = .
+[submodule "sg/wq/ycc"]
+	path = sg/wq/ycc
+	url = .
 [submodule "sg/xc/isa"]
 	path = sg/xc/isa
 	url = .
