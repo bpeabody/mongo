@@ -1027,6 +1027,9 @@
 [submodule "aj/zc/smu"]
 	path = aj/zc/smu
 	url = .
+[submodule "aj/zt/riu"]
+	path = aj/zt/riu
+	url = .
 [submodule "ak/af/mnk"]
 	path = ak/af/mnk
 	url = .
