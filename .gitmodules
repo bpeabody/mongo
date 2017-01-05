@@ -15421,6 +15421,9 @@
 [submodule "jg/hj/yrm"]
 	path = jg/hj/yrm
 	url = .
+[submodule "jg/hj/zdj"]
+	path = jg/hj/zdj
+	url = .
 [submodule "jg/hq/adt"]
 	path = jg/hq/adt
 	url = .
