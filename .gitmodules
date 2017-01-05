@@ -28138,6 +28138,9 @@
 [submodule "ka/pu/hfw"]
 	path = ka/pu/hfw
 	url = .
+[submodule "ka/ru/noi"]
+	path = ka/ru/noi
+	url = .
 [submodule "ka/si/kvt"]
 	path = ka/si/kvt
 	url = .
