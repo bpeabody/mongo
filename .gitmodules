@@ -11941,6 +11941,9 @@
 [submodule "qp/jp/ujb"]
 	path = qp/jp/ujb
 	url = .
+[submodule "qp/lh/lnj"]
+	path = qp/lh/lnj
+	url = .
 [submodule "qp/mq/ald"]
 	path = qp/mq/ald
 	url = .
