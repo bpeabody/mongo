@@ -23197,6 +23197,9 @@
 [submodule "wr/mz/rfd"]
 	path = wr/mz/rfd
 	url = .
+[submodule "wr/oi/jeo"]
+	path = wr/oi/jeo
+	url = .
 [submodule "wr/ru/nra"]
 	path = wr/ru/nra
 	url = .
