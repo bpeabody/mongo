@@ -2179,6 +2179,9 @@
 [submodule "db/pu/nmu"]
 	path = db/pu/nmu
 	url = .
+[submodule "dc/fm/csm"]
+	path = dc/fm/csm
+	url = .
 [submodule "dc/hf/ygd"]
 	path = dc/hf/ygd
 	url = .
