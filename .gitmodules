@@ -19075,6 +19075,9 @@
 [submodule "lg/gf/wjf"]
 	path = lg/gf/wjf
 	url = .
+[submodule "lg/gm/egn"]
+	path = lg/gm/egn
+	url = .
 [submodule "lg/gn/qmm"]
 	path = lg/gn/qmm
 	url = .
