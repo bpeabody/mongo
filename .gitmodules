@@ -22960,6 +22960,9 @@
 [submodule "om/ey/hib"]
 	path = om/ey/hib
 	url = .
+[submodule "om/fw/fma"]
+	path = om/fw/fma
+	url = .
 [submodule "om/if/kau"]
 	path = om/if/kau
 	url = .
