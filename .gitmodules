@@ -5221,6 +5221,9 @@
 [submodule "hj/zn/bzh"]
 	path = hj/zn/bzh
 	url = .
+[submodule "hk/ag/jor"]
+	path = hk/ag/jor
+	url = .
 [submodule "hk/as/hsg"]
 	path = hk/as/hsg
 	url = .
