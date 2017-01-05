@@ -19267,6 +19267,9 @@
 [submodule "gv/cx/dis"]
 	path = gv/cx/dis
 	url = .
+[submodule "gv/ez/usv"]
+	path = gv/ez/usv
+	url = .
 [submodule "gv/fq/xfr"]
 	path = gv/fq/xfr
 	url = .
