@@ -10519,6 +10519,9 @@
 [submodule "ej/kl/nru"]
 	path = ej/kl/nru
 	url = .
+[submodule "ej/kv/hnd"]
+	path = ej/kv/hnd
+	url = .
 [submodule "ej/kv/mus"]
 	path = ej/kv/mus
 	url = .
