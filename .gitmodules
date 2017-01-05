@@ -28834,6 +28834,9 @@
 [submodule "md/az/khq"]
 	path = md/az/khq
 	url = .
+[submodule "md/br/uzv"]
+	path = md/br/uzv
+	url = .
 [submodule "md/bw/xac"]
 	path = md/bw/xac
 	url = .
