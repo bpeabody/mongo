@@ -6835,6 +6835,9 @@
 [submodule "wg/la/vex"]
 	path = wg/la/vex
 	url = .
+[submodule "wg/uq/pci"]
+	path = wg/uq/pci
+	url = .
 [submodule "wg/xd/hwn"]
 	path = wg/xd/hwn
 	url = .
