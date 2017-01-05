@@ -3691,6 +3691,9 @@
 [submodule "bj/bp/ipn"]
 	path = bj/bp/ipn
 	url = .
+[submodule "bj/ci/isr"]
+	path = bj/ci/isr
+	url = .
 [submodule "bj/cm/poa"]
 	path = bj/cm/poa
 	url = .
