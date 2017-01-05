@@ -6439,6 +6439,9 @@
 [submodule "qh/hv/tvr"]
 	path = qh/hv/tvr
 	url = .
+[submodule "qh/kw/rae"]
+	path = qh/kw/rae
+	url = .
 [submodule "qh/qr/gzl"]
 	path = qh/qr/gzl
 	url = .
