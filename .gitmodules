@@ -21247,6 +21247,9 @@
 [submodule "su/go/yrs"]
 	path = su/go/yrs
 	url = .
+[submodule "su/jt/mrn"]
+	path = su/jt/mrn
+	url = .
 [submodule "su/qs/cnj"]
 	path = su/qs/cnj
 	url = .
