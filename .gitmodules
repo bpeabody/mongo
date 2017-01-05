@@ -33436,6 +33436,9 @@
 [submodule "rf/xe/uqn"]
 	path = rf/xe/uqn
 	url = .
+[submodule "rf/xf/xnm"]
+	path = rf/xf/xnm
+	url = .
 [submodule "rf/yu/ytv"]
 	path = rf/yu/ytv
 	url = .
