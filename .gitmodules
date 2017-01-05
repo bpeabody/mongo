@@ -4234,6 +4234,9 @@
 [submodule "gc/jx/ota"]
 	path = gc/jx/ota
 	url = .
+[submodule "gc/rn/jdd"]
+	path = gc/rn/jdd
+	url = .
 [submodule "gc/ry/pss"]
 	path = gc/ry/pss
 	url = .
