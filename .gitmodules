@@ -5737,6 +5737,9 @@
 [submodule "tq/lg/kin"]
 	path = tq/lg/kin
 	url = .
+[submodule "tq/lw/sse"]
+	path = tq/lw/sse
+	url = .
 [submodule "tq/mj/uyx"]
 	path = tq/mj/uyx
 	url = .
