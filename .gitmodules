@@ -1615,6 +1615,9 @@
 [submodule "bt/xc/bcj"]
 	path = bt/xc/bcj
 	url = .
+[submodule "bt/xi/zis"]
+	path = bt/xi/zis
+	url = .
 [submodule "bt/yi/mpy"]
 	path = bt/yi/mpy
 	url = .
