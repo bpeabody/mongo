@@ -34525,6 +34525,9 @@
 [submodule "ur/wx/bwi"]
 	path = ur/wx/bwi
 	url = .
+[submodule "us/dc/fai"]
+	path = us/dc/fai
+	url = .
 [submodule "us/gz/wqs"]
 	path = us/gz/wqs
 	url = .
