@@ -50926,6 +50926,9 @@
 [submodule "um/rw/wdp"]
 	path = um/rw/wdp
 	url = .
+[submodule "um/sd/zfm"]
+	path = um/sd/zfm
+	url = .
 [submodule "um/sq/ugw"]
 	path = um/sq/ugw
 	url = .
