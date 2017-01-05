@@ -6976,6 +6976,9 @@
 [submodule "cl/nw/aaj"]
 	path = cl/nw/aaj
 	url = .
+[submodule "cl/om/zfk"]
+	path = cl/om/zfk
+	url = .
 [submodule "cl/pc/ilx"]
 	path = cl/pc/ilx
 	url = .
