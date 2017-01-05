@@ -11761,6 +11761,9 @@
 [submodule "gm/pn/qce"]
 	path = gm/pn/qce
 	url = .
+[submodule "gm/pt/yry"]
+	path = gm/pt/yry
+	url = .
 [submodule "gm/rd/btq"]
 	path = gm/rd/btq
 	url = .
