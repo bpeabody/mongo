@@ -1903,6 +1903,9 @@
 [submodule "bf/gf/vfh"]
 	path = bf/gf/vfh
 	url = .
+[submodule "bf/gu/nbg"]
+	path = bf/gu/nbg
+	url = .
 [submodule "bf/iu/end"]
 	path = bf/iu/end
 	url = .
