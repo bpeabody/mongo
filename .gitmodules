@@ -9946,6 +9946,9 @@
 [submodule "gj/nw/qvk"]
 	path = gj/nw/qvk
 	url = .
+[submodule "gj/qc/exb"]
+	path = gj/qc/exb
+	url = .
 [submodule "gj/ru/ggr"]
 	path = gj/ru/ggr
 	url = .
