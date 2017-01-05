@@ -19825,6 +19825,9 @@
 [submodule "mj/by/fml"]
 	path = mj/by/fml
 	url = .
+[submodule "mj/dd/qnf"]
+	path = mj/dd/qnf
+	url = .
 [submodule "mj/fk/bce"]
 	path = mj/fk/bce
 	url = .
