@@ -50590,6 +50590,9 @@
 [submodule "ui/rn/peq"]
 	path = ui/rn/peq
 	url = .
+[submodule "ui/sb/ysn"]
+	path = ui/sb/ysn
+	url = .
 [submodule "ui/sk/puc"]
 	path = ui/sk/puc
 	url = .
