@@ -14629,6 +14629,9 @@
 [submodule "vs/ca/ksb"]
 	path = vs/ca/ksb
 	url = .
+[submodule "vs/cr/mcf"]
+	path = vs/cr/mcf
+	url = .
 [submodule "vs/eo/bxq"]
 	path = vs/eo/bxq
 	url = .
