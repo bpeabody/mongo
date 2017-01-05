@@ -8980,6 +8980,9 @@
 [submodule "hx/hq/ubv"]
 	path = hx/hq/ubv
 	url = .
+[submodule "hx/kc/spr"]
+	path = hx/kc/spr
+	url = .
 [submodule "hx/ki/nye"]
 	path = hx/ki/nye
 	url = .
