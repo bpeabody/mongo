@@ -9769,6 +9769,9 @@
 [submodule "dl/fe/oom"]
 	path = dl/fe/oom
 	url = .
+[submodule "dl/gl/wot"]
+	path = dl/gl/wot
+	url = .
 [submodule "dl/gu/egi"]
 	path = dl/gu/egi
 	url = .
