@@ -19213,6 +19213,9 @@
 [submodule "mt/oc/frr"]
 	path = mt/oc/frr
 	url = .
+[submodule "mt/ou/suu"]
+	path = mt/ou/suu
+	url = .
 [submodule "mt/ow/ecc"]
 	path = mt/ow/ecc
 	url = .
