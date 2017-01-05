@@ -12325,6 +12325,9 @@
 [submodule "he/ck/spo"]
 	path = he/ck/spo
 	url = .
+[submodule "he/ft/gmp"]
+	path = he/ft/gmp
+	url = .
 [submodule "he/gv/vjv"]
 	path = he/gv/vjv
 	url = .
