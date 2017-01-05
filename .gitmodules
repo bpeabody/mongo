@@ -25228,6 +25228,9 @@
 [submodule "zx/jb/chk"]
 	path = zx/jb/chk
 	url = .
+[submodule "zx/jj/bdg"]
+	path = zx/jj/bdg
+	url = .
 [submodule "zx/kz/ido"]
 	path = zx/kz/ido
 	url = .
