@@ -13339,6 +13339,9 @@
 [submodule "mn/ad/ise"]
 	path = mn/ad/ise
 	url = .
+[submodule "mn/bd/nms"]
+	path = mn/bd/nms
+	url = .
 [submodule "mn/bf/iie"]
 	path = mn/bf/iie
 	url = .
