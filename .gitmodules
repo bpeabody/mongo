@@ -34333,6 +34333,9 @@
 [submodule "mc/tc/wlc"]
 	path = mc/tc/wlc
 	url = .
+[submodule "mc/td/upx"]
+	path = mc/td/upx
+	url = .
 [submodule "mc/tk/csr"]
 	path = mc/tk/csr
 	url = .
