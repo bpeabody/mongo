@@ -44560,6 +44560,9 @@
 [submodule "qe/nx/jrv"]
 	path = qe/nx/jrv
 	url = .
+[submodule "qe/pf/aso"]
+	path = qe/pf/aso
+	url = .
 [submodule "qe/sx/rhw"]
 	path = qe/sx/rhw
 	url = .
