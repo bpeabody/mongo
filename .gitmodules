@@ -3604,6 +3604,9 @@
 [submodule "bh/fe/nuo"]
 	path = bh/fe/nuo
 	url = .
+[submodule "bh/fq/gaw"]
+	path = bh/fq/gaw
+	url = .
 [submodule "bh/fx/fui"]
 	path = bh/fx/fui
 	url = .
