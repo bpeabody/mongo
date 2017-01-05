@@ -11902,6 +11902,9 @@
 [submodule "xm/ly/vps"]
 	path = xm/ly/vps
 	url = .
+[submodule "xm/qd/bwp"]
+	path = xm/qd/bwp
+	url = .
 [submodule "xm/rd/lmc"]
 	path = xm/rd/lmc
 	url = .
