@@ -31303,6 +31303,9 @@
 [submodule "ps/jx/afl"]
 	path = ps/jx/afl
 	url = .
+[submodule "ps/ke/yrp"]
+	path = ps/ke/yrp
+	url = .
 [submodule "ps/kt/lsw"]
 	path = ps/kt/lsw
 	url = .
