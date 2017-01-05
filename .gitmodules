@@ -43576,6 +43576,9 @@
 [submodule "qf/hc/osn"]
 	path = qf/hc/osn
 	url = .
+[submodule "qf/lf/hnt"]
+	path = qf/lf/hnt
+	url = .
 [submodule "qf/lt/mdl"]
 	path = qf/lt/mdl
 	url = .
