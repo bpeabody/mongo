@@ -56281,6 +56281,9 @@
 [submodule "tk/rt/asr"]
 	path = tk/rt/asr
 	url = .
+[submodule "tk/sg/awb"]
+	path = tk/sg/awb
+	url = .
 [submodule "tk/sn/ppn"]
 	path = tk/sn/ppn
 	url = .
