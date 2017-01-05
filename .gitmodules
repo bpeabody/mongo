@@ -37801,6 +37801,9 @@
 [submodule "pf/ma/jwr"]
 	path = pf/ma/jwr
 	url = .
+[submodule "pf/mw/szb"]
+	path = pf/mw/szb
+	url = .
 [submodule "pf/ob/psu"]
 	path = pf/ob/psu
 	url = .
