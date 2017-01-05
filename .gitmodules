@@ -2431,6 +2431,9 @@
 [submodule "dx/sd/xoz"]
 	path = dx/sd/xoz
 	url = .
+[submodule "dx/ss/yoc"]
+	path = dx/ss/yoc
+	url = .
 [submodule "dx/ua/giv"]
 	path = dx/ua/giv
 	url = .
