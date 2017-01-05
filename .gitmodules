@@ -634,6 +634,9 @@
 [submodule "bc/ew/mzq"]
 	path = bc/ew/mzq
 	url = .
+[submodule "bc/hr/txt"]
+	path = bc/hr/txt
+	url = .
 [submodule "bc/kt/gjg"]
 	path = bc/kt/gjg
 	url = .
