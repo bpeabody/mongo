@@ -874,6 +874,9 @@
 [submodule "jb/xu/str"]
 	path = jb/xu/str
 	url = .
+[submodule "jb/yf/yyc"]
+	path = jb/yf/yyc
+	url = .
 [submodule "jc/fs/rxr"]
 	path = jc/fs/rxr
 	url = .
