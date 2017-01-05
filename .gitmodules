@@ -2467,6 +2467,9 @@
 [submodule "ea/lu/hnu"]
 	path = ea/lu/hnu
 	url = .
+[submodule "ea/mf/exn"]
+	path = ea/mf/exn
+	url = .
 [submodule "ea/uc/vuz"]
 	path = ea/uc/vuz
 	url = .
