@@ -313,6 +313,9 @@
 [submodule "ac/vg/bbh"]
 	path = ac/vg/bbh
 	url = .
+[submodule "ac/vv/con"]
+	path = ac/vv/con
+	url = .
 [submodule "ac/vw/oxi"]
 	path = ac/vw/oxi
 	url = .
