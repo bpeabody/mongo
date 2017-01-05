@@ -5254,6 +5254,9 @@
 [submodule "kd/hs/jzp"]
 	path = kd/hs/jzp
 	url = .
+[submodule "kd/ip/nad"]
+	path = kd/ip/nad
+	url = .
 [submodule "kd/mq/wbd"]
 	path = kd/mq/wbd
 	url = .
