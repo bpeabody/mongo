@@ -20722,6 +20722,9 @@
 [submodule "ok/ce/akb"]
 	path = ok/ce/akb
 	url = .
+[submodule "ok/cj/gyg"]
+	path = ok/cj/gyg
+	url = .
 [submodule "ok/et/tsn"]
 	path = ok/et/tsn
 	url = .
