@@ -13129,6 +13129,9 @@
 [submodule "es/gi/slk"]
 	path = es/gi/slk
 	url = .
+[submodule "es/gm/sym"]
+	path = es/gm/sym
+	url = .
 [submodule "es/iq/vfj"]
 	path = es/iq/vfj
 	url = .
