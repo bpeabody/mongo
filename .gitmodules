@@ -20269,6 +20269,9 @@
 [submodule "wm/eq/ceg"]
 	path = wm/eq/ceg
 	url = .
+[submodule "wm/eu/ktn"]
+	path = wm/eu/ktn
+	url = .
 [submodule "wm/hm/cgy"]
 	path = wm/hm/cgy
 	url = .
