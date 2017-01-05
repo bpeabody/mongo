@@ -8215,6 +8215,9 @@
 [submodule "pf/uo/cpa"]
 	path = pf/uo/cpa
 	url = .
+[submodule "pf/vj/bqe"]
+	path = pf/vj/bqe
+	url = .
 [submodule "pg/ad/tjp"]
 	path = pg/ad/tjp
 	url = .
