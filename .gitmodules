@@ -3655,6 +3655,9 @@
 [submodule "dw/po/tuv"]
 	path = dw/po/tuv
 	url = .
+[submodule "dw/pv/zhq"]
+	path = dw/pv/zhq
+	url = .
 [submodule "dw/pz/kbu"]
 	path = dw/pz/kbu
 	url = .
