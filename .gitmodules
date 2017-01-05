@@ -2773,6 +2773,9 @@
 [submodule "qk/mu/gcj"]
 	path = qk/mu/gcj
 	url = .
+[submodule "qk/vd/red"]
+	path = qk/vd/red
+	url = .
 [submodule "qk/zu/olm"]
 	path = qk/zu/olm
 	url = .
