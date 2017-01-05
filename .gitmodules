@@ -16156,6 +16156,9 @@
 [submodule "lg/oi/wmb"]
 	path = lg/oi/wmb
 	url = .
+[submodule "lg/tn/kkc"]
+	path = lg/tn/kkc
+	url = .
 [submodule "lg/un/szw"]
 	path = lg/un/szw
 	url = .
