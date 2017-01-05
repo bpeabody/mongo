@@ -9640,6 +9640,9 @@
 [submodule "jd/un/htu"]
 	path = jd/un/htu
 	url = .
+[submodule "jd/uo/gze"]
+	path = jd/uo/gze
+	url = .
 [submodule "jd/ym/dav"]
 	path = jd/ym/dav
 	url = .
