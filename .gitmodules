@@ -8587,6 +8587,9 @@
 [submodule "uu/dt/hkz"]
 	path = uu/dt/hkz
 	url = .
+[submodule "uu/jl/jsc"]
+	path = uu/jl/jsc
+	url = .
 [submodule "uu/vx/fia"]
 	path = uu/vx/fia
 	url = .
