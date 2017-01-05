@@ -17209,6 +17209,9 @@
 [submodule "mi/lv/kel"]
 	path = mi/lv/kel
 	url = .
+[submodule "mi/qj/wqj"]
+	path = mi/qj/wqj
+	url = .
 [submodule "mi/ro/tgl"]
 	path = mi/ro/tgl
 	url = .
