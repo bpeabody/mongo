@@ -427,6 +427,9 @@
 [submodule "hh/pm/ezo"]
 	path = hh/pm/ezo
 	url = .
+[submodule "hh/wg/dpz"]
+	path = hh/wg/dpz
+	url = .
 [submodule "hj/bo/xyv"]
 	path = hj/bo/xyv
 	url = .
