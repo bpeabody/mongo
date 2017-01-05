@@ -8917,6 +8917,9 @@
 [submodule "er/av/ipe"]
 	path = er/av/ipe
 	url = .
+[submodule "er/az/kcn"]
+	path = er/az/kcn
+	url = .
 [submodule "er/bt/erq"]
 	path = er/bt/erq
 	url = .
