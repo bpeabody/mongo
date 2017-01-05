@@ -1009,6 +1009,9 @@
 [submodule "an/rh/ttn"]
 	path = an/rh/ttn
 	url = .
+[submodule "an/sn/gsm"]
+	path = an/sn/gsm
+	url = .
 [submodule "an/tc/pvv"]
 	path = an/tc/pvv
 	url = .
