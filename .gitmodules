@@ -5638,6 +5638,9 @@
 [submodule "lc/gy/nau"]
 	path = lc/gy/nau
 	url = .
+[submodule "lc/jb/zmo"]
+	path = lc/jb/zmo
+	url = .
 [submodule "lc/nk/wre"]
 	path = lc/nk/wre
 	url = .
