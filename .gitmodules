@@ -508,6 +508,9 @@
 [submodule "ax/ww/aku"]
 	path = ax/ww/aku
 	url = .
+[submodule "ax/xa/cvo"]
+	path = ax/xa/cvo
+	url = .
 [submodule "ay/aa/wcy"]
 	path = ay/aa/wcy
 	url = .
