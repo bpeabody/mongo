@@ -9619,6 +9619,9 @@
 [submodule "ia/rc/nbl"]
 	path = ia/rc/nbl
 	url = .
+[submodule "ia/sb/psz"]
+	path = ia/sb/psz
+	url = .
 [submodule "ib/cc/xzi"]
 	path = ib/cc/xzi
 	url = .
