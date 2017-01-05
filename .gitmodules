@@ -1,3 +1,6 @@
+[submodule "aa/sb/bhw"]
+	path = aa/sb/bhw
+	url = .
 [submodule "aa/ts/aja"]
 	path = aa/ts/aja
 	url = .
