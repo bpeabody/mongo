@@ -265,6 +265,9 @@
 [submodule "li/xi/iiz"]
 	path = li/xi/iiz
 	url = .
+[submodule "lj/zs/dqe"]
+	path = lj/zs/dqe
+	url = .
 [submodule "md/hr/guc"]
 	path = md/hr/guc
 	url = .
