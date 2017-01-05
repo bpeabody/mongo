@@ -39820,6 +39820,9 @@
 [submodule "tg/az/lyy"]
 	path = tg/az/lyy
 	url = .
+[submodule "tg/ba/nxu"]
+	path = tg/ba/nxu
+	url = .
 [submodule "tg/ci/uih"]
 	path = tg/ci/uih
 	url = .
