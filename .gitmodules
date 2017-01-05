@@ -32371,6 +32371,9 @@
 [submodule "nc/gu/dzz"]
 	path = nc/gu/dzz
 	url = .
+[submodule "nc/ht/qiz"]
+	path = nc/ht/qiz
+	url = .
 [submodule "nc/ig/vvz"]
 	path = nc/ig/vvz
 	url = .
