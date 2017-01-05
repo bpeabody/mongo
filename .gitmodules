@@ -4492,6 +4492,9 @@
 [submodule "cc/cs/kxx"]
 	path = cc/cs/kxx
 	url = .
+[submodule "cc/ds/svd"]
+	path = cc/ds/svd
+	url = .
 [submodule "cc/eg/msd"]
 	path = cc/eg/msd
 	url = .
