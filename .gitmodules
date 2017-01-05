@@ -37,6 +37,9 @@
 [submodule "ao/ob/dur"]
 	path = ao/ob/dur
 	url = .
+[submodule "ap/vr/hmp"]
+	path = ap/vr/hmp
+	url = .
 [submodule "au/cv/tai"]
 	path = au/cv/tai
 	url = .
