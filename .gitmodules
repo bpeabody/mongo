@@ -10981,6 +10981,9 @@
 [submodule "ki/nz/xoh"]
 	path = ki/nz/xoh
 	url = .
+[submodule "ki/op/ook"]
+	path = ki/op/ook
+	url = .
 [submodule "ki/pt/dif"]
 	path = ki/pt/dif
 	url = .
