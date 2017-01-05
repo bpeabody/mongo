@@ -13102,6 +13102,9 @@
 [submodule "rs/mq/vpw"]
 	path = rs/mq/vpw
 	url = .
+[submodule "rs/po/jpi"]
+	path = rs/po/jpi
+	url = .
 [submodule "rt/al/dnm"]
 	path = rt/al/dnm
 	url = .
