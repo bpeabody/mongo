@@ -8032,6 +8032,9 @@
 [submodule "dw/lw/wcr"]
 	path = dw/lw/wcr
 	url = .
+[submodule "dw/ok/grm"]
+	path = dw/ok/grm
+	url = .
 [submodule "dw/po/tuv"]
 	path = dw/po/tuv
 	url = .
