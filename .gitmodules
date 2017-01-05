@@ -17995,6 +17995,9 @@
 [submodule "pi/ub/emp"]
 	path = pi/ub/emp
 	url = .
+[submodule "pi/ug/vgk"]
+	path = pi/ug/vgk
+	url = .
 [submodule "pi/uu/juu"]
 	path = pi/uu/juu
 	url = .
