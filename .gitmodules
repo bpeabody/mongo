@@ -29143,6 +29143,9 @@
 [submodule "lm/bn/iku"]
 	path = lm/bn/iku
 	url = .
+[submodule "lm/bs/veh"]
+	path = lm/bs/veh
+	url = .
 [submodule "lm/cd/ahb"]
 	path = lm/cd/ahb
 	url = .
