@@ -17056,6 +17056,9 @@
 [submodule "lx/sp/vkz"]
 	path = lx/sp/vkz
 	url = .
+[submodule "lx/uz/lor"]
+	path = lx/uz/lor
+	url = .
 [submodule "lx/vs/ltg"]
 	path = lx/vs/ltg
 	url = .
