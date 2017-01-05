@@ -46102,6 +46102,9 @@
 [submodule "sk/bz/zwy"]
 	path = sk/bz/zwy
 	url = .
+[submodule "sk/db/fnh"]
+	path = sk/db/fnh
+	url = .
 [submodule "sk/dg/ozg"]
 	path = sk/dg/ozg
 	url = .
