@@ -18832,6 +18832,9 @@
 [submodule "nn/ec/zcg"]
 	path = nn/ec/zcg
 	url = .
+[submodule "nn/eg/iih"]
+	path = nn/eg/iih
+	url = .
 [submodule "nn/ga/fnj"]
 	path = nn/ga/fnj
 	url = .
