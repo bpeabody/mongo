@@ -4789,6 +4789,9 @@
 [submodule "ff/es/txz"]
 	path = ff/es/txz
 	url = .
+[submodule "ff/io/uvq"]
+	path = ff/io/uvq
+	url = .
 [submodule "ff/iu/qrs"]
 	path = ff/iu/qrs
 	url = .
