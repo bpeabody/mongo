@@ -5677,6 +5677,9 @@
 [submodule "fo/uv/gtl"]
 	path = fo/uv/gtl
 	url = .
+[submodule "fo/ws/rkm"]
+	path = fo/ws/rkm
+	url = .
 [submodule "fp/cn/kya"]
 	path = fp/cn/kya
 	url = .
