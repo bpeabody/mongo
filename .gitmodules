@@ -6124,6 +6124,9 @@
 [submodule "cv/wm/act"]
 	path = cv/wm/act
 	url = .
+[submodule "cv/xb/sch"]
+	path = cv/xb/sch
+	url = .
 [submodule "cv/xq/olr"]
 	path = cv/xq/olr
 	url = .
