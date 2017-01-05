@@ -6916,6 +6916,9 @@
 [submodule "ww/ns/gqu"]
 	path = ww/ns/gqu
 	url = .
+[submodule "ww/op/vxa"]
+	path = ww/op/vxa
+	url = .
 [submodule "ww/ws/wsi"]
 	path = ww/ws/wsi
 	url = .
