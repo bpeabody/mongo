@@ -28447,6 +28447,9 @@
 [submodule "oq/rr/apr"]
 	path = oq/rr/apr
 	url = .
+[submodule "oq/tg/qcp"]
+	path = oq/tg/qcp
+	url = .
 [submodule "oq/tl/opz"]
 	path = oq/tl/opz
 	url = .
