@@ -29938,6 +29938,9 @@
 [submodule "qk/pr/bhz"]
 	path = qk/pr/bhz
 	url = .
+[submodule "qk/qf/rns"]
+	path = qk/qf/rns
+	url = .
 [submodule "qk/qn/lbb"]
 	path = qk/qn/lbb
 	url = .
