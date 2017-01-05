@@ -11053,6 +11053,9 @@
 [submodule "oq/rr/apr"]
 	path = oq/rr/apr
 	url = .
+[submodule "oq/yk/dii"]
+	path = oq/yk/dii
+	url = .
 [submodule "or/dr/pyg"]
 	path = or/dr/pyg
 	url = .
