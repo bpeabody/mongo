@@ -8083,6 +8083,9 @@
 [submodule "cx/dg/qgm"]
 	path = cx/dg/qgm
 	url = .
+[submodule "cx/dp/mpv"]
+	path = cx/dp/mpv
+	url = .
 [submodule "cx/dq/bpm"]
 	path = cx/dq/bpm
 	url = .
