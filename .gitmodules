@@ -44731,6 +44731,9 @@
 [submodule "tm/rk/bwi"]
 	path = tm/rk/bwi
 	url = .
+[submodule "tm/rx/yyb"]
+	path = tm/rx/yyb
+	url = .
 [submodule "tm/sg/uln"]
 	path = tm/sg/uln
 	url = .
