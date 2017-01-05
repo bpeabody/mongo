@@ -52255,6 +52255,9 @@
 [submodule "tg/db/bsx"]
 	path = tg/db/bsx
 	url = .
+[submodule "tg/ey/ize"]
+	path = tg/ey/ize
+	url = .
 [submodule "tg/ff/bjp"]
 	path = tg/ff/bjp
 	url = .
