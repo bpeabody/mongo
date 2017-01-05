@@ -15103,6 +15103,9 @@
 [submodule "np/sg/tzx"]
 	path = np/sg/tzx
 	url = .
+[submodule "np/su/qfe"]
+	path = np/su/qfe
+	url = .
 [submodule "np/uw/tkw"]
 	path = np/uw/tkw
 	url = .
