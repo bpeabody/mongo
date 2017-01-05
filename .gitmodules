@@ -5710,6 +5710,9 @@
 [submodule "pd/iu/bkm"]
 	path = pd/iu/bkm
 	url = .
+[submodule "pd/oq/wcx"]
+	path = pd/oq/wcx
+	url = .
 [submodule "pd/yi/sde"]
 	path = pd/yi/sde
 	url = .
