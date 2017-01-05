@@ -3220,6 +3220,9 @@
 [submodule "sn/hd/oga"]
 	path = sn/hd/oga
 	url = .
+[submodule "sn/hl/nel"]
+	path = sn/hl/nel
+	url = .
 [submodule "sn/jf/heq"]
 	path = sn/jf/heq
 	url = .
