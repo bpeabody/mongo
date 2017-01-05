@@ -45745,6 +45745,9 @@
 [submodule "sv/gf/rpd"]
 	path = sv/gf/rpd
 	url = .
+[submodule "sv/gn/laf"]
+	path = sv/gn/laf
+	url = .
 [submodule "sv/go/mvu"]
 	path = sv/go/mvu
 	url = .
