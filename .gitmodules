@@ -9817,6 +9817,9 @@
 [submodule "eb/qt/ayl"]
 	path = eb/qt/ayl
 	url = .
+[submodule "eb/ri/fls"]
+	path = eb/ri/fls
+	url = .
 [submodule "eb/sv/iso"]
 	path = eb/sv/iso
 	url = .
