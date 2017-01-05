@@ -33805,6 +33805,9 @@
 [submodule "qm/rx/sur"]
 	path = qm/rx/sur
 	url = .
+[submodule "qm/sx/jfk"]
+	path = qm/sx/jfk
+	url = .
 [submodule "qm/uc/cvk"]
 	path = qm/uc/cvk
 	url = .
