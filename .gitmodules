@@ -28993,6 +28993,9 @@
 [submodule "nr/xu/huj"]
 	path = nr/xu/huj
 	url = .
+[submodule "nr/xw/gpy"]
+	path = nr/xw/gpy
+	url = .
 [submodule "nr/ye/nlu"]
 	path = nr/ye/nlu
 	url = .
