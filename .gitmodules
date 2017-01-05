@@ -19906,6 +19906,9 @@
 [submodule "wv/in/gjp"]
 	path = wv/in/gjp
 	url = .
+[submodule "wv/ki/rfq"]
+	path = wv/ki/rfq
+	url = .
 [submodule "wv/mc/wlc"]
 	path = wv/mc/wlc
 	url = .
