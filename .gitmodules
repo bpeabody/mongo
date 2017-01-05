@@ -5542,6 +5542,9 @@
 [submodule "cf/hi/oga"]
 	path = cf/hi/oga
 	url = .
+[submodule "cf/hu/jdm"]
+	path = cf/hu/jdm
+	url = .
 [submodule "cf/im/pfs"]
 	path = cf/im/pfs
 	url = .
