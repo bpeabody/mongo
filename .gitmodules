@@ -7240,6 +7240,9 @@
 [submodule "cm/iw/qqi"]
 	path = cm/iw/qqi
 	url = .
+[submodule "cm/ix/nip"]
+	path = cm/ix/nip
+	url = .
 [submodule "cm/jr/ttz"]
 	path = cm/jr/ttz
 	url = .
