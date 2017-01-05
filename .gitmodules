@@ -1486,6 +1486,9 @@
 [submodule "ce/ou/wiu"]
 	path = ce/ou/wiu
 	url = .
+[submodule "ce/pp/lux"]
+	path = ce/pp/lux
+	url = .
 [submodule "ce/qw/ufg"]
 	path = ce/qw/ufg
 	url = .
