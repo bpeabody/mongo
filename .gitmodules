@@ -40114,6 +40114,9 @@
 [submodule "pk/ex/oze"]
 	path = pk/ex/oze
 	url = .
+[submodule "pk/gm/yjo"]
+	path = pk/gm/yjo
+	url = .
 [submodule "pk/hh/jqb"]
 	path = pk/hh/jqb
 	url = .
