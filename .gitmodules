@@ -6979,6 +6979,9 @@
 [submodule "dr/ra/ilv"]
 	path = dr/ra/ilv
 	url = .
+[submodule "dr/rt/gos"]
+	path = dr/rt/gos
+	url = .
 [submodule "dr/sv/qba"]
 	path = dr/sv/qba
 	url = .
