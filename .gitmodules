@@ -3070,6 +3070,9 @@
 [submodule "ed/vv/ych"]
 	path = ed/vv/ych
 	url = .
+[submodule "ee/jp/yaf"]
+	path = ee/jp/yaf
+	url = .
 [submodule "ee/ju/vhv"]
 	path = ee/ju/vhv
 	url = .
