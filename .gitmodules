@@ -1390,6 +1390,9 @@
 [submodule "az/eq/xkj"]
 	path = az/eq/xkj
 	url = .
+[submodule "az/ez/lwh"]
+	path = az/ez/lwh
+	url = .
 [submodule "az/fi/brn"]
 	path = az/fi/brn
 	url = .
