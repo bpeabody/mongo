@@ -36046,6 +36046,9 @@
 [submodule "mr/lm/ulp"]
 	path = mr/lm/ulp
 	url = .
+[submodule "mr/mz/igq"]
+	path = mr/mz/igq
+	url = .
 [submodule "mr/nd/eoj"]
 	path = mr/nd/eoj
 	url = .
