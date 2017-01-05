@@ -8713,6 +8713,9 @@
 [submodule "ut/eq/bbt"]
 	path = ut/eq/bbt
 	url = .
+[submodule "ut/gg/jqv"]
+	path = ut/gg/jqv
+	url = .
 [submodule "ut/il/bjn"]
 	path = ut/il/bjn
 	url = .
