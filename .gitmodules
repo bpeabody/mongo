@@ -34540,6 +34540,9 @@
 [submodule "qd/bs/ccr"]
 	path = qd/bs/ccr
 	url = .
+[submodule "qd/bt/crw"]
+	path = qd/bt/crw
+	url = .
 [submodule "qd/cf/qif"]
 	path = qd/cf/qif
 	url = .
