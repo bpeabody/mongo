@@ -49777,6 +49777,9 @@
 [submodule "qw/xq/xfw"]
 	path = qw/xq/xfw
 	url = .
+[submodule "qx/ak/bjt"]
+	path = qx/ak/bjt
+	url = .
 [submodule "qx/an/wce"]
 	path = qx/an/wce
 	url = .
