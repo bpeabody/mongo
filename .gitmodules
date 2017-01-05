@@ -24319,6 +24319,9 @@
 [submodule "jg/zv/yxx"]
 	path = jg/zv/yxx
 	url = .
+[submodule "jh/ci/cni"]
+	path = jh/ci/cni
+	url = .
 [submodule "jh/ci/pto"]
 	path = jh/ci/pto
 	url = .
