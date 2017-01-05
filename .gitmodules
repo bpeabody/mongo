@@ -379,6 +379,9 @@
 [submodule "yc/lq/nep"]
 	path = yc/lq/nep
 	url = .
+[submodule "yd/da/qsb"]
+	path = yd/da/qsb
+	url = .
 [submodule "yp/vq/iys"]
 	path = yp/vq/iys
 	url = .
