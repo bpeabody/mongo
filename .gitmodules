@@ -13060,6 +13060,9 @@
 [submodule "th/pw/phd"]
 	path = th/pw/phd
 	url = .
+[submodule "th/qw/xnl"]
+	path = th/qw/xnl
+	url = .
 [submodule "th/ui/lxs"]
 	path = th/ui/lxs
 	url = .
