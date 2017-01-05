@@ -15100,6 +15100,9 @@
 [submodule "ud/oc/lzu"]
 	path = ud/oc/lzu
 	url = .
+[submodule "ud/qh/nin"]
+	path = ud/qh/nin
+	url = .
 [submodule "ud/rn/pvx"]
 	path = ud/rn/pvx
 	url = .
