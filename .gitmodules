@@ -8575,6 +8575,9 @@
 [submodule "fu/dd/gtm"]
 	path = fu/dd/gtm
 	url = .
+[submodule "fu/dh/yvb"]
+	path = fu/dh/yvb
+	url = .
 [submodule "fu/dm/nlg"]
 	path = fu/dm/nlg
 	url = .
