@@ -30127,6 +30127,9 @@
 [submodule "kr/xq/zgc"]
 	path = kr/xq/zgc
 	url = .
+[submodule "kr/yd/xri"]
+	path = kr/yd/xri
+	url = .
 [submodule "kr/yg/dtw"]
 	path = kr/yg/dtw
 	url = .
