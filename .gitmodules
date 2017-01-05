@@ -59296,6 +59296,9 @@
 [submodule "uu/pi/nxi"]
 	path = uu/pi/nxi
 	url = .
+[submodule "uu/ql/ddj"]
+	path = uu/ql/ddj
+	url = .
 [submodule "uu/sd/tcz"]
 	path = uu/sd/tcz
 	url = .
