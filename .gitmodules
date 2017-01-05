@@ -14950,6 +14950,9 @@
 [submodule "wi/iw/wbd"]
 	path = wi/iw/wbd
 	url = .
+[submodule "wi/kp/rxi"]
+	path = wi/kp/rxi
+	url = .
 [submodule "wi/lb/rmf"]
 	path = wi/lb/rmf
 	url = .
