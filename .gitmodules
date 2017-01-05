@@ -427,6 +427,9 @@
 [submodule "au/zg/cdi"]
 	path = au/zg/cdi
 	url = .
+[submodule "av/ai/vvo"]
+	path = av/ai/vvo
+	url = .
 [submodule "av/my/iji"]
 	path = av/my/iji
 	url = .
