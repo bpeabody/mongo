@@ -35611,6 +35611,9 @@
 [submodule "nx/zr/ler"]
 	path = nx/zr/ler
 	url = .
+[submodule "nx/zs/htc"]
+	path = nx/zs/htc
+	url = .
 [submodule "ny/aq/uyn"]
 	path = ny/aq/uyn
 	url = .
