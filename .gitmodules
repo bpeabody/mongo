@@ -5563,6 +5563,9 @@
 [submodule "fc/hz/szw"]
 	path = fc/hz/szw
 	url = .
+[submodule "fc/ky/fcd"]
+	path = fc/ky/fcd
+	url = .
 [submodule "fc/lh/njm"]
 	path = fc/lh/njm
 	url = .
