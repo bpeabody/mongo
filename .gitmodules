@@ -9697,6 +9697,9 @@
 [submodule "qu/or/bne"]
 	path = qu/or/bne
 	url = .
+[submodule "qu/ps/qey"]
+	path = qu/ps/qey
+	url = .
 [submodule "qu/rw/pwr"]
 	path = qu/rw/pwr
 	url = .
