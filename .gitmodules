@@ -49558,6 +49558,9 @@
 [submodule "ts/sy/vbe"]
 	path = ts/sy/vbe
 	url = .
+[submodule "ts/sz/anf"]
+	path = ts/sz/anf
+	url = .
 [submodule "ts/uh/nvn"]
 	path = ts/uh/nvn
 	url = .
