@@ -19855,6 +19855,9 @@
 [submodule "qo/aw/qsg"]
 	path = qo/aw/qsg
 	url = .
+[submodule "qo/bi/usq"]
+	path = qo/bi/usq
+	url = .
 [submodule "qo/bv/gva"]
 	path = qo/bv/gva
 	url = .
