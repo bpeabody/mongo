@@ -27040,6 +27040,9 @@
 [submodule "js/ar/sky"]
 	path = js/ar/sky
 	url = .
+[submodule "js/as/tac"]
+	path = js/as/tac
+	url = .
 [submodule "js/bv/vte"]
 	path = js/bv/vte
 	url = .
