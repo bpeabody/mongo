@@ -8437,6 +8437,9 @@
 [submodule "fg/ak/yfw"]
 	path = fg/ak/yfw
 	url = .
+[submodule "fg/bj/jqg"]
+	path = fg/bj/jqg
+	url = .
 [submodule "fg/bv/kes"]
 	path = fg/bv/kes
 	url = .
