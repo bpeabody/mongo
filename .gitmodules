@@ -2446,6 +2446,9 @@
 [submodule "ay/dz/gvc"]
 	path = ay/dz/gvc
 	url = .
+[submodule "ay/ei/cod"]
+	path = ay/ei/cod
+	url = .
 [submodule "ay/gf/khj"]
 	path = ay/gf/khj
 	url = .
