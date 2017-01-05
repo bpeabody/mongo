@@ -10585,6 +10585,9 @@
 [submodule "ph/pa/lph"]
 	path = ph/pa/lph
 	url = .
+[submodule "ph/pu/smp"]
+	path = ph/pu/smp
+	url = .
 [submodule "ph/qg/zun"]
 	path = ph/qg/zun
 	url = .
