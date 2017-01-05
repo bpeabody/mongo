@@ -30625,6 +30625,9 @@
 [submodule "pu/vb/yyv"]
 	path = pu/vb/yyv
 	url = .
+[submodule "pu/vd/fjt"]
+	path = pu/vd/fjt
+	url = .
 [submodule "pu/vr/xft"]
 	path = pu/vr/xft
 	url = .
