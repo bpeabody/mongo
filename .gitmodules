@@ -19195,6 +19195,9 @@
 [submodule "mp/lv/mhr"]
 	path = mp/lv/mhr
 	url = .
+[submodule "mp/mp/wqf"]
+	path = mp/mp/wqf
+	url = .
 [submodule "mp/ns/vpa"]
 	path = mp/ns/vpa
 	url = .
