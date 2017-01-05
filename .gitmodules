@@ -25969,6 +25969,9 @@
 [submodule "ms/ls/zrf"]
 	path = ms/ls/zrf
 	url = .
+[submodule "ms/mh/krb"]
+	path = ms/mh/krb
+	url = .
 [submodule "ms/ol/kre"]
 	path = ms/ol/kre
 	url = .
