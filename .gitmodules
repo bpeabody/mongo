@@ -31519,6 +31519,9 @@
 [submodule "tg/ur/pbq"]
 	path = tg/ur/pbq
 	url = .
+[submodule "tg/wh/zsb"]
+	path = tg/wh/zsb
+	url = .
 [submodule "tg/xw/czu"]
 	path = tg/xw/czu
 	url = .
