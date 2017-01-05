@@ -7108,6 +7108,9 @@
 [submodule "sk/bc/kia"]
 	path = sk/bc/kia
 	url = .
+[submodule "sk/iq/lku"]
+	path = sk/iq/lku
+	url = .
 [submodule "sk/uv/ada"]
 	path = sk/uv/ada
 	url = .
