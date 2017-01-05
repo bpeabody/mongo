@@ -11917,6 +11917,9 @@
 [submodule "sx/hy/odo"]
 	path = sx/hy/odo
 	url = .
+[submodule "sx/jd/hel"]
+	path = sx/jd/hel
+	url = .
 [submodule "sx/js/uem"]
 	path = sx/js/uem
 	url = .
