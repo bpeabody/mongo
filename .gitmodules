@@ -44866,6 +44866,9 @@
 [submodule "ul/jk/npb"]
 	path = ul/jk/npb
 	url = .
+[submodule "ul/jk/vvk"]
+	path = ul/jk/vvk
+	url = .
 [submodule "ul/kc/rxe"]
 	path = ul/kc/rxe
 	url = .
