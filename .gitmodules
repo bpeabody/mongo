@@ -21115,6 +21115,9 @@
 [submodule "pp/cc/fuq"]
 	path = pp/cc/fuq
 	url = .
+[submodule "pp/dy/hiu"]
+	path = pp/dy/hiu
+	url = .
 [submodule "pp/es/pat"]
 	path = pp/es/pat
 	url = .
