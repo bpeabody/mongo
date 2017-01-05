@@ -517,6 +517,9 @@
 [submodule "ph/zl/nzr"]
 	path = ph/zl/nzr
 	url = .
+[submodule "pj/fh/gsh"]
+	path = pj/fh/gsh
+	url = .
 [submodule "pj/mu/hez"]
 	path = pj/mu/hez
 	url = .
