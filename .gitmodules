@@ -34645,6 +34645,9 @@
 [submodule "ox/ed/fxq"]
 	path = ox/ed/fxq
 	url = .
+[submodule "ox/es/kfc"]
+	path = ox/es/kfc
+	url = .
 [submodule "ox/ez/noy"]
 	path = ox/ez/noy
 	url = .
