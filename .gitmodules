@@ -15136,6 +15136,9 @@
 [submodule "kv/lj/jrx"]
 	path = kv/lj/jrx
 	url = .
+[submodule "kv/md/kfd"]
+	path = kv/md/kfd
+	url = .
 [submodule "kv/ml/odk"]
 	path = kv/ml/odk
 	url = .
