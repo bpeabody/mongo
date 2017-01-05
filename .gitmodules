@@ -2008,6 +2008,9 @@
 [submodule "dn/rx/kgq"]
 	path = dn/rx/kgq
 	url = .
+[submodule "dn/sw/tgs"]
+	path = dn/sw/tgs
+	url = .
 [submodule "dn/uz/upp"]
 	path = dn/uz/upp
 	url = .
