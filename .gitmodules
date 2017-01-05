@@ -36517,6 +36517,9 @@
 [submodule "vd/jv/qdn"]
 	path = vd/jv/qdn
 	url = .
+[submodule "vd/kz/bzw"]
+	path = vd/kz/bzw
+	url = .
 [submodule "vd/mj/fnm"]
 	path = vd/mj/fnm
 	url = .
