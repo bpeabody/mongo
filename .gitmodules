@@ -13813,6 +13813,9 @@
 [submodule "ld/rc/eqv"]
 	path = ld/rc/eqv
 	url = .
+[submodule "ld/rq/cbp"]
+	path = ld/rq/cbp
+	url = .
 [submodule "ld/sb/myr"]
 	path = ld/sb/myr
 	url = .
