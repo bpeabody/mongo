@@ -7936,6 +7936,9 @@
 [submodule "cs/go/qgl"]
 	path = cs/go/qgl
 	url = .
+[submodule "cs/gx/luj"]
+	path = cs/gx/luj
+	url = .
 [submodule "cs/hg/nlu"]
 	path = cs/hg/nlu
 	url = .
