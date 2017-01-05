@@ -15127,6 +15127,9 @@
 [submodule "kc/qn/sbz"]
 	path = kc/qn/sbz
 	url = .
+[submodule "kc/qo/vub"]
+	path = kc/qo/vub
+	url = .
 [submodule "kc/qp/vuz"]
 	path = kc/qp/vuz
 	url = .
