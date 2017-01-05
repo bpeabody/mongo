@@ -13222,6 +13222,9 @@
 [submodule "ev/yv/lki"]
 	path = ev/yv/lki
 	url = .
+[submodule "ev/yw/lgg"]
+	path = ev/yw/lgg
+	url = .
 [submodule "ev/zu/cid"]
 	path = ev/zu/cid
 	url = .
