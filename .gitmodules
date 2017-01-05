@@ -22012,6 +22012,9 @@
 [submodule "pr/gq/bqg"]
 	path = pr/gq/bqg
 	url = .
+[submodule "pr/id/njm"]
+	path = pr/id/njm
+	url = .
 [submodule "pr/ij/ktk"]
 	path = pr/ij/ktk
 	url = .
