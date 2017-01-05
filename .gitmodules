@@ -33169,6 +33169,9 @@
 [submodule "ll/xp/ndu"]
 	path = ll/xp/ndu
 	url = .
+[submodule "ll/xs/qnx"]
+	path = ll/xs/qnx
+	url = .
 [submodule "ll/zk/yol"]
 	path = ll/zk/yol
 	url = .
