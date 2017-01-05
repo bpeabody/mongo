@@ -1759,6 +1759,9 @@
 [submodule "aq/bx/ywu"]
 	path = aq/bx/ywu
 	url = .
+[submodule "aq/db/qhy"]
+	path = aq/db/qhy
+	url = .
 [submodule "aq/dc/mfc"]
 	path = aq/dc/mfc
 	url = .
