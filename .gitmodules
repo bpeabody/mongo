@@ -5287,6 +5287,9 @@
 [submodule "jg/li/vrd"]
 	path = jg/li/vrd
 	url = .
+[submodule "jg/ts/xst"]
+	path = jg/ts/xst
+	url = .
 [submodule "jg/uy/mjn"]
 	path = jg/uy/mjn
 	url = .
