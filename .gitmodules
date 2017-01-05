@@ -23251,6 +23251,9 @@
 [submodule "rt/en/jjm"]
 	path = rt/en/jjm
 	url = .
+[submodule "rt/eo/bmh"]
+	path = rt/eo/bmh
+	url = .
 [submodule "rt/go/qeo"]
 	path = rt/go/qeo
 	url = .
