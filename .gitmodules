@@ -19882,6 +19882,9 @@
 [submodule "wn/kz/syi"]
 	path = wn/kz/syi
 	url = .
+[submodule "wn/lw/mez"]
+	path = wn/lw/mez
+	url = .
 [submodule "wn/md/mim"]
 	path = wn/md/mim
 	url = .
