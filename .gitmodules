@@ -9649,6 +9649,9 @@
 [submodule "gx/iw/qnr"]
 	path = gx/iw/qnr
 	url = .
+[submodule "gx/jt/koc"]
+	path = gx/jt/koc
+	url = .
 [submodule "gx/kc/ybg"]
 	path = gx/kc/ybg
 	url = .
