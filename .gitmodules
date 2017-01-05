@@ -16393,6 +16393,9 @@
 [submodule "rc/vf/xgg"]
 	path = rc/vf/xgg
 	url = .
+[submodule "rc/xb/yyp"]
+	path = rc/xb/yyp
+	url = .
 [submodule "rc/xc/thu"]
 	path = rc/xc/thu
 	url = .
