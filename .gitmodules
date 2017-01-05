@@ -3355,6 +3355,9 @@
 [submodule "bn/wf/mqn"]
 	path = bn/wf/mqn
 	url = .
+[submodule "bn/wq/usy"]
+	path = bn/wq/usy
+	url = .
 [submodule "bn/wx/kbz"]
 	path = bn/wx/kbz
 	url = .
