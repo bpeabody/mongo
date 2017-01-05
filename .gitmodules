@@ -9160,6 +9160,9 @@
 [submodule "wr/mz/rfd"]
 	path = wr/mz/rfd
 	url = .
+[submodule "wr/ru/nra"]
+	path = wr/ru/nra
+	url = .
 [submodule "wr/rx/gad"]
 	path = wr/rx/gad
 	url = .
