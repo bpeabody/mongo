@@ -6028,6 +6028,9 @@
 [submodule "cn/vd/jul"]
 	path = cn/vd/jul
 	url = .
+[submodule "cn/wa/lba"]
+	path = cn/wa/lba
+	url = .
 [submodule "cn/wv/bxw"]
 	path = cn/wv/bxw
 	url = .
