@@ -56677,6 +56677,9 @@
 [submodule "yv/nd/xmb"]
 	path = yv/nd/xmb
 	url = .
+[submodule "yv/nt/sxp"]
+	path = yv/nt/sxp
+	url = .
 [submodule "yv/om/lih"]
 	path = yv/om/lih
 	url = .
