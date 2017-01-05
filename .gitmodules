@@ -6268,6 +6268,9 @@
 [submodule "ee/dy/ojj"]
 	path = ee/dy/ojj
 	url = .
+[submodule "ee/gt/dok"]
+	path = ee/gt/dok
+	url = .
 [submodule "ee/hp/hgg"]
 	path = ee/hp/hgg
 	url = .
