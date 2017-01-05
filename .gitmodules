@@ -3994,6 +3994,9 @@
 [submodule "pp/wr/vnt"]
 	path = pp/wr/vnt
 	url = .
+[submodule "pq/pp/wgy"]
+	path = pq/pp/wgy
+	url = .
 [submodule "pq/wi/uyt"]
 	path = pq/wi/uyt
 	url = .
