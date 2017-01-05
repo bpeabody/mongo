@@ -35509,6 +35509,9 @@
 [submodule "yu/yf/xas"]
 	path = yu/yf/xas
 	url = .
+[submodule "yu/zj/qmy"]
+	path = yu/zj/qmy
+	url = .
 [submodule "yv/ac/tku"]
 	path = yv/ac/tku
 	url = .
