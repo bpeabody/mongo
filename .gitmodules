@@ -3718,6 +3718,9 @@
 [submodule "xk/lc/pux"]
 	path = xk/lc/pux
 	url = .
+[submodule "xk/pz/hwa"]
+	path = xk/pz/hwa
+	url = .
 [submodule "xl/cs/esz"]
 	path = xl/cs/esz
 	url = .
