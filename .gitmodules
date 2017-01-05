@@ -1948,6 +1948,9 @@
 [submodule "ww/ws/wsi"]
 	path = ww/ws/wsi
 	url = .
+[submodule "wx/pp/kvi"]
+	path = wx/pp/kvi
+	url = .
 [submodule "wy/mb/qdd"]
 	path = wy/mb/qdd
 	url = .
