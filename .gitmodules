@@ -69166,6 +69166,9 @@
 [submodule "xu/fu/idx"]
 	path = xu/fu/idx
 	url = .
+[submodule "xu/hd/sql"]
+	path = xu/hd/sql
+	url = .
 [submodule "xu/hy/qyt"]
 	path = xu/hy/qyt
 	url = .
