@@ -57637,6 +57637,9 @@
 [submodule "ur/ui/ikf"]
 	path = ur/ui/ikf
 	url = .
+[submodule "ur/vt/ifj"]
+	path = ur/vt/ifj
+	url = .
 [submodule "ur/vv/jtr"]
 	path = ur/vv/jtr
 	url = .
