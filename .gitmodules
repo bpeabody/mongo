@@ -5932,6 +5932,9 @@
 [submodule "nh/xq/qnt"]
 	path = nh/xq/qnt
 	url = .
+[submodule "ni/dk/ysa"]
+	path = ni/dk/ysa
+	url = .
 [submodule "ni/nw/ajn"]
 	path = ni/nw/ajn
 	url = .
