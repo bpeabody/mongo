@@ -2626,6 +2626,9 @@
 [submodule "bm/fb/kau"]
 	path = bm/fb/kau
 	url = .
+[submodule "bm/fn/pdw"]
+	path = bm/fn/pdw
+	url = .
 [submodule "bm/fp/vmk"]
 	path = bm/fp/vmk
 	url = .
