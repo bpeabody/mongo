@@ -9520,6 +9520,9 @@
 [submodule "hw/rj/jbt"]
 	path = hw/rj/jbt
 	url = .
+[submodule "hw/tc/rks"]
+	path = hw/tc/rks
+	url = .
 [submodule "hw/tk/tqt"]
 	path = hw/tk/tqt
 	url = .
