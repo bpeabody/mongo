@@ -12715,6 +12715,9 @@
 [submodule "gk/pz/obj"]
 	path = gk/pz/obj
 	url = .
+[submodule "gk/rx/hwn"]
+	path = gk/rx/hwn
+	url = .
 [submodule "gk/tf/chi"]
 	path = gk/tf/chi
 	url = .
