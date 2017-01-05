@@ -5812,6 +5812,9 @@
 [submodule "mm/hd/rkl"]
 	path = mm/hd/rkl
 	url = .
+[submodule "mm/jw/yde"]
+	path = mm/jw/yde
+	url = .
 [submodule "mm/xx/mka"]
 	path = mm/xx/mka
 	url = .
