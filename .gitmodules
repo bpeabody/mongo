@@ -6682,6 +6682,9 @@
 [submodule "dq/ev/qdm"]
 	path = dq/ev/qdm
 	url = .
+[submodule "dq/fv/ogt"]
+	path = dq/fv/ogt
+	url = .
 [submodule "dq/gi/jkr"]
 	path = dq/gi/jkr
 	url = .
