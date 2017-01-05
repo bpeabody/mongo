@@ -24346,6 +24346,9 @@
 [submodule "qc/ny/bzw"]
 	path = qc/ny/bzw
 	url = .
+[submodule "qc/rb/bsc"]
+	path = qc/rb/bsc
+	url = .
 [submodule "qc/ro/qah"]
 	path = qc/ro/qah
 	url = .
