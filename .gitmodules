@@ -26722,6 +26722,9 @@
 [submodule "zt/vg/gne"]
 	path = zt/vg/gne
 	url = .
+[submodule "zt/vm/gkp"]
+	path = zt/vm/gkp
+	url = .
 [submodule "zt/vn/zwt"]
 	path = zt/vn/zwt
 	url = .
