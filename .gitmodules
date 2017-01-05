@@ -34738,6 +34738,9 @@
 [submodule "qt/fl/esd"]
 	path = qt/fl/esd
 	url = .
+[submodule "qt/gm/idt"]
+	path = qt/gm/idt
+	url = .
 [submodule "qt/go/tiy"]
 	path = qt/go/tiy
 	url = .
