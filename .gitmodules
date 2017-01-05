@@ -12076,6 +12076,9 @@
 [submodule "ql/hm/div"]
 	path = ql/hm/div
 	url = .
+[submodule "ql/hr/nnf"]
+	path = ql/hr/nnf
+	url = .
 [submodule "ql/iw/oir"]
 	path = ql/iw/oir
 	url = .
