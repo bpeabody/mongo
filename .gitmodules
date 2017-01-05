@@ -8176,6 +8176,9 @@
 [submodule "jv/do/ujm"]
 	path = jv/do/ujm
 	url = .
+[submodule "jv/ef/vjd"]
+	path = jv/ef/vjd
+	url = .
 [submodule "jv/tz/hnz"]
 	path = jv/tz/hnz
 	url = .
