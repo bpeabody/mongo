@@ -1171,6 +1171,9 @@
 [submodule "ft/az/mqt"]
 	path = ft/az/mqt
 	url = .
+[submodule "ft/ky/bdb"]
+	path = ft/ky/bdb
+	url = .
 [submodule "ft/mj/ezz"]
 	path = ft/mj/ezz
 	url = .
