@@ -1252,6 +1252,9 @@
 [submodule "co/sc/aho"]
 	path = co/sc/aho
 	url = .
+[submodule "co/yf/yei"]
+	path = co/yf/yei
+	url = .
 [submodule "cp/ag/hmu"]
 	path = cp/ag/hmu
 	url = .
