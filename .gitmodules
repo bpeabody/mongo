@@ -16018,6 +16018,9 @@
 [submodule "hn/dk/niw"]
 	path = hn/dk/niw
 	url = .
+[submodule "hn/ep/eqi"]
+	path = hn/ep/eqi
+	url = .
 [submodule "hn/es/hhq"]
 	path = hn/es/hhq
 	url = .
