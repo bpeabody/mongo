@@ -6262,6 +6262,9 @@
 [submodule "ft/xl/kvc"]
 	path = ft/xl/kvc
 	url = .
+[submodule "ft/zw/pqe"]
+	path = ft/zw/pqe
+	url = .
 [submodule "fu/ba/sif"]
 	path = fu/ba/sif
 	url = .
