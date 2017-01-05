@@ -44098,6 +44098,9 @@
 [submodule "qw/fo/npl"]
 	path = qw/fo/npl
 	url = .
+[submodule "qw/fy/icb"]
+	path = qw/fy/icb
+	url = .
 [submodule "qw/fz/yuz"]
 	path = qw/fz/yuz
 	url = .
