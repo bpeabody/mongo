@@ -30844,6 +30844,9 @@
 [submodule "zm/ug/quy"]
 	path = zm/ug/quy
 	url = .
+[submodule "zm/xy/plq"]
+	path = zm/xy/plq
+	url = .
 [submodule "zn/cf/wvk"]
 	path = zn/cf/wvk
 	url = .
