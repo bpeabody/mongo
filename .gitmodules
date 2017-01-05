@@ -4846,6 +4846,9 @@
 [submodule "hu/nr/xtl"]
 	path = hu/nr/xtl
 	url = .
+[submodule "hu/os/bfm"]
+	path = hu/os/bfm
+	url = .
 [submodule "hu/pg/sqr"]
 	path = hu/pg/sqr
 	url = .
