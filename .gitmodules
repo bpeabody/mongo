@@ -4351,6 +4351,9 @@
 [submodule "df/jh/qyf"]
 	path = df/jh/qyf
 	url = .
+[submodule "df/kf/ksx"]
+	path = df/kf/ksx
+	url = .
 [submodule "df/mp/nup"]
 	path = df/mp/nup
 	url = .
