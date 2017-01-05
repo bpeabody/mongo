@@ -37561,6 +37561,9 @@
 [submodule "qi/ve/ewl"]
 	path = qi/ve/ewl
 	url = .
+[submodule "qi/vn/mau"]
+	path = qi/vn/mau
+	url = .
 [submodule "qi/vo/uwe"]
 	path = qi/vo/uwe
 	url = .
