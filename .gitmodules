@@ -16387,6 +16387,9 @@
 [submodule "ng/io/njq"]
 	path = ng/io/njq
 	url = .
+[submodule "ng/kl/ate"]
+	path = ng/kl/ate
+	url = .
 [submodule "ng/ku/jav"]
 	path = ng/ku/jav
 	url = .
