@@ -2023,6 +2023,9 @@
 [submodule "nr/lr/mub"]
 	path = nr/lr/mub
 	url = .
+[submodule "nr/ng/kpg"]
+	path = nr/ng/kpg
+	url = .
 [submodule "ns/ws/rci"]
 	path = ns/ws/rci
 	url = .
