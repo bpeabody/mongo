@@ -2095,6 +2095,9 @@
 [submodule "se/yi/lyf"]
 	path = se/yi/lyf
 	url = .
+[submodule "sf/ne/luj"]
+	path = sf/ne/luj
+	url = .
 [submodule "sf/sc/wwf"]
 	path = sf/sc/wwf
 	url = .
