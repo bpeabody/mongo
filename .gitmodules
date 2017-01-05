@@ -1117,6 +1117,9 @@
 [submodule "bd/ni/reu"]
 	path = bd/ni/reu
 	url = .
+[submodule "bd/pd/doa"]
+	path = bd/pd/doa
+	url = .
 [submodule "bd/ve/rmt"]
 	path = bd/ve/rmt
 	url = .
