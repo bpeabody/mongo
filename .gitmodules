@@ -5488,6 +5488,9 @@
 [submodule "xc/ua/lzz"]
 	path = xc/ua/lzz
 	url = .
+[submodule "xd/ju/jye"]
+	path = xd/ju/jye
+	url = .
 [submodule "xd/ki/etr"]
 	path = xd/ki/etr
 	url = .
