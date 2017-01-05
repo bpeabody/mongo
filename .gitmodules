@@ -27631,6 +27631,9 @@
 [submodule "lh/bg/hqq"]
 	path = lh/bg/hqq
 	url = .
+[submodule "lh/ct/bmb"]
+	path = lh/ct/bmb
+	url = .
 [submodule "lh/ct/wat"]
 	path = lh/ct/wat
 	url = .
