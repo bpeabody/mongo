@@ -15517,6 +15517,9 @@
 [submodule "ku/jg/web"]
 	path = ku/jg/web
 	url = .
+[submodule "ku/jr/uir"]
+	path = ku/jr/uir
+	url = .
 [submodule "ku/jy/ctu"]
 	path = ku/jy/ctu
 	url = .
