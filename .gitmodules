@@ -2860,6 +2860,9 @@
 [submodule "ia/ns/lou"]
 	path = ia/ns/lou
 	url = .
+[submodule "ib/dq/icp"]
+	path = ib/dq/icp
+	url = .
 [submodule "ib/ep/owd"]
 	path = ib/ep/owd
 	url = .
