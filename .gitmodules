@@ -2317,6 +2317,9 @@
 [submodule "dg/je/noh"]
 	path = dg/je/noh
 	url = .
+[submodule "dg/on/dzy"]
+	path = dg/on/dzy
+	url = .
 [submodule "dg/tv/sey"]
 	path = dg/tv/sey
 	url = .
