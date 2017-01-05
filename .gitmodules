@@ -44125,6 +44125,9 @@
 [submodule "uq/fr/xtq"]
 	path = uq/fr/xtq
 	url = .
+[submodule "uq/gk/oel"]
+	path = uq/gk/oel
+	url = .
 [submodule "uq/go/bbj"]
 	path = uq/go/bbj
 	url = .
