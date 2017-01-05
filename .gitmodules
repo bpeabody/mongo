@@ -13021,6 +13021,9 @@
 [submodule "jf/xi/nas"]
 	path = jf/xi/nas
 	url = .
+[submodule "jf/xp/mpg"]
+	path = jf/xp/mpg
+	url = .
 [submodule "jf/yh/gqi"]
 	path = jf/yh/gqi
 	url = .
