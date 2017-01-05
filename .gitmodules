@@ -2911,6 +2911,9 @@
 [submodule "fg/hj/pgd"]
 	path = fg/hj/pgd
 	url = .
+[submodule "fg/ix/yqm"]
+	path = fg/ix/yqm
+	url = .
 [submodule "fg/kn/yug"]
 	path = fg/kn/yug
 	url = .
