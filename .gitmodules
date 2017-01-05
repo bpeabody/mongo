@@ -44347,6 +44347,9 @@
 [submodule "xy/rx/exm"]
 	path = xy/rx/exm
 	url = .
+[submodule "xy/sd/qdw"]
+	path = xy/sd/qdw
+	url = .
 [submodule "xy/ug/mhq"]
 	path = xy/ug/mhq
 	url = .
