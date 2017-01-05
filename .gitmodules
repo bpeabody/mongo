@@ -11779,6 +11779,9 @@
 [submodule "gx/oh/cjk"]
 	path = gx/oh/cjk
 	url = .
+[submodule "gx/qw/fvf"]
+	path = gx/qw/fvf
+	url = .
 [submodule "gx/ra/voq"]
 	path = gx/ra/voq
 	url = .
