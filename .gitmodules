@@ -808,6 +808,9 @@
 [submodule "bm/hb/vor"]
 	path = bm/hb/vor
 	url = .
+[submodule "bm/ln/yjb"]
+	path = bm/ln/yjb
+	url = .
 [submodule "bm/vd/mxy"]
 	path = bm/vd/mxy
 	url = .
