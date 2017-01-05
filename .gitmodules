@@ -44872,6 +44872,9 @@
 [submodule "pw/ar/dru"]
 	path = pw/ar/dru
 	url = .
+[submodule "pw/ch/odd"]
+	path = pw/ch/odd
+	url = .
 [submodule "pw/df/mqn"]
 	path = pw/df/mqn
 	url = .
