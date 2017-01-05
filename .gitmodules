@@ -2128,6 +2128,9 @@
 [submodule "ix/dr/gqd"]
 	path = ix/dr/gqd
 	url = .
+[submodule "ix/ik/gps"]
+	path = ix/ik/gps
+	url = .
 [submodule "ix/qy/hgt"]
 	path = ix/qy/hgt
 	url = .
