@@ -27610,6 +27610,9 @@
 [submodule "mo/dz/kny"]
 	path = mo/dz/kny
 	url = .
+[submodule "mo/dz/mem"]
+	path = mo/dz/mem
+	url = .
 [submodule "mo/ef/gry"]
 	path = mo/ef/gry
 	url = .
