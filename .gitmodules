@@ -36532,6 +36532,9 @@
 [submodule "nh/uw/etm"]
 	path = nh/uw/etm
 	url = .
+[submodule "nh/vi/ogd"]
+	path = nh/vi/ogd
+	url = .
 [submodule "nh/xn/lao"]
 	path = nh/xn/lao
 	url = .
