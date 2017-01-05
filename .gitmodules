@@ -12829,6 +12829,9 @@
 [submodule "rp/se/hvh"]
 	path = rp/se/hvh
 	url = .
+[submodule "rp/ti/fgx"]
+	path = rp/ti/fgx
+	url = .
 [submodule "rp/tn/sew"]
 	path = rp/tn/sew
 	url = .
