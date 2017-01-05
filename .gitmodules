@@ -25,6 +25,9 @@
 [submodule "ac/fi/vuh"]
 	path = ac/fi/vuh
 	url = .
+[submodule "ac/ld/kss"]
+	path = ac/ld/kss
+	url = .
 [submodule "ac/mt/loe"]
 	path = ac/mt/loe
 	url = .
