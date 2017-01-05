@@ -22693,6 +22693,9 @@
 [submodule "jp/eb/cki"]
 	path = jp/eb/cki
 	url = .
+[submodule "jp/hd/oqu"]
+	path = jp/hd/oqu
+	url = .
 [submodule "jp/hi/fbz"]
 	path = jp/hi/fbz
 	url = .
