@@ -4399,6 +4399,9 @@
 [submodule "nn/vn/slo"]
 	path = nn/vn/slo
 	url = .
+[submodule "nn/yt/yvx"]
+	path = nn/yt/yvx
+	url = .
 [submodule "no/bk/zya"]
 	path = no/bk/zya
 	url = .
