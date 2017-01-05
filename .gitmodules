@@ -31177,6 +31177,9 @@
 [submodule "yx/kf/jdc"]
 	path = yx/kf/jdc
 	url = .
+[submodule "yx/km/grp"]
+	path = yx/km/grp
+	url = .
 [submodule "yx/qp/ttq"]
 	path = yx/qp/ttq
 	url = .
