@@ -20059,6 +20059,9 @@
 [submodule "qr/nc/sok"]
 	path = qr/nc/sok
 	url = .
+[submodule "qr/ot/kal"]
+	path = qr/ot/kal
+	url = .
 [submodule "qr/rj/yfc"]
 	path = qr/rj/yfc
 	url = .
