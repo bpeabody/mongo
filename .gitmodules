@@ -14530,6 +14530,9 @@
 [submodule "pl/qa/clw"]
 	path = pl/qa/clw
 	url = .
+[submodule "pl/qd/djr"]
+	path = pl/qd/djr
+	url = .
 [submodule "pl/qx/rnn"]
 	path = pl/qx/rnn
 	url = .
