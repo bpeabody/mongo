@@ -14104,6 +14104,9 @@
 [submodule "fu/gq/ans"]
 	path = fu/gq/ans
 	url = .
+[submodule "fu/hq/jqy"]
+	path = fu/hq/jqy
+	url = .
 [submodule "fu/ig/zgr"]
 	path = fu/ig/zgr
 	url = .
