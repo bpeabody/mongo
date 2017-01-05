@@ -15625,6 +15625,9 @@
 [submodule "fd/in/ljx"]
 	path = fd/in/ljx
 	url = .
+[submodule "fd/iz/igg"]
+	path = fd/iz/igg
+	url = .
 [submodule "fd/jc/dzj"]
 	path = fd/jc/dzj
 	url = .
