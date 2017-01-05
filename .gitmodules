@@ -14953,6 +14953,9 @@
 [submodule "oy/tx/rqp"]
 	path = oy/tx/rqp
 	url = .
+[submodule "oy/wv/rky"]
+	path = oy/wv/rky
+	url = .
 [submodule "oy/xs/wvp"]
 	path = oy/xs/wvp
 	url = .
