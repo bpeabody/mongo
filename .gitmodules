@@ -18703,6 +18703,9 @@
 [submodule "pg/eb/wru"]
 	path = pg/eb/wru
 	url = .
+[submodule "pg/fp/bwt"]
+	path = pg/fp/bwt
+	url = .
 [submodule "pg/gs/mdz"]
 	path = pg/gs/mdz
 	url = .
