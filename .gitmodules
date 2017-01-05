@@ -16999,6 +16999,9 @@
 [submodule "gw/kq/oud"]
 	path = gw/kq/oud
 	url = .
+[submodule "gw/nf/jcf"]
+	path = gw/nf/jcf
+	url = .
 [submodule "gw/nj/gwd"]
 	path = gw/nj/gwd
 	url = .
