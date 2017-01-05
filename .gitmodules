@@ -1783,6 +1783,9 @@
 [submodule "vu/ba/jql"]
 	path = vu/ba/jql
 	url = .
+[submodule "vu/gx/rlb"]
+	path = vu/gx/rlb
+	url = .
 [submodule "vv/xk/bft"]
 	path = vv/xk/bft
 	url = .
