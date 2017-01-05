@@ -7759,6 +7759,9 @@
 [submodule "fw/ia/jis"]
 	path = fw/ia/jis
 	url = .
+[submodule "fw/kk/brd"]
+	path = fw/kk/brd
+	url = .
 [submodule "fw/op/ltx"]
 	path = fw/op/ltx
 	url = .
