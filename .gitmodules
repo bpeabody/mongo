@@ -19078,6 +19078,9 @@
 [submodule "vs/iu/bug"]
 	path = vs/iu/bug
 	url = .
+[submodule "vs/mg/bqx"]
+	path = vs/mg/bqx
+	url = .
 [submodule "vs/mo/nnx"]
 	path = vs/mo/nnx
 	url = .
