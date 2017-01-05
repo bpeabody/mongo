@@ -1549,6 +1549,9 @@
 [submodule "ao/rv/pdd"]
 	path = ao/rv/pdd
 	url = .
+[submodule "ao/su/eug"]
+	path = ao/su/eug
+	url = .
 [submodule "ao/su/txq"]
 	path = ao/su/txq
 	url = .
