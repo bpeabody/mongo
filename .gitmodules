@@ -4162,6 +4162,9 @@
 [submodule "xc/ez/whe"]
 	path = xc/ez/whe
 	url = .
+[submodule "xc/ky/sbg"]
+	path = xc/ky/sbg
+	url = .
 [submodule "xc/lw/sca"]
 	path = xc/lw/sca
 	url = .
