@@ -22930,6 +22930,9 @@
 [submodule "lc/ta/ekt"]
 	path = lc/ta/ekt
 	url = .
+[submodule "lc/tc/abe"]
+	path = lc/tc/abe
+	url = .
 [submodule "lc/tn/ryh"]
 	path = lc/tn/ryh
 	url = .
