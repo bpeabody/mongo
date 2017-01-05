@@ -16162,6 +16162,9 @@
 [submodule "fq/sd/wzp"]
 	path = fq/sd/wzp
 	url = .
+[submodule "fq/th/gou"]
+	path = fq/th/gou
+	url = .
 [submodule "fq/tx/hhe"]
 	path = fq/tx/hhe
 	url = .
