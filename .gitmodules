@@ -23155,6 +23155,9 @@
 [submodule "hv/kq/zgj"]
 	path = hv/kq/zgj
 	url = .
+[submodule "hv/kv/jgx"]
+	path = hv/kv/jgx
+	url = .
 [submodule "hv/lq/zvk"]
 	path = hv/lq/zvk
 	url = .
