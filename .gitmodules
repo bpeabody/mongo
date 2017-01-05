@@ -48979,6 +48979,9 @@
 [submodule "wk/if/htn"]
 	path = wk/if/htn
 	url = .
+[submodule "wk/iq/jgw"]
+	path = wk/iq/jgw
+	url = .
 [submodule "wk/ks/lpn"]
 	path = wk/ks/lpn
 	url = .
