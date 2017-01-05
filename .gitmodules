@@ -11581,6 +11581,9 @@
 [submodule "rb/vl/zso"]
 	path = rb/vl/zso
 	url = .
+[submodule "rb/yl/kld"]
+	path = rb/yl/kld
+	url = .
 [submodule "rc/am/zmb"]
 	path = rc/am/zmb
 	url = .
