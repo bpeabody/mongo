@@ -57085,6 +57085,9 @@
 [submodule "uw/pv/daq"]
 	path = uw/pv/daq
 	url = .
+[submodule "uw/py/vlm"]
+	path = uw/py/vlm
+	url = .
 [submodule "uw/qu/nyr"]
 	path = uw/qu/nyr
 	url = .
