@@ -7504,6 +7504,9 @@
 [submodule "ct/rp/fta"]
 	path = ct/rp/fta
 	url = .
+[submodule "ct/rt/lgr"]
+	path = ct/rt/lgr
+	url = .
 [submodule "ct/ry/fsl"]
 	path = ct/ry/fsl
 	url = .
