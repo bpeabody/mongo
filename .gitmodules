@@ -18628,6 +18628,9 @@
 [submodule "pw/df/mqn"]
 	path = pw/df/mqn
 	url = .
+[submodule "pw/ej/xeu"]
+	path = pw/ej/xeu
+	url = .
 [submodule "pw/et/ktr"]
 	path = pw/et/ktr
 	url = .
