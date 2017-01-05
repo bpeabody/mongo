@@ -4957,6 +4957,9 @@
 [submodule "gt/ie/lox"]
 	path = gt/ie/lox
 	url = .
+[submodule "gt/ji/niw"]
+	path = gt/ji/niw
+	url = .
 [submodule "gt/kj/byg"]
 	path = gt/kj/byg
 	url = .
