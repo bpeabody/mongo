@@ -49660,6 +49660,9 @@
 [submodule "vz/fm/nij"]
 	path = vz/fm/nij
 	url = .
+[submodule "vz/gc/sio"]
+	path = vz/gc/sio
+	url = .
 [submodule "vz/ii/tow"]
 	path = vz/ii/tow
 	url = .
