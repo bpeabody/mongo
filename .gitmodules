@@ -35641,6 +35641,9 @@
 [submodule "vc/km/wnf"]
 	path = vc/km/wnf
 	url = .
+[submodule "vc/lc/nez"]
+	path = vc/lc/nez
+	url = .
 [submodule "vc/nc/ngc"]
 	path = vc/nc/ngc
 	url = .
