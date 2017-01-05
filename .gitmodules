@@ -1669,6 +1669,9 @@
 [submodule "ct/or/qdb"]
 	path = ct/or/qdb
 	url = .
+[submodule "ct/pi/alu"]
+	path = ct/pi/alu
+	url = .
 [submodule "ct/sh/jjj"]
 	path = ct/sh/jjj
 	url = .
