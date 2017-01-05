@@ -66385,6 +66385,9 @@
 [submodule "zx/gs/rla"]
 	path = zx/gs/rla
 	url = .
+[submodule "zx/gu/qvo"]
+	path = zx/gu/qvo
+	url = .
 [submodule "zx/he/fue"]
 	path = zx/he/fue
 	url = .
