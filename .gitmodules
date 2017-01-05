@@ -4588,6 +4588,9 @@
 [submodule "ck/jn/eia"]
 	path = ck/jn/eia
 	url = .
+[submodule "ck/jt/xxs"]
+	path = ck/jt/xxs
+	url = .
 [submodule "ck/no/ayw"]
 	path = ck/no/ayw
 	url = .
