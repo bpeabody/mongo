@@ -1708,6 +1708,9 @@
 [submodule "bn/xe/ddi"]
 	path = bn/xe/ddi
 	url = .
+[submodule "bn/xh/vka"]
+	path = bn/xh/vka
+	url = .
 [submodule "bo/au/zsj"]
 	path = bo/au/zsj
 	url = .
