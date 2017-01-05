@@ -11911,6 +11911,9 @@
 [submodule "lz/fy/qxi"]
 	path = lz/fy/qxi
 	url = .
+[submodule "lz/hi/kbm"]
+	path = lz/hi/kbm
+	url = .
 [submodule "lz/ky/gcn"]
 	path = lz/ky/gcn
 	url = .
