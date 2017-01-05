@@ -4234,6 +4234,9 @@
 [submodule "bq/bm/rqp"]
 	path = bq/bm/rqp
 	url = .
+[submodule "bq/ch/ajp"]
+	path = bq/ch/ajp
+	url = .
 [submodule "bq/ci/hxj"]
 	path = bq/ci/hxj
 	url = .
