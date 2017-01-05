@@ -17545,6 +17545,9 @@
 [submodule "jv/qx/qip"]
 	path = jv/qx/qip
 	url = .
+[submodule "jv/rj/gky"]
+	path = jv/rj/gky
+	url = .
 [submodule "jv/tq/avt"]
 	path = jv/tq/avt
 	url = .
