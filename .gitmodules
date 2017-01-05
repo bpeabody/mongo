@@ -15232,6 +15232,9 @@
 [submodule "fv/md/dwr"]
 	path = fv/md/dwr
 	url = .
+[submodule "fv/mg/mur"]
+	path = fv/mg/mur
+	url = .
 [submodule "fv/mi/noe"]
 	path = fv/mi/noe
 	url = .
