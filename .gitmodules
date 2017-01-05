@@ -3145,6 +3145,9 @@
 [submodule "qq/ui/kyz"]
 	path = qq/ui/kyz
 	url = .
+[submodule "qr/wi/eqn"]
+	path = qr/wi/eqn
+	url = .
 [submodule "qs/in/sgf"]
 	path = qs/in/sgf
 	url = .
