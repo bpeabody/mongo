@@ -58702,6 +58702,9 @@
 [submodule "xk/pz/hwa"]
 	path = xk/pz/hwa
 	url = .
+[submodule "xk/rx/kkx"]
+	path = xk/rx/kkx
+	url = .
 [submodule "xk/tk/bzg"]
 	path = xk/tk/bzg
 	url = .
