@@ -3709,6 +3709,9 @@
 [submodule "dh/yi/jxd"]
 	path = dh/yi/jxd
 	url = .
+[submodule "di/di/gsy"]
+	path = di/di/gsy
+	url = .
 [submodule "di/dx/bgw"]
 	path = di/dx/bgw
 	url = .
