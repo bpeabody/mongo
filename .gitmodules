@@ -3070,6 +3070,9 @@
 [submodule "fg/kn/yug"]
 	path = fg/kn/yug
 	url = .
+[submodule "fg/oe/ryr"]
+	path = fg/oe/ryr
+	url = .
 [submodule "fg/wj/sgm"]
 	path = fg/wj/sgm
 	url = .
