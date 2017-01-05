@@ -39868,6 +39868,9 @@
 [submodule "pr/yt/koq"]
 	path = pr/yt/koq
 	url = .
+[submodule "ps/av/vrp"]
+	path = ps/av/vrp
+	url = .
 [submodule "ps/ca/ipy"]
 	path = ps/ca/ipy
 	url = .
