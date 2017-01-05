@@ -9421,6 +9421,9 @@
 [submodule "yo/hm/aai"]
 	path = yo/hm/aai
 	url = .
+[submodule "yo/lm/pdm"]
+	path = yo/lm/pdm
+	url = .
 [submodule "yo/lz/ttw"]
 	path = yo/lz/ttw
 	url = .
