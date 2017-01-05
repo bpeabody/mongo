@@ -50425,6 +50425,9 @@
 [submodule "sx/uq/wzg"]
 	path = sx/uq/wzg
 	url = .
+[submodule "sx/us/rxi"]
+	path = sx/us/rxi
+	url = .
 [submodule "sx/ve/mht"]
 	path = sx/ve/mht
 	url = .
