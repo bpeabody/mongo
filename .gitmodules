@@ -4939,6 +4939,9 @@
 [submodule "ck/at/yyf"]
 	path = ck/at/yyf
 	url = .
+[submodule "ck/au/oxm"]
+	path = ck/au/oxm
+	url = .
 [submodule "ck/bg/imc"]
 	path = ck/bg/imc
 	url = .
