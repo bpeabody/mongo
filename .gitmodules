@@ -2605,6 +2605,9 @@
 [submodule "cr/me/kja"]
 	path = cr/me/kja
 	url = .
+[submodule "cr/mh/kdk"]
+	path = cr/mh/kdk
+	url = .
 [submodule "cr/ms/mcf"]
 	path = cr/ms/mcf
 	url = .
