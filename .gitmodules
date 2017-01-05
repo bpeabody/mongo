@@ -19315,6 +19315,9 @@
 [submodule "ms/uv/hyu"]
 	path = ms/uv/hyu
 	url = .
+[submodule "ms/yu/col"]
+	path = ms/yu/col
+	url = .
 [submodule "ms/zf/xte"]
 	path = ms/zf/xte
 	url = .
