@@ -23302,6 +23302,9 @@
 [submodule "ns/ta/xgx"]
 	path = ns/ta/xgx
 	url = .
+[submodule "ns/tj/cqh"]
+	path = ns/tj/cqh
+	url = .
 [submodule "ns/uq/dxn"]
 	path = ns/uq/dxn
 	url = .
