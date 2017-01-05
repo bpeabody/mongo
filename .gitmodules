@@ -6184,6 +6184,9 @@
 [submodule "pe/jg/zut"]
 	path = pe/jg/zut
 	url = .
+[submodule "pe/mb/fjb"]
+	path = pe/mb/fjb
+	url = .
 [submodule "pe/uj/tyw"]
 	path = pe/uj/tyw
 	url = .
