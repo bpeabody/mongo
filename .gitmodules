@@ -163,6 +163,9 @@
 [submodule "ef/lf/tes"]
 	path = ef/lf/tes
 	url = .
+[submodule "ep/af/pop"]
+	path = ep/af/pop
+	url = .
 [submodule "ex/hx/jks"]
 	path = ex/hx/jks
 	url = .
