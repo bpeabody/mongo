@@ -48931,6 +48931,9 @@
 [submodule "wz/kq/lvx"]
 	path = wz/kq/lvx
 	url = .
+[submodule "wz/kt/qoi"]
+	path = wz/kt/qoi
+	url = .
 [submodule "wz/ku/wwm"]
 	path = wz/ku/wwm
 	url = .
