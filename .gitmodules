@@ -9838,6 +9838,9 @@
 [submodule "dx/tc/ziq"]
 	path = dx/tc/ziq
 	url = .
+[submodule "dx/tf/kgi"]
+	path = dx/tf/kgi
+	url = .
 [submodule "dx/tz/usw"]
 	path = dx/tz/usw
 	url = .
