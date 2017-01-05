@@ -13147,6 +13147,9 @@
 [submodule "nw/ah/ivo"]
 	path = nw/ah/ivo
 	url = .
+[submodule "nw/fi/svf"]
+	path = nw/fi/svf
+	url = .
 [submodule "nw/hn/dxv"]
 	path = nw/hn/dxv
 	url = .
