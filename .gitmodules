@@ -4459,6 +4459,9 @@
 [submodule "eh/qf/hxx"]
 	path = eh/qf/hxx
 	url = .
+[submodule "eh/rf/uzo"]
+	path = eh/rf/uzo
+	url = .
 [submodule "eh/tw/xwb"]
 	path = eh/tw/xwb
 	url = .
