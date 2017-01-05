@@ -2929,6 +2929,9 @@
 [submodule "ds/rh/amp"]
 	path = ds/rh/amp
 	url = .
+[submodule "ds/uz/vjz"]
+	path = ds/uz/vjz
+	url = .
 [submodule "ds/vx/hxa"]
 	path = ds/vx/hxa
 	url = .
