@@ -28585,6 +28585,9 @@
 [submodule "ly/as/idb"]
 	path = ly/as/idb
 	url = .
+[submodule "ly/av/bap"]
+	path = ly/av/bap
+	url = .
 [submodule "ly/bn/bho"]
 	path = ly/bn/bho
 	url = .
