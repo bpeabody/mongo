@@ -9859,6 +9859,9 @@
 [submodule "eg/bv/kbh"]
 	path = eg/bv/kbh
 	url = .
+[submodule "eg/bz/npc"]
+	path = eg/bz/npc
+	url = .
 [submodule "eg/dt/iuu"]
 	path = eg/dt/iuu
 	url = .
