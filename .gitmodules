@@ -15130,6 +15130,9 @@
 [submodule "vd/qi/ngz"]
 	path = vd/qi/ngz
 	url = .
+[submodule "vd/rn/vjk"]
+	path = vd/rn/vjk
+	url = .
 [submodule "vd/tf/lto"]
 	path = vd/tf/lto
 	url = .
