@@ -37033,6 +37033,9 @@
 [submodule "wi/se/yua"]
 	path = wi/se/yua
 	url = .
+[submodule "wi/tp/ery"]
+	path = wi/tp/ery
+	url = .
 [submodule "wi/ur/veg"]
 	path = wi/ur/veg
 	url = .
