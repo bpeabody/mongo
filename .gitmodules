@@ -29371,6 +29371,9 @@
 [submodule "ot/tu/gpp"]
 	path = ot/tu/gpp
 	url = .
+[submodule "ot/vk/tha"]
+	path = ot/vk/tha
+	url = .
 [submodule "ot/wi/cwl"]
 	path = ot/wi/cwl
 	url = .
