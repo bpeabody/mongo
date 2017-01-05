@@ -42721,6 +42721,9 @@
 [submodule "qe/yp/nuc"]
 	path = qe/yp/nuc
 	url = .
+[submodule "qe/zr/ftx"]
+	path = qe/zr/ftx
+	url = .
 [submodule "qe/zs/gna"]
 	path = qe/zs/gna
 	url = .
