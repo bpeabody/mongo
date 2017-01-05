@@ -26806,6 +26806,9 @@
 [submodule "xc/la/jqy"]
 	path = xc/la/jqy
 	url = .
+[submodule "xc/ld/etx"]
+	path = xc/ld/etx
+	url = .
 [submodule "xc/lw/sca"]
 	path = xc/lw/sca
 	url = .
