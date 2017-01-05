@@ -9175,6 +9175,9 @@
 [submodule "jz/vf/ksx"]
 	path = jz/vf/ksx
 	url = .
+[submodule "jz/vx/xqw"]
+	path = jz/vx/xqw
+	url = .
 [submodule "jz/wj/lek"]
 	path = jz/wj/lek
 	url = .
