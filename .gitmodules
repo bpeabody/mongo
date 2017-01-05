@@ -25945,6 +25945,9 @@
 [submodule "jm/ny/ceh"]
 	path = jm/ny/ceh
 	url = .
+[submodule "jm/pk/yck"]
+	path = jm/pk/yck
+	url = .
 [submodule "jm/qt/ejn"]
 	path = jm/qt/ejn
 	url = .
