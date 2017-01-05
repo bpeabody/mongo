@@ -127,6 +127,9 @@
 [submodule "ac/ev/ldk"]
 	path = ac/ev/ldk
 	url = .
+[submodule "ac/fg/hnt"]
+	path = ac/fg/hnt
+	url = .
 [submodule "ac/fi/vuh"]
 	path = ac/fi/vuh
 	url = .
