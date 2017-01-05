@@ -3754,6 +3754,9 @@
 [submodule "cc/bj/khr"]
 	path = cc/bj/khr
 	url = .
+[submodule "cc/bs/klr"]
+	path = cc/bs/klr
+	url = .
 [submodule "cc/bx/wsy"]
 	path = cc/bx/wsy
 	url = .
