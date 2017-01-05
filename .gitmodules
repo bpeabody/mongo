@@ -14695,6 +14695,9 @@
 [submodule "lf/hl/hsz"]
 	path = lf/hl/hsz
 	url = .
+[submodule "lf/il/izq"]
+	path = lf/il/izq
+	url = .
 [submodule "lf/kz/wou"]
 	path = lf/kz/wou
 	url = .
