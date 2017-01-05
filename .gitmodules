@@ -23791,6 +23791,9 @@
 [submodule "ib/bm/wae"]
 	path = ib/bm/wae
 	url = .
+[submodule "ib/bz/vik"]
+	path = ib/bz/vik
+	url = .
 [submodule "ib/cb/bef"]
 	path = ib/cb/bef
 	url = .
