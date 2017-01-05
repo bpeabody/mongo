@@ -871,6 +871,9 @@
 [submodule "bj/ut/meg"]
 	path = bj/ut/meg
 	url = .
+[submodule "bj/vh/gly"]
+	path = bj/vh/gly
+	url = .
 [submodule "bj/zd/uqi"]
 	path = bj/zd/uqi
 	url = .
