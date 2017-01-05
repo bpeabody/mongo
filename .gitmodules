@@ -30229,6 +30229,9 @@
 [submodule "kg/kd/nvg"]
 	path = kg/kd/nvg
 	url = .
+[submodule "kg/ko/ozt"]
+	path = kg/ko/ozt
+	url = .
 [submodule "kg/lv/hcv"]
 	path = kg/lv/hcv
 	url = .
