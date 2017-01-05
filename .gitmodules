@@ -5425,6 +5425,9 @@
 [submodule "xw/tq/wfq"]
 	path = xw/tq/wfq
 	url = .
+[submodule "xw/xq/sci"]
+	path = xw/xq/sci
+	url = .
 [submodule "xw/zr/qeq"]
 	path = xw/zr/qeq
 	url = .
