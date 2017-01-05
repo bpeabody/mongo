@@ -15904,6 +15904,9 @@
 [submodule "hc/ru/zrz"]
 	path = hc/ru/zrz
 	url = .
+[submodule "hc/sq/gyr"]
+	path = hc/sq/gyr
+	url = .
 [submodule "hc/uy/svm"]
 	path = hc/uy/svm
 	url = .
