@@ -22324,6 +22324,9 @@
 [submodule "id/el/crj"]
 	path = id/el/crj
 	url = .
+[submodule "id/gi/ijc"]
+	path = id/gi/ijc
+	url = .
 [submodule "id/gz/oth"]
 	path = id/gz/oth
 	url = .
