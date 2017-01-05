@@ -7687,6 +7687,9 @@
 [submodule "gj/da/fqh"]
 	path = gj/da/fqh
 	url = .
+[submodule "gj/fx/xgw"]
+	path = gj/fx/xgw
+	url = .
 [submodule "gj/hl/sct"]
 	path = gj/hl/sct
 	url = .
