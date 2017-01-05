@@ -6382,6 +6382,9 @@
 [submodule "nt/ke/chi"]
 	path = nt/ke/chi
 	url = .
+[submodule "nt/nz/nzb"]
+	path = nt/nz/nzb
+	url = .
 [submodule "nt/xe/rix"]
 	path = nt/xe/rix
 	url = .
