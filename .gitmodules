@@ -14119,6 +14119,9 @@
 [submodule "nu/oq/hle"]
 	path = nu/oq/hle
 	url = .
+[submodule "nu/pq/uij"]
+	path = nu/pq/uij
+	url = .
 [submodule "nu/re/acj"]
 	path = nu/re/acj
 	url = .
