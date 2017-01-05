@@ -47905,6 +47905,9 @@
 [submodule "qt/ms/whi"]
 	path = qt/ms/whi
 	url = .
+[submodule "qt/nl/sqo"]
+	path = qt/nl/sqo
+	url = .
 [submodule "qt/ob/den"]
 	path = qt/ob/den
 	url = .
