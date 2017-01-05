@@ -24115,6 +24115,9 @@
 [submodule "si/pg/ybl"]
 	path = si/pg/ybl
 	url = .
+[submodule "si/pv/pow"]
+	path = si/pv/pow
+	url = .
 [submodule "si/qv/iea"]
 	path = si/qv/iea
 	url = .
