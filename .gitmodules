@@ -16474,6 +16474,9 @@
 [submodule "hy/mp/uoe"]
 	path = hy/mp/uoe
 	url = .
+[submodule "hy/ms/jgm"]
+	path = hy/ms/jgm
+	url = .
 [submodule "hy/na/nuy"]
 	path = hy/na/nuy
 	url = .
