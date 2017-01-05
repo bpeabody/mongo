@@ -1966,6 +1966,9 @@
 [submodule "uc/nt/vpp"]
 	path = uc/nt/vpp
 	url = .
+[submodule "uc/ww/pog"]
+	path = uc/ww/pog
+	url = .
 [submodule "ue/qp/iht"]
 	path = ue/qp/iht
 	url = .
