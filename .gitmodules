@@ -34255,6 +34255,9 @@
 [submodule "ls/ny/tyd"]
 	path = ls/ny/tyd
 	url = .
+[submodule "ls/oc/nkr"]
+	path = ls/oc/nkr
+	url = .
 [submodule "ls/of/rcr"]
 	path = ls/of/rcr
 	url = .
