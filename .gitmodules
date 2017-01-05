@@ -3694,6 +3694,9 @@
 [submodule "eb/lg/bux"]
 	path = eb/lg/bux
 	url = .
+[submodule "eb/po/bsi"]
+	path = eb/po/bsi
+	url = .
 [submodule "eb/qq/rtx"]
 	path = eb/qq/rtx
 	url = .
