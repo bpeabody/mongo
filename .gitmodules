@@ -34027,6 +34027,9 @@
 [submodule "xc/gv/wqg"]
 	path = xc/gv/wqg
 	url = .
+[submodule "xc/hg/vzq"]
+	path = xc/hg/vzq
+	url = .
 [submodule "xc/hn/riu"]
 	path = xc/hn/riu
 	url = .
