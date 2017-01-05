@@ -10471,6 +10471,9 @@
 [submodule "do/pb/jkm"]
 	path = do/pb/jkm
 	url = .
+[submodule "do/pi/lon"]
+	path = do/pi/lon
+	url = .
 [submodule "do/qf/ueu"]
 	path = do/qf/ueu
 	url = .
