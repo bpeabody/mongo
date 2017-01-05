@@ -13501,6 +13501,9 @@
 [submodule "st/xm/gws"]
 	path = st/xm/gws
 	url = .
+[submodule "st/zg/tnn"]
+	path = st/zg/tnn
+	url = .
 [submodule "st/zh/tac"]
 	path = st/zh/tac
 	url = .
