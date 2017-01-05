@@ -35782,6 +35782,9 @@
 [submodule "tt/vn/bua"]
 	path = tt/vn/bua
 	url = .
+[submodule "tt/vp/yip"]
+	path = tt/vp/yip
+	url = .
 [submodule "tt/wd/dgu"]
 	path = tt/wd/dgu
 	url = .
