@@ -952,6 +952,9 @@
 [submodule "am/bn/bmr"]
 	path = am/bn/bmr
 	url = .
+[submodule "am/de/ihz"]
+	path = am/de/ihz
+	url = .
 [submodule "am/dj/wpb"]
 	path = am/dj/wpb
 	url = .
