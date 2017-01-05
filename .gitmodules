@@ -3433,6 +3433,9 @@
 [submodule "cf/fl/xqd"]
 	path = cf/fl/xqd
 	url = .
+[submodule "cf/fo/vdf"]
+	path = cf/fo/vdf
+	url = .
 [submodule "cf/fu/ukj"]
 	path = cf/fu/ukj
 	url = .
