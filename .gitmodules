@@ -40018,6 +40018,9 @@
 [submodule "vz/jr/ebw"]
 	path = vz/jr/ebw
 	url = .
+[submodule "vz/jr/hht"]
+	path = vz/jr/hht
+	url = .
 [submodule "vz/lg/nfx"]
 	path = vz/lg/nfx
 	url = .
