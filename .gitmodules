@@ -36451,6 +36451,9 @@
 [submodule "ve/kk/fpo"]
 	path = ve/kk/fpo
 	url = .
+[submodule "ve/le/sbm"]
+	path = ve/le/sbm
+	url = .
 [submodule "ve/pl/rxm"]
 	path = ve/pl/rxm
 	url = .
