@@ -859,6 +859,9 @@
 [submodule "bt/yi/mpy"]
 	path = bt/yi/mpy
 	url = .
+[submodule "bu/ia/cgp"]
+	path = bu/ia/cgp
+	url = .
 [submodule "bu/ib/uqb"]
 	path = bu/ib/uqb
 	url = .
