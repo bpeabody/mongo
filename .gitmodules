@@ -54286,6 +54286,9 @@
 [submodule "ug/dp/gqt"]
 	path = ug/dp/gqt
 	url = .
+[submodule "ug/eq/mrj"]
+	path = ug/eq/mrj
+	url = .
 [submodule "ug/eu/wcj"]
 	path = ug/eu/wcj
 	url = .
