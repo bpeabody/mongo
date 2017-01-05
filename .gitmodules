@@ -16510,6 +16510,9 @@
 [submodule "jo/ed/bmh"]
 	path = jo/ed/bmh
 	url = .
+[submodule "jo/ev/uox"]
+	path = jo/ev/uox
+	url = .
 [submodule "jo/ge/afb"]
 	path = jo/ge/afb
 	url = .
