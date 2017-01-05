@@ -13513,6 +13513,9 @@
 [submodule "ut/wf/urp"]
 	path = ut/wf/urp
 	url = .
+[submodule "ut/xi/kol"]
+	path = ut/xi/kol
+	url = .
 [submodule "ut/yn/vdx"]
 	path = ut/yn/vdx
 	url = .
