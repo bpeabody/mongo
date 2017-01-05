@@ -13921,6 +13921,9 @@
 [submodule "hk/uc/xti"]
 	path = hk/uc/xti
 	url = .
+[submodule "hk/wk/bbb"]
+	path = hk/wk/bbb
+	url = .
 [submodule "hl/ag/kio"]
 	path = hl/ag/kio
 	url = .
