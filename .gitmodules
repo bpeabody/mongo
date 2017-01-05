@@ -16834,6 +16834,9 @@
 [submodule "ku/jr/uir"]
 	path = ku/jr/uir
 	url = .
+[submodule "ku/ju/ppf"]
+	path = ku/ju/ppf
+	url = .
 [submodule "ku/jy/ctu"]
 	path = ku/jy/ctu
 	url = .
