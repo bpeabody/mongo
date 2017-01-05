@@ -3004,6 +3004,9 @@
 [submodule "kx/ym/xhw"]
 	path = kx/ym/xhw
 	url = .
+[submodule "ky/ir/sew"]
+	path = ky/ir/sew
+	url = .
 [submodule "ky/nb/hpc"]
 	path = ky/nb/hpc
 	url = .
