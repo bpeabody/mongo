@@ -5887,6 +5887,9 @@
 [submodule "hw/hf/hca"]
 	path = hw/hf/hca
 	url = .
+[submodule "hw/id/qsv"]
+	path = hw/id/qsv
+	url = .
 [submodule "hw/ip/zem"]
 	path = hw/ip/zem
 	url = .
