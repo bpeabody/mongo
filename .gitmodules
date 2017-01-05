@@ -5152,6 +5152,9 @@
 [submodule "dx/km/tbq"]
 	path = dx/km/tbq
 	url = .
+[submodule "dx/lq/cbu"]
+	path = dx/lq/cbu
+	url = .
 [submodule "dx/ox/zsq"]
 	path = dx/ox/zsq
 	url = .
