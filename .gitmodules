@@ -69889,6 +69889,9 @@
 [submodule "zs/gi/uzz"]
 	path = zs/gi/uzz
 	url = .
+[submodule "zs/gv/hbg"]
+	path = zs/gv/hbg
+	url = .
 [submodule "zs/hh/raa"]
 	path = zs/hh/raa
 	url = .
