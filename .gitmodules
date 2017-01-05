@@ -34066,6 +34066,9 @@
 [submodule "uy/ho/cxp"]
 	path = uy/ho/cxp
 	url = .
+[submodule "uy/hu/uiq"]
+	path = uy/hu/uiq
+	url = .
 [submodule "uy/hz/mtr"]
 	path = uy/hz/mtr
 	url = .
