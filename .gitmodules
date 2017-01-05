@@ -22717,6 +22717,9 @@
 [submodule "ld/cf/vvx"]
 	path = ld/cf/vvx
 	url = .
+[submodule "ld/eg/fec"]
+	path = ld/eg/fec
+	url = .
 [submodule "ld/fj/ncw"]
 	path = ld/fj/ncw
 	url = .
