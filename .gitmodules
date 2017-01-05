@@ -6541,6 +6541,9 @@
 [submodule "pj/jc/bsn"]
 	path = pj/jc/bsn
 	url = .
+[submodule "pj/lu/gmo"]
+	path = pj/lu/gmo
+	url = .
 [submodule "pj/mu/hez"]
 	path = pj/mu/hez
 	url = .
