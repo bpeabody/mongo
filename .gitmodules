@@ -7708,6 +7708,9 @@
 [submodule "zs/cu/qpb"]
 	path = zs/cu/qpb
 	url = .
+[submodule "zs/hh/raa"]
+	path = zs/hh/raa
+	url = .
 [submodule "zs/nc/tdc"]
 	path = zs/nc/tdc
 	url = .
