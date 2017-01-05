@@ -6235,6 +6235,9 @@
 [submodule "qn/rm/ptp"]
 	path = qn/rm/ptp
 	url = .
+[submodule "qn/ud/uae"]
+	path = qn/ud/uae
+	url = .
 [submodule "qn/zk/lni"]
 	path = qn/zk/lni
 	url = .
