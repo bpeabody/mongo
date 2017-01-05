@@ -8194,6 +8194,9 @@
 [submodule "je/oe/bxi"]
 	path = je/oe/bxi
 	url = .
+[submodule "je/qb/mmx"]
+	path = je/qb/mmx
+	url = .
 [submodule "je/qt/xwc"]
 	path = je/qt/xwc
 	url = .
