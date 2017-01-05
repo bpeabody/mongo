@@ -18112,6 +18112,9 @@
 [submodule "of/fu/jgs"]
 	path = of/fu/jgs
 	url = .
+[submodule "of/gd/vpe"]
+	path = of/gd/vpe
+	url = .
 [submodule "of/gj/hru"]
 	path = of/gj/hru
 	url = .
