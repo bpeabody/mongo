@@ -1570,6 +1570,9 @@
 [submodule "yp/vq/iys"]
 	path = yp/vq/iys
 	url = .
+[submodule "ys/kd/ked"]
+	path = ys/kd/ked
+	url = .
 [submodule "yt/iv/zhd"]
 	path = yt/iv/zhd
 	url = .
