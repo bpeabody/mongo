@@ -9061,6 +9061,9 @@
 [submodule "dy/kg/ldg"]
 	path = dy/kg/ldg
 	url = .
+[submodule "dy/mk/qjl"]
+	path = dy/mk/qjl
+	url = .
 [submodule "dy/ng/bsx"]
 	path = dy/ng/bsx
 	url = .
