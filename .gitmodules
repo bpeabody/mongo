@@ -5083,6 +5083,9 @@
 [submodule "gq/pb/ltq"]
 	path = gq/pb/ltq
 	url = .
+[submodule "gq/ph/kbd"]
+	path = gq/ph/kbd
+	url = .
 [submodule "gq/rw/equ"]
 	path = gq/rw/equ
 	url = .
