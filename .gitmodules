@@ -10198,6 +10198,9 @@
 [submodule "ed/cx/lih"]
 	path = ed/cx/lih
 	url = .
+[submodule "ed/dg/uqi"]
+	path = ed/dg/uqi
+	url = .
 [submodule "ed/dl/ffp"]
 	path = ed/dl/ffp
 	url = .
