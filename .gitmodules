@@ -3487,6 +3487,9 @@
 [submodule "ko/rn/ymf"]
 	path = ko/rn/ymf
 	url = .
+[submodule "ko/uk/vwv"]
+	path = ko/uk/vwv
+	url = .
 [submodule "ko/xh/ucl"]
 	path = ko/xh/ucl
 	url = .
