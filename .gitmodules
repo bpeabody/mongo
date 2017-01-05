@@ -11890,6 +11890,9 @@
 [submodule "qt/ke/nde"]
 	path = qt/ke/nde
 	url = .
+[submodule "qt/ms/whi"]
+	path = qt/ms/whi
+	url = .
 [submodule "qt/ob/den"]
 	path = qt/ob/den
 	url = .
