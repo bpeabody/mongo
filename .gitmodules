@@ -34981,6 +34981,9 @@
 [submodule "oj/uq/rdb"]
 	path = oj/uq/rdb
 	url = .
+[submodule "oj/uw/fka"]
+	path = oj/uw/fka
+	url = .
 [submodule "oj/vn/fes"]
 	path = oj/vn/fes
 	url = .
