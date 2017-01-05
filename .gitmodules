@@ -36676,6 +36676,9 @@
 [submodule "ql/jb/mde"]
 	path = ql/jb/mde
 	url = .
+[submodule "ql/kv/egc"]
+	path = ql/kv/egc
+	url = .
 [submodule "ql/oq/jdm"]
 	path = ql/oq/jdm
 	url = .
