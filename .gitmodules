@@ -19282,6 +19282,9 @@
 [submodule "si/uz/elt"]
 	path = si/uz/elt
 	url = .
+[submodule "sj/dg/vbd"]
+	path = sj/dg/vbd
+	url = .
 [submodule "sj/gs/wmr"]
 	path = sj/gs/wmr
 	url = .
