@@ -18502,6 +18502,9 @@
 [submodule "lo/uu/jin"]
 	path = lo/uu/jin
 	url = .
+[submodule "lo/yp/csm"]
+	path = lo/yp/csm
+	url = .
 [submodule "lp/bs/vxt"]
 	path = lp/bs/vxt
 	url = .
