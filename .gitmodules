@@ -25309,6 +25309,9 @@
 [submodule "wz/wu/epi"]
 	path = wz/wu/epi
 	url = .
+[submodule "wz/xm/sms"]
+	path = wz/xm/sms
+	url = .
 [submodule "wz/xx/wop"]
 	path = wz/xx/wop
 	url = .
