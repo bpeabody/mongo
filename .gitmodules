@@ -673,6 +673,9 @@
 [submodule "hj/bo/xyv"]
 	path = hj/bo/xyv
 	url = .
+[submodule "hj/iu/lij"]
+	path = hj/iu/lij
+	url = .
 [submodule "hl/rf/ocp"]
 	path = hl/rf/ocp
 	url = .
