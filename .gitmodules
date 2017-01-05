@@ -925,6 +925,9 @@
 [submodule "ai/am/etk"]
 	path = ai/am/etk
 	url = .
+[submodule "ai/aw/yxf"]
+	path = ai/aw/yxf
+	url = .
 [submodule "ai/bp/nyf"]
 	path = ai/bp/nyf
 	url = .
