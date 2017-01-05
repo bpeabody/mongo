@@ -2272,6 +2272,9 @@
 [submodule "dc/fm/csm"]
 	path = dc/fm/csm
 	url = .
+[submodule "dc/fp/gjl"]
+	path = dc/fp/gjl
+	url = .
 [submodule "dc/hf/ygd"]
 	path = dc/hf/ygd
 	url = .
