@@ -1798,6 +1798,9 @@
 [submodule "bt/gx/xlr"]
 	path = bt/gx/xlr
 	url = .
+[submodule "bt/ja/pkz"]
+	path = bt/ja/pkz
+	url = .
 [submodule "bt/jc/huz"]
 	path = bt/jc/huz
 	url = .
