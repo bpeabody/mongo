@@ -43537,6 +43537,9 @@
 [submodule "ta/jb/lkm"]
 	path = ta/jb/lkm
 	url = .
+[submodule "ta/jp/ssi"]
+	path = ta/jp/ssi
+	url = .
 [submodule "ta/ju/kri"]
 	path = ta/ju/kri
 	url = .
