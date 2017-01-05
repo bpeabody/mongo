@@ -1486,6 +1486,9 @@
 [submodule "zj/kp/kbl"]
 	path = zj/kp/kbl
 	url = .
+[submodule "zl/gs/fzp"]
+	path = zl/gs/fzp
+	url = .
 [submodule "zl/wk/gwc"]
 	path = zl/wk/gwc
 	url = .
