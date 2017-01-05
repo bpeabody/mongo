@@ -18244,6 +18244,9 @@
 [submodule "gw/ba/omk"]
 	path = gw/ba/omk
 	url = .
+[submodule "gw/cq/vhf"]
+	path = gw/cq/vhf
+	url = .
 [submodule "gw/dh/luv"]
 	path = gw/dh/luv
 	url = .
