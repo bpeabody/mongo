@@ -33427,6 +33427,9 @@
 [submodule "qf/si/pwo"]
 	path = qf/si/pwo
 	url = .
+[submodule "qf/ta/ivc"]
+	path = qf/ta/ivc
+	url = .
 [submodule "qf/uc/ksh"]
 	path = qf/uc/ksh
 	url = .
