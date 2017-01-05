@@ -256,6 +256,9 @@
 [submodule "ex/cl/jwe"]
 	path = ex/cl/jwe
 	url = .
+[submodule "ex/gp/yyo"]
+	path = ex/gp/yyo
+	url = .
 [submodule "ex/hx/jks"]
 	path = ex/hx/jks
 	url = .
