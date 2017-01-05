@@ -15148,6 +15148,9 @@
 [submodule "yb/kc/bjq"]
 	path = yb/kc/bjq
 	url = .
+[submodule "yb/kw/maz"]
+	path = yb/kw/maz
+	url = .
 [submodule "yb/np/nbn"]
 	path = yb/np/nbn
 	url = .
