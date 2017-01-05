@@ -1510,6 +1510,9 @@
 [submodule "bi/ow/kdk"]
 	path = bi/ow/kdk
 	url = .
+[submodule "bi/qq/xqp"]
+	path = bi/qq/xqp
+	url = .
 [submodule "bi/rq/rdc"]
 	path = bi/rq/rdc
 	url = .
