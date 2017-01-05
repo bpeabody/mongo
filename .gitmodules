@@ -1417,6 +1417,9 @@
 [submodule "dh/qf/fcd"]
 	path = dh/qf/fcd
 	url = .
+[submodule "dh/qh/wmq"]
+	path = dh/qh/wmq
+	url = .
 [submodule "dh/we/nfj"]
 	path = dh/we/nfj
 	url = .
