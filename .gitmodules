@@ -2731,6 +2731,9 @@
 [submodule "wr/yc/sxp"]
 	path = wr/yc/sxp
 	url = .
+[submodule "ws/je/qea"]
+	path = ws/je/qea
+	url = .
 [submodule "ws/xt/rpc"]
 	path = ws/xt/rpc
 	url = .
