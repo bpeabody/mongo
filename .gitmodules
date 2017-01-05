@@ -12784,6 +12784,9 @@
 [submodule "hl/je/yuc"]
 	path = hl/je/yuc
 	url = .
+[submodule "hl/kg/xje"]
+	path = hl/kg/xje
+	url = .
 [submodule "hl/ld/joz"]
 	path = hl/ld/joz
 	url = .
