@@ -7024,6 +7024,9 @@
 [submodule "nj/po/kft"]
 	path = nj/po/kft
 	url = .
+[submodule "nj/py/zvz"]
+	path = nj/py/zvz
+	url = .
 [submodule "nj/qi/ewp"]
 	path = nj/qi/ewp
 	url = .
