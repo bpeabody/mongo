@@ -21025,6 +21025,9 @@
 [submodule "km/dy/yie"]
 	path = km/dy/yie
 	url = .
+[submodule "km/eu/xrv"]
+	path = km/eu/xrv
+	url = .
 [submodule "km/fq/tsz"]
 	path = km/fq/tsz
 	url = .
