@@ -31318,6 +31318,9 @@
 [submodule "mc/dc/otc"]
 	path = mc/dc/otc
 	url = .
+[submodule "mc/ed/eip"]
+	path = mc/ed/eip
+	url = .
 [submodule "mc/gh/ecr"]
 	path = mc/gh/ecr
 	url = .
