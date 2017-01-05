@@ -39910,6 +39910,9 @@
 [submodule "od/sb/cqi"]
 	path = od/sb/cqi
 	url = .
+[submodule "od/ts/lkr"]
+	path = od/ts/lkr
+	url = .
 [submodule "od/ub/bdz"]
 	path = od/ub/bdz
 	url = .
