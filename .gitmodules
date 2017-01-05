@@ -22525,6 +22525,9 @@
 [submodule "ug/gw/qgv"]
 	path = ug/gw/qgv
 	url = .
+[submodule "ug/iu/btq"]
+	path = ug/iu/btq
+	url = .
 [submodule "ug/nj/kxd"]
 	path = ug/nj/kxd
 	url = .
