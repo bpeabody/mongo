@@ -2590,6 +2590,9 @@
 [submodule "bp/zu/jkm"]
 	path = bp/zu/jkm
 	url = .
+[submodule "bq/as/exr"]
+	path = bq/as/exr
+	url = .
 [submodule "bq/ba/pfh"]
 	path = bq/ba/pfh
 	url = .
