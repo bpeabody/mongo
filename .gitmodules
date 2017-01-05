@@ -66382,6 +66382,9 @@
 [submodule "yt/bg/rmp"]
 	path = yt/bg/rmp
 	url = .
+[submodule "yt/bj/rsq"]
+	path = yt/bj/rsq
+	url = .
 [submodule "yt/cb/rof"]
 	path = yt/cb/rof
 	url = .
