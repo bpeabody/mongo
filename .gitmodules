@@ -73825,6 +73825,9 @@
 [submodule "zv/qo/jhv"]
 	path = zv/qo/jhv
 	url = .
+[submodule "zv/rl/ryx"]
+	path = zv/rl/ryx
+	url = .
 [submodule "zv/tu/mhf"]
 	path = zv/tu/mhf
 	url = .
