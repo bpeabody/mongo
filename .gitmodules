@@ -6496,6 +6496,9 @@
 [submodule "fx/aw/oab"]
 	path = fx/aw/oab
 	url = .
+[submodule "fx/bf/jqm"]
+	path = fx/bf/jqm
+	url = .
 [submodule "fx/dm/ntt"]
 	path = fx/dm/ntt
 	url = .
