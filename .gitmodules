@@ -190,6 +190,9 @@
 [submodule "ab/yv/ioj"]
 	path = ab/yv/ioj
 	url = .
+[submodule "ab/zb/uuu"]
+	path = ab/zb/uuu
+	url = .
 [submodule "ac/ac/zba"]
 	path = ac/ac/zba
 	url = .
