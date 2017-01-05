@@ -50080,6 +50080,9 @@
 [submodule "yv/do/ctk"]
 	path = yv/do/ctk
 	url = .
+[submodule "yv/et/ezr"]
+	path = yv/et/ezr
+	url = .
 [submodule "yv/ey/mpy"]
 	path = yv/ey/mpy
 	url = .
