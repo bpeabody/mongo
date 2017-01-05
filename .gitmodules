@@ -2932,6 +2932,9 @@
 [submodule "nc/fj/qtj"]
 	path = nc/fj/qtj
 	url = .
+[submodule "nc/jo/eai"]
+	path = nc/jo/eai
+	url = .
 [submodule "nc/od/vzu"]
 	path = nc/od/vzu
 	url = .
