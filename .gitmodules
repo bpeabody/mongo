@@ -1180,6 +1180,9 @@
 [submodule "pf/ob/psu"]
 	path = pf/ob/psu
 	url = .
+[submodule "pf/uf/wtx"]
+	path = pf/uf/wtx
+	url = .
 [submodule "pg/yj/uof"]
 	path = pg/yj/uof
 	url = .
