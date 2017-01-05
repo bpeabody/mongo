@@ -16759,6 +16759,9 @@
 [submodule "yy/hi/oib"]
 	path = yy/hi/oib
 	url = .
+[submodule "yy/ja/krh"]
+	path = yy/ja/krh
+	url = .
 [submodule "yy/kj/zws"]
 	path = yy/kj/zws
 	url = .
