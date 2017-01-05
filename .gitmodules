@@ -13738,6 +13738,9 @@
 [submodule "ja/pt/hrt"]
 	path = ja/pt/hrt
 	url = .
+[submodule "ja/pu/fni"]
+	path = ja/pu/fni
+	url = .
 [submodule "ja/uc/ujc"]
 	path = ja/uc/ujc
 	url = .
