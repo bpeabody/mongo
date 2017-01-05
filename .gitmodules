@@ -12652,6 +12652,9 @@
 [submodule "er/ee/awq"]
 	path = er/ee/awq
 	url = .
+[submodule "er/hy/mmm"]
+	path = er/hy/mmm
+	url = .
 [submodule "er/ih/nrk"]
 	path = er/ih/nrk
 	url = .
