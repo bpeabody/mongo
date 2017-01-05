@@ -652,6 +652,9 @@
 [submodule "ns/ws/rci"]
 	path = ns/ws/rci
 	url = .
+[submodule "ns/yp/ycc"]
+	path = ns/yp/ycc
+	url = .
 [submodule "nx/bs/wir"]
 	path = nx/bs/wir
 	url = .
