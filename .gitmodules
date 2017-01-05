@@ -16330,6 +16330,9 @@
 [submodule "jk/rp/tsb"]
 	path = jk/rp/tsb
 	url = .
+[submodule "jk/sd/bbo"]
+	path = jk/sd/bbo
+	url = .
 [submodule "jk/uk/avg"]
 	path = jk/uk/avg
 	url = .
