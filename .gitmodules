@@ -30673,6 +30673,9 @@
 [submodule "xg/bm/svd"]
 	path = xg/bm/svd
 	url = .
+[submodule "xg/cr/fyu"]
+	path = xg/cr/fyu
+	url = .
 [submodule "xg/dh/ypq"]
 	path = xg/dh/ypq
 	url = .
