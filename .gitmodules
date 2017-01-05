@@ -30202,6 +30202,9 @@
 [submodule "vv/fw/zqw"]
 	path = vv/fw/zqw
 	url = .
+[submodule "vv/qe/xai"]
+	path = vv/qe/xai
+	url = .
 [submodule "vv/uy/ztr"]
 	path = vv/uy/ztr
 	url = .
