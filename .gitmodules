@@ -27085,6 +27085,9 @@
 [submodule "lo/lw/hah"]
 	path = lo/lw/hah
 	url = .
+[submodule "lo/lw/wgg"]
+	path = lo/lw/wgg
+	url = .
 [submodule "lo/ne/lde"]
 	path = lo/ne/lde
 	url = .
