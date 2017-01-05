@@ -21646,6 +21646,9 @@
 [submodule "xh/do/tai"]
 	path = xh/do/tai
 	url = .
+[submodule "xh/ec/eiq"]
+	path = xh/ec/eiq
+	url = .
 [submodule "xh/er/wci"]
 	path = xh/er/wci
 	url = .
