@@ -15490,6 +15490,9 @@
 [submodule "gy/cu/yeq"]
 	path = gy/cu/yeq
 	url = .
+[submodule "gy/dk/cnm"]
+	path = gy/dk/cnm
+	url = .
 [submodule "gy/dm/bqh"]
 	path = gy/dm/bqh
 	url = .
