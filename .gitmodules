@@ -24562,6 +24562,9 @@
 [submodule "rl/ud/zls"]
 	path = rl/ud/zls
 	url = .
+[submodule "rl/wk/ked"]
+	path = rl/wk/ked
+	url = .
 [submodule "rl/yr/qby"]
 	path = rl/yr/qby
 	url = .
