@@ -48316,6 +48316,9 @@
 [submodule "vc/yd/bjr"]
 	path = vc/yd/bjr
 	url = .
+[submodule "vc/yd/mfy"]
+	path = vc/yd/mfy
+	url = .
 [submodule "vc/ze/rhp"]
 	path = vc/ze/rhp
 	url = .
