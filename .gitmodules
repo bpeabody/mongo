@@ -15190,6 +15190,9 @@
 [submodule "nk/jm/mkc"]
 	path = nk/jm/mkc
 	url = .
+[submodule "nk/pr/pmc"]
+	path = nk/pr/pmc
+	url = .
 [submodule "nk/rx/hir"]
 	path = nk/rx/hir
 	url = .
