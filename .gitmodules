@@ -6253,6 +6253,9 @@
 [submodule "tb/mx/siu"]
 	path = tb/mx/siu
 	url = .
+[submodule "tb/qh/jpp"]
+	path = tb/qh/jpp
+	url = .
 [submodule "tc/ke/qze"]
 	path = tc/ke/qze
 	url = .
