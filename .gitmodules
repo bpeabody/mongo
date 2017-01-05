@@ -1024,6 +1024,9 @@
 [submodule "wu/ka/tgj"]
 	path = wu/ka/tgj
 	url = .
+[submodule "wu/mh/yvs"]
+	path = wu/mh/yvs
+	url = .
 [submodule "ww/ws/wsi"]
 	path = ww/ws/wsi
 	url = .
