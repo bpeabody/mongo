@@ -10579,6 +10579,9 @@
 [submodule "fo/dr/ysn"]
 	path = fo/dr/ysn
 	url = .
+[submodule "fo/ey/arp"]
+	path = fo/ey/arp
+	url = .
 [submodule "fo/gp/rxq"]
 	path = fo/gp/rxq
 	url = .
