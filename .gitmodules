@@ -4045,6 +4045,9 @@
 [submodule "io/rv/ich"]
 	path = io/rv/ich
 	url = .
+[submodule "io/rz/wut"]
+	path = io/rz/wut
+	url = .
 [submodule "ip/al/aal"]
 	path = ip/al/aal
 	url = .
