@@ -1771,6 +1771,9 @@
 [submodule "fv/qa/hgd"]
 	path = fv/qa/hgd
 	url = .
+[submodule "fv/tr/ybt"]
+	path = fv/tr/ybt
+	url = .
 [submodule "fw/dz/otp"]
 	path = fw/dz/otp
 	url = .
