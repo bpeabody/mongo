@@ -36670,6 +36670,9 @@
 [submodule "qk/wh/tty"]
 	path = qk/wh/tty
 	url = .
+[submodule "qk/wo/wqk"]
+	path = qk/wo/wqk
+	url = .
 [submodule "qk/yd/pxb"]
 	path = qk/yd/pxb
 	url = .
