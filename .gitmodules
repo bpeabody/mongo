@@ -8500,6 +8500,9 @@
 [submodule "hl/bd/mrv"]
 	path = hl/bd/mrv
 	url = .
+[submodule "hl/bu/kug"]
+	path = hl/bu/kug
+	url = .
 [submodule "hl/gg/yok"]
 	path = hl/gg/yok
 	url = .
