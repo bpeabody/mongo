@@ -39520,6 +39520,9 @@
 [submodule "ot/km/aqn"]
 	path = ot/km/aqn
 	url = .
+[submodule "ot/kq/tbl"]
+	path = ot/kq/tbl
+	url = .
 [submodule "ot/ls/ebl"]
 	path = ot/ls/ebl
 	url = .
