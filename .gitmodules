@@ -5230,6 +5230,9 @@
 [submodule "ci/ew/kmk"]
 	path = ci/ew/kmk
 	url = .
+[submodule "ci/fx/cwk"]
+	path = ci/fx/cwk
+	url = .
 [submodule "ci/hj/rvp"]
 	path = ci/hj/rvp
 	url = .
