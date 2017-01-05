@@ -9151,6 +9151,9 @@
 [submodule "fi/nm/pnt"]
 	path = fi/nm/pnt
 	url = .
+[submodule "fi/np/wof"]
+	path = fi/np/wof
+	url = .
 [submodule "fi/on/vqz"]
 	path = fi/on/vqz
 	url = .
