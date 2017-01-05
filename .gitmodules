@@ -9733,6 +9733,9 @@
 [submodule "xk/hk/jwq"]
 	path = xk/hk/jwq
 	url = .
+[submodule "xk/ix/lsf"]
+	path = xk/ix/lsf
+	url = .
 [submodule "xk/lc/pux"]
 	path = xk/lc/pux
 	url = .
