@@ -21964,6 +21964,9 @@
 [submodule "qe/xp/wit"]
 	path = qe/xp/wit
 	url = .
+[submodule "qe/xr/jtg"]
+	path = qe/xr/jtg
+	url = .
 [submodule "qe/xr/qey"]
 	path = qe/xr/qey
 	url = .
