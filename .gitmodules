@@ -54157,6 +54157,9 @@
 [submodule "ry/fu/oed"]
 	path = ry/fu/oed
 	url = .
+[submodule "ry/fw/jvq"]
+	path = ry/fw/jvq
+	url = .
 [submodule "ry/gm/kun"]
 	path = ry/gm/kun
 	url = .
