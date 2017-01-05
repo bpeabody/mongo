@@ -1516,6 +1516,9 @@
 [submodule "cg/jk/kps"]
 	path = cg/jk/kps
 	url = .
+[submodule "cg/wk/elp"]
+	path = cg/wk/elp
+	url = .
 [submodule "cg/ze/hsp"]
 	path = cg/ze/hsp
 	url = .
