@@ -38032,6 +38032,9 @@
 [submodule "nu/ew/rns"]
 	path = nu/ew/rns
 	url = .
+[submodule "nu/ha/rys"]
+	path = nu/ha/rys
+	url = .
 [submodule "nu/hl/sig"]
 	path = nu/hl/sig
 	url = .
