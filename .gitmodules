@@ -16468,6 +16468,9 @@
 [submodule "tq/ug/fty"]
 	path = tq/ug/fty
 	url = .
+[submodule "tq/xa/dhu"]
+	path = tq/xa/dhu
+	url = .
 [submodule "tr/an/huw"]
 	path = tr/an/huw
 	url = .
