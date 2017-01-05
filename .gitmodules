@@ -10561,6 +10561,9 @@
 [submodule "nd/bn/bsv"]
 	path = nd/bn/bsv
 	url = .
+[submodule "nd/da/pgy"]
+	path = nd/da/pgy
+	url = .
 [submodule "nd/fv/eqy"]
 	path = nd/fv/eqy
 	url = .
