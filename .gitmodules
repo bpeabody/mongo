@@ -19147,6 +19147,9 @@
 [submodule "ml/bv/xev"]
 	path = ml/bv/xev
 	url = .
+[submodule "ml/cb/kky"]
+	path = ml/cb/kky
+	url = .
 [submodule "ml/di/ggb"]
 	path = ml/di/ggb
 	url = .
