@@ -38086,6 +38086,9 @@
 [submodule "sa/gk/pnn"]
 	path = sa/gk/pnn
 	url = .
+[submodule "sa/gn/rhc"]
+	path = sa/gn/rhc
+	url = .
 [submodule "sa/hd/qbb"]
 	path = sa/hd/qbb
 	url = .
