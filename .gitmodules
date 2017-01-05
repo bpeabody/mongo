@@ -17326,6 +17326,9 @@
 [submodule "ye/ib/wmo"]
 	path = ye/ib/wmo
 	url = .
+[submodule "ye/jt/dex"]
+	path = ye/jt/dex
+	url = .
 [submodule "ye/pd/woh"]
 	path = ye/pd/woh
 	url = .
