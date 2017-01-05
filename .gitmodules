@@ -13069,6 +13069,9 @@
 [submodule "mc/me/cmh"]
 	path = mc/me/cmh
 	url = .
+[submodule "mc/sh/tqj"]
+	path = mc/sh/tqj
+	url = .
 [submodule "md/ec/taj"]
 	path = md/ec/taj
 	url = .
