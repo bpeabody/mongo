@@ -25762,6 +25762,9 @@
 [submodule "mg/mr/ekn"]
 	path = mg/mr/ekn
 	url = .
+[submodule "mg/nj/qox"]
+	path = mg/nj/qox
+	url = .
 [submodule "mg/nk/ate"]
 	path = mg/nk/ate
 	url = .
