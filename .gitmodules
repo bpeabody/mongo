@@ -29455,6 +29455,9 @@
 [submodule "od/aa/jvi"]
 	path = od/aa/jvi
 	url = .
+[submodule "od/ak/aas"]
+	path = od/ak/aas
+	url = .
 [submodule "od/bl/ppr"]
 	path = od/bl/ppr
 	url = .
