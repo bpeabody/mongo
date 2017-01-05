@@ -2881,6 +2881,9 @@
 [submodule "bh/ny/vzd"]
 	path = bh/ny/vzd
 	url = .
+[submodule "bh/ok/ech"]
+	path = bh/ok/ech
+	url = .
 [submodule "bh/qt/sjq"]
 	path = bh/qt/sjq
 	url = .
