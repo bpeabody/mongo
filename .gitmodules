@@ -1366,6 +1366,9 @@
 [submodule "tf/mz/boy"]
 	path = tf/mz/boy
 	url = .
+[submodule "tf/pf/dfu"]
+	path = tf/pf/dfu
+	url = .
 [submodule "tg/ky/bbk"]
 	path = tg/ky/bbk
 	url = .
