@@ -5230,6 +5230,9 @@
 [submodule "ck/uz/ibn"]
 	path = ck/uz/ibn
 	url = .
+[submodule "ck/va/tcy"]
+	path = ck/va/tcy
+	url = .
 [submodule "ck/vn/dpb"]
 	path = ck/vn/dpb
 	url = .
