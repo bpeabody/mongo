@@ -3097,6 +3097,9 @@
 [submodule "jg/kp/ikh"]
 	path = jg/kp/ikh
 	url = .
+[submodule "jg/ku/skz"]
+	path = jg/ku/skz
+	url = .
 [submodule "jg/li/vrd"]
 	path = jg/li/vrd
 	url = .
