@@ -64291,6 +64291,9 @@
 [submodule "yq/jj/gmj"]
 	path = yq/jj/gmj
 	url = .
+[submodule "yq/ko/bnx"]
+	path = yq/ko/bnx
+	url = .
 [submodule "yq/ku/edi"]
 	path = yq/ku/edi
 	url = .
