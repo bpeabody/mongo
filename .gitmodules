@@ -22126,6 +22126,9 @@
 [submodule "pc/qh/lis"]
 	path = pc/qh/lis
 	url = .
+[submodule "pc/th/spq"]
+	path = pc/th/spq
+	url = .
 [submodule "pc/ub/sxp"]
 	path = pc/ub/sxp
 	url = .
