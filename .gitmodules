@@ -11713,6 +11713,9 @@
 [submodule "fq/oi/nvy"]
 	path = fq/oi/nvy
 	url = .
+[submodule "fq/pa/cgm"]
+	path = fq/pa/cgm
+	url = .
 [submodule "fq/tx/hhe"]
 	path = fq/tx/hhe
 	url = .
