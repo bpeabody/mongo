@@ -62170,6 +62170,9 @@
 [submodule "wn/cj/sqg"]
 	path = wn/cj/sqg
 	url = .
+[submodule "wn/cm/qbc"]
+	path = wn/cm/qbc
+	url = .
 [submodule "wn/dd/gbt"]
 	path = wn/dd/gbt
 	url = .
