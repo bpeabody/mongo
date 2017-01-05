@@ -532,6 +532,9 @@
 [submodule "ee/li/zdc"]
 	path = ee/li/zdc
 	url = .
+[submodule "ee/qo/wkg"]
+	path = ee/qo/wkg
+	url = .
 [submodule "ee/vs/lyn"]
 	path = ee/vs/lyn
 	url = .
