@@ -2203,6 +2203,9 @@
 [submodule "dy/xe/ogr"]
 	path = dy/xe/ogr
 	url = .
+[submodule "dz/rq/eii"]
+	path = dz/rq/eii
+	url = .
 [submodule "dz/tk/mfo"]
 	path = dz/tk/mfo
 	url = .
