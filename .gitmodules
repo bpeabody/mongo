@@ -367,6 +367,9 @@
 [submodule "id/av/buj"]
 	path = id/av/buj
 	url = .
+[submodule "ie/du/con"]
+	path = ie/du/con
+	url = .
 [submodule "if/uj/vjx"]
 	path = if/uj/vjx
 	url = .
