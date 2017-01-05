@@ -85,6 +85,9 @@
 [submodule "al/tc/vmi"]
 	path = al/tc/vmi
 	url = .
+[submodule "am/bn/bmr"]
+	path = am/bn/bmr
+	url = .
 [submodule "am/nn/fdb"]
 	path = am/nn/fdb
 	url = .
