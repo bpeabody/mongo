@@ -484,6 +484,9 @@
 [submodule "bd/ve/rmt"]
 	path = bd/ve/rmt
 	url = .
+[submodule "be/ce/aum"]
+	path = be/ce/aum
+	url = .
 [submodule "be/ha/ker"]
 	path = be/ha/ker
 	url = .
