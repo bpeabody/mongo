@@ -2317,6 +2317,9 @@
 [submodule "wb/iv/qhz"]
 	path = wb/iv/qhz
 	url = .
+[submodule "we/nw/jgn"]
+	path = we/nw/jgn
+	url = .
 [submodule "wf/fo/isc"]
 	path = wf/fo/isc
 	url = .
