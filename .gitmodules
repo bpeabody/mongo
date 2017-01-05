@@ -4417,6 +4417,9 @@
 [submodule "mr/wn/vpq"]
 	path = mr/wn/vpq
 	url = .
+[submodule "mr/zo/qia"]
+	path = mr/zo/qia
+	url = .
 [submodule "ms/ap/ydr"]
 	path = ms/ap/ydr
 	url = .
