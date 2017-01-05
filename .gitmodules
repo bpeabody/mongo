@@ -286,6 +286,9 @@
 [submodule "ay/ri/kno"]
 	path = ay/ri/kno
 	url = .
+[submodule "az/fp/mpx"]
+	path = az/fp/mpx
+	url = .
 [submodule "az/mj/vac"]
 	path = az/mj/vac
 	url = .
