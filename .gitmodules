@@ -8470,6 +8470,9 @@
 [submodule "xw/jn/ivq"]
 	path = xw/jn/ivq
 	url = .
+[submodule "xw/lm/msp"]
+	path = xw/lm/msp
+	url = .
 [submodule "xw/md/xwf"]
 	path = xw/md/xwf
 	url = .
