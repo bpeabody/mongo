@@ -14347,6 +14347,9 @@
 [submodule "vc/bc/aub"]
 	path = vc/bc/aub
 	url = .
+[submodule "vc/cf/knw"]
+	path = vc/cf/knw
+	url = .
 [submodule "vc/hy/dod"]
 	path = vc/hy/dod
 	url = .
