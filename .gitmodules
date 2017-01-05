@@ -1030,6 +1030,9 @@
 [submodule "ca/da/jhl"]
 	path = ca/da/jhl
 	url = .
+[submodule "ca/js/fsp"]
+	path = ca/js/fsp
+	url = .
 [submodule "ca/mm/kew"]
 	path = ca/mm/kew
 	url = .
