@@ -9913,6 +9913,9 @@
 [submodule "hw/pb/oev"]
 	path = hw/pb/oev
 	url = .
+[submodule "hw/pm/utn"]
+	path = hw/pm/utn
+	url = .
 [submodule "hw/pq/rbp"]
 	path = hw/pq/rbp
 	url = .
