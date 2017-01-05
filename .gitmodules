@@ -26800,6 +26800,9 @@
 [submodule "mu/it/tgc"]
 	path = mu/it/tgc
 	url = .
+[submodule "mu/js/are"]
+	path = mu/js/are
+	url = .
 [submodule "mu/kd/mwl"]
 	path = mu/kd/mwl
 	url = .
