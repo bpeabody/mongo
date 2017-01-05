@@ -37180,6 +37180,9 @@
 [submodule "ni/eh/igv"]
 	path = ni/eh/igv
 	url = .
+[submodule "ni/fd/kfp"]
+	path = ni/fd/kfp
+	url = .
 [submodule "ni/fe/bkb"]
 	path = ni/fe/bkb
 	url = .
