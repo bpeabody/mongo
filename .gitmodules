@@ -15886,6 +15886,9 @@
 [submodule "ya/xy/ofa"]
 	path = ya/xy/ofa
 	url = .
+[submodule "yb/ct/mff"]
+	path = yb/ct/mff
+	url = .
 [submodule "yb/ea/tjd"]
 	path = yb/ea/tjd
 	url = .
