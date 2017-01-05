@@ -7840,6 +7840,9 @@
 [submodule "gj/da/fqh"]
 	path = gj/da/fqh
 	url = .
+[submodule "gj/fh/rsj"]
+	path = gj/fh/rsj
+	url = .
 [submodule "gj/fx/xgw"]
 	path = gj/fx/xgw
 	url = .
