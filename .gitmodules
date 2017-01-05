@@ -34816,6 +34816,9 @@
 [submodule "os/kd/sxa"]
 	path = os/kd/sxa
 	url = .
+[submodule "os/kh/hdc"]
+	path = os/kh/hdc
+	url = .
 [submodule "os/kw/mni"]
 	path = os/kw/mni
 	url = .
