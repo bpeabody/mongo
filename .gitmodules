@@ -17257,6 +17257,9 @@
 [submodule "gv/aj/bem"]
 	path = gv/aj/bem
 	url = .
+[submodule "gv/av/ade"]
+	path = gv/av/ade
+	url = .
 [submodule "gv/bg/ztf"]
 	path = gv/bg/ztf
 	url = .
