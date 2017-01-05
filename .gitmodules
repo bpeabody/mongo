@@ -12406,6 +12406,9 @@
 [submodule "nn/hp/zjv"]
 	path = nn/hp/zjv
 	url = .
+[submodule "nn/ic/grg"]
+	path = nn/ic/grg
+	url = .
 [submodule "nn/mf/byz"]
 	path = nn/mf/byz
 	url = .
