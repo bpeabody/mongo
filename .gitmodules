@@ -61615,6 +61615,9 @@
 [submodule "wc/di/dpw"]
 	path = wc/di/dpw
 	url = .
+[submodule "wc/dq/evx"]
+	path = wc/dq/evx
+	url = .
 [submodule "wc/fm/gyp"]
 	path = wc/fm/gyp
 	url = .
