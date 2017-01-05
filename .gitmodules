@@ -2866,6 +2866,9 @@
 [submodule "be/hr/sid"]
 	path = be/hr/sid
 	url = .
+[submodule "be/hz/rqc"]
+	path = be/hz/rqc
+	url = .
 [submodule "be/iv/lpv"]
 	path = be/iv/lpv
 	url = .
