@@ -12310,6 +12310,9 @@
 [submodule "up/fw/xud"]
 	path = up/fw/xud
 	url = .
+[submodule "up/ml/kdl"]
+	path = up/ml/kdl
+	url = .
 [submodule "up/mw/jeg"]
 	path = up/mw/jeg
 	url = .
