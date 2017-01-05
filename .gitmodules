@@ -4030,6 +4030,9 @@
 [submodule "cm/lg/yzv"]
 	path = cm/lg/yzv
 	url = .
+[submodule "cm/og/afj"]
+	path = cm/og/afj
+	url = .
 [submodule "cm/on/yes"]
 	path = cm/on/yes
 	url = .
