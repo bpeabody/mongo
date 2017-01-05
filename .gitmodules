@@ -18358,6 +18358,9 @@
 [submodule "li/yh/fhm"]
 	path = li/yh/fhm
 	url = .
+[submodule "li/yj/mhd"]
+	path = li/yj/mhd
+	url = .
 [submodule "lj/au/pcv"]
 	path = lj/au/pcv
 	url = .
