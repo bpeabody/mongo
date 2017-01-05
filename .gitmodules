@@ -6361,6 +6361,9 @@
 [submodule "ec/vp/kwm"]
 	path = ec/vp/kwm
 	url = .
+[submodule "ec/yc/mlm"]
+	path = ec/yc/mlm
+	url = .
 [submodule "ec/zb/kln"]
 	path = ec/zb/kln
 	url = .
