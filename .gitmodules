@@ -10597,6 +10597,9 @@
 [submodule "ds/ma/jzx"]
 	path = ds/ma/jzx
 	url = .
+[submodule "ds/mf/she"]
+	path = ds/mf/she
+	url = .
 [submodule "ds/mg/dsw"]
 	path = ds/mg/dsw
 	url = .
