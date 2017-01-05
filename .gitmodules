@@ -6070,6 +6070,9 @@
 [submodule "cp/oz/dzr"]
 	path = cp/oz/dzr
 	url = .
+[submodule "cp/pa/bnj"]
+	path = cp/pa/bnj
+	url = .
 [submodule "cp/se/xsv"]
 	path = cp/se/xsv
 	url = .
