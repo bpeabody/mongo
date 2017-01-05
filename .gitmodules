@@ -6874,6 +6874,9 @@
 [submodule "el/bu/qqs"]
 	path = el/bu/qqs
 	url = .
+[submodule "el/de/ykd"]
+	path = el/de/ykd
+	url = .
 [submodule "el/eo/iyg"]
 	path = el/eo/iyg
 	url = .
