@@ -4690,6 +4690,9 @@
 [submodule "dp/jl/akq"]
 	path = dp/jl/akq
 	url = .
+[submodule "dp/lr/str"]
+	path = dp/lr/str
+	url = .
 [submodule "dp/mx/msi"]
 	path = dp/mx/msi
 	url = .
