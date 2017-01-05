@@ -21406,6 +21406,9 @@
 [submodule "qs/in/sgf"]
 	path = qs/in/sgf
 	url = .
+[submodule "qs/kd/phi"]
+	path = qs/kd/phi
+	url = .
 [submodule "qs/lh/oyc"]
 	path = qs/lh/oyc
 	url = .
