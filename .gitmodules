@@ -18835,6 +18835,9 @@
 [submodule "ja/ba/smw"]
 	path = ja/ba/smw
 	url = .
+[submodule "ja/bk/nvd"]
+	path = ja/bk/nvd
+	url = .
 [submodule "ja/bn/drn"]
 	path = ja/bn/drn
 	url = .
