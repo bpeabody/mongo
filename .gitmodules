@@ -15403,6 +15403,9 @@
 [submodule "mb/va/gee"]
 	path = mb/va/gee
 	url = .
+[submodule "mb/yg/skn"]
+	path = mb/yg/skn
+	url = .
 [submodule "mc/dc/otc"]
 	path = mc/dc/otc
 	url = .
