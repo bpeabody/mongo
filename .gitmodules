@@ -5749,6 +5749,9 @@
 [submodule "en/ee/usd"]
 	path = en/ee/usd
 	url = .
+[submodule "en/ev/hgl"]
+	path = en/ev/hgl
+	url = .
 [submodule "en/gj/nqp"]
 	path = en/gj/nqp
 	url = .
