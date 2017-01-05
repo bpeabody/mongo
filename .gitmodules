@@ -11146,6 +11146,9 @@
 [submodule "vr/ec/hol"]
 	path = vr/ec/hol
 	url = .
+[submodule "vr/ec/hue"]
+	path = vr/ec/hue
+	url = .
 [submodule "vr/fy/dcm"]
 	path = vr/fy/dcm
 	url = .
