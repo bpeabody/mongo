@@ -23362,6 +23362,9 @@
 [submodule "xb/qy/ssd"]
 	path = xb/qy/ssd
 	url = .
+[submodule "xb/sl/kfs"]
+	path = xb/sl/kfs
+	url = .
 [submodule "xb/te/vre"]
 	path = xb/te/vre
 	url = .
