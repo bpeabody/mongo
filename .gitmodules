@@ -20257,6 +20257,9 @@
 [submodule "ye/pj/mqu"]
 	path = ye/pj/mqu
 	url = .
+[submodule "ye/pk/rji"]
+	path = ye/pk/rji
+	url = .
 [submodule "ye/wb/cob"]
 	path = ye/wb/cob
 	url = .
