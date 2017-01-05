@@ -2266,6 +2266,9 @@
 [submodule "ba/ks/jci"]
 	path = ba/ks/jci
 	url = .
+[submodule "ba/mi/whn"]
+	path = ba/mi/whn
+	url = .
 [submodule "ba/ng/fry"]
 	path = ba/ng/fry
 	url = .
