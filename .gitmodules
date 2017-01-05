@@ -14440,6 +14440,9 @@
 [submodule "kd/po/via"]
 	path = kd/po/via
 	url = .
+[submodule "kd/we/tcp"]
+	path = kd/we/tcp
+	url = .
 [submodule "kd/yu/ped"]
 	path = kd/yu/ped
 	url = .
