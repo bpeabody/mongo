@@ -9589,6 +9589,9 @@
 [submodule "fh/ow/inc"]
 	path = fh/ow/inc
 	url = .
+[submodule "fh/rb/feg"]
+	path = fh/rb/feg
+	url = .
 [submodule "fh/tu/hiw"]
 	path = fh/tu/hiw
 	url = .
