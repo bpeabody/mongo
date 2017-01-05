@@ -67393,6 +67393,9 @@
 [submodule "xa/bp/qwu"]
 	path = xa/bp/qwu
 	url = .
+[submodule "xa/bx/syg"]
+	path = xa/bx/syg
+	url = .
 [submodule "xa/cu/idg"]
 	path = xa/cu/idg
 	url = .
