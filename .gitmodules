@@ -2695,6 +2695,9 @@
 [submodule "wb/iv/qhz"]
 	path = wb/iv/qhz
 	url = .
+[submodule "wc/vt/dcr"]
+	path = wc/vt/dcr
+	url = .
 [submodule "wd/xy/flg"]
 	path = wd/xy/flg
 	url = .
