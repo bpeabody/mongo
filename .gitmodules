@@ -3016,6 +3016,9 @@
 [submodule "cb/fe/spf"]
 	path = cb/fe/spf
 	url = .
+[submodule "cb/ho/ggm"]
+	path = cb/ho/ggm
+	url = .
 [submodule "cb/hw/rqy"]
 	path = cb/hw/rqy
 	url = .
