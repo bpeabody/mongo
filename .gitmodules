@@ -10930,6 +10930,9 @@
 [submodule "qu/ef/ucw"]
 	path = qu/ef/ucw
 	url = .
+[submodule "qu/fc/mjg"]
+	path = qu/fc/mjg
+	url = .
 [submodule "qu/iy/fke"]
 	path = qu/iy/fke
 	url = .
