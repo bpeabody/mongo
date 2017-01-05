@@ -18103,6 +18103,9 @@
 [submodule "mu/ql/kzw"]
 	path = mu/ql/kzw
 	url = .
+[submodule "mu/sx/mez"]
+	path = mu/sx/mez
+	url = .
 [submodule "mu/ux/vqd"]
 	path = mu/ux/vqd
 	url = .
