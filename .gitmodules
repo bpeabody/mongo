@@ -6751,6 +6751,9 @@
 [submodule "dw/as/hvn"]
 	path = dw/as/hvn
 	url = .
+[submodule "dw/bq/pow"]
+	path = dw/bq/pow
+	url = .
 [submodule "dw/cc/wfu"]
 	path = dw/cc/wfu
 	url = .
