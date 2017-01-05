@@ -36172,6 +36172,9 @@
 [submodule "mg/zo/ncr"]
 	path = mg/zo/ncr
 	url = .
+[submodule "mh/aa/uzt"]
+	path = mh/aa/uzt
+	url = .
 [submodule "mh/af/rkd"]
 	path = mh/af/rkd
 	url = .
