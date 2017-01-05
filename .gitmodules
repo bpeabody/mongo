@@ -20068,6 +20068,9 @@
 [submodule "lz/dz/msa"]
 	path = lz/dz/msa
 	url = .
+[submodule "lz/dz/smr"]
+	path = lz/dz/smr
+	url = .
 [submodule "lz/ee/mrh"]
 	path = lz/ee/mrh
 	url = .
