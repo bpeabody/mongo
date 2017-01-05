@@ -5962,6 +5962,9 @@
 [submodule "qw/kp/jpp"]
 	path = qw/kp/jpp
 	url = .
+[submodule "qw/mw/qsc"]
+	path = qw/mw/qsc
+	url = .
 [submodule "qx/cf/vga"]
 	path = qx/cf/vga
 	url = .
