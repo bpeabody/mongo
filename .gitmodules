@@ -5869,6 +5869,9 @@
 [submodule "uy/tt/mhr"]
 	path = uy/tt/mhr
 	url = .
+[submodule "uz/dd/vyt"]
+	path = uz/dd/vyt
+	url = .
 [submodule "uz/hx/uec"]
 	path = uz/hx/uec
 	url = .
