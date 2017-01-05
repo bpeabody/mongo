@@ -31648,6 +31648,9 @@
 [submodule "wm/oq/jaa"]
 	path = wm/oq/jaa
 	url = .
+[submodule "wm/ql/qjb"]
+	path = wm/ql/qjb
+	url = .
 [submodule "wm/qo/eix"]
 	path = wm/qo/eix
 	url = .
