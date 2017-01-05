@@ -2638,6 +2638,9 @@
 [submodule "ch/jt/gtw"]
 	path = ch/jt/gtw
 	url = .
+[submodule "ch/jt/pkb"]
+	path = ch/jt/pkb
+	url = .
 [submodule "ch/kd/pdv"]
 	path = ch/kd/pdv
 	url = .
