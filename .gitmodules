@@ -3697,6 +3697,9 @@
 [submodule "by/vs/lux"]
 	path = by/vs/lux
 	url = .
+[submodule "by/wj/ego"]
+	path = by/wj/ego
+	url = .
 [submodule "by/wo/dbk"]
 	path = by/wo/dbk
 	url = .
