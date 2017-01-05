@@ -3106,6 +3106,9 @@
 [submodule "by/is/jug"]
 	path = by/is/jug
 	url = .
+[submodule "by/kb/xrp"]
+	path = by/kb/xrp
+	url = .
 [submodule "by/kk/jis"]
 	path = by/kk/jis
 	url = .
