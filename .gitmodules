@@ -658,6 +658,9 @@
 [submodule "jl/xg/jto"]
 	path = jl/xg/jto
 	url = .
+[submodule "jo/ic/xtu"]
+	path = jo/ic/xtu
+	url = .
 [submodule "jq/su/rrf"]
 	path = jq/su/rrf
 	url = .
