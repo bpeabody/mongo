@@ -42055,6 +42055,9 @@
 [submodule "sz/jh/uim"]
 	path = sz/jh/uim
 	url = .
+[submodule "sz/jp/cys"]
+	path = sz/jp/cys
+	url = .
 [submodule "sz/jx/kdu"]
 	path = sz/jx/kdu
 	url = .
