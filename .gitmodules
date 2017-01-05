@@ -27499,6 +27499,9 @@
 [submodule "vm/sq/tbq"]
 	path = vm/sq/tbq
 	url = .
+[submodule "vm/uh/kki"]
+	path = vm/uh/kki
+	url = .
 [submodule "vm/xc/cpf"]
 	path = vm/xc/cpf
 	url = .
