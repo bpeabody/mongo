@@ -5338,6 +5338,9 @@
 [submodule "eb/tq/ufr"]
 	path = eb/tq/ufr
 	url = .
+[submodule "eb/uk/qvm"]
+	path = eb/uk/qvm
+	url = .
 [submodule "eb/vf/juj"]
 	path = eb/vf/juj
 	url = .
