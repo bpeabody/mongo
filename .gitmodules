@@ -11941,6 +11941,9 @@
 [submodule "kx/wx/mdp"]
 	path = kx/wx/mdp
 	url = .
+[submodule "kx/xz/pui"]
+	path = kx/xz/pui
+	url = .
 [submodule "kx/yb/yzq"]
 	path = kx/yb/yzq
 	url = .
