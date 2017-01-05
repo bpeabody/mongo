@@ -718,6 +718,9 @@
 [submodule "ap/fh/mga"]
 	path = ap/fh/mga
 	url = .
+[submodule "ap/ga/syp"]
+	path = ap/ga/syp
+	url = .
 [submodule "ap/iu/mau"]
 	path = ap/iu/mau
 	url = .
