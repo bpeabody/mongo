@@ -10420,6 +10420,9 @@
 [submodule "dl/jr/yyr"]
 	path = dl/jr/yyr
 	url = .
+[submodule "dl/jt/vid"]
+	path = dl/jt/vid
+	url = .
 [submodule "dl/la/prs"]
 	path = dl/la/prs
 	url = .
