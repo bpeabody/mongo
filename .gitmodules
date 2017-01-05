@@ -5089,6 +5089,9 @@
 [submodule "mn/gu/mvl"]
 	path = mn/gu/mvl
 	url = .
+[submodule "mn/ua/pgv"]
+	path = mn/ua/pgv
+	url = .
 [submodule "mn/wy/yud"]
 	path = mn/wy/yud
 	url = .
