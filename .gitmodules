@@ -6496,6 +6496,9 @@
 [submodule "lm/fa/ptd"]
 	path = lm/fa/ptd
 	url = .
+[submodule "lm/fz/tyq"]
+	path = lm/fz/tyq
+	url = .
 [submodule "lm/ik/hqo"]
 	path = lm/ik/hqo
 	url = .
