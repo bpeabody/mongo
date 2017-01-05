@@ -58000,6 +58000,9 @@
 [submodule "wh/qs/obv"]
 	path = wh/qs/obv
 	url = .
+[submodule "wh/sp/kaz"]
+	path = wh/sp/kaz
+	url = .
 [submodule "wh/tk/euh"]
 	path = wh/tk/euh
 	url = .
