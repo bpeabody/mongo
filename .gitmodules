@@ -334,6 +334,9 @@
 [submodule "av/xx/ned"]
 	path = av/xx/ned
 	url = .
+[submodule "av/yp/zqn"]
+	path = av/yp/zqn
+	url = .
 [submodule "aw/ey/psz"]
 	path = aw/ey/psz
 	url = .
