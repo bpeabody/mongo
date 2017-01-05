@@ -4852,6 +4852,9 @@
 [submodule "qq/ui/kyz"]
 	path = qq/ui/kyz
 	url = .
+[submodule "qq/vz/lwy"]
+	path = qq/vz/lwy
+	url = .
 [submodule "qr/ke/mtu"]
 	path = qr/ke/mtu
 	url = .
