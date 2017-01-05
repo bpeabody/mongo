@@ -1051,6 +1051,9 @@
 [submodule "rm/ld/bnx"]
 	path = rm/ld/bnx
 	url = .
+[submodule "rm/pn/mtq"]
+	path = rm/pn/mtq
+	url = .
 [submodule "rm/xn/emh"]
 	path = rm/xn/emh
 	url = .
