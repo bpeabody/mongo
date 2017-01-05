@@ -6007,6 +6007,9 @@
 [submodule "fs/wc/aoi"]
 	path = fs/wc/aoi
 	url = .
+[submodule "fs/xc/xtq"]
+	path = fs/xc/xtq
+	url = .
 [submodule "fs/yz/zve"]
 	path = fs/yz/zve
 	url = .
