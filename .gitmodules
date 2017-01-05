@@ -1849,6 +1849,9 @@
 [submodule "bz/fb/wax"]
 	path = bz/fb/wax
 	url = .
+[submodule "bz/hf/afv"]
+	path = bz/hf/afv
+	url = .
 [submodule "bz/jf/mvk"]
 	path = bz/jf/mvk
 	url = .
