@@ -2974,6 +2974,9 @@
 [submodule "bf/et/lss"]
 	path = bf/et/lss
 	url = .
+[submodule "bf/ev/kyz"]
+	path = bf/ev/kyz
+	url = .
 [submodule "bf/ex/uzz"]
 	path = bf/ex/uzz
 	url = .
