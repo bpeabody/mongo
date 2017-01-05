@@ -25828,6 +25828,9 @@
 [submodule "sm/bd/ext"]
 	path = sm/bd/ext
 	url = .
+[submodule "sm/gr/bxe"]
+	path = sm/gr/bxe
+	url = .
 [submodule "sm/jt/jvh"]
 	path = sm/jt/jvh
 	url = .
