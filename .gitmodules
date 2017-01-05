@@ -5089,6 +5089,9 @@
 [submodule "cc/ks/odx"]
 	path = cc/ks/odx
 	url = .
+[submodule "cc/lq/wnz"]
+	path = cc/lq/wnz
+	url = .
 [submodule "cc/mf/tjy"]
 	path = cc/mf/tjy
 	url = .
