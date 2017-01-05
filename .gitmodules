@@ -547,6 +547,9 @@
 [submodule "ag/kj/dzr"]
 	path = ag/kj/dzr
 	url = .
+[submodule "ag/ld/alu"]
+	path = ag/ld/alu
+	url = .
 [submodule "ag/mm/qme"]
 	path = ag/mm/qme
 	url = .
