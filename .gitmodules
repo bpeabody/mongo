@@ -42943,6 +42943,9 @@
 [submodule "yh/hn/yav"]
 	path = yh/hn/yav
 	url = .
+[submodule "yh/ik/xni"]
+	path = yh/ik/xni
+	url = .
 [submodule "yh/jx/yyi"]
 	path = yh/jx/yyi
 	url = .
