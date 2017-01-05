@@ -6361,6 +6361,9 @@
 [submodule "wt/cw/eeb"]
 	path = wt/cw/eeb
 	url = .
+[submodule "wt/ls/xzi"]
+	path = wt/ls/xzi
+	url = .
 [submodule "wt/ma/sch"]
 	path = wt/ma/sch
 	url = .
