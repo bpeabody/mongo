@@ -1843,6 +1843,9 @@
 [submodule "oa/dv/yri"]
 	path = oa/dv/yri
 	url = .
+[submodule "ob/gs/sos"]
+	path = ob/gs/sos
+	url = .
 [submodule "ob/jb/efz"]
 	path = ob/jb/efz
 	url = .
