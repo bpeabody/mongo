@@ -3511,6 +3511,9 @@
 [submodule "by/xd/ebg"]
 	path = by/xd/ebg
 	url = .
+[submodule "by/xd/qfw"]
+	path = by/xd/qfw
+	url = .
 [submodule "by/yd/ywz"]
 	path = by/yd/ywz
 	url = .
