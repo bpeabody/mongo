@@ -5485,6 +5485,9 @@
 [submodule "hk/mi/vel"]
 	path = hk/mi/vel
 	url = .
+[submodule "hk/qq/tup"]
+	path = hk/qq/tup
+	url = .
 [submodule "hk/uc/xti"]
 	path = hk/uc/xti
 	url = .
