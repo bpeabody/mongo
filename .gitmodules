@@ -5311,6 +5311,9 @@
 [submodule "de/sj/xmf"]
 	path = de/sj/xmf
 	url = .
+[submodule "de/ve/nkt"]
+	path = de/ve/nkt
+	url = .
 [submodule "de/vq/fyo"]
 	path = de/vq/fyo
 	url = .
