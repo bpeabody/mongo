@@ -25588,6 +25588,9 @@
 [submodule "jj/bg/juv"]
 	path = jj/bg/juv
 	url = .
+[submodule "jj/de/ozc"]
+	path = jj/de/ozc
+	url = .
 [submodule "jj/dt/gsa"]
 	path = jj/dt/gsa
 	url = .
