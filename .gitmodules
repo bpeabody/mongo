@@ -41023,6 +41023,9 @@
 [submodule "nw/mb/kyl"]
 	path = nw/mb/kyl
 	url = .
+[submodule "nw/mc/xcp"]
+	path = nw/mc/xcp
+	url = .
 [submodule "nw/me/xhc"]
 	path = nw/me/xhc
 	url = .
