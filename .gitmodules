@@ -16999,6 +16999,9 @@
 [submodule "no/bk/zya"]
 	path = no/bk/zya
 	url = .
+[submodule "no/db/wbh"]
+	path = no/db/wbh
+	url = .
 [submodule "no/dc/sjj"]
 	path = no/dc/sjj
 	url = .
