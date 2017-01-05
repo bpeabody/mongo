@@ -17794,6 +17794,9 @@
 [submodule "rg/av/fmc"]
 	path = rg/av/fmc
 	url = .
+[submodule "rg/ay/dxt"]
+	path = rg/ay/dxt
+	url = .
 [submodule "rg/bb/wfk"]
 	path = rg/bb/wfk
 	url = .
