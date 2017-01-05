@@ -46969,6 +46969,9 @@
 [submodule "zt/wm/chv"]
 	path = zt/wm/chv
 	url = .
+[submodule "zt/wq/spv"]
+	path = zt/wq/spv
+	url = .
 [submodule "zt/yb/lpw"]
 	path = zt/yb/lpw
 	url = .
