@@ -51592,6 +51592,9 @@
 [submodule "sn/qi/eql"]
 	path = sn/qi/eql
 	url = .
+[submodule "sn/rh/nhq"]
+	path = sn/rh/nhq
+	url = .
 [submodule "sn/rj/xvz"]
 	path = sn/rj/xvz
 	url = .
