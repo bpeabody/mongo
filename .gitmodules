@@ -27745,6 +27745,9 @@
 [submodule "jd/qy/orm"]
 	path = jd/qy/orm
 	url = .
+[submodule "jd/rb/mwd"]
+	path = jd/rb/mwd
+	url = .
 [submodule "jd/so/sbc"]
 	path = jd/so/sbc
 	url = .
