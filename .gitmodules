@@ -670,6 +670,9 @@
 [submodule "dh/mi/tbb"]
 	path = dh/mi/tbb
 	url = .
+[submodule "dh/we/nfj"]
+	path = dh/we/nfj
+	url = .
 [submodule "di/mh/ims"]
 	path = di/mh/ims
 	url = .
