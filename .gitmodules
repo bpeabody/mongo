@@ -1402,6 +1402,9 @@
 [submodule "ar/vc/ymd"]
 	path = ar/vc/ymd
 	url = .
+[submodule "ar/vf/dia"]
+	path = ar/vf/dia
+	url = .
 [submodule "ar/vw/dpf"]
 	path = ar/vw/dpf
 	url = .
