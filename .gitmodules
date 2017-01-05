@@ -274,6 +274,9 @@
 [submodule "ae/ci/znd"]
 	path = ae/ci/znd
 	url = .
+[submodule "ae/dg/cog"]
+	path = ae/dg/cog
+	url = .
 [submodule "ae/dj/knt"]
 	path = ae/dj/knt
 	url = .
