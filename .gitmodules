@@ -25354,6 +25354,9 @@
 [submodule "rq/ej/dxp"]
 	path = rq/ej/dxp
 	url = .
+[submodule "rq/fc/yjf"]
+	path = rq/fc/yjf
+	url = .
 [submodule "rq/fs/mot"]
 	path = rq/fs/mot
 	url = .
