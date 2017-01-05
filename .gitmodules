@@ -54037,6 +54037,9 @@
 [submodule "vx/gq/ifb"]
 	path = vx/gq/ifb
 	url = .
+[submodule "vx/gt/dtx"]
+	path = vx/gt/dtx
+	url = .
 [submodule "vx/ho/uix"]
 	path = vx/ho/uix
 	url = .
