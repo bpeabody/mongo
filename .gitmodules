@@ -55294,6 +55294,9 @@
 [submodule "wb/fh/jux"]
 	path = wb/fh/jux
 	url = .
+[submodule "wb/fi/xez"]
+	path = wb/fi/xez
+	url = .
 [submodule "wb/fo/trv"]
 	path = wb/fo/trv
 	url = .
