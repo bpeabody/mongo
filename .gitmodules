@@ -17461,6 +17461,9 @@
 [submodule "gy/nn/mux"]
 	path = gy/nn/mux
 	url = .
+[submodule "gy/nu/wkl"]
+	path = gy/nu/wkl
+	url = .
 [submodule "gy/py/mrd"]
 	path = gy/py/mrd
 	url = .
