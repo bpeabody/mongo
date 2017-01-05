@@ -36916,6 +36916,9 @@
 [submodule "wf/kg/apn"]
 	path = wf/kg/apn
 	url = .
+[submodule "wf/kx/xnr"]
+	path = wf/kx/xnr
+	url = .
 [submodule "wf/lp/tmm"]
 	path = wf/lp/tmm
 	url = .
