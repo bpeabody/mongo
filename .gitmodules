@@ -2716,6 +2716,9 @@
 [submodule "yk/vm/ezb"]
 	path = yk/vm/ezb
 	url = .
+[submodule "yk/vm/ygq"]
+	path = yk/vm/ygq
+	url = .
 [submodule "yn/ah/mnc"]
 	path = yn/ah/mnc
 	url = .
