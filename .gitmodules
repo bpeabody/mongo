@@ -4741,6 +4741,9 @@
 [submodule "cm/en/ucw"]
 	path = cm/en/ucw
 	url = .
+[submodule "cm/fd/cmu"]
+	path = cm/fd/cmu
+	url = .
 [submodule "cm/fl/awc"]
 	path = cm/fl/awc
 	url = .
