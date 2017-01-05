@@ -5551,6 +5551,9 @@
 [submodule "hy/sz/fsm"]
 	path = hy/sz/fsm
 	url = .
+[submodule "hy/uy/uej"]
+	path = hy/uy/uej
+	url = .
 [submodule "hz/ca/ijp"]
 	path = hz/ca/ijp
 	url = .
