@@ -9334,6 +9334,9 @@
 [submodule "fa/kn/gbf"]
 	path = fa/kn/gbf
 	url = .
+[submodule "fa/lb/qsb"]
+	path = fa/lb/qsb
+	url = .
 [submodule "fa/ne/pma"]
 	path = fa/ne/pma
 	url = .
