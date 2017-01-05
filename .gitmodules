@@ -21058,6 +21058,9 @@
 [submodule "jd/ov/kml"]
 	path = jd/ov/kml
 	url = .
+[submodule "jd/ph/eed"]
+	path = jd/ph/eed
+	url = .
 [submodule "jd/so/sbc"]
 	path = jd/so/sbc
 	url = .
