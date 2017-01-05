@@ -1660,6 +1660,9 @@
 [submodule "yt/iv/zhd"]
 	path = yt/iv/zhd
 	url = .
+[submodule "yx/sq/uyo"]
+	path = yx/sq/uyo
+	url = .
 [submodule "yy/rl/glp"]
 	path = yy/rl/glp
 	url = .
