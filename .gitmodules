@@ -12682,6 +12682,9 @@
 [submodule "jx/sr/vjs"]
 	path = jx/sr/vjs
 	url = .
+[submodule "jx/yb/oib"]
+	path = jx/yb/oib
+	url = .
 [submodule "jx/yg/zmd"]
 	path = jx/yg/zmd
 	url = .
