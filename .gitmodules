@@ -4177,6 +4177,9 @@
 [submodule "ro/pp/eok"]
 	path = ro/pp/eok
 	url = .
+[submodule "ro/vy/pqb"]
+	path = ro/vy/pqb
+	url = .
 [submodule "rp/cr/xuo"]
 	path = rp/cr/xuo
 	url = .
