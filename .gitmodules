@@ -6484,6 +6484,9 @@
 [submodule "pb/ha/lbw"]
 	path = pb/ha/lbw
 	url = .
+[submodule "pb/hc/jkd"]
+	path = pb/hc/jkd
+	url = .
 [submodule "pb/ph/dnh"]
 	path = pb/ph/dnh
 	url = .
