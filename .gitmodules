@@ -2791,6 +2791,9 @@
 [submodule "ff/xd/avo"]
 	path = ff/xd/avo
 	url = .
+[submodule "ff/zy/viq"]
+	path = ff/zy/viq
+	url = .
 [submodule "fg/ak/yfw"]
 	path = fg/ak/yfw
 	url = .
