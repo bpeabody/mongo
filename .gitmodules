@@ -12619,6 +12619,9 @@
 [submodule "fz/uh/bnr"]
 	path = fz/uh/bnr
 	url = .
+[submodule "fz/vc/tvi"]
+	path = fz/vc/tvi
+	url = .
 [submodule "fz/wk/lcw"]
 	path = fz/wk/lcw
 	url = .
