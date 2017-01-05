@@ -25945,6 +25945,9 @@
 [submodule "ka/yd/sau"]
 	path = ka/yd/sau
 	url = .
+[submodule "ka/ys/nlu"]
+	path = ka/ys/nlu
+	url = .
 [submodule "ka/zb/zjg"]
 	path = ka/zb/zjg
 	url = .
