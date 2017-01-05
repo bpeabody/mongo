@@ -30298,6 +30298,9 @@
 [submodule "ws/vy/fux"]
 	path = ws/vy/fux
 	url = .
+[submodule "ws/vy/xmp"]
+	path = ws/vy/xmp
+	url = .
 [submodule "ws/xt/rpc"]
 	path = ws/xt/rpc
 	url = .
