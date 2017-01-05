@@ -3025,6 +3025,9 @@
 [submodule "gz/hm/iiw"]
 	path = gz/hm/iiw
 	url = .
+[submodule "gz/nn/cbu"]
+	path = gz/nn/cbu
+	url = .
 [submodule "gz/rb/tsb"]
 	path = gz/rb/tsb
 	url = .
