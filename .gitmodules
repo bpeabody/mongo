@@ -16594,6 +16594,9 @@
 [submodule "ji/hn/sxs"]
 	path = ji/hn/sxs
 	url = .
+[submodule "ji/ip/lug"]
+	path = ji/ip/lug
+	url = .
 [submodule "ji/iw/ylr"]
 	path = ji/iw/ylr
 	url = .
