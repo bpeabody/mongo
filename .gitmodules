@@ -9805,6 +9805,9 @@
 [submodule "dg/sz/vph"]
 	path = dg/sz/vph
 	url = .
+[submodule "dg/to/shu"]
+	path = dg/to/shu
+	url = .
 [submodule "dg/tv/sey"]
 	path = dg/tv/sey
 	url = .
