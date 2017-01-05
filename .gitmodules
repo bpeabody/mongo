@@ -13996,6 +13996,9 @@
 [submodule "qs/sc/eim"]
 	path = qs/sc/eim
 	url = .
+[submodule "qs/vg/bbx"]
+	path = qs/vg/bbx
+	url = .
 [submodule "qs/wp/otr"]
 	path = qs/wp/otr
 	url = .
