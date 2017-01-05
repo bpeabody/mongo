@@ -1057,6 +1057,9 @@
 [submodule "ce/ex/mgx"]
 	path = ce/ex/mgx
 	url = .
+[submodule "ce/fl/nck"]
+	path = ce/fl/nck
+	url = .
 [submodule "ce/ho/qnp"]
 	path = ce/ho/qnp
 	url = .
