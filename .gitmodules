@@ -3718,6 +3718,9 @@
 [submodule "cg/dz/awd"]
 	path = cg/dz/awd
 	url = .
+[submodule "cg/ea/wit"]
+	path = cg/ea/wit
+	url = .
 [submodule "cg/gc/oni"]
 	path = cg/gc/oni
 	url = .
