@@ -2506,6 +2506,9 @@
 [submodule "eb/bv/pou"]
 	path = eb/bv/pou
 	url = .
+[submodule "eb/ei/cvx"]
+	path = eb/ei/cvx
+	url = .
 [submodule "eb/ia/pum"]
 	path = eb/ia/pum
 	url = .
