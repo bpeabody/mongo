@@ -18388,6 +18388,9 @@
 [submodule "hl/gk/fkp"]
 	path = hl/gk/fkp
 	url = .
+[submodule "hl/gs/cea"]
+	path = hl/gs/cea
+	url = .
 [submodule "hl/ik/jnf"]
 	path = hl/ik/jnf
 	url = .
