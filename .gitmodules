@@ -11701,6 +11701,9 @@
 [submodule "yi/an/kmo"]
 	path = yi/an/kmo
 	url = .
+[submodule "yi/dd/jqw"]
+	path = yi/dd/jqw
+	url = .
 [submodule "yi/eq/fjq"]
 	path = yi/eq/fjq
 	url = .
