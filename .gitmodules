@@ -26161,6 +26161,9 @@
 [submodule "ji/mt/dvo"]
 	path = ji/mt/dvo
 	url = .
+[submodule "ji/mz/wyr"]
+	path = ji/mz/wyr
+	url = .
 [submodule "ji/ns/psu"]
 	path = ji/ns/psu
 	url = .
