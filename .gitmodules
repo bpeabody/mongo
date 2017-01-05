@@ -61048,6 +61048,9 @@
 [submodule "vd/kz/bzw"]
 	path = vd/kz/bzw
 	url = .
+[submodule "vd/lo/uju"]
+	path = vd/lo/uju
+	url = .
 [submodule "vd/mb/muw"]
 	path = vd/mb/muw
 	url = .
