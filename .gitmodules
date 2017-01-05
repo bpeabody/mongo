@@ -1672,6 +1672,9 @@
 [submodule "cj/lw/hsp"]
 	path = cj/lw/hsp
 	url = .
+[submodule "cj/qz/wcf"]
+	path = cj/qz/wcf
+	url = .
 [submodule "cj/rf/qjt"]
 	path = cj/rf/qjt
 	url = .
