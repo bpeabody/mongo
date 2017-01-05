@@ -8884,6 +8884,9 @@
 [submodule "dw/gi/hgq"]
 	path = dw/gi/hgq
 	url = .
+[submodule "dw/go/yul"]
+	path = dw/go/yul
+	url = .
 [submodule "dw/gx/duw"]
 	path = dw/gx/duw
 	url = .
