@@ -8707,6 +8707,9 @@
 [submodule "fb/rw/eik"]
 	path = fb/rw/eik
 	url = .
+[submodule "fb/wn/sja"]
+	path = fb/wn/sja
+	url = .
 [submodule "fb/wr/ony"]
 	path = fb/wr/ony
 	url = .
