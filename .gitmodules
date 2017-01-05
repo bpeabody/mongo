@@ -49099,6 +49099,9 @@
 [submodule "yf/mq/ecf"]
 	path = yf/mq/ecf
 	url = .
+[submodule "yf/qn/xar"]
+	path = yf/qn/xar
+	url = .
 [submodule "yf/qp/fzs"]
 	path = yf/qp/fzs
 	url = .
