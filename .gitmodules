@@ -16330,6 +16330,9 @@
 [submodule "xm/fy/usr"]
 	path = xm/fy/usr
 	url = .
+[submodule "xm/jr/qhp"]
+	path = xm/jr/qhp
+	url = .
 [submodule "xm/ly/vps"]
 	path = xm/ly/vps
 	url = .
