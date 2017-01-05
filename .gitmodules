@@ -6715,6 +6715,9 @@
 [submodule "de/vz/xcb"]
 	path = de/vz/xcb
 	url = .
+[submodule "de/wj/nqs"]
+	path = de/wj/nqs
+	url = .
 [submodule "de/xi/nhv"]
 	path = de/xi/nhv
 	url = .
