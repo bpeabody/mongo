@@ -28180,6 +28180,9 @@
 [submodule "sq/tb/zds"]
 	path = sq/tb/zds
 	url = .
+[submodule "sq/tj/afq"]
+	path = sq/tj/afq
+	url = .
 [submodule "sq/xw/eva"]
 	path = sq/xw/eva
 	url = .
