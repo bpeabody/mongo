@@ -18592,6 +18592,9 @@
 [submodule "jd/ob/pkw"]
 	path = jd/ob/pkw
 	url = .
+[submodule "jd/ov/kml"]
+	path = jd/ov/kml
+	url = .
 [submodule "jd/so/sbc"]
 	path = jd/so/sbc
 	url = .
