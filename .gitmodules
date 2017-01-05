@@ -36838,6 +36838,9 @@
 [submodule "mw/qk/voy"]
 	path = mw/qk/voy
 	url = .
+[submodule "mw/qn/xcs"]
+	path = mw/qn/xcs
+	url = .
 [submodule "mw/rs/vka"]
 	path = mw/rs/vka
 	url = .
