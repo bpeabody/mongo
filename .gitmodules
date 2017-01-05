@@ -28555,6 +28555,9 @@
 [submodule "vl/ae/zec"]
 	path = vl/ae/zec
 	url = .
+[submodule "vl/bx/ksr"]
+	path = vl/bx/ksr
+	url = .
 [submodule "vl/el/uoz"]
 	path = vl/el/uoz
 	url = .
