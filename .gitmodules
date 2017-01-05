@@ -8809,6 +8809,9 @@
 [submodule "ic/nf/jpt"]
 	path = ic/nf/jpt
 	url = .
+[submodule "ic/wa/yyu"]
+	path = ic/wa/yyu
+	url = .
 [submodule "ic/xr/aik"]
 	path = ic/xr/aik
 	url = .
