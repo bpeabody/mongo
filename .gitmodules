@@ -6436,6 +6436,9 @@
 [submodule "cc/jj/ewq"]
 	path = cc/jj/ewq
 	url = .
+[submodule "cc/jq/amd"]
+	path = cc/jq/amd
+	url = .
 [submodule "cc/ks/odx"]
 	path = cc/ks/odx
 	url = .
