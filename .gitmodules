@@ -2650,6 +2650,9 @@
 [submodule "gg/xl/nng"]
 	path = gg/xl/nng
 	url = .
+[submodule "gg/xt/acj"]
+	path = gg/xt/acj
+	url = .
 [submodule "gg/xv/wtg"]
 	path = gg/xv/wtg
 	url = .
