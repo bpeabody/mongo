@@ -9013,6 +9013,9 @@
 [submodule "ym/cf/gaf"]
 	path = ym/cf/gaf
 	url = .
+[submodule "ym/to/aik"]
+	path = ym/to/aik
+	url = .
 [submodule "ym/yc/hfv"]
 	path = ym/yc/hfv
 	url = .
