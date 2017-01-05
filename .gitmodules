@@ -13951,6 +13951,9 @@
 [submodule "gm/kd/kig"]
 	path = gm/kd/kig
 	url = .
+[submodule "gm/ke/vqa"]
+	path = gm/ke/vqa
+	url = .
 [submodule "gm/kq/ont"]
 	path = gm/kq/ont
 	url = .
