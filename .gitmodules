@@ -2920,6 +2920,9 @@
 [submodule "bi/mf/twu"]
 	path = bi/mf/twu
 	url = .
+[submodule "bi/nd/qpq"]
+	path = bi/nd/qpq
+	url = .
 [submodule "bi/ne/kwp"]
 	path = bi/ne/kwp
 	url = .
