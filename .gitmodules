@@ -1375,6 +1375,9 @@
 [submodule "vw/ug/rru"]
 	path = vw/ug/rru
 	url = .
+[submodule "vy/ez/zec"]
+	path = vy/ez/zec
+	url = .
 [submodule "vz/br/lko"]
 	path = vz/br/lko
 	url = .
