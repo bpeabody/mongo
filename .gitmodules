@@ -5851,6 +5851,9 @@
 [submodule "cl/qa/sdu"]
 	path = cl/qa/sdu
 	url = .
+[submodule "cl/qg/vrg"]
+	path = cl/qg/vrg
+	url = .
 [submodule "cl/qs/tgv"]
 	path = cl/qs/tgv
 	url = .
