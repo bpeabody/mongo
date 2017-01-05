@@ -23971,6 +23971,9 @@
 [submodule "rw/bz/afq"]
 	path = rw/bz/afq
 	url = .
+[submodule "rw/dx/vpf"]
+	path = rw/dx/vpf
+	url = .
 [submodule "rw/ej/wai"]
 	path = rw/ej/wai
 	url = .
