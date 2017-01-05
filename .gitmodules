@@ -47776,6 +47776,9 @@
 [submodule "uv/lu/nbr"]
 	path = uv/lu/nbr
 	url = .
+[submodule "uv/no/fnm"]
+	path = uv/no/fnm
+	url = .
 [submodule "uv/og/jmq"]
 	path = uv/og/jmq
 	url = .
