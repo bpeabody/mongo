@@ -1546,6 +1546,9 @@
 [submodule "an/or/suy"]
 	path = an/or/suy
 	url = .
+[submodule "an/qw/jdu"]
+	path = an/qw/jdu
+	url = .
 [submodule "an/rh/ttn"]
 	path = an/rh/ttn
 	url = .
