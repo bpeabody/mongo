@@ -63433,6 +63433,9 @@
 [submodule "vm/vj/tex"]
 	path = vm/vj/tex
 	url = .
+[submodule "vm/wn/jik"]
+	path = vm/wn/jik
+	url = .
 [submodule "vm/xc/cpf"]
 	path = vm/xc/cpf
 	url = .
