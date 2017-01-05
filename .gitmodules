@@ -9088,6 +9088,9 @@
 [submodule "gm/pn/qce"]
 	path = gm/pn/qce
 	url = .
+[submodule "gm/rd/btq"]
+	path = gm/rd/btq
+	url = .
 [submodule "gm/rx/fxy"]
 	path = gm/rx/fxy
 	url = .
