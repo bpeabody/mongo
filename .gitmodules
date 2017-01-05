@@ -1234,6 +1234,9 @@
 [submodule "us/mt/omp"]
 	path = us/mt/omp
 	url = .
+[submodule "us/qf/naf"]
+	path = us/qf/naf
+	url = .
 [submodule "ut/yn/vdx"]
 	path = ut/yn/vdx
 	url = .
