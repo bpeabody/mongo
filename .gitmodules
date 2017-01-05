@@ -10885,6 +10885,9 @@
 [submodule "kt/sx/ehs"]
 	path = kt/sx/ehs
 	url = .
+[submodule "kt/vp/elm"]
+	path = kt/vp/elm
+	url = .
 [submodule "kt/yq/mps"]
 	path = kt/yq/mps
 	url = .
