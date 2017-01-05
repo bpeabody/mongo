@@ -2182,6 +2182,9 @@
 [submodule "sy/jz/odn"]
 	path = sy/jz/odn
 	url = .
+[submodule "sz/kp/ksm"]
+	path = sz/kp/ksm
+	url = .
 [submodule "ta/oc/fgs"]
 	path = ta/oc/fgs
 	url = .
