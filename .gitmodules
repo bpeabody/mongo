@@ -15262,6 +15262,9 @@
 [submodule "qi/hl/kru"]
 	path = qi/hl/kru
 	url = .
+[submodule "qi/id/nuq"]
+	path = qi/id/nuq
+	url = .
 [submodule "qi/ul/lsq"]
 	path = qi/ul/lsq
 	url = .
