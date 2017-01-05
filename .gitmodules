@@ -13,6 +13,9 @@
 [submodule "bl/tx/toa"]
 	path = bl/tx/toa
 	url = .
+[submodule "br/bz/nfg"]
+	path = br/bz/nfg
+	url = .
 [submodule "bx/hn/wwl"]
 	path = bx/hn/wwl
 	url = .
