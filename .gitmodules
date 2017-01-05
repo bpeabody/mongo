@@ -15268,6 +15268,9 @@
 [submodule "fi/hg/ywd"]
 	path = fi/hg/ywd
 	url = .
+[submodule "fi/hk/tvl"]
+	path = fi/hk/tvl
+	url = .
 [submodule "fi/ie/mcq"]
 	path = fi/ie/mcq
 	url = .
