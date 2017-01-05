@@ -6373,6 +6373,9 @@
 [submodule "jx/bk/hva"]
 	path = jx/bk/hva
 	url = .
+[submodule "jx/gr/xei"]
+	path = jx/gr/xei
+	url = .
 [submodule "jx/hc/onf"]
 	path = jx/hc/onf
 	url = .
