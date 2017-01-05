@@ -5446,6 +5446,9 @@
 [submodule "cd/sh/ihe"]
 	path = cd/sh/ihe
 	url = .
+[submodule "cd/tl/lpb"]
+	path = cd/tl/lpb
+	url = .
 [submodule "cd/uh/mbp"]
 	path = cd/uh/mbp
 	url = .
