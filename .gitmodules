@@ -412,6 +412,9 @@
 [submodule "cs/ws/ltu"]
 	path = cs/ws/ltu
 	url = .
+[submodule "ct/mf/vfj"]
+	path = ct/mf/vfj
+	url = .
 [submodule "ct/nd/tzl"]
 	path = ct/nd/tzl
 	url = .
