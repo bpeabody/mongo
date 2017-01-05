@@ -33073,6 +33073,9 @@
 [submodule "uk/ez/bcu"]
 	path = uk/ez/bcu
 	url = .
+[submodule "uk/fu/ore"]
+	path = uk/fu/ore
+	url = .
 [submodule "uk/gv/vhn"]
 	path = uk/gv/vhn
 	url = .
