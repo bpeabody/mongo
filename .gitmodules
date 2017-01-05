@@ -70645,6 +70645,9 @@
 [submodule "xt/qs/fun"]
 	path = xt/qs/fun
 	url = .
+[submodule "xt/qv/oaw"]
+	path = xt/qv/oaw
+	url = .
 [submodule "xt/rw/hfy"]
 	path = xt/rw/hfy
 	url = .
