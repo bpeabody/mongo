@@ -49015,6 +49015,9 @@
 [submodule "rp/xr/qsn"]
 	path = rp/xr/qsn
 	url = .
+[submodule "rp/ya/has"]
+	path = rp/ya/has
+	url = .
 [submodule "rp/yd/yxl"]
 	path = rp/yd/yxl
 	url = .
