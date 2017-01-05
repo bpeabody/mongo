@@ -4195,6 +4195,9 @@
 [submodule "mt/fw/one"]
 	path = mt/fw/one
 	url = .
+[submodule "mt/gp/lvn"]
+	path = mt/gp/lvn
+	url = .
 [submodule "mt/ow/ecc"]
 	path = mt/ow/ecc
 	url = .
