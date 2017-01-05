@@ -11227,6 +11227,9 @@
 [submodule "yl/cl/eck"]
 	path = yl/cl/eck
 	url = .
+[submodule "yl/fb/ufn"]
+	path = yl/fb/ufn
+	url = .
 [submodule "yl/ir/cnt"]
 	path = yl/ir/cnt
 	url = .
