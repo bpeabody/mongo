@@ -1066,6 +1066,9 @@
 [submodule "gf/lt/prh"]
 	path = gf/lt/prh
 	url = .
+[submodule "gf/pr/kmp"]
+	path = gf/pr/kmp
+	url = .
 [submodule "gg/od/qtw"]
 	path = gg/od/qtw
 	url = .
