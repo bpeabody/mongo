@@ -44281,6 +44281,9 @@
 [submodule "uw/rq/nkk"]
 	path = uw/rq/nkk
 	url = .
+[submodule "uw/tr/ico"]
+	path = uw/tr/ico
+	url = .
 [submodule "uw/ty/cnf"]
 	path = uw/ty/cnf
 	url = .
