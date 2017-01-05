@@ -44341,6 +44341,9 @@
 [submodule "vv/xk/bft"]
 	path = vv/xk/bft
 	url = .
+[submodule "vv/xx/ipn"]
+	path = vv/xx/ipn
+	url = .
 [submodule "vv/yz/fge"]
 	path = vv/yz/fge
 	url = .
