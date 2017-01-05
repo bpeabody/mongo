@@ -3655,6 +3655,9 @@
 [submodule "om/ey/hib"]
 	path = om/ey/hib
 	url = .
+[submodule "om/pv/ryx"]
+	path = om/pv/ryx
+	url = .
 [submodule "om/qp/wap"]
 	path = om/qp/wap
 	url = .
