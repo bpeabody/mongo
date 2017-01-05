@@ -23578,6 +23578,9 @@
 [submodule "tr/mq/iks"]
 	path = tr/mq/iks
 	url = .
+[submodule "tr/si/smk"]
+	path = tr/si/smk
+	url = .
 [submodule "tr/tl/tzu"]
 	path = tr/tl/tzu
 	url = .
