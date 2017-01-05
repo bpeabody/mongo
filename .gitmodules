@@ -26308,6 +26308,9 @@
 [submodule "lm/yj/ucp"]
 	path = lm/yj/ucp
 	url = .
+[submodule "lm/yl/lnq"]
+	path = lm/yl/lnq
+	url = .
 [submodule "lm/zl/bpp"]
 	path = lm/zl/bpp
 	url = .
