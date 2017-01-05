@@ -6430,6 +6430,9 @@
 [submodule "dd/bx/bum"]
 	path = dd/bx/bum
 	url = .
+[submodule "dd/cv/slq"]
+	path = dd/cv/slq
+	url = .
 [submodule "dd/dk/pjf"]
 	path = dd/dk/pjf
 	url = .
