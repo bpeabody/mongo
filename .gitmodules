@@ -11914,6 +11914,9 @@
 [submodule "fu/fl/jup"]
 	path = fu/fl/jup
 	url = .
+[submodule "fu/fn/shj"]
+	path = fu/fn/shj
+	url = .
 [submodule "fu/ga/ldc"]
 	path = fu/ga/ldc
 	url = .
