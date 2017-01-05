@@ -34360,6 +34360,9 @@
 [submodule "oi/rs/piz"]
 	path = oi/rs/piz
 	url = .
+[submodule "oi/rt/biq"]
+	path = oi/rt/biq
+	url = .
 [submodule "oi/ss/rqj"]
 	path = oi/ss/rqj
 	url = .
