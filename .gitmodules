@@ -30976,6 +30976,9 @@
 [submodule "sy/sf/qoy"]
 	path = sy/sf/qoy
 	url = .
+[submodule "sy/sl/hdo"]
+	path = sy/sl/hdo
+	url = .
 [submodule "sy/xl/wlp"]
 	path = sy/xl/wlp
 	url = .
