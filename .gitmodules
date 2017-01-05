@@ -994,6 +994,9 @@
 [submodule "ax/mp/hbt"]
 	path = ax/mp/hbt
 	url = .
+[submodule "ax/po/fqx"]
+	path = ax/po/fqx
+	url = .
 [submodule "ax/ti/adb"]
 	path = ax/ti/adb
 	url = .
