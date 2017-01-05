@@ -19993,6 +19993,9 @@
 [submodule "lp/dg/opi"]
 	path = lp/dg/opi
 	url = .
+[submodule "lp/er/kyd"]
+	path = lp/er/kyd
+	url = .
 [submodule "lp/fj/hsp"]
 	path = lp/fj/hsp
 	url = .
