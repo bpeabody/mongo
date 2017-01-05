@@ -9586,6 +9586,9 @@
 [submodule "dr/rt/gos"]
 	path = dr/rt/gos
 	url = .
+[submodule "dr/rz/vdn"]
+	path = dr/rz/vdn
+	url = .
 [submodule "dr/sv/qba"]
 	path = dr/sv/qba
 	url = .
