@@ -6286,6 +6286,9 @@
 [submodule "cs/oj/pfa"]
 	path = cs/oj/pfa
 	url = .
+[submodule "cs/qw/ssd"]
+	path = cs/qw/ssd
+	url = .
 [submodule "cs/rj/pcn"]
 	path = cs/rj/pcn
 	url = .
