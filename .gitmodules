@@ -45340,6 +45340,9 @@
 [submodule "vv/tw/jux"]
 	path = vv/tw/jux
 	url = .
+[submodule "vv/up/qia"]
+	path = vv/up/qia
+	url = .
 [submodule "vv/uy/ztr"]
 	path = vv/uy/ztr
 	url = .
