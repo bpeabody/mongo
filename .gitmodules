@@ -2377,6 +2377,9 @@
 [submodule "ei/nt/zkm"]
 	path = ei/nt/zkm
 	url = .
+[submodule "ei/oe/nbj"]
+	path = ei/oe/nbj
+	url = .
 [submodule "ei/qo/eum"]
 	path = ei/qo/eum
 	url = .
