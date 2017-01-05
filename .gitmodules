@@ -5416,6 +5416,9 @@
 [submodule "fm/hb/fbh"]
 	path = fm/hb/fbh
 	url = .
+[submodule "fm/ib/iwe"]
+	path = fm/ib/iwe
+	url = .
 [submodule "fm/ip/vnd"]
 	path = fm/ip/vnd
 	url = .
