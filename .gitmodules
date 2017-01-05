@@ -4543,6 +4543,9 @@
 [submodule "et/mo/pfa"]
 	path = et/mo/pfa
 	url = .
+[submodule "et/py/mpq"]
+	path = et/py/mpq
+	url = .
 [submodule "et/ql/vhx"]
 	path = et/ql/vhx
 	url = .
