@@ -3793,6 +3793,9 @@
 [submodule "tq/mj/uyx"]
 	path = tq/mj/uyx
 	url = .
+[submodule "tq/nn/ezv"]
+	path = tq/nn/ezv
+	url = .
 [submodule "tq/sc/noa"]
 	path = tq/sc/noa
 	url = .
