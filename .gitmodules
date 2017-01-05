@@ -2782,6 +2782,9 @@
 [submodule "hc/cw/kiz"]
 	path = hc/cw/kiz
 	url = .
+[submodule "hc/eu/lgd"]
+	path = hc/eu/lgd
+	url = .
 [submodule "hc/hh/akp"]
 	path = hc/hh/akp
 	url = .
