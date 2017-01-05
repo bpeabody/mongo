@@ -8461,6 +8461,9 @@
 [submodule "in/xe/zkt"]
 	path = in/xe/zkt
 	url = .
+[submodule "io/an/uqv"]
+	path = io/an/uqv
+	url = .
 [submodule "io/aw/fgo"]
 	path = io/aw/fgo
 	url = .
