@@ -12499,6 +12499,9 @@
 [submodule "gh/lb/kgf"]
 	path = gh/lb/kgf
 	url = .
+[submodule "gh/mn/mtd"]
+	path = gh/mn/mtd
+	url = .
 [submodule "gh/oe/svx"]
 	path = gh/oe/svx
 	url = .
