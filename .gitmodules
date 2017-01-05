@@ -6247,6 +6247,9 @@
 [submodule "gz/rb/tsb"]
 	path = gz/rb/tsb
 	url = .
+[submodule "gz/rm/ibt"]
+	path = gz/rm/ibt
+	url = .
 [submodule "gz/ux/krc"]
 	path = gz/ux/krc
 	url = .
