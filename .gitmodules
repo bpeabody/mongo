@@ -4912,6 +4912,9 @@
 [submodule "ve/dn/lgy"]
 	path = ve/dn/lgy
 	url = .
+[submodule "ve/hp/boy"]
+	path = ve/hp/boy
+	url = .
 [submodule "ve/kf/mcz"]
 	path = ve/kf/mcz
 	url = .
