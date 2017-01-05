@@ -9121,6 +9121,9 @@
 [submodule "ne/jo/hnd"]
 	path = ne/jo/hnd
 	url = .
+[submodule "ne/lq/gjn"]
+	path = ne/lq/gjn
+	url = .
 [submodule "ne/ph/val"]
 	path = ne/ph/val
 	url = .
