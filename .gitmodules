@@ -3121,6 +3121,9 @@
 [submodule "hf/fu/cfi"]
 	path = hf/fu/cfi
 	url = .
+[submodule "hf/fz/zik"]
+	path = hf/fz/zik
+	url = .
 [submodule "hf/gx/nhp"]
 	path = hf/gx/nhp
 	url = .
