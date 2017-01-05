@@ -21643,6 +21643,9 @@
 [submodule "hv/yn/jjx"]
 	path = hv/yn/jjx
 	url = .
+[submodule "hw/ah/jee"]
+	path = hw/ah/jee
+	url = .
 [submodule "hw/cm/ogj"]
 	path = hw/cm/ogj
 	url = .
