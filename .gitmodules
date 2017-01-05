@@ -1474,6 +1474,9 @@
 [submodule "av/wo/vhg"]
 	path = av/wo/vhg
 	url = .
+[submodule "av/wv/sjg"]
+	path = av/wv/sjg
+	url = .
 [submodule "av/xx/ned"]
 	path = av/xx/ned
 	url = .
