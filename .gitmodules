@@ -14542,6 +14542,9 @@
 [submodule "pb/sh/zwh"]
 	path = pb/sh/zwh
 	url = .
+[submodule "pb/tx/aut"]
+	path = pb/tx/aut
+	url = .
 [submodule "pb/vi/gpr"]
 	path = pb/vi/gpr
 	url = .
