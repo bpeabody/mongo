@@ -12382,6 +12382,9 @@
 [submodule "ie/rj/vqu"]
 	path = ie/rj/vqu
 	url = .
+[submodule "ie/td/mma"]
+	path = ie/td/mma
+	url = .
 [submodule "ie/tz/fir"]
 	path = ie/tz/fir
 	url = .
