@@ -44878,6 +44878,9 @@
 [submodule "rc/aw/azu"]
 	path = rc/aw/azu
 	url = .
+[submodule "rc/ca/pjy"]
+	path = rc/ca/pjy
+	url = .
 [submodule "rc/ca/ydl"]
 	path = rc/ca/ydl
 	url = .
