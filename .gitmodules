@@ -2491,6 +2491,9 @@
 [submodule "ta/oc/fgs"]
 	path = ta/oc/fgs
 	url = .
+[submodule "tb/mx/siu"]
+	path = tb/mx/siu
+	url = .
 [submodule "td/nk/sni"]
 	path = td/nk/sni
 	url = .
