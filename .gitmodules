@@ -6133,6 +6133,9 @@
 [submodule "cc/zh/gsw"]
 	path = cc/zh/gsw
 	url = .
+[submodule "cc/zx/uoq"]
+	path = cc/zx/uoq
+	url = .
 [submodule "cc/zx/wjg"]
 	path = cc/zx/wjg
 	url = .
