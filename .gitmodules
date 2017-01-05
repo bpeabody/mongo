@@ -5680,6 +5680,9 @@
 [submodule "nr/ng/kpg"]
 	path = nr/ng/kpg
 	url = .
+[submodule "nr/tg/nwo"]
+	path = nr/tg/nwo
+	url = .
 [submodule "nr/wl/nxs"]
 	path = nr/wl/nxs
 	url = .
