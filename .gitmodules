@@ -490,6 +490,9 @@
 [submodule "aq/sx/ydp"]
 	path = aq/sx/ydp
 	url = .
+[submodule "aq/to/lqi"]
+	path = aq/to/lqi
+	url = .
 [submodule "aq/uh/bwh"]
 	path = aq/uh/bwh
 	url = .
