@@ -10078,6 +10078,9 @@
 [submodule "qd/vj/hru"]
 	path = qd/vj/hru
 	url = .
+[submodule "qd/vy/fdk"]
+	path = qd/vy/fdk
+	url = .
 [submodule "qd/wk/hvs"]
 	path = qd/wk/hvs
 	url = .
