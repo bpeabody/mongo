@@ -3553,6 +3553,9 @@
 [submodule "mr/rd/ptn"]
 	path = mr/rd/ptn
 	url = .
+[submodule "mr/wn/vpq"]
+	path = mr/wn/vpq
+	url = .
 [submodule "ms/ar/agy"]
 	path = ms/ar/agy
 	url = .
