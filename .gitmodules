@@ -21028,6 +21028,9 @@
 [submodule "hx/kc/spr"]
 	path = hx/kc/spr
 	url = .
+[submodule "hx/kd/lrh"]
+	path = hx/kd/lrh
+	url = .
 [submodule "hx/ki/nye"]
 	path = hx/ki/nye
 	url = .
