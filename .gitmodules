@@ -6484,6 +6484,9 @@
 [submodule "mh/or/hfq"]
 	path = mh/or/hfq
 	url = .
+[submodule "mh/tq/hmd"]
+	path = mh/tq/hmd
+	url = .
 [submodule "mh/tz/epy"]
 	path = mh/tz/epy
 	url = .
