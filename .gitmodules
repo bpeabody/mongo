@@ -21448,6 +21448,9 @@
 [submodule "sc/lz/txs"]
 	path = sc/lz/txs
 	url = .
+[submodule "sc/oe/mmb"]
+	path = sc/oe/mmb
+	url = .
 [submodule "sc/or/vuo"]
 	path = sc/or/vuo
 	url = .
