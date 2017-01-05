@@ -64975,6 +64975,9 @@
 [submodule "wu/fs/rze"]
 	path = wu/fs/rze
 	url = .
+[submodule "wu/fw/uxo"]
+	path = wu/fw/uxo
+	url = .
 [submodule "wu/in/gbu"]
 	path = wu/in/gbu
 	url = .
