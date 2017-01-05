@@ -58624,6 +58624,9 @@
 [submodule "vs/rb/yns"]
 	path = vs/rb/yns
 	url = .
+[submodule "vs/rl/las"]
+	path = vs/rl/las
+	url = .
 [submodule "vs/rl/ojl"]
 	path = vs/rl/ojl
 	url = .
