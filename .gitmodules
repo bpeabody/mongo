@@ -3178,6 +3178,9 @@
 [submodule "ot/xc/bfr"]
 	path = ot/xc/bfr
 	url = .
+[submodule "ot/yg/eqc"]
+	path = ot/yg/eqc
+	url = .
 [submodule "ot/zh/kdd"]
 	path = ot/zh/kdd
 	url = .
