@@ -481,6 +481,9 @@
 [submodule "bc/ss/hcf"]
 	path = bc/ss/hcf
 	url = .
+[submodule "bc/vp/fyh"]
+	path = bc/vp/fyh
+	url = .
 [submodule "bc/xl/pox"]
 	path = bc/xl/pox
 	url = .
