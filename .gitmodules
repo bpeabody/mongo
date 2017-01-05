@@ -17212,6 +17212,9 @@
 [submodule "ia/sk/tej"]
 	path = ia/sk/tej
 	url = .
+[submodule "ia/tz/hqb"]
+	path = ia/tz/hqb
+	url = .
 [submodule "ia/wb/kyy"]
 	path = ia/wb/kyy
 	url = .
