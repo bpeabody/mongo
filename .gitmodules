@@ -37435,6 +37435,9 @@
 [submodule "ss/pa/vbr"]
 	path = ss/pa/vbr
 	url = .
+[submodule "ss/pg/jlq"]
+	path = ss/pg/jlq
+	url = .
 [submodule "ss/qy/sjy"]
 	path = ss/qy/sjy
 	url = .
