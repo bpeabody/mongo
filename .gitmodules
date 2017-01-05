@@ -18001,6 +18001,9 @@
 [submodule "gb/ma/rad"]
 	path = gb/ma/rad
 	url = .
+[submodule "gb/mb/vuu"]
+	path = gb/mb/vuu
+	url = .
 [submodule "gb/mf/zjy"]
 	path = gb/mf/zjy
 	url = .
