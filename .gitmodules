@@ -4570,6 +4570,9 @@
 [submodule "bw/sk/wyu"]
 	path = bw/sk/wyu
 	url = .
+[submodule "bw/so/fdx"]
+	path = bw/so/fdx
+	url = .
 [submodule "bw/tt/gah"]
 	path = bw/tt/gah
 	url = .
