@@ -33025,6 +33025,9 @@
 [submodule "np/fz/fip"]
 	path = np/fz/fip
 	url = .
+[submodule "np/gv/ptr"]
+	path = np/gv/ptr
+	url = .
 [submodule "np/hb/lwn"]
 	path = np/hb/lwn
 	url = .
