@@ -20491,6 +20491,9 @@
 [submodule "jo/pz/vcw"]
 	path = jo/pz/vcw
 	url = .
+[submodule "jo/qk/yap"]
+	path = jo/qk/yap
+	url = .
 [submodule "jo/sd/ahz"]
 	path = jo/sd/ahz
 	url = .
