@@ -1852,6 +1852,9 @@
 [submodule "as/eh/xxw"]
 	path = as/eh/xxw
 	url = .
+[submodule "as/gd/sst"]
+	path = as/gd/sst
+	url = .
 [submodule "as/hs/emb"]
 	path = as/hs/emb
 	url = .
