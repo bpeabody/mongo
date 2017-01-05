@@ -23416,6 +23416,9 @@
 [submodule "si/kg/qfq"]
 	path = si/kg/qfq
 	url = .
+[submodule "si/lg/hsb"]
+	path = si/lg/hsb
+	url = .
 [submodule "si/mk/lcx"]
 	path = si/mk/lcx
 	url = .
