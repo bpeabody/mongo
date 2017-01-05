@@ -69601,6 +69601,9 @@
 [submodule "yh/yb/qjt"]
 	path = yh/yb/qjt
 	url = .
+[submodule "yh/ys/whd"]
+	path = yh/ys/whd
+	url = .
 [submodule "yh/zp/xyg"]
 	path = yh/zp/xyg
 	url = .
