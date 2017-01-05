@@ -6379,6 +6379,9 @@
 [submodule "cz/ai/yzc"]
 	path = cz/ai/yzc
 	url = .
+[submodule "cz/ak/oxc"]
+	path = cz/ak/oxc
+	url = .
 [submodule "cz/dk/uee"]
 	path = cz/dk/uee
 	url = .
