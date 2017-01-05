@@ -24913,6 +24913,9 @@
 [submodule "lr/ln/uus"]
 	path = lr/ln/uus
 	url = .
+[submodule "lr/mq/nbv"]
+	path = lr/mq/nbv
+	url = .
 [submodule "lr/ng/xyf"]
 	path = lr/ng/xyf
 	url = .
