@@ -20017,6 +20017,9 @@
 [submodule "wb/bk/jlz"]
 	path = wb/bk/jlz
 	url = .
+[submodule "wb/bz/uek"]
+	path = wb/bz/uek
+	url = .
 [submodule "wb/en/zaq"]
 	path = wb/en/zaq
 	url = .
