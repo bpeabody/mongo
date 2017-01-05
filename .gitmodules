@@ -5641,6 +5641,9 @@
 [submodule "zo/px/nhn"]
 	path = zo/px/nhn
 	url = .
+[submodule "zp/is/ixu"]
+	path = zp/is/ixu
+	url = .
 [submodule "zp/jw/tfi"]
 	path = zp/jw/tfi
 	url = .
