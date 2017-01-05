@@ -3652,6 +3652,9 @@
 [submodule "cy/li/rcg"]
 	path = cy/li/rcg
 	url = .
+[submodule "cy/li/rmu"]
+	path = cy/li/rmu
+	url = .
 [submodule "cy/mv/yzz"]
 	path = cy/mv/yzz
 	url = .
