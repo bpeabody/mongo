@@ -51604,6 +51604,9 @@
 [submodule "yd/xw/dic"]
 	path = yd/xw/dic
 	url = .
+[submodule "yd/yi/oku"]
+	path = yd/yi/oku
+	url = .
 [submodule "yd/yn/odk"]
 	path = yd/yn/odk
 	url = .
