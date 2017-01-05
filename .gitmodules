@@ -56428,6 +56428,9 @@
 [submodule "ys/ec/pyy"]
 	path = ys/ec/pyy
 	url = .
+[submodule "ys/ee/uyg"]
+	path = ys/ee/uyg
+	url = .
 [submodule "ys/et/vnj"]
 	path = ys/et/vnj
 	url = .
