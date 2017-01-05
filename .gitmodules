@@ -3100,6 +3100,9 @@
 [submodule "ha/rp/lud"]
 	path = ha/rp/lud
 	url = .
+[submodule "ha/xt/ypw"]
+	path = ha/xt/ypw
+	url = .
 [submodule "hb/eg/ksr"]
 	path = hb/eg/ksr
 	url = .
