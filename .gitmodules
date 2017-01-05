@@ -6535,6 +6535,9 @@
 [submodule "eo/hb/hnz"]
 	path = eo/hb/hnz
 	url = .
+[submodule "eo/hp/nfg"]
+	path = eo/hp/nfg
+	url = .
 [submodule "eo/ig/djo"]
 	path = eo/ig/djo
 	url = .
