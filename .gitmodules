@@ -9934,6 +9934,9 @@
 [submodule "mm/yv/fno"]
 	path = mm/yv/fno
 	url = .
+[submodule "mn/ad/ise"]
+	path = mn/ad/ise
+	url = .
 [submodule "mn/bf/iie"]
 	path = mn/bf/iie
 	url = .
