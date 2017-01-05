@@ -10,6 +10,9 @@
 [submodule "ah/qy/stj"]
 	path = ah/qy/stj
 	url = .
+[submodule "an/yd/yif"]
+	path = an/yd/yif
+	url = .
 [submodule "ao/ob/dur"]
 	path = ao/ob/dur
 	url = .
