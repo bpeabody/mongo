@@ -35974,6 +35974,9 @@
 [submodule "rl/yr/qby"]
 	path = rl/yr/qby
 	url = .
+[submodule "rl/zm/qki"]
+	path = rl/zm/qki
+	url = .
 [submodule "rl/zw/jmg"]
 	path = rl/zw/jmg
 	url = .
