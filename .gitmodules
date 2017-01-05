@@ -5788,6 +5788,9 @@
 [submodule "jh/xm/pnd"]
 	path = jh/xm/pnd
 	url = .
+[submodule "ji/ak/hsl"]
+	path = ji/ak/hsl
+	url = .
 [submodule "ji/ee/mac"]
 	path = ji/ee/mac
 	url = .
