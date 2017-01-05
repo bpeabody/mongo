@@ -8425,6 +8425,9 @@
 [submodule "ju/lr/ldz"]
 	path = ju/lr/ldz
 	url = .
+[submodule "ju/mi/kuv"]
+	path = ju/mi/kuv
+	url = .
 [submodule "ju/pb/pjo"]
 	path = ju/pb/pjo
 	url = .
