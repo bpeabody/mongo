@@ -289,6 +289,9 @@
 [submodule "af/rd/hfb"]
 	path = af/rd/hfb
 	url = .
+[submodule "af/rr/wag"]
+	path = af/rr/wag
+	url = .
 [submodule "af/rs/awh"]
 	path = af/rs/awh
 	url = .
