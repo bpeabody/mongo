@@ -65854,6 +65854,9 @@
 [submodule "zq/ex/fsz"]
 	path = zq/ex/fsz
 	url = .
+[submodule "zq/fu/wky"]
+	path = zq/fu/wky
+	url = .
 [submodule "zq/hc/uur"]
 	path = zq/hc/uur
 	url = .
