@@ -5677,6 +5677,9 @@
 [submodule "cj/ct/rhf"]
 	path = cj/ct/rhf
 	url = .
+[submodule "cj/dx/riu"]
+	path = cj/dx/riu
+	url = .
 [submodule "cj/gh/wlp"]
 	path = cj/gh/wlp
 	url = .
