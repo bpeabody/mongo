@@ -784,6 +784,9 @@
 [submodule "ah/fd/ivg"]
 	path = ah/fd/ivg
 	url = .
+[submodule "ah/fe/bhb"]
+	path = ah/fe/bhb
+	url = .
 [submodule "ah/ft/fmz"]
 	path = ah/ft/fmz
 	url = .
