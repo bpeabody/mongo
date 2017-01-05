@@ -5389,6 +5389,9 @@
 [submodule "de/bv/wov"]
 	path = de/bv/wov
 	url = .
+[submodule "de/by/nvh"]
+	path = de/by/nvh
+	url = .
 [submodule "de/dd/ekh"]
 	path = de/dd/ekh
 	url = .
