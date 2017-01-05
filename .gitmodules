@@ -331,6 +331,9 @@
 [submodule "ac/nl/kte"]
 	path = ac/nl/kte
 	url = .
+[submodule "ac/pa/wcg"]
+	path = ac/pa/wcg
+	url = .
 [submodule "ac/rh/eft"]
 	path = ac/rh/eft
 	url = .
