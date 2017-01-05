@@ -44521,6 +44521,9 @@
 [submodule "ot/zh/kdd"]
 	path = ot/zh/kdd
 	url = .
+[submodule "ou/cp/wiz"]
+	path = ou/cp/wiz
+	url = .
 [submodule "ou/dj/kxq"]
 	path = ou/dj/kxq
 	url = .
