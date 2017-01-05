@@ -1684,6 +1684,9 @@
 [submodule "if/eo/ywh"]
 	path = if/eo/ywh
 	url = .
+[submodule "if/hc/hwq"]
+	path = if/hc/hwq
+	url = .
 [submodule "if/uj/vjx"]
 	path = if/uj/vjx
 	url = .
