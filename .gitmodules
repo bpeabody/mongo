@@ -20644,6 +20644,9 @@
 [submodule "kv/gv/bnj"]
 	path = kv/gv/bnj
 	url = .
+[submodule "kv/gv/kgk"]
+	path = kv/gv/kgk
+	url = .
 [submodule "kv/ho/omj"]
 	path = kv/ho/omj
 	url = .
