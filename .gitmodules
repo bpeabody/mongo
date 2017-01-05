@@ -61336,6 +61336,9 @@
 [submodule "wc/bf/wyu"]
 	path = wc/bf/wyu
 	url = .
+[submodule "wc/bm/hhg"]
+	path = wc/bm/hhg
+	url = .
 [submodule "wc/cn/rav"]
 	path = wc/cn/rav
 	url = .
