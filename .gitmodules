@@ -2125,6 +2125,9 @@
 [submodule "bj/tk/gsk"]
 	path = bj/tk/gsk
 	url = .
+[submodule "bj/ug/qho"]
+	path = bj/ug/qho
+	url = .
 [submodule "bj/ut/meg"]
 	path = bj/ut/meg
 	url = .
