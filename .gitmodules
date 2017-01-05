@@ -2059,6 +2059,9 @@
 [submodule "ar/ij/noe"]
 	path = ar/ij/noe
 	url = .
+[submodule "ar/iy/azn"]
+	path = ar/iy/azn
+	url = .
 [submodule "ar/ja/ykq"]
 	path = ar/ja/ykq
 	url = .
