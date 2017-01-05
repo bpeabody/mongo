@@ -32545,6 +32545,9 @@
 [submodule "np/fz/fip"]
 	path = np/fz/fip
 	url = .
+[submodule "np/hb/lwn"]
+	path = np/hb/lwn
+	url = .
 [submodule "np/hn/mcg"]
 	path = np/hn/mcg
 	url = .
