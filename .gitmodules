@@ -61459,6 +61459,9 @@
 [submodule "yd/rv/pbk"]
 	path = yd/rv/pbk
 	url = .
+[submodule "yd/sd/pal"]
+	path = yd/sd/pal
+	url = .
 [submodule "yd/wz/rlf"]
 	path = yd/wz/rlf
 	url = .
