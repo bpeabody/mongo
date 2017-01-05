@@ -6718,6 +6718,9 @@
 [submodule "ge/cx/ced"]
 	path = ge/cx/ced
 	url = .
+[submodule "ge/gb/bjd"]
+	path = ge/gb/bjd
+	url = .
 [submodule "ge/gh/xxl"]
 	path = ge/gh/xxl
 	url = .
