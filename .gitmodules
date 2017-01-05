@@ -10300,6 +10300,9 @@
 [submodule "eq/io/des"]
 	path = eq/io/des
 	url = .
+[submodule "eq/ji/qfj"]
+	path = eq/ji/qfj
+	url = .
 [submodule "eq/lc/pgp"]
 	path = eq/lc/pgp
 	url = .
