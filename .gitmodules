@@ -41263,6 +41263,9 @@
 [submodule "py/up/lwq"]
 	path = py/up/lwq
 	url = .
+[submodule "py/vb/fhi"]
+	path = py/vb/fhi
+	url = .
 [submodule "py/wu/wwg"]
 	path = py/wu/wwg
 	url = .
