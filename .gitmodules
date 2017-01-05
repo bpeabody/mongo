@@ -25123,6 +25123,9 @@
 [submodule "si/uz/elt"]
 	path = si/uz/elt
 	url = .
+[submodule "si/vg/jah"]
+	path = si/vg/jah
+	url = .
 [submodule "si/zc/znd"]
 	path = si/zc/znd
 	url = .
