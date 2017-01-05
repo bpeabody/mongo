@@ -40879,6 +40879,9 @@
 [submodule "te/rf/uoo"]
 	path = te/rf/uoo
 	url = .
+[submodule "te/ti/ako"]
+	path = te/ti/ako
+	url = .
 [submodule "te/ua/rej"]
 	path = te/ua/rej
 	url = .
