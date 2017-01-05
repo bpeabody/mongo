@@ -8497,6 +8497,9 @@
 [submodule "nf/gy/fek"]
 	path = nf/gy/fek
 	url = .
+[submodule "nf/he/dis"]
+	path = nf/he/dis
+	url = .
 [submodule "nf/hp/idu"]
 	path = nf/hp/idu
 	url = .
