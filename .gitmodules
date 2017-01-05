@@ -2155,6 +2155,9 @@
 [submodule "bc/ex/tjs"]
 	path = bc/ex/tjs
 	url = .
+[submodule "bc/gd/xdn"]
+	path = bc/gd/xdn
+	url = .
 [submodule "bc/hr/txt"]
 	path = bc/hr/txt
 	url = .
