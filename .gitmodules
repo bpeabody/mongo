@@ -1528,6 +1528,9 @@
 [submodule "bf/yn/bva"]
 	path = bf/yn/bva
 	url = .
+[submodule "bg/ar/gqu"]
+	path = bg/ar/gqu
+	url = .
 [submodule "bg/ax/rzw"]
 	path = bg/ax/rzw
 	url = .
