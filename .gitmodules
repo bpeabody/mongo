@@ -13984,6 +13984,9 @@
 [submodule "je/sl/bgk"]
 	path = je/sl/bgk
 	url = .
+[submodule "je/tj/cvl"]
+	path = je/tj/cvl
+	url = .
 [submodule "je/uf/ish"]
 	path = je/uf/ish
 	url = .
