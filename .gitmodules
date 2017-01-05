@@ -39859,6 +39859,9 @@
 [submodule "xm/ly/vps"]
 	path = xm/ly/vps
 	url = .
+[submodule "xm/no/iyz"]
+	path = xm/no/iyz
+	url = .
 [submodule "xm/ol/dvm"]
 	path = xm/ol/dvm
 	url = .
