@@ -20551,6 +20551,9 @@
 [submodule "kd/qf/hyb"]
 	path = kd/qf/hyb
 	url = .
+[submodule "kd/sc/ybz"]
+	path = kd/sc/ybz
+	url = .
 [submodule "kd/sl/aoz"]
 	path = kd/sl/aoz
 	url = .
