@@ -15640,6 +15640,9 @@
 [submodule "ih/iq/uvz"]
 	path = ih/iq/uvz
 	url = .
+[submodule "ih/ka/pij"]
+	path = ih/ka/pij
+	url = .
 [submodule "ih/la/pgq"]
 	path = ih/la/pgq
 	url = .
