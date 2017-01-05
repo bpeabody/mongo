@@ -53083,6 +53083,9 @@
 [submodule "um/cf/sqk"]
 	path = um/cf/sqk
 	url = .
+[submodule "um/ct/lld"]
+	path = um/ct/lld
+	url = .
 [submodule "um/dv/knd"]
 	path = um/dv/knd
 	url = .
