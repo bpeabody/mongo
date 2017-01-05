@@ -6799,6 +6799,9 @@
 [submodule "hu/ks/jma"]
 	path = hu/ks/jma
 	url = .
+[submodule "hu/mr/ilx"]
+	path = hu/mr/ilx
+	url = .
 [submodule "hu/nr/xtl"]
 	path = hu/nr/xtl
 	url = .
