@@ -17572,6 +17572,9 @@
 [submodule "go/ty/ymo"]
 	path = go/ty/ymo
 	url = .
+[submodule "go/uh/cvh"]
+	path = go/uh/cvh
+	url = .
 [submodule "go/uu/qdj"]
 	path = go/uu/qdj
 	url = .
