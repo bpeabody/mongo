@@ -28630,6 +28630,9 @@
 [submodule "km/yv/ugm"]
 	path = km/yv/ugm
 	url = .
+[submodule "km/za/uyi"]
+	path = km/za/uyi
+	url = .
 [submodule "km/zk/fva"]
 	path = km/zk/fva
 	url = .
