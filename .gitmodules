@@ -1009,6 +1009,9 @@
 [submodule "aq/dc/mfc"]
 	path = aq/dc/mfc
 	url = .
+[submodule "aq/ei/yho"]
+	path = aq/ei/yho
+	url = .
 [submodule "aq/fg/lrb"]
 	path = aq/fg/lrb
 	url = .
