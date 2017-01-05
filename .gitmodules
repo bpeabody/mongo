@@ -2842,6 +2842,9 @@
 [submodule "bh/kq/skj"]
 	path = bh/kq/skj
 	url = .
+[submodule "bh/me/mrn"]
+	path = bh/me/mrn
+	url = .
 [submodule "bh/nt/fje"]
 	path = bh/nt/fje
 	url = .
