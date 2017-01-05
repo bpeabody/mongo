@@ -10525,6 +10525,9 @@
 [submodule "fk/mi/fac"]
 	path = fk/mi/fac
 	url = .
+[submodule "fk/nj/sng"]
+	path = fk/nj/sng
+	url = .
 [submodule "fk/nq/zud"]
 	path = fk/nq/zud
 	url = .
