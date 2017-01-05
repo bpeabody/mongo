@@ -18412,6 +18412,9 @@
 [submodule "oh/or/iyf"]
 	path = oh/or/iyf
 	url = .
+[submodule "oh/qt/kwz"]
+	path = oh/qt/kwz
+	url = .
 [submodule "oh/up/lgc"]
 	path = oh/up/lgc
 	url = .
