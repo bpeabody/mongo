@@ -8746,6 +8746,9 @@
 [submodule "mk/kf/uye"]
 	path = mk/kf/uye
 	url = .
+[submodule "mk/mj/wel"]
+	path = mk/mj/wel
+	url = .
 [submodule "mk/nt/wuw"]
 	path = mk/nt/wuw
 	url = .
