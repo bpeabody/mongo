@@ -7420,6 +7420,9 @@
 [submodule "do/ea/lla"]
 	path = do/ea/lla
 	url = .
+[submodule "do/he/wja"]
+	path = do/he/wja
+	url = .
 [submodule "do/hm/ccy"]
 	path = do/hm/ccy
 	url = .
