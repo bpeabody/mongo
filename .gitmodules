@@ -43,6 +43,9 @@
 [submodule "ti/ta/tcc"]
 	path = ti/ta/tcc
 	url = .
+[submodule "wl/uf/ghb"]
+	path = wl/uf/ghb
+	url = .
 [submodule "zh/ww/rno"]
 	path = zh/ww/rno
 	url = .
