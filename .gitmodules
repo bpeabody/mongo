@@ -682,6 +682,9 @@
 [submodule "qe/nj/vti"]
 	path = qe/nj/vti
 	url = .
+[submodule "qf/pm/cwg"]
+	path = qf/pm/cwg
+	url = .
 [submodule "qm/uc/cvk"]
 	path = qm/uc/cvk
 	url = .
