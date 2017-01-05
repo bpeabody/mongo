@@ -4831,6 +4831,9 @@
 [submodule "ye/ib/wmo"]
 	path = ye/ib/wmo
 	url = .
+[submodule "yf/mq/ecf"]
+	path = yf/mq/ecf
+	url = .
 [submodule "yg/fm/kqy"]
 	path = yg/fm/kqy
 	url = .
