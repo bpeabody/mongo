@@ -35710,6 +35710,9 @@
 [submodule "rp/fm/axf"]
 	path = rp/fm/axf
 	url = .
+[submodule "rp/hd/uoa"]
+	path = rp/hd/uoa
+	url = .
 [submodule "rp/hu/oeo"]
 	path = rp/hu/oeo
 	url = .
