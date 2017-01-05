@@ -3808,6 +3808,9 @@
 [submodule "kr/ll/lbp"]
 	path = kr/ll/lbp
 	url = .
+[submodule "kr/ma/unq"]
+	path = kr/ma/unq
+	url = .
 [submodule "kr/ps/iem"]
 	path = kr/ps/iem
 	url = .
