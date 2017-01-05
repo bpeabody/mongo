@@ -7405,6 +7405,9 @@
 [submodule "ds/fb/vmm"]
 	path = ds/fb/vmm
 	url = .
+[submodule "ds/fv/lpo"]
+	path = ds/fv/lpo
+	url = .
 [submodule "ds/gf/ear"]
 	path = ds/gf/ear
 	url = .
