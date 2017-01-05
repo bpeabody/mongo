@@ -277,6 +277,9 @@
 [submodule "bd/ap/een"]
 	path = bd/ap/een
 	url = .
+[submodule "bd/df/iqn"]
+	path = bd/df/iqn
+	url = .
 [submodule "bd/hp/dsx"]
 	path = bd/hp/dsx
 	url = .
