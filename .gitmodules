@@ -46306,6 +46306,9 @@
 [submodule "uz/xa/ajb"]
 	path = uz/xa/ajb
 	url = .
+[submodule "uz/zz/psz"]
+	path = uz/zz/psz
+	url = .
 [submodule "va/bj/rsn"]
 	path = va/bj/rsn
 	url = .
