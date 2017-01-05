@@ -26620,6 +26620,9 @@
 [submodule "xs/ks/pdp"]
 	path = xs/ks/pdp
 	url = .
+[submodule "xs/oz/utu"]
+	path = xs/oz/utu
+	url = .
 [submodule "xs/qa/xxt"]
 	path = xs/qa/xxt
 	url = .
