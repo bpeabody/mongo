@@ -24112,6 +24112,9 @@
 [submodule "jx/bw/mma"]
 	path = jx/bw/mma
 	url = .
+[submodule "jx/ci/gcm"]
+	path = jx/ci/gcm
+	url = .
 [submodule "jx/cn/gvr"]
 	path = jx/cn/gvr
 	url = .
