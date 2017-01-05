@@ -29812,6 +29812,9 @@
 [submodule "xj/dn/zwv"]
 	path = xj/dn/zwv
 	url = .
+[submodule "xj/hf/bai"]
+	path = xj/hf/bai
+	url = .
 [submodule "xj/hk/fae"]
 	path = xj/hk/fae
 	url = .
