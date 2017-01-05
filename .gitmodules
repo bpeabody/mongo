@@ -7963,6 +7963,9 @@
 [submodule "ly/ix/wbm"]
 	path = ly/ix/wbm
 	url = .
+[submodule "ly/nu/mef"]
+	path = ly/nu/mef
+	url = .
 [submodule "ly/od/bnk"]
 	path = ly/od/bnk
 	url = .
