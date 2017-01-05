@@ -12937,6 +12937,9 @@
 [submodule "gx/ts/jyl"]
 	path = gx/ts/jyl
 	url = .
+[submodule "gx/ug/frm"]
+	path = gx/ug/frm
+	url = .
 [submodule "gx/uw/iki"]
 	path = gx/uw/iki
 	url = .
