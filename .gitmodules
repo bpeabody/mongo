@@ -14755,6 +14755,9 @@
 [submodule "ps/fy/qhi"]
 	path = ps/fy/qhi
 	url = .
+[submodule "ps/kt/lsw"]
+	path = ps/kt/lsw
+	url = .
 [submodule "ps/ld/kvx"]
 	path = ps/ld/kvx
 	url = .
