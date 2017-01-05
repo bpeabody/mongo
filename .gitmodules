@@ -5506,6 +5506,9 @@
 [submodule "lm/ik/hqo"]
 	path = lm/ik/hqo
 	url = .
+[submodule "lm/iw/cgs"]
+	path = lm/iw/cgs
+	url = .
 [submodule "lm/oy/cmz"]
 	path = lm/oy/cmz
 	url = .
