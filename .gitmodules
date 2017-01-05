@@ -13915,6 +13915,9 @@
 [submodule "vt/la/szh"]
 	path = vt/la/szh
 	url = .
+[submodule "vt/nj/jle"]
+	path = vt/nj/jle
+	url = .
 [submodule "vt/su/guw"]
 	path = vt/su/guw
 	url = .
