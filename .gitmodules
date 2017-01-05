@@ -22540,6 +22540,9 @@
 [submodule "la/kd/nbw"]
 	path = la/kd/nbw
 	url = .
+[submodule "la/km/scn"]
+	path = la/km/scn
+	url = .
 [submodule "la/le/aqx"]
 	path = la/le/aqx
 	url = .
