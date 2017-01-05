@@ -11659,6 +11659,9 @@
 [submodule "nj/vi/lbe"]
 	path = nj/vi/lbe
 	url = .
+[submodule "nj/zx/hjp"]
+	path = nj/zx/hjp
+	url = .
 [submodule "nk/ag/vcr"]
 	path = nk/ag/vcr
 	url = .
