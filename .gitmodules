@@ -10240,6 +10240,9 @@
 [submodule "dp/eh/yuw"]
 	path = dp/eh/yuw
 	url = .
+[submodule "dp/es/vqu"]
+	path = dp/es/vqu
+	url = .
 [submodule "dp/et/pli"]
 	path = dp/et/pli
 	url = .
