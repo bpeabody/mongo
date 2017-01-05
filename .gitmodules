@@ -43459,6 +43459,9 @@
 [submodule "ql/oq/jdm"]
 	path = ql/oq/jdm
 	url = .
+[submodule "ql/oy/hlb"]
+	path = ql/oy/hlb
+	url = .
 [submodule "ql/pd/idi"]
 	path = ql/pd/idi
 	url = .
