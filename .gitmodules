@@ -11008,6 +11008,9 @@
 [submodule "rx/ix/nty"]
 	path = rx/ix/nty
 	url = .
+[submodule "rx/kq/ngt"]
+	path = rx/kq/ngt
+	url = .
 [submodule "rx/yj/wes"]
 	path = rx/yj/wes
 	url = .
