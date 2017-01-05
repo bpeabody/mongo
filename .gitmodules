@@ -8146,6 +8146,9 @@
 [submodule "nb/cd/ipr"]
 	path = nb/cd/ipr
 	url = .
+[submodule "nb/dq/tmk"]
+	path = nb/dq/tmk
+	url = .
 [submodule "nb/hj/fer"]
 	path = nb/hj/fer
 	url = .
