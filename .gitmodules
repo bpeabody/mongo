@@ -32437,6 +32437,9 @@
 [submodule "yc/dr/ose"]
 	path = yc/dr/ose
 	url = .
+[submodule "yc/dt/tln"]
+	path = yc/dt/tln
+	url = .
 [submodule "yc/hn/ycl"]
 	path = yc/hn/ycl
 	url = .
