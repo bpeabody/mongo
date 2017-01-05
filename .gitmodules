@@ -11848,6 +11848,9 @@
 [submodule "mx/nl/uyd"]
 	path = mx/nl/uyd
 	url = .
+[submodule "mx/oe/hdc"]
+	path = mx/oe/hdc
+	url = .
 [submodule "mx/qr/hsa"]
 	path = mx/qr/hsa
 	url = .
