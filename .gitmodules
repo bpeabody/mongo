@@ -47968,6 +47968,9 @@
 [submodule "wd/qq/xni"]
 	path = wd/qq/xni
 	url = .
+[submodule "wd/rh/rnh"]
+	path = wd/rh/rnh
+	url = .
 [submodule "wd/ri/hhd"]
 	path = wd/ri/hhd
 	url = .
