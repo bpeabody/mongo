@@ -34930,6 +34930,9 @@
 [submodule "se/xc/dri"]
 	path = se/xc/dri
 	url = .
+[submodule "se/xe/zqo"]
+	path = se/xe/zqo
+	url = .
 [submodule "se/xk/tfo"]
 	path = se/xk/tfo
 	url = .
