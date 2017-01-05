@@ -37624,6 +37624,9 @@
 [submodule "nb/eh/mew"]
 	path = nb/eh/mew
 	url = .
+[submodule "nb/eo/cga"]
+	path = nb/eo/cga
+	url = .
 [submodule "nb/fj/una"]
 	path = nb/fj/una
 	url = .
