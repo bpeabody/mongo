@@ -43255,6 +43255,9 @@
 [submodule "xl/np/stc"]
 	path = xl/np/stc
 	url = .
+[submodule "xl/nt/hxi"]
+	path = xl/nt/hxi
+	url = .
 [submodule "xl/oa/dpx"]
 	path = xl/oa/dpx
 	url = .
