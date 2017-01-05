@@ -50761,6 +50761,9 @@
 [submodule "up/th/xcw"]
 	path = up/th/xcw
 	url = .
+[submodule "up/tv/ocr"]
+	path = up/tv/ocr
+	url = .
 [submodule "up/va/vdd"]
 	path = up/va/vdd
 	url = .
