@@ -2290,6 +2290,9 @@
 [submodule "pn/oz/izu"]
 	path = pn/oz/izu
 	url = .
+[submodule "pn/wq/xin"]
+	path = pn/wq/xin
+	url = .
 [submodule "pp/hu/cof"]
 	path = pp/hu/cof
 	url = .
