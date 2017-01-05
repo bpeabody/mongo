@@ -2497,6 +2497,9 @@
 [submodule "jl/yx/cji"]
 	path = jl/yx/cji
 	url = .
+[submodule "jn/om/svx"]
+	path = jn/om/svx
+	url = .
 [submodule "jn/qv/day"]
 	path = jn/qv/day
 	url = .
