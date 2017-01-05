@@ -60304,6 +60304,9 @@
 [submodule "ua/gi/oac"]
 	path = ua/gi/oac
 	url = .
+[submodule "ua/gw/fgs"]
+	path = ua/gw/fgs
+	url = .
 [submodule "ua/hi/yej"]
 	path = ua/hi/yej
 	url = .
