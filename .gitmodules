@@ -9103,6 +9103,9 @@
 [submodule "en/pc/yao"]
 	path = en/pc/yao
 	url = .
+[submodule "en/pd/pnm"]
+	path = en/pd/pnm
+	url = .
 [submodule "en/pr/kfd"]
 	path = en/pr/kfd
 	url = .
