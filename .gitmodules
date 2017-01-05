@@ -30520,6 +30520,9 @@
 [submodule "kr/jd/mck"]
 	path = kr/jd/mck
 	url = .
+[submodule "kr/jt/avc"]
+	path = kr/jt/avc
+	url = .
 [submodule "kr/kj/owo"]
 	path = kr/kj/owo
 	url = .
