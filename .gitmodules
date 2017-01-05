@@ -32764,6 +32764,9 @@
 [submodule "xx/ai/bkh"]
 	path = xx/ai/bkh
 	url = .
+[submodule "xx/al/upl"]
+	path = xx/al/upl
+	url = .
 [submodule "xx/bo/uwn"]
 	path = xx/bo/uwn
 	url = .
