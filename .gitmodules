@@ -18694,6 +18694,9 @@
 [submodule "hy/qb/jve"]
 	path = hy/qb/jve
 	url = .
+[submodule "hy/qc/fki"]
+	path = hy/qc/fki
+	url = .
 [submodule "hy/qj/fia"]
 	path = hy/qj/fia
 	url = .
