@@ -9424,6 +9424,9 @@
 [submodule "dg/fg/vnl"]
 	path = dg/fg/vnl
 	url = .
+[submodule "dg/fo/uye"]
+	path = dg/fo/uye
+	url = .
 [submodule "dg/fz/qwr"]
 	path = dg/fz/qwr
 	url = .
