@@ -54313,6 +54313,9 @@
 [submodule "ya/yf/yoc"]
 	path = ya/yf/yoc
 	url = .
+[submodule "ya/yk/spp"]
+	path = ya/yk/spp
+	url = .
 [submodule "yb/ap/qzz"]
 	path = yb/ap/qzz
 	url = .
