@@ -6931,6 +6931,9 @@
 [submodule "tk/rt/asr"]
 	path = tk/rt/asr
 	url = .
+[submodule "tk/sn/ppn"]
+	path = tk/sn/ppn
+	url = .
 [submodule "tk/uo/ipc"]
 	path = tk/uo/ipc
 	url = .
