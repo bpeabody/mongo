@@ -7339,6 +7339,9 @@
 [submodule "dp/ef/pei"]
 	path = dp/ef/pei
 	url = .
+[submodule "dp/eh/yuw"]
+	path = dp/eh/yuw
+	url = .
 [submodule "dp/et/pli"]
 	path = dp/et/pli
 	url = .
