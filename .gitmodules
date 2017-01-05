@@ -8911,6 +8911,9 @@
 [submodule "vl/ok/grm"]
 	path = vl/ok/grm
 	url = .
+[submodule "vl/tg/lzf"]
+	path = vl/tg/lzf
+	url = .
 [submodule "vl/xt/qbe"]
 	path = vl/xt/qbe
 	url = .
