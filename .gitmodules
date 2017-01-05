@@ -49663,6 +49663,9 @@
 [submodule "wx/tj/xkq"]
 	path = wx/tj/xkq
 	url = .
+[submodule "wx/uf/yjq"]
+	path = wx/uf/yjq
+	url = .
 [submodule "wx/va/unt"]
 	path = wx/va/unt
 	url = .
