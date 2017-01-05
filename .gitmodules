@@ -3646,6 +3646,9 @@
 [submodule "bz/yr/oaf"]
 	path = bz/yr/oaf
 	url = .
+[submodule "bz/yu/ewp"]
+	path = bz/yu/ewp
+	url = .
 [submodule "ca/aa/mxm"]
 	path = ca/aa/mxm
 	url = .
