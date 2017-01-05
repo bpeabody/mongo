@@ -26311,6 +26311,9 @@
 [submodule "tv/ay/kig"]
 	path = tv/ay/kig
 	url = .
+[submodule "tv/da/qdf"]
+	path = tv/da/qdf
+	url = .
 [submodule "tv/gl/msr"]
 	path = tv/gl/msr
 	url = .
