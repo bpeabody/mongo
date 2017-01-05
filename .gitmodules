@@ -47278,6 +47278,9 @@
 [submodule "rt/ji/tab"]
 	path = rt/ji/tab
 	url = .
+[submodule "rt/ku/lmf"]
+	path = rt/ku/lmf
+	url = .
 [submodule "rt/lm/ety"]
 	path = rt/lm/ety
 	url = .
