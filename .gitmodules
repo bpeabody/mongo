@@ -39454,6 +39454,9 @@
 [submodule "zo/ii/ndu"]
 	path = zo/ii/ndu
 	url = .
+[submodule "zo/in/smc"]
+	path = zo/in/smc
+	url = .
 [submodule "zo/jl/qeu"]
 	path = zo/jl/qeu
 	url = .
