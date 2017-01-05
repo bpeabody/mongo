@@ -14623,6 +14623,9 @@
 [submodule "gd/iv/lfc"]
 	path = gd/iv/lfc
 	url = .
+[submodule "gd/jo/bot"]
+	path = gd/jo/bot
+	url = .
 [submodule "gd/kj/ddl"]
 	path = gd/kj/ddl
 	url = .
