@@ -21841,6 +21841,9 @@
 [submodule "uh/it/buv"]
 	path = uh/it/buv
 	url = .
+[submodule "uh/ln/bzn"]
+	path = uh/ln/bzn
+	url = .
 [submodule "uh/oc/wfm"]
 	path = uh/oc/wfm
 	url = .
