@@ -5677,6 +5677,9 @@
 [submodule "gq/aa/qjz"]
 	path = gq/aa/qjz
 	url = .
+[submodule "gq/fo/eic"]
+	path = gq/fo/eic
+	url = .
 [submodule "gq/jw/mhv"]
 	path = gq/jw/mhv
 	url = .
