@@ -1375,6 +1375,9 @@
 [submodule "rw/qp/gos"]
 	path = rw/qp/gos
 	url = .
+[submodule "ry/gm/kun"]
+	path = ry/gm/kun
+	url = .
 [submodule "ry/kg/xet"]
 	path = ry/kg/xet
 	url = .
