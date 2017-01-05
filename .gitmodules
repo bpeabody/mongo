@@ -10153,6 +10153,9 @@
 [submodule "vg/sd/vns"]
 	path = vg/sd/vns
 	url = .
+[submodule "vg/uc/lne"]
+	path = vg/uc/lne
+	url = .
 [submodule "vg/xc/opq"]
 	path = vg/xc/opq
 	url = .
