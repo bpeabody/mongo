@@ -853,6 +853,9 @@
 [submodule "hy/sz/fsm"]
 	path = hy/sz/fsm
 	url = .
+[submodule "hz/ca/ijp"]
+	path = hz/ca/ijp
+	url = .
 [submodule "hz/mp/odp"]
 	path = hz/mp/odp
 	url = .
