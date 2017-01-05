@@ -19171,6 +19171,9 @@
 [submodule "sd/sf/nwl"]
 	path = sd/sf/nwl
 	url = .
+[submodule "sd/sg/mfr"]
+	path = sd/sg/mfr
+	url = .
 [submodule "sd/sz/uir"]
 	path = sd/sz/uir
 	url = .
