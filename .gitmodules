@@ -13918,6 +13918,9 @@
 [submodule "ts/ma/tyu"]
 	path = ts/ma/tyu
 	url = .
+[submodule "ts/no/cqq"]
+	path = ts/no/cqq
+	url = .
 [submodule "ts/no/eha"]
 	path = ts/no/eha
 	url = .
