@@ -18181,6 +18181,9 @@
 [submodule "si/mk/lcx"]
 	path = si/mk/lcx
 	url = .
+[submodule "si/ms/ljp"]
+	path = si/ms/ljp
+	url = .
 [submodule "si/pg/ybl"]
 	path = si/pg/ybl
 	url = .
