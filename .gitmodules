@@ -11197,6 +11197,9 @@
 [submodule "me/hj/cwk"]
 	path = me/hj/cwk
 	url = .
+[submodule "me/pn/skl"]
+	path = me/pn/skl
+	url = .
 [submodule "me/ts/zce"]
 	path = me/ts/zce
 	url = .
