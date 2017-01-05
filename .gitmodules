@@ -11722,6 +11722,9 @@
 [submodule "dz/pk/cud"]
 	path = dz/pk/cud
 	url = .
+[submodule "dz/pw/uhr"]
+	path = dz/pw/uhr
+	url = .
 [submodule "dz/qp/nsy"]
 	path = dz/qp/nsy
 	url = .
