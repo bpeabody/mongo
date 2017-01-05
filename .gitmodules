@@ -5347,6 +5347,9 @@
 [submodule "mh/or/hfq"]
 	path = mh/or/hfq
 	url = .
+[submodule "mh/vv/hbu"]
+	path = mh/vv/hbu
+	url = .
 [submodule "mi/hg/svp"]
 	path = mi/hg/svp
 	url = .
