@@ -88,6 +88,9 @@
 [submodule "aa/ws/pmk"]
 	path = aa/ws/pmk
 	url = .
+[submodule "aa/xj/srl"]
+	path = aa/xj/srl
+	url = .
 [submodule "aa/xu/bcq"]
 	path = aa/xu/bcq
 	url = .
