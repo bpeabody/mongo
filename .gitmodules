@@ -40651,6 +40651,9 @@
 [submodule "ox/qt/loo"]
 	path = ox/qt/loo
 	url = .
+[submodule "ox/ri/iky"]
+	path = ox/ri/iky
+	url = .
 [submodule "ox/rz/bnt"]
 	path = ox/rz/bnt
 	url = .
