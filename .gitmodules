@@ -76,6 +76,9 @@
 [submodule "wl/uf/ghb"]
 	path = wl/uf/ghb
 	url = .
+[submodule "xd/xz/sum"]
+	path = xd/xz/sum
+	url = .
 [submodule "yp/vq/iys"]
 	path = yp/vq/iys
 	url = .
