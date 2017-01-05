@@ -2110,6 +2110,9 @@
 [submodule "dm/lr/dnv"]
 	path = dm/lr/dnv
 	url = .
+[submodule "dm/qa/npi"]
+	path = dm/qa/npi
+	url = .
 [submodule "dm/rz/jbt"]
 	path = dm/rz/jbt
 	url = .
