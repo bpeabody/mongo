@@ -27415,6 +27415,9 @@
 [submodule "kc/zp/all"]
 	path = kc/zp/all
 	url = .
+[submodule "kd/al/wdr"]
+	path = kd/al/wdr
+	url = .
 [submodule "kd/bk/qba"]
 	path = kd/bk/qba
 	url = .
