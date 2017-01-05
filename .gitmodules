@@ -2170,6 +2170,9 @@
 [submodule "as/so/ubz"]
 	path = as/so/ubz
 	url = .
+[submodule "as/sy/mam"]
+	path = as/sy/mam
+	url = .
 [submodule "as/ta/ejo"]
 	path = as/ta/ejo
 	url = .
