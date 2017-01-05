@@ -18448,6 +18448,9 @@
 [submodule "ro/xg/xpg"]
 	path = ro/xg/xpg
 	url = .
+[submodule "ro/zt/vdp"]
+	path = ro/zt/vdp
+	url = .
 [submodule "rp/ac/nbu"]
 	path = rp/ac/nbu
 	url = .
