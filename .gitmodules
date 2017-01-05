@@ -4369,6 +4369,9 @@
 [submodule "hz/ca/ijp"]
 	path = hz/ca/ijp
 	url = .
+[submodule "hz/fh/vuq"]
+	path = hz/fh/vuq
+	url = .
 [submodule "hz/la/xvc"]
 	path = hz/la/xvc
 	url = .
