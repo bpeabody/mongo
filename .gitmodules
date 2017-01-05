@@ -21001,6 +21001,9 @@
 [submodule "jb/ea/szb"]
 	path = jb/ea/szb
 	url = .
+[submodule "jb/ee/mhi"]
+	path = jb/ee/mhi
+	url = .
 [submodule "jb/gp/dql"]
 	path = jb/gp/dql
 	url = .
