@@ -31876,6 +31876,9 @@
 [submodule "ps/pb/chz"]
 	path = ps/pb/chz
 	url = .
+[submodule "ps/pf/boi"]
+	path = ps/pf/boi
+	url = .
 [submodule "ps/pf/zyh"]
 	path = ps/pf/zyh
 	url = .
