@@ -50626,6 +50626,9 @@
 [submodule "zf/uv/keq"]
 	path = zf/uv/keq
 	url = .
+[submodule "zf/uz/mcp"]
+	path = zf/uz/mcp
+	url = .
 [submodule "zf/vv/tkc"]
 	path = zf/vv/tkc
 	url = .
