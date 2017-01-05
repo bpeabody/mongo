@@ -7861,6 +7861,9 @@
 [submodule "dx/ga/tjq"]
 	path = dx/ga/tjq
 	url = .
+[submodule "dx/gu/orz"]
+	path = dx/gu/orz
+	url = .
 [submodule "dx/ho/grm"]
 	path = dx/ho/grm
 	url = .
