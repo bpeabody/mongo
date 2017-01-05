@@ -4165,6 +4165,9 @@
 [submodule "jl/my/ovh"]
 	path = jl/my/ovh
 	url = .
+[submodule "jl/nr/fmi"]
+	path = jl/nr/fmi
+	url = .
 [submodule "jl/ua/wck"]
 	path = jl/ua/wck
 	url = .
