@@ -9046,6 +9046,9 @@
 [submodule "uq/xb/xuw"]
 	path = uq/xb/xuw
 	url = .
+[submodule "uq/yu/svl"]
+	path = uq/yu/svl
+	url = .
 [submodule "ur/bz/zsv"]
 	path = ur/bz/zsv
 	url = .
