@@ -15919,6 +15919,9 @@
 [submodule "hm/nf/qlv"]
 	path = hm/nf/qlv
 	url = .
+[submodule "hm/nw/qmd"]
+	path = hm/nw/qmd
+	url = .
 [submodule "hm/pd/tih"]
 	path = hm/pd/tih
 	url = .
