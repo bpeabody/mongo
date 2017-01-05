@@ -1450,6 +1450,9 @@
 [submodule "cf/av/siw"]
 	path = cf/av/siw
 	url = .
+[submodule "cf/ch/mhg"]
+	path = cf/ch/mhg
+	url = .
 [submodule "cf/cx/gij"]
 	path = cf/cx/gij
 	url = .
