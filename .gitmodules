@@ -25,6 +25,9 @@
 [submodule "aa/oe/eje"]
 	path = aa/oe/eje
 	url = .
+[submodule "aa/rg/hea"]
+	path = aa/rg/hea
+	url = .
 [submodule "aa/sa/vyd"]
 	path = aa/sa/vyd
 	url = .
