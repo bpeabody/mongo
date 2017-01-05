@@ -9805,6 +9805,9 @@
 [submodule "vo/oe/xzo"]
 	path = vo/oe/xzo
 	url = .
+[submodule "vo/qi/fmd"]
+	path = vo/qi/fmd
+	url = .
 [submodule "vo/sx/chk"]
 	path = vo/sx/chk
 	url = .
