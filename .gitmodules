@@ -53698,6 +53698,9 @@
 [submodule "vs/jv/npw"]
 	path = vs/jv/npw
 	url = .
+[submodule "vs/ko/eag"]
+	path = vs/ko/eag
+	url = .
 [submodule "vs/lz/dsw"]
 	path = vs/lz/dsw
 	url = .
