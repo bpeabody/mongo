@@ -2191,6 +2191,9 @@
 [submodule "fz/qf/hvs"]
 	path = fz/qf/hvs
 	url = .
+[submodule "fz/uh/bnr"]
+	path = fz/uh/bnr
+	url = .
 [submodule "fz/xp/pti"]
 	path = fz/xp/pti
 	url = .
