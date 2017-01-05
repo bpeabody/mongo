@@ -24358,6 +24358,9 @@
 [submodule "og/lx/sml"]
 	path = og/lx/sml
 	url = .
+[submodule "og/nu/fip"]
+	path = og/nu/fip
+	url = .
 [submodule "og/nu/gqn"]
 	path = og/nu/gqn
 	url = .
