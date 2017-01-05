@@ -1231,6 +1231,9 @@
 [submodule "ao/tr/hjr"]
 	path = ao/tr/hjr
 	url = .
+[submodule "ao/tx/abz"]
+	path = ao/tx/abz
+	url = .
 [submodule "ao/uq/ekz"]
 	path = ao/uq/ekz
 	url = .
