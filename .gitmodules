@@ -29428,6 +29428,9 @@
 [submodule "qt/vd/euh"]
 	path = qt/vd/euh
 	url = .
+[submodule "qt/vi/pnb"]
+	path = qt/vi/pnb
+	url = .
 [submodule "qt/wa/esh"]
 	path = qt/wa/esh
 	url = .
