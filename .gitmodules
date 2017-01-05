@@ -47092,6 +47092,9 @@
 [submodule "ra/mr/lew"]
 	path = ra/mr/lew
 	url = .
+[submodule "ra/mt/qdp"]
+	path = ra/mt/qdp
+	url = .
 [submodule "ra/mx/rbt"]
 	path = ra/mx/rbt
 	url = .
