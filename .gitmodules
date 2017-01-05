@@ -10471,6 +10471,9 @@
 [submodule "fx/wj/mlr"]
 	path = fx/wj/mlr
 	url = .
+[submodule "fx/xc/oky"]
+	path = fx/xc/oky
+	url = .
 [submodule "fx/xl/tkk"]
 	path = fx/xl/tkk
 	url = .
