@@ -3679,6 +3679,9 @@
 [submodule "sa/bb/azr"]
 	path = sa/bb/azr
 	url = .
+[submodule "sa/cc/kdc"]
+	path = sa/cc/kdc
+	url = .
 [submodule "sa/ka/biu"]
 	path = sa/ka/biu
 	url = .
