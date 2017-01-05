@@ -30619,6 +30619,9 @@
 [submodule "uc/px/lcq"]
 	path = uc/px/lcq
 	url = .
+[submodule "uc/qa/tsi"]
+	path = uc/qa/tsi
+	url = .
 [submodule "uc/qj/kyo"]
 	path = uc/qj/kyo
 	url = .
