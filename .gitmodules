@@ -12379,6 +12379,9 @@
 [submodule "hy/ps/eub"]
 	path = hy/ps/eub
 	url = .
+[submodule "hy/qb/jve"]
+	path = hy/qb/jve
+	url = .
 [submodule "hy/qj/fia"]
 	path = hy/qj/fia
 	url = .
