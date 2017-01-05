@@ -24205,6 +24205,9 @@
 [submodule "nx/lv/ivy"]
 	path = nx/lv/ivy
 	url = .
+[submodule "nx/mv/tpg"]
+	path = nx/mv/tpg
+	url = .
 [submodule "nx/na/ijk"]
 	path = nx/na/ijk
 	url = .
