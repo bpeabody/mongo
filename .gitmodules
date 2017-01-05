@@ -11017,6 +11017,9 @@
 [submodule "ej/yp/aty"]
 	path = ej/yp/aty
 	url = .
+[submodule "ek/am/fut"]
+	path = ek/am/fut
+	url = .
 [submodule "ek/bh/rli"]
 	path = ek/bh/rli
 	url = .
