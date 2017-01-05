@@ -29608,6 +29608,9 @@
 [submodule "pm/pl/tga"]
 	path = pm/pl/tga
 	url = .
+[submodule "pm/sd/nxa"]
+	path = pm/sd/nxa
+	url = .
 [submodule "pm/vy/nlo"]
 	path = pm/vy/nlo
 	url = .
