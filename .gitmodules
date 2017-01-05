@@ -667,6 +667,9 @@
 [submodule "aj/vp/wxu"]
 	path = aj/vp/wxu
 	url = .
+[submodule "aj/vv/wuj"]
+	path = aj/vv/wuj
+	url = .
 [submodule "aj/ww/bes"]
 	path = aj/ww/bes
 	url = .
