@@ -17800,6 +17800,9 @@
 [submodule "hi/jp/knh"]
 	path = hi/jp/knh
 	url = .
+[submodule "hi/kn/faq"]
+	path = hi/kn/faq
+	url = .
 [submodule "hi/ll/ldk"]
 	path = hi/ll/ldk
 	url = .
