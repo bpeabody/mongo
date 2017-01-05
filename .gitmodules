@@ -8749,6 +8749,9 @@
 [submodule "fd/fr/fgf"]
 	path = fd/fr/fgf
 	url = .
+[submodule "fd/hi/uor"]
+	path = fd/hi/uor
+	url = .
 [submodule "fd/ht/qqn"]
 	path = fd/ht/qqn
 	url = .
