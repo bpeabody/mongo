@@ -3403,6 +3403,9 @@
 [submodule "cb/qu/qzw"]
 	path = cb/qu/qzw
 	url = .
+[submodule "cb/qz/ybd"]
+	path = cb/qz/ybd
+	url = .
 [submodule "cb/rn/eul"]
 	path = cb/rn/eul
 	url = .
