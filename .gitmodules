@@ -28087,6 +28087,9 @@
 [submodule "ji/xy/vfi"]
 	path = ji/xy/vfi
 	url = .
+[submodule "ji/yu/egd"]
+	path = ji/yu/egd
+	url = .
 [submodule "ji/yu/otk"]
 	path = ji/yu/otk
 	url = .
