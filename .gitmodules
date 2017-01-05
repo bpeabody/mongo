@@ -6082,6 +6082,9 @@
 [submodule "ct/yf/mal"]
 	path = ct/yf/mal
 	url = .
+[submodule "ct/yy/iam"]
+	path = ct/yy/iam
+	url = .
 [submodule "cu/al/jri"]
 	path = cu/al/jri
 	url = .
