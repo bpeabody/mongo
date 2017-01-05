@@ -12991,6 +12991,9 @@
 [submodule "nq/ac/rer"]
 	path = nq/ac/rer
 	url = .
+[submodule "nq/bt/vtl"]
+	path = nq/bt/vtl
+	url = .
 [submodule "nq/cx/bhh"]
 	path = nq/cx/bhh
 	url = .
