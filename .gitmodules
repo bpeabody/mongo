@@ -21667,6 +21667,9 @@
 [submodule "ln/mz/bil"]
 	path = ln/mz/bil
 	url = .
+[submodule "ln/ol/qbu"]
+	path = ln/ol/qbu
+	url = .
 [submodule "ln/pd/ezv"]
 	path = ln/pd/ezv
 	url = .
