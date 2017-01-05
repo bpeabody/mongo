@@ -1318,6 +1318,9 @@
 [submodule "ds/rh/amp"]
 	path = ds/rh/amp
 	url = .
+[submodule "ds/vx/hxa"]
+	path = ds/vx/hxa
+	url = .
 [submodule "ds/yc/sla"]
 	path = ds/yc/sla
 	url = .
