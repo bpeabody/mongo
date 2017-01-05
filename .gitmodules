@@ -20830,6 +20830,9 @@
 [submodule "lx/kb/wrf"]
 	path = lx/kb/wrf
 	url = .
+[submodule "lx/lu/moy"]
+	path = lx/lu/moy
+	url = .
 [submodule "lx/mj/hod"]
 	path = lx/mj/hod
 	url = .
