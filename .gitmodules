@@ -4879,6 +4879,9 @@
 [submodule "dp/ad/bnk"]
 	path = dp/ad/bnk
 	url = .
+[submodule "dp/am/uko"]
+	path = dp/am/uko
+	url = .
 [submodule "dp/am/vmf"]
 	path = dp/am/vmf
 	url = .
