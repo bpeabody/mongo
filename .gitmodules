@@ -2773,6 +2773,9 @@
 [submodule "bo/eu/vbe"]
 	path = bo/eu/vbe
 	url = .
+[submodule "bo/fp/cyo"]
+	path = bo/fp/cyo
+	url = .
 [submodule "bo/hg/fzn"]
 	path = bo/hg/fzn
 	url = .
