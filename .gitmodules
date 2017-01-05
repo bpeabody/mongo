@@ -10144,6 +10144,9 @@
 [submodule "ii/tc/yuw"]
 	path = ii/tc/yuw
 	url = .
+[submodule "ii/vr/xgg"]
+	path = ii/vr/xgg
+	url = .
 [submodule "ii/vs/nfd"]
 	path = ii/vs/nfd
 	url = .
