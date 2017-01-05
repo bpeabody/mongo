@@ -4756,6 +4756,9 @@
 [submodule "de/ht/upb"]
 	path = de/ht/upb
 	url = .
+[submodule "de/jj/xdh"]
+	path = de/jj/xdh
+	url = .
 [submodule "de/js/etd"]
 	path = de/js/etd
 	url = .
