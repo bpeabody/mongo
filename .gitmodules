@@ -691,6 +691,9 @@
 [submodule "cc/zh/gsw"]
 	path = cc/zh/gsw
 	url = .
+[submodule "cd/ah/mfd"]
+	path = cd/ah/mfd
+	url = .
 [submodule "cd/dh/pkj"]
 	path = cd/dh/pkj
 	url = .
