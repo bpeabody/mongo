@@ -19123,6 +19123,9 @@
 [submodule "or/vg/cnt"]
 	path = or/vg/cnt
 	url = .
+[submodule "or/vn/uss"]
+	path = or/vn/uss
+	url = .
 [submodule "or/wa/mdv"]
 	path = or/wa/mdv
 	url = .
