@@ -15061,6 +15061,9 @@
 [submodule "xk/hk/jwq"]
 	path = xk/hk/jwq
 	url = .
+[submodule "xk/ig/lsf"]
+	path = xk/ig/lsf
+	url = .
 [submodule "xk/ix/lsf"]
 	path = xk/ix/lsf
 	url = .
