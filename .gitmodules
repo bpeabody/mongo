@@ -9550,6 +9550,9 @@
 [submodule "iv/sa/plf"]
 	path = iv/sa/plf
 	url = .
+[submodule "iv/uy/sre"]
+	path = iv/uy/sre
+	url = .
 [submodule "iv/vx/sca"]
 	path = iv/vx/sca
 	url = .
