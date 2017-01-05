@@ -166,6 +166,9 @@
 [submodule "mr/og/htr"]
 	path = mr/og/htr
 	url = .
+[submodule "nh/js/wmn"]
+	path = nh/js/wmn
+	url = .
 [submodule "no/qw/oes"]
 	path = no/qw/oes
 	url = .
