@@ -13885,6 +13885,9 @@
 [submodule "kc/fs/ndk"]
 	path = kc/fs/ndk
 	url = .
+[submodule "kc/gf/agy"]
+	path = kc/gf/agy
+	url = .
 [submodule "kc/gq/ygz"]
 	path = kc/gq/ygz
 	url = .
