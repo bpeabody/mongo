@@ -17794,6 +17794,9 @@
 [submodule "uo/qv/nrn"]
 	path = uo/qv/nrn
 	url = .
+[submodule "uo/rv/rak"]
+	path = uo/rv/rak
+	url = .
 [submodule "uo/ud/ezi"]
 	path = uo/ud/ezi
 	url = .
