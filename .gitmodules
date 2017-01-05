@@ -1726,6 +1726,9 @@
 [submodule "bs/sb/kpb"]
 	path = bs/sb/kpb
 	url = .
+[submodule "bs/tx/tto"]
+	path = bs/tx/tto
+	url = .
 [submodule "bs/ue/wwp"]
 	path = bs/ue/wwp
 	url = .
