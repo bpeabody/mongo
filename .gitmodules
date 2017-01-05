@@ -35644,6 +35644,9 @@
 [submodule "st/bs/dow"]
 	path = st/bs/dow
 	url = .
+[submodule "st/cm/tvr"]
+	path = st/cm/tvr
+	url = .
 [submodule "st/dk/wcv"]
 	path = st/dk/wcv
 	url = .
