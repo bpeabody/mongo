@@ -46408,6 +46408,9 @@
 [submodule "uo/ly/ssz"]
 	path = uo/ly/ssz
 	url = .
+[submodule "uo/pu/vdt"]
+	path = uo/pu/vdt
+	url = .
 [submodule "uo/qv/nrn"]
 	path = uo/qv/nrn
 	url = .
