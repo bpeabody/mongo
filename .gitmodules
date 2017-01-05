@@ -35107,6 +35107,9 @@
 [submodule "ro/gl/cwo"]
 	path = ro/gl/cwo
 	url = .
+[submodule "ro/hu/jqs"]
+	path = ro/hu/jqs
+	url = .
 [submodule "ro/if/xze"]
 	path = ro/if/xze
 	url = .
