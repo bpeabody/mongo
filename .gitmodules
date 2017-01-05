@@ -22246,6 +22246,9 @@
 [submodule "hu/gx/dst"]
 	path = hu/gx/dst
 	url = .
+[submodule "hu/hi/egq"]
+	path = hu/hi/egq
+	url = .
 [submodule "hu/jw/orq"]
 	path = hu/jw/orq
 	url = .
