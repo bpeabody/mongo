@@ -13885,6 +13885,9 @@
 [submodule "px/vf/pve"]
 	path = px/vf/pve
 	url = .
+[submodule "px/xf/hmi"]
+	path = px/xf/hmi
+	url = .
 [submodule "px/yh/wui"]
 	path = px/yh/wui
 	url = .
