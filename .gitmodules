@@ -29884,6 +29884,9 @@
 [submodule "qu/wj/eda"]
 	path = qu/wj/eda
 	url = .
+[submodule "qu/yg/dwx"]
+	path = qu/yg/dwx
+	url = .
 [submodule "qu/zc/zxw"]
 	path = qu/zc/zxw
 	url = .
