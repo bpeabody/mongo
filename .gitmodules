@@ -2746,6 +2746,9 @@
 [submodule "br/gd/aiz"]
 	path = br/gd/aiz
 	url = .
+[submodule "br/hk/gyn"]
+	path = br/hk/gyn
+	url = .
 [submodule "br/iy/dro"]
 	path = br/iy/dro
 	url = .
