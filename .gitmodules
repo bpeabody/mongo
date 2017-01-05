@@ -31888,6 +31888,9 @@
 [submodule "qo/lz/jwb"]
 	path = qo/lz/jwb
 	url = .
+[submodule "qo/mv/wda"]
+	path = qo/mv/wda
+	url = .
 [submodule "qo/rt/fir"]
 	path = qo/rt/fir
 	url = .
