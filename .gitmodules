@@ -27094,6 +27094,9 @@
 [submodule "ss/do/dwh"]
 	path = ss/do/dwh
 	url = .
+[submodule "ss/gj/qgn"]
+	path = ss/gj/qgn
+	url = .
 [submodule "ss/md/azy"]
 	path = ss/md/azy
 	url = .
