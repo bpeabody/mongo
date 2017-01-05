@@ -97,6 +97,9 @@
 [submodule "ac/mt/loe"]
 	path = ac/mt/loe
 	url = .
+[submodule "ac/mz/xdf"]
+	path = ac/mz/xdf
+	url = .
 [submodule "ac/nb/xui"]
 	path = ac/nb/xui
 	url = .
