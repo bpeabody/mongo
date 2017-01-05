@@ -45454,6 +45454,9 @@
 [submodule "zv/gp/erp"]
 	path = zv/gp/erp
 	url = .
+[submodule "zv/hw/pub"]
+	path = zv/hw/pub
+	url = .
 [submodule "zv/ko/ecw"]
 	path = zv/ko/ecw
 	url = .
