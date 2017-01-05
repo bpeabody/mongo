@@ -6520,6 +6520,9 @@
 [submodule "hv/kq/zgj"]
 	path = hv/kq/zgj
 	url = .
+[submodule "hv/nc/loh"]
+	path = hv/nc/loh
+	url = .
 [submodule "hv/qv/ovt"]
 	path = hv/qv/ovt
 	url = .
