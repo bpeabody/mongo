@@ -7219,6 +7219,9 @@
 [submodule "cw/tm/tcr"]
 	path = cw/tm/tcr
 	url = .
+[submodule "cw/ub/vjg"]
+	path = cw/ub/vjg
+	url = .
 [submodule "cw/xh/ymd"]
 	path = cw/xh/ymd
 	url = .
