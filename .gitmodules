@@ -10516,6 +10516,9 @@
 [submodule "mg/lb/wkw"]
 	path = mg/lb/wkw
 	url = .
+[submodule "mg/ns/cnq"]
+	path = mg/ns/cnq
+	url = .
 [submodule "mg/uh/srd"]
 	path = mg/uh/srd
 	url = .
