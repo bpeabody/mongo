@@ -718,6 +718,9 @@
 [submodule "ai/qm/fys"]
 	path = ai/qm/fys
 	url = .
+[submodule "ai/re/okw"]
+	path = ai/re/okw
+	url = .
 [submodule "ai/vg/lop"]
 	path = ai/vg/lop
 	url = .
