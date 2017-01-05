@@ -64834,6 +64834,9 @@
 [submodule "xb/ty/vva"]
 	path = xb/ty/vva
 	url = .
+[submodule "xb/ua/xrz"]
+	path = xb/ua/xrz
+	url = .
 [submodule "xb/uk/qis"]
 	path = xb/uk/qis
 	url = .
