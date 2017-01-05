@@ -3001,6 +3001,9 @@
 [submodule "jj/nc/xek"]
 	path = jj/nc/xek
 	url = .
+[submodule "jj/pc/bhr"]
+	path = jj/pc/bhr
+	url = .
 [submodule "jj/qd/eix"]
 	path = jj/qd/eix
 	url = .
