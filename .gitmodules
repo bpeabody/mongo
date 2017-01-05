@@ -5809,6 +5809,9 @@
 [submodule "xt/fv/mjj"]
 	path = xt/fv/mjj
 	url = .
+[submodule "xt/kh/yar"]
+	path = xt/kh/yar
+	url = .
 [submodule "xt/vr/eog"]
 	path = xt/vr/eog
 	url = .
