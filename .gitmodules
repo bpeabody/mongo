@@ -14365,6 +14365,9 @@
 [submodule "fd/cs/cop"]
 	path = fd/cs/cop
 	url = .
+[submodule "fd/da/nvi"]
+	path = fd/da/nvi
+	url = .
 [submodule "fd/ds/xnn"]
 	path = fd/ds/xnn
 	url = .
