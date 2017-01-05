@@ -48079,6 +48079,9 @@
 [submodule "wc/jq/kvf"]
 	path = wc/jq/kvf
 	url = .
+[submodule "wc/kp/fev"]
+	path = wc/kp/fev
+	url = .
 [submodule "wc/ky/yiw"]
 	path = wc/ky/yiw
 	url = .
