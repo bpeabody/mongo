@@ -30415,6 +30415,9 @@
 [submodule "pq/kp/xdp"]
 	path = pq/kp/xdp
 	url = .
+[submodule "pq/lb/gdu"]
+	path = pq/lb/gdu
+	url = .
 [submodule "pq/nc/pth"]
 	path = pq/nc/pth
 	url = .
