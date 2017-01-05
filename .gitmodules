@@ -39235,6 +39235,9 @@
 [submodule "qt/zv/qla"]
 	path = qt/zv/qla
 	url = .
+[submodule "qu/ag/xwt"]
+	path = qu/ag/xwt
+	url = .
 [submodule "qu/bd/uxt"]
 	path = qu/bd/uxt
 	url = .
