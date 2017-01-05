@@ -15748,6 +15748,9 @@
 [submodule "uh/wz/ipe"]
 	path = uh/wz/ipe
 	url = .
+[submodule "ui/bp/ncy"]
+	path = ui/bp/ncy
+	url = .
 [submodule "ui/hj/rli"]
 	path = ui/hj/rli
 	url = .
