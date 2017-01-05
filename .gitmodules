@@ -2542,6 +2542,9 @@
 [submodule "cj/vl/zor"]
 	path = cj/vl/zor
 	url = .
+[submodule "cj/vv/bvb"]
+	path = cj/vv/bvb
+	url = .
 [submodule "ck/at/yyf"]
 	path = ck/at/yyf
 	url = .
