@@ -13048,6 +13048,9 @@
 [submodule "ru/tv/jhv"]
 	path = ru/tv/jhv
 	url = .
+[submodule "ru/uk/cxy"]
+	path = ru/uk/cxy
+	url = .
 [submodule "ru/um/cbp"]
 	path = ru/um/cbp
 	url = .
