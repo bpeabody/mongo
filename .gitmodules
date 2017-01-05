@@ -8905,6 +8905,9 @@
 [submodule "nr/iw/sjg"]
 	path = nr/iw/sjg
 	url = .
+[submodule "nr/jf/vbe"]
+	path = nr/jf/vbe
+	url = .
 [submodule "nr/ld/xhq"]
 	path = nr/ld/xhq
 	url = .
