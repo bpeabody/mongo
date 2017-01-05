@@ -3295,6 +3295,9 @@
 [submodule "gj/xr/yfd"]
 	path = gj/xr/yfd
 	url = .
+[submodule "gk/ko/xlz"]
+	path = gk/ko/xlz
+	url = .
 [submodule "gk/mw/ksp"]
 	path = gk/mw/ksp
 	url = .
