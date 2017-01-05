@@ -49681,6 +49681,9 @@
 [submodule "vl/ud/oog"]
 	path = vl/ud/oog
 	url = .
+[submodule "vl/uj/bnr"]
+	path = vl/uj/bnr
+	url = .
 [submodule "vl/va/roc"]
 	path = vl/va/roc
 	url = .
