@@ -5095,6 +5095,9 @@
 [submodule "tk/vw/dks"]
 	path = tk/vw/dks
 	url = .
+[submodule "tk/wh/hus"]
+	path = tk/wh/hus
+	url = .
 [submodule "tk/wv/rzb"]
 	path = tk/wv/rzb
 	url = .
