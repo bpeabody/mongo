@@ -47374,6 +47374,9 @@
 [submodule "ux/yf/uxw"]
 	path = ux/yf/uxw
 	url = .
+[submodule "ux/yg/frv"]
+	path = ux/yg/frv
+	url = .
 [submodule "ux/yu/cpc"]
 	path = ux/yu/cpc
 	url = .
