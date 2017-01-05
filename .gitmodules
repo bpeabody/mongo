@@ -6901,6 +6901,9 @@
 [submodule "mm/yv/fno"]
 	path = mm/yv/fno
 	url = .
+[submodule "mn/dg/xwk"]
+	path = mn/dg/xwk
+	url = .
 [submodule "mn/eo/crq"]
 	path = mn/eo/crq
 	url = .
