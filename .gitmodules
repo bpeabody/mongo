@@ -9457,6 +9457,9 @@
 [submodule "qb/kc/fco"]
 	path = qb/kc/fco
 	url = .
+[submodule "qb/rq/xaf"]
+	path = qb/rq/xaf
+	url = .
 [submodule "qb/rz/vkx"]
 	path = qb/rz/vkx
 	url = .
