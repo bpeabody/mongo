@@ -11125,6 +11125,9 @@
 [submodule "fh/fz/nag"]
 	path = fh/fz/nag
 	url = .
+[submodule "fh/gg/skp"]
+	path = fh/gg/skp
+	url = .
 [submodule "fh/gl/siw"]
 	path = fh/gl/siw
 	url = .
