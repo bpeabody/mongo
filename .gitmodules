@@ -26605,6 +26605,9 @@
 [submodule "kc/ej/ddf"]
 	path = kc/ej/ddf
 	url = .
+[submodule "kc/ex/bbd"]
+	path = kc/ex/bbd
+	url = .
 [submodule "kc/fi/sva"]
 	path = kc/fi/sva
 	url = .
