@@ -3376,6 +3376,9 @@
 [submodule "ci/yf/qyw"]
 	path = ci/yf/qyw
 	url = .
+[submodule "cj/bd/lhe"]
+	path = cj/bd/lhe
+	url = .
 [submodule "cj/gh/wlp"]
 	path = cj/gh/wlp
 	url = .
