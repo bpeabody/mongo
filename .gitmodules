@@ -2185,6 +2185,9 @@
 [submodule "jr/ci/xvx"]
 	path = jr/ci/xvx
 	url = .
+[submodule "jr/iu/oka"]
+	path = jr/iu/oka
+	url = .
 [submodule "jr/yh/uka"]
 	path = jr/yh/uka
 	url = .
