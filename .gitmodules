@@ -25339,6 +25339,9 @@
 [submodule "ul/rq/tie"]
 	path = ul/rq/tie
 	url = .
+[submodule "ul/st/ulm"]
+	path = ul/st/ulm
+	url = .
 [submodule "ul/uu/uzk"]
 	path = ul/uu/uzk
 	url = .
