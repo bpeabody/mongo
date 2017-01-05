@@ -30304,6 +30304,9 @@
 [submodule "wn/du/hak"]
 	path = wn/du/hak
 	url = .
+[submodule "wn/eg/jtw"]
+	path = wn/eg/jtw
+	url = .
 [submodule "wn/fb/qla"]
 	path = wn/fb/qla
 	url = .
