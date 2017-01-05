@@ -70801,6 +70801,9 @@
 [submodule "zw/qu/ciq"]
 	path = zw/qu/ciq
 	url = .
+[submodule "zw/qw/bma"]
+	path = zw/qw/bma
+	url = .
 [submodule "zw/qw/gca"]
 	path = zw/qw/gca
 	url = .
