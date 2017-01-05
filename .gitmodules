@@ -2314,6 +2314,9 @@
 [submodule "bj/zz/igo"]
 	path = bj/zz/igo
 	url = .
+[submodule "bk/ao/hen"]
+	path = bk/ao/hen
+	url = .
 [submodule "bk/ao/nqi"]
 	path = bk/ao/nqi
 	url = .
