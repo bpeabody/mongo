@@ -27367,6 +27367,9 @@
 [submodule "mt/nj/hmc"]
 	path = mt/nj/hmc
 	url = .
+[submodule "mt/nx/joc"]
+	path = mt/nx/joc
+	url = .
 [submodule "mt/oc/frr"]
 	path = mt/oc/frr
 	url = .
