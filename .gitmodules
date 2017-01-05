@@ -3328,6 +3328,9 @@
 [submodule "fj/jn/cga"]
 	path = fj/jn/cga
 	url = .
+[submodule "fj/qi/jkv"]
+	path = fj/qi/jkv
+	url = .
 [submodule "fj/wz/fme"]
 	path = fj/wz/fme
 	url = .
