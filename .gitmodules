@@ -19771,6 +19771,9 @@
 [submodule "ir/gm/xdu"]
 	path = ir/gm/xdu
 	url = .
+[submodule "ir/gn/ueu"]
+	path = ir/gn/ueu
+	url = .
 [submodule "ir/go/bnf"]
 	path = ir/go/bnf
 	url = .
