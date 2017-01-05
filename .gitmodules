@@ -940,6 +940,9 @@
 [submodule "zp/jw/tfi"]
 	path = zp/jw/tfi
 	url = .
+[submodule "zr/dl/syv"]
+	path = zr/dl/syv
+	url = .
 [submodule "zu/os/whd"]
 	path = zu/os/whd
 	url = .
