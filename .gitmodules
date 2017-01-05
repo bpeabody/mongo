@@ -24685,6 +24685,9 @@
 [submodule "jn/qv/day"]
 	path = jn/qv/day
 	url = .
+[submodule "jn/sb/wus"]
+	path = jn/sb/wus
+	url = .
 [submodule "jn/ub/pdl"]
 	path = jn/ub/pdl
 	url = .
