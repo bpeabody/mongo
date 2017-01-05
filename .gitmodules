@@ -4555,6 +4555,9 @@
 [submodule "cp/ui/wbq"]
 	path = cp/ui/wbq
 	url = .
+[submodule "cp/uo/hli"]
+	path = cp/uo/hli
+	url = .
 [submodule "cp/va/llc"]
 	path = cp/va/llc
 	url = .
