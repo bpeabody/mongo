@@ -3637,6 +3637,9 @@
 [submodule "cl/jb/ttu"]
 	path = cl/jb/ttu
 	url = .
+[submodule "cl/ji/uil"]
+	path = cl/ji/uil
+	url = .
 [submodule "cl/jl/kid"]
 	path = cl/jl/kid
 	url = .
