@@ -5917,6 +5917,9 @@
 [submodule "iq/yn/mgl"]
 	path = iq/yn/mgl
 	url = .
+[submodule "iq/zc/mpw"]
+	path = iq/zc/mpw
+	url = .
 [submodule "iq/zs/nnv"]
 	path = iq/zs/nnv
 	url = .
