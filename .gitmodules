@@ -39268,6 +39268,9 @@
 [submodule "or/kv/teu"]
 	path = or/kv/teu
 	url = .
+[submodule "or/lg/tmz"]
+	path = or/lg/tmz
+	url = .
 [submodule "or/lo/pnc"]
 	path = or/lo/pnc
 	url = .
