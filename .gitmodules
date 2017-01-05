@@ -940,6 +940,9 @@
 [submodule "pd/iu/bkm"]
 	path = pd/iu/bkm
 	url = .
+[submodule "pf/ob/psu"]
+	path = pf/ob/psu
+	url = .
 [submodule "pg/yj/uof"]
 	path = pg/yj/uof
 	url = .
