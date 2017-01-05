@@ -6115,6 +6115,9 @@
 [submodule "ph/jd/sdz"]
 	path = ph/jd/sdz
 	url = .
+[submodule "ph/pa/lph"]
+	path = ph/pa/lph
+	url = .
 [submodule "ph/qg/zun"]
 	path = ph/qg/zun
 	url = .
