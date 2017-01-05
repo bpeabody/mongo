@@ -31612,6 +31612,9 @@
 [submodule "pp/lv/bdw"]
 	path = pp/lv/bdw
 	url = .
+[submodule "pp/nk/jaq"]
+	path = pp/nk/jaq
+	url = .
 [submodule "pp/pm/acm"]
 	path = pp/pm/acm
 	url = .
