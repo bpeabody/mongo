@@ -14395,6 +14395,9 @@
 [submodule "fs/xc/xtq"]
 	path = fs/xc/xtq
 	url = .
+[submodule "fs/xo/iuo"]
+	path = fs/xo/iuo
+	url = .
 [submodule "fs/xt/kdq"]
 	path = fs/xt/kdq
 	url = .
