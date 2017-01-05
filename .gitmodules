@@ -22261,6 +22261,9 @@
 [submodule "yv/kt/dqw"]
 	path = yv/kt/dqw
 	url = .
+[submodule "yv/mi/suc"]
+	path = yv/mi/suc
+	url = .
 [submodule "yv/oq/vsr"]
 	path = yv/oq/vsr
 	url = .
