@@ -49459,6 +49459,9 @@
 [submodule "ut/ri/ysz"]
 	path = ut/ri/ysz
 	url = .
+[submodule "ut/sq/tam"]
+	path = ut/sq/tam
+	url = .
 [submodule "ut/tj/jxd"]
 	path = ut/tj/jxd
 	url = .
