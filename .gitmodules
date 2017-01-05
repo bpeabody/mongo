@@ -4366,6 +4366,9 @@
 [submodule "gt/ft/vfx"]
 	path = gt/ft/vfx
 	url = .
+[submodule "gt/gq/qxh"]
+	path = gt/gq/qxh
+	url = .
 [submodule "gt/ie/lox"]
 	path = gt/ie/lox
 	url = .
