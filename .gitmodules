@@ -13264,6 +13264,9 @@
 [submodule "oo/pu/jym"]
 	path = oo/pu/jym
 	url = .
+[submodule "oo/qf/rpa"]
+	path = oo/qf/rpa
+	url = .
 [submodule "oo/qq/wyd"]
 	path = oo/qq/wyd
 	url = .
