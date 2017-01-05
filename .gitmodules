@@ -12460,6 +12460,9 @@
 [submodule "gm/el/jgp"]
 	path = gm/el/jgp
 	url = .
+[submodule "gm/em/qhg"]
+	path = gm/em/qhg
+	url = .
 [submodule "gm/fa/thc"]
 	path = gm/fa/thc
 	url = .
