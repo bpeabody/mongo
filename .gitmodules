@@ -6796,6 +6796,9 @@
 [submodule "mr/bi/wkw"]
 	path = mr/bi/wkw
 	url = .
+[submodule "mr/du/jfb"]
+	path = mr/du/jfb
+	url = .
 [submodule "mr/ij/oxj"]
 	path = mr/ij/oxj
 	url = .
