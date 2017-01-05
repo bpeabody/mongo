@@ -4462,6 +4462,9 @@
 [submodule "ck/os/zai"]
 	path = ck/os/zai
 	url = .
+[submodule "ck/pa/agw"]
+	path = ck/pa/agw
+	url = .
 [submodule "ck/qa/eqa"]
 	path = ck/qa/eqa
 	url = .
