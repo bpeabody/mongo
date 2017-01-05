@@ -42718,6 +42718,9 @@
 [submodule "qt/sh/zuf"]
 	path = qt/sh/zuf
 	url = .
+[submodule "qt/sj/joo"]
+	path = qt/sj/joo
+	url = .
 [submodule "qt/vd/euh"]
 	path = qt/vd/euh
 	url = .
