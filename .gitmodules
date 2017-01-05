@@ -6925,6 +6925,9 @@
 [submodule "hw/ip/zem"]
 	path = hw/ip/zem
 	url = .
+[submodule "hw/rj/jbt"]
+	path = hw/rj/jbt
+	url = .
 [submodule "hw/tk/tqt"]
 	path = hw/tk/tqt
 	url = .
