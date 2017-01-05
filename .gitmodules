@@ -2629,6 +2629,9 @@
 [submodule "ye/ib/wmo"]
 	path = ye/ib/wmo
 	url = .
+[submodule "yh/bu/fjj"]
+	path = yh/bu/fjj
+	url = .
 [submodule "yh/ci/kjo"]
 	path = yh/ci/kjo
 	url = .
