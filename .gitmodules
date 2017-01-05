@@ -8296,6 +8296,9 @@
 [submodule "mt/tl/sih"]
 	path = mt/tl/sih
 	url = .
+[submodule "mu/an/igc"]
+	path = mu/an/igc
+	url = .
 [submodule "mu/dn/ghc"]
 	path = mu/dn/ghc
 	url = .
