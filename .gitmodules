@@ -12502,6 +12502,9 @@
 [submodule "zu/os/whd"]
 	path = zu/os/whd
 	url = .
+[submodule "zu/ou/csn"]
+	path = zu/ou/csn
+	url = .
 [submodule "zu/sg/lpu"]
 	path = zu/sg/lpu
 	url = .
