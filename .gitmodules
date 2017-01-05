@@ -9550,6 +9550,9 @@
 [submodule "fc/kj/wid"]
 	path = fc/kj/wid
 	url = .
+[submodule "fc/kk/crh"]
+	path = fc/kk/crh
+	url = .
 [submodule "fc/ky/fcd"]
 	path = fc/ky/fcd
 	url = .
