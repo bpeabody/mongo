@@ -10423,6 +10423,9 @@
 [submodule "xn/wr/mws"]
 	path = xn/wr/mws
 	url = .
+[submodule "xn/zo/neb"]
+	path = xn/zo/neb
+	url = .
 [submodule "xo/gn/ixe"]
 	path = xo/gn/ixe
 	url = .
