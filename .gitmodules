@@ -4153,6 +4153,9 @@
 [submodule "cv/ur/fkh"]
 	path = cv/ur/fkh
 	url = .
+[submodule "cv/wm/act"]
+	path = cv/wm/act
+	url = .
 [submodule "cv/xq/olr"]
 	path = cv/xq/olr
 	url = .
