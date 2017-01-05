@@ -11884,6 +11884,9 @@
 [submodule "ko/fl/atg"]
 	path = ko/fl/atg
 	url = .
+[submodule "ko/gc/gzk"]
+	path = ko/gc/gzk
+	url = .
 [submodule "ko/gy/bkl"]
 	path = ko/gy/bkl
 	url = .
