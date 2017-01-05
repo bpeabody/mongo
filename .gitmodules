@@ -30478,6 +30478,9 @@
 [submodule "oi/pz/gny"]
 	path = oi/pz/gny
 	url = .
+[submodule "oi/qy/uki"]
+	path = oi/qy/uki
+	url = .
 [submodule "oi/rb/ovh"]
 	path = oi/rb/ovh
 	url = .
