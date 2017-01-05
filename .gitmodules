@@ -670,6 +670,9 @@
 [submodule "ho/dr/jvn"]
 	path = ho/dr/jvn
 	url = .
+[submodule "ho/uy/dyt"]
+	path = ho/uy/dyt
+	url = .
 [submodule "hp/yu/mfe"]
 	path = hp/yu/mfe
 	url = .
