@@ -6550,6 +6550,9 @@
 [submodule "gc/bm/asz"]
 	path = gc/bm/asz
 	url = .
+[submodule "gc/ek/vvy"]
+	path = gc/ek/vvy
+	url = .
 [submodule "gc/gi/ghl"]
 	path = gc/gi/ghl
 	url = .
