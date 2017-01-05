@@ -54385,6 +54385,9 @@
 [submodule "ya/ge/kvq"]
 	path = ya/ge/kvq
 	url = .
+[submodule "ya/gr/zhe"]
+	path = ya/gr/zhe
+	url = .
 [submodule "ya/ii/ogo"]
 	path = ya/ii/ogo
 	url = .
