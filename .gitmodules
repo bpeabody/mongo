@@ -22603,6 +22603,9 @@
 [submodule "ug/gw/qgv"]
 	path = ug/gw/qgv
 	url = .
+[submodule "ug/hg/xkl"]
+	path = ug/hg/xkl
+	url = .
 [submodule "ug/iu/btq"]
 	path = ug/iu/btq
 	url = .
