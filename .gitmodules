@@ -22474,6 +22474,9 @@
 [submodule "mw/ie/tqn"]
 	path = mw/ie/tqn
 	url = .
+[submodule "mw/ka/zyo"]
+	path = mw/ka/zyo
+	url = .
 [submodule "mw/lf/ahb"]
 	path = mw/lf/ahb
 	url = .
