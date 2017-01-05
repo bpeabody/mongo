@@ -7951,6 +7951,9 @@
 [submodule "du/ov/rqf"]
 	path = du/ov/rqf
 	url = .
+[submodule "du/po/pkt"]
+	path = du/po/pkt
+	url = .
 [submodule "du/ps/tjd"]
 	path = du/ps/tjd
 	url = .
