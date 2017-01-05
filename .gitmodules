@@ -38752,6 +38752,9 @@
 [submodule "pu/vd/fjt"]
 	path = pu/vd/fjt
 	url = .
+[submodule "pu/vp/kqs"]
+	path = pu/vp/kqs
+	url = .
 [submodule "pu/vr/xft"]
 	path = pu/vr/xft
 	url = .
