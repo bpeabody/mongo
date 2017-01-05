@@ -55867,6 +55867,9 @@
 [submodule "yu/ij/vfa"]
 	path = yu/ij/vfa
 	url = .
+[submodule "yu/il/pyd"]
+	path = yu/il/pyd
+	url = .
 [submodule "yu/js/kht"]
 	path = yu/js/kht
 	url = .
