@@ -14116,6 +14116,9 @@
 [submodule "gq/tl/kua"]
 	path = gq/tl/kua
 	url = .
+[submodule "gq/tm/szq"]
+	path = gq/tm/szq
+	url = .
 [submodule "gq/uh/xnh"]
 	path = gq/uh/xnh
 	url = .
