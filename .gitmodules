@@ -5611,6 +5611,9 @@
 [submodule "qn/gd/sgi"]
 	path = qn/gd/sgi
 	url = .
+[submodule "qn/rm/ptp"]
+	path = qn/rm/ptp
+	url = .
 [submodule "qn/zk/lni"]
 	path = qn/zk/lni
 	url = .
