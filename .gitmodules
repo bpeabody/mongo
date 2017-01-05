@@ -25897,6 +25897,9 @@
 [submodule "ju/gt/knk"]
 	path = ju/gt/knk
 	url = .
+[submodule "ju/ho/opi"]
+	path = ju/ho/opi
+	url = .
 [submodule "ju/ie/lsf"]
 	path = ju/ie/lsf
 	url = .
