@@ -34075,6 +34075,9 @@
 [submodule "qv/kq/uop"]
 	path = qv/kq/uop
 	url = .
+[submodule "qv/lk/mfp"]
+	path = qv/lk/mfp
+	url = .
 [submodule "qv/ni/fqc"]
 	path = qv/ni/fqc
 	url = .
