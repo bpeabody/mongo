@@ -5314,6 +5314,9 @@
 [submodule "ff/nk/ncz"]
 	path = ff/nk/ncz
 	url = .
+[submodule "ff/or/qly"]
+	path = ff/or/qly
+	url = .
 [submodule "ff/pv/noi"]
 	path = ff/pv/noi
 	url = .
