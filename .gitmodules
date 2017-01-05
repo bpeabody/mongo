@@ -4282,6 +4282,9 @@
 [submodule "ia/fc/drc"]
 	path = ia/fc/drc
 	url = .
+[submodule "ia/fq/iom"]
+	path = ia/fq/iom
+	url = .
 [submodule "ia/gj/beb"]
 	path = ia/gj/beb
 	url = .
