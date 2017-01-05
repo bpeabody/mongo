@@ -3700,6 +3700,9 @@
 [submodule "ht/ru/zta"]
 	path = ht/ru/zta
 	url = .
+[submodule "ht/si/umz"]
+	path = ht/si/umz
+	url = .
 [submodule "ht/tu/yrw"]
 	path = ht/tu/yrw
 	url = .
