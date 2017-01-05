@@ -415,6 +415,9 @@
 [submodule "ae/yp/byl"]
 	path = ae/yp/byl
 	url = .
+[submodule "ae/zb/uag"]
+	path = ae/zb/uag
+	url = .
 [submodule "ae/zt/nry"]
 	path = ae/zt/nry
 	url = .
