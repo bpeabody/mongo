@@ -7654,6 +7654,9 @@
 [submodule "hd/wl/czb"]
 	path = hd/wl/czb
 	url = .
+[submodule "he/ck/spo"]
+	path = he/ck/spo
+	url = .
 [submodule "he/gv/vjv"]
 	path = he/gv/vjv
 	url = .
