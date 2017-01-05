@@ -18739,6 +18739,9 @@
 [submodule "kv/qa/syw"]
 	path = kv/qa/syw
 	url = .
+[submodule "kv/ql/ltp"]
+	path = kv/ql/ltp
+	url = .
 [submodule "kv/ql/pmg"]
 	path = kv/ql/pmg
 	url = .
