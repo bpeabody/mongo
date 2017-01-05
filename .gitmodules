@@ -3928,6 +3928,9 @@
 [submodule "dx/cx/dwo"]
 	path = dx/cx/dwo
 	url = .
+[submodule "dx/dx/ruq"]
+	path = dx/dx/ruq
+	url = .
 [submodule "dx/dy/cne"]
 	path = dx/dy/cne
 	url = .
