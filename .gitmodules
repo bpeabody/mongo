@@ -19687,6 +19687,9 @@
 [submodule "ht/dl/tkp"]
 	path = ht/dl/tkp
 	url = .
+[submodule "ht/dm/vbl"]
+	path = ht/dm/vbl
+	url = .
 [submodule "ht/ff/dne"]
 	path = ht/ff/dne
 	url = .
