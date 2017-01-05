@@ -10612,6 +10612,9 @@
 [submodule "hm/pd/tih"]
 	path = hm/pd/tih
 	url = .
+[submodule "hm/qp/kom"]
+	path = hm/qp/kom
+	url = .
 [submodule "hm/tq/iop"]
 	path = hm/tq/iop
 	url = .
