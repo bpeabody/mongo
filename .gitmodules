@@ -12985,6 +12985,9 @@
 [submodule "ig/tu/cmb"]
 	path = ig/tu/cmb
 	url = .
+[submodule "ig/uy/fpq"]
+	path = ig/uy/fpq
+	url = .
 [submodule "ig/zn/jqz"]
 	path = ig/zn/jqz
 	url = .
