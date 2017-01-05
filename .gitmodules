@@ -6292,6 +6292,9 @@
 [submodule "fg/qc/sxs"]
 	path = fg/qc/sxs
 	url = .
+[submodule "fg/sc/lml"]
+	path = fg/sc/lml
+	url = .
 [submodule "fg/sp/ekg"]
 	path = fg/sp/ekg
 	url = .
