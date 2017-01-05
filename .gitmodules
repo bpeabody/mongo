@@ -4621,6 +4621,9 @@
 [submodule "ca/ao/jma"]
 	path = ca/ao/jma
 	url = .
+[submodule "ca/cu/puy"]
+	path = ca/cu/puy
+	url = .
 [submodule "ca/da/jhl"]
 	path = ca/da/jhl
 	url = .
