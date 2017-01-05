@@ -11044,6 +11044,9 @@
 [submodule "gi/pd/oju"]
 	path = gi/pd/oju
 	url = .
+[submodule "gi/pj/lyh"]
+	path = gi/pj/lyh
+	url = .
 [submodule "gi/py/pci"]
 	path = gi/py/pci
 	url = .
