@@ -54586,6 +54586,9 @@
 [submodule "uc/ww/pog"]
 	path = uc/ww/pog
 	url = .
+[submodule "uc/xp/nsp"]
+	path = uc/xp/nsp
+	url = .
 [submodule "ud/bj/dxe"]
 	path = ud/bj/dxe
 	url = .
