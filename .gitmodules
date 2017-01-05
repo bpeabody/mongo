@@ -53707,6 +53707,9 @@
 [submodule "tq/xh/sds"]
 	path = tq/xh/sds
 	url = .
+[submodule "tq/xx/lmi"]
+	path = tq/xx/lmi
+	url = .
 [submodule "tq/yf/dft"]
 	path = tq/yf/dft
 	url = .
