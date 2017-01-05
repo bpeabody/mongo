@@ -25018,6 +25018,9 @@
 [submodule "nm/ko/izu"]
 	path = nm/ko/izu
 	url = .
+[submodule "nm/lj/eqf"]
+	path = nm/lj/eqf
+	url = .
 [submodule "nm/lk/jot"]
 	path = nm/lk/jot
 	url = .
