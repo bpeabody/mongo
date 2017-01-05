@@ -7492,6 +7492,9 @@
 [submodule "dd/jp/cks"]
 	path = dd/jp/cks
 	url = .
+[submodule "dd/kh/rgb"]
+	path = dd/kh/rgb
+	url = .
 [submodule "dd/kq/hpu"]
 	path = dd/kq/hpu
 	url = .
