@@ -18094,6 +18094,9 @@
 [submodule "su/an/khg"]
 	path = su/an/khg
 	url = .
+[submodule "su/ba/slk"]
+	path = su/ba/slk
+	url = .
 [submodule "su/ec/tix"]
 	path = su/ec/tix
 	url = .
