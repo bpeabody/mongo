@@ -2698,6 +2698,9 @@
 [submodule "hk/mi/vel"]
 	path = hk/mi/vel
 	url = .
+[submodule "hk/uc/xti"]
+	path = hk/uc/xti
+	url = .
 [submodule "hl/bd/mrv"]
 	path = hl/bd/mrv
 	url = .
