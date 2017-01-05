@@ -6715,6 +6715,9 @@
 [submodule "co/xf/erc"]
 	path = co/xf/erc
 	url = .
+[submodule "co/xt/bmo"]
+	path = co/xt/bmo
+	url = .
 [submodule "co/yf/yei"]
 	path = co/yf/yei
 	url = .
