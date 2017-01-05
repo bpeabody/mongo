@@ -4900,6 +4900,9 @@
 [submodule "nk/ed/gtw"]
 	path = nk/ed/gtw
 	url = .
+[submodule "nk/ik/ffk"]
+	path = nk/ik/ffk
+	url = .
 [submodule "nk/vj/fxk"]
 	path = nk/vj/fxk
 	url = .
