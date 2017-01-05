@@ -5227,6 +5227,9 @@
 [submodule "hd/qc/ews"]
 	path = hd/qc/ews
 	url = .
+[submodule "hd/qv/bzz"]
+	path = hd/qv/bzz
+	url = .
 [submodule "hd/ta/qpk"]
 	path = hd/ta/qpk
 	url = .
