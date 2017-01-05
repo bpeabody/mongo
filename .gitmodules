@@ -30877,6 +30877,9 @@
 [submodule "vf/au/mar"]
 	path = vf/au/mar
 	url = .
+[submodule "vf/bb/swi"]
+	path = vf/bb/swi
+	url = .
 [submodule "vf/ez/nil"]
 	path = vf/ez/nil
 	url = .
