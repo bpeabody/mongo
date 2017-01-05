@@ -4843,6 +4843,9 @@
 [submodule "no/wo/sxg"]
 	path = no/wo/sxg
 	url = .
+[submodule "np/hn/mcg"]
+	path = np/hn/mcg
+	url = .
 [submodule "np/hp/zbv"]
 	path = np/hp/zbv
 	url = .
