@@ -2920,6 +2920,9 @@
 [submodule "hu/pg/sqr"]
 	path = hu/pg/sqr
 	url = .
+[submodule "hu/qb/oqa"]
+	path = hu/qb/oqa
+	url = .
 [submodule "hu/uq/jpy"]
 	path = hu/uq/jpy
 	url = .
