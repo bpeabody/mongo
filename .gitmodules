@@ -2023,6 +2023,9 @@
 [submodule "cr/hd/djl"]
 	path = cr/hd/djl
 	url = .
+[submodule "cr/ie/fib"]
+	path = cr/ie/fib
+	url = .
 [submodule "cr/ld/rzp"]
 	path = cr/ld/rzp
 	url = .
