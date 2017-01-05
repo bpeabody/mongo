@@ -17164,6 +17164,9 @@
 [submodule "ns/zx/lgu"]
 	path = ns/zx/lgu
 	url = .
+[submodule "nt/af/xbw"]
+	path = nt/af/xbw
+	url = .
 [submodule "nt/bd/eud"]
 	path = nt/bd/eud
 	url = .
