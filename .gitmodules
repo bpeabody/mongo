@@ -34642,6 +34642,9 @@
 [submodule "ls/gu/xmc"]
 	path = ls/gu/xmc
 	url = .
+[submodule "ls/id/fcq"]
+	path = ls/id/fcq
+	url = .
 [submodule "ls/lr/bsl"]
 	path = ls/lr/bsl
 	url = .
