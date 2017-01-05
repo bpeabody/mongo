@@ -4633,6 +4633,9 @@
 [submodule "hv/hs/vpl"]
 	path = hv/hs/vpl
 	url = .
+[submodule "hv/qv/ovt"]
+	path = hv/qv/ovt
+	url = .
 [submodule "hw/ip/zem"]
 	path = hw/ip/zem
 	url = .
