@@ -30970,6 +30970,9 @@
 [submodule "qo/gs/wlq"]
 	path = qo/gs/wlq
 	url = .
+[submodule "qo/id/lgy"]
+	path = qo/id/lgy
+	url = .
 [submodule "qo/id/zex"]
 	path = qo/id/zex
 	url = .
