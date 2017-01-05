@@ -11773,6 +11773,9 @@
 [submodule "hi/gj/ibw"]
 	path = hi/gj/ibw
 	url = .
+[submodule "hi/gz/wde"]
+	path = hi/gz/wde
+	url = .
 [submodule "hi/hh/qbc"]
 	path = hi/hh/qbc
 	url = .
