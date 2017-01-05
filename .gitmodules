@@ -196,6 +196,9 @@
 [submodule "ch/jt/gtw"]
 	path = ch/jt/gtw
 	url = .
+[submodule "ci/rc/kpy"]
+	path = ci/rc/kpy
+	url = .
 [submodule "ci/ub/pkv"]
 	path = ci/ub/pkv
 	url = .
