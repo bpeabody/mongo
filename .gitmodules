@@ -2557,6 +2557,9 @@
 [submodule "it/sm/etj"]
 	path = it/sm/etj
 	url = .
+[submodule "it/vl/ioi"]
+	path = it/vl/ioi
+	url = .
 [submodule "it/wy/vct"]
 	path = it/wy/vct
 	url = .
