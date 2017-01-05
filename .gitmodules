@@ -13660,6 +13660,9 @@
 [submodule "ir/bj/ewt"]
 	path = ir/bj/ewt
 	url = .
+[submodule "ir/cv/mbb"]
+	path = ir/cv/mbb
+	url = .
 [submodule "ir/dg/ufr"]
 	path = ir/dg/ufr
 	url = .
