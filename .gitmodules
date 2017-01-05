@@ -8644,6 +8644,9 @@
 [submodule "nh/xq/qnt"]
 	path = nh/xq/qnt
 	url = .
+[submodule "ni/ch/iwe"]
+	path = ni/ch/iwe
+	url = .
 [submodule "ni/dk/ysa"]
 	path = ni/dk/ysa
 	url = .
