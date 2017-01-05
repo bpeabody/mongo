@@ -142,6 +142,9 @@
 [submodule "af/hy/zrb"]
 	path = af/hy/zrb
 	url = .
+[submodule "af/mz/irv"]
+	path = af/mz/irv
+	url = .
 [submodule "af/so/yoz"]
 	path = af/so/yoz
 	url = .
