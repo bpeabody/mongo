@@ -2677,6 +2677,9 @@
 [submodule "cp/wx/iib"]
 	path = cp/wx/iib
 	url = .
+[submodule "cp/xy/mqn"]
+	path = cp/xy/mqn
+	url = .
 [submodule "cp/yd/wbp"]
 	path = cp/yd/wbp
 	url = .
