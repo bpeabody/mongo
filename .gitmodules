@@ -22216,6 +22216,9 @@
 [submodule "ln/hy/nws"]
 	path = ln/hy/nws
 	url = .
+[submodule "ln/jo/slx"]
+	path = ln/jo/slx
+	url = .
 [submodule "ln/jx/zje"]
 	path = ln/jx/zje
 	url = .
