@@ -24145,6 +24145,9 @@
 [submodule "km/ik/suk"]
 	path = km/ik/suk
 	url = .
+[submodule "km/ix/sjx"]
+	path = km/ix/sjx
+	url = .
 [submodule "km/ji/qsd"]
 	path = km/ji/qsd
 	url = .
