@@ -1867,6 +1867,9 @@
 [submodule "mc/dc/otc"]
 	path = mc/dc/otc
 	url = .
+[submodule "mc/hf/clc"]
+	path = mc/hf/clc
+	url = .
 [submodule "md/hr/guc"]
 	path = md/hr/guc
 	url = .
