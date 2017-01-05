@@ -11137,6 +11137,9 @@
 [submodule "fg/pv/vho"]
 	path = fg/pv/vho
 	url = .
+[submodule "fg/qb/ytq"]
+	path = fg/qb/ytq
+	url = .
 [submodule "fg/qc/sxs"]
 	path = fg/qc/sxs
 	url = .
