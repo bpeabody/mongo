@@ -8134,6 +8134,9 @@
 [submodule "ej/ee/pxh"]
 	path = ej/ee/pxh
 	url = .
+[submodule "ej/fn/nfx"]
+	path = ej/fn/nfx
+	url = .
 [submodule "ej/gt/nbr"]
 	path = ej/gt/nbr
 	url = .
