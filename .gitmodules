@@ -7990,6 +7990,9 @@
 [submodule "ef/ur/ato"]
 	path = ef/ur/ato
 	url = .
+[submodule "ef/vu/mmv"]
+	path = ef/vu/mmv
+	url = .
 [submodule "ef/xc/jlo"]
 	path = ef/xc/jlo
 	url = .
