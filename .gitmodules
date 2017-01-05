@@ -8869,6 +8869,9 @@
 [submodule "ir/eb/wjp"]
 	path = ir/eb/wjp
 	url = .
+[submodule "ir/eu/lop"]
+	path = ir/eu/lop
+	url = .
 [submodule "ir/fa/cih"]
 	path = ir/fa/cih
 	url = .
