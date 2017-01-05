@@ -25306,6 +25306,9 @@
 [submodule "ne/gm/ysy"]
 	path = ne/gm/ysy
 	url = .
+[submodule "ne/gw/vas"]
+	path = ne/gw/vas
+	url = .
 [submodule "ne/he/ksv"]
 	path = ne/he/ksv
 	url = .
