@@ -4591,6 +4591,9 @@
 [submodule "eu/rz/frw"]
 	path = eu/rz/frw
 	url = .
+[submodule "eu/sr/dib"]
+	path = eu/sr/dib
+	url = .
 [submodule "eu/xy/jya"]
 	path = eu/xy/jya
 	url = .
