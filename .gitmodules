@@ -2098,6 +2098,9 @@
 [submodule "ay/wm/xqg"]
 	path = ay/wm/xqg
 	url = .
+[submodule "ay/xe/tau"]
+	path = ay/xe/tau
+	url = .
 [submodule "ay/zc/gxd"]
 	path = ay/zc/gxd
 	url = .
