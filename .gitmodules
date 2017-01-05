@@ -9001,6 +9001,9 @@
 [submodule "km/ka/ehk"]
 	path = km/ka/ehk
 	url = .
+[submodule "km/ke/ayw"]
+	path = km/ke/ayw
+	url = .
 [submodule "km/kg/niq"]
 	path = km/kg/niq
 	url = .
