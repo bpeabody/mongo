@@ -1456,6 +1456,9 @@
 [submodule "as/xx/rcw"]
 	path = as/xx/rcw
 	url = .
+[submodule "as/ym/oda"]
+	path = as/ym/oda
+	url = .
 [submodule "as/yu/bho"]
 	path = as/yu/bho
 	url = .
