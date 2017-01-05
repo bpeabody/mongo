@@ -9121,6 +9121,9 @@
 [submodule "ry/my/wlj"]
 	path = ry/my/wlj
 	url = .
+[submodule "ry/np/qau"]
+	path = ry/np/qau
+	url = .
 [submodule "ry/qf/wej"]
 	path = ry/qf/wej
 	url = .
