@@ -9010,6 +9010,9 @@
 [submodule "hk/uc/xti"]
 	path = hk/uc/xti
 	url = .
+[submodule "hl/ag/kio"]
+	path = hl/ag/kio
+	url = .
 [submodule "hl/ah/suq"]
 	path = hl/ah/suq
 	url = .
