@@ -5167,6 +5167,9 @@
 [submodule "bs/jz/vhe"]
 	path = bs/jz/vhe
 	url = .
+[submodule "bs/lq/zym"]
+	path = bs/lq/zym
+	url = .
 [submodule "bs/me/kmt"]
 	path = bs/me/kmt
 	url = .
