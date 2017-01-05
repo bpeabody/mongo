@@ -9055,6 +9055,9 @@
 [submodule "fm/ya/swu"]
 	path = fm/ya/swu
 	url = .
+[submodule "fn/ap/wfv"]
+	path = fn/ap/wfv
+	url = .
 [submodule "fn/co/fgd"]
 	path = fn/co/fgd
 	url = .
