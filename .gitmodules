@@ -49273,6 +49273,9 @@
 [submodule "ts/iz/jbs"]
 	path = ts/iz/jbs
 	url = .
+[submodule "ts/kv/bqu"]
+	path = ts/kv/bqu
+	url = .
 [submodule "ts/ma/tyu"]
 	path = ts/ma/tyu
 	url = .
