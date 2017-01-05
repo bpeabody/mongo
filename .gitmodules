@@ -29524,6 +29524,9 @@
 [submodule "xx/xg/wav"]
 	path = xx/xg/wav
 	url = .
+[submodule "xy/ct/mtv"]
+	path = xy/ct/mtv
+	url = .
 [submodule "xy/gv/kyb"]
 	path = xy/gv/kyb
 	url = .
