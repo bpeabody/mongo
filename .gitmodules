@@ -9631,6 +9631,9 @@
 [submodule "kh/jc/lmo"]
 	path = kh/jc/lmo
 	url = .
+[submodule "kh/kn/xxu"]
+	path = kh/kn/xxu
+	url = .
 [submodule "kh/lq/vup"]
 	path = kh/lq/vup
 	url = .
