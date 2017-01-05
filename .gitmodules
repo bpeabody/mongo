@@ -40705,6 +40705,9 @@
 [submodule "sx/ia/uin"]
 	path = sx/ia/uin
 	url = .
+[submodule "sx/io/clb"]
+	path = sx/io/clb
+	url = .
 [submodule "sx/jd/hel"]
 	path = sx/jd/hel
 	url = .
