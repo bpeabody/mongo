@@ -1669,6 +1669,9 @@
 [submodule "eg/en/qth"]
 	path = eg/en/qth
 	url = .
+[submodule "eg/mm/kfh"]
+	path = eg/mm/kfh
+	url = .
 [submodule "eg/yd/nxz"]
 	path = eg/yd/nxz
 	url = .
