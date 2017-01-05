@@ -23227,6 +23227,9 @@
 [submodule "yr/qe/ifd"]
 	path = yr/qe/ifd
 	url = .
+[submodule "yr/wc/jgn"]
+	path = yr/wc/jgn
+	url = .
 [submodule "yr/xr/bes"]
 	path = yr/xr/bes
 	url = .
