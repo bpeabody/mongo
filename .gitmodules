@@ -50773,6 +50773,9 @@
 [submodule "sh/xs/nar"]
 	path = sh/xs/nar
 	url = .
+[submodule "sh/yp/amb"]
+	path = sh/yp/amb
+	url = .
 [submodule "sh/zc/ttj"]
 	path = sh/zc/ttj
 	url = .
