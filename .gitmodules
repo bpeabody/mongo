@@ -18922,6 +18922,9 @@
 [submodule "nk/jm/mkc"]
 	path = nk/jm/mkc
 	url = .
+[submodule "nk/jx/ezm"]
+	path = nk/jx/ezm
+	url = .
 [submodule "nk/pr/pmc"]
 	path = nk/pr/pmc
 	url = .
