@@ -889,6 +889,9 @@
 [submodule "dq/gi/jkr"]
 	path = dq/gi/jkr
 	url = .
+[submodule "dq/uc/bwb"]
+	path = dq/uc/bwb
+	url = .
 [submodule "dr/ad/bei"]
 	path = dr/ad/bei
 	url = .
