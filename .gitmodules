@@ -12697,6 +12697,9 @@
 [submodule "hl/sa/atb"]
 	path = hl/sa/atb
 	url = .
+[submodule "hl/vd/lfr"]
+	path = hl/vd/lfr
+	url = .
 [submodule "hl/xa/tii"]
 	path = hl/xa/tii
 	url = .
