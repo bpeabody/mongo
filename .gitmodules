@@ -44158,6 +44158,9 @@
 [submodule "xt/md/rgj"]
 	path = xt/md/rgj
 	url = .
+[submodule "xt/ng/kuu"]
+	path = xt/ng/kuu
+	url = .
 [submodule "xt/nw/swc"]
 	path = xt/nw/swc
 	url = .
