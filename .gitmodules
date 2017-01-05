@@ -25837,6 +25837,9 @@
 [submodule "iu/ve/kpf"]
 	path = iu/ve/kpf
 	url = .
+[submodule "iu/vg/rit"]
+	path = iu/vg/rit
+	url = .
 [submodule "iu/wi/gxz"]
 	path = iu/wi/gxz
 	url = .
