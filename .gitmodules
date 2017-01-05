@@ -13600,6 +13600,9 @@
 [submodule "yt/pp/ufw"]
 	path = yt/pp/ufw
 	url = .
+[submodule "yt/ri/qcs"]
+	path = yt/ri/qcs
+	url = .
 [submodule "yt/ur/jkp"]
 	path = yt/ur/jkp
 	url = .
