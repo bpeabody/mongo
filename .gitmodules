@@ -14608,6 +14608,9 @@
 [submodule "sp/mv/wjo"]
 	path = sp/mv/wjo
 	url = .
+[submodule "sp/oj/wiu"]
+	path = sp/oj/wiu
+	url = .
 [submodule "sp/pa/uga"]
 	path = sp/pa/uga
 	url = .
