@@ -7675,6 +7675,9 @@
 [submodule "rw/tx/ldj"]
 	path = rw/tx/ldj
 	url = .
+[submodule "rw/vh/oss"]
+	path = rw/vh/oss
+	url = .
 [submodule "rx/cz/myp"]
 	path = rx/cz/myp
 	url = .
