@@ -14764,6 +14764,9 @@
 [submodule "rn/mk/pgs"]
 	path = rn/mk/pgs
 	url = .
+[submodule "rn/qo/kyk"]
+	path = rn/qo/kyk
+	url = .
 [submodule "rn/uc/ncn"]
 	path = rn/uc/ncn
 	url = .
