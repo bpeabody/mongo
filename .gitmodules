@@ -1216,6 +1216,9 @@
 [submodule "ft/mj/ezz"]
 	path = ft/mj/ezz
 	url = .
+[submodule "ft/vo/yln"]
+	path = ft/vo/yln
+	url = .
 [submodule "fu/dm/nlg"]
 	path = fu/dm/nlg
 	url = .
