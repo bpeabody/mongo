@@ -4594,6 +4594,9 @@
 [submodule "bn/rx/uaq"]
 	path = bn/rx/uaq
 	url = .
+[submodule "bn/sa/xsc"]
+	path = bn/sa/xsc
+	url = .
 [submodule "bn/sg/hst"]
 	path = bn/sg/hst
 	url = .
