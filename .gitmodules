@@ -41299,6 +41299,9 @@
 [submodule "ro/gv/osi"]
 	path = ro/gv/osi
 	url = .
+[submodule "ro/hl/aht"]
+	path = ro/hl/aht
+	url = .
 [submodule "ro/hu/jqs"]
 	path = ro/hu/jqs
 	url = .
