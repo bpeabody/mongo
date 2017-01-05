@@ -36163,6 +36163,9 @@
 [submodule "mj/uw/xpr"]
 	path = mj/uw/xpr
 	url = .
+[submodule "mj/vk/vlg"]
+	path = mj/vk/vlg
+	url = .
 [submodule "mj/vr/nfy"]
 	path = mj/vr/nfy
 	url = .
