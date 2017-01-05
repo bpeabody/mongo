@@ -3100,6 +3100,9 @@
 [submodule "mh/fx/vrg"]
 	path = mh/fx/vrg
 	url = .
+[submodule "mh/or/hfq"]
+	path = mh/or/hfq
+	url = .
 [submodule "mi/wb/bts"]
 	path = mi/wb/bts
 	url = .
