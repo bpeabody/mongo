@@ -1801,6 +1801,9 @@
 [submodule "sa/ka/biu"]
 	path = sa/ka/biu
 	url = .
+[submodule "sb/zm/bwe"]
+	path = sb/zm/bwe
+	url = .
 [submodule "sc/ri/ugg"]
 	path = sc/ri/ugg
 	url = .
