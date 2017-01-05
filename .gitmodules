@@ -940,6 +940,9 @@
 [submodule "am/rr/vve"]
 	path = am/rr/vve
 	url = .
+[submodule "am/sr/jka"]
+	path = am/sr/jka
+	url = .
 [submodule "am/tk/bxu"]
 	path = am/tk/bxu
 	url = .
