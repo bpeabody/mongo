@@ -32044,6 +32044,9 @@
 [submodule "uh/pj/pcy"]
 	path = uh/pj/pcy
 	url = .
+[submodule "uh/sb/kzj"]
+	path = uh/sb/kzj
+	url = .
 [submodule "uh/ua/bqo"]
 	path = uh/ua/bqo
 	url = .
