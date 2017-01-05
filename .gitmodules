@@ -19018,6 +19018,9 @@
 [submodule "gu/ql/gti"]
 	path = gu/ql/gti
 	url = .
+[submodule "gu/ri/axr"]
+	path = gu/ri/axr
+	url = .
 [submodule "gu/si/lln"]
 	path = gu/si/lln
 	url = .
