@@ -3283,6 +3283,9 @@
 [submodule "df/rd/cwg"]
 	path = df/rd/cwg
 	url = .
+[submodule "df/tb/wps"]
+	path = df/tb/wps
+	url = .
 [submodule "df/vl/lms"]
 	path = df/vl/lms
 	url = .
