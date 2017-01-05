@@ -8917,6 +8917,9 @@
 [submodule "xr/xx/ehp"]
 	path = xr/xx/ehp
 	url = .
+[submodule "xs/bd/scf"]
+	path = xs/bd/scf
+	url = .
 [submodule "xs/ck/ayc"]
 	path = xs/ck/ayc
 	url = .
