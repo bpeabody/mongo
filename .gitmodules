@@ -2164,6 +2164,9 @@
 [submodule "jo/vp/sni"]
 	path = jo/vp/sni
 	url = .
+[submodule "jo/zu/ilb"]
+	path = jo/zu/ilb
+	url = .
 [submodule "jp/cb/xni"]
 	path = jp/cb/xni
 	url = .
