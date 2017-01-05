@@ -11056,6 +11056,9 @@
 [submodule "uu/xc/qlx"]
 	path = uu/xc/qlx
 	url = .
+[submodule "uv/gl/cvu"]
+	path = uv/gl/cvu
+	url = .
 [submodule "uv/if/hpx"]
 	path = uv/if/hpx
 	url = .
