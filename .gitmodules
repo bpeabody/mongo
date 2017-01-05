@@ -337,6 +337,9 @@
 [submodule "dc/ls/ojq"]
 	path = dc/ls/ojq
 	url = .
+[submodule "dc/zp/vac"]
+	path = dc/zp/vac
+	url = .
 [submodule "dd/fn/srx"]
 	path = dd/fn/srx
 	url = .
