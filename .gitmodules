@@ -34651,6 +34651,9 @@
 [submodule "qp/ds/jwj"]
 	path = qp/ds/jwj
 	url = .
+[submodule "qp/ey/lty"]
+	path = qp/ey/lty
+	url = .
 [submodule "qp/fw/ccf"]
 	path = qp/fw/ccf
 	url = .
