@@ -6421,6 +6421,9 @@
 [submodule "ee/li/zdc"]
 	path = ee/li/zdc
 	url = .
+[submodule "ee/ln/ihp"]
+	path = ee/ln/ihp
+	url = .
 [submodule "ee/mi/unt"]
 	path = ee/mi/unt
 	url = .
