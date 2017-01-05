@@ -7489,6 +7489,9 @@
 [submodule "tv/jz/whv"]
 	path = tv/jz/whv
 	url = .
+[submodule "tv/yo/tgo"]
+	path = tv/yo/tgo
+	url = .
 [submodule "tw/bv/luz"]
 	path = tw/bv/luz
 	url = .
