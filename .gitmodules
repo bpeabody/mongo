@@ -118,6 +118,9 @@
 [submodule "an/cr/fax"]
 	path = an/cr/fax
 	url = .
+[submodule "an/fk/lgd"]
+	path = an/fk/lgd
+	url = .
 [submodule "an/yd/yif"]
 	path = an/yd/yif
 	url = .
