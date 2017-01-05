@@ -436,6 +436,9 @@
 [submodule "bq/iw/jcg"]
 	path = bq/iw/jcg
 	url = .
+[submodule "bq/lv/pzo"]
+	path = bq/lv/pzo
+	url = .
 [submodule "bq/un/rpi"]
 	path = bq/un/rpi
 	url = .
