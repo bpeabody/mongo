@@ -5290,6 +5290,9 @@
 [submodule "lt/iv/wyq"]
 	path = lt/iv/wyq
 	url = .
+[submodule "lt/ly/yqc"]
+	path = lt/ly/yqc
+	url = .
 [submodule "lt/ps/spp"]
 	path = lt/ps/spp
 	url = .
