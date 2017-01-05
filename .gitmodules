@@ -6547,6 +6547,9 @@
 [submodule "fy/or/xsj"]
 	path = fy/or/xsj
 	url = .
+[submodule "fy/qf/pgo"]
+	path = fy/qf/pgo
+	url = .
 [submodule "fy/qg/irv"]
 	path = fy/qg/irv
 	url = .
