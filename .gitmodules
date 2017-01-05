@@ -36097,6 +36097,9 @@
 [submodule "qk/st/sqp"]
 	path = qk/st/sqp
 	url = .
+[submodule "qk/tc/wpt"]
+	path = qk/tc/wpt
+	url = .
 [submodule "qk/tg/grv"]
 	path = qk/tg/grv
 	url = .
