@@ -38755,6 +38755,9 @@
 [submodule "od/vn/hkk"]
 	path = od/vn/hkk
 	url = .
+[submodule "od/wr/wqm"]
+	path = od/wr/wqm
+	url = .
 [submodule "od/xf/ohx"]
 	path = od/xf/ohx
 	url = .
