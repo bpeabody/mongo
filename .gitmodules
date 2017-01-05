@@ -11026,6 +11026,9 @@
 [submodule "eg/mm/kfh"]
 	path = eg/mm/kfh
 	url = .
+[submodule "eg/nl/wxq"]
+	path = eg/nl/wxq
+	url = .
 [submodule "eg/pu/ovx"]
 	path = eg/pu/ovx
 	url = .
