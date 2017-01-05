@@ -1249,6 +1249,9 @@
 [submodule "sc/ri/ugg"]
 	path = sc/ri/ugg
 	url = .
+[submodule "sd/vb/gsg"]
+	path = sd/vb/gsg
+	url = .
 [submodule "se/qx/wac"]
 	path = se/qx/wac
 	url = .
