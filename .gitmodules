@@ -8836,6 +8836,9 @@
 [submodule "gu/av/bmc"]
 	path = gu/av/bmc
 	url = .
+[submodule "gu/dp/pmt"]
+	path = gu/dp/pmt
+	url = .
 [submodule "gu/er/pon"]
 	path = gu/er/pon
 	url = .
