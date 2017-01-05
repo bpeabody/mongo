@@ -39154,6 +39154,9 @@
 [submodule "rg/gt/vsy"]
 	path = rg/gt/vsy
 	url = .
+[submodule "rg/hw/ysu"]
+	path = rg/hw/ysu
+	url = .
 [submodule "rg/ie/fjr"]
 	path = rg/ie/fjr
 	url = .
