@@ -7708,6 +7708,9 @@
 [submodule "pu/bb/hdk"]
 	path = pu/bb/hdk
 	url = .
+[submodule "pu/wr/gfn"]
+	path = pu/wr/gfn
+	url = .
 [submodule "pv/ad/nni"]
 	path = pv/ad/nni
 	url = .
