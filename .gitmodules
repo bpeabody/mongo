@@ -51157,6 +51157,9 @@
 [submodule "tb/mi/pdf"]
 	path = tb/mi/pdf
 	url = .
+[submodule "tb/mv/jur"]
+	path = tb/mv/jur
+	url = .
 [submodule "tb/mx/siu"]
 	path = tb/mx/siu
 	url = .
