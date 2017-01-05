@@ -40315,6 +40315,9 @@
 [submodule "ta/oc/fgs"]
 	path = ta/oc/fgs
 	url = .
+[submodule "ta/ps/ihc"]
+	path = ta/ps/ihc
+	url = .
 [submodule "ta/qk/bdf"]
 	path = ta/qk/bdf
 	url = .
