@@ -2266,6 +2266,9 @@
 [submodule "dq/ck/muk"]
 	path = dq/ck/muk
 	url = .
+[submodule "dq/ev/qdm"]
+	path = dq/ev/qdm
+	url = .
 [submodule "dq/gi/jkr"]
 	path = dq/gi/jkr
 	url = .
