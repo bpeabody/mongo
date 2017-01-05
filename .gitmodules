@@ -25621,6 +25621,9 @@
 [submodule "ms/zf/xte"]
 	path = ms/zf/xte
 	url = .
+[submodule "mt/cb/nir"]
+	path = mt/cb/nir
+	url = .
 [submodule "mt/dg/yqo"]
 	path = mt/dg/yqo
 	url = .
