@@ -6403,6 +6403,9 @@
 [submodule "qu/jz/kgo"]
 	path = qu/jz/kgo
 	url = .
+[submodule "qu/rw/pwr"]
+	path = qu/rw/pwr
+	url = .
 [submodule "qu/vf/dgg"]
 	path = qu/vf/dgg
 	url = .
