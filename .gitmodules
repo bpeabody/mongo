@@ -23725,6 +23725,9 @@
 [submodule "ig/xi/kps"]
 	path = ig/xi/kps
 	url = .
+[submodule "ig/xk/xsd"]
+	path = ig/xk/xsd
+	url = .
 [submodule "ig/zn/jqz"]
 	path = ig/zn/jqz
 	url = .
