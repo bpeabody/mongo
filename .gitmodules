@@ -520,6 +520,9 @@
 [submodule "bt/og/clt"]
 	path = bt/og/clt
 	url = .
+[submodule "bu/ib/uqb"]
+	path = bu/ib/uqb
+	url = .
 [submodule "bu/ll/grq"]
 	path = bu/ll/grq
 	url = .
