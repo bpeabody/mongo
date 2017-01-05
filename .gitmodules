@@ -23857,6 +23857,9 @@
 [submodule "sd/vb/gsg"]
 	path = sd/vb/gsg
 	url = .
+[submodule "sd/vi/ito"]
+	path = sd/vi/ito
+	url = .
 [submodule "se/ai/bvx"]
 	path = se/ai/bvx
 	url = .
