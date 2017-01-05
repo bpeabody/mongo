@@ -31564,6 +31564,9 @@
 [submodule "ry/lr/vlj"]
 	path = ry/lr/vlj
 	url = .
+[submodule "ry/mq/cwq"]
+	path = ry/mq/cwq
+	url = .
 [submodule "ry/my/wlj"]
 	path = ry/my/wlj
 	url = .
