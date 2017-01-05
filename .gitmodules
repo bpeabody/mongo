@@ -22327,6 +22327,9 @@
 [submodule "lw/ai/pwy"]
 	path = lw/ai/pwy
 	url = .
+[submodule "lw/bi/mja"]
+	path = lw/bi/mja
+	url = .
 [submodule "lw/cv/nml"]
 	path = lw/cv/nml
 	url = .
