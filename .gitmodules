@@ -38848,6 +38848,9 @@
 [submodule "xt/rw/hfy"]
 	path = xt/rw/hfy
 	url = .
+[submodule "xt/ui/lpr"]
+	path = xt/ui/lpr
+	url = .
 [submodule "xt/ut/jiz"]
 	path = xt/ut/jiz
 	url = .
