@@ -19417,6 +19417,9 @@
 [submodule "hg/dr/muy"]
 	path = hg/dr/muy
 	url = .
+[submodule "hg/eh/ghr"]
+	path = hg/eh/ghr
+	url = .
 [submodule "hg/ex/tom"]
 	path = hg/ex/tom
 	url = .
