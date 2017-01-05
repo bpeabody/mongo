@@ -559,6 +559,9 @@
 [submodule "ai/bp/nyf"]
 	path = ai/bp/nyf
 	url = .
+[submodule "ai/db/yfn"]
+	path = ai/db/yfn
+	url = .
 [submodule "ai/eo/cji"]
 	path = ai/eo/cji
 	url = .
