@@ -23209,6 +23209,9 @@
 [submodule "hq/sb/yrh"]
 	path = hq/sb/yrh
 	url = .
+[submodule "hq/sm/rdj"]
+	path = hq/sm/rdj
+	url = .
 [submodule "hq/uw/iwi"]
 	path = hq/uw/iwi
 	url = .
