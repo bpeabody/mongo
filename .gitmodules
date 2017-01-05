@@ -7663,6 +7663,9 @@
 [submodule "ho/yn/kpd"]
 	path = ho/yn/kpd
 	url = .
+[submodule "ho/yn/pcm"]
+	path = ho/yn/pcm
+	url = .
 [submodule "hp/ab/gqe"]
 	path = hp/ab/gqe
 	url = .
