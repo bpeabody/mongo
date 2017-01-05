@@ -8986,6 +8986,9 @@
 [submodule "eo/ig/djo"]
 	path = eo/ig/djo
 	url = .
+[submodule "eo/ip/zor"]
+	path = eo/ip/zor
+	url = .
 [submodule "eo/kp/fkq"]
 	path = eo/kp/fkq
 	url = .
