@@ -8005,6 +8005,9 @@
 [submodule "fg/zn/evi"]
 	path = fg/zn/evi
 	url = .
+[submodule "fg/zv/smb"]
+	path = fg/zv/smb
+	url = .
 [submodule "fh/ad/xyb"]
 	path = fh/ad/xyb
 	url = .
