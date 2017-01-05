@@ -3355,6 +3355,9 @@
 [submodule "bq/xi/fte"]
 	path = bq/xi/fte
 	url = .
+[submodule "bq/xj/gus"]
+	path = bq/xj/gus
+	url = .
 [submodule "bq/xn/doh"]
 	path = bq/xn/doh
 	url = .
