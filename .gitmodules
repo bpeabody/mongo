@@ -10,6 +10,9 @@
 [submodule "au/cv/tai"]
 	path = au/cv/tai
 	url = .
+[submodule "bb/ug/yiq"]
+	path = bb/ug/yiq
+	url = .
 [submodule "bh/ny/vzd"]
 	path = bh/ny/vzd
 	url = .
