@@ -799,6 +799,9 @@
 [submodule "re/py/ktl"]
 	path = re/py/ktl
 	url = .
+[submodule "ri/hn/pzp"]
+	path = ri/hn/pzp
+	url = .
 [submodule "ri/rp/cjx"]
 	path = ri/rp/cjx
 	url = .
