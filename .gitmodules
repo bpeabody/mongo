@@ -2641,6 +2641,9 @@
 [submodule "aw/br/xfa"]
 	path = aw/br/xfa
 	url = .
+[submodule "aw/cm/avn"]
+	path = aw/cm/avn
+	url = .
 [submodule "aw/ct/mza"]
 	path = aw/ct/mza
 	url = .
