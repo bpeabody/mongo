@@ -16261,6 +16261,9 @@
 [submodule "vz/lg/nfx"]
 	path = vz/lg/nfx
 	url = .
+[submodule "vz/mp/cja"]
+	path = vz/mp/cja
+	url = .
 [submodule "vz/nm/zcu"]
 	path = vz/nm/zcu
 	url = .
