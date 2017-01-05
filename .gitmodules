@@ -55240,6 +55240,9 @@
 [submodule "vf/is/fwc"]
 	path = vf/is/fwc
 	url = .
+[submodule "vf/is/roe"]
+	path = vf/is/roe
+	url = .
 [submodule "vf/lh/fmu"]
 	path = vf/lh/fmu
 	url = .
