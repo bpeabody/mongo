@@ -44047,6 +44047,9 @@
 [submodule "pl/qd/djr"]
 	path = pl/qd/djr
 	url = .
+[submodule "pl/qs/vrg"]
+	path = pl/qs/vrg
+	url = .
 [submodule "pl/qx/rnn"]
 	path = pl/qx/rnn
 	url = .
