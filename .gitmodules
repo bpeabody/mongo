@@ -27499,6 +27499,9 @@
 [submodule "oz/ma/cgk"]
 	path = oz/ma/cgk
 	url = .
+[submodule "oz/mi/rop"]
+	path = oz/mi/rop
+	url = .
 [submodule "oz/nn/tgu"]
 	path = oz/nn/tgu
 	url = .
