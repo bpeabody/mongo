@@ -1642,6 +1642,9 @@
 [submodule "qv/fr/ogg"]
 	path = qv/fr/ogg
 	url = .
+[submodule "qv/jj/nqv"]
+	path = qv/jj/nqv
+	url = .
 [submodule "qv/ni/fqc"]
 	path = qv/ni/fqc
 	url = .
