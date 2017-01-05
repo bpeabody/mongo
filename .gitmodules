@@ -22249,6 +22249,9 @@
 [submodule "pm/bj/zhh"]
 	path = pm/bj/zhh
 	url = .
+[submodule "pm/ee/hkx"]
+	path = pm/ee/hkx
+	url = .
 [submodule "pm/ge/gfd"]
 	path = pm/ge/gfd
 	url = .
