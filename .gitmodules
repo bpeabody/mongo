@@ -21577,6 +21577,9 @@
 [submodule "om/qv/cyr"]
 	path = om/qv/cyr
 	url = .
+[submodule "om/rn/wpd"]
+	path = om/rn/wpd
+	url = .
 [submodule "om/sk/jsa"]
 	path = om/sk/jsa
 	url = .
