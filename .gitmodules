@@ -34975,6 +34975,9 @@
 [submodule "rz/ht/jli"]
 	path = rz/ht/jli
 	url = .
+[submodule "rz/ir/lky"]
+	path = rz/ir/lky
+	url = .
 [submodule "rz/ki/mkl"]
 	path = rz/ki/mkl
 	url = .
