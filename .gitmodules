@@ -1198,6 +1198,9 @@
 [submodule "ur/mq/dxa"]
 	path = ur/mq/dxa
 	url = .
+[submodule "us/mt/omp"]
+	path = us/mt/omp
+	url = .
 [submodule "ut/yn/vdx"]
 	path = ut/yn/vdx
 	url = .
