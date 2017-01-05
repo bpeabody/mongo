@@ -8449,6 +8449,9 @@
 [submodule "gd/fd/oro"]
 	path = gd/fd/oro
 	url = .
+[submodule "gd/gc/rtu"]
+	path = gd/gc/rtu
+	url = .
 [submodule "gd/if/rgj"]
 	path = gd/if/rgj
 	url = .
