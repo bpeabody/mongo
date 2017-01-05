@@ -18064,6 +18064,9 @@
 [submodule "gf/sr/snr"]
 	path = gf/sr/snr
 	url = .
+[submodule "gf/sv/sre"]
+	path = gf/sv/sre
+	url = .
 [submodule "gf/tf/whs"]
 	path = gf/tf/whs
 	url = .
