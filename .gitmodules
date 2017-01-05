@@ -12922,6 +12922,9 @@
 [submodule "kc/qn/sbz"]
 	path = kc/qn/sbz
 	url = .
+[submodule "kc/tm/avi"]
+	path = kc/tm/avi
+	url = .
 [submodule "kc/vv/ohl"]
 	path = kc/vv/ohl
 	url = .
