@@ -23269,6 +23269,9 @@
 [submodule "hz/qy/ryk"]
 	path = hz/qy/ryk
 	url = .
+[submodule "hz/rk/vyk"]
+	path = hz/rk/vyk
+	url = .
 [submodule "hz/so/gmk"]
 	path = hz/so/gmk
 	url = .
