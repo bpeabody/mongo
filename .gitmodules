@@ -11116,6 +11116,9 @@
 [submodule "yn/zb/rhx"]
 	path = yn/zb/rhx
 	url = .
+[submodule "yo/ap/vdn"]
+	path = yo/ap/vdn
+	url = .
 [submodule "yo/ej/snv"]
 	path = yo/ej/snv
 	url = .
