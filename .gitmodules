@@ -9343,6 +9343,9 @@
 [submodule "xc/ky/sbg"]
 	path = xc/ky/sbg
 	url = .
+[submodule "xc/la/jqy"]
+	path = xc/la/jqy
+	url = .
 [submodule "xc/lw/sca"]
 	path = xc/lw/sca
 	url = .
