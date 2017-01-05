@@ -2683,6 +2683,9 @@
 [submodule "ua/xq/gqx"]
 	path = ua/xq/gqx
 	url = .
+[submodule "uc/km/twd"]
+	path = uc/km/twd
+	url = .
 [submodule "uc/nt/vpp"]
 	path = uc/nt/vpp
 	url = .
