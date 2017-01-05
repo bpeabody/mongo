@@ -4000,6 +4000,9 @@
 [submodule "jr/iu/oka"]
 	path = jr/iu/oka
 	url = .
+[submodule "jr/kg/efl"]
+	path = jr/kg/efl
+	url = .
 [submodule "jr/lk/chy"]
 	path = jr/lk/chy
 	url = .
