@@ -4549,6 +4549,9 @@
 [submodule "ea/gg/cyb"]
 	path = ea/gg/cyb
 	url = .
+[submodule "ea/gu/rwg"]
+	path = ea/gu/rwg
+	url = .
 [submodule "ea/id/tar"]
 	path = ea/id/tar
 	url = .
