@@ -49309,6 +49309,9 @@
 [submodule "vo/us/hts"]
 	path = vo/us/hts
 	url = .
+[submodule "vo/vk/sqt"]
+	path = vo/vk/sqt
+	url = .
 [submodule "vo/wl/hsm"]
 	path = vo/wl/hsm
 	url = .
