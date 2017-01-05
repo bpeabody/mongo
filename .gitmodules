@@ -5998,6 +5998,9 @@
 [submodule "ca/gg/tqc"]
 	path = ca/gg/tqc
 	url = .
+[submodule "ca/gh/dnf"]
+	path = ca/gh/dnf
+	url = .
 [submodule "ca/gz/lax"]
 	path = ca/gz/lax
 	url = .
