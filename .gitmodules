@@ -658,6 +658,9 @@
 [submodule "et/ql/vhx"]
 	path = et/ql/vhx
 	url = .
+[submodule "ev/co/nst"]
+	path = ev/co/nst
+	url = .
 [submodule "ev/dp/xfi"]
 	path = ev/dp/xfi
 	url = .
