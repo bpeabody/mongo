@@ -23263,6 +23263,9 @@
 [submodule "mz/pv/xgq"]
 	path = mz/pv/xgq
 	url = .
+[submodule "mz/qr/qlh"]
+	path = mz/qr/qlh
+	url = .
 [submodule "mz/rc/ypj"]
 	path = mz/rc/ypj
 	url = .
