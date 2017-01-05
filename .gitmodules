@@ -3982,6 +3982,9 @@
 [submodule "oe/me/agn"]
 	path = oe/me/agn
 	url = .
+[submodule "oe/pk/tub"]
+	path = oe/pk/tub
+	url = .
 [submodule "oe/vi/xfd"]
 	path = oe/vi/xfd
 	url = .
