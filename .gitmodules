@@ -6502,6 +6502,9 @@
 [submodule "sf/sc/wwf"]
 	path = sf/sc/wwf
 	url = .
+[submodule "sf/xv/mdj"]
+	path = sf/xv/mdj
+	url = .
 [submodule "sg/ds/fmm"]
 	path = sg/ds/fmm
 	url = .
