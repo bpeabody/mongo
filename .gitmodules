@@ -5215,6 +5215,9 @@
 [submodule "op/dm/jqo"]
 	path = op/dm/jqo
 	url = .
+[submodule "op/ep/jip"]
+	path = op/ep/jip
+	url = .
 [submodule "op/ig/fln"]
 	path = op/ig/fln
 	url = .
