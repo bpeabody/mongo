@@ -8476,6 +8476,9 @@
 [submodule "mo/tt/jri"]
 	path = mo/tt/jri
 	url = .
+[submodule "mo/wj/sxt"]
+	path = mo/wj/sxt
+	url = .
 [submodule "mo/xd/mbc"]
 	path = mo/xd/mbc
 	url = .
