@@ -8707,6 +8707,9 @@
 [submodule "gh/wa/xtc"]
 	path = gh/wa/xtc
 	url = .
+[submodule "gh/xe/gmg"]
+	path = gh/xe/gmg
+	url = .
 [submodule "gh/xg/pmi"]
 	path = gh/xg/pmi
 	url = .
