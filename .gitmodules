@@ -16075,6 +16075,9 @@
 [submodule "vr/pg/bfy"]
 	path = vr/pg/bfy
 	url = .
+[submodule "vr/wr/vql"]
+	path = vr/wr/vql
+	url = .
 [submodule "vr/ze/dsz"]
 	path = vr/ze/dsz
 	url = .
