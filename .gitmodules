@@ -34822,6 +34822,9 @@
 [submodule "lz/va/muf"]
 	path = lz/va/muf
 	url = .
+[submodule "lz/vd/anp"]
+	path = lz/vd/anp
+	url = .
 [submodule "lz/vg/unx"]
 	path = lz/vg/unx
 	url = .
