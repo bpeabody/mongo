@@ -34870,6 +34870,9 @@
 [submodule "ml/gn/xoh"]
 	path = ml/gn/xoh
 	url = .
+[submodule "ml/gp/igx"]
+	path = ml/gp/igx
+	url = .
 [submodule "ml/gr/gdf"]
 	path = ml/gr/gdf
 	url = .
