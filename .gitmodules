@@ -18583,6 +18583,9 @@
 [submodule "hu/jw/orq"]
 	path = hu/jw/orq
 	url = .
+[submodule "hu/kn/brk"]
+	path = hu/kn/brk
+	url = .
 [submodule "hu/ks/jma"]
 	path = hu/ks/jma
 	url = .
