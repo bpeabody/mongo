@@ -3271,6 +3271,9 @@
 [submodule "fg/eq/lbn"]
 	path = fg/eq/lbn
 	url = .
+[submodule "fg/fm/oke"]
+	path = fg/fm/oke
+	url = .
 [submodule "fg/hj/pgd"]
 	path = fg/hj/pgd
 	url = .
