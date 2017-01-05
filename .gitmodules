@@ -29410,6 +29410,9 @@
 [submodule "na/jg/oce"]
 	path = na/jg/oce
 	url = .
+[submodule "na/jk/vgp"]
+	path = na/jk/vgp
+	url = .
 [submodule "na/kw/utt"]
 	path = na/kw/utt
 	url = .
