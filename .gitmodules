@@ -6646,6 +6646,9 @@
 [submodule "op/ig/fln"]
 	path = op/ig/fln
 	url = .
+[submodule "op/pv/wqq"]
+	path = op/pv/wqq
+	url = .
 [submodule "oq/gz/uqx"]
 	path = oq/gz/uqx
 	url = .
