@@ -24652,6 +24652,9 @@
 [submodule "jj/en/yze"]
 	path = jj/en/yze
 	url = .
+[submodule "jj/fe/qhk"]
+	path = jj/fe/qhk
+	url = .
 [submodule "jj/go/onh"]
 	path = jj/go/onh
 	url = .
