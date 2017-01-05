@@ -49612,6 +49612,9 @@
 [submodule "tq/av/uuq"]
 	path = tq/av/uuq
 	url = .
+[submodule "tq/bk/gvo"]
+	path = tq/bk/gvo
+	url = .
 [submodule "tq/db/axt"]
 	path = tq/db/axt
 	url = .
