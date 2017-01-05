@@ -1342,6 +1342,9 @@
 [submodule "ao/ob/dur"]
 	path = ao/ob/dur
 	url = .
+[submodule "ao/ot/vxt"]
+	path = ao/ot/vxt
+	url = .
 [submodule "ao/pi/ojt"]
 	path = ao/pi/ojt
 	url = .
