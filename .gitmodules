@@ -12616,6 +12616,9 @@
 [submodule "gi/wj/cev"]
 	path = gi/wj/cev
 	url = .
+[submodule "gi/xy/jnp"]
+	path = gi/xy/jnp
+	url = .
 [submodule "gi/yf/igi"]
 	path = gi/yf/igi
 	url = .
