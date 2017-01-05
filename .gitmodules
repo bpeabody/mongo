@@ -19696,6 +19696,9 @@
 [submodule "hf/yf/gni"]
 	path = hf/yf/gni
 	url = .
+[submodule "hf/yg/uea"]
+	path = hf/yg/uea
+	url = .
 [submodule "hf/za/bbc"]
 	path = hf/za/bbc
 	url = .
