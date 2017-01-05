@@ -5698,6 +5698,9 @@
 [submodule "rv/wf/doj"]
 	path = rv/wf/doj
 	url = .
+[submodule "rw/ay/csq"]
+	path = rw/ay/csq
+	url = .
 [submodule "rw/fw/kps"]
 	path = rw/fw/kps
 	url = .
