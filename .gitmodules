@@ -5485,6 +5485,9 @@
 [submodule "nf/ea/tcw"]
 	path = nf/ea/tcw
 	url = .
+[submodule "nf/gj/gnr"]
+	path = nf/gj/gnr
+	url = .
 [submodule "nf/hp/idu"]
 	path = nf/hp/idu
 	url = .
