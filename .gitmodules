@@ -883,6 +883,9 @@
 [submodule "hc/zw/yrs"]
 	path = hc/zw/yrs
 	url = .
+[submodule "hd/oq/qyg"]
+	path = hd/oq/qyg
+	url = .
 [submodule "hd/ta/qpk"]
 	path = hd/ta/qpk
 	url = .
