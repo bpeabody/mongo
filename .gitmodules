@@ -56407,6 +56407,9 @@
 [submodule "va/bj/rsn"]
 	path = va/bj/rsn
 	url = .
+[submodule "va/eg/dpy"]
+	path = va/eg/dpy
+	url = .
 [submodule "va/ek/ytd"]
 	path = va/ek/ytd
 	url = .
