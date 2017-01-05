@@ -19855,6 +19855,9 @@
 [submodule "jp/cb/xni"]
 	path = jp/cb/xni
 	url = .
+[submodule "jp/eb/cki"]
+	path = jp/eb/cki
+	url = .
 [submodule "jp/hi/fbz"]
 	path = jp/hi/fbz
 	url = .
