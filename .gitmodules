@@ -460,6 +460,9 @@
 [submodule "ri/rp/cjx"]
 	path = ri/rp/cjx
 	url = .
+[submodule "rm/xn/emh"]
+	path = rm/xn/emh
+	url = .
 [submodule "rp/rt/ete"]
 	path = rp/rt/ete
 	url = .
