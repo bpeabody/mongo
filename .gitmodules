@@ -877,6 +877,9 @@
 [submodule "ao/fo/bcc"]
 	path = ao/fo/bcc
 	url = .
+[submodule "ao/gh/amo"]
+	path = ao/gh/amo
+	url = .
 [submodule "ao/ih/cai"]
 	path = ao/ih/cai
 	url = .
