@@ -4789,6 +4789,9 @@
 [submodule "by/qp/qny"]
 	path = by/qp/qny
 	url = .
+[submodule "by/qu/cgd"]
+	path = by/qu/cgd
+	url = .
 [submodule "by/sf/hgm"]
 	path = by/sf/hgm
 	url = .
