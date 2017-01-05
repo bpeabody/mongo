@@ -11644,6 +11644,9 @@
 [submodule "tk/uo/ipc"]
 	path = tk/uo/ipc
 	url = .
+[submodule "tk/uq/srg"]
+	path = tk/uq/srg
+	url = .
 [submodule "tk/vw/dks"]
 	path = tk/vw/dks
 	url = .
