@@ -29836,6 +29836,9 @@
 [submodule "lp/fj/hsp"]
 	path = lp/fj/hsp
 	url = .
+[submodule "lp/fm/nzy"]
+	path = lp/fm/nzy
+	url = .
 [submodule "lp/gm/tut"]
 	path = lp/gm/tut
 	url = .
