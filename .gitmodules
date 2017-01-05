@@ -3244,6 +3244,9 @@
 [submodule "nx/dg/sre"]
 	path = nx/dg/sre
 	url = .
+[submodule "nx/ug/ghp"]
+	path = nx/ug/ghp
+	url = .
 [submodule "ny/aq/uyn"]
 	path = ny/aq/uyn
 	url = .
