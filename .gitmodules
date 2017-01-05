@@ -12967,6 +12967,9 @@
 [submodule "fm/vu/tji"]
 	path = fm/vu/tji
 	url = .
+[submodule "fm/xx/vnc"]
+	path = fm/xx/vnc
+	url = .
 [submodule "fm/ya/swu"]
 	path = fm/ya/swu
 	url = .
