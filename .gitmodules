@@ -12085,6 +12085,9 @@
 [submodule "ej/pd/izl"]
 	path = ej/pd/izl
 	url = .
+[submodule "ej/qg/bsg"]
+	path = ej/qg/bsg
+	url = .
 [submodule "ej/qg/mjw"]
 	path = ej/qg/mjw
 	url = .
