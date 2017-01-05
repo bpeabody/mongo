@@ -27460,6 +27460,9 @@
 [submodule "nw/hy/sxx"]
 	path = nw/hy/sxx
 	url = .
+[submodule "nw/jh/lwj"]
+	path = nw/jh/lwj
+	url = .
 [submodule "nw/ks/imz"]
 	path = nw/ks/imz
 	url = .
