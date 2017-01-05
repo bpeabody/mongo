@@ -5410,6 +5410,9 @@
 [submodule "dv/ht/zzj"]
 	path = dv/ht/zzj
 	url = .
+[submodule "dv/md/nro"]
+	path = dv/md/nro
+	url = .
 [submodule "dv/ng/jsc"]
 	path = dv/ng/jsc
 	url = .
