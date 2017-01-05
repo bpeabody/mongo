@@ -15292,6 +15292,9 @@
 [submodule "oj/xm/wrc"]
 	path = oj/xm/wrc
 	url = .
+[submodule "oj/zh/wxv"]
+	path = oj/zh/wxv
+	url = .
 [submodule "ok/by/jte"]
 	path = ok/by/jte
 	url = .
