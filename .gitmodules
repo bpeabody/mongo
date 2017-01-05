@@ -499,6 +499,9 @@
 [submodule "aj/do/kkl"]
 	path = aj/do/kkl
 	url = .
+[submodule "aj/dx/vxb"]
+	path = aj/dx/vxb
+	url = .
 [submodule "aj/gm/wcy"]
 	path = aj/gm/wcy
 	url = .
