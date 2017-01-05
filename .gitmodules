@@ -23269,6 +23269,9 @@
 [submodule "jf/fp/pot"]
 	path = jf/fp/pot
 	url = .
+[submodule "jf/fq/qwj"]
+	path = jf/fq/qwj
+	url = .
 [submodule "jf/fx/nai"]
 	path = jf/fx/nai
 	url = .
