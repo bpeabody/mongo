@@ -24349,6 +24349,9 @@
 [submodule "nj/ob/fej"]
 	path = nj/ob/fej
 	url = .
+[submodule "nj/or/xdx"]
+	path = nj/or/xdx
+	url = .
 [submodule "nj/po/kft"]
 	path = nj/po/kft
 	url = .
