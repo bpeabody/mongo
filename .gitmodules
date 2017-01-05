@@ -3319,6 +3319,9 @@
 [submodule "bd/hs/cjb"]
 	path = bd/hs/cjb
 	url = .
+[submodule "bd/jd/aaf"]
+	path = bd/jd/aaf
+	url = .
 [submodule "bd/mv/poc"]
 	path = bd/mv/poc
 	url = .
