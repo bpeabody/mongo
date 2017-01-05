@@ -511,6 +511,9 @@
 [submodule "bh/ny/vzd"]
 	path = bh/ny/vzd
 	url = .
+[submodule "bh/sf/rhh"]
+	path = bh/sf/rhh
+	url = .
 [submodule "bi/fn/qfg"]
 	path = bi/fn/qfg
 	url = .
