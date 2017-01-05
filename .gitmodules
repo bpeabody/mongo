@@ -1651,6 +1651,9 @@
 [submodule "bc/vp/fyh"]
 	path = bc/vp/fyh
 	url = .
+[submodule "bc/wr/lpe"]
+	path = bc/wr/lpe
+	url = .
 [submodule "bc/xl/pox"]
 	path = bc/xl/pox
 	url = .
