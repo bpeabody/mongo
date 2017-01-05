@@ -12052,6 +12052,9 @@
 [submodule "ud/ec/ova"]
 	path = ud/ec/ova
 	url = .
+[submodule "ud/gy/hym"]
+	path = ud/gy/hym
+	url = .
 [submodule "ud/kp/zsr"]
 	path = ud/kp/zsr
 	url = .
