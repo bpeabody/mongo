@@ -10327,6 +10327,9 @@
 [submodule "iq/nr/gsn"]
 	path = iq/nr/gsn
 	url = .
+[submodule "iq/ot/iys"]
+	path = iq/ot/iys
+	url = .
 [submodule "iq/tj/hcq"]
 	path = iq/tj/hcq
 	url = .
