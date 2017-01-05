@@ -9376,6 +9376,9 @@
 [submodule "sp/lj/pfl"]
 	path = sp/lj/pfl
 	url = .
+[submodule "sp/mv/wjo"]
+	path = sp/mv/wjo
+	url = .
 [submodule "sp/pa/uga"]
 	path = sp/pa/uga
 	url = .
