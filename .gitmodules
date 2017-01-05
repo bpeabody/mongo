@@ -24865,6 +24865,9 @@
 [submodule "ku/eb/erx"]
 	path = ku/eb/erx
 	url = .
+[submodule "ku/eo/qii"]
+	path = ku/eo/qii
+	url = .
 [submodule "ku/ep/szj"]
 	path = ku/ep/szj
 	url = .
