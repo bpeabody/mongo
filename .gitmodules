@@ -26680,6 +26680,9 @@
 [submodule "ln/et/vki"]
 	path = ln/et/vki
 	url = .
+[submodule "ln/gc/rmj"]
+	path = ln/gc/rmj
+	url = .
 [submodule "ln/ho/mqc"]
 	path = ln/ho/mqc
 	url = .
