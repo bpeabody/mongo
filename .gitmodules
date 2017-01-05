@@ -2038,6 +2038,9 @@
 [submodule "tl/ru/ggg"]
 	path = tl/ru/ggg
 	url = .
+[submodule "tn/bs/cry"]
+	path = tn/bs/cry
+	url = .
 [submodule "tn/ku/lqh"]
 	path = tn/ku/lqh
 	url = .
