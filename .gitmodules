@@ -6727,6 +6727,9 @@
 [submodule "cf/su/umu"]
 	path = cf/su/umu
 	url = .
+[submodule "cf/tf/cgg"]
+	path = cf/tf/cgg
+	url = .
 [submodule "cf/tk/qgy"]
 	path = cf/tk/qgy
 	url = .
