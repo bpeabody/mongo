@@ -3853,6 +3853,9 @@
 [submodule "bq/wq/ezi"]
 	path = bq/wq/ezi
 	url = .
+[submodule "bq/wt/yum"]
+	path = bq/wt/yum
+	url = .
 [submodule "bq/xi/fte"]
 	path = bq/xi/fte
 	url = .
