@@ -19537,6 +19537,9 @@
 [submodule "mo/ls/afo"]
 	path = mo/ls/afo
 	url = .
+[submodule "mo/mr/qtl"]
+	path = mo/mr/qtl
+	url = .
 [submodule "mo/nj/cyl"]
 	path = mo/nj/cyl
 	url = .
