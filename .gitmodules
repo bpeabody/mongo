@@ -26425,6 +26425,9 @@
 [submodule "nw/rw/aku"]
 	path = nw/rw/aku
 	url = .
+[submodule "nw/up/ags"]
+	path = nw/up/ags
+	url = .
 [submodule "nw/uz/grg"]
 	path = nw/uz/grg
 	url = .
