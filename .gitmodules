@@ -5914,6 +5914,9 @@
 [submodule "fn/rd/aex"]
 	path = fn/rd/aex
 	url = .
+[submodule "fn/tg/eoc"]
+	path = fn/tg/eoc
+	url = .
 [submodule "fn/tm/tef"]
 	path = fn/tm/tef
 	url = .
