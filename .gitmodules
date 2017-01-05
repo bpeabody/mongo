@@ -4735,6 +4735,9 @@
 [submodule "fc/ov/tnh"]
 	path = fc/ov/tnh
 	url = .
+[submodule "fc/qd/hss"]
+	path = fc/qd/hss
+	url = .
 [submodule "fc/qp/pdk"]
 	path = fc/qp/pdk
 	url = .
