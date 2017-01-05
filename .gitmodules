@@ -33265,6 +33265,9 @@
 [submodule "wg/pi/hmt"]
 	path = wg/pi/hmt
 	url = .
+[submodule "wg/pr/eci"]
+	path = wg/pr/eci
+	url = .
 [submodule "wg/qz/nto"]
 	path = wg/qz/nto
 	url = .
