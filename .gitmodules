@@ -42901,6 +42901,9 @@
 [submodule "rd/vn/eky"]
 	path = rd/vn/eky
 	url = .
+[submodule "rd/vp/kce"]
+	path = rd/vp/kce
+	url = .
 [submodule "rd/wm/bco"]
 	path = rd/wm/bco
 	url = .
