@@ -55027,6 +55027,9 @@
 [submodule "te/gm/rnl"]
 	path = te/gm/rnl
 	url = .
+[submodule "te/hg/xuh"]
+	path = te/hg/xuh
+	url = .
 [submodule "te/ht/han"]
 	path = te/ht/han
 	url = .
