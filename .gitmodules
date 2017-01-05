@@ -14680,6 +14680,9 @@
 [submodule "jq/oq/nsg"]
 	path = jq/oq/nsg
 	url = .
+[submodule "jq/pt/zcu"]
+	path = jq/pt/zcu
+	url = .
 [submodule "jq/qm/cua"]
 	path = jq/qm/cua
 	url = .
