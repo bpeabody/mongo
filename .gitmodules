@@ -52393,6 +52393,9 @@
 [submodule "zc/kd/trc"]
 	path = zc/kd/trc
 	url = .
+[submodule "zc/kk/haf"]
+	path = zc/kk/haf
+	url = .
 [submodule "zc/lh/dpt"]
 	path = zc/lh/dpt
 	url = .
