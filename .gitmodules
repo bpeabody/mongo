@@ -59032,6 +59032,9 @@
 [submodule "ut/xi/kol"]
 	path = ut/xi/kol
 	url = .
+[submodule "ut/xj/pmi"]
+	path = ut/xj/pmi
+	url = .
 [submodule "ut/yn/vdx"]
 	path = ut/yn/vdx
 	url = .
