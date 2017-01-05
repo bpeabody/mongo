@@ -13312,6 +13312,9 @@
 [submodule "ft/mj/ezz"]
 	path = ft/mj/ezz
 	url = .
+[submodule "ft/nz/lrw"]
+	path = ft/nz/lrw
+	url = .
 [submodule "ft/qv/hci"]
 	path = ft/qv/hci
 	url = .
