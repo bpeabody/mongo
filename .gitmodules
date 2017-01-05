@@ -64156,6 +64156,9 @@
 [submodule "xq/hg/fgu"]
 	path = xq/hg/fgu
 	url = .
+[submodule "xq/hr/fxo"]
+	path = xq/hr/fxo
+	url = .
 [submodule "xq/hr/jsx"]
 	path = xq/hr/jsx
 	url = .
