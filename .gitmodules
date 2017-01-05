@@ -6319,6 +6319,9 @@
 [submodule "ja/ba/smw"]
 	path = ja/ba/smw
 	url = .
+[submodule "ja/bn/drn"]
+	path = ja/bn/drn
+	url = .
 [submodule "ja/en/juj"]
 	path = ja/en/juj
 	url = .
