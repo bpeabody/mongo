@@ -5173,6 +5173,9 @@
 [submodule "rj/wk/xrl"]
 	path = rj/wk/xrl
 	url = .
+[submodule "rk/bp/pws"]
+	path = rk/bp/pws
+	url = .
 [submodule "rk/fc/smz"]
 	path = rk/fc/smz
 	url = .
