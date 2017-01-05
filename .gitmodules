@@ -17914,6 +17914,9 @@
 [submodule "lg/lb/fsu"]
 	path = lg/lb/fsu
 	url = .
+[submodule "lg/lj/wjb"]
+	path = lg/lj/wjb
+	url = .
 [submodule "lg/mk/pgg"]
 	path = lg/mk/pgg
 	url = .
