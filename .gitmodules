@@ -11401,6 +11401,9 @@
 [submodule "lf/qn/fai"]
 	path = lf/qn/fai
 	url = .
+[submodule "lf/re/zah"]
+	path = lf/re/zah
+	url = .
 [submodule "lf/rl/rlp"]
 	path = lf/rl/rlp
 	url = .
