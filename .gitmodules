@@ -10414,6 +10414,9 @@
 [submodule "ue/jx/tpk"]
 	path = ue/jx/tpk
 	url = .
+[submodule "ue/jx/xfy"]
+	path = ue/jx/xfy
+	url = .
 [submodule "ue/qp/iht"]
 	path = ue/qp/iht
 	url = .
