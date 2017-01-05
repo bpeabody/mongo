@@ -4417,6 +4417,9 @@
 [submodule "ff/nk/ncz"]
 	path = ff/nk/ncz
 	url = .
+[submodule "ff/pv/noi"]
+	path = ff/pv/noi
+	url = .
 [submodule "ff/qa/uqp"]
 	path = ff/qa/uqp
 	url = .
