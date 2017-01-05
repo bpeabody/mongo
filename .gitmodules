@@ -5014,6 +5014,9 @@
 [submodule "fk/bl/mbi"]
 	path = fk/bl/mbi
 	url = .
+[submodule "fk/jk/mwq"]
+	path = fk/jk/mwq
+	url = .
 [submodule "fk/sj/ary"]
 	path = fk/sj/ary
 	url = .
