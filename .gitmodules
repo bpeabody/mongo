@@ -1594,6 +1594,9 @@
 [submodule "fo/uv/gtl"]
 	path = fo/uv/gtl
 	url = .
+[submodule "fp/cn/kya"]
+	path = fp/cn/kya
+	url = .
 [submodule "fp/ha/ijx"]
 	path = fp/ha/ijx
 	url = .
