@@ -9451,6 +9451,9 @@
 [submodule "ly/ix/wbm"]
 	path = ly/ix/wbm
 	url = .
+[submodule "ly/nj/ime"]
+	path = ly/nj/ime
+	url = .
 [submodule "ly/nu/mef"]
 	path = ly/nu/mef
 	url = .
