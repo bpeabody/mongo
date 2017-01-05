@@ -33580,6 +33580,9 @@
 [submodule "qq/jf/mgf"]
 	path = qq/jf/mgf
 	url = .
+[submodule "qq/mj/bah"]
+	path = qq/mj/bah
+	url = .
 [submodule "qq/nt/zjz"]
 	path = qq/nt/zjz
 	url = .
