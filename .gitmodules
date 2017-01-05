@@ -3547,6 +3547,9 @@
 [submodule "ee/qo/wkg"]
 	path = ee/qo/wkg
 	url = .
+[submodule "ee/ry/awa"]
+	path = ee/ry/awa
+	url = .
 [submodule "ee/se/hfy"]
 	path = ee/se/hfy
 	url = .
