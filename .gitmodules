@@ -31750,6 +31750,9 @@
 [submodule "qx/mi/hbt"]
 	path = qx/mi/hbt
 	url = .
+[submodule "qx/ns/vkr"]
+	path = qx/ns/vkr
+	url = .
 [submodule "qx/ok/tmv"]
 	path = qx/ok/tmv
 	url = .
