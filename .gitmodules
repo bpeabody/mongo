@@ -32524,6 +32524,9 @@
 [submodule "rt/qb/zxk"]
 	path = rt/qb/zxk
 	url = .
+[submodule "rt/qh/jjf"]
+	path = rt/qh/jjf
+	url = .
 [submodule "rt/sd/vev"]
 	path = rt/sd/vev
 	url = .
