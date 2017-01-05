@@ -9637,6 +9637,9 @@
 [submodule "fb/gz/fhc"]
 	path = fb/gz/fhc
 	url = .
+[submodule "fb/ik/kyw"]
+	path = fb/ik/kyw
+	url = .
 [submodule "fb/ix/azd"]
 	path = fb/ix/azd
 	url = .
