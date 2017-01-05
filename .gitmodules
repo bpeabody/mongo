@@ -31984,6 +31984,9 @@
 [submodule "nw/dc/wva"]
 	path = nw/dc/wva
 	url = .
+[submodule "nw/di/jhk"]
+	path = nw/di/jhk
+	url = .
 [submodule "nw/ec/mct"]
 	path = nw/ec/mct
 	url = .
