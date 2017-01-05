@@ -3697,6 +3697,9 @@
 [submodule "cl/qa/sdu"]
 	path = cl/qa/sdu
 	url = .
+[submodule "cl/rc/twx"]
+	path = cl/rc/twx
+	url = .
 [submodule "cl/sd/uxp"]
 	path = cl/sd/uxp
 	url = .
