@@ -44410,6 +44410,9 @@
 [submodule "rc/ir/kwz"]
 	path = rc/ir/kwz
 	url = .
+[submodule "rc/ks/nng"]
+	path = rc/ks/nng
+	url = .
 [submodule "rc/ma/ghj"]
 	path = rc/ma/ghj
 	url = .
