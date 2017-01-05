@@ -27466,6 +27466,9 @@
 [submodule "mu/dq/hzv"]
 	path = mu/dq/hzv
 	url = .
+[submodule "mu/ex/hct"]
+	path = mu/ex/hct
+	url = .
 [submodule "mu/fb/ilv"]
 	path = mu/fb/ilv
 	url = .
