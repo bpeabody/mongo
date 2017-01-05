@@ -34723,6 +34723,9 @@
 [submodule "os/eb/kqm"]
 	path = os/eb/kqm
 	url = .
+[submodule "os/ej/isv"]
+	path = os/ej/isv
+	url = .
 [submodule "os/eq/bii"]
 	path = os/eq/bii
 	url = .
