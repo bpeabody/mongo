@@ -1330,6 +1330,9 @@
 [submodule "xd/xz/sum"]
 	path = xd/xz/sum
 	url = .
+[submodule "xe/qv/bka"]
+	path = xe/qv/bka
+	url = .
 [submodule "xf/lv/rud"]
 	path = xf/lv/rud
 	url = .
