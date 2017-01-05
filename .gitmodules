@@ -24925,6 +24925,9 @@
 [submodule "kn/tp/imd"]
 	path = kn/tp/imd
 	url = .
+[submodule "kn/ua/dyc"]
+	path = kn/ua/dyc
+	url = .
 [submodule "kn/vb/ejb"]
 	path = kn/vb/ejb
 	url = .
