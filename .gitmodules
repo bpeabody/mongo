@@ -3370,6 +3370,9 @@
 [submodule "wt/ns/qgx"]
 	path = wt/ns/qgx
 	url = .
+[submodule "wt/zy/bmv"]
+	path = wt/zy/bmv
+	url = .
 [submodule "wu/eg/jnl"]
 	path = wu/eg/jnl
 	url = .
