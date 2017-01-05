@@ -328,6 +328,9 @@
 [submodule "fh/ha/ilo"]
 	path = fh/ha/ilo
 	url = .
+[submodule "fi/ie/mcq"]
+	path = fi/ie/mcq
+	url = .
 [submodule "fi/my/npa"]
 	path = fi/my/npa
 	url = .
