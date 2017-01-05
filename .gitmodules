@@ -24055,6 +24055,9 @@
 [submodule "iu/qd/yxo"]
 	path = iu/qd/yxo
 	url = .
+[submodule "iu/qg/lmc"]
+	path = iu/qg/lmc
+	url = .
 [submodule "iu/qu/ycq"]
 	path = iu/qu/ycq
 	url = .
