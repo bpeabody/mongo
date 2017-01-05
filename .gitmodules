@@ -1231,6 +1231,9 @@
 [submodule "kw/zj/bxw"]
 	path = kw/zj/bxw
 	url = .
+[submodule "kx/ac/wqc"]
+	path = kx/ac/wqc
+	url = .
 [submodule "kx/wx/cgq"]
 	path = kx/wx/cgq
 	url = .
