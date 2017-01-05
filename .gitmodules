@@ -9742,6 +9742,9 @@
 [submodule "et/za/nmv"]
 	path = et/za/nmv
 	url = .
+[submodule "et/zp/whc"]
+	path = et/zp/whc
+	url = .
 [submodule "eu/aw/rej"]
 	path = eu/aw/rej
 	url = .
