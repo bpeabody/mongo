@@ -2305,6 +2305,9 @@
 [submodule "av/hr/ios"]
 	path = av/hr/ios
 	url = .
+[submodule "av/hw/eox"]
+	path = av/hw/eox
+	url = .
 [submodule "av/if/pyv"]
 	path = av/if/pyv
 	url = .
