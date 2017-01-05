@@ -44812,6 +44812,9 @@
 [submodule "tr/ki/gcs"]
 	path = tr/ki/gcs
 	url = .
+[submodule "tr/kr/bpo"]
+	path = tr/kr/bpo
+	url = .
 [submodule "tr/lf/lzu"]
 	path = tr/lf/lzu
 	url = .
