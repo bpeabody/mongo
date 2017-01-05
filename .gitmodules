@@ -20146,6 +20146,9 @@
 [submodule "qn/ud/uae"]
 	path = qn/ud/uae
 	url = .
+[submodule "qn/xe/uuw"]
+	path = qn/xe/uuw
+	url = .
 [submodule "qn/xn/jmd"]
 	path = qn/xn/jmd
 	url = .
