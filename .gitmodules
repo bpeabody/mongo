@@ -3136,6 +3136,9 @@
 [submodule "dc/vq/jbi"]
 	path = dc/vq/jbi
 	url = .
+[submodule "dc/vw/efs"]
+	path = dc/vw/efs
+	url = .
 [submodule "dc/xr/mck"]
 	path = dc/xr/mck
 	url = .
