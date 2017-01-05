@@ -8680,6 +8680,9 @@
 [submodule "xu/fe/gyu"]
 	path = xu/fe/gyu
 	url = .
+[submodule "xv/cd/fur"]
+	path = xv/cd/fur
+	url = .
 [submodule "xv/fj/xgj"]
 	path = xv/fj/xgj
 	url = .
