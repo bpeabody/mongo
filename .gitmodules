@@ -25252,6 +25252,9 @@
 [submodule "tq/yf/dft"]
 	path = tq/yf/dft
 	url = .
+[submodule "tq/yv/bqw"]
+	path = tq/yv/bqw
+	url = .
 [submodule "tr/an/huw"]
 	path = tr/an/huw
 	url = .
