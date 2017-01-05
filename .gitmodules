@@ -5257,6 +5257,9 @@
 [submodule "bu/la/lpk"]
 	path = bu/la/lpk
 	url = .
+[submodule "bu/li/yoj"]
+	path = bu/li/yoj
+	url = .
 [submodule "bu/ll/grq"]
 	path = bu/ll/grq
 	url = .
