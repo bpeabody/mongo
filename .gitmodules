@@ -59884,6 +59884,9 @@
 [submodule "wg/ii/yrc"]
 	path = wg/ii/yrc
 	url = .
+[submodule "wg/iq/fab"]
+	path = wg/iq/fab
+	url = .
 [submodule "wg/jc/rhz"]
 	path = wg/jc/rhz
 	url = .
