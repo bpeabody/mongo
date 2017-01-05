@@ -18280,6 +18280,9 @@
 [submodule "lt/eb/diz"]
 	path = lt/eb/diz
 	url = .
+[submodule "lt/er/vkf"]
+	path = lt/er/vkf
+	url = .
 [submodule "lt/ey/zej"]
 	path = lt/ey/zej
 	url = .
