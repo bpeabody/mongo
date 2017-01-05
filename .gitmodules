@@ -16591,6 +16591,9 @@
 [submodule "jx/hc/onf"]
 	path = jx/hc/onf
 	url = .
+[submodule "jx/ky/icg"]
+	path = jx/ky/icg
+	url = .
 [submodule "jx/lk/tiq"]
 	path = jx/lk/tiq
 	url = .
