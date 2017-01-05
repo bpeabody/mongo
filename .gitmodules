@@ -23335,6 +23335,9 @@
 [submodule "vt/zv/sno"]
 	path = vt/zv/sno
 	url = .
+[submodule "vu/aa/ouv"]
+	path = vu/aa/ouv
+	url = .
 [submodule "vu/ba/jql"]
 	path = vu/ba/jql
 	url = .
