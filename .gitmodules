@@ -4870,6 +4870,9 @@
 [submodule "ec/qz/npa"]
 	path = ec/qz/npa
 	url = .
+[submodule "ec/ra/ybv"]
+	path = ec/ra/ybv
+	url = .
 [submodule "ec/vp/kwm"]
 	path = ec/vp/kwm
 	url = .
