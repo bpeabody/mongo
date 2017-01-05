@@ -8794,6 +8794,9 @@
 [submodule "tp/ew/hok"]
 	path = tp/ew/hok
 	url = .
+[submodule "tp/ox/lda"]
+	path = tp/ox/lda
+	url = .
 [submodule "tp/qh/kzb"]
 	path = tp/qh/kzb
 	url = .
