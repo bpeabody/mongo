@@ -10366,6 +10366,9 @@
 [submodule "nj/el/peb"]
 	path = nj/el/peb
 	url = .
+[submodule "nj/gv/hpv"]
+	path = nj/gv/hpv
+	url = .
 [submodule "nj/hd/nmp"]
 	path = nj/hd/nmp
 	url = .
