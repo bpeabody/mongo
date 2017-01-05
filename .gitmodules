@@ -67,6 +67,9 @@
 [submodule "aa/rg/hea"]
 	path = aa/rg/hea
 	url = .
+[submodule "aa/rh/axi"]
+	path = aa/rh/axi
+	url = .
 [submodule "aa/sa/vyd"]
 	path = aa/sa/vyd
 	url = .
