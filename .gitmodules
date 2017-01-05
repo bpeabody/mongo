@@ -6841,6 +6841,9 @@
 [submodule "ma/zs/buy"]
 	path = ma/zs/buy
 	url = .
+[submodule "mb/bq/izu"]
+	path = mb/bq/izu
+	url = .
 [submodule "mb/la/did"]
 	path = mb/la/did
 	url = .
