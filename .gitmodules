@@ -24154,6 +24154,9 @@
 [submodule "pk/up/wwn"]
 	path = pk/up/wwn
 	url = .
+[submodule "pk/wm/rbd"]
+	path = pk/wm/rbd
+	url = .
 [submodule "pk/xf/qsk"]
 	path = pk/xf/qsk
 	url = .
