@@ -31468,6 +31468,9 @@
 [submodule "nb/ms/pkh"]
 	path = nb/ms/pkh
 	url = .
+[submodule "nb/nk/yps"]
+	path = nb/nk/yps
+	url = .
 [submodule "nb/nv/qpy"]
 	path = nb/nv/qpy
 	url = .
