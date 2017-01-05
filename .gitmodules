@@ -8935,6 +8935,9 @@
 [submodule "fb/ji/hks"]
 	path = fb/ji/hks
 	url = .
+[submodule "fb/ki/iis"]
+	path = fb/ki/iis
+	url = .
 [submodule "fb/ki/qsu"]
 	path = fb/ki/qsu
 	url = .
