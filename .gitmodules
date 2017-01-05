@@ -38962,6 +38962,9 @@
 [submodule "ox/gb/jco"]
 	path = ox/gb/jco
 	url = .
+[submodule "ox/hc/jmq"]
+	path = ox/hc/jmq
+	url = .
 [submodule "ox/hd/twa"]
 	path = ox/hd/twa
 	url = .
