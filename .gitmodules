@@ -775,6 +775,9 @@
 [submodule "bu/ib/uqb"]
 	path = bu/ib/uqb
 	url = .
+[submodule "bu/kl/fqc"]
+	path = bu/kl/fqc
+	url = .
 [submodule "bu/ll/grq"]
 	path = bu/ll/grq
 	url = .
