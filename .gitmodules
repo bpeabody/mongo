@@ -322,6 +322,9 @@
 [submodule "jz/vf/ksx"]
 	path = jz/vf/ksx
 	url = .
+[submodule "ka/dj/spy"]
+	path = ka/dj/spy
+	url = .
 [submodule "kg/og/owe"]
 	path = kg/og/owe
 	url = .
