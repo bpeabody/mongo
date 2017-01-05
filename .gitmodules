@@ -4030,6 +4030,9 @@
 [submodule "kx/wx/cgq"]
 	path = kx/wx/cgq
 	url = .
+[submodule "kx/wx/mdp"]
+	path = kx/wx/mdp
+	url = .
 [submodule "kx/yb/yzq"]
 	path = kx/yb/yzq
 	url = .
