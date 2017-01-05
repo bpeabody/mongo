@@ -12517,6 +12517,9 @@
 [submodule "en/gm/jro"]
 	path = en/gm/jro
 	url = .
+[submodule "en/gn/hde"]
+	path = en/gn/hde
+	url = .
 [submodule "en/hp/lkg"]
 	path = en/hp/lkg
 	url = .
