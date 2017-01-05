@@ -12244,6 +12244,9 @@
 [submodule "wv/wo/ntd"]
 	path = wv/wo/ntd
 	url = .
+[submodule "wv/xz/uyu"]
+	path = wv/xz/uyu
+	url = .
 [submodule "wv/yh/wri"]
 	path = wv/yh/wri
 	url = .
