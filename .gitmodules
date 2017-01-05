@@ -4540,6 +4540,9 @@
 [submodule "qu/zc/zxw"]
 	path = qu/zc/zxw
 	url = .
+[submodule "qv/ec/afk"]
+	path = qv/ec/afk
+	url = .
 [submodule "qv/fr/ogg"]
 	path = qv/fr/ogg
 	url = .
