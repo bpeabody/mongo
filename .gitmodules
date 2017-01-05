@@ -8494,6 +8494,9 @@
 [submodule "hj/eh/lyj"]
 	path = hj/eh/lyj
 	url = .
+[submodule "hj/hu/ppu"]
+	path = hj/hu/ppu
+	url = .
 [submodule "hj/iu/lij"]
 	path = hj/iu/lij
 	url = .
