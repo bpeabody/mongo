@@ -4372,6 +4372,9 @@
 [submodule "mp/le/tta"]
 	path = mp/le/tta
 	url = .
+[submodule "mp/lf/bde"]
+	path = mp/lf/bde
+	url = .
 [submodule "mp/ln/ufh"]
 	path = mp/ln/ufh
 	url = .
