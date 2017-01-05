@@ -3874,6 +3874,9 @@
 [submodule "ma/wt/gen"]
 	path = ma/wt/gen
 	url = .
+[submodule "ma/xj/thc"]
+	path = ma/xj/thc
+	url = .
 [submodule "mb/ql/emq"]
 	path = mb/ql/emq
 	url = .
