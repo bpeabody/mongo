@@ -1810,6 +1810,9 @@
 [submodule "ox/wc/upa"]
 	path = ox/wc/upa
 	url = .
+[submodule "ox/zd/nok"]
+	path = ox/zd/nok
+	url = .
 [submodule "oy/ae/our"]
 	path = oy/ae/our
 	url = .
