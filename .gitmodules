@@ -4852,6 +4852,9 @@
 [submodule "ou/jl/qaf"]
 	path = ou/jl/qaf
 	url = .
+[submodule "ou/qy/nia"]
+	path = ou/qy/nia
+	url = .
 [submodule "ou/ue/tff"]
 	path = ou/ue/tff
 	url = .
