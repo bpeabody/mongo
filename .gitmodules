@@ -10240,6 +10240,9 @@
 [submodule "hu/qd/khl"]
 	path = hu/qd/khl
 	url = .
+[submodule "hu/ro/jyt"]
+	path = hu/ro/jyt
+	url = .
 [submodule "hu/ry/axp"]
 	path = hu/ry/axp
 	url = .
