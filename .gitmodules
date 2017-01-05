@@ -44806,6 +44806,9 @@
 [submodule "qp/hc/bum"]
 	path = qp/hc/bum
 	url = .
+[submodule "qp/hv/oxo"]
+	path = qp/hv/oxo
+	url = .
 [submodule "qp/hz/zrr"]
 	path = qp/hz/zrr
 	url = .
