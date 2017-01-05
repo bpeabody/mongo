@@ -30727,6 +30727,9 @@
 [submodule "ow/kb/plw"]
 	path = ow/kb/plw
 	url = .
+[submodule "ow/ko/uam"]
+	path = ow/ko/uam
+	url = .
 [submodule "ow/ll/rpi"]
 	path = ow/ll/rpi
 	url = .
