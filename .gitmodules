@@ -6529,6 +6529,9 @@
 [submodule "dp/jl/akq"]
 	path = dp/jl/akq
 	url = .
+[submodule "dp/jx/teg"]
+	path = dp/jx/teg
+	url = .
 [submodule "dp/lr/str"]
 	path = dp/lr/str
 	url = .
