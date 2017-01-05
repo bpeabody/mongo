@@ -29422,6 +29422,9 @@
 [submodule "un/gi/tri"]
 	path = un/gi/tri
 	url = .
+[submodule "un/gv/vzk"]
+	path = un/gv/vzk
+	url = .
 [submodule "un/gv/wey"]
 	path = un/gv/wey
 	url = .
