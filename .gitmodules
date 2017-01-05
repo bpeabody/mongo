@@ -55279,6 +55279,9 @@
 [submodule "wm/ld/fcg"]
 	path = wm/ld/fcg
 	url = .
+[submodule "wm/lk/mja"]
+	path = wm/lk/mja
+	url = .
 [submodule "wm/lm/ela"]
 	path = wm/lm/ela
 	url = .
