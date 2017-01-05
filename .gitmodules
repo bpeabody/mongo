@@ -358,6 +358,9 @@
 [submodule "ao/tn/caf"]
 	path = ao/tn/caf
 	url = .
+[submodule "ao/uq/ekz"]
+	path = ao/uq/ekz
+	url = .
 [submodule "ao/yv/ttq"]
 	path = ao/yv/ttq
 	url = .
