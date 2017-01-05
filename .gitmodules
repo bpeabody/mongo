@@ -17311,6 +17311,9 @@
 [submodule "fu/rc/eah"]
 	path = fu/rc/eah
 	url = .
+[submodule "fu/rh/kpz"]
+	path = fu/rh/kpz
+	url = .
 [submodule "fu/se/joo"]
 	path = fu/se/joo
 	url = .
