@@ -25837,6 +25837,9 @@
 [submodule "mr/ud/fup"]
 	path = mr/ud/fup
 	url = .
+[submodule "mr/vy/wvm"]
+	path = mr/vy/wvm
+	url = .
 [submodule "mr/vz/quw"]
 	path = mr/vz/quw
 	url = .
