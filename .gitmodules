@@ -48682,6 +48682,9 @@
 [submodule "te/nx/rxn"]
 	path = te/nx/rxn
 	url = .
+[submodule "te/nz/gng"]
+	path = te/nz/gng
+	url = .
 [submodule "te/oh/zym"]
 	path = te/oh/zym
 	url = .
