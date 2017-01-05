@@ -15712,6 +15712,9 @@
 [submodule "mf/or/cyx"]
 	path = mf/or/cyx
 	url = .
+[submodule "mf/ps/ixr"]
+	path = mf/ps/ixr
+	url = .
 [submodule "mf/pw/sbx"]
 	path = mf/pw/sbx
 	url = .
