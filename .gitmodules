@@ -2953,6 +2953,9 @@
 [submodule "dd/bx/bum"]
 	path = dd/bx/bum
 	url = .
+[submodule "dd/fj/hmi"]
+	path = dd/fj/hmi
+	url = .
 [submodule "dd/fn/srx"]
 	path = dd/fn/srx
 	url = .
