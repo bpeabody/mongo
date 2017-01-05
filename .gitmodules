@@ -10867,6 +10867,9 @@
 [submodule "ga/nc/lhl"]
 	path = ga/nc/lhl
 	url = .
+[submodule "ga/nk/apd"]
+	path = ga/nk/apd
+	url = .
 [submodule "ga/nm/hwh"]
 	path = ga/nm/hwh
 	url = .
