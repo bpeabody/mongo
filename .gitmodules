@@ -25429,6 +25429,9 @@
 [submodule "va/xh/yrd"]
 	path = va/xh/yrd
 	url = .
+[submodule "vb/dq/aac"]
+	path = vb/dq/aac
+	url = .
 [submodule "vb/et/lhi"]
 	path = vb/et/lhi
 	url = .
