@@ -13462,6 +13462,9 @@
 [submodule "yw/vr/cad"]
 	path = yw/vr/cad
 	url = .
+[submodule "yw/xp/ves"]
+	path = yw/xp/ves
+	url = .
 [submodule "yx/bf/xic"]
 	path = yx/bf/xic
 	url = .
