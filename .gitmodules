@@ -51850,6 +51850,9 @@
 [submodule "zn/lf/icf"]
 	path = zn/lf/icf
 	url = .
+[submodule "zn/ns/elt"]
+	path = zn/ns/elt
+	url = .
 [submodule "zn/nt/dkb"]
 	path = zn/nt/dkb
 	url = .
