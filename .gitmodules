@@ -7180,6 +7180,9 @@
 [submodule "nb/cd/ipr"]
 	path = nb/cd/ipr
 	url = .
+[submodule "nb/hj/fer"]
+	path = nb/hj/fer
+	url = .
 [submodule "nb/hj/wdq"]
 	path = nb/hj/wdq
 	url = .
