@@ -28762,6 +28762,9 @@
 [submodule "js/sj/fok"]
 	path = js/sj/fok
 	url = .
+[submodule "js/tk/aem"]
+	path = js/tk/aem
+	url = .
 [submodule "js/uc/jtt"]
 	path = js/uc/jtt
 	url = .
