@@ -19,6 +19,9 @@
 [submodule "bl/tx/toa"]
 	path = bl/tx/toa
 	url = .
+[submodule "bq/xi/fte"]
+	path = bq/xi/fte
+	url = .
 [submodule "br/bz/nfg"]
 	path = br/bz/nfg
 	url = .
