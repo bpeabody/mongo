@@ -604,6 +604,9 @@
 [submodule "aw/hc/eac"]
 	path = aw/hc/eac
 	url = .
+[submodule "aw/ki/cpb"]
+	path = aw/ki/cpb
+	url = .
 [submodule "ax/ak/dty"]
 	path = ax/ak/dty
 	url = .
