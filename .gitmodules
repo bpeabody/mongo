@@ -67,6 +67,9 @@
 [submodule "pj/mu/hez"]
 	path = pj/mu/hez
 	url = .
+[submodule "pm/as/afv"]
+	path = pm/as/afv
+	url = .
 [submodule "qe/nj/vti"]
 	path = qe/nj/vti
 	url = .
