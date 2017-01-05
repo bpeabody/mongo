@@ -10636,6 +10636,9 @@
 [submodule "nr/wl/nxs"]
 	path = nr/wl/nxs
 	url = .
+[submodule "nr/xu/huj"]
+	path = nr/xu/huj
+	url = .
 [submodule "nr/ye/nlu"]
 	path = nr/ye/nlu
 	url = .
