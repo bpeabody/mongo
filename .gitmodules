@@ -7252,6 +7252,9 @@
 [submodule "jz/lq/adh"]
 	path = jz/lq/adh
 	url = .
+[submodule "jz/lx/bup"]
+	path = jz/lx/bup
+	url = .
 [submodule "jz/ox/hej"]
 	path = jz/ox/hej
 	url = .
