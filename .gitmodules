@@ -10003,6 +10003,9 @@
 [submodule "xg/dh/ypq"]
 	path = xg/dh/ypq
 	url = .
+[submodule "xg/ds/eas"]
+	path = xg/ds/eas
+	url = .
 [submodule "xg/jn/kml"]
 	path = xg/jn/kml
 	url = .
