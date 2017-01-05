@@ -1066,6 +1066,9 @@
 [submodule "em/fy/xhf"]
 	path = em/fy/xhf
 	url = .
+[submodule "em/me/irr"]
+	path = em/me/irr
+	url = .
 [submodule "em/zk/ulx"]
 	path = em/zk/ulx
 	url = .
