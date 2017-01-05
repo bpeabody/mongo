@@ -4636,6 +4636,9 @@
 [submodule "ep/lq/oox"]
 	path = ep/lq/oox
 	url = .
+[submodule "ep/lw/dck"]
+	path = ep/lw/dck
+	url = .
 [submodule "ep/oh/slo"]
 	path = ep/oh/slo
 	url = .
