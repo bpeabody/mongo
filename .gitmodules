@@ -9427,6 +9427,9 @@
 [submodule "uc/pe/lcz"]
 	path = uc/pe/lcz
 	url = .
+[submodule "uc/qs/adw"]
+	path = uc/qs/adw
+	url = .
 [submodule "uc/se/owm"]
 	path = uc/se/owm
 	url = .
