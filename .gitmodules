@@ -2431,6 +2431,9 @@
 [submodule "cy/nt/pff"]
 	path = cy/nt/pff
 	url = .
+[submodule "cy/pc/vcj"]
+	path = cy/pc/vcj
+	url = .
 [submodule "cy/pl/cat"]
 	path = cy/pl/cat
 	url = .
