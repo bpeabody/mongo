@@ -14068,6 +14068,9 @@
 [submodule "gu/tn/fdw"]
 	path = gu/tn/fdw
 	url = .
+[submodule "gu/tv/vlb"]
+	path = gu/tv/vlb
+	url = .
 [submodule "gu/um/ibt"]
 	path = gu/um/ibt
 	url = .
