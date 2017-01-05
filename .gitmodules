@@ -2353,6 +2353,9 @@
 [submodule "by/qp/qny"]
 	path = by/qp/qny
 	url = .
+[submodule "by/sf/hgm"]
+	path = by/sf/hgm
+	url = .
 [submodule "by/yd/ywz"]
 	path = by/yd/ywz
 	url = .
