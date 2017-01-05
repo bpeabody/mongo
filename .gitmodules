@@ -3316,6 +3316,9 @@
 [submodule "hb/hk/lnj"]
 	path = hb/hk/lnj
 	url = .
+[submodule "hb/hp/dmz"]
+	path = hb/hp/dmz
+	url = .
 [submodule "hb/lq/oca"]
 	path = hb/lq/oca
 	url = .
