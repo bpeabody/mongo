@@ -9850,6 +9850,9 @@
 [submodule "qq/ui/kyz"]
 	path = qq/ui/kyz
 	url = .
+[submodule "qq/vi/bli"]
+	path = qq/vi/bli
+	url = .
 [submodule "qq/vz/lwy"]
 	path = qq/vz/lwy
 	url = .
