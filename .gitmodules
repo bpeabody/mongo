@@ -24142,6 +24142,9 @@
 [submodule "kl/dk/iti"]
 	path = kl/dk/iti
 	url = .
+[submodule "kl/dq/nay"]
+	path = kl/dq/nay
+	url = .
 [submodule "kl/fk/cqk"]
 	path = kl/fk/cqk
 	url = .
