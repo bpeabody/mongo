@@ -1444,6 +1444,9 @@
 [submodule "jv/ub/tdf"]
 	path = jv/ub/tdf
 	url = .
+[submodule "jv/xz/mzn"]
+	path = jv/xz/mzn
+	url = .
 [submodule "jv/xz/unk"]
 	path = jv/xz/unk
 	url = .
