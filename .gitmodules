@@ -30820,6 +30820,9 @@
 [submodule "wg/no/qgg"]
 	path = wg/no/qgg
 	url = .
+[submodule "wg/nu/qko"]
+	path = wg/nu/qko
+	url = .
 [submodule "wg/or/flj"]
 	path = wg/or/flj
 	url = .
