@@ -9244,6 +9244,9 @@
 [submodule "fy/nv/ixi"]
 	path = fy/nv/ixi
 	url = .
+[submodule "fy/oc/uwk"]
+	path = fy/oc/uwk
+	url = .
 [submodule "fy/or/xsj"]
 	path = fy/or/xsj
 	url = .
