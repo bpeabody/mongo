@@ -56155,6 +56155,9 @@
 [submodule "uo/rv/rak"]
 	path = uo/rv/rak
 	url = .
+[submodule "uo/sn/pvb"]
+	path = uo/sn/pvb
+	url = .
 [submodule "uo/ud/ezi"]
 	path = uo/ud/ezi
 	url = .
