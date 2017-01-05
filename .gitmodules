@@ -35788,6 +35788,9 @@
 [submodule "me/ww/vjr"]
 	path = me/ww/vjr
 	url = .
+[submodule "me/yp/baf"]
+	path = me/yp/baf
+	url = .
 [submodule "me/yr/ppb"]
 	path = me/yr/ppb
 	url = .
