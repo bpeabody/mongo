@@ -2551,6 +2551,9 @@
 [submodule "bi/wz/xxl"]
 	path = bi/wz/xxl
 	url = .
+[submodule "bi/xj/uzt"]
+	path = bi/xj/uzt
+	url = .
 [submodule "bi/xq/gdx"]
 	path = bi/xq/gdx
 	url = .
