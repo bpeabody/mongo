@@ -9982,6 +9982,9 @@
 [submodule "lq/bj/jfm"]
 	path = lq/bj/jfm
 	url = .
+[submodule "lq/cw/xra"]
+	path = lq/cw/xra
+	url = .
 [submodule "lq/ho/agn"]
 	path = lq/ho/agn
 	url = .
