@@ -12658,6 +12658,9 @@
 [submodule "ip/co/cpb"]
 	path = ip/co/cpb
 	url = .
+[submodule "ip/cw/kew"]
+	path = ip/cw/kew
+	url = .
 [submodule "ip/eo/ldc"]
 	path = ip/eo/ldc
 	url = .
