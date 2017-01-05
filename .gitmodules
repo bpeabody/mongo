@@ -1222,6 +1222,9 @@
 [submodule "an/hw/xda"]
 	path = an/hw/xda
 	url = .
+[submodule "an/jh/bok"]
+	path = an/jh/bok
+	url = .
 [submodule "an/jx/qqm"]
 	path = an/jx/qqm
 	url = .
