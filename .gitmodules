@@ -30709,6 +30709,9 @@
 [submodule "mm/jl/dfe"]
 	path = mm/jl/dfe
 	url = .
+[submodule "mm/jv/uft"]
+	path = mm/jv/uft
+	url = .
 [submodule "mm/jw/yde"]
 	path = mm/jw/yde
 	url = .
