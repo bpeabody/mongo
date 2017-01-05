@@ -33811,6 +33811,9 @@
 [submodule "ol/hm/nsi"]
 	path = ol/hm/nsi
 	url = .
+[submodule "ol/hs/sli"]
+	path = ol/hs/sli
+	url = .
 [submodule "ol/jq/poe"]
 	path = ol/jq/poe
 	url = .
