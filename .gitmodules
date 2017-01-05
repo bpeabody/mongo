@@ -6514,6 +6514,9 @@
 [submodule "gu/ge/ksi"]
 	path = gu/ge/ksi
 	url = .
+[submodule "gu/uq/lvf"]
+	path = gu/uq/lvf
+	url = .
 [submodule "gu/vu/rlt"]
 	path = gu/vu/rlt
 	url = .
