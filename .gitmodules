@@ -604,6 +604,9 @@
 [submodule "ap/ua/qtm"]
 	path = ap/ua/qtm
 	url = .
+[submodule "ap/uu/vfy"]
+	path = ap/uu/vfy
+	url = .
 [submodule "ap/vr/hmp"]
 	path = ap/vr/hmp
 	url = .
