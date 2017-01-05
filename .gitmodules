@@ -12055,6 +12055,9 @@
 [submodule "io/ay/dkc"]
 	path = io/ay/dkc
 	url = .
+[submodule "io/dj/bir"]
+	path = io/dj/bir
+	url = .
 [submodule "io/dl/euh"]
 	path = io/dl/euh
 	url = .
