@@ -25834,6 +25834,9 @@
 [submodule "or/ak/cln"]
 	path = or/ak/cln
 	url = .
+[submodule "or/bj/lja"]
+	path = or/bj/lja
+	url = .
 [submodule "or/dr/pyg"]
 	path = or/dr/pyg
 	url = .
