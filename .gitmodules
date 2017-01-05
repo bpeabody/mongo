@@ -3673,6 +3673,9 @@
 [submodule "mp/ob/jbc"]
 	path = mp/ob/jbc
 	url = .
+[submodule "mp/rq/feq"]
+	path = mp/rq/feq
+	url = .
 [submodule "mp/sx/ies"]
 	path = mp/sx/ies
 	url = .
