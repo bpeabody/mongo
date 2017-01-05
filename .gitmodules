@@ -4102,6 +4102,9 @@
 [submodule "di/yh/jpn"]
 	path = di/yh/jpn
 	url = .
+[submodule "di/zi/fuo"]
+	path = di/zi/fuo
+	url = .
 [submodule "dj/bd/rsa"]
 	path = dj/bd/rsa
 	url = .
