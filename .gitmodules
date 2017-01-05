@@ -33415,6 +33415,9 @@
 [submodule "yb/pj/iwb"]
 	path = yb/pj/iwb
 	url = .
+[submodule "yb/rt/ljy"]
+	path = yb/rt/ljy
+	url = .
 [submodule "yb/sy/tbv"]
 	path = yb/sy/tbv
 	url = .
