@@ -29488,6 +29488,9 @@
 [submodule "ns/bp/sls"]
 	path = ns/bp/sls
 	url = .
+[submodule "ns/ex/stq"]
+	path = ns/ex/stq
+	url = .
 [submodule "ns/fu/tqy"]
 	path = ns/fu/tqy
 	url = .
