@@ -931,6 +931,9 @@
 [submodule "bu/kl/fqc"]
 	path = bu/kl/fqc
 	url = .
+[submodule "bu/ky/nrf"]
+	path = bu/ky/nrf
+	url = .
 [submodule "bu/ll/grq"]
 	path = bu/ll/grq
 	url = .
