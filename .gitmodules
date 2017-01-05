@@ -5953,6 +5953,9 @@
 [submodule "cd/ix/mzn"]
 	path = cd/ix/mzn
 	url = .
+[submodule "cd/kq/ebo"]
+	path = cd/kq/ebo
+	url = .
 [submodule "cd/mk/lal"]
 	path = cd/mk/lal
 	url = .
