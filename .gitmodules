@@ -3733,6 +3733,9 @@
 [submodule "lm/dz/ezn"]
 	path = lm/dz/ezn
 	url = .
+[submodule "lm/fa/ptd"]
+	path = lm/fa/ptd
+	url = .
 [submodule "lm/ik/hqo"]
 	path = lm/ik/hqo
 	url = .
