@@ -2098,6 +2098,9 @@
 [submodule "ci/ig/dvn"]
 	path = ci/ig/dvn
 	url = .
+[submodule "ci/jb/wmn"]
+	path = ci/jb/wmn
+	url = .
 [submodule "ci/ks/kdd"]
 	path = ci/ks/kdd
 	url = .
