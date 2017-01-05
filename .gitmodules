@@ -47554,6 +47554,9 @@
 [submodule "qg/du/lpb"]
 	path = qg/du/lpb
 	url = .
+[submodule "qg/dw/ssp"]
+	path = qg/dw/ssp
+	url = .
 [submodule "qg/fm/iic"]
 	path = qg/fm/iic
 	url = .
