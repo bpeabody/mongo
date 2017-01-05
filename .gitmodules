@@ -36790,6 +36790,9 @@
 [submodule "qi/ke/fln"]
 	path = qi/ke/fln
 	url = .
+[submodule "qi/kt/nay"]
+	path = qi/kt/nay
+	url = .
 [submodule "qi/lt/ssa"]
 	path = qi/lt/ssa
 	url = .
