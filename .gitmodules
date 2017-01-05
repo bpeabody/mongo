@@ -4630,6 +4630,9 @@
 [submodule "dg/on/dzy"]
 	path = dg/on/dzy
 	url = .
+[submodule "dg/pi/faw"]
+	path = dg/pi/faw
+	url = .
 [submodule "dg/sb/pif"]
 	path = dg/sb/pif
 	url = .
