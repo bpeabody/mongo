@@ -14539,6 +14539,9 @@
 [submodule "gm/sa/aev"]
 	path = gm/sa/aev
 	url = .
+[submodule "gm/tx/nmi"]
+	path = gm/tx/nmi
+	url = .
 [submodule "gm/ux/psr"]
 	path = gm/ux/psr
 	url = .
