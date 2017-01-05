@@ -9388,6 +9388,9 @@
 [submodule "mo/gb/otf"]
 	path = mo/gb/otf
 	url = .
+[submodule "mo/ix/lal"]
+	path = mo/ix/lal
+	url = .
 [submodule "mo/nj/cyl"]
 	path = mo/nj/cyl
 	url = .
