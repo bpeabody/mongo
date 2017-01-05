@@ -5650,6 +5650,9 @@
 [submodule "dz/kv/mlb"]
 	path = dz/kv/mlb
 	url = .
+[submodule "dz/ov/yaf"]
+	path = dz/ov/yaf
+	url = .
 [submodule "dz/rq/eii"]
 	path = dz/rq/eii
 	url = .
