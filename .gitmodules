@@ -1969,6 +1969,9 @@
 [submodule "iu/dd/sxs"]
 	path = iu/dd/sxs
 	url = .
+[submodule "iu/dq/azy"]
+	path = iu/dq/azy
+	url = .
 [submodule "iu/if/eeb"]
 	path = iu/if/eeb
 	url = .
