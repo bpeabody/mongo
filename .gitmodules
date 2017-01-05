@@ -74317,6 +74317,9 @@
 [submodule "yy/xr/xul"]
 	path = yy/xr/xul
 	url = .
+[submodule "yy/yk/mms"]
+	path = yy/yk/mms
+	url = .
 [submodule "yy/yx/oqn"]
 	path = yy/yx/oqn
 	url = .
