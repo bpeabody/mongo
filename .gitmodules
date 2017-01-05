@@ -811,6 +811,9 @@
 [submodule "cr/ai/pmf"]
 	path = cr/ai/pmf
 	url = .
+[submodule "cr/gp/tjf"]
+	path = cr/gp/tjf
+	url = .
 [submodule "cr/me/kja"]
 	path = cr/me/kja
 	url = .
