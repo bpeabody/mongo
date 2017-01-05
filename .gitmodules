@@ -2518,6 +2518,9 @@
 [submodule "cn/cb/dpk"]
 	path = cn/cb/dpk
 	url = .
+[submodule "cn/cv/pyy"]
+	path = cn/cv/pyy
+	url = .
 [submodule "cn/dv/yld"]
 	path = cn/dv/yld
 	url = .
