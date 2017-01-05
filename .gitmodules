@@ -48415,6 +48415,9 @@
 [submodule "vf/rn/wqh"]
 	path = vf/rn/wqh
 	url = .
+[submodule "vf/rv/hsu"]
+	path = vf/rv/hsu
+	url = .
 [submodule "vf/rv/ksp"]
 	path = vf/rv/ksp
 	url = .
