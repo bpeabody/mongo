@@ -5668,6 +5668,9 @@
 [submodule "jp/mk/tqt"]
 	path = jp/mk/tqt
 	url = .
+[submodule "jp/nl/xwn"]
+	path = jp/nl/xwn
+	url = .
 [submodule "jp/oa/jce"]
 	path = jp/oa/jce
 	url = .
