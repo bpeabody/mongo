@@ -12679,6 +12679,9 @@
 [submodule "fs/tm/njg"]
 	path = fs/tm/njg
 	url = .
+[submodule "fs/uj/fch"]
+	path = fs/uj/fch
+	url = .
 [submodule "fs/uw/zlj"]
 	path = fs/uw/zlj
 	url = .
