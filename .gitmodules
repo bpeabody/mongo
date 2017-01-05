@@ -2482,6 +2482,9 @@
 [submodule "bb/fs/opf"]
 	path = bb/fs/opf
 	url = .
+[submodule "bb/gh/wfq"]
+	path = bb/gh/wfq
+	url = .
 [submodule "bb/gw/gah"]
 	path = bb/gw/gah
 	url = .
