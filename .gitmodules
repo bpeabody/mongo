@@ -8935,6 +8935,9 @@
 [submodule "vn/jk/vti"]
 	path = vn/jk/vti
 	url = .
+[submodule "vn/jw/ved"]
+	path = vn/jw/ved
+	url = .
 [submodule "vn/qv/ugr"]
 	path = vn/qv/ugr
 	url = .
