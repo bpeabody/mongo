@@ -28168,6 +28168,9 @@
 [submodule "tg/ky/bbk"]
 	path = tg/ky/bbk
 	url = .
+[submodule "tg/li/sci"]
+	path = tg/li/sci
+	url = .
 [submodule "tg/lr/ozx"]
 	path = tg/lr/ozx
 	url = .
