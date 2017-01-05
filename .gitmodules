@@ -29326,6 +29326,9 @@
 [submodule "ry/hk/rfi"]
 	path = ry/hk/rfi
 	url = .
+[submodule "ry/ii/lgb"]
+	path = ry/ii/lgb
+	url = .
 [submodule "ry/kg/xet"]
 	path = ry/kg/xet
 	url = .
