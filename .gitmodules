@@ -9199,6 +9199,9 @@
 [submodule "xc/ua/lzz"]
 	path = xc/ua/lzz
 	url = .
+[submodule "xc/uv/usd"]
+	path = xc/uv/usd
+	url = .
 [submodule "xc/vy/oie"]
 	path = xc/vy/oie
 	url = .
