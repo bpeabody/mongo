@@ -1729,6 +1729,9 @@
 [submodule "bw/mt/kwv"]
 	path = bw/mt/kwv
 	url = .
+[submodule "bw/or/kht"]
+	path = bw/or/kht
+	url = .
 [submodule "bw/qe/maq"]
 	path = bw/qe/maq
 	url = .
