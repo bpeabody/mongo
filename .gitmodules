@@ -13486,6 +13486,9 @@
 [submodule "ul/hc/bdm"]
 	path = ul/hc/bdm
 	url = .
+[submodule "ul/ji/eug"]
+	path = ul/ji/eug
+	url = .
 [submodule "ul/nr/uno"]
 	path = ul/nr/uno
 	url = .
