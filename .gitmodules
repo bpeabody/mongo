@@ -6067,6 +6067,9 @@
 [submodule "cz/xu/fei"]
 	path = cz/xu/fei
 	url = .
+[submodule "cz/yr/fit"]
+	path = cz/yr/fit
+	url = .
 [submodule "cz/zc/yei"]
 	path = cz/zc/yei
 	url = .
