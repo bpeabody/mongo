@@ -2125,6 +2125,9 @@
 [submodule "zp/jw/tfi"]
 	path = zp/jw/tfi
 	url = .
+[submodule "zq/lx/vkt"]
+	path = zq/lx/vkt
+	url = .
 [submodule "zr/dl/syv"]
 	path = zr/dl/syv
 	url = .
