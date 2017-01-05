@@ -23344,6 +23344,9 @@
 [submodule "hw/me/fge"]
 	path = hw/me/fge
 	url = .
+[submodule "hw/mg/nnm"]
+	path = hw/mg/nnm
+	url = .
 [submodule "hw/mi/ijy"]
 	path = hw/mi/ijy
 	url = .
