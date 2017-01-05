@@ -3187,6 +3187,9 @@
 [submodule "ez/gd/rka"]
 	path = ez/gd/rka
 	url = .
+[submodule "ez/gw/cna"]
+	path = ez/gw/cna
+	url = .
 [submodule "ez/gz/kzj"]
 	path = ez/gz/kzj
 	url = .
