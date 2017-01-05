@@ -29710,6 +29710,9 @@
 [submodule "nw/ls/col"]
 	path = nw/ls/col
 	url = .
+[submodule "nw/mb/kyl"]
+	path = nw/mb/kyl
+	url = .
 [submodule "nw/mf/wag"]
 	path = nw/mf/wag
 	url = .
