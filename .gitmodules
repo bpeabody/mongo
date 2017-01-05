@@ -58,6 +58,9 @@
 [submodule "ti/ta/tcc"]
 	path = ti/ta/tcc
 	url = .
+[submodule "uv/vn/wcn"]
+	path = uv/vn/wcn
+	url = .
 [submodule "vk/mp/wjp"]
 	path = vk/mp/wjp
 	url = .
