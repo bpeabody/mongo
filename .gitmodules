@@ -39205,6 +39205,9 @@
 [submodule "nr/jf/vbe"]
 	path = nr/jf/vbe
 	url = .
+[submodule "nr/ko/gfk"]
+	path = nr/ko/gfk
+	url = .
 [submodule "nr/kp/ran"]
 	path = nr/kp/ran
 	url = .
