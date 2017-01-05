@@ -28015,6 +28015,9 @@
 [submodule "vv/vf/nhd"]
 	path = vv/vf/nhd
 	url = .
+[submodule "vv/vl/xcb"]
+	path = vv/vl/xcb
+	url = .
 [submodule "vv/vo/fwg"]
 	path = vv/vo/fwg
 	url = .
