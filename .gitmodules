@@ -50965,6 +50965,9 @@
 [submodule "wb/cz/ukw"]
 	path = wb/cz/ukw
 	url = .
+[submodule "wb/db/lcn"]
+	path = wb/db/lcn
+	url = .
 [submodule "wb/en/zaq"]
 	path = wb/en/zaq
 	url = .
