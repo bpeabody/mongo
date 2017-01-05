@@ -15241,6 +15241,9 @@
 [submodule "lc/xs/gxt"]
 	path = lc/xs/gxt
 	url = .
+[submodule "ld/bn/url"]
+	path = ld/bn/url
+	url = .
 [submodule "ld/by/oxx"]
 	path = ld/by/oxx
 	url = .
