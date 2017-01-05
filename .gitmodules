@@ -16420,6 +16420,9 @@
 [submodule "gs/bt/loh"]
 	path = gs/bt/loh
 	url = .
+[submodule "gs/cv/nxa"]
+	path = gs/cv/nxa
+	url = .
 [submodule "gs/db/wxa"]
 	path = gs/db/wxa
 	url = .
