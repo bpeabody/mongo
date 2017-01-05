@@ -62062,6 +62062,9 @@
 [submodule "yo/uy/lge"]
 	path = yo/uy/lge
 	url = .
+[submodule "yo/vk/msn"]
+	path = yo/vk/msn
+	url = .
 [submodule "yo/wp/qrr"]
 	path = yo/wp/qrr
 	url = .
