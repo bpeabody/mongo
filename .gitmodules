@@ -4462,6 +4462,9 @@
 [submodule "gi/ha/yoo"]
 	path = gi/ha/yoo
 	url = .
+[submodule "gi/me/nfw"]
+	path = gi/me/nfw
+	url = .
 [submodule "gi/oe/rer"]
 	path = gi/oe/rer
 	url = .
