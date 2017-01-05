@@ -43,6 +43,9 @@
 [submodule "cn/ee/jzo"]
 	path = cn/ee/jzo
 	url = .
+[submodule "co/of/qoi"]
+	path = co/of/qoi
+	url = .
 [submodule "cp/lx/gql"]
 	path = cp/lx/gql
 	url = .
