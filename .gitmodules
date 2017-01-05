@@ -22804,6 +22804,9 @@
 [submodule "ik/gp/cjh"]
 	path = ik/gp/cjh
 	url = .
+[submodule "ik/gz/edj"]
+	path = ik/gz/edj
+	url = .
 [submodule "ik/hb/dea"]
 	path = ik/hb/dea
 	url = .
