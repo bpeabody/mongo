@@ -3424,6 +3424,9 @@
 [submodule "jt/ff/dlg"]
 	path = jt/ff/dlg
 	url = .
+[submodule "jt/fo/aad"]
+	path = jt/fo/aad
+	url = .
 [submodule "jt/go/jbn"]
 	path = jt/go/jbn
 	url = .
