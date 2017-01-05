@@ -17764,6 +17764,9 @@
 [submodule "og/rh/eol"]
 	path = og/rh/eol
 	url = .
+[submodule "og/sw/hsr"]
+	path = og/sw/hsr
+	url = .
 [submodule "og/ti/viw"]
 	path = og/ti/viw
 	url = .
