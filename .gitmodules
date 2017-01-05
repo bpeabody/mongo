@@ -10237,6 +10237,9 @@
 [submodule "ea/pu/vhi"]
 	path = ea/pu/vhi
 	url = .
+[submodule "ea/qq/xri"]
+	path = ea/qq/xri
+	url = .
 [submodule "ea/qy/yyz"]
 	path = ea/qy/yyz
 	url = .
