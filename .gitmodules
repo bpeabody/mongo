@@ -2116,6 +2116,9 @@
 [submodule "vu/mo/qfi"]
 	path = vu/mo/qfi
 	url = .
+[submodule "vv/fw/zqw"]
+	path = vv/fw/zqw
+	url = .
 [submodule "vv/xk/bft"]
 	path = vv/xk/bft
 	url = .
