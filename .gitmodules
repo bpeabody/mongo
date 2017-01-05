@@ -24847,6 +24847,9 @@
 [submodule "pp/gp/evm"]
 	path = pp/gp/evm
 	url = .
+[submodule "pp/gt/jtp"]
+	path = pp/gt/jtp
+	url = .
 [submodule "pp/hk/ewf"]
 	path = pp/hk/ewf
 	url = .
