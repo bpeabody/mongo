@@ -18691,6 +18691,9 @@
 [submodule "ru/um/cbp"]
 	path = ru/um/cbp
 	url = .
+[submodule "ru/ux/mxe"]
+	path = ru/ux/mxe
+	url = .
 [submodule "ru/vq/mmk"]
 	path = ru/vq/mmk
 	url = .
