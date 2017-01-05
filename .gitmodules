@@ -1261,6 +1261,9 @@
 [submodule "hg/wr/cps"]
 	path = hg/wr/cps
 	url = .
+[submodule "hh/kl/jdv"]
+	path = hh/kl/jdv
+	url = .
 [submodule "hh/pm/ezo"]
 	path = hh/pm/ezo
 	url = .
