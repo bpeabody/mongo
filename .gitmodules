@@ -4387,6 +4387,9 @@
 [submodule "we/bw/oqq"]
 	path = we/bw/oqq
 	url = .
+[submodule "we/cg/zxi"]
+	path = we/cg/zxi
+	url = .
 [submodule "we/ix/ffb"]
 	path = we/ix/ffb
 	url = .
