@@ -547,6 +547,9 @@
 [submodule "at/mc/are"]
 	path = at/mc/are
 	url = .
+[submodule "at/qf/wfa"]
+	path = at/qf/wfa
+	url = .
 [submodule "at/tb/ocd"]
 	path = at/tb/ocd
 	url = .
