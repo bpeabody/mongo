@@ -4768,6 +4768,9 @@
 [submodule "mw/zt/rth"]
 	path = mw/zt/rth
 	url = .
+[submodule "mw/zx/uki"]
+	path = mw/zx/uki
+	url = .
 [submodule "mx/eu/plf"]
 	path = mx/eu/plf
 	url = .
