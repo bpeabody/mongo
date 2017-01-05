@@ -27985,6 +27985,9 @@
 [submodule "ra/ds/aqw"]
 	path = ra/ds/aqw
 	url = .
+[submodule "ra/en/hsz"]
+	path = ra/en/hsz
+	url = .
 [submodule "ra/eo/nzn"]
 	path = ra/eo/nzn
 	url = .
