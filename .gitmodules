@@ -34051,6 +34051,9 @@
 [submodule "ot/tu/gpp"]
 	path = ot/tu/gpp
 	url = .
+[submodule "ot/tz/sor"]
+	path = ot/tz/sor
+	url = .
 [submodule "ot/vk/tha"]
 	path = ot/vk/tha
 	url = .
