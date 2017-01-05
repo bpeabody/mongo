@@ -4129,6 +4129,9 @@
 [submodule "bw/iu/vbu"]
 	path = bw/iu/vbu
 	url = .
+[submodule "bw/jb/ukv"]
+	path = bw/jb/ukv
+	url = .
 [submodule "bw/lh/uei"]
 	path = bw/lh/uei
 	url = .
