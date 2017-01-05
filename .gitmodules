@@ -880,6 +880,9 @@
 [submodule "ii/fe/rbq"]
 	path = ii/fe/rbq
 	url = .
+[submodule "ii/mx/rgq"]
+	path = ii/mx/rgq
+	url = .
 [submodule "ij/pc/baa"]
 	path = ij/pc/baa
 	url = .
