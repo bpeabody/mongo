@@ -13972,6 +13972,9 @@
 [submodule "fz/md/zgn"]
 	path = fz/md/zgn
 	url = .
+[submodule "fz/mg/wvc"]
+	path = fz/mg/wvc
+	url = .
 [submodule "fz/ni/qbb"]
 	path = fz/ni/qbb
 	url = .
