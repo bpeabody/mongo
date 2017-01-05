@@ -1966,6 +1966,9 @@
 [submodule "xa/at/rhu"]
 	path = xa/at/rhu
 	url = .
+[submodule "xc/ez/whe"]
+	path = xc/ez/whe
+	url = .
 [submodule "xc/ua/lzz"]
 	path = xc/ua/lzz
 	url = .
