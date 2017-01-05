@@ -919,6 +919,9 @@
 [submodule "hb/hk/lnj"]
 	path = hb/hk/lnj
 	url = .
+[submodule "hc/ka/bfu"]
+	path = hc/ka/bfu
+	url = .
 [submodule "hc/ns/ejv"]
 	path = hc/ns/ejv
 	url = .
