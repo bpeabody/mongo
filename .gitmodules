@@ -50545,6 +50545,9 @@
 [submodule "qt/iu/nad"]
 	path = qt/iu/nad
 	url = .
+[submodule "qt/jw/mpb"]
+	path = qt/jw/mpb
+	url = .
 [submodule "qt/ke/nde"]
 	path = qt/ke/nde
 	url = .
