@@ -13999,6 +13999,9 @@
 [submodule "sn/kv/nfn"]
 	path = sn/kv/nfn
 	url = .
+[submodule "sn/ui/evt"]
+	path = sn/ui/evt
+	url = .
 [submodule "sn/un/ieq"]
 	path = sn/un/ieq
 	url = .
