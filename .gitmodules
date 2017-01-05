@@ -22675,6 +22675,9 @@
 [submodule "id/au/dmy"]
 	path = id/au/dmy
 	url = .
+[submodule "id/au/isu"]
+	path = id/au/isu
+	url = .
 [submodule "id/av/buj"]
 	path = id/av/buj
 	url = .
