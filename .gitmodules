@@ -50662,6 +50662,9 @@
 [submodule "vt/ti/vdk"]
 	path = vt/ti/vdk
 	url = .
+[submodule "vt/tx/sns"]
+	path = vt/tx/sns
+	url = .
 [submodule "vt/ua/nro"]
 	path = vt/ua/nro
 	url = .
