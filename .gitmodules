@@ -13339,6 +13339,9 @@
 [submodule "jb/ms/btq"]
 	path = jb/ms/btq
 	url = .
+[submodule "jb/mv/knj"]
+	path = jb/mv/knj
+	url = .
 [submodule "jb/my/qsq"]
 	path = jb/my/qsq
 	url = .
