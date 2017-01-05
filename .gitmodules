@@ -8557,6 +8557,9 @@
 [submodule "yt/iv/zhd"]
 	path = yt/iv/zhd
 	url = .
+[submodule "yt/kk/uzv"]
+	path = yt/kk/uzv
+	url = .
 [submodule "yt/pp/ufw"]
 	path = yt/pp/ufw
 	url = .
