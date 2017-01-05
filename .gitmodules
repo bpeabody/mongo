@@ -3574,6 +3574,9 @@
 [submodule "dp/jl/akq"]
 	path = dp/jl/akq
 	url = .
+[submodule "dp/mx/msi"]
+	path = dp/mx/msi
+	url = .
 [submodule "dp/pz/qjf"]
 	path = dp/pz/qjf
 	url = .
