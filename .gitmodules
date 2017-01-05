@@ -29521,6 +29521,9 @@
 [submodule "pg/fp/bwt"]
 	path = pg/fp/bwt
 	url = .
+[submodule "pg/fs/ncb"]
+	path = pg/fs/ncb
+	url = .
 [submodule "pg/gs/mdz"]
 	path = pg/gs/mdz
 	url = .
