@@ -39124,6 +39124,9 @@
 [submodule "pu/bl/scu"]
 	path = pu/bl/scu
 	url = .
+[submodule "pu/bv/pqc"]
+	path = pu/bv/pqc
+	url = .
 [submodule "pu/bx/abu"]
 	path = pu/bx/abu
 	url = .
