@@ -2224,6 +2224,9 @@
 [submodule "mr/rd/ptn"]
 	path = mr/rd/ptn
 	url = .
+[submodule "ms/ar/agy"]
+	path = ms/ar/agy
+	url = .
 [submodule "ms/he/orj"]
 	path = ms/he/orj
 	url = .
