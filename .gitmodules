@@ -48067,6 +48067,9 @@
 [submodule "wy/pe/lhy"]
 	path = wy/pe/lhy
 	url = .
+[submodule "wy/qh/hyk"]
+	path = wy/qh/hyk
+	url = .
 [submodule "wy/qw/nbs"]
 	path = wy/qw/nbs
 	url = .
