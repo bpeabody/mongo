@@ -8260,6 +8260,9 @@
 [submodule "qi/eb/xcy"]
 	path = qi/eb/xcy
 	url = .
+[submodule "qi/hl/kru"]
+	path = qi/hl/kru
+	url = .
 [submodule "qi/ul/lsq"]
 	path = qi/ul/lsq
 	url = .
