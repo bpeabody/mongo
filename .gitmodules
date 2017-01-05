@@ -7285,6 +7285,9 @@
 [submodule "fx/dm/ntt"]
 	path = fx/dm/ntt
 	url = .
+[submodule "fx/fx/tpd"]
+	path = fx/fx/tpd
+	url = .
 [submodule "fx/gt/nqm"]
 	path = fx/gt/nqm
 	url = .
