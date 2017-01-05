@@ -2212,6 +2212,9 @@
 [submodule "dw/ao/xxr"]
 	path = dw/ao/xxr
 	url = .
+[submodule "dw/cl/aqt"]
+	path = dw/cl/aqt
+	url = .
 [submodule "dw/di/jkg"]
 	path = dw/di/jkg
 	url = .
