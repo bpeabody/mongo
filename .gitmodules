@@ -2383,6 +2383,9 @@
 [submodule "lh/cu/qpy"]
 	path = lh/cu/qpy
 	url = .
+[submodule "lh/gx/ych"]
+	path = lh/gx/ych
+	url = .
 [submodule "lh/jz/qip"]
 	path = lh/jz/qip
 	url = .
