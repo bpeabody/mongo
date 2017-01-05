@@ -1759,6 +1759,9 @@
 [submodule "cp/va/llc"]
 	path = cp/va/llc
 	url = .
+[submodule "cp/vu/yuy"]
+	path = cp/vu/yuy
+	url = .
 [submodule "cp/yd/wbp"]
 	path = cp/yd/wbp
 	url = .
