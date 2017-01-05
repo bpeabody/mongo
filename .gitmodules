@@ -24961,6 +24961,9 @@
 [submodule "qj/hs/wtm"]
 	path = qj/hs/wtm
 	url = .
+[submodule "qj/hz/jpu"]
+	path = qj/hz/jpu
+	url = .
 [submodule "qj/kr/cpk"]
 	path = qj/kr/cpk
 	url = .
