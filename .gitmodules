@@ -10078,6 +10078,9 @@
 [submodule "fw/dz/otp"]
 	path = fw/dz/otp
 	url = .
+[submodule "fw/ed/vua"]
+	path = fw/ed/vua
+	url = .
 [submodule "fw/fr/qiq"]
 	path = fw/fr/qiq
 	url = .
