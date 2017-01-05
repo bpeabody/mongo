@@ -40189,6 +40189,9 @@
 [submodule "tm/po/uoz"]
 	path = tm/po/uoz
 	url = .
+[submodule "tm/rk/bwi"]
+	path = tm/rk/bwi
+	url = .
 [submodule "tm/sg/uln"]
 	path = tm/sg/uln
 	url = .
