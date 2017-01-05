@@ -15163,6 +15163,9 @@
 [submodule "nf/zn/ttw"]
 	path = nf/zn/ttw
 	url = .
+[submodule "ng/bc/etg"]
+	path = ng/bc/etg
+	url = .
 [submodule "ng/cz/rln"]
 	path = ng/cz/rln
 	url = .
