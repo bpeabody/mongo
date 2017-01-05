@@ -7594,6 +7594,9 @@
 [submodule "fq/ex/kwd"]
 	path = fq/ex/kwd
 	url = .
+[submodule "fq/fo/wns"]
+	path = fq/fo/wns
+	url = .
 [submodule "fq/fz/bbx"]
 	path = fq/fz/bbx
 	url = .
