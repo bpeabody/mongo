@@ -14395,6 +14395,9 @@
 [submodule "ga/ut/ygg"]
 	path = ga/ut/ygg
 	url = .
+[submodule "ga/vd/sdp"]
+	path = ga/vd/sdp
+	url = .
 [submodule "ga/vu/gcp"]
 	path = ga/vu/gcp
 	url = .
