@@ -32755,6 +32755,9 @@
 [submodule "oy/ud/lfc"]
 	path = oy/ud/lfc
 	url = .
+[submodule "oy/vm/dwl"]
+	path = oy/vm/dwl
+	url = .
 [submodule "oy/wq/srb"]
 	path = oy/wq/srb
 	url = .
