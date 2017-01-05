@@ -19990,6 +19990,9 @@
 [submodule "ny/dd/vjt"]
 	path = ny/dd/vjt
 	url = .
+[submodule "ny/ff/svo"]
+	path = ny/ff/svo
+	url = .
 [submodule "ny/fl/mrb"]
 	path = ny/fl/mrb
 	url = .
