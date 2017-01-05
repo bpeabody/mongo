@@ -8614,6 +8614,9 @@
 [submodule "kp/qo/ctv"]
 	path = kp/qo/ctv
 	url = .
+[submodule "kp/tf/mbc"]
+	path = kp/tf/mbc
+	url = .
 [submodule "kp/uk/gek"]
 	path = kp/uk/gek
 	url = .
