@@ -41755,6 +41755,9 @@
 [submodule "vd/ft/yjm"]
 	path = vd/ft/yjm
 	url = .
+[submodule "vd/hn/atd"]
+	path = vd/hn/atd
+	url = .
 [submodule "vd/ja/aqp"]
 	path = vd/ja/aqp
 	url = .
