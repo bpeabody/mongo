@@ -27289,6 +27289,9 @@
 [submodule "xy/gv/kyb"]
 	path = xy/gv/kyb
 	url = .
+[submodule "xy/on/yky"]
+	path = xy/on/yky
+	url = .
 [submodule "xy/pr/hcb"]
 	path = xy/pr/hcb
 	url = .
