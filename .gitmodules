@@ -229,6 +229,9 @@
 [submodule "bq/ev/jis"]
 	path = bq/ev/jis
 	url = .
+[submodule "bq/gq/zom"]
+	path = bq/gq/zom
+	url = .
 [submodule "bq/un/rpi"]
 	path = bq/un/rpi
 	url = .
