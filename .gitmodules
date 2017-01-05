@@ -49897,6 +49897,9 @@
 [submodule "rb/ex/tel"]
 	path = rb/ex/tel
 	url = .
+[submodule "rb/fg/wre"]
+	path = rb/fg/wre
+	url = .
 [submodule "rb/fn/run"]
 	path = rb/fn/run
 	url = .
