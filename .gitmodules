@@ -19876,6 +19876,9 @@
 [submodule "ox/cm/hrr"]
 	path = ox/cm/hrr
 	url = .
+[submodule "ox/ed/fxq"]
+	path = ox/ed/fxq
+	url = .
 [submodule "ox/ez/noy"]
 	path = ox/ez/noy
 	url = .
