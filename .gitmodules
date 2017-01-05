@@ -5173,6 +5173,9 @@
 [submodule "hx/bg/aah"]
 	path = hx/bg/aah
 	url = .
+[submodule "hx/bi/cre"]
+	path = hx/bi/cre
+	url = .
 [submodule "hx/bo/enr"]
 	path = hx/bo/enr
 	url = .
