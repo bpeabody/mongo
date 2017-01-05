@@ -1411,6 +1411,9 @@
 [submodule "fz/xp/pti"]
 	path = fz/xp/pti
 	url = .
+[submodule "ga/ut/ygg"]
+	path = ga/ut/ygg
+	url = .
 [submodule "gb/ac/ljd"]
 	path = gb/ac/ljd
 	url = .
