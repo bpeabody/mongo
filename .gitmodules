@@ -9742,6 +9742,9 @@
 [submodule "tr/hg/zmw"]
 	path = tr/hg/zmw
 	url = .
+[submodule "tr/ki/gcs"]
+	path = tr/ki/gcs
+	url = .
 [submodule "tr/lf/lzu"]
 	path = tr/lf/lzu
 	url = .
