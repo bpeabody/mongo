@@ -1114,6 +1114,9 @@
 [submodule "es/pi/jhr"]
 	path = es/pi/jhr
 	url = .
+[submodule "et/ba/owv"]
+	path = et/ba/owv
+	url = .
 [submodule "et/fy/kpp"]
 	path = et/fy/kpp
 	url = .
