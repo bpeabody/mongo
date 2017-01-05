@@ -23515,6 +23515,9 @@
 [submodule "kj/tu/xae"]
 	path = kj/tu/xae
 	url = .
+[submodule "kj/vc/yup"]
+	path = kj/vc/yup
+	url = .
 [submodule "kj/xp/rpu"]
 	path = kj/xp/rpu
 	url = .
