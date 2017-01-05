@@ -6781,6 +6781,9 @@
 [submodule "xw/jn/ivq"]
 	path = xw/jn/ivq
 	url = .
+[submodule "xw/md/xwf"]
+	path = xw/md/xwf
+	url = .
 [submodule "xw/tq/wfq"]
 	path = xw/tq/wfq
 	url = .
