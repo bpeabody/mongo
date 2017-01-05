@@ -19369,6 +19369,9 @@
 [submodule "ms/ud/jat"]
 	path = ms/ud/jat
 	url = .
+[submodule "ms/up/vac"]
+	path = ms/up/vac
+	url = .
 [submodule "ms/uv/hyu"]
 	path = ms/uv/hyu
 	url = .
