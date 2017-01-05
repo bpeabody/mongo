@@ -10456,6 +10456,9 @@
 [submodule "ls/mc/huk"]
 	path = ls/mc/huk
 	url = .
+[submodule "ls/mh/brm"]
+	path = ls/mh/brm
+	url = .
 [submodule "ls/nm/zco"]
 	path = ls/nm/zco
 	url = .
