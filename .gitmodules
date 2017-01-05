@@ -2620,6 +2620,9 @@
 [submodule "eh/vi/lfe"]
 	path = eh/vi/lfe
 	url = .
+[submodule "eh/wo/ccg"]
+	path = eh/wo/ccg
+	url = .
 [submodule "eh/xu/ojl"]
 	path = eh/xu/ojl
 	url = .
