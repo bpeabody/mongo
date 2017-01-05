@@ -14122,6 +14122,9 @@
 [submodule "ux/qm/umq"]
 	path = ux/qm/umq
 	url = .
+[submodule "ux/vr/wuk"]
+	path = ux/vr/wuk
+	url = .
 [submodule "ux/xq/yfg"]
 	path = ux/xq/yfg
 	url = .
