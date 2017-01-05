@@ -1456,6 +1456,9 @@
 [submodule "dj/vs/xju"]
 	path = dj/vs/xju
 	url = .
+[submodule "dj/wy/iuw"]
+	path = dj/wy/iuw
+	url = .
 [submodule "dk/ju/cav"]
 	path = dk/ju/cav
 	url = .
