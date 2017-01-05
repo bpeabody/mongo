@@ -5308,6 +5308,9 @@
 [submodule "fy/lk/sso"]
 	path = fy/lk/sso
 	url = .
+[submodule "fy/mp/shk"]
+	path = fy/mp/shk
+	url = .
 [submodule "fy/or/xsj"]
 	path = fy/or/xsj
 	url = .
