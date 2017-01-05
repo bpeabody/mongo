@@ -20986,6 +20986,9 @@
 [submodule "ir/tm/zec"]
 	path = ir/tm/zec
 	url = .
+[submodule "ir/tv/itx"]
+	path = ir/tv/itx
+	url = .
 [submodule "ir/uc/rvs"]
 	path = ir/uc/rvs
 	url = .
