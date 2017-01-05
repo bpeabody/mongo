@@ -3658,6 +3658,9 @@
 [submodule "cm/zl/kaf"]
 	path = cm/zl/kaf
 	url = .
+[submodule "cm/zq/fbc"]
+	path = cm/zq/fbc
+	url = .
 [submodule "cn/cb/dpk"]
 	path = cn/cb/dpk
 	url = .
