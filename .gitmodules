@@ -31060,6 +31060,9 @@
 [submodule "qo/jd/nbk"]
 	path = qo/jd/nbk
 	url = .
+[submodule "qo/ki/mog"]
+	path = qo/ki/mog
+	url = .
 [submodule "qo/kx/onb"]
 	path = qo/kx/onb
 	url = .
