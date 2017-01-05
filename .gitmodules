@@ -646,6 +646,9 @@
 [submodule "cn/sw/gng"]
 	path = cn/sw/gng
 	url = .
+[submodule "co/dt/zxv"]
+	path = co/dt/zxv
+	url = .
 [submodule "co/gz/tri"]
 	path = co/gz/tri
 	url = .
