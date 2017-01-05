@@ -5809,6 +5809,9 @@
 [submodule "xy/pr/hcb"]
 	path = xy/pr/hcb
 	url = .
+[submodule "xy/ug/mhq"]
+	path = xy/ug/mhq
+	url = .
 [submodule "xz/ak/mrh"]
 	path = xz/ak/mrh
 	url = .
