@@ -35062,6 +35062,9 @@
 [submodule "pj/an/qcr"]
 	path = pj/an/qcr
 	url = .
+[submodule "pj/ar/vua"]
+	path = pj/ar/vua
+	url = .
 [submodule "pj/az/tkj"]
 	path = pj/az/tkj
 	url = .
