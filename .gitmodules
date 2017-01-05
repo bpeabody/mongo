@@ -8911,6 +8911,9 @@
 [submodule "do/yo/rqt"]
 	path = do/yo/rqt
 	url = .
+[submodule "do/zi/oys"]
+	path = do/zi/oys
+	url = .
 [submodule "do/zj/zxs"]
 	path = do/zj/zxs
 	url = .
