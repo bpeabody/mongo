@@ -3013,6 +3013,9 @@
 [submodule "bi/ki/mny"]
 	path = bi/ki/mny
 	url = .
+[submodule "bi/ll/fjs"]
+	path = bi/ll/fjs
+	url = .
 [submodule "bi/mf/twu"]
 	path = bi/mf/twu
 	url = .
