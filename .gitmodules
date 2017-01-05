@@ -26464,6 +26464,9 @@
 [submodule "vo/qi/fmd"]
 	path = vo/qi/fmd
 	url = .
+[submodule "vo/rl/rgc"]
+	path = vo/rl/rgc
+	url = .
 [submodule "vo/sx/chk"]
 	path = vo/sx/chk
 	url = .
