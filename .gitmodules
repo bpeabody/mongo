@@ -31030,6 +31030,9 @@
 [submodule "ke/cm/srj"]
 	path = ke/cm/srj
 	url = .
+[submodule "ke/dc/fuu"]
+	path = ke/dc/fuu
+	url = .
 [submodule "ke/em/bfl"]
 	path = ke/em/bfl
 	url = .
