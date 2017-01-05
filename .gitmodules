@@ -502,6 +502,9 @@
 [submodule "jh/st/tuj"]
 	path = jh/st/tuj
 	url = .
+[submodule "jj/nc/xek"]
+	path = jj/nc/xek
+	url = .
 [submodule "jj/vc/pii"]
 	path = jj/vc/pii
 	url = .
