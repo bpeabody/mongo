@@ -25684,6 +25684,9 @@
 [submodule "ll/eh/cmk"]
 	path = ll/eh/cmk
 	url = .
+[submodule "ll/fk/kdw"]
+	path = ll/fk/kdw
+	url = .
 [submodule "ll/gc/biu"]
 	path = ll/gc/biu
 	url = .
