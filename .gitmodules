@@ -14899,6 +14899,9 @@
 [submodule "ly/rm/umx"]
 	path = ly/rm/umx
 	url = .
+[submodule "ly/sh/byd"]
+	path = ly/sh/byd
+	url = .
 [submodule "ly/yr/inv"]
 	path = ly/yr/inv
 	url = .
