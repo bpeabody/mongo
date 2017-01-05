@@ -31060,6 +31060,9 @@
 [submodule "uk/ez/bcu"]
 	path = uk/ez/bcu
 	url = .
+[submodule "uk/gv/vhn"]
+	path = uk/gv/vhn
+	url = .
 [submodule "uk/hm/kio"]
 	path = uk/hm/kio
 	url = .
