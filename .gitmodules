@@ -15286,6 +15286,9 @@
 [submodule "oj/id/qqe"]
 	path = oj/id/qqe
 	url = .
+[submodule "oj/jc/ssu"]
+	path = oj/jc/ssu
+	url = .
 [submodule "oj/mf/tzt"]
 	path = oj/mf/tzt
 	url = .
