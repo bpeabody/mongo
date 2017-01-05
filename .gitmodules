@@ -25552,6 +25552,9 @@
 [submodule "it/iw/dhd"]
 	path = it/iw/dhd
 	url = .
+[submodule "it/iw/hcb"]
+	path = it/iw/hcb
+	url = .
 [submodule "it/jc/wab"]
 	path = it/jc/wab
 	url = .
