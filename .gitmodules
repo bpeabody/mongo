@@ -37849,6 +37849,9 @@
 [submodule "xk/xv/ktm"]
 	path = xk/xv/ktm
 	url = .
+[submodule "xk/yy/qsr"]
+	path = xk/yy/qsr
+	url = .
 [submodule "xl/ag/lyy"]
 	path = xl/ag/lyy
 	url = .
