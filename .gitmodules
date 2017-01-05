@@ -11842,6 +11842,9 @@
 [submodule "vu/gf/qty"]
 	path = vu/gf/qty
 	url = .
+[submodule "vu/gq/mjr"]
+	path = vu/gq/mjr
+	url = .
 [submodule "vu/gx/rlb"]
 	path = vu/gx/rlb
 	url = .
