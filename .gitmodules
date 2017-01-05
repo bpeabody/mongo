@@ -5842,6 +5842,9 @@
 [submodule "cn/jd/vcl"]
 	path = cn/jd/vcl
 	url = .
+[submodule "cn/kv/qyd"]
+	path = cn/kv/qyd
+	url = .
 [submodule "cn/ln/dhh"]
 	path = cn/ln/dhh
 	url = .
