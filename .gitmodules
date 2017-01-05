@@ -37258,6 +37258,9 @@
 [submodule "mq/bm/gme"]
 	path = mq/bm/gme
 	url = .
+[submodule "mq/db/ken"]
+	path = mq/db/ken
+	url = .
 [submodule "mq/do/cnh"]
 	path = mq/do/cnh
 	url = .
