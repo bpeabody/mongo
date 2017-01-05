@@ -20041,6 +20041,9 @@
 [submodule "vq/tp/upm"]
 	path = vq/tp/upm
 	url = .
+[submodule "vq/yp/uqa"]
+	path = vq/yp/uqa
+	url = .
 [submodule "vr/ce/tsz"]
 	path = vr/ce/tsz
 	url = .
