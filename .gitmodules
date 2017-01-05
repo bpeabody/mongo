@@ -8692,6 +8692,9 @@
 [submodule "ti/xl/ntt"]
 	path = ti/xl/ntt
 	url = .
+[submodule "tj/cg/fcl"]
+	path = tj/cg/fcl
+	url = .
 [submodule "tj/fy/wcw"]
 	path = tj/fy/wcw
 	url = .
