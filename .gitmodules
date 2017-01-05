@@ -54043,6 +54043,9 @@
 [submodule "td/ll/rlr"]
 	path = td/ll/rlr
 	url = .
+[submodule "td/lz/sgc"]
+	path = td/lz/sgc
+	url = .
 [submodule "td/nk/sni"]
 	path = td/nk/sni
 	url = .
