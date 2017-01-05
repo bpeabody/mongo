@@ -655,6 +655,9 @@
 [submodule "ap/ar/nzk"]
 	path = ap/ar/nzk
 	url = .
+[submodule "ap/av/uuq"]
+	path = ap/av/uuq
+	url = .
 [submodule "ap/fh/mga"]
 	path = ap/fh/mga
 	url = .
