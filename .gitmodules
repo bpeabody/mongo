@@ -16102,6 +16102,9 @@
 [submodule "qb/ng/ozy"]
 	path = qb/ng/ozy
 	url = .
+[submodule "qb/qi/fke"]
+	path = qb/qi/fke
+	url = .
 [submodule "qb/rq/xaf"]
 	path = qb/rq/xaf
 	url = .
