@@ -3334,6 +3334,9 @@
 [submodule "it/gj/zxa"]
 	path = it/gj/zxa
 	url = .
+[submodule "it/iw/dhd"]
+	path = it/iw/dhd
+	url = .
 [submodule "it/sm/etj"]
 	path = it/sm/etj
 	url = .
