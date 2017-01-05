@@ -16057,6 +16057,9 @@
 [submodule "ob/nt/nle"]
 	path = ob/nt/nle
 	url = .
+[submodule "ob/qa/tqe"]
+	path = ob/qa/tqe
+	url = .
 [submodule "ob/ro/ypa"]
 	path = ob/ro/ypa
 	url = .
