@@ -50404,6 +50404,9 @@
 [submodule "sf/eo/hex"]
 	path = sf/eo/hex
 	url = .
+[submodule "sf/fa/zuz"]
+	path = sf/fa/zuz
+	url = .
 [submodule "sf/gw/cns"]
 	path = sf/gw/cns
 	url = .
