@@ -5686,6 +5686,9 @@
 [submodule "rm/ly/vaj"]
 	path = rm/ly/vaj
 	url = .
+[submodule "rm/os/znl"]
+	path = rm/os/znl
+	url = .
 [submodule "rm/pn/mtq"]
 	path = rm/pn/mtq
 	url = .
