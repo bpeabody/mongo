@@ -3922,6 +3922,9 @@
 [submodule "cb/pl/off"]
 	path = cb/pl/off
 	url = .
+[submodule "cb/qa/zbc"]
+	path = cb/qa/zbc
+	url = .
 [submodule "cb/qu/qzw"]
 	path = cb/qu/qzw
 	url = .
