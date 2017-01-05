@@ -10198,6 +10198,9 @@
 [submodule "ui/hj/rli"]
 	path = ui/hj/rli
 	url = .
+[submodule "ui/iw/udn"]
+	path = ui/iw/udn
+	url = .
 [submodule "ui/jj/ewz"]
 	path = ui/jj/ewz
 	url = .
