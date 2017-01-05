@@ -4708,6 +4708,9 @@
 [submodule "io/gc/ekx"]
 	path = io/gc/ekx
 	url = .
+[submodule "io/gy/wlc"]
+	path = io/gy/wlc
+	url = .
 [submodule "io/lu/enf"]
 	path = io/lu/enf
 	url = .
