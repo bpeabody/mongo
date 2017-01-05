@@ -22678,6 +22678,9 @@
 [submodule "hr/zk/ead"]
 	path = hr/zk/ead
 	url = .
+[submodule "hs/ad/qbb"]
+	path = hs/ad/qbb
+	url = .
 [submodule "hs/ad/zfa"]
 	path = hs/ad/zfa
 	url = .
