@@ -16666,6 +16666,9 @@
 [submodule "ni/bj/vev"]
 	path = ni/bj/vev
 	url = .
+[submodule "ni/bw/kos"]
+	path = ni/bw/kos
+	url = .
 [submodule "ni/ch/iwe"]
 	path = ni/ch/iwe
 	url = .
