@@ -8617,6 +8617,9 @@
 [submodule "yi/an/kmo"]
 	path = yi/an/kmo
 	url = .
+[submodule "yi/eq/fjq"]
+	path = yi/eq/fjq
+	url = .
 [submodule "yi/no/kpl"]
 	path = yi/no/kpl
 	url = .
