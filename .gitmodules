@@ -2788,6 +2788,9 @@
 [submodule "xd/xz/sum"]
 	path = xd/xz/sum
 	url = .
+[submodule "xd/ys/ysu"]
+	path = xd/ys/ysu
+	url = .
 [submodule "xe/gt/wqr"]
 	path = xe/gt/wqr
 	url = .
