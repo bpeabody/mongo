@@ -8470,6 +8470,9 @@
 [submodule "dl/mz/jwd"]
 	path = dl/mz/jwd
 	url = .
+[submodule "dl/nk/ymr"]
+	path = dl/nk/ymr
+	url = .
 [submodule "dl/oc/gbb"]
 	path = dl/oc/gbb
 	url = .
