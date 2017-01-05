@@ -7339,6 +7339,9 @@
 [submodule "ra/eo/nzn"]
 	path = ra/eo/nzn
 	url = .
+[submodule "ra/hz/cxg"]
+	path = ra/hz/cxg
+	url = .
 [submodule "ra/jf/cbq"]
 	path = ra/jf/cbq
 	url = .
