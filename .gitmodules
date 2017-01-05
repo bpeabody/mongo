@@ -15781,6 +15781,9 @@
 [submodule "jf/sr/pqu"]
 	path = jf/sr/pqu
 	url = .
+[submodule "jf/uz/cxv"]
+	path = jf/uz/cxv
+	url = .
 [submodule "jf/vd/kkc"]
 	path = jf/vd/kkc
 	url = .
