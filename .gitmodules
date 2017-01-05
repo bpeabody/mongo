@@ -27241,6 +27241,9 @@
 [submodule "mo/dl/zpe"]
 	path = mo/dl/zpe
 	url = .
+[submodule "mo/dz/kny"]
+	path = mo/dz/kny
+	url = .
 [submodule "mo/ef/gry"]
 	path = mo/ef/gry
 	url = .
