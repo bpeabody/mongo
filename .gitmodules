@@ -1324,6 +1324,9 @@
 [submodule "fk/wo/wac"]
 	path = fk/wo/wac
 	url = .
+[submodule "fk/xv/aju"]
+	path = fk/xv/aju
+	url = .
 [submodule "fl/gn/jhn"]
 	path = fl/gn/jhn
 	url = .
