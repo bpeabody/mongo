@@ -17575,6 +17575,9 @@
 [submodule "ml/yx/kfy"]
 	path = ml/yx/kfy
 	url = .
+[submodule "mm/ak/fnc"]
+	path = mm/ak/fnc
+	url = .
 [submodule "mm/bj/hag"]
 	path = mm/bj/hag
 	url = .
