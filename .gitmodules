@@ -20590,6 +20590,9 @@
 [submodule "xp/qz/rfk"]
 	path = xp/qz/rfk
 	url = .
+[submodule "xp/yh/frd"]
+	path = xp/yh/frd
+	url = .
 [submodule "xq/bm/nwx"]
 	path = xq/bm/nwx
 	url = .
