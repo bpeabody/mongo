@@ -39145,6 +39145,9 @@
 [submodule "vt/nj/jle"]
 	path = vt/nj/jle
 	url = .
+[submodule "vt/pt/yue"]
+	path = vt/pt/yue
+	url = .
 [submodule "vt/re/oyo"]
 	path = vt/re/oyo
 	url = .
