@@ -1699,6 +1699,9 @@
 [submodule "be/cp/pyd"]
 	path = be/cp/pyd
 	url = .
+[submodule "be/cv/cwb"]
+	path = be/cv/cwb
+	url = .
 [submodule "be/dp/mlj"]
 	path = be/dp/mlj
 	url = .
