@@ -35674,6 +35674,9 @@
 [submodule "nq/qt/uyw"]
 	path = nq/qt/uyw
 	url = .
+[submodule "nq/sn/ioc"]
+	path = nq/sn/ioc
+	url = .
 [submodule "nq/us/ebb"]
 	path = nq/us/ebb
 	url = .
