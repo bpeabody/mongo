@@ -20404,6 +20404,9 @@
 [submodule "lx/pt/zbn"]
 	path = lx/pt/zbn
 	url = .
+[submodule "lx/rj/rya"]
+	path = lx/rj/rya
+	url = .
 [submodule "lx/sp/vkz"]
 	path = lx/sp/vkz
 	url = .
