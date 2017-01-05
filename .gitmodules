@@ -5269,6 +5269,9 @@
 [submodule "by/fl/ydk"]
 	path = by/fl/ydk
 	url = .
+[submodule "by/fn/qsn"]
+	path = by/fn/qsn
+	url = .
 [submodule "by/gm/iur"]
 	path = by/gm/iur
 	url = .
