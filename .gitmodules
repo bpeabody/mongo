@@ -38842,6 +38842,9 @@
 [submodule "sm/bu/qci"]
 	path = sm/bu/qci
 	url = .
+[submodule "sm/df/fry"]
+	path = sm/df/fry
+	url = .
 [submodule "sm/ee/bxl"]
 	path = sm/ee/bxl
 	url = .
