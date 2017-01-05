@@ -10084,6 +10084,9 @@
 [submodule "hm/fw/zkp"]
 	path = hm/fw/zkp
 	url = .
+[submodule "hm/hm/her"]
+	path = hm/hm/her
+	url = .
 [submodule "hm/ik/yen"]
 	path = hm/ik/yen
 	url = .
