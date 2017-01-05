@@ -14998,6 +14998,9 @@
 [submodule "mi/tj/yzx"]
 	path = mi/tj/yzx
 	url = .
+[submodule "mi/uq/fun"]
+	path = mi/uq/fun
+	url = .
 [submodule "mi/vi/snv"]
 	path = mi/vi/snv
 	url = .
