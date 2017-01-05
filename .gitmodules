@@ -9529,6 +9529,9 @@
 [submodule "gi/dz/hma"]
 	path = gi/dz/hma
 	url = .
+[submodule "gi/ej/ugs"]
+	path = gi/ej/ugs
+	url = .
 [submodule "gi/gc/qhg"]
 	path = gi/gc/qhg
 	url = .
