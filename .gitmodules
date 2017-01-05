@@ -11605,6 +11605,9 @@
 [submodule "fq/bg/nid"]
 	path = fq/bg/nid
 	url = .
+[submodule "fq/cy/jrh"]
+	path = fq/cy/jrh
+	url = .
 [submodule "fq/es/nxn"]
 	path = fq/es/nxn
 	url = .
