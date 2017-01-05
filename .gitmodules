@@ -38167,6 +38167,9 @@
 [submodule "po/jl/yap"]
 	path = po/jl/yap
 	url = .
+[submodule "po/kq/idx"]
+	path = po/kq/idx
+	url = .
 [submodule "po/me/ftk"]
 	path = po/me/ftk
 	url = .
