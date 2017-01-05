@@ -6751,6 +6751,9 @@
 [submodule "dc/zx/qhn"]
 	path = dc/zx/qhn
 	url = .
+[submodule "dd/an/jur"]
+	path = dd/an/jur
+	url = .
 [submodule "dd/bm/mqu"]
 	path = dd/bm/mqu
 	url = .
