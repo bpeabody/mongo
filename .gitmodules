@@ -28738,6 +28738,9 @@
 [submodule "sc/sx/fwe"]
 	path = sc/sx/fwe
 	url = .
+[submodule "sc/sx/spn"]
+	path = sc/sx/spn
+	url = .
 [submodule "sc/tf/vzj"]
 	path = sc/tf/vzj
 	url = .
