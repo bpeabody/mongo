@@ -2257,6 +2257,9 @@
 [submodule "ck/dy/jvy"]
 	path = ck/dy/jvy
 	url = .
+[submodule "ck/ed/hrr"]
+	path = ck/ed/hrr
+	url = .
 [submodule "ck/es/rbh"]
 	path = ck/es/rbh
 	url = .
