@@ -21355,6 +21355,9 @@
 [submodule "wg/sm/gng"]
 	path = wg/sm/gng
 	url = .
+[submodule "wg/sx/ppl"]
+	path = wg/sx/ppl
+	url = .
 [submodule "wg/uq/pci"]
 	path = wg/uq/pci
 	url = .
