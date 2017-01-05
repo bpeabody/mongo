@@ -29614,6 +29614,9 @@
 [submodule "mu/kd/mwl"]
 	path = mu/kd/mwl
 	url = .
+[submodule "mu/lg/xia"]
+	path = mu/lg/xia
+	url = .
 [submodule "mu/mt/slj"]
 	path = mu/mt/slj
 	url = .
