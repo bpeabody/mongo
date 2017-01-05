@@ -8041,6 +8041,9 @@
 [submodule "ii/sv/yun"]
 	path = ii/sv/yun
 	url = .
+[submodule "ii/tc/yuw"]
+	path = ii/tc/yuw
+	url = .
 [submodule "ii/vs/nfd"]
 	path = ii/vs/nfd
 	url = .
