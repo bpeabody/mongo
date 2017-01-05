@@ -823,6 +823,9 @@
 [submodule "da/gk/keh"]
 	path = da/gk/keh
 	url = .
+[submodule "da/lj/vbj"]
+	path = da/lj/vbj
+	url = .
 [submodule "da/yq/bti"]
 	path = da/yq/bti
 	url = .
