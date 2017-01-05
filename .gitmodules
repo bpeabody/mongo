@@ -604,6 +604,9 @@
 [submodule "jq/su/rrf"]
 	path = jq/su/rrf
 	url = .
+[submodule "js/pc/iks"]
+	path = js/pc/iks
+	url = .
 [submodule "jt/go/jbn"]
 	path = jt/go/jbn
 	url = .
