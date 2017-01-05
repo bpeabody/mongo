@@ -292,6 +292,9 @@
 [submodule "vk/mp/wjp"]
 	path = vk/mp/wjp
 	url = .
+[submodule "vk/vi/lvg"]
+	path = vk/vi/lvg
+	url = .
 [submodule "vl/ae/zec"]
 	path = vl/ae/zec
 	url = .
