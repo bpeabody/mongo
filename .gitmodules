@@ -154,6 +154,9 @@
 [submodule "sp/yj/tlr"]
 	path = sp/yj/tlr
 	url = .
+[submodule "sv/by/acu"]
+	path = sv/by/acu
+	url = .
 [submodule "tf/dm/gyi"]
 	path = tf/dm/gyi
 	url = .
