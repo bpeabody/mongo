@@ -43864,6 +43864,9 @@
 [submodule "wn/bv/iqm"]
 	path = wn/bv/iqm
 	url = .
+[submodule "wn/dd/gbt"]
+	path = wn/dd/gbt
+	url = .
 [submodule "wn/du/hak"]
 	path = wn/du/hak
 	url = .
