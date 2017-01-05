@@ -43888,6 +43888,9 @@
 [submodule "yq/ix/tdc"]
 	path = yq/ix/tdc
 	url = .
+[submodule "yq/jj/gmj"]
+	path = yq/jj/gmj
+	url = .
 [submodule "yq/ku/edi"]
 	path = yq/ku/edi
 	url = .
