@@ -62380,6 +62380,9 @@
 [submodule "vc/cf/knw"]
 	path = vc/cf/knw
 	url = .
+[submodule "vc/eg/qrh"]
+	path = vc/eg/qrh
+	url = .
 [submodule "vc/eo/osb"]
 	path = vc/eo/osb
 	url = .
