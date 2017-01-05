@@ -4876,6 +4876,9 @@
 [submodule "kn/hk/khi"]
 	path = kn/hk/khi
 	url = .
+[submodule "kn/ic/vrq"]
+	path = kn/ic/vrq
+	url = .
 [submodule "kn/ij/spu"]
 	path = kn/ij/spu
 	url = .
