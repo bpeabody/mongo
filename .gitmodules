@@ -1864,6 +1864,9 @@
 [submodule "li/xi/iiz"]
 	path = li/xi/iiz
 	url = .
+[submodule "li/yh/fhm"]
+	path = li/yh/fhm
+	url = .
 [submodule "lj/yu/yfo"]
 	path = lj/yu/yfo
 	url = .
