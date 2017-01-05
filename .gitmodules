@@ -4903,6 +4903,9 @@
 [submodule "cn/jc/zqr"]
 	path = cn/jc/zqr
 	url = .
+[submodule "cn/jd/vcl"]
+	path = cn/jd/vcl
+	url = .
 [submodule "cn/ln/dhh"]
 	path = cn/ln/dhh
 	url = .
