@@ -1009,6 +1009,9 @@
 [submodule "mi/zc/czs"]
 	path = mi/zc/czs
 	url = .
+[submodule "mj/vr/nfy"]
+	path = mj/vr/nfy
+	url = .
 [submodule "ml/ao/hkx"]
 	path = ml/ao/hkx
 	url = .
