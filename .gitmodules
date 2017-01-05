@@ -67255,6 +67255,9 @@
 [submodule "xq/te/bco"]
 	path = xq/te/bco
 	url = .
+[submodule "xq/tr/abu"]
+	path = xq/tr/abu
+	url = .
 [submodule "xq/uu/tyq"]
 	path = xq/uu/tyq
 	url = .
