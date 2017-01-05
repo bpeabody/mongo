@@ -14557,6 +14557,9 @@
 [submodule "if/pl/poo"]
 	path = if/pl/poo
 	url = .
+[submodule "if/qd/shh"]
+	path = if/qd/shh
+	url = .
 [submodule "if/ra/olg"]
 	path = if/ra/olg
 	url = .
