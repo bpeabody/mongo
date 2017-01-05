@@ -47407,6 +47407,9 @@
 [submodule "rd/iv/ydi"]
 	path = rd/iv/ydi
 	url = .
+[submodule "rd/jf/mpr"]
+	path = rd/jf/mpr
+	url = .
 [submodule "rd/jh/iob"]
 	path = rd/jh/iob
 	url = .
