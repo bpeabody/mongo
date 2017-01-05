@@ -868,6 +868,9 @@
 [submodule "ai/gu/nez"]
 	path = ai/gu/nez
 	url = .
+[submodule "ai/hh/slj"]
+	path = ai/hh/slj
+	url = .
 [submodule "ai/ir/zjr"]
 	path = ai/ir/zjr
 	url = .
