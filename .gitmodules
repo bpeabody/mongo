@@ -29806,6 +29806,9 @@
 [submodule "mm/bw/hot"]
 	path = mm/bw/hot
 	url = .
+[submodule "mm/dy/gyu"]
+	path = mm/dy/gyu
+	url = .
 [submodule "mm/ez/xaa"]
 	path = mm/ez/xaa
 	url = .
