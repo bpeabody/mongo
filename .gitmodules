@@ -49096,6 +49096,9 @@
 [submodule "vq/ol/dgx"]
 	path = vq/ol/dgx
 	url = .
+[submodule "vq/ps/ewq"]
+	path = vq/ps/ewq
+	url = .
 [submodule "vq/pw/zlc"]
 	path = vq/pw/zlc
 	url = .
