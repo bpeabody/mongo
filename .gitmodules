@@ -14431,6 +14431,9 @@
 [submodule "fm/nz/toi"]
 	path = fm/nz/toi
 	url = .
+[submodule "fm/qt/daz"]
+	path = fm/qt/daz
+	url = .
 [submodule "fm/rw/ruj"]
 	path = fm/rw/ruj
 	url = .
