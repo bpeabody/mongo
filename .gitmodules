@@ -364,6 +364,9 @@
 [submodule "ah/nc/nuh"]
 	path = ah/nc/nuh
 	url = .
+[submodule "ah/qj/hfx"]
+	path = ah/qj/hfx
+	url = .
 [submodule "ah/qx/dwi"]
 	path = ah/qx/dwi
 	url = .
