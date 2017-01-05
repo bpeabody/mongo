@@ -8317,6 +8317,9 @@
 [submodule "re/cc/eol"]
 	path = re/cc/eol
 	url = .
+[submodule "re/cx/whr"]
+	path = re/cx/whr
+	url = .
 [submodule "re/ey/vxc"]
 	path = re/ey/vxc
 	url = .
