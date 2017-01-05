@@ -17626,6 +17626,9 @@
 [submodule "ip/rt/kby"]
 	path = ip/rt/kby
 	url = .
+[submodule "ip/sf/fsc"]
+	path = ip/sf/fsc
+	url = .
 [submodule "ip/sm/glj"]
 	path = ip/sm/glj
 	url = .
