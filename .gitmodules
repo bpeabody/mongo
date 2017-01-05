@@ -23140,6 +23140,9 @@
 [submodule "sh/oo/wek"]
 	path = sh/oo/wek
 	url = .
+[submodule "sh/qi/vta"]
+	path = sh/qi/vta
+	url = .
 [submodule "sh/so/khe"]
 	path = sh/so/khe
 	url = .
