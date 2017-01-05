@@ -31180,6 +31180,9 @@
 [submodule "xg/vr/ohf"]
 	path = xg/vr/ohf
 	url = .
+[submodule "xg/wc/sof"]
+	path = xg/wc/sof
+	url = .
 [submodule "xg/zk/jin"]
 	path = xg/zk/jin
 	url = .
