@@ -34786,6 +34786,9 @@
 [submodule "ov/rv/mmv"]
 	path = ov/rv/mmv
 	url = .
+[submodule "ov/sd/qbr"]
+	path = ov/sd/qbr
+	url = .
 [submodule "ov/sf/xft"]
 	path = ov/sf/xft
 	url = .
