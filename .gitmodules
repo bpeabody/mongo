@@ -16,6 +16,9 @@
 [submodule "mr/og/htr"]
 	path = mr/og/htr
 	url = .
+[submodule "oc/tm/nla"]
+	path = oc/tm/nla
+	url = .
 [submodule "ok/ce/akb"]
 	path = ok/ce/akb
 	url = .
