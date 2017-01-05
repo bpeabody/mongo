@@ -12796,6 +12796,9 @@
 [submodule "fz/os/qko"]
 	path = fz/os/qko
 	url = .
+[submodule "fz/pa/amx"]
+	path = fz/pa/amx
+	url = .
 [submodule "fz/pk/waw"]
 	path = fz/pk/waw
 	url = .
