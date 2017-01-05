@@ -1834,6 +1834,9 @@
 [submodule "iw/ik/riv"]
 	path = iw/ik/riv
 	url = .
+[submodule "iw/om/pvf"]
+	path = iw/om/pvf
+	url = .
 [submodule "ix/dr/gqd"]
 	path = ix/dr/gqd
 	url = .
