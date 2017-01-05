@@ -568,6 +568,9 @@
 [submodule "tr/gs/kgr"]
 	path = tr/gs/kgr
 	url = .
+[submodule "tx/sy/knt"]
+	path = tx/sy/knt
+	url = .
 [submodule "ty/sd/bti"]
 	path = ty/sd/bti
 	url = .
