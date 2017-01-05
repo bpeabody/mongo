@@ -4054,6 +4054,9 @@
 [submodule "gr/nx/xhu"]
 	path = gr/nx/xhu
 	url = .
+[submodule "gr/zf/rhq"]
+	path = gr/zf/rhq
+	url = .
 [submodule "gs/ar/suc"]
 	path = gs/ar/suc
 	url = .
