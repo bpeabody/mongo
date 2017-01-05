@@ -2344,6 +2344,9 @@
 [submodule "bx/gx/own"]
 	path = bx/gx/own
 	url = .
+[submodule "bx/hb/nxi"]
+	path = bx/hb/nxi
+	url = .
 [submodule "bx/hi/xyr"]
 	path = bx/hi/xyr
 	url = .
