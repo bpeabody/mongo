@@ -12862,6 +12862,9 @@
 [submodule "lz/lv/zcl"]
 	path = lz/lv/zcl
 	url = .
+[submodule "lz/pe/jsz"]
+	path = lz/pe/jsz
+	url = .
 [submodule "lz/pq/asy"]
 	path = lz/pq/asy
 	url = .
