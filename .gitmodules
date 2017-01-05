@@ -280,6 +280,9 @@
 [submodule "av/my/iji"]
 	path = av/my/iji
 	url = .
+[submodule "av/wo/vhg"]
+	path = av/wo/vhg
+	url = .
 [submodule "av/xx/ned"]
 	path = av/xx/ned
 	url = .
