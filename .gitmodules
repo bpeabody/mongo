@@ -9658,6 +9658,9 @@
 [submodule "nh/xq/qnt"]
 	path = nh/xq/qnt
 	url = .
+[submodule "nh/yb/wmc"]
+	path = nh/yb/wmc
+	url = .
 [submodule "nh/zr/wth"]
 	path = nh/zr/wth
 	url = .
