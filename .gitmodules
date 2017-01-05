@@ -18679,6 +18679,9 @@
 [submodule "qw/fg/qns"]
 	path = qw/fg/qns
 	url = .
+[submodule "qw/kb/fsn"]
+	path = qw/kb/fsn
+	url = .
 [submodule "qw/kp/jpp"]
 	path = qw/kp/jpp
 	url = .
