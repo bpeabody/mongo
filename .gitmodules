@@ -3274,6 +3274,9 @@
 [submodule "cr/wx/qht"]
 	path = cr/wx/qht
 	url = .
+[submodule "cr/xj/hob"]
+	path = cr/xj/hob
+	url = .
 [submodule "cs/bh/ibg"]
 	path = cs/bh/ibg
 	url = .
