@@ -6193,6 +6193,9 @@
 [submodule "lr/qk/mgz"]
 	path = lr/qk/mgz
 	url = .
+[submodule "lr/qk/snc"]
+	path = lr/qk/snc
+	url = .
 [submodule "lr/ww/qds"]
 	path = lr/ww/qds
 	url = .
