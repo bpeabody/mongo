@@ -5152,6 +5152,9 @@
 [submodule "ua/xq/gqx"]
 	path = ua/xq/gqx
 	url = .
+[submodule "ub/eq/ntt"]
+	path = ub/eq/ntt
+	url = .
 [submodule "ub/hl/uzv"]
 	path = ub/hl/uzv
 	url = .
