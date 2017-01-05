@@ -14710,6 +14710,9 @@
 [submodule "ey/pw/tki"]
 	path = ey/pw/tki
 	url = .
+[submodule "ey/sd/afe"]
+	path = ey/sd/afe
+	url = .
 [submodule "ey/sm/fpf"]
 	path = ey/sm/fpf
 	url = .
