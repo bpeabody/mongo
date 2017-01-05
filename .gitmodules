@@ -6658,6 +6658,9 @@
 [submodule "dw/fe/qca"]
 	path = dw/fe/qca
 	url = .
+[submodule "dw/gx/duw"]
+	path = dw/gx/duw
+	url = .
 [submodule "dw/jd/iim"]
 	path = dw/jd/iim
 	url = .
