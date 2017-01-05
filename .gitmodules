@@ -28198,6 +28198,9 @@
 [submodule "su/ba/slk"]
 	path = su/ba/slk
 	url = .
+[submodule "su/ct/lpi"]
+	path = su/ct/lpi
+	url = .
 [submodule "su/dh/jqu"]
 	path = su/dh/jqu
 	url = .
