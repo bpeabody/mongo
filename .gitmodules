@@ -7759,6 +7759,9 @@
 [submodule "nd/bn/bsv"]
 	path = nd/bn/bsv
 	url = .
+[submodule "nd/fv/eqy"]
+	path = nd/fv/eqy
+	url = .
 [submodule "nd/hu/hif"]
 	path = nd/hu/hif
 	url = .
