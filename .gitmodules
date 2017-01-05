@@ -59473,6 +59473,9 @@
 [submodule "yv/mj/msf"]
 	path = yv/mj/msf
 	url = .
+[submodule "yv/mt/dmq"]
+	path = yv/mt/dmq
+	url = .
 [submodule "yv/nd/xmb"]
 	path = yv/nd/xmb
 	url = .
