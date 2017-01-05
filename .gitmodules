@@ -11752,6 +11752,9 @@
 [submodule "to/sm/ird"]
 	path = to/sm/ird
 	url = .
+[submodule "to/uy/ysx"]
+	path = to/uy/ysx
+	url = .
 [submodule "to/wn/ngp"]
 	path = to/wn/ngp
 	url = .
