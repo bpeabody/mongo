@@ -24628,6 +24628,9 @@
 [submodule "oh/qt/kwz"]
 	path = oh/qt/kwz
 	url = .
+[submodule "oh/ri/fjm"]
+	path = oh/ri/fjm
+	url = .
 [submodule "oh/up/lgc"]
 	path = oh/up/lgc
 	url = .
