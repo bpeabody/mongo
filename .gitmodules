@@ -38908,6 +38908,9 @@
 [submodule "oi/rt/biq"]
 	path = oi/rt/biq
 	url = .
+[submodule "oi/rz/vgu"]
+	path = oi/rz/vgu
+	url = .
 [submodule "oi/ss/rqj"]
 	path = oi/ss/rqj
 	url = .
