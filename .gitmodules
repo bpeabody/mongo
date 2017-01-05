@@ -751,6 +751,9 @@
 [submodule "ee/li/zdc"]
 	path = ee/li/zdc
 	url = .
+[submodule "ee/od/ydr"]
+	path = ee/od/ydr
+	url = .
 [submodule "ee/qo/wkg"]
 	path = ee/qo/wkg
 	url = .
