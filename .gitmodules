@@ -44710,6 +44710,9 @@
 [submodule "rk/fc/smz"]
 	path = rk/fc/smz
 	url = .
+[submodule "rk/fj/ayk"]
+	path = rk/fj/ayk
+	url = .
 [submodule "rk/fm/kiz"]
 	path = rk/fm/kiz
 	url = .
