@@ -8758,6 +8758,9 @@
 [submodule "dg/cb/qdu"]
 	path = dg/cb/qdu
 	url = .
+[submodule "dg/cj/cxl"]
+	path = dg/cj/cxl
+	url = .
 [submodule "dg/dg/fem"]
 	path = dg/dg/fem
 	url = .
