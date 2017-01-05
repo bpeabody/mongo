@@ -4225,6 +4225,9 @@
 [submodule "dw/vx/xdf"]
 	path = dw/vx/xdf
 	url = .
+[submodule "dw/xw/dvg"]
+	path = dw/xw/dvg
+	url = .
 [submodule "dw/zu/mmv"]
 	path = dw/zu/mmv
 	url = .
