@@ -274,6 +274,9 @@
 [submodule "bn/wf/mqn"]
 	path = bn/wf/mqn
 	url = .
+[submodule "bp/ab/khj"]
+	path = bp/ab/khj
+	url = .
 [submodule "bp/ku/fnv"]
 	path = bp/ku/fnv
 	url = .
