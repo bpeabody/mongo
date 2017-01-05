@@ -1714,6 +1714,9 @@
 [submodule "bo/lj/dzs"]
 	path = bo/lj/dzs
 	url = .
+[submodule "bo/pm/pgs"]
+	path = bo/pm/pgs
+	url = .
 [submodule "bo/qt/tqj"]
 	path = bo/qt/tqj
 	url = .
