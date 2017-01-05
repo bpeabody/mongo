@@ -3529,6 +3529,9 @@
 [submodule "fx/dm/ntt"]
 	path = fx/dm/ntt
 	url = .
+[submodule "fx/gy/muv"]
+	path = fx/gy/muv
+	url = .
 [submodule "fx/ib/cwb"]
 	path = fx/ib/cwb
 	url = .
