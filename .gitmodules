@@ -27715,6 +27715,9 @@
 [submodule "py/oy/sjk"]
 	path = py/oy/sjk
 	url = .
+[submodule "py/pw/dei"]
+	path = py/pw/dei
+	url = .
 [submodule "py/qa/tbk"]
 	path = py/qa/tbk
 	url = .
