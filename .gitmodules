@@ -52993,6 +52993,9 @@
 [submodule "zo/ml/nxt"]
 	path = zo/ml/nxt
 	url = .
+[submodule "zo/nn/fhf"]
+	path = zo/nn/fhf
+	url = .
 [submodule "zo/oh/xyv"]
 	path = zo/oh/xyv
 	url = .
