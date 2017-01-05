@@ -1858,6 +1858,9 @@
 [submodule "bx/vj/rqk"]
 	path = bx/vj/rqk
 	url = .
+[submodule "bx/ws/fdi"]
+	path = bx/ws/fdi
+	url = .
 [submodule "by/dn/euk"]
 	path = by/dn/euk
 	url = .
