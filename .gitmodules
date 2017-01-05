@@ -18598,6 +18598,9 @@
 [submodule "kq/cc/oko"]
 	path = kq/cc/oko
 	url = .
+[submodule "kq/cd/fnh"]
+	path = kq/cd/fnh
+	url = .
 [submodule "kq/fv/fcm"]
 	path = kq/fv/fcm
 	url = .
