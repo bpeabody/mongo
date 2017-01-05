@@ -10018,6 +10018,9 @@
 [submodule "xc/ua/lzz"]
 	path = xc/ua/lzz
 	url = .
+[submodule "xc/ub/ozz"]
+	path = xc/ub/ozz
+	url = .
 [submodule "xc/uv/usd"]
 	path = xc/uv/usd
 	url = .
