@@ -14767,6 +14767,9 @@
 [submodule "sn/hl/nel"]
 	path = sn/hl/nel
 	url = .
+[submodule "sn/ie/vxg"]
+	path = sn/ie/vxg
+	url = .
 [submodule "sn/ix/bqn"]
 	path = sn/ix/bqn
 	url = .
