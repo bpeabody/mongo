@@ -47779,6 +47779,9 @@
 [submodule "tw/zv/ows"]
 	path = tw/zv/ows
 	url = .
+[submodule "tx/ar/gbv"]
+	path = tx/ar/gbv
+	url = .
 [submodule "tx/bp/eio"]
 	path = tx/bp/eio
 	url = .
