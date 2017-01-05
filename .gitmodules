@@ -2518,6 +2518,9 @@
 [submodule "ej/gt/nbr"]
 	path = ej/gt/nbr
 	url = .
+[submodule "ej/ia/ksa"]
+	path = ej/ia/ksa
+	url = .
 [submodule "ej/ig/vxm"]
 	path = ej/ig/vxm
 	url = .
