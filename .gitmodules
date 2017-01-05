@@ -8338,6 +8338,9 @@
 [submodule "ju/pb/pjo"]
 	path = ju/pb/pjo
 	url = .
+[submodule "ju/qq/qzv"]
+	path = ju/qq/qzv
+	url = .
 [submodule "ju/tn/bmw"]
 	path = ju/tn/bmw
 	url = .
