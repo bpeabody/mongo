@@ -25897,6 +25897,9 @@
 [submodule "iv/km/kxb"]
 	path = iv/km/kxb
 	url = .
+[submodule "iv/ku/eia"]
+	path = iv/ku/eia
+	url = .
 [submodule "iv/ku/qzg"]
 	path = iv/ku/qzg
 	url = .
