@@ -8575,6 +8575,9 @@
 [submodule "hs/ua/pzf"]
 	path = hs/ua/pzf
 	url = .
+[submodule "hs/vi/eox"]
+	path = hs/vi/eox
+	url = .
 [submodule "hs/vm/ogf"]
 	path = hs/vm/ogf
 	url = .
