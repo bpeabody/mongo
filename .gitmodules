@@ -10771,6 +10771,9 @@
 [submodule "ef/xc/jlo"]
 	path = ef/xc/jlo
 	url = .
+[submodule "ef/xe/zef"]
+	path = ef/xe/zef
+	url = .
 [submodule "ef/xv/gsn"]
 	path = ef/xv/gsn
 	url = .
