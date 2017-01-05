@@ -21556,6 +21556,9 @@
 [submodule "yv/vr/glr"]
 	path = yv/vr/glr
 	url = .
+[submodule "yv/vw/eec"]
+	path = yv/vw/eec
+	url = .
 [submodule "yv/yb/ucg"]
 	path = yv/yb/ucg
 	url = .
