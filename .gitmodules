@@ -7552,6 +7552,9 @@
 [submodule "oi/ss/rqj"]
 	path = oi/ss/rqj
 	url = .
+[submodule "oi/uc/ver"]
+	path = oi/uc/ver
+	url = .
 [submodule "oi/ui/zrt"]
 	path = oi/ui/zrt
 	url = .
