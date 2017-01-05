@@ -8467,6 +8467,9 @@
 [submodule "ea/uc/vuz"]
 	path = ea/uc/vuz
 	url = .
+[submodule "ea/wd/ynv"]
+	path = ea/wd/ynv
+	url = .
 [submodule "ea/wx/mgc"]
 	path = ea/wx/mgc
 	url = .
