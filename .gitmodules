@@ -6928,6 +6928,9 @@
 [submodule "co/gz/tri"]
 	path = co/gz/tri
 	url = .
+[submodule "co/he/ddg"]
+	path = co/he/ddg
+	url = .
 [submodule "co/hv/djb"]
 	path = co/hv/djb
 	url = .
