@@ -6628,6 +6628,9 @@
 [submodule "oz/sm/jnu"]
 	path = oz/sm/jnu
 	url = .
+[submodule "oz/ss/ppc"]
+	path = oz/ss/ppc
+	url = .
 [submodule "oz/tu/dfv"]
 	path = oz/tu/dfv
 	url = .
