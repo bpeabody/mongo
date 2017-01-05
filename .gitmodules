@@ -43582,6 +43582,9 @@
 [submodule "vg/le/lfe"]
 	path = vg/le/lfe
 	url = .
+[submodule "vg/lp/sbc"]
+	path = vg/lp/sbc
+	url = .
 [submodule "vg/na/sjy"]
 	path = vg/na/sjy
 	url = .
