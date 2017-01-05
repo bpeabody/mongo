@@ -5887,6 +5887,9 @@
 [submodule "gi/ta/yii"]
 	path = gi/ta/yii
 	url = .
+[submodule "gi/um/alg"]
+	path = gi/um/alg
+	url = .
 [submodule "gi/wj/cev"]
 	path = gi/wj/cev
 	url = .
