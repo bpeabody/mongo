@@ -15067,6 +15067,9 @@
 [submodule "md/rh/xwg"]
 	path = md/rh/xwg
 	url = .
+[submodule "md/ro/hci"]
+	path = md/ro/hci
+	url = .
 [submodule "md/rp/dqj"]
 	path = md/rp/dqj
 	url = .
