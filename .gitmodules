@@ -17920,6 +17920,9 @@
 [submodule "rv/pv/gal"]
 	path = rv/pv/gal
 	url = .
+[submodule "rv/qs/oes"]
+	path = rv/qs/oes
+	url = .
 [submodule "rv/sv/ylf"]
 	path = rv/sv/ylf
 	url = .
