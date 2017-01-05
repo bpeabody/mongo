@@ -12406,6 +12406,9 @@
 [submodule "sb/or/ceo"]
 	path = sb/or/ceo
 	url = .
+[submodule "sb/ro/qxu"]
+	path = sb/ro/qxu
+	url = .
 [submodule "sb/wh/ovz"]
 	path = sb/wh/ovz
 	url = .
