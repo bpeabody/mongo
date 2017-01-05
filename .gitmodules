@@ -47803,6 +47803,9 @@
 [submodule "qp/tz/tvh"]
 	path = qp/tz/tvh
 	url = .
+[submodule "qp/ur/sgd"]
+	path = qp/ur/sgd
+	url = .
 [submodule "qp/va/lrh"]
 	path = qp/va/lrh
 	url = .
