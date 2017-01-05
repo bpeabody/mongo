@@ -166,6 +166,9 @@
 [submodule "ef/lf/tes"]
 	path = ef/lf/tes
 	url = .
+[submodule "ek/hu/cad"]
+	path = ek/hu/cad
+	url = .
 [submodule "ep/af/pop"]
 	path = ep/af/pop
 	url = .
