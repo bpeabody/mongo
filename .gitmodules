@@ -19393,6 +19393,9 @@
 [submodule "nv/fz/fvo"]
 	path = nv/fz/fvo
 	url = .
+[submodule "nv/gi/fsr"]
+	path = nv/gi/fsr
+	url = .
 [submodule "nv/gi/knn"]
 	path = nv/gi/knn
 	url = .
