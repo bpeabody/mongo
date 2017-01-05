@@ -28801,6 +28801,9 @@
 [submodule "ri/kc/nfh"]
 	path = ri/kc/nfh
 	url = .
+[submodule "ri/mv/hqf"]
+	path = ri/mv/hqf
+	url = .
 [submodule "ri/my/mge"]
 	path = ri/my/mge
 	url = .
