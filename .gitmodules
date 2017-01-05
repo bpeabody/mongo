@@ -56773,6 +56773,9 @@
 [submodule "vc/zp/lrp"]
 	path = vc/zp/lrp
 	url = .
+[submodule "vd/ai/lvj"]
+	path = vd/ai/lvj
+	url = .
 [submodule "vd/ap/bti"]
 	path = vd/ap/bti
 	url = .
