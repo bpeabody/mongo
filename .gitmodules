@@ -5800,6 +5800,9 @@
 [submodule "ck/wi/brw"]
 	path = ck/wi/brw
 	url = .
+[submodule "ck/wr/uyn"]
+	path = ck/wr/uyn
+	url = .
 [submodule "ck/xp/qtv"]
 	path = ck/xp/qtv
 	url = .
