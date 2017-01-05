@@ -56941,6 +56941,9 @@
 [submodule "tk/qf/mhp"]
 	path = tk/qf/mhp
 	url = .
+[submodule "tk/qk/kzs"]
+	path = tk/qk/kzs
+	url = .
 [submodule "tk/qy/tkh"]
 	path = tk/qy/tkh
 	url = .
