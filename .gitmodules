@@ -31435,6 +31435,9 @@
 [submodule "nm/ih/szz"]
 	path = nm/ih/szz
 	url = .
+[submodule "nm/ik/ues"]
+	path = nm/ik/ues
+	url = .
 [submodule "nm/ko/izu"]
 	path = nm/ko/izu
 	url = .
