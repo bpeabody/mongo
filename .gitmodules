@@ -4876,6 +4876,9 @@
 [submodule "ky/xx/cdf"]
 	path = ky/xx/cdf
 	url = .
+[submodule "kz/ds/fcs"]
+	path = kz/ds/fcs
+	url = .
 [submodule "kz/fe/fbj"]
 	path = kz/fe/fbj
 	url = .
