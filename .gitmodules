@@ -5401,6 +5401,9 @@
 [submodule "vf/rn/wqh"]
 	path = vf/rn/wqh
 	url = .
+[submodule "vf/se/hwb"]
+	path = vf/se/hwb
+	url = .
 [submodule "vg/fg/ekp"]
 	path = vg/fg/ekp
 	url = .
