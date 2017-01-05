@@ -6430,6 +6430,9 @@
 [submodule "ci/vt/dge"]
 	path = ci/vt/dge
 	url = .
+[submodule "ci/wc/hnj"]
+	path = ci/wc/hnj
+	url = .
 [submodule "ci/wd/qpu"]
 	path = ci/wd/qpu
 	url = .
