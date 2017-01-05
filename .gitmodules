@@ -7915,6 +7915,9 @@
 [submodule "gt/kk/avx"]
 	path = gt/kk/avx
 	url = .
+[submodule "gt/qy/uli"]
+	path = gt/qy/uli
+	url = .
 [submodule "gt/tq/ohr"]
 	path = gt/tq/ohr
 	url = .
