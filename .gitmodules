@@ -5518,6 +5518,9 @@
 [submodule "ua/qt/cfd"]
 	path = ua/qt/cfd
 	url = .
+[submodule "ua/vk/ica"]
+	path = ua/vk/ica
+	url = .
 [submodule "ua/xq/gqx"]
 	path = ua/xq/gqx
 	url = .
