@@ -1615,6 +1615,9 @@
 [submodule "dn/rx/kgq"]
 	path = dn/rx/kgq
 	url = .
+[submodule "dn/wq/rxr"]
+	path = dn/wq/rxr
+	url = .
 [submodule "dn/yv/yth"]
 	path = dn/yv/yth
 	url = .
