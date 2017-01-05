@@ -15511,6 +15511,9 @@
 [submodule "fd/md/fwi"]
 	path = fd/md/fwi
 	url = .
+[submodule "fd/mj/zqr"]
+	path = fd/mj/zqr
+	url = .
 [submodule "fd/nz/ugu"]
 	path = fd/nz/ugu
 	url = .
