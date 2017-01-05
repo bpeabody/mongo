@@ -14233,6 +14233,9 @@
 [submodule "vf/se/hwb"]
 	path = vf/se/hwb
 	url = .
+[submodule "vf/xo/drk"]
+	path = vf/xo/drk
+	url = .
 [submodule "vg/cw/grn"]
 	path = vg/cw/grn
 	url = .
