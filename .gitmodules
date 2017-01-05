@@ -7579,6 +7579,9 @@
 [submodule "lt/ps/spp"]
 	path = lt/ps/spp
 	url = .
+[submodule "lt/xm/ntb"]
+	path = lt/xm/ntb
+	url = .
 [submodule "lu/ce/mdo"]
 	path = lu/ce/mdo
 	url = .
