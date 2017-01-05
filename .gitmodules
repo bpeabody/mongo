@@ -13834,6 +13834,9 @@
 [submodule "fi/io/njs"]
 	path = fi/io/njs
 	url = .
+[submodule "fi/ji/lsy"]
+	path = fi/ji/lsy
+	url = .
 [submodule "fi/jv/wjh"]
 	path = fi/jv/wjh
 	url = .
