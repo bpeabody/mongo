@@ -40411,6 +40411,9 @@
 [submodule "qk/tp/ked"]
 	path = qk/tp/ked
 	url = .
+[submodule "qk/uc/vuh"]
+	path = qk/uc/vuh
+	url = .
 [submodule "qk/uj/ikd"]
 	path = qk/uj/ikd
 	url = .
