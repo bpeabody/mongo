@@ -1486,6 +1486,9 @@
 [submodule "cn/ee/jzo"]
 	path = cn/ee/jzo
 	url = .
+[submodule "cn/jc/zqr"]
+	path = cn/jc/zqr
+	url = .
 [submodule "cn/sw/gng"]
 	path = cn/sw/gng
 	url = .
