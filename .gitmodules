@@ -70,6 +70,9 @@
 [submodule "gn/ij/ywb"]
 	path = gn/ij/ywb
 	url = .
+[submodule "go/gc/yhq"]
+	path = go/gc/yhq
+	url = .
 [submodule "gp/mr/mji"]
 	path = gp/mr/mji
 	url = .
