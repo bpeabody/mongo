@@ -22468,6 +22468,9 @@
 [submodule "sf/nv/xwf"]
 	path = sf/nv/xwf
 	url = .
+[submodule "sf/ny/hdk"]
+	path = sf/ny/hdk
+	url = .
 [submodule "sf/rq/few"]
 	path = sf/rq/few
 	url = .
