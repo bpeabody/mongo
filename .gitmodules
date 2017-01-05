@@ -1399,6 +1399,9 @@
 [submodule "er/pl/ybq"]
 	path = er/pl/ybq
 	url = .
+[submodule "er/rb/duh"]
+	path = er/rb/duh
+	url = .
 [submodule "er/wo/drv"]
 	path = er/wo/drv
 	url = .
