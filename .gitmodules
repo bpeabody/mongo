@@ -41089,6 +41089,9 @@
 [submodule "os/rx/psd"]
 	path = os/rx/psd
 	url = .
+[submodule "os/sh/hoq"]
+	path = os/sh/hoq
+	url = .
 [submodule "os/st/kpn"]
 	path = os/st/kpn
 	url = .
