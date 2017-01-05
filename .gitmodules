@@ -8626,6 +8626,9 @@
 [submodule "oi/bz/cty"]
 	path = oi/bz/cty
 	url = .
+[submodule "oi/ed/duv"]
+	path = oi/ed/duv
+	url = .
 [submodule "oi/pz/gny"]
 	path = oi/pz/gny
 	url = .
