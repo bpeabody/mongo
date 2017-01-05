@@ -37,6 +37,9 @@
 [submodule "aa/ik/lyj"]
 	path = aa/ik/lyj
 	url = .
+[submodule "aa/il/vtp"]
+	path = aa/il/vtp
+	url = .
 [submodule "aa/je/qcp"]
 	path = aa/je/qcp
 	url = .
