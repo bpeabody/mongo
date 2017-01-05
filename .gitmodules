@@ -1762,6 +1762,9 @@
 [submodule "ap/sw/uze"]
 	path = ap/sw/uze
 	url = .
+[submodule "ap/ta/bdy"]
+	path = ap/ta/bdy
+	url = .
 [submodule "ap/tf/ala"]
 	path = ap/tf/ala
 	url = .
