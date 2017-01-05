@@ -65563,6 +65563,9 @@
 [submodule "wq/kp/mhp"]
 	path = wq/kp/mhp
 	url = .
+[submodule "wq/kz/mch"]
+	path = wq/kz/mch
+	url = .
 [submodule "wq/lg/vxa"]
 	path = wq/lg/vxa
 	url = .
