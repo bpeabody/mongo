@@ -54463,6 +54463,9 @@
 [submodule "te/ko/ajv"]
 	path = te/ko/ajv
 	url = .
+[submodule "te/kp/slx"]
+	path = te/kp/slx
+	url = .
 [submodule "te/kr/egt"]
 	path = te/kr/egt
 	url = .
