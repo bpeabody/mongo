@@ -166,6 +166,9 @@
 [submodule "af/hy/zrb"]
 	path = af/hy/zrb
 	url = .
+[submodule "af/mg/ggc"]
+	path = af/mg/ggc
+	url = .
 [submodule "af/mz/irv"]
 	path = af/mz/irv
 	url = .
