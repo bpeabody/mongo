@@ -3958,6 +3958,9 @@
 [submodule "bq/iw/jcg"]
 	path = bq/iw/jcg
 	url = .
+[submodule "bq/iy/ttr"]
+	path = bq/iy/ttr
+	url = .
 [submodule "bq/kn/rit"]
 	path = bq/kn/rit
 	url = .
