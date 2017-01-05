@@ -8152,6 +8152,9 @@
 [submodule "cs/ov/cmo"]
 	path = cs/ov/cmo
 	url = .
+[submodule "cs/qj/nrn"]
+	path = cs/qj/nrn
+	url = .
 [submodule "cs/qw/ssd"]
 	path = cs/qw/ssd
 	url = .
