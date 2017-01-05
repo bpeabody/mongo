@@ -1801,6 +1801,9 @@
 [submodule "og/uj/mdn"]
 	path = og/uj/mdn
 	url = .
+[submodule "oi/ss/rqj"]
+	path = oi/ss/rqj
+	url = .
 [submodule "oj/gz/gro"]
 	path = oj/gz/gro
 	url = .
