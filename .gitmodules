@@ -18118,6 +18118,9 @@
 [submodule "gt/gq/qxh"]
 	path = gt/gq/qxh
 	url = .
+[submodule "gt/hp/qef"]
+	path = gt/hp/qef
+	url = .
 [submodule "gt/hs/fnx"]
 	path = gt/hs/fnx
 	url = .
