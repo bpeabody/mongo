@@ -7777,6 +7777,9 @@
 [submodule "pj/vt/hnu"]
 	path = pj/vt/hnu
 	url = .
+[submodule "pj/wk/nfy"]
+	path = pj/wk/nfy
+	url = .
 [submodule "pk/qa/udr"]
 	path = pk/qa/udr
 	url = .
