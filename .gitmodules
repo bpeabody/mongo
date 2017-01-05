@@ -18898,6 +18898,9 @@
 [submodule "rp/if/eca"]
 	path = rp/if/eca
 	url = .
+[submodule "rp/jh/mmc"]
+	path = rp/jh/mmc
+	url = .
 [submodule "rp/nw/vpd"]
 	path = rp/nw/vpd
 	url = .
