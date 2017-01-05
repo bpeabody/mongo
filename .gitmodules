@@ -27244,6 +27244,9 @@
 [submodule "pb/ri/kfs"]
 	path = pb/ri/kfs
 	url = .
+[submodule "pb/ri/spc"]
+	path = pb/ri/spc
+	url = .
 [submodule "pb/sh/bap"]
 	path = pb/sh/bap
 	url = .
