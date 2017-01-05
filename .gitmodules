@@ -5521,6 +5521,9 @@
 [submodule "kl/qc/qqa"]
 	path = kl/qc/qqa
 	url = .
+[submodule "kl/vu/aml"]
+	path = kl/vu/aml
+	url = .
 [submodule "kl/xx/ces"]
 	path = kl/xx/ces
 	url = .
