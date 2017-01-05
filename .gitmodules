@@ -36394,6 +36394,9 @@
 [submodule "os/bm/xpm"]
 	path = os/bm/xpm
 	url = .
+[submodule "os/cs/jet"]
+	path = os/cs/jet
+	url = .
 [submodule "os/cs/nyc"]
 	path = os/cs/nyc
 	url = .
