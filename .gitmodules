@@ -10978,6 +10978,9 @@
 [submodule "ql/dd/xaq"]
 	path = ql/dd/xaq
 	url = .
+[submodule "ql/iw/oir"]
+	path = ql/iw/oir
+	url = .
 [submodule "ql/pd/idi"]
 	path = ql/pd/idi
 	url = .
