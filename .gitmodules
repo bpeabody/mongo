@@ -26209,6 +26209,9 @@
 [submodule "rh/gp/ate"]
 	path = rh/gp/ate
 	url = .
+[submodule "rh/hd/rqx"]
+	path = rh/hd/rqx
+	url = .
 [submodule "rh/ii/edm"]
 	path = rh/ii/edm
 	url = .
