@@ -12526,6 +12526,9 @@
 [submodule "fp/ds/bet"]
 	path = fp/ds/bet
 	url = .
+[submodule "fp/gp/iyj"]
+	path = fp/gp/iyj
+	url = .
 [submodule "fp/ha/ijx"]
 	path = fp/ha/ijx
 	url = .
