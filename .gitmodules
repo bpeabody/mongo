@@ -12613,6 +12613,9 @@
 [submodule "ul/fz/ivu"]
 	path = ul/fz/ivu
 	url = .
+[submodule "ul/hc/bdm"]
+	path = ul/hc/bdm
+	url = .
 [submodule "ul/nr/uno"]
 	path = ul/nr/uno
 	url = .
