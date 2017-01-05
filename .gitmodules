@@ -12490,6 +12490,9 @@
 [submodule "op/jl/kgj"]
 	path = op/jl/kgj
 	url = .
+[submodule "op/oa/hdk"]
+	path = op/oa/hdk
+	url = .
 [submodule "op/pv/wqq"]
 	path = op/pv/wqq
 	url = .
