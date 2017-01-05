@@ -12925,6 +12925,9 @@
 [submodule "hs/hf/vff"]
 	path = hs/hf/vff
 	url = .
+[submodule "hs/ja/xnd"]
+	path = hs/ja/xnd
+	url = .
 [submodule "hs/my/wcu"]
 	path = hs/my/wcu
 	url = .
