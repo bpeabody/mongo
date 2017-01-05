@@ -1384,6 +1384,9 @@
 [submodule "cl/zj/kao"]
 	path = cl/zj/kao
 	url = .
+[submodule "cm/tp/amq"]
+	path = cm/tp/amq
+	url = .
 [submodule "cm/uz/xaq"]
 	path = cm/uz/xaq
 	url = .
