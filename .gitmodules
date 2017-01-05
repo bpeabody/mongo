@@ -2572,6 +2572,9 @@
 [submodule "ej/ji/hem"]
 	path = ej/ji/hem
 	url = .
+[submodule "ej/lb/pmk"]
+	path = ej/lb/pmk
+	url = .
 [submodule "ej/lz/tfw"]
 	path = ej/lz/tfw
 	url = .
