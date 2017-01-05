@@ -1819,6 +1819,9 @@
 [submodule "de/js/etd"]
 	path = de/js/etd
 	url = .
+[submodule "de/vq/fyo"]
+	path = de/vq/fyo
+	url = .
 [submodule "df/iv/auq"]
 	path = df/iv/auq
 	url = .
