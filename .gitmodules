@@ -51427,6 +51427,9 @@
 [submodule "rp/tr/kcf"]
 	path = rp/tr/kcf
 	url = .
+[submodule "rp/ua/rrn"]
+	path = rp/ua/rrn
+	url = .
 [submodule "rp/um/fgm"]
 	path = rp/um/fgm
 	url = .
