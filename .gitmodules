@@ -382,6 +382,9 @@
 [submodule "ae/go/ifm"]
 	path = ae/go/ifm
 	url = .
+[submodule "ae/il/hro"]
+	path = ae/il/hro
+	url = .
 [submodule "ae/is/bcw"]
 	path = ae/is/bcw
 	url = .
