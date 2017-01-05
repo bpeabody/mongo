@@ -1696,6 +1696,9 @@
 [submodule "dl/pt/yqs"]
 	path = dl/pt/yqs
 	url = .
+[submodule "dl/ud/bue"]
+	path = dl/ud/bue
+	url = .
 [submodule "dm/bl/qpn"]
 	path = dm/bl/qpn
 	url = .
