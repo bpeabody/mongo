@@ -1987,6 +1987,9 @@
 [submodule "bx/dv/oxb"]
 	path = bx/dv/oxb
 	url = .
+[submodule "bx/gx/own"]
+	path = bx/gx/own
+	url = .
 [submodule "bx/hi/xyr"]
 	path = bx/hi/xyr
 	url = .
