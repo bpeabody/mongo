@@ -9475,6 +9475,9 @@
 [submodule "ow/mt/gsw"]
 	path = ow/mt/gsw
 	url = .
+[submodule "ow/my/hhp"]
+	path = ow/my/hhp
+	url = .
 [submodule "ow/of/jkq"]
 	path = ow/of/jkq
 	url = .
