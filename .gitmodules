@@ -4552,6 +4552,9 @@
 [submodule "sc/ew/pns"]
 	path = sc/ew/pns
 	url = .
+[submodule "sc/fv/hdz"]
+	path = sc/fv/hdz
+	url = .
 [submodule "sc/lz/txs"]
 	path = sc/lz/txs
 	url = .
