@@ -2092,6 +2092,9 @@
 [submodule "bi/vm/emc"]
 	path = bi/vm/emc
 	url = .
+[submodule "bi/we/uyb"]
+	path = bi/we/uyb
+	url = .
 [submodule "bi/wv/mxb"]
 	path = bi/wv/mxb
 	url = .
