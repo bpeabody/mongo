@@ -25087,6 +25087,9 @@
 [submodule "rq/mm/lxx"]
 	path = rq/mm/lxx
 	url = .
+[submodule "rq/qo/dnt"]
+	path = rq/qo/dnt
+	url = .
 [submodule "rq/ud/vge"]
 	path = rq/ud/vge
 	url = .
