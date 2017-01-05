@@ -8803,6 +8803,9 @@
 [submodule "hg/yz/mog"]
 	path = hg/yz/mog
 	url = .
+[submodule "hh/aj/hnd"]
+	path = hh/aj/hnd
+	url = .
 [submodule "hh/am/rqa"]
 	path = hh/am/rqa
 	url = .
