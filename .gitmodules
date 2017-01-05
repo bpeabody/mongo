@@ -1648,6 +1648,9 @@
 [submodule "em/ys/bfl"]
 	path = em/ys/bfl
 	url = .
+[submodule "em/zi/yha"]
+	path = em/zi/yha
+	url = .
 [submodule "em/zk/ulx"]
 	path = em/zk/ulx
 	url = .
