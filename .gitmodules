@@ -22774,6 +22774,9 @@
 [submodule "os/eb/kqm"]
 	path = os/eb/kqm
 	url = .
+[submodule "os/gv/ush"]
+	path = os/gv/ush
+	url = .
 [submodule "os/ij/yiw"]
 	path = os/ij/yiw
 	url = .
