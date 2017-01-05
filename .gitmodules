@@ -4663,6 +4663,9 @@
 [submodule "dp/gb/bue"]
 	path = dp/gb/bue
 	url = .
+[submodule "dp/gf/aeq"]
+	path = dp/gf/aeq
+	url = .
 [submodule "dp/jc/qjw"]
 	path = dp/jc/qjw
 	url = .
