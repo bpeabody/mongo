@@ -54748,6 +54748,9 @@
 [submodule "uj/mc/gva"]
 	path = uj/mc/gva
 	url = .
+[submodule "uj/mr/qjc"]
+	path = uj/mr/qjc
+	url = .
 [submodule "uj/ny/brt"]
 	path = uj/ny/brt
 	url = .
