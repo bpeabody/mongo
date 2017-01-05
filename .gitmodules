@@ -20986,6 +20986,9 @@
 [submodule "io/pj/opk"]
 	path = io/pj/opk
 	url = .
+[submodule "io/ru/zer"]
+	path = io/ru/zer
+	url = .
 [submodule "io/rv/ich"]
 	path = io/rv/ich
 	url = .
