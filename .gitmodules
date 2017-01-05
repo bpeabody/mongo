@@ -14713,6 +14713,9 @@
 [submodule "hg/pb/wsp"]
 	path = hg/pb/wsp
 	url = .
+[submodule "hg/ql/pqr"]
+	path = hg/ql/pqr
+	url = .
 [submodule "hg/qr/pyf"]
 	path = hg/qr/pyf
 	url = .
