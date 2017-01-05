@@ -39877,6 +39877,9 @@
 [submodule "zo/wv/ibs"]
 	path = zo/wv/ibs
 	url = .
+[submodule "zo/yf/doi"]
+	path = zo/yf/doi
+	url = .
 [submodule "zp/bf/klc"]
 	path = zp/bf/klc
 	url = .
