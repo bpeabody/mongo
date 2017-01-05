@@ -8377,6 +8377,9 @@
 [submodule "dt/nq/chv"]
 	path = dt/nq/chv
 	url = .
+[submodule "dt/ol/oob"]
+	path = dt/ol/oob
+	url = .
 [submodule "dt/qc/bar"]
 	path = dt/qc/bar
 	url = .
