@@ -3517,6 +3517,9 @@
 [submodule "dn/cz/zmj"]
 	path = dn/cz/zmj
 	url = .
+[submodule "dn/dd/oue"]
+	path = dn/dd/oue
+	url = .
 [submodule "dn/dt/lda"]
 	path = dn/dt/lda
 	url = .
