@@ -37069,6 +37069,9 @@
 [submodule "pe/ve/qnp"]
 	path = pe/ve/qnp
 	url = .
+[submodule "pe/vf/szj"]
+	path = pe/vf/szj
+	url = .
 [submodule "pe/wd/tuv"]
 	path = pe/wd/tuv
 	url = .
