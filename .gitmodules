@@ -31978,6 +31978,9 @@
 [submodule "vj/xo/fje"]
 	path = vj/xo/fje
 	url = .
+[submodule "vj/xo/fug"]
+	path = vj/xo/fug
+	url = .
 [submodule "vk/ac/ags"]
 	path = vk/ac/ags
 	url = .
