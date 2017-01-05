@@ -7165,6 +7165,9 @@
 [submodule "cn/zj/ibr"]
 	path = cn/zj/ibr
 	url = .
+[submodule "cn/zy/mvg"]
+	path = cn/zy/mvg
+	url = .
 [submodule "co/co/ypu"]
 	path = co/co/ypu
 	url = .
