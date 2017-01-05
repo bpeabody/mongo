@@ -31681,6 +31681,9 @@
 [submodule "qi/qa/dpi"]
 	path = qi/qa/dpi
 	url = .
+[submodule "qi/rv/ftd"]
+	path = qi/rv/ftd
+	url = .
 [submodule "qi/rz/nld"]
 	path = qi/rz/nld
 	url = .
