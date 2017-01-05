@@ -20425,6 +20425,9 @@
 [submodule "og/lt/btr"]
 	path = og/lt/btr
 	url = .
+[submodule "og/lx/sml"]
+	path = og/lx/sml
+	url = .
 [submodule "og/nu/gqn"]
 	path = og/nu/gqn
 	url = .
