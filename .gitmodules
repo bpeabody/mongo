@@ -6613,6 +6613,9 @@
 [submodule "ua/ej/jiv"]
 	path = ua/ej/jiv
 	url = .
+[submodule "ua/gi/oac"]
+	path = ua/gi/oac
+	url = .
 [submodule "ua/qt/cfd"]
 	path = ua/qt/cfd
 	url = .
