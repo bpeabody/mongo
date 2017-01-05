@@ -23539,6 +23539,9 @@
 [submodule "nl/cq/egd"]
 	path = nl/cq/egd
 	url = .
+[submodule "nl/dj/xyb"]
+	path = nl/dj/xyb
+	url = .
 [submodule "nl/dm/sql"]
 	path = nl/dm/sql
 	url = .
