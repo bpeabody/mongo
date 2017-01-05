@@ -9316,6 +9316,9 @@
 [submodule "gf/jw/xrf"]
 	path = gf/jw/xrf
 	url = .
+[submodule "gf/ki/sum"]
+	path = gf/ki/sum
+	url = .
 [submodule "gf/kl/ahv"]
 	path = gf/kl/ahv
 	url = .
