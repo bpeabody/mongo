@@ -1771,6 +1771,9 @@
 [submodule "kx/ac/wqc"]
 	path = kx/ac/wqc
 	url = .
+[submodule "kx/ft/lef"]
+	path = kx/ft/lef
+	url = .
 [submodule "kx/nz/rzd"]
 	path = kx/nz/rzd
 	url = .
