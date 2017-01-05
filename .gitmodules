@@ -22426,6 +22426,9 @@
 [submodule "jq/hg/kab"]
 	path = jq/hg/kab
 	url = .
+[submodule "jq/hn/izp"]
+	path = jq/hn/izp
+	url = .
 [submodule "jq/ij/wgs"]
 	path = jq/ij/wgs
 	url = .
