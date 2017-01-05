@@ -34282,6 +34282,9 @@
 [submodule "sn/rj/xvz"]
 	path = sn/rj/xvz
 	url = .
+[submodule "sn/tv/xhs"]
+	path = sn/tv/xhs
+	url = .
 [submodule "sn/ui/evt"]
 	path = sn/ui/evt
 	url = .
