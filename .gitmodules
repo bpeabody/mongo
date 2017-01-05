@@ -6340,6 +6340,9 @@
 [submodule "cg/gc/oni"]
 	path = cg/gc/oni
 	url = .
+[submodule "cg/hp/avp"]
+	path = cg/hp/avp
+	url = .
 [submodule "cg/hp/gub"]
 	path = cg/hp/gub
 	url = .
