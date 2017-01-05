@@ -11992,6 +11992,9 @@
 [submodule "gm/kq/ont"]
 	path = gm/kq/ont
 	url = .
+[submodule "gm/lo/ksz"]
+	path = gm/lo/ksz
+	url = .
 [submodule "gm/ny/nto"]
 	path = gm/ny/nto
 	url = .
