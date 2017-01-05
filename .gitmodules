@@ -1624,6 +1624,9 @@
 [submodule "bl/vl/qdo"]
 	path = bl/vl/qdo
 	url = .
+[submodule "bm/fb/kau"]
+	path = bm/fb/kau
+	url = .
 [submodule "bm/fp/vmk"]
 	path = bm/fp/vmk
 	url = .
