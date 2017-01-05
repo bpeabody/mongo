@@ -12076,6 +12076,9 @@
 [submodule "jf/yx/vfm"]
 	path = jf/yx/vfm
 	url = .
+[submodule "jg/ae/kpy"]
+	path = jg/ae/kpy
+	url = .
 [submodule "jg/bd/nut"]
 	path = jg/bd/nut
 	url = .
