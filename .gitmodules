@@ -2650,6 +2650,9 @@
 [submodule "bk/mk/rjl"]
 	path = bk/mk/rjl
 	url = .
+[submodule "bk/mo/vdq"]
+	path = bk/mo/vdq
+	url = .
 [submodule "bk/op/qic"]
 	path = bk/op/qic
 	url = .
