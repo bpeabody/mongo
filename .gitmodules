@@ -11434,6 +11434,9 @@
 [submodule "nk/iv/gsk"]
 	path = nk/iv/gsk
 	url = .
+[submodule "nk/ua/cmg"]
+	path = nk/ua/cmg
+	url = .
 [submodule "nk/vj/fxk"]
 	path = nk/vj/fxk
 	url = .
