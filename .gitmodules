@@ -1447,6 +1447,9 @@
 [submodule "dk/yf/mse"]
 	path = dk/yf/mse
 	url = .
+[submodule "dk/yq/nof"]
+	path = dk/yq/nof
+	url = .
 [submodule "dl/ay/bsi"]
 	path = dl/ay/bsi
 	url = .
