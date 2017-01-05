@@ -16489,6 +16489,9 @@
 [submodule "jf/bo/plt"]
 	path = jf/bo/plt
 	url = .
+[submodule "jf/bs/mnf"]
+	path = jf/bs/mnf
+	url = .
 [submodule "jf/bt/rcs"]
 	path = jf/bt/rcs
 	url = .
