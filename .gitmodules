@@ -25291,6 +25291,9 @@
 [submodule "oc/kc/jmu"]
 	path = oc/kc/jmu
 	url = .
+[submodule "oc/ko/hqf"]
+	path = oc/ko/hqf
+	url = .
 [submodule "oc/ky/agt"]
 	path = oc/ky/agt
 	url = .
