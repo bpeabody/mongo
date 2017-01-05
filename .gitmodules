@@ -9439,6 +9439,9 @@
 [submodule "pn/fl/pwy"]
 	path = pn/fl/pwy
 	url = .
+[submodule "pn/ha/wbn"]
+	path = pn/ha/wbn
+	url = .
 [submodule "pn/jw/ykt"]
 	path = pn/jw/ykt
 	url = .
