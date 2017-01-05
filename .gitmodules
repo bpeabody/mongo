@@ -13456,6 +13456,9 @@
 [submodule "js/ar/sky"]
 	path = js/ar/sky
 	url = .
+[submodule "js/eh/bxh"]
+	path = js/eh/bxh
+	url = .
 [submodule "js/gk/nvf"]
 	path = js/gk/nvf
 	url = .
