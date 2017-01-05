@@ -250,6 +250,9 @@
 [submodule "qt/fl/esd"]
 	path = qt/fl/esd
 	url = .
+[submodule "rc/rv/exs"]
+	path = rc/rv/exs
+	url = .
 [submodule "re/py/ktl"]
 	path = re/py/ktl
 	url = .
