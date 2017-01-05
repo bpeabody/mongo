@@ -20473,6 +20473,9 @@
 [submodule "ik/ck/qbv"]
 	path = ik/ck/qbv
 	url = .
+[submodule "ik/cv/fmd"]
+	path = ik/cv/fmd
+	url = .
 [submodule "ik/dq/ozc"]
 	path = ik/dq/ozc
 	url = .
