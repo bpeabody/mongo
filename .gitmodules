@@ -11086,6 +11086,9 @@
 [submodule "ea/xp/bfx"]
 	path = ea/xp/bfx
 	url = .
+[submodule "ea/yd/jwe"]
+	path = ea/yd/jwe
+	url = .
 [submodule "ea/zb/xqo"]
 	path = ea/zb/xqo
 	url = .
