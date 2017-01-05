@@ -820,6 +820,9 @@
 [submodule "gd/yw/rxh"]
 	path = gd/yw/rxh
 	url = .
+[submodule "ge/ip/pok"]
+	path = ge/ip/pok
+	url = .
 [submodule "ge/jo/wki"]
 	path = ge/jo/wki
 	url = .
