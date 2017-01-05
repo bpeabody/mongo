@@ -6676,6 +6676,9 @@
 [submodule "gn/er/vcu"]
 	path = gn/er/vcu
 	url = .
+[submodule "gn/ex/fpi"]
+	path = gn/ex/fpi
+	url = .
 [submodule "gn/ez/bus"]
 	path = gn/ez/bus
 	url = .
