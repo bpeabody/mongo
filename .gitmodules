@@ -16876,6 +16876,9 @@
 [submodule "qv/nk/vbv"]
 	path = qv/nk/vbv
 	url = .
+[submodule "qv/no/jkb"]
+	path = qv/no/jkb
+	url = .
 [submodule "qv/pl/iud"]
 	path = qv/pl/iud
 	url = .
