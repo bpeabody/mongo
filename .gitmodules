@@ -8650,6 +8650,9 @@
 [submodule "ej/ti/sty"]
 	path = ej/ti/sty
 	url = .
+[submodule "ej/uw/xdz"]
+	path = ej/uw/xdz
+	url = .
 [submodule "ej/we/vnv"]
 	path = ej/we/vnv
 	url = .
