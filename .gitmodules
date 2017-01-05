@@ -10717,6 +10717,9 @@
 [submodule "lh/fg/stt"]
 	path = lh/fg/stt
 	url = .
+[submodule "lh/fo/umm"]
+	path = lh/fo/umm
+	url = .
 [submodule "lh/gx/ych"]
 	path = lh/gx/ych
 	url = .
