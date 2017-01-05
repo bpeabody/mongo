@@ -8992,6 +8992,9 @@
 [submodule "pc/ji/ydi"]
 	path = pc/ji/ydi
 	url = .
+[submodule "pc/qh/lis"]
+	path = pc/qh/lis
+	url = .
 [submodule "pc/ub/sxp"]
 	path = pc/ub/sxp
 	url = .
