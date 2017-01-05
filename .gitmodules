@@ -53608,6 +53608,9 @@
 [submodule "vm/iq/fut"]
 	path = vm/iq/fut
 	url = .
+[submodule "vm/kn/zei"]
+	path = vm/kn/zei
+	url = .
 [submodule "vm/md/djv"]
 	path = vm/md/djv
 	url = .
