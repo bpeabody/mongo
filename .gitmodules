@@ -12391,6 +12391,9 @@
 [submodule "xb/na/alr"]
 	path = xb/na/alr
 	url = .
+[submodule "xb/nu/vaa"]
+	path = xb/nu/vaa
+	url = .
 [submodule "xb/te/vre"]
 	path = xb/te/vre
 	url = .
