@@ -5920,6 +5920,9 @@
 [submodule "gg/nz/tju"]
 	path = gg/nz/tju
 	url = .
+[submodule "gg/oc/kfp"]
+	path = gg/oc/kfp
+	url = .
 [submodule "gg/od/qtw"]
 	path = gg/od/qtw
 	url = .
