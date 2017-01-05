@@ -1600,6 +1600,9 @@
 [submodule "ex/zf/qnj"]
 	path = ex/zf/qnj
 	url = .
+[submodule "ex/zu/upw"]
+	path = ex/zu/upw
+	url = .
 [submodule "ex/zw/pnj"]
 	path = ex/zw/pnj
 	url = .
