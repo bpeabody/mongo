@@ -6976,6 +6976,9 @@
 [submodule "ci/ca/xex"]
 	path = ci/ca/xex
 	url = .
+[submodule "ci/do/lox"]
+	path = ci/do/lox
+	url = .
 [submodule "ci/eg/zpc"]
 	path = ci/eg/zpc
 	url = .
