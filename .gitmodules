@@ -4987,6 +4987,9 @@
 [submodule "tg/ps/bdd"]
 	path = tg/ps/bdd
 	url = .
+[submodule "tg/ro/ahe"]
+	path = tg/ro/ahe
+	url = .
 [submodule "tg/xw/czu"]
 	path = tg/xw/czu
 	url = .
