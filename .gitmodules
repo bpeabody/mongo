@@ -1276,6 +1276,9 @@
 [submodule "al/nd/oul"]
 	path = al/nd/oul
 	url = .
+[submodule "al/qs/mks"]
+	path = al/qs/mks
+	url = .
 [submodule "al/rc/qww"]
 	path = al/rc/qww
 	url = .
