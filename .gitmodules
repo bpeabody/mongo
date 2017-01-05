@@ -187,6 +187,9 @@
 [submodule "cr/ms/mcf"]
 	path = cr/ms/mcf
 	url = .
+[submodule "cr/nq/ugi"]
+	path = cr/nq/ugi
+	url = .
 [submodule "cs/sj/pyk"]
 	path = cs/sj/pyk
 	url = .
