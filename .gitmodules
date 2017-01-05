@@ -30130,6 +30130,9 @@
 [submodule "lh/na/bqn"]
 	path = lh/na/bqn
 	url = .
+[submodule "lh/ni/mic"]
+	path = lh/ni/mic
+	url = .
 [submodule "lh/nj/ubn"]
 	path = lh/nj/ubn
 	url = .
