@@ -16225,6 +16225,9 @@
 [submodule "to/tb/xox"]
 	path = to/tb/xox
 	url = .
+[submodule "to/uv/cli"]
+	path = to/uv/cli
+	url = .
 [submodule "to/uy/ysx"]
 	path = to/uy/ysx
 	url = .
