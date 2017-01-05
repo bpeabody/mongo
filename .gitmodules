@@ -12829,6 +12829,9 @@
 [submodule "fm/bw/pxu"]
 	path = fm/bw/pxu
 	url = .
+[submodule "fm/dt/ore"]
+	path = fm/dt/ore
+	url = .
 [submodule "fm/dv/nge"]
 	path = fm/dv/nge
 	url = .
