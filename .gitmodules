@@ -523,6 +523,9 @@
 [submodule "ak/zt/srp"]
 	path = ak/zt/srp
 	url = .
+[submodule "al/dh/cxi"]
+	path = al/dh/cxi
+	url = .
 [submodule "al/fb/wkh"]
 	path = al/fb/wkh
 	url = .
