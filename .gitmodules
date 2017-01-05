@@ -19081,6 +19081,9 @@
 [submodule "mq/st/agr"]
 	path = mq/st/agr
 	url = .
+[submodule "mq/ts/fky"]
+	path = mq/ts/fky
+	url = .
 [submodule "mq/uw/eds"]
 	path = mq/uw/eds
 	url = .
