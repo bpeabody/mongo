@@ -508,6 +508,9 @@
 [submodule "ny/wj/mrz"]
 	path = ny/wj/mrz
 	url = .
+[submodule "nz/qr/rdi"]
+	path = nz/qr/rdi
+	url = .
 [submodule "ob/nt/nle"]
 	path = ob/nt/nle
 	url = .
