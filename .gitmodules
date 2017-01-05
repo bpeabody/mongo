@@ -19252,6 +19252,9 @@
 [submodule "gq/vh/oiz"]
 	path = gq/vh/oiz
 	url = .
+[submodule "gq/wa/gyo"]
+	path = gq/wa/gyo
+	url = .
 [submodule "gq/xl/uhr"]
 	path = gq/xl/uhr
 	url = .
