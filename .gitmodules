@@ -45304,6 +45304,9 @@
 [submodule "rh/vp/dwc"]
 	path = rh/vp/dwc
 	url = .
+[submodule "rh/wh/hod"]
+	path = rh/wh/hod
+	url = .
 [submodule "rh/xd/vrr"]
 	path = rh/xd/vrr
 	url = .
