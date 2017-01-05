@@ -30277,6 +30277,9 @@
 [submodule "li/eu/wgg"]
 	path = li/eu/wgg
 	url = .
+[submodule "li/fj/mpa"]
+	path = li/fj/mpa
+	url = .
 [submodule "li/fp/ycc"]
 	path = li/fp/ycc
 	url = .
