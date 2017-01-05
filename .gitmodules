@@ -42622,6 +42622,9 @@
 [submodule "vm/sq/tbq"]
 	path = vm/sq/tbq
 	url = .
+[submodule "vm/sv/bvw"]
+	path = vm/sv/bvw
+	url = .
 [submodule "vm/uh/kki"]
 	path = vm/uh/kki
 	url = .
