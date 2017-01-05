@@ -11149,6 +11149,9 @@
 [submodule "hk/sv/rrj"]
 	path = hk/sv/rrj
 	url = .
+[submodule "hk/sy/deq"]
+	path = hk/sy/deq
+	url = .
 [submodule "hk/uc/xti"]
 	path = hk/uc/xti
 	url = .
