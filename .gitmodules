@@ -5464,6 +5464,9 @@
 [submodule "vv/fw/zqw"]
 	path = vv/fw/zqw
 	url = .
+[submodule "vv/vf/nhd"]
+	path = vv/vf/nhd
+	url = .
 [submodule "vv/xk/bft"]
 	path = vv/xk/bft
 	url = .
