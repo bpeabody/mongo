@@ -2935,6 +2935,9 @@
 [submodule "rk/sm/uba"]
 	path = rk/sm/uba
 	url = .
+[submodule "rl/yr/qby"]
+	path = rl/yr/qby
+	url = .
 [submodule "rm/ft/asl"]
 	path = rm/ft/asl
 	url = .
