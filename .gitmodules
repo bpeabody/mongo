@@ -8218,6 +8218,9 @@
 [submodule "db/de/uli"]
 	path = db/de/uli
 	url = .
+[submodule "db/ec/rbu"]
+	path = db/ec/rbu
+	url = .
 [submodule "db/em/leo"]
 	path = db/em/leo
 	url = .
