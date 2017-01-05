@@ -211,6 +211,9 @@
 [submodule "ea/lu/hnu"]
 	path = ea/lu/hnu
 	url = .
+[submodule "ee/li/zdc"]
+	path = ee/li/zdc
+	url = .
 [submodule "ef/lf/tes"]
 	path = ef/lf/tes
 	url = .
