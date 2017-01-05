@@ -3121,6 +3121,9 @@
 [submodule "fv/bb/yby"]
 	path = fv/bb/yby
 	url = .
+[submodule "fv/bt/hoz"]
+	path = fv/bt/hoz
+	url = .
 [submodule "fv/hf/mbx"]
 	path = fv/hf/mbx
 	url = .
