@@ -24826,6 +24826,9 @@
 [submodule "iq/cm/qtq"]
 	path = iq/cm/qtq
 	url = .
+[submodule "iq/dh/kvz"]
+	path = iq/dh/kvz
+	url = .
 [submodule "iq/ec/jsz"]
 	path = iq/ec/jsz
 	url = .
