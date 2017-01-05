@@ -50800,6 +50800,9 @@
 [submodule "wq/qy/xdc"]
 	path = wq/qy/xdc
 	url = .
+[submodule "wq/rr/pci"]
+	path = wq/rr/pci
+	url = .
 [submodule "wq/sf/wzu"]
 	path = wq/sf/wzu
 	url = .
