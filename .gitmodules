@@ -16459,6 +16459,9 @@
 [submodule "jj/it/loc"]
 	path = jj/it/loc
 	url = .
+[submodule "jj/lu/ngn"]
+	path = jj/lu/ngn
+	url = .
 [submodule "jj/mk/wol"]
 	path = jj/mk/wol
 	url = .
