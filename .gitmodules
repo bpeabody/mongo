@@ -23377,6 +23377,9 @@
 [submodule "tq/nn/ezv"]
 	path = tq/nn/ezv
 	url = .
+[submodule "tq/of/pdd"]
+	path = tq/of/pdd
+	url = .
 [submodule "tq/pw/wqg"]
 	path = tq/pw/wqg
 	url = .
