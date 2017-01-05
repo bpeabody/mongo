@@ -1648,6 +1648,9 @@
 [submodule "aq/ei/yho"]
 	path = aq/ei/yho
 	url = .
+[submodule "aq/em/cak"]
+	path = aq/em/cak
+	url = .
 [submodule "aq/fg/lrb"]
 	path = aq/fg/lrb
 	url = .
