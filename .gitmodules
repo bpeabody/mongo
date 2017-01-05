@@ -4279,6 +4279,9 @@
 [submodule "bp/ay/xzk"]
 	path = bp/ay/xzk
 	url = .
+[submodule "bp/bx/irn"]
+	path = bp/bx/irn
+	url = .
 [submodule "bp/ci/gvg"]
 	path = bp/ci/gvg
 	url = .
