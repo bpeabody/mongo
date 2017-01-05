@@ -10138,6 +10138,9 @@
 [submodule "ul/dg/npf"]
 	path = ul/dg/npf
 	url = .
+[submodule "ul/dm/fsl"]
+	path = ul/dm/fsl
+	url = .
 [submodule "ul/fz/ivu"]
 	path = ul/fz/ivu
 	url = .
