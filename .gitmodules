@@ -832,6 +832,9 @@
 [submodule "al/gk/kwf"]
 	path = al/gk/kwf
 	url = .
+[submodule "al/gy/wdn"]
+	path = al/gy/wdn
+	url = .
 [submodule "al/lf/onw"]
 	path = al/lf/onw
 	url = .
