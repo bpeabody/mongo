@@ -8773,6 +8773,9 @@
 [submodule "fi/jv/wjh"]
 	path = fi/jv/wjh
 	url = .
+[submodule "fi/ls/ogz"]
+	path = fi/ls/ogz
+	url = .
 [submodule "fi/my/npa"]
 	path = fi/my/npa
 	url = .
