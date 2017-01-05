@@ -48781,6 +48781,9 @@
 [submodule "ye/jt/dex"]
 	path = ye/jt/dex
 	url = .
+[submodule "ye/ju/hgp"]
+	path = ye/ju/hgp
+	url = .
 [submodule "ye/jx/ryf"]
 	path = ye/jx/ryf
 	url = .
