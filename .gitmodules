@@ -9061,6 +9061,9 @@
 [submodule "jl/zd/qlq"]
 	path = jl/zd/qlq
 	url = .
+[submodule "jm/gp/qxi"]
+	path = jm/gp/qxi
+	url = .
 [submodule "jm/gq/iif"]
 	path = jm/gq/iif
 	url = .
