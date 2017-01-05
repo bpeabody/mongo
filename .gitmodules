@@ -52465,6 +52465,9 @@
 [submodule "tv/sp/nxr"]
 	path = tv/sp/nxr
 	url = .
+[submodule "tv/uv/dmz"]
+	path = tv/uv/dmz
+	url = .
 [submodule "tv/wh/upf"]
 	path = tv/wh/upf
 	url = .
