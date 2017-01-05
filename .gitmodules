@@ -20296,6 +20296,9 @@
 [submodule "ja/me/ggh"]
 	path = ja/me/ggh
 	url = .
+[submodule "ja/mx/uoh"]
+	path = ja/mx/uoh
+	url = .
 [submodule "ja/oh/pqh"]
 	path = ja/oh/pqh
 	url = .
