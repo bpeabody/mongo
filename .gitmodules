@@ -25498,6 +25498,9 @@
 [submodule "vu/hm/xnd"]
 	path = vu/hm/xnd
 	url = .
+[submodule "vu/kc/qna"]
+	path = vu/kc/qna
+	url = .
 [submodule "vu/ma/dbm"]
 	path = vu/ma/dbm
 	url = .
