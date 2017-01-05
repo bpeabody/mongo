@@ -1438,6 +1438,9 @@
 [submodule "cs/ui/yoe"]
 	path = cs/ui/yoe
 	url = .
+[submodule "cs/uk/oxk"]
+	path = cs/uk/oxk
+	url = .
 [submodule "cs/uq/elw"]
 	path = cs/uq/elw
 	url = .
