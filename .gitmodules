@@ -925,6 +925,9 @@
 [submodule "bp/rs/wfb"]
 	path = bp/rs/wfb
 	url = .
+[submodule "bp/sg/lsi"]
+	path = bp/sg/lsi
+	url = .
 [submodule "bp/sx/zjy"]
 	path = bp/sx/zjy
 	url = .
