@@ -9880,6 +9880,9 @@
 [submodule "do/tr/prh"]
 	path = do/tr/prh
 	url = .
+[submodule "do/tv/vzc"]
+	path = do/tv/vzc
+	url = .
 [submodule "do/um/pxc"]
 	path = do/um/pxc
 	url = .
