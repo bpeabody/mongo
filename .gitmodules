@@ -58291,6 +58291,9 @@
 [submodule "vo/vk/sqt"]
 	path = vo/vk/sqt
 	url = .
+[submodule "vo/wk/xns"]
+	path = vo/wk/xns
+	url = .
 [submodule "vo/wl/hsm"]
 	path = vo/wl/hsm
 	url = .
