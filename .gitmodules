@@ -2182,6 +2182,9 @@
 [submodule "cl/ba/lvn"]
 	path = cl/ba/lvn
 	url = .
+[submodule "cl/bo/znr"]
+	path = cl/bo/znr
+	url = .
 [submodule "cl/co/mmh"]
 	path = cl/co/mmh
 	url = .
