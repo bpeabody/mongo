@@ -9250,6 +9250,9 @@
 [submodule "df/nq/urx"]
 	path = df/nq/urx
 	url = .
+[submodule "df/on/fdc"]
+	path = df/on/fdc
+	url = .
 [submodule "df/pj/zsk"]
 	path = df/pj/zsk
 	url = .
