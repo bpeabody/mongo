@@ -9877,6 +9877,9 @@
 [submodule "ll/gc/biu"]
 	path = ll/gc/biu
 	url = .
+[submodule "ll/iy/rdf"]
+	path = ll/iy/rdf
+	url = .
 [submodule "ll/ju/tmx"]
 	path = ll/ju/tmx
 	url = .
