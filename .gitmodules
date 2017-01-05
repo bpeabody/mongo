@@ -10483,6 +10483,9 @@
 [submodule "ic/jg/yci"]
 	path = ic/jg/yci
 	url = .
+[submodule "ic/mf/ugw"]
+	path = ic/mf/ugw
+	url = .
 [submodule "ic/nf/jpt"]
 	path = ic/nf/jpt
 	url = .
