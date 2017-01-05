@@ -2251,6 +2251,9 @@
 [submodule "ry/my/wlj"]
 	path = ry/my/wlj
 	url = .
+[submodule "ry/qf/wej"]
+	path = ry/qf/wej
+	url = .
 [submodule "ry/xo/ehk"]
 	path = ry/xo/ehk
 	url = .
