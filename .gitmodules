@@ -65137,6 +65137,9 @@
 [submodule "yw/ue/lxy"]
 	path = yw/ue/lxy
 	url = .
+[submodule "yw/ur/hsn"]
+	path = yw/ur/hsn
+	url = .
 [submodule "yw/vg/hse"]
 	path = yw/vg/hse
 	url = .
