@@ -8194,6 +8194,9 @@
 [submodule "qy/lz/nqv"]
 	path = qy/lz/nqv
 	url = .
+[submodule "qy/vd/gyr"]
+	path = qy/vd/gyr
+	url = .
 [submodule "qz/bf/lkq"]
 	path = qz/bf/lkq
 	url = .
