@@ -18406,6 +18406,9 @@
 [submodule "mx/vo/mcu"]
 	path = mx/vo/mcu
 	url = .
+[submodule "mx/wv/gik"]
+	path = mx/wv/gik
+	url = .
 [submodule "mx/wy/gzd"]
 	path = mx/wy/gzd
 	url = .
