@@ -655,6 +655,9 @@
 [submodule "hc/ns/ejv"]
 	path = hc/ns/ejv
 	url = .
+[submodule "hc/zw/yrs"]
+	path = hc/zw/yrs
+	url = .
 [submodule "hd/ta/qpk"]
 	path = hd/ta/qpk
 	url = .
