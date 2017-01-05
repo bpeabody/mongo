@@ -4075,6 +4075,9 @@
 [submodule "bt/kj/esj"]
 	path = bt/kj/esj
 	url = .
+[submodule "bt/lm/zue"]
+	path = bt/lm/zue
+	url = .
 [submodule "bt/lv/fax"]
 	path = bt/lv/fax
 	url = .
