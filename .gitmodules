@@ -214,6 +214,9 @@
 [submodule "bj/qn/vtt"]
 	path = bj/qn/vtt
 	url = .
+[submodule "bk/op/qic"]
+	path = bk/op/qic
+	url = .
 [submodule "bl/nd/qcs"]
 	path = bl/nd/qcs
 	url = .
