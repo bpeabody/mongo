@@ -20206,6 +20206,9 @@
 [submodule "hu/au/bah"]
 	path = hu/au/bah
 	url = .
+[submodule "hu/bm/bqr"]
+	path = hu/bm/bqr
+	url = .
 [submodule "hu/cr/usb"]
 	path = hu/cr/usb
 	url = .
