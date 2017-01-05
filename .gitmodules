@@ -59035,6 +59035,9 @@
 [submodule "xf/wr/nvs"]
 	path = xf/wr/nvs
 	url = .
+[submodule "xf/xf/cen"]
+	path = xf/xf/cen
+	url = .
 [submodule "xf/xw/hlq"]
 	path = xf/xw/hlq
 	url = .
