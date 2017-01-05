@@ -1858,6 +1858,9 @@
 [submodule "ct/sq/bpw"]
 	path = ct/sq/bpw
 	url = .
+[submodule "ct/sz/zbm"]
+	path = ct/sz/zbm
+	url = .
 [submodule "ct/xa/uqh"]
 	path = ct/xa/uqh
 	url = .
