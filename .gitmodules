@@ -5269,6 +5269,9 @@
 [submodule "us/un/jjr"]
 	path = us/un/jjr
 	url = .
+[submodule "ut/eq/bbt"]
+	path = ut/eq/bbt
+	url = .
 [submodule "ut/il/bjn"]
 	path = ut/il/bjn
 	url = .
