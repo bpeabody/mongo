@@ -22327,6 +22327,9 @@
 [submodule "kb/mn/gla"]
 	path = kb/mn/gla
 	url = .
+[submodule "kb/na/ixf"]
+	path = kb/na/ixf
+	url = .
 [submodule "kb/nc/meo"]
 	path = kb/nc/meo
 	url = .
