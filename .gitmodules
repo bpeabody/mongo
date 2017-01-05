@@ -5035,6 +5035,9 @@
 [submodule "lp/df/bjt"]
 	path = lp/df/bjt
 	url = .
+[submodule "lp/gn/usp"]
+	path = lp/gn/usp
+	url = .
 [submodule "lp/hm/vxx"]
 	path = lp/hm/vxx
 	url = .
