@@ -9124,6 +9124,9 @@
 [submodule "ue/uc/kah"]
 	path = ue/uc/kah
 	url = .
+[submodule "ue/wj/xgb"]
+	path = ue/wj/xgb
+	url = .
 [submodule "uf/ay/ekp"]
 	path = uf/ay/ekp
 	url = .
