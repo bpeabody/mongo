@@ -22018,6 +22018,9 @@
 [submodule "kh/az/yuu"]
 	path = kh/az/yuu
 	url = .
+[submodule "kh/bp/jhq"]
+	path = kh/bp/jhq
+	url = .
 [submodule "kh/ca/waw"]
 	path = kh/ca/waw
 	url = .
