@@ -30850,6 +30850,9 @@
 [submodule "xh/qq/zmm"]
 	path = xh/qq/zmm
 	url = .
+[submodule "xh/rs/vvs"]
+	path = xh/rs/vvs
+	url = .
 [submodule "xh/sl/lsb"]
 	path = xh/sl/lsb
 	url = .
