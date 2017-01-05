@@ -3697,6 +3697,9 @@
 [submodule "dt/yp/igf"]
 	path = dt/yp/igf
 	url = .
+[submodule "dt/ze/hht"]
+	path = dt/ze/hht
+	url = .
 [submodule "dt/zn/tbi"]
 	path = dt/zn/tbi
 	url = .
