@@ -1444,6 +1444,9 @@
 [submodule "dx/zi/ivu"]
 	path = dx/zi/ivu
 	url = .
+[submodule "dy/vo/npp"]
+	path = dy/vo/npp
+	url = .
 [submodule "dy/xe/ogr"]
 	path = dy/xe/ogr
 	url = .
