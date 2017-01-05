@@ -39478,6 +39478,9 @@
 [submodule "ni/gw/bys"]
 	path = ni/gw/bys
 	url = .
+[submodule "ni/iv/bqy"]
+	path = ni/iv/bqy
+	url = .
 [submodule "ni/jp/kgv"]
 	path = ni/jp/kgv
 	url = .
