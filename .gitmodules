@@ -58552,6 +58552,9 @@
 [submodule "vu/ts/wbe"]
 	path = vu/ts/wbe
 	url = .
+[submodule "vu/vc/vfx"]
+	path = vu/vc/vfx
+	url = .
 [submodule "vu/vj/dqh"]
 	path = vu/vj/dqh
 	url = .
