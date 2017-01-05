@@ -18103,6 +18103,9 @@
 [submodule "sm/mg/efu"]
 	path = sm/mg/efu
 	url = .
+[submodule "sm/mr/ofy"]
+	path = sm/mr/ofy
+	url = .
 [submodule "sm/ob/szr"]
 	path = sm/ob/szr
 	url = .
