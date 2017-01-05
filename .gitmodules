@@ -53131,6 +53131,9 @@
 [submodule "sh/gu/agc"]
 	path = sh/gu/agc
 	url = .
+[submodule "sh/jk/kje"]
+	path = sh/jk/kje
+	url = .
 [submodule "sh/jn/biz"]
 	path = sh/jn/biz
 	url = .
