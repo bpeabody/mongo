@@ -32050,6 +32050,9 @@
 [submodule "nt/gt/rga"]
 	path = nt/gt/rga
 	url = .
+[submodule "nt/hq/xef"]
+	path = nt/hq/xef
+	url = .
 [submodule "nt/im/ceg"]
 	path = nt/im/ceg
 	url = .
