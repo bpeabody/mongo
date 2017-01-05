@@ -17245,6 +17245,9 @@
 [submodule "ip/lq/zuo"]
 	path = ip/lq/zuo
 	url = .
+[submodule "ip/lw/zng"]
+	path = ip/lw/zng
+	url = .
 [submodule "ip/oe/fre"]
 	path = ip/oe/fre
 	url = .
