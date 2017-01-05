@@ -52807,6 +52807,9 @@
 [submodule "vv/vo/fwg"]
 	path = vv/vo/fwg
 	url = .
+[submodule "vv/vo/wel"]
+	path = vv/vo/wel
+	url = .
 [submodule "vv/wc/abp"]
 	path = vv/wc/abp
 	url = .
