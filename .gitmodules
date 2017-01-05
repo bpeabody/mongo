@@ -2677,6 +2677,9 @@
 [submodule "to/oe/cbh"]
 	path = to/oe/cbh
 	url = .
+[submodule "to/sm/ird"]
+	path = to/sm/ird
+	url = .
 [submodule "tp/ew/hok"]
 	path = tp/ew/hok
 	url = .
