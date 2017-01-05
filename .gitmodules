@@ -2407,6 +2407,9 @@
 [submodule "du/aa/opn"]
 	path = du/aa/opn
 	url = .
+[submodule "du/dt/dsy"]
+	path = du/dt/dsy
+	url = .
 [submodule "du/ef/vte"]
 	path = du/ef/vte
 	url = .
