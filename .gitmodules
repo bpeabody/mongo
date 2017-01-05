@@ -6553,6 +6553,9 @@
 [submodule "ea/uc/vuz"]
 	path = ea/uc/vuz
 	url = .
+[submodule "ea/wx/mgc"]
+	path = ea/wx/mgc
+	url = .
 [submodule "ea/xg/uui"]
 	path = ea/xg/uui
 	url = .
