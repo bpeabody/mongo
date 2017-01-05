@@ -24262,6 +24262,9 @@
 [submodule "wk/pk/skv"]
 	path = wk/pk/skv
 	url = .
+[submodule "wk/sb/xqc"]
+	path = wk/sb/xqc
+	url = .
 [submodule "wk/yx/olp"]
 	path = wk/yx/olp
 	url = .
