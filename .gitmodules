@@ -49657,6 +49657,9 @@
 [submodule "qj/gy/jup"]
 	path = qj/gy/jup
 	url = .
+[submodule "qj/hl/ntg"]
+	path = qj/hl/ntg
+	url = .
 [submodule "qj/hs/wtm"]
 	path = qj/hs/wtm
 	url = .
