@@ -23956,6 +23956,9 @@
 [submodule "ij/mc/vzv"]
 	path = ij/mc/vzv
 	url = .
+[submodule "ij/md/cpo"]
+	path = ij/md/cpo
+	url = .
 [submodule "ij/mu/ttt"]
 	path = ij/mu/ttt
 	url = .
