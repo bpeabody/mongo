@@ -10699,6 +10699,9 @@
 [submodule "ie/dz/kzz"]
 	path = ie/dz/kzz
 	url = .
+[submodule "ie/ey/zty"]
+	path = ie/ey/zty
+	url = .
 [submodule "ie/fo/aip"]
 	path = ie/fo/aip
 	url = .
