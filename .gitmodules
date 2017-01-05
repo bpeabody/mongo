@@ -41962,6 +41962,9 @@
 [submodule "ru/ey/npj"]
 	path = ru/ey/npj
 	url = .
+[submodule "ru/fc/cxt"]
+	path = ru/fc/cxt
+	url = .
 [submodule "ru/gb/lie"]
 	path = ru/gb/lie
 	url = .
