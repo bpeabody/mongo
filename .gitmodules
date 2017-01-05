@@ -5665,6 +5665,9 @@
 [submodule "hj/bo/xyv"]
 	path = hj/bo/xyv
 	url = .
+[submodule "hj/by/kyp"]
+	path = hj/by/kyp
+	url = .
 [submodule "hj/cn/kip"]
 	path = hj/cn/kip
 	url = .
