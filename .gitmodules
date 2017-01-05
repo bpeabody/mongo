@@ -15409,6 +15409,9 @@
 [submodule "wu/oa/nqo"]
 	path = wu/oa/nqo
 	url = .
+[submodule "wu/qi/mbt"]
+	path = wu/qi/mbt
+	url = .
 [submodule "wu/rn/yxu"]
 	path = wu/rn/yxu
 	url = .
