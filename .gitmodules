@@ -2674,6 +2674,9 @@
 [submodule "kc/lz/aoc"]
 	path = kc/lz/aoc
 	url = .
+[submodule "kc/qn/sbz"]
+	path = kc/qn/sbz
+	url = .
 [submodule "kd/bn/yfg"]
 	path = kd/bn/yfg
 	url = .
