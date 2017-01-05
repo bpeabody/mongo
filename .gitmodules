@@ -41482,6 +41482,9 @@
 [submodule "uc/qs/adw"]
 	path = uc/qs/adw
 	url = .
+[submodule "uc/rg/gls"]
+	path = uc/rg/gls
+	url = .
 [submodule "uc/rn/pvr"]
 	path = uc/rn/pvr
 	url = .
