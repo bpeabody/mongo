@@ -40087,6 +40087,9 @@
 [submodule "tv/ky/xfb"]
 	path = tv/ky/xfb
 	url = .
+[submodule "tv/mf/xos"]
+	path = tv/mf/xos
+	url = .
 [submodule "tv/mu/swr"]
 	path = tv/mu/swr
 	url = .
