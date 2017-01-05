@@ -2686,6 +2686,9 @@
 [submodule "gs/ir/ore"]
 	path = gs/ir/ore
 	url = .
+[submodule "gs/jf/nfr"]
+	path = gs/jf/nfr
+	url = .
 [submodule "gs/kb/skp"]
 	path = gs/kb/skp
 	url = .
