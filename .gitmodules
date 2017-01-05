@@ -7927,6 +7927,9 @@
 [submodule "hg/cq/kfn"]
 	path = hg/cq/kfn
 	url = .
+[submodule "hg/dr/muy"]
+	path = hg/dr/muy
+	url = .
 [submodule "hg/hb/dxf"]
 	path = hg/hb/dxf
 	url = .
