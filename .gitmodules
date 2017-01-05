@@ -5344,6 +5344,9 @@
 [submodule "mj/yb/rtq"]
 	path = mj/yb/rtq
 	url = .
+[submodule "mj/za/rkk"]
+	path = mj/za/rkk
+	url = .
 [submodule "mk/gi/mho"]
 	path = mk/gi/mho
 	url = .
