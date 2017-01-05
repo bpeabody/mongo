@@ -30454,6 +30454,9 @@
 [submodule "ql/dk/ghw"]
 	path = ql/dk/ghw
 	url = .
+[submodule "ql/dr/xde"]
+	path = ql/dr/xde
+	url = .
 [submodule "ql/dx/tsa"]
 	path = ql/dx/tsa
 	url = .
