@@ -3496,6 +3496,9 @@
 [submodule "kw/fb/twy"]
 	path = kw/fb/twy
 	url = .
+[submodule "kw/hf/ygz"]
+	path = kw/hf/ygz
+	url = .
 [submodule "kw/if/tgv"]
 	path = kw/if/tgv
 	url = .
