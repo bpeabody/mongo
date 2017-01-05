@@ -9595,6 +9595,9 @@
 [submodule "iz/ok/dte"]
 	path = iz/ok/dte
 	url = .
+[submodule "iz/om/ebg"]
+	path = iz/om/ebg
+	url = .
 [submodule "iz/oo/ttu"]
 	path = iz/oo/ttu
 	url = .
