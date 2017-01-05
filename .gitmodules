@@ -5398,6 +5398,9 @@
 [submodule "yx/vp/nmk"]
 	path = yx/vp/nmk
 	url = .
+[submodule "yx/yt/xak"]
+	path = yx/yt/xak
+	url = .
 [submodule "yy/af/ewj"]
 	path = yy/af/ewj
 	url = .
