@@ -47551,6 +47551,9 @@
 [submodule "rt/yf/dnp"]
 	path = rt/yf/dnp
 	url = .
+[submodule "rt/yt/caj"]
+	path = rt/yt/caj
+	url = .
 [submodule "rt/yw/ddd"]
 	path = rt/yw/ddd
 	url = .
