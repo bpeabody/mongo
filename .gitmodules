@@ -17668,6 +17668,9 @@
 [submodule "me/pn/skl"]
 	path = me/pn/skl
 	url = .
+[submodule "me/rc/yak"]
+	path = me/rc/yak
+	url = .
 [submodule "me/ts/zce"]
 	path = me/ts/zce
 	url = .
