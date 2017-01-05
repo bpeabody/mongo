@@ -274,6 +274,9 @@
 [submodule "bc/mu/mnw"]
 	path = bc/mu/mnw
 	url = .
+[submodule "bc/om/zcn"]
+	path = bc/om/zcn
+	url = .
 [submodule "bc/pg/ysc"]
 	path = bc/pg/ysc
 	url = .
