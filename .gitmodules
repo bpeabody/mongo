@@ -9970,6 +9970,9 @@
 [submodule "nb/sh/esv"]
 	path = nb/sh/esv
 	url = .
+[submodule "nc/ez/vbw"]
+	path = nc/ez/vbw
+	url = .
 [submodule "nc/fj/qtj"]
 	path = nc/fj/qtj
 	url = .
