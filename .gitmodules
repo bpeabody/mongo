@@ -286,6 +286,9 @@
 [submodule "ag/sk/xef"]
 	path = ag/sk/xef
 	url = .
+[submodule "ag/tk/jlz"]
+	path = ag/tk/jlz
+	url = .
 [submodule "ag/tm/tbh"]
 	path = ag/tm/tbh
 	url = .
