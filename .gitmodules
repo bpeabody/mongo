@@ -1267,6 +1267,9 @@
 [submodule "bj/zd/uqi"]
 	path = bj/zd/uqi
 	url = .
+[submodule "bk/ao/nqi"]
+	path = bk/ao/nqi
+	url = .
 [submodule "bk/db/wzw"]
 	path = bk/db/wzw
 	url = .
