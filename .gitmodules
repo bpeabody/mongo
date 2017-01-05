@@ -10468,6 +10468,9 @@
 [submodule "jn/bh/smr"]
 	path = jn/bh/smr
 	url = .
+[submodule "jn/cc/wdt"]
+	path = jn/cc/wdt
+	url = .
 [submodule "jn/dm/lwx"]
 	path = jn/dm/lwx
 	url = .
