@@ -14134,6 +14134,9 @@
 [submodule "fo/ln/sfd"]
 	path = fo/ln/sfd
 	url = .
+[submodule "fo/nt/egh"]
+	path = fo/nt/egh
+	url = .
 [submodule "fo/og/vlu"]
 	path = fo/og/vlu
 	url = .
