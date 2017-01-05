@@ -27523,6 +27523,9 @@
 [submodule "ks/aa/chd"]
 	path = ks/aa/chd
 	url = .
+[submodule "ks/ad/hji"]
+	path = ks/ad/hji
+	url = .
 [submodule "ks/bq/ssi"]
 	path = ks/bq/ssi
 	url = .
