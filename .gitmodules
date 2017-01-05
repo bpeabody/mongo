@@ -7222,6 +7222,9 @@
 [submodule "hq/mo/thc"]
 	path = hq/mo/thc
 	url = .
+[submodule "hq/mr/hqe"]
+	path = hq/mr/hqe
+	url = .
 [submodule "hq/na/yso"]
 	path = hq/na/yso
 	url = .
