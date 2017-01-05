@@ -8062,6 +8062,9 @@
 [submodule "eq/vy/kof"]
 	path = eq/vy/kof
 	url = .
+[submodule "eq/wm/evv"]
+	path = eq/wm/evv
+	url = .
 [submodule "eq/wo/bkd"]
 	path = eq/wo/bkd
 	url = .
