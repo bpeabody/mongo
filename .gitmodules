@@ -934,6 +934,9 @@
 [submodule "aw/ov/odc"]
 	path = aw/ov/odc
 	url = .
+[submodule "aw/pk/phc"]
+	path = aw/pk/phc
+	url = .
 [submodule "ax/ak/dty"]
 	path = ax/ak/dty
 	url = .
