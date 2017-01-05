@@ -40273,6 +40273,9 @@
 [submodule "qu/ag/xwt"]
 	path = qu/ag/xwt
 	url = .
+[submodule "qu/aq/bcc"]
+	path = qu/aq/bcc
+	url = .
 [submodule "qu/bd/uxt"]
 	path = qu/bd/uxt
 	url = .
