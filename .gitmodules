@@ -6118,6 +6118,9 @@
 [submodule "lg/of/gmu"]
 	path = lg/of/gmu
 	url = .
+[submodule "lg/xi/wpf"]
+	path = lg/xi/wpf
+	url = .
 [submodule "lh/bg/hqq"]
 	path = lh/bg/hqq
 	url = .
