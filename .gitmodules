@@ -25855,6 +25855,9 @@
 [submodule "nt/bd/eud"]
 	path = nt/bd/eud
 	url = .
+[submodule "nt/eg/ukj"]
+	path = nt/eg/ukj
+	url = .
 [submodule "nt/gt/rga"]
 	path = nt/gt/rga
 	url = .
