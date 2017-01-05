@@ -8680,6 +8680,9 @@
 [submodule "hl/li/fxw"]
 	path = hl/li/fxw
 	url = .
+[submodule "hl/ln/cgn"]
+	path = hl/ln/cgn
+	url = .
 [submodule "hl/ny/csy"]
 	path = hl/ny/csy
 	url = .
