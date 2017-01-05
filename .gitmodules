@@ -11461,6 +11461,9 @@
 [submodule "ix/rv/uwh"]
 	path = ix/rv/uwh
 	url = .
+[submodule "ix/sa/eae"]
+	path = ix/sa/eae
+	url = .
 [submodule "ix/tq/lyo"]
 	path = ix/tq/lyo
 	url = .
