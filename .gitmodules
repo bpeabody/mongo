@@ -53509,6 +53509,9 @@
 [submodule "ta/oc/fgs"]
 	path = ta/oc/fgs
 	url = .
+[submodule "ta/oy/hkp"]
+	path = ta/oy/hkp
+	url = .
 [submodule "ta/ps/ihc"]
 	path = ta/ps/ihc
 	url = .
