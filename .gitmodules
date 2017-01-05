@@ -49399,6 +49399,9 @@
 [submodule "rs/vt/ahl"]
 	path = rs/vt/ahl
 	url = .
+[submodule "rs/wk/bos"]
+	path = rs/wk/bos
+	url = .
 [submodule "rs/wt/bko"]
 	path = rs/wt/bko
 	url = .
