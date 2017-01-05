@@ -2926,6 +2926,9 @@
 [submodule "fd/sm/msd"]
 	path = fd/sm/msd
 	url = .
+[submodule "fe/af/tmf"]
+	path = fe/af/tmf
+	url = .
 [submodule "fe/cq/ndn"]
 	path = fe/cq/ndn
 	url = .
