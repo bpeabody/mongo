@@ -5593,6 +5593,9 @@
 [submodule "rl/lg/uuq"]
 	path = rl/lg/uuq
 	url = .
+[submodule "rl/ly/peo"]
+	path = rl/ly/peo
+	url = .
 [submodule "rl/mh/pdz"]
 	path = rl/mh/pdz
 	url = .
