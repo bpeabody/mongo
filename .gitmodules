@@ -35914,6 +35914,9 @@
 [submodule "wj/lo/qpb"]
 	path = wj/lo/qpb
 	url = .
+[submodule "wj/qk/lrm"]
+	path = wj/qk/lrm
+	url = .
 [submodule "wj/si/ada"]
 	path = wj/si/ada
 	url = .
