@@ -15517,6 +15517,9 @@
 [submodule "ir/ib/rka"]
 	path = ir/ib/rka
 	url = .
+[submodule "ir/jd/ijc"]
+	path = ir/jd/ijc
+	url = .
 [submodule "ir/jt/fti"]
 	path = ir/jt/fti
 	url = .
