@@ -8917,6 +8917,9 @@
 [submodule "ic/nf/jpt"]
 	path = ic/nf/jpt
 	url = .
+[submodule "ic/ni/ubb"]
+	path = ic/ni/ubb
+	url = .
 [submodule "ic/wa/yyu"]
 	path = ic/wa/yyu
 	url = .
