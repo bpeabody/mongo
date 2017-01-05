@@ -11041,6 +11041,9 @@
 [submodule "uy/jq/uwu"]
 	path = uy/jq/uwu
 	url = .
+[submodule "uy/nd/ris"]
+	path = uy/nd/ris
+	url = .
 [submodule "uy/pk/yil"]
 	path = uy/pk/yil
 	url = .
