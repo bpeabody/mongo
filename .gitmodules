@@ -29134,6 +29134,9 @@
 [submodule "kx/yl/mxo"]
 	path = kx/yl/mxo
 	url = .
+[submodule "kx/ym/mpc"]
+	path = kx/ym/mpc
+	url = .
 [submodule "kx/ym/xhw"]
 	path = kx/ym/xhw
 	url = .
