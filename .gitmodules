@@ -6886,6 +6886,9 @@
 [submodule "my/yc/qct"]
 	path = my/yc/qct
 	url = .
+[submodule "my/ys/mjl"]
+	path = my/ys/mjl
+	url = .
 [submodule "mz/aj/vvl"]
 	path = mz/aj/vvl
 	url = .
