@@ -8656,6 +8656,9 @@
 [submodule "od/rq/knf"]
 	path = od/rq/knf
 	url = .
+[submodule "od/vn/hkk"]
+	path = od/vn/hkk
+	url = .
 [submodule "od/xl/vky"]
 	path = od/xl/vky
 	url = .
