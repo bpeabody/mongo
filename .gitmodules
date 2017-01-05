@@ -16066,6 +16066,9 @@
 [submodule "qb/kc/fco"]
 	path = qb/kc/fco
 	url = .
+[submodule "qb/mn/zhn"]
+	path = qb/mn/zhn
+	url = .
 [submodule "qb/ng/ozy"]
 	path = qb/ng/ozy
 	url = .
