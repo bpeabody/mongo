@@ -22795,6 +22795,9 @@
 [submodule "lt/wp/tcf"]
 	path = lt/wp/tcf
 	url = .
+[submodule "lt/wq/fkl"]
+	path = lt/wq/fkl
+	url = .
 [submodule "lt/xm/ntb"]
 	path = lt/xm/ntb
 	url = .
