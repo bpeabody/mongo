@@ -187,6 +187,9 @@
 [submodule "ac/vw/oxi"]
 	path = ac/vw/oxi
 	url = .
+[submodule "ac/wd/txd"]
+	path = ac/wd/txd
+	url = .
 [submodule "ac/wk/cya"]
 	path = ac/wk/cya
 	url = .
