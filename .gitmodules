@@ -11590,6 +11590,9 @@
 [submodule "ko/uk/vwv"]
 	path = ko/uk/vwv
 	url = .
+[submodule "ko/ur/zhf"]
+	path = ko/ur/zhf
+	url = .
 [submodule "ko/xh/ucl"]
 	path = ko/xh/ucl
 	url = .
