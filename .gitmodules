@@ -13306,6 +13306,9 @@
 [submodule "lc/gy/nau"]
 	path = lc/gy/nau
 	url = .
+[submodule "lc/hj/tdc"]
+	path = lc/hj/tdc
+	url = .
 [submodule "lc/hq/kza"]
 	path = lc/hq/kza
 	url = .
