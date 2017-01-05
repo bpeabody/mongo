@@ -29332,6 +29332,9 @@
 [submodule "sh/rj/wrk"]
 	path = sh/rj/wrk
 	url = .
+[submodule "sh/ry/tcn"]
+	path = sh/ry/tcn
+	url = .
 [submodule "sh/so/khe"]
 	path = sh/so/khe
 	url = .
