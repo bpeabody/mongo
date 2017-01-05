@@ -8785,6 +8785,9 @@
 [submodule "ih/pd/quz"]
 	path = ih/pd/quz
 	url = .
+[submodule "ih/qf/zub"]
+	path = ih/qf/zub
+	url = .
 [submodule "ih/ro/iuv"]
 	path = ih/ro/iuv
 	url = .
