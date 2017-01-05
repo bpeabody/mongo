@@ -33298,6 +33298,9 @@
 [submodule "vd/eu/zuo"]
 	path = vd/eu/zuo
 	url = .
+[submodule "vd/ft/yjm"]
+	path = vd/ft/yjm
+	url = .
 [submodule "vd/ja/aqp"]
 	path = vd/ja/aqp
 	url = .
