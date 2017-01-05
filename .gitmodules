@@ -46780,6 +46780,9 @@
 [submodule "yq/ku/edi"]
 	path = yq/ku/edi
 	url = .
+[submodule "yq/mi/xkq"]
+	path = yq/mi/xkq
+	url = .
 [submodule "yq/pq/weo"]
 	path = yq/pq/weo
 	url = .
