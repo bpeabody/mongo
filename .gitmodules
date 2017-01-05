@@ -4909,6 +4909,9 @@
 [submodule "qx/cf/vga"]
 	path = qx/cf/vga
 	url = .
+[submodule "qx/dk/zcd"]
+	path = qx/dk/zcd
+	url = .
 [submodule "qx/ed/jzr"]
 	path = qx/ed/jzr
 	url = .
