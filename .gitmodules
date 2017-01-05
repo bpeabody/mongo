@@ -22147,6 +22147,9 @@
 [submodule "ir/ib/rka"]
 	path = ir/ib/rka
 	url = .
+[submodule "ir/ic/onr"]
+	path = ir/ic/onr
+	url = .
 [submodule "ir/jd/ijc"]
 	path = ir/jd/ijc
 	url = .
