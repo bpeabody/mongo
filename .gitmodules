@@ -1225,6 +1225,9 @@
 [submodule "dk/yf/mse"]
 	path = dk/yf/mse
 	url = .
+[submodule "dl/ay/bsi"]
+	path = dl/ay/bsi
+	url = .
 [submodule "dl/pt/yqs"]
 	path = dl/pt/yqs
 	url = .
