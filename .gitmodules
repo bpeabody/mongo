@@ -34711,6 +34711,9 @@
 [submodule "lk/vk/pbu"]
 	path = lk/vk/pbu
 	url = .
+[submodule "lk/vy/iyi"]
+	path = lk/vy/iyi
+	url = .
 [submodule "lk/wn/xet"]
 	path = lk/wn/xet
 	url = .
