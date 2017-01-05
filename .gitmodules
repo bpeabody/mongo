@@ -42616,6 +42616,9 @@
 [submodule "sc/kz/rly"]
 	path = sc/kz/rly
 	url = .
+[submodule "sc/lf/ifq"]
+	path = sc/lf/ifq
+	url = .
 [submodule "sc/lz/txs"]
 	path = sc/lz/txs
 	url = .
