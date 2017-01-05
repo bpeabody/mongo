@@ -47407,6 +47407,9 @@
 [submodule "qe/ed/ezh"]
 	path = qe/ed/ezh
 	url = .
+[submodule "qe/ej/gpb"]
+	path = qe/ej/gpb
+	url = .
 [submodule "qe/ej/ogq"]
 	path = qe/ej/ogq
 	url = .
