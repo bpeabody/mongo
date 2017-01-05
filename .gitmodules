@@ -15085,6 +15085,9 @@
 [submodule "np/lr/dsy"]
 	path = np/lr/dsy
 	url = .
+[submodule "np/mb/hxg"]
+	path = np/mb/hxg
+	url = .
 [submodule "np/mi/umv"]
 	path = np/mi/umv
 	url = .
