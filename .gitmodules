@@ -2506,6 +2506,9 @@
 [submodule "cf/su/umu"]
 	path = cf/su/umu
 	url = .
+[submodule "cf/vk/fdz"]
+	path = cf/vk/fdz
+	url = .
 [submodule "cf/xq/xkp"]
 	path = cf/xq/xkp
 	url = .
