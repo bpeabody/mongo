@@ -7759,6 +7759,9 @@
 [submodule "ec/zs/uib"]
 	path = ec/zs/uib
 	url = .
+[submodule "ed/bq/cgp"]
+	path = ed/bq/cgp
+	url = .
 [submodule "ed/br/ytj"]
 	path = ed/br/ytj
 	url = .
