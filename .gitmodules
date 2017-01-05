@@ -2224,6 +2224,9 @@
 [submodule "bx/is/wrr"]
 	path = bx/is/wrr
 	url = .
+[submodule "bx/jy/pnd"]
+	path = bx/jy/pnd
+	url = .
 [submodule "bx/ls/zka"]
 	path = bx/ls/zka
 	url = .
