@@ -448,6 +448,9 @@
 [submodule "dd/fn/srx"]
 	path = dd/fn/srx
 	url = .
+[submodule "dd/xk/niz"]
+	path = dd/xk/niz
+	url = .
 [submodule "dd/zu/ikx"]
 	path = dd/zu/ikx
 	url = .
