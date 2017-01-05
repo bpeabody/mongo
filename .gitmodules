@@ -340,6 +340,9 @@
 [submodule "bi/kc/rba"]
 	path = bi/kc/rba
 	url = .
+[submodule "bj/bp/ipn"]
+	path = bj/bp/ipn
+	url = .
 [submodule "bj/em/jzh"]
 	path = bj/em/jzh
 	url = .
