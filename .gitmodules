@@ -3718,6 +3718,9 @@
 [submodule "uo/qv/nrn"]
 	path = uo/qv/nrn
 	url = .
+[submodule "up/cc/pds"]
+	path = up/cc/pds
+	url = .
 [submodule "up/mw/jeg"]
 	path = up/mw/jeg
 	url = .
