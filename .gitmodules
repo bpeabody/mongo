@@ -15349,6 +15349,9 @@
 [submodule "iz/qn/jbx"]
 	path = iz/qn/jbx
 	url = .
+[submodule "iz/rx/rgt"]
+	path = iz/rx/rgt
+	url = .
 [submodule "iz/tj/kak"]
 	path = iz/tj/kak
 	url = .
