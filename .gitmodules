@@ -21475,6 +21475,9 @@
 [submodule "nt/vi/cxd"]
 	path = nt/vi/cxd
 	url = .
+[submodule "nt/vz/ome"]
+	path = nt/vz/ome
+	url = .
 [submodule "nt/xe/rix"]
 	path = nt/xe/rix
 	url = .
