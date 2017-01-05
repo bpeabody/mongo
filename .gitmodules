@@ -5923,6 +5923,9 @@
 [submodule "ls/yw/arg"]
 	path = ls/yw/arg
 	url = .
+[submodule "lt/ai/tij"]
+	path = lt/ai/tij
+	url = .
 [submodule "lt/dd/gxj"]
 	path = lt/dd/gxj
 	url = .
