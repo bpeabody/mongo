@@ -17077,6 +17077,9 @@
 [submodule "gt/wh/isl"]
 	path = gt/wh/isl
 	url = .
+[submodule "gt/yo/oqm"]
+	path = gt/yo/oqm
+	url = .
 [submodule "gt/yo/rjt"]
 	path = gt/yo/rjt
 	url = .
