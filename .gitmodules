@@ -33232,6 +33232,9 @@
 [submodule "pe/ul/hmr"]
 	path = pe/ul/hmr
 	url = .
+[submodule "pe/ve/mqa"]
+	path = pe/ve/mqa
+	url = .
 [submodule "pe/ve/qnp"]
 	path = pe/ve/qnp
 	url = .
