@@ -2659,6 +2659,9 @@
 [submodule "bj/mw/cha"]
 	path = bj/mw/cha
 	url = .
+[submodule "bj/pf/amp"]
+	path = bj/pf/amp
+	url = .
 [submodule "bj/qn/vtt"]
 	path = bj/qn/vtt
 	url = .
