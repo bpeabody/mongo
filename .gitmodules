@@ -15808,6 +15808,9 @@
 [submodule "gk/nm/lkv"]
 	path = gk/nm/lkv
 	url = .
+[submodule "gk/no/jbb"]
+	path = gk/no/jbb
+	url = .
 [submodule "gk/nz/uti"]
 	path = gk/nz/uti
 	url = .
