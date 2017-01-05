@@ -1846,6 +1846,9 @@
 [submodule "bd/zb/grr"]
 	path = bd/zb/grr
 	url = .
+[submodule "be/ao/bvm"]
+	path = be/ao/bvm
+	url = .
 [submodule "be/ce/aum"]
 	path = be/ce/aum
 	url = .
