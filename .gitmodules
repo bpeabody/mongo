@@ -6190,6 +6190,9 @@
 [submodule "fq/xn/cfg"]
 	path = fq/xn/cfg
 	url = .
+[submodule "fq/ys/jrf"]
+	path = fq/ys/jrf
+	url = .
 [submodule "fr/dm/wdv"]
 	path = fr/dm/wdv
 	url = .
