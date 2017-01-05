@@ -36898,6 +36898,9 @@
 [submodule "oi/ja/rtw"]
 	path = oi/ja/rtw
 	url = .
+[submodule "oi/lc/glk"]
+	path = oi/lc/glk
+	url = .
 [submodule "oi/lw/dvw"]
 	path = oi/lw/dvw
 	url = .
