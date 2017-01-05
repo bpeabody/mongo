@@ -22648,6 +22648,9 @@
 [submodule "tu/ov/zff"]
 	path = tu/ov/zff
 	url = .
+[submodule "tu/pb/jnx"]
+	path = tu/pb/jnx
+	url = .
 [submodule "tu/ph/kra"]
 	path = tu/ph/kra
 	url = .
