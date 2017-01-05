@@ -31642,6 +31642,9 @@
 [submodule "kt/ff/mkb"]
 	path = kt/ff/mkb
 	url = .
+[submodule "kt/hq/gty"]
+	path = kt/hq/gty
+	url = .
 [submodule "kt/ix/kxr"]
 	path = kt/ix/kxr
 	url = .
