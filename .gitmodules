@@ -4678,6 +4678,9 @@
 [submodule "iy/nl/jxa"]
 	path = iy/nl/jxa
 	url = .
+[submodule "iy/ny/vlq"]
+	path = iy/ny/vlq
+	url = .
 [submodule "iy/ou/aim"]
 	path = iy/ou/aim
 	url = .
