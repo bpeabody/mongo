@@ -7276,6 +7276,9 @@
 [submodule "fs/re/idu"]
 	path = fs/re/idu
 	url = .
+[submodule "fs/tm/njg"]
+	path = fs/tm/njg
+	url = .
 [submodule "fs/uw/zlj"]
 	path = fs/uw/zlj
 	url = .
