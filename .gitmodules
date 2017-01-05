@@ -5326,6 +5326,9 @@
 [submodule "eu/ey/mct"]
 	path = eu/ey/mct
 	url = .
+[submodule "eu/mj/xyz"]
+	path = eu/mj/xyz
+	url = .
 [submodule "eu/oj/lht"]
 	path = eu/oj/lht
 	url = .
