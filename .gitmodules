@@ -8833,6 +8833,9 @@
 [submodule "xx/vp/eum"]
 	path = xx/vp/eum
 	url = .
+[submodule "xx/xg/wav"]
+	path = xx/xg/wav
+	url = .
 [submodule "xy/pr/hcb"]
 	path = xy/pr/hcb
 	url = .
