@@ -4501,6 +4501,9 @@
 [submodule "tu/zx/shz"]
 	path = tu/zx/shz
 	url = .
+[submodule "tv/ay/kig"]
+	path = tv/ay/kig
+	url = .
 [submodule "tw/bv/luz"]
 	path = tw/bv/luz
 	url = .
