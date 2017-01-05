@@ -51775,6 +51775,9 @@
 [submodule "rt/df/etm"]
 	path = rt/df/etm
 	url = .
+[submodule "rt/ec/yav"]
+	path = rt/ec/yav
+	url = .
 [submodule "rt/en/jjm"]
 	path = rt/en/jjm
 	url = .
