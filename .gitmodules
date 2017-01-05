@@ -43693,6 +43693,9 @@
 [submodule "uf/ep/gye"]
 	path = uf/ep/gye
 	url = .
+[submodule "uf/fx/waj"]
+	path = uf/fx/waj
+	url = .
 [submodule "uf/gf/vzo"]
 	path = uf/gf/vzo
 	url = .
