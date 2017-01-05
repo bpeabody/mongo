@@ -17785,6 +17785,9 @@
 [submodule "lu/gu/xro"]
 	path = lu/gu/xro
 	url = .
+[submodule "lu/hc/tce"]
+	path = lu/hc/tce
+	url = .
 [submodule "lu/kv/dsc"]
 	path = lu/kv/dsc
 	url = .
