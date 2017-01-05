@@ -7885,6 +7885,9 @@
 [submodule "xe/lw/gbb"]
 	path = xe/lw/gbb
 	url = .
+[submodule "xe/mg/uld"]
+	path = xe/mg/uld
+	url = .
 [submodule "xe/qv/bka"]
 	path = xe/qv/bka
 	url = .
