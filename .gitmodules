@@ -13897,6 +13897,9 @@
 [submodule "ot/yg/eqc"]
 	path = ot/yg/eqc
 	url = .
+[submodule "ot/yj/hls"]
+	path = ot/yj/hls
+	url = .
 [submodule "ot/zh/kdd"]
 	path = ot/zh/kdd
 	url = .
