@@ -8863,6 +8863,9 @@
 [submodule "rc/zk/mwp"]
 	path = rc/zk/mwp
 	url = .
+[submodule "rd/cg/eon"]
+	path = rd/cg/eon
+	url = .
 [submodule "rd/if/upv"]
 	path = rd/if/upv
 	url = .
