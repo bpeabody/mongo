@@ -10108,6 +10108,9 @@
 [submodule "of/xo/guk"]
 	path = of/xo/guk
 	url = .
+[submodule "og/gp/xwg"]
+	path = og/gp/xwg
+	url = .
 [submodule "og/lr/pdf"]
 	path = og/lr/pdf
 	url = .
