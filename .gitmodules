@@ -655,6 +655,9 @@
 [submodule "il/kk/qdt"]
 	path = il/kk/qdt
 	url = .
+[submodule "il/kx/bdj"]
+	path = il/kx/bdj
+	url = .
 [submodule "im/cb/hrk"]
 	path = im/cb/hrk
 	url = .
