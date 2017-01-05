@@ -397,6 +397,9 @@
 [submodule "ak/tt/dck"]
 	path = ak/tt/dck
 	url = .
+[submodule "ak/va/qrx"]
+	path = ak/va/qrx
+	url = .
 [submodule "ak/xl/arn"]
 	path = ak/xl/arn
 	url = .
