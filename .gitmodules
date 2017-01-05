@@ -14467,6 +14467,9 @@
 [submodule "kl/fk/cqk"]
 	path = kl/fk/cqk
 	url = .
+[submodule "kl/fw/djq"]
+	path = kl/fw/djq
+	url = .
 [submodule "kl/ha/nad"]
 	path = kl/ha/nad
 	url = .
