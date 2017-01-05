@@ -559,6 +559,9 @@
 [submodule "ka/dj/spy"]
 	path = ka/dj/spy
 	url = .
+[submodule "kc/lz/aoc"]
+	path = kc/lz/aoc
+	url = .
 [submodule "kd/hs/jzp"]
 	path = kd/hs/jzp
 	url = .
