@@ -148,6 +148,9 @@
 [submodule "lh/cu/qpy"]
 	path = lh/cu/qpy
 	url = .
+[submodule "md/hr/guc"]
+	path = md/hr/guc
+	url = .
 [submodule "mo/ei/xti"]
 	path = mo/ei/xti
 	url = .
