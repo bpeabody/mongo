@@ -9223,6 +9223,9 @@
 [submodule "md/rp/dqj"]
 	path = md/rp/dqj
 	url = .
+[submodule "md/td/vbp"]
+	path = md/td/vbp
+	url = .
 [submodule "md/vz/fis"]
 	path = md/vz/fis
 	url = .
