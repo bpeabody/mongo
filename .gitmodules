@@ -2053,6 +2053,9 @@
 [submodule "xr/gm/txc"]
 	path = xr/gm/txc
 	url = .
+[submodule "xr/mq/kff"]
+	path = xr/mq/kff
+	url = .
 [submodule "xr/pm/ivw"]
 	path = xr/pm/ivw
 	url = .
