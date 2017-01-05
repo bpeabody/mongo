@@ -13627,6 +13627,9 @@
 [submodule "qf/si/pwo"]
 	path = qf/si/pwo
 	url = .
+[submodule "qf/uc/ksh"]
+	path = qf/uc/ksh
+	url = .
 [submodule "qf/xn/ivb"]
 	path = qf/xn/ivb
 	url = .
