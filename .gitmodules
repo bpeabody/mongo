@@ -25258,6 +25258,9 @@
 [submodule "jh/ci/pto"]
 	path = jh/ci/pto
 	url = .
+[submodule "jh/ea/pdc"]
+	path = jh/ea/pdc
+	url = .
 [submodule "jh/eo/khr"]
 	path = jh/eo/khr
 	url = .
