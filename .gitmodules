@@ -51247,6 +51247,9 @@
 [submodule "yq/ku/edi"]
 	path = yq/ku/edi
 	url = .
+[submodule "yq/ls/oxr"]
+	path = yq/ls/oxr
+	url = .
 [submodule "yq/mi/xkq"]
 	path = yq/mi/xkq
 	url = .
