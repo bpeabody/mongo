@@ -4843,6 +4843,9 @@
 [submodule "cx/ja/lfw"]
 	path = cx/ja/lfw
 	url = .
+[submodule "cx/ky/msd"]
+	path = cx/ky/msd
+	url = .
 [submodule "cx/ll/yqi"]
 	path = cx/ll/yqi
 	url = .
