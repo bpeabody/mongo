@@ -18187,6 +18187,9 @@
 [submodule "sq/hw/cof"]
 	path = sq/hw/cof
 	url = .
+[submodule "sq/ie/xmg"]
+	path = sq/ie/xmg
+	url = .
 [submodule "sq/nq/kmg"]
 	path = sq/nq/kmg
 	url = .
