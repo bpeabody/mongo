@@ -17224,6 +17224,9 @@
 [submodule "lt/mi/gxj"]
 	path = lt/mi/gxj
 	url = .
+[submodule "lt/mj/szt"]
+	path = lt/mj/szt
+	url = .
 [submodule "lt/ns/iaj"]
 	path = lt/ns/iaj
 	url = .
