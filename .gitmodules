@@ -36784,6 +36784,9 @@
 [submodule "tc/bz/pdn"]
 	path = tc/bz/pdn
 	url = .
+[submodule "tc/ee/giy"]
+	path = tc/ee/giy
+	url = .
 [submodule "tc/fa/yxt"]
 	path = tc/fa/yxt
 	url = .
