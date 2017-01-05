@@ -42829,6 +42829,9 @@
 [submodule "uu/cf/rjb"]
 	path = uu/cf/rjb
 	url = .
+[submodule "uu/cp/vfc"]
+	path = uu/cp/vfc
+	url = .
 [submodule "uu/dt/hkz"]
 	path = uu/dt/hkz
 	url = .
