@@ -11845,6 +11845,9 @@
 [submodule "jz/xw/kha"]
 	path = jz/xw/kha
 	url = .
+[submodule "jz/zx/clp"]
+	path = jz/zx/clp
+	url = .
 [submodule "ka/bu/jqs"]
 	path = ka/bu/jqs
 	url = .
