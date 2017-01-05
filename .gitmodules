@@ -12010,6 +12010,9 @@
 [submodule "ej/qk/zpi"]
 	path = ej/qk/zpi
 	url = .
+[submodule "ej/rb/giy"]
+	path = ej/rb/giy
+	url = .
 [submodule "ej/re/dot"]
 	path = ej/re/dot
 	url = .
