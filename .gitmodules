@@ -53836,6 +53836,9 @@
 [submodule "xg/os/amf"]
 	path = xg/os/amf
 	url = .
+[submodule "xg/rc/knr"]
+	path = xg/rc/knr
+	url = .
 [submodule "xg/rm/jgs"]
 	path = xg/rm/jgs
 	url = .
