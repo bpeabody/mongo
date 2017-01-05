@@ -24859,6 +24859,9 @@
 [submodule "ki/ql/wuo"]
 	path = ki/ql/wuo
 	url = .
+[submodule "ki/qz/sfb"]
+	path = ki/qz/sfb
+	url = .
 [submodule "ki/rs/nhs"]
 	path = ki/rs/nhs
 	url = .
