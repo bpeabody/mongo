@@ -21622,6 +21622,9 @@
 [submodule "ix/ak/the"]
 	path = ix/ak/the
 	url = .
+[submodule "ix/az/beo"]
+	path = ix/az/beo
+	url = .
 [submodule "ix/bc/sax"]
 	path = ix/bc/sax
 	url = .
