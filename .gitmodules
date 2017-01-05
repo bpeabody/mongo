@@ -16417,6 +16417,9 @@
 [submodule "tz/hg/kgf"]
 	path = tz/hg/kgf
 	url = .
+[submodule "tz/lr/dyn"]
+	path = tz/lr/dyn
+	url = .
 [submodule "tz/ma/kzz"]
 	path = tz/ma/kzz
 	url = .
