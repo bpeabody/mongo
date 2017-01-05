@@ -5353,6 +5353,9 @@
 [submodule "wn/du/hak"]
 	path = wn/du/hak
 	url = .
+[submodule "wn/md/mim"]
+	path = wn/md/mim
+	url = .
 [submodule "wn/nq/yug"]
 	path = wn/nq/yug
 	url = .
