@@ -1942,6 +1942,9 @@
 [submodule "cr/qj/ldb"]
 	path = cr/qj/ldb
 	url = .
+[submodule "cr/rl/tdw"]
+	path = cr/rl/tdw
+	url = .
 [submodule "cr/up/sno"]
 	path = cr/up/sno
 	url = .
