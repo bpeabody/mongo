@@ -17152,6 +17152,9 @@
 [submodule "sg/jw/cmm"]
 	path = sg/jw/cmm
 	url = .
+[submodule "sg/nl/fix"]
+	path = sg/nl/fix
+	url = .
 [submodule "sg/ql/xrk"]
 	path = sg/ql/xrk
 	url = .
