@@ -40870,6 +40870,9 @@
 [submodule "sw/lz/ati"]
 	path = sw/lz/ati
 	url = .
+[submodule "sw/md/ozw"]
+	path = sw/md/ozw
+	url = .
 [submodule "sw/oq/ybi"]
 	path = sw/oq/ybi
 	url = .
