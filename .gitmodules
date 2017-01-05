@@ -24616,6 +24616,9 @@
 [submodule "xz/ak/mrh"]
 	path = xz/ak/mrh
 	url = .
+[submodule "xz/eh/ruz"]
+	path = xz/eh/ruz
+	url = .
 [submodule "xz/ep/itb"]
 	path = xz/ep/itb
 	url = .
