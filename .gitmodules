@@ -3364,6 +3364,9 @@
 [submodule "pc/ji/ydi"]
 	path = pc/ji/ydi
 	url = .
+[submodule "pc/ub/sxp"]
+	path = pc/ub/sxp
+	url = .
 [submodule "pc/vp/zjj"]
 	path = pc/vp/zjj
 	url = .
