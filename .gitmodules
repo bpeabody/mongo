@@ -22474,6 +22474,9 @@
 [submodule "jr/fh/awa"]
 	path = jr/fh/awa
 	url = .
+[submodule "jr/gm/lpu"]
+	path = jr/gm/lpu
+	url = .
 [submodule "jr/iu/oka"]
 	path = jr/iu/oka
 	url = .
