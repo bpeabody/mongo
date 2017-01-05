@@ -35371,6 +35371,9 @@
 [submodule "yc/hn/ycl"]
 	path = yc/hn/ycl
 	url = .
+[submodule "yc/kc/zjy"]
+	path = yc/kc/zjy
+	url = .
 [submodule "yc/lq/nep"]
 	path = yc/lq/nep
 	url = .
