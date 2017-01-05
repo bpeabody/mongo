@@ -25432,6 +25432,9 @@
 [submodule "xb/uy/gma"]
 	path = xb/uy/gma
 	url = .
+[submodule "xb/vt/pvj"]
+	path = xb/vt/pvj
+	url = .
 [submodule "xb/wr/xfl"]
 	path = xb/wr/xfl
 	url = .
