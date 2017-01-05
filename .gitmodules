@@ -964,6 +964,9 @@
 [submodule "ak/ey/bsl"]
 	path = ak/ey/bsl
 	url = .
+[submodule "ak/fl/vul"]
+	path = ak/fl/vul
+	url = .
 [submodule "ak/id/bjv"]
 	path = ak/id/bjv
 	url = .
