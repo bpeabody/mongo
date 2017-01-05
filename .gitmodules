@@ -53008,6 +53008,9 @@
 [submodule "wn/qj/hel"]
 	path = wn/qj/hel
 	url = .
+[submodule "wn/rx/cvl"]
+	path = wn/rx/cvl
+	url = .
 [submodule "wn/sp/iaf"]
 	path = wn/sp/iaf
 	url = .
