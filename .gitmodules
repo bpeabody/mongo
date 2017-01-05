@@ -20101,6 +20101,9 @@
 [submodule "jd/zj/zss"]
 	path = jd/zj/zss
 	url = .
+[submodule "jd/zk/wve"]
+	path = jd/zk/wve
+	url = .
 [submodule "je/ct/lek"]
 	path = je/ct/lek
 	url = .
