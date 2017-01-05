@@ -29395,6 +29395,9 @@
 [submodule "kr/qo/bep"]
 	path = kr/qo/bep
 	url = .
+[submodule "kr/sq/mqp"]
+	path = kr/sq/mqp
+	url = .
 [submodule "kr/td/swu"]
 	path = kr/td/swu
 	url = .
