@@ -12265,6 +12265,9 @@
 [submodule "tl/kp/pel"]
 	path = tl/kp/pel
 	url = .
+[submodule "tl/pb/qbd"]
+	path = tl/pb/qbd
+	url = .
 [submodule "tl/rn/gqg"]
 	path = tl/rn/gqg
 	url = .
