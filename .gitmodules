@@ -9982,6 +9982,9 @@
 [submodule "ni/dk/ysa"]
 	path = ni/dk/ysa
 	url = .
+[submodule "ni/eh/igv"]
+	path = ni/eh/igv
+	url = .
 [submodule "ni/fr/cmc"]
 	path = ni/fr/cmc
 	url = .
