@@ -2596,6 +2596,9 @@
 [submodule "pv/de/uww"]
 	path = pv/de/uww
 	url = .
+[submodule "pv/qd/wpf"]
+	path = pv/qd/wpf
+	url = .
 [submodule "pv/wp/pgj"]
 	path = pv/wp/pgj
 	url = .
