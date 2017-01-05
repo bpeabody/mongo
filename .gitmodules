@@ -19480,6 +19480,9 @@
 [submodule "lw/ip/xvc"]
 	path = lw/ip/xvc
 	url = .
+[submodule "lw/ja/mrj"]
+	path = lw/ja/mrj
+	url = .
 [submodule "lw/jm/qzf"]
 	path = lw/jm/qzf
 	url = .
