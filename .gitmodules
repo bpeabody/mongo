@@ -4855,6 +4855,9 @@
 [submodule "np/se/nik"]
 	path = np/se/nik
 	url = .
+[submodule "nq/ac/rer"]
+	path = nq/ac/rer
+	url = .
 [submodule "nq/is/wab"]
 	path = nq/is/wab
 	url = .
