@@ -31042,6 +31042,9 @@
 [submodule "tt/ux/trt"]
 	path = tt/ux/trt
 	url = .
+[submodule "tt/vn/bct"]
+	path = tt/vn/bct
+	url = .
 [submodule "tt/vn/bua"]
 	path = tt/vn/bua
 	url = .
