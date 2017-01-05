@@ -13564,6 +13564,9 @@
 [submodule "nk/ua/cmg"]
 	path = nk/ua/cmg
 	url = .
+[submodule "nk/vf/gln"]
+	path = nk/vf/gln
+	url = .
 [submodule "nk/vj/fxk"]
 	path = nk/vj/fxk
 	url = .
