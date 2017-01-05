@@ -3511,6 +3511,9 @@
 [submodule "hx/el/gge"]
 	path = hx/el/gge
 	url = .
+[submodule "hx/hq/ubv"]
+	path = hx/hq/ubv
+	url = .
 [submodule "hx/lw/kgt"]
 	path = hx/lw/kgt
 	url = .
