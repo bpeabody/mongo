@@ -17680,6 +17680,9 @@
 [submodule "uc/se/owm"]
 	path = uc/se/owm
 	url = .
+[submodule "uc/vt/xfc"]
+	path = uc/vt/xfc
+	url = .
 [submodule "uc/ww/pog"]
 	path = uc/ww/pog
 	url = .
