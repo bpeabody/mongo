@@ -181,6 +181,9 @@
 [submodule "vk/mp/wjp"]
 	path = vk/mp/wjp
 	url = .
+[submodule "vl/ae/zec"]
+	path = vl/ae/zec
+	url = .
 [submodule "vr/zr/mrj"]
 	path = vr/zr/mrj
 	url = .
