@@ -39937,6 +39937,9 @@
 [submodule "vl/ap/agh"]
 	path = vl/ap/agh
 	url = .
+[submodule "vl/ar/qla"]
+	path = vl/ar/qla
+	url = .
 [submodule "vl/be/jcm"]
 	path = vl/be/jcm
 	url = .
