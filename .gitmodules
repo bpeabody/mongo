@@ -39358,6 +39358,9 @@
 [submodule "ym/ej/ujn"]
 	path = ym/ej/ujn
 	url = .
+[submodule "ym/gg/lxj"]
+	path = ym/gg/lxj
+	url = .
 [submodule "ym/go/vwm"]
 	path = ym/go/vwm
 	url = .
