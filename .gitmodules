@@ -4150,6 +4150,9 @@
 [submodule "cf/hi/oga"]
 	path = cf/hi/oga
 	url = .
+[submodule "cf/im/pfs"]
+	path = cf/im/pfs
+	url = .
 [submodule "cf/jm/kmq"]
 	path = cf/jm/kmq
 	url = .
