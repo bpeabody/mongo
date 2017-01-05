@@ -4360,6 +4360,9 @@
 [submodule "tr/zh/zrl"]
 	path = tr/zh/zrl
 	url = .
+[submodule "ts/bk/mbk"]
+	path = ts/bk/mbk
+	url = .
 [submodule "ts/rn/wnb"]
 	path = ts/rn/wnb
 	url = .
