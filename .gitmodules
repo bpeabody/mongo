@@ -1426,6 +1426,9 @@
 [submodule "cf/dr/phu"]
 	path = cf/dr/phu
 	url = .
+[submodule "cf/fu/ukj"]
+	path = cf/fu/ukj
+	url = .
 [submodule "cf/km/fzr"]
 	path = cf/km/fzr
 	url = .
