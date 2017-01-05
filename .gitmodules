@@ -1417,6 +1417,9 @@
 [submodule "ao/ak/xpg"]
 	path = ao/ak/xpg
 	url = .
+[submodule "ao/bi/kwl"]
+	path = ao/bi/kwl
+	url = .
 [submodule "ao/bj/lsq"]
 	path = ao/bj/lsq
 	url = .
