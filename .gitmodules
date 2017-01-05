@@ -7993,6 +7993,9 @@
 [submodule "ho/ef/yha"]
 	path = ho/ef/yha
 	url = .
+[submodule "ho/gm/ynd"]
+	path = ho/gm/ynd
+	url = .
 [submodule "ho/gv/wjf"]
 	path = ho/gv/wjf
 	url = .
