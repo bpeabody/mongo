@@ -30199,6 +30199,9 @@
 [submodule "sm/wx/nje"]
 	path = sm/wx/nje
 	url = .
+[submodule "sm/wz/kuf"]
+	path = sm/wz/kuf
+	url = .
 [submodule "sm/xl/aoo"]
 	path = sm/xl/aoo
 	url = .
