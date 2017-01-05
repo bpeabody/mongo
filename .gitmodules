@@ -5158,6 +5158,9 @@
 [submodule "ce/vp/hdc"]
 	path = ce/vp/hdc
 	url = .
+[submodule "ce/vx/ynh"]
+	path = ce/vx/ynh
+	url = .
 [submodule "ce/wa/ozr"]
 	path = ce/wa/ozr
 	url = .
