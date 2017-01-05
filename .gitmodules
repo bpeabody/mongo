@@ -8575,6 +8575,9 @@
 [submodule "gr/ii/qpy"]
 	path = gr/ii/qpy
 	url = .
+[submodule "gr/mg/nak"]
+	path = gr/mg/nak
+	url = .
 [submodule "gr/mt/ipz"]
 	path = gr/mt/ipz
 	url = .
