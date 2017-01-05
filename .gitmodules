@@ -2707,6 +2707,9 @@
 [submodule "cl/ld/usb"]
 	path = cl/ld/usb
 	url = .
+[submodule "cl/le/qhr"]
+	path = cl/le/qhr
+	url = .
 [submodule "cl/qa/sdu"]
 	path = cl/qa/sdu
 	url = .
