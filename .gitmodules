@@ -9670,6 +9670,9 @@
 [submodule "rx/dy/bat"]
 	path = rx/dy/bat
 	url = .
+[submodule "rx/ix/nty"]
+	path = rx/ix/nty
+	url = .
 [submodule "rx/yj/wes"]
 	path = rx/yj/wes
 	url = .
