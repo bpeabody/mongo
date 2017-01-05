@@ -1744,6 +1744,9 @@
 [submodule "ft/vo/yln"]
 	path = ft/vo/yln
 	url = .
+[submodule "fu/cg/mlf"]
+	path = fu/cg/mlf
+	url = .
 [submodule "fu/dm/nlg"]
 	path = fu/dm/nlg
 	url = .
