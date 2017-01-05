@@ -3037,6 +3037,9 @@
 [submodule "kx/ac/wqc"]
 	path = kx/ac/wqc
 	url = .
+[submodule "kx/fk/syh"]
+	path = kx/fk/syh
+	url = .
 [submodule "kx/ft/lef"]
 	path = kx/ft/lef
 	url = .
