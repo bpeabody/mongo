@@ -4861,6 +4861,9 @@
 [submodule "ld/sb/myr"]
 	path = ld/sb/myr
 	url = .
+[submodule "ld/st/yeo"]
+	path = ld/st/yeo
+	url = .
 [submodule "ld/wd/emt"]
 	path = ld/wd/emt
 	url = .
