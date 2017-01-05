@@ -3583,6 +3583,9 @@
 [submodule "oe/me/agn"]
 	path = oe/me/agn
 	url = .
+[submodule "of/fk/yyq"]
+	path = of/fk/yyq
+	url = .
 [submodule "of/gj/hru"]
 	path = of/gj/hru
 	url = .
