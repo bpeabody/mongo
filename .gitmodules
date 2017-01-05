@@ -5053,6 +5053,9 @@
 [submodule "oz/cf/btz"]
 	path = oz/cf/btz
 	url = .
+[submodule "oz/nn/tgu"]
+	path = oz/nn/tgu
+	url = .
 [submodule "oz/on/ygz"]
 	path = oz/on/ygz
 	url = .
