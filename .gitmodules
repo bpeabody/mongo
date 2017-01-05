@@ -17710,6 +17710,9 @@
 [submodule "ym/nc/ori"]
 	path = ym/nc/ori
 	url = .
+[submodule "ym/rq/fnd"]
+	path = ym/rq/fnd
+	url = .
 [submodule "ym/to/aik"]
 	path = ym/to/aik
 	url = .
