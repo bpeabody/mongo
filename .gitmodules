@@ -8683,6 +8683,9 @@
 [submodule "db/qr/liv"]
 	path = db/qr/liv
 	url = .
+[submodule "db/ri/byn"]
+	path = db/ri/byn
+	url = .
 [submodule "db/rx/wyh"]
 	path = db/rx/wyh
 	url = .
