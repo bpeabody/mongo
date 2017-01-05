@@ -45367,6 +45367,9 @@
 [submodule "pl/wu/kwn"]
 	path = pl/wu/kwn
 	url = .
+[submodule "pl/wv/vez"]
+	path = pl/wv/vez
+	url = .
 [submodule "pl/xd/qqp"]
 	path = pl/xd/qqp
 	url = .
