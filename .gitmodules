@@ -7513,6 +7513,9 @@
 [submodule "ee/gt/dok"]
 	path = ee/gt/dok
 	url = .
+[submodule "ee/hf/gbh"]
+	path = ee/hf/gbh
+	url = .
 [submodule "ee/hp/hgg"]
 	path = ee/hp/hgg
 	url = .
