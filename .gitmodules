@@ -4969,6 +4969,9 @@
 [submodule "bv/ta/ehm"]
 	path = bv/ta/ehm
 	url = .
+[submodule "bv/tc/kpp"]
+	path = bv/tc/kpp
+	url = .
 [submodule "bv/ts/lbf"]
 	path = bv/ts/lbf
 	url = .
