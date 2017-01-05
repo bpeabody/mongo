@@ -10144,6 +10144,9 @@
 [submodule "zm/oz/udz"]
 	path = zm/oz/udz
 	url = .
+[submodule "zn/ks/cnx"]
+	path = zn/ks/cnx
+	url = .
 [submodule "zn/ro/zss"]
 	path = zn/ro/zss
 	url = .
