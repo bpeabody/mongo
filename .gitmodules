@@ -38770,6 +38770,9 @@
 [submodule "nr/cb/xmt"]
 	path = nr/cb/xmt
 	url = .
+[submodule "nr/df/doy"]
+	path = nr/df/doy
+	url = .
 [submodule "nr/ei/nns"]
 	path = nr/ei/nns
 	url = .
