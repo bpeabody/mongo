@@ -49990,6 +49990,9 @@
 [submodule "vd/mj/fnm"]
 	path = vd/mj/fnm
 	url = .
+[submodule "vd/na/hwa"]
+	path = vd/na/hwa
+	url = .
 [submodule "vd/np/mno"]
 	path = vd/np/mno
 	url = .
