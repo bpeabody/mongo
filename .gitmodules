@@ -12715,6 +12715,9 @@
 [submodule "gf/fw/qak"]
 	path = gf/fw/qak
 	url = .
+[submodule "gf/jm/fef"]
+	path = gf/jm/fef
+	url = .
 [submodule "gf/jq/zze"]
 	path = gf/jq/zze
 	url = .
