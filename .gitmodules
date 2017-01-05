@@ -16360,6 +16360,9 @@
 [submodule "jp/oa/jce"]
 	path = jp/oa/jce
 	url = .
+[submodule "jp/sa/jyo"]
+	path = jp/sa/jyo
+	url = .
 [submodule "jp/sm/usw"]
 	path = jp/sm/usw
 	url = .
