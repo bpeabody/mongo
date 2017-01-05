@@ -10534,6 +10534,9 @@
 [submodule "ia/sb/psz"]
 	path = ia/sb/psz
 	url = .
+[submodule "ia/sk/tej"]
+	path = ia/sk/tej
+	url = .
 [submodule "ib/cc/xzi"]
 	path = ib/cc/xzi
 	url = .
