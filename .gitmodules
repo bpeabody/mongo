@@ -1477,6 +1477,9 @@
 [submodule "kk/xf/mqx"]
 	path = kk/xf/mqx
 	url = .
+[submodule "kl/cq/vgc"]
+	path = kl/cq/vgc
+	url = .
 [submodule "kl/zn/tra"]
 	path = kl/zn/tra
 	url = .
