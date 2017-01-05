@@ -35188,6 +35188,9 @@
 [submodule "nm/re/dwi"]
 	path = nm/re/dwi
 	url = .
+[submodule "nm/tb/eic"]
+	path = nm/tb/eic
+	url = .
 [submodule "nm/tf/hsh"]
 	path = nm/tf/hsh
 	url = .
