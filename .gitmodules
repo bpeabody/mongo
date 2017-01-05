@@ -5032,6 +5032,9 @@
 [submodule "kb/kf/qpl"]
 	path = kb/kf/qpl
 	url = .
+[submodule "kb/lw/qlc"]
+	path = kb/lw/qlc
+	url = .
 [submodule "kb/nc/meo"]
 	path = kb/nc/meo
 	url = .
