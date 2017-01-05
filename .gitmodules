@@ -27214,6 +27214,9 @@
 [submodule "tt/iy/kzh"]
 	path = tt/iy/kzh
 	url = .
+[submodule "tt/ke/zjd"]
+	path = tt/ke/zjd
+	url = .
 [submodule "tt/ll/gmb"]
 	path = tt/ll/gmb
 	url = .
