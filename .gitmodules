@@ -208,6 +208,9 @@
 [submodule "ek/hu/cad"]
 	path = ek/hu/cad
 	url = .
+[submodule "en/pc/yao"]
+	path = en/pc/yao
+	url = .
 [submodule "ep/af/pop"]
 	path = ep/af/pop
 	url = .
