@@ -7123,6 +7123,9 @@
 [submodule "uc/ww/pog"]
 	path = uc/ww/pog
 	url = .
+[submodule "ud/kp/zsr"]
+	path = ud/kp/zsr
+	url = .
 [submodule "ue/qp/iht"]
 	path = ue/qp/iht
 	url = .
