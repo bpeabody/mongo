@@ -832,6 +832,9 @@
 [submodule "es/cy/txn"]
 	path = es/cy/txn
 	url = .
+[submodule "es/pi/jhr"]
+	path = es/pi/jhr
+	url = .
 [submodule "et/fy/kpp"]
 	path = et/fy/kpp
 	url = .
