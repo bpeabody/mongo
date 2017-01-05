@@ -19306,6 +19306,9 @@
 [submodule "go/mu/pbi"]
 	path = go/mu/pbi
 	url = .
+[submodule "go/nj/bpr"]
+	path = go/nj/bpr
+	url = .
 [submodule "go/nl/gqh"]
 	path = go/nl/gqh
 	url = .
