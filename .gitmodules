@@ -9217,6 +9217,9 @@
 [submodule "do/ei/jdt"]
 	path = do/ei/jdt
 	url = .
+[submodule "do/gl/dvw"]
+	path = do/gl/dvw
+	url = .
 [submodule "do/he/wja"]
 	path = do/he/wja
 	url = .
