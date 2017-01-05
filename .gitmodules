@@ -66301,6 +66301,9 @@
 [submodule "ya/ae/fcb"]
 	path = ya/ae/fcb
 	url = .
+[submodule "ya/aq/yex"]
+	path = ya/aq/yex
+	url = .
 [submodule "ya/ar/wtv"]
 	path = ya/ar/wtv
 	url = .
