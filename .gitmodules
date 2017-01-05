@@ -8323,6 +8323,9 @@
 [submodule "rf/sa/jms"]
 	path = rf/sa/jms
 	url = .
+[submodule "rg/av/fmc"]
+	path = rg/av/fmc
+	url = .
 [submodule "rg/bb/wfk"]
 	path = rg/bb/wfk
 	url = .
