@@ -33319,6 +33319,9 @@
 [submodule "lx/oq/dbs"]
 	path = lx/oq/dbs
 	url = .
+[submodule "lx/oq/vjl"]
+	path = lx/oq/vjl
+	url = .
 [submodule "lx/ou/afv"]
 	path = lx/ou/afv
 	url = .
