@@ -9112,6 +9112,9 @@
 [submodule "fw/kk/brd"]
 	path = fw/kk/brd
 	url = .
+[submodule "fw/le/shw"]
+	path = fw/le/shw
+	url = .
 [submodule "fw/op/ltx"]
 	path = fw/op/ltx
 	url = .
