@@ -12478,6 +12478,9 @@
 [submodule "yb/wr/ozh"]
 	path = yb/wr/ozh
 	url = .
+[submodule "yc/ap/vfb"]
+	path = yc/ap/vfb
+	url = .
 [submodule "yc/cs/ain"]
 	path = yc/cs/ain
 	url = .
