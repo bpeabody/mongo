@@ -19777,6 +19777,9 @@
 [submodule "ij/ts/vlb"]
 	path = ij/ts/vlb
 	url = .
+[submodule "ij/vo/kdy"]
+	path = ij/vo/kdy
+	url = .
 [submodule "ij/wk/esa"]
 	path = ij/wk/esa
 	url = .
