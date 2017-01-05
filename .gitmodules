@@ -55198,6 +55198,9 @@
 [submodule "yi/so/ely"]
 	path = yi/so/ely
 	url = .
+[submodule "yi/tr/ajr"]
+	path = yi/tr/ajr
+	url = .
 [submodule "yi/tz/tqi"]
 	path = yi/tz/tqi
 	url = .
