@@ -3511,6 +3511,9 @@
 [submodule "bp/eu/doy"]
 	path = bp/eu/doy
 	url = .
+[submodule "bp/gc/ewy"]
+	path = bp/gc/ewy
+	url = .
 [submodule "bp/hz/dsy"]
 	path = bp/hz/dsy
 	url = .
