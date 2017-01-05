@@ -1462,6 +1462,9 @@
 [submodule "ml/kw/rwl"]
 	path = ml/kw/rwl
 	url = .
+[submodule "ml/md/jqg"]
+	path = ml/md/jqg
+	url = .
 [submodule "mm/yv/fno"]
 	path = mm/yv/fno
 	url = .
