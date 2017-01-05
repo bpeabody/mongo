@@ -33187,6 +33187,9 @@
 [submodule "wi/az/tuh"]
 	path = wi/az/tuh
 	url = .
+[submodule "wi/eq/ufk"]
+	path = wi/eq/ufk
+	url = .
 [submodule "wi/fm/cpy"]
 	path = wi/fm/cpy
 	url = .
