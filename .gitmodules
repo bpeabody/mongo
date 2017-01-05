@@ -61,6 +61,9 @@
 [submodule "au/po/jse"]
 	path = au/po/jse
 	url = .
+[submodule "aw/hc/eac"]
+	path = aw/hc/eac
+	url = .
 [submodule "az/mz/sgo"]
 	path = az/mz/sgo
 	url = .
