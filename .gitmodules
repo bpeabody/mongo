@@ -66625,6 +66625,9 @@
 [submodule "yp/hl/wyr"]
 	path = yp/hl/wyr
 	url = .
+[submodule "yp/ib/whw"]
+	path = yp/ib/whw
+	url = .
 [submodule "yp/il/czv"]
 	path = yp/il/czv
 	url = .
