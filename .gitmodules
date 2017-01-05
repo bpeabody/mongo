@@ -12997,6 +12997,9 @@
 [submodule "or/lo/pnc"]
 	path = or/lo/pnc
 	url = .
+[submodule "or/nv/edw"]
+	path = or/nv/edw
+	url = .
 [submodule "or/ou/kcu"]
 	path = or/ou/kcu
 	url = .
