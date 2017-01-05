@@ -17530,6 +17530,9 @@
 [submodule "hw/wb/feg"]
 	path = hw/wb/feg
 	url = .
+[submodule "hw/wl/ygs"]
+	path = hw/wl/ygs
+	url = .
 [submodule "hw/xk/obv"]
 	path = hw/xk/obv
 	url = .
