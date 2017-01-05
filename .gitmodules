@@ -1378,6 +1378,9 @@
 [submodule "aq/fq/plj"]
 	path = aq/fq/plj
 	url = .
+[submodule "aq/fu/bzj"]
+	path = aq/fu/bzj
+	url = .
 [submodule "aq/ih/lpb"]
 	path = aq/ih/lpb
 	url = .
