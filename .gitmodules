@@ -23302,6 +23302,9 @@
 [submodule "jf/yx/vfm"]
 	path = jf/yx/vfm
 	url = .
+[submodule "jf/ze/mmd"]
+	path = jf/ze/mmd
+	url = .
 [submodule "jg/ae/kpy"]
 	path = jg/ae/kpy
 	url = .
