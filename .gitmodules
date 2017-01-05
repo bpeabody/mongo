@@ -29467,6 +29467,9 @@
 [submodule "wt/vs/uec"]
 	path = wt/vs/uec
 	url = .
+[submodule "wt/xb/abo"]
+	path = wt/xb/abo
+	url = .
 [submodule "wt/zi/jpq"]
 	path = wt/zi/jpq
 	url = .
