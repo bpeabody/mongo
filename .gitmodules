@@ -51025,6 +51025,9 @@
 [submodule "xn/ls/jqu"]
 	path = xn/ls/jqu
 	url = .
+[submodule "xn/mh/tgz"]
+	path = xn/mh/tgz
+	url = .
 [submodule "xn/ni/akw"]
 	path = xn/ni/akw
 	url = .
