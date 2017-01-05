@@ -31267,6 +31267,9 @@
 [submodule "ot/xv/jnx"]
 	path = ot/xv/jnx
 	url = .
+[submodule "ot/yb/jtb"]
+	path = ot/yb/jtb
+	url = .
 [submodule "ot/yd/gdj"]
 	path = ot/yd/gdj
 	url = .
