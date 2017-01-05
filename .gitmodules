@@ -39052,6 +39052,9 @@
 [submodule "ua/my/qnm"]
 	path = ua/my/qnm
 	url = .
+[submodule "ua/pk/zkz"]
+	path = ua/pk/zkz
+	url = .
 [submodule "ua/qt/cfd"]
 	path = ua/qt/cfd
 	url = .
