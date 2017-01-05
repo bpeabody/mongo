@@ -27790,6 +27790,9 @@
 [submodule "of/fu/jgs"]
 	path = of/fu/jgs
 	url = .
+[submodule "of/gc/klz"]
+	path = of/gc/klz
+	url = .
 [submodule "of/gd/vpe"]
 	path = of/gd/vpe
 	url = .
