@@ -1510,6 +1510,9 @@
 [submodule "bw/zv/geu"]
 	path = bw/zv/geu
 	url = .
+[submodule "bx/aa/vap"]
+	path = bx/aa/vap
+	url = .
 [submodule "bx/al/whr"]
 	path = bx/al/whr
 	url = .
