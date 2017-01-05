@@ -19315,6 +19315,9 @@
 [submodule "wh/nv/rfg"]
 	path = wh/nv/rfg
 	url = .
+[submodule "wh/qb/qhy"]
+	path = wh/qb/qhy
+	url = .
 [submodule "wh/qs/obv"]
 	path = wh/qs/obv
 	url = .
