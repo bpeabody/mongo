@@ -2848,6 +2848,9 @@
 [submodule "hf/om/nit"]
 	path = hf/om/nit
 	url = .
+[submodule "hf/ri/cui"]
+	path = hf/ri/cui
+	url = .
 [submodule "hf/td/rpn"]
 	path = hf/td/rpn
 	url = .
