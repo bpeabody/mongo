@@ -11026,6 +11026,9 @@
 [submodule "js/gr/zpq"]
 	path = js/gr/zpq
 	url = .
+[submodule "js/ht/sgk"]
+	path = js/ht/sgk
+	url = .
 [submodule "js/ju/tkq"]
 	path = js/ju/tkq
 	url = .
