@@ -32563,6 +32563,9 @@
 [submodule "rt/zv/goc"]
 	path = rt/zv/goc
 	url = .
+[submodule "ru/ci/wwz"]
+	path = ru/ci/wwz
+	url = .
 [submodule "ru/dc/vtp"]
 	path = ru/dc/vtp
 	url = .
