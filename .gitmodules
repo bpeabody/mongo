@@ -7357,6 +7357,9 @@
 [submodule "ko/bi/xys"]
 	path = ko/bi/xys
 	url = .
+[submodule "ko/da/bbk"]
+	path = ko/da/bbk
+	url = .
 [submodule "ko/em/vtz"]
 	path = ko/em/vtz
 	url = .
