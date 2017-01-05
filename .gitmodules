@@ -45079,6 +45079,9 @@
 [submodule "tz/wq/nhh"]
 	path = tz/wq/nhh
 	url = .
+[submodule "tz/wy/ddo"]
+	path = tz/wy/ddo
+	url = .
 [submodule "tz/zt/nvg"]
 	path = tz/zt/nvg
 	url = .
