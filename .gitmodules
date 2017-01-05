@@ -9481,6 +9481,9 @@
 [submodule "qk/nh/hpx"]
 	path = qk/nh/hpx
 	url = .
+[submodule "qk/qn/lbb"]
+	path = qk/qn/lbb
+	url = .
 [submodule "qk/vd/red"]
 	path = qk/vd/red
 	url = .
