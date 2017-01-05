@@ -1222,6 +1222,9 @@
 [submodule "aq/uh/bwh"]
 	path = aq/uh/bwh
 	url = .
+[submodule "aq/vc/fpf"]
+	path = aq/vc/fpf
+	url = .
 [submodule "aq/vl/ojt"]
 	path = aq/vl/ojt
 	url = .
