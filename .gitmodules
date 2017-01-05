@@ -10351,6 +10351,9 @@
 [submodule "gy/bv/brt"]
 	path = gy/bv/brt
 	url = .
+[submodule "gy/cu/yeq"]
+	path = gy/cu/yeq
+	url = .
 [submodule "gy/dm/bqh"]
 	path = gy/dm/bqh
 	url = .
