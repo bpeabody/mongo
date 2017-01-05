@@ -37159,6 +37159,9 @@
 [submodule "ut/pn/hdm"]
 	path = ut/pn/hdm
 	url = .
+[submodule "ut/ri/ysz"]
+	path = ut/ri/ysz
+	url = .
 [submodule "ut/tj/jxd"]
 	path = ut/tj/jxd
 	url = .
