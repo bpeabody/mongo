@@ -3913,6 +3913,9 @@
 [submodule "bm/xo/tfy"]
 	path = bm/xo/tfy
 	url = .
+[submodule "bm/yu/ldi"]
+	path = bm/yu/ldi
+	url = .
 [submodule "bm/ze/qfw"]
 	path = bm/ze/qfw
 	url = .
