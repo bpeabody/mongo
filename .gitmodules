@@ -499,6 +499,9 @@
 [submodule "fn/ft/tjx"]
 	path = fn/ft/tjx
 	url = .
+[submodule "fn/yd/sri"]
+	path = fn/yd/sri
+	url = .
 [submodule "fo/hs/woz"]
 	path = fo/hs/woz
 	url = .
