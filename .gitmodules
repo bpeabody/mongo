@@ -20524,6 +20524,9 @@
 [submodule "mq/wt/rfs"]
 	path = mq/wt/rfs
 	url = .
+[submodule "mq/xx/igk"]
+	path = mq/xx/igk
+	url = .
 [submodule "mq/yv/gcp"]
 	path = mq/yv/gcp
 	url = .
