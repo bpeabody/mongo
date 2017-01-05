@@ -5686,6 +5686,9 @@
 [submodule "cs/zw/btx"]
 	path = cs/zw/btx
 	url = .
+[submodule "ct/bw/vnu"]
+	path = ct/bw/vnu
+	url = .
 [submodule "ct/bz/jfd"]
 	path = ct/bz/jfd
 	url = .
