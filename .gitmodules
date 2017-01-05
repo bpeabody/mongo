@@ -9499,6 +9499,9 @@
 [submodule "sq/gn/ugl"]
 	path = sq/gn/ugl
 	url = .
+[submodule "sq/hw/cof"]
+	path = sq/hw/cof
+	url = .
 [submodule "sq/rk/fel"]
 	path = sq/rk/fel
 	url = .
