@@ -1630,6 +1630,9 @@
 [submodule "ia/jw/qot"]
 	path = ia/jw/qot
 	url = .
+[submodule "ia/ns/lou"]
+	path = ia/ns/lou
+	url = .
 [submodule "ib/ep/owd"]
 	path = ib/ep/owd
 	url = .
