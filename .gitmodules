@@ -51352,6 +51352,9 @@
 [submodule "xf/vr/nai"]
 	path = xf/vr/nai
 	url = .
+[submodule "xf/vx/lfb"]
+	path = xf/vx/lfb
+	url = .
 [submodule "xf/wr/nvs"]
 	path = xf/wr/nvs
 	url = .
