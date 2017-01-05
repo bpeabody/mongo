@@ -26800,6 +26800,9 @@
 [submodule "la/lf/jcd"]
 	path = la/lf/jcd
 	url = .
+[submodule "la/lg/mwa"]
+	path = la/lg/mwa
+	url = .
 [submodule "la/lx/czg"]
 	path = la/lx/czg
 	url = .
