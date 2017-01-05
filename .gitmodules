@@ -23383,6 +23383,9 @@
 [submodule "ob/sg/kbv"]
 	path = ob/sg/kbv
 	url = .
+[submodule "ob/tf/blq"]
+	path = ob/tf/blq
+	url = .
 [submodule "ob/ue/lmr"]
 	path = ob/ue/lmr
 	url = .
