@@ -9526,6 +9526,9 @@
 [submodule "pt/vs/goo"]
 	path = pt/vs/goo
 	url = .
+[submodule "pt/zi/qks"]
+	path = pt/zi/qks
+	url = .
 [submodule "pt/zr/rqa"]
 	path = pt/zr/rqa
 	url = .
