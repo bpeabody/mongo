@@ -4129,6 +4129,9 @@
 [submodule "dy/ra/hnb"]
 	path = dy/ra/hnb
 	url = .
+[submodule "dy/uk/qkx"]
+	path = dy/uk/qkx
+	url = .
 [submodule "dy/vo/npp"]
 	path = dy/vo/npp
 	url = .
