@@ -6733,6 +6733,9 @@
 [submodule "ev/yv/lki"]
 	path = ev/yv/lki
 	url = .
+[submodule "ev/zu/cid"]
+	path = ev/zu/cid
+	url = .
 [submodule "ew/bc/whh"]
 	path = ew/bc/whh
 	url = .
