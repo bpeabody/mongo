@@ -6505,6 +6505,9 @@
 [submodule "dl/ud/bue"]
 	path = dl/ud/bue
 	url = .
+[submodule "dl/uq/eww"]
+	path = dl/uq/eww
+	url = .
 [submodule "dl/vc/ica"]
 	path = dl/vc/ica
 	url = .
