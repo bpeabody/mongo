@@ -1888,6 +1888,9 @@
 [submodule "qg/tw/cdi"]
 	path = qg/tw/cdi
 	url = .
+[submodule "qh/qr/gzl"]
+	path = qh/qr/gzl
+	url = .
 [submodule "qj/kr/cpk"]
 	path = qj/kr/cpk
 	url = .
