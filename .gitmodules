@@ -49696,6 +49696,9 @@
 [submodule "sr/hy/vdq"]
 	path = sr/hy/vdq
 	url = .
+[submodule "sr/jh/yze"]
+	path = sr/jh/yze
+	url = .
 [submodule "sr/kv/bpu"]
 	path = sr/kv/bpu
 	url = .
