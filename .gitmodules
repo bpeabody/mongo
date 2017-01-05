@@ -9319,6 +9319,9 @@
 [submodule "lm/ws/gxl"]
 	path = lm/ws/gxl
 	url = .
+[submodule "lm/xl/srq"]
+	path = lm/xl/srq
+	url = .
 [submodule "lm/yj/ucp"]
 	path = lm/yj/ucp
 	url = .
