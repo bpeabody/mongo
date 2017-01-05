@@ -103,6 +103,9 @@
 [submodule "ap/lv/jgx"]
 	path = ap/lv/jgx
 	url = .
+[submodule "ap/ua/qtm"]
+	path = ap/ua/qtm
+	url = .
 [submodule "ap/vr/hmp"]
 	path = ap/vr/hmp
 	url = .
