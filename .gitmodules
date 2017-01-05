@@ -23776,6 +23776,9 @@
 [submodule "iv/nn/igk"]
 	path = iv/nn/igk
 	url = .
+[submodule "iv/pp/chk"]
+	path = iv/pp/chk
+	url = .
 [submodule "iv/qt/zmz"]
 	path = iv/qt/zmz
 	url = .
