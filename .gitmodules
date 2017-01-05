@@ -6112,6 +6112,9 @@
 [submodule "pg/nh/hgs"]
 	path = pg/nh/hgs
 	url = .
+[submodule "pg/wk/uyn"]
+	path = pg/wk/uyn
+	url = .
 [submodule "pg/yj/uof"]
 	path = pg/yj/uof
 	url = .
