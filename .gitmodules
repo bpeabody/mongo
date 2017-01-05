@@ -25225,6 +25225,9 @@
 [submodule "wg/lq/ywp"]
 	path = wg/lq/ywp
 	url = .
+[submodule "wg/mo/fua"]
+	path = wg/mo/fua
+	url = .
 [submodule "wg/or/flj"]
 	path = wg/or/flj
 	url = .
