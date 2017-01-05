@@ -79,6 +79,9 @@
 [submodule "jd/un/htu"]
 	path = jd/un/htu
 	url = .
+[submodule "jw/vs/xin"]
+	path = jw/vs/xin
+	url = .
 [submodule "ko/xh/ucl"]
 	path = ko/xh/ucl
 	url = .
