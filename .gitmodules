@@ -19471,6 +19471,9 @@
 [submodule "py/ie/exu"]
 	path = py/ie/exu
 	url = .
+[submodule "py/le/vyb"]
+	path = py/le/vyb
+	url = .
 [submodule "py/mi/doy"]
 	path = py/mi/doy
 	url = .
