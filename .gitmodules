@@ -43750,6 +43750,9 @@
 [submodule "sl/qw/iot"]
 	path = sl/qw/iot
 	url = .
+[submodule "sl/tm/ucu"]
+	path = sl/tm/ucu
+	url = .
 [submodule "sl/ut/gva"]
 	path = sl/ut/gva
 	url = .
