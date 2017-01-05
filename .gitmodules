@@ -47701,6 +47701,9 @@
 [submodule "su/xo/wvu"]
 	path = su/xo/wvu
 	url = .
+[submodule "su/yc/oib"]
+	path = su/yc/oib
+	url = .
 [submodule "su/yq/eny"]
 	path = su/yq/eny
 	url = .
