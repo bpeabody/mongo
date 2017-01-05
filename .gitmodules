@@ -3127,6 +3127,9 @@
 [submodule "qf/da/slc"]
 	path = qf/da/slc
 	url = .
+[submodule "qf/lt/mdl"]
+	path = qf/lt/mdl
+	url = .
 [submodule "qf/on/qdu"]
 	path = qf/on/qdu
 	url = .
