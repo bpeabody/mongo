@@ -24124,6 +24124,9 @@
 [submodule "wc/ga/tal"]
 	path = wc/ga/tal
 	url = .
+[submodule "wc/gt/dmk"]
+	path = wc/gt/dmk
+	url = .
 [submodule "wc/ho/tuq"]
 	path = wc/ho/tuq
 	url = .
