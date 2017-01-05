@@ -4153,6 +4153,9 @@
 [submodule "id/ub/bbs"]
 	path = id/ub/bbs
 	url = .
+[submodule "id/vu/pit"]
+	path = id/vu/pit
+	url = .
 [submodule "id/yw/nml"]
 	path = id/yw/nml
 	url = .
