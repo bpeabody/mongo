@@ -47491,6 +47491,9 @@
 [submodule "sw/ai/rxe"]
 	path = sw/ai/rxe
 	url = .
+[submodule "sw/am/rkn"]
+	path = sw/am/rkn
+	url = .
 [submodule "sw/bz/guc"]
 	path = sw/bz/guc
 	url = .
