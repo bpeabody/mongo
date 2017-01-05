@@ -13861,6 +13861,9 @@
 [submodule "hb/xq/xyk"]
 	path = hb/xq/xyk
 	url = .
+[submodule "hb/yu/tek"]
+	path = hb/yu/tek
+	url = .
 [submodule "hb/zs/rwo"]
 	path = hb/zs/rwo
 	url = .
