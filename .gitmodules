@@ -1159,6 +1159,9 @@
 [submodule "ds/qo/mnn"]
 	path = ds/qo/mnn
 	url = .
+[submodule "ds/rh/amp"]
+	path = ds/rh/amp
+	url = .
 [submodule "ds/yc/sla"]
 	path = ds/yc/sla
 	url = .
