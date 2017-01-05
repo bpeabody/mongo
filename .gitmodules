@@ -5668,6 +5668,9 @@
 [submodule "fj/jr/cdc"]
 	path = fj/jr/cdc
 	url = .
+[submodule "fj/np/vkw"]
+	path = fj/np/vkw
+	url = .
 [submodule "fj/qi/jkv"]
 	path = fj/qi/jkv
 	url = .
