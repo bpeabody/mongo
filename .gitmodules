@@ -17488,6 +17488,9 @@
 [submodule "to/am/dmh"]
 	path = to/am/dmh
 	url = .
+[submodule "to/fd/qeg"]
+	path = to/fd/qeg
+	url = .
 [submodule "to/ig/ihw"]
 	path = to/ig/ihw
 	url = .
