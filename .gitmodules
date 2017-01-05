@@ -6979,6 +6979,9 @@
 [submodule "cw/xh/ymd"]
 	path = cw/xh/ymd
 	url = .
+[submodule "cw/yc/onb"]
+	path = cw/yc/onb
+	url = .
 [submodule "cw/ye/pel"]
 	path = cw/ye/pel
 	url = .
