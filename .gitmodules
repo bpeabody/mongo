@@ -8353,6 +8353,9 @@
 [submodule "ec/mh/bay"]
 	path = ec/mh/bay
 	url = .
+[submodule "ec/ng/huu"]
+	path = ec/ng/huu
+	url = .
 [submodule "ec/nh/sae"]
 	path = ec/nh/sae
 	url = .
