@@ -181,6 +181,9 @@
 [submodule "ai/pb/cpa"]
 	path = ai/pb/cpa
 	url = .
+[submodule "aj/do/kkl"]
+	path = aj/do/kkl
+	url = .
 [submodule "aj/hz/jmh"]
 	path = aj/hz/jmh
 	url = .
