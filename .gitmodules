@@ -2296,6 +2296,9 @@
 [submodule "hc/ie/ulr"]
 	path = hc/ie/ulr
 	url = .
+[submodule "hc/jc/kuk"]
+	path = hc/jc/kuk
+	url = .
 [submodule "hc/ka/bfu"]
 	path = hc/ka/bfu
 	url = .
