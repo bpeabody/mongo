@@ -748,6 +748,9 @@
 [submodule "ah/bl/awp"]
 	path = ah/bl/awp
 	url = .
+[submodule "ah/bz/yre"]
+	path = ah/bz/yre
+	url = .
 [submodule "ah/db/zwf"]
 	path = ah/db/zwf
 	url = .
