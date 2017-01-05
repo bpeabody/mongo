@@ -12271,6 +12271,9 @@
 [submodule "lv/md/aww"]
 	path = lv/md/aww
 	url = .
+[submodule "lv/mp/ics"]
+	path = lv/mp/ics
+	url = .
 [submodule "lv/nk/gvb"]
 	path = lv/nk/gvb
 	url = .
