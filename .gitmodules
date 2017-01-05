@@ -41782,6 +41782,9 @@
 [submodule "uw/vi/rai"]
 	path = uw/vi/rai
 	url = .
+[submodule "uw/wb/eav"]
+	path = uw/wb/eav
+	url = .
 [submodule "uw/xl/slj"]
 	path = uw/xl/slj
 	url = .
