@@ -40972,6 +40972,9 @@
 [submodule "ut/ow/cxi"]
 	path = ut/ow/cxi
 	url = .
+[submodule "ut/pj/stu"]
+	path = ut/pj/stu
+	url = .
 [submodule "ut/pn/hdm"]
 	path = ut/pn/hdm
 	url = .
