@@ -2698,6 +2698,9 @@
 [submodule "yp/vq/iys"]
 	path = yp/vq/iys
 	url = .
+[submodule "yq/sc/drd"]
+	path = yq/sc/drd
+	url = .
 [submodule "yq/zr/cvz"]
 	path = yq/zr/cvz
 	url = .
