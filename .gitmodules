@@ -16222,6 +16222,9 @@
 [submodule "hr/pd/tgy"]
 	path = hr/pd/tgy
 	url = .
+[submodule "hr/qb/hmp"]
+	path = hr/qb/hmp
+	url = .
 [submodule "hr/uw/ijl"]
 	path = hr/uw/ijl
 	url = .
