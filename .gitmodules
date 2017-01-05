@@ -11674,6 +11674,9 @@
 [submodule "fg/kn/yug"]
 	path = fg/kn/yug
 	url = .
+[submodule "fg/ls/rbx"]
+	path = fg/ls/rbx
+	url = .
 [submodule "fg/mj/nuq"]
 	path = fg/mj/nuq
 	url = .
