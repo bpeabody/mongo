@@ -3097,6 +3097,9 @@
 [submodule "qb/ub/tou"]
 	path = qb/ub/tou
 	url = .
+[submodule "qc/ii/ngz"]
+	path = qc/ii/ngz
+	url = .
 [submodule "qc/ny/bzw"]
 	path = qc/ny/bzw
 	url = .
