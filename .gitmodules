@@ -37,6 +37,9 @@
 [submodule "ef/lf/tes"]
 	path = ef/lf/tes
 	url = .
+[submodule "ex/hx/jks"]
+	path = ex/hx/jks
+	url = .
 [submodule "fi/my/npa"]
 	path = fi/my/npa
 	url = .
