@@ -31240,6 +31240,9 @@
 [submodule "ym/ec/qyr"]
 	path = ym/ec/qyr
 	url = .
+[submodule "ym/ej/ujn"]
+	path = ym/ej/ujn
+	url = .
 [submodule "ym/hf/dik"]
 	path = ym/hf/dik
 	url = .
