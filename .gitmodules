@@ -29437,6 +29437,9 @@
 [submodule "ux/qo/lmb"]
 	path = ux/qo/lmb
 	url = .
+[submodule "ux/qp/mum"]
+	path = ux/qp/mum
+	url = .
 [submodule "ux/rf/kzi"]
 	path = ux/rf/kzi
 	url = .
