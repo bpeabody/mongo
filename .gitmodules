@@ -30157,6 +30157,9 @@
 [submodule "vr/ti/bno"]
 	path = vr/ti/bno
 	url = .
+[submodule "vr/vt/rit"]
+	path = vr/vt/rit
+	url = .
 [submodule "vr/wr/vql"]
 	path = vr/wr/vql
 	url = .
