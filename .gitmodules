@@ -39739,6 +39739,9 @@
 [submodule "sw/ji/evb"]
 	path = sw/ji/evb
 	url = .
+[submodule "sw/ke/fqn"]
+	path = sw/ke/fqn
+	url = .
 [submodule "sw/lz/ati"]
 	path = sw/lz/ati
 	url = .
