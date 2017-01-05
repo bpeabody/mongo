@@ -21196,6 +21196,9 @@
 [submodule "qh/cx/ayl"]
 	path = qh/cx/ayl
 	url = .
+[submodule "qh/ds/ghk"]
+	path = qh/ds/ghk
+	url = .
 [submodule "qh/hv/tvr"]
 	path = qh/hv/tvr
 	url = .
