@@ -48388,6 +48388,9 @@
 [submodule "sn/jf/heq"]
 	path = sn/jf/heq
 	url = .
+[submodule "sn/kj/xkw"]
+	path = sn/kj/xkw
+	url = .
 [submodule "sn/kv/nfn"]
 	path = sn/kv/nfn
 	url = .
