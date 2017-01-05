@@ -21523,6 +21523,9 @@
 [submodule "yo/op/ayy"]
 	path = yo/op/ayy
 	url = .
+[submodule "yo/st/ffk"]
+	path = yo/st/ffk
+	url = .
 [submodule "yo/xi/zsh"]
 	path = yo/xi/zsh
 	url = .
