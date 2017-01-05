@@ -15664,6 +15664,9 @@
 [submodule "uo/kj/udr"]
 	path = uo/kj/udr
 	url = .
+[submodule "uo/lc/rnh"]
+	path = uo/lc/rnh
+	url = .
 [submodule "uo/ly/ssz"]
 	path = uo/ly/ssz
 	url = .
