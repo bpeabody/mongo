@@ -24949,6 +24949,9 @@
 [submodule "qb/nk/yfe"]
 	path = qb/nk/yfe
 	url = .
+[submodule "qb/pm/gmj"]
+	path = qb/pm/gmj
+	url = .
 [submodule "qb/qi/fke"]
 	path = qb/qi/fke
 	url = .
