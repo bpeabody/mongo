@@ -28624,6 +28624,9 @@
 [submodule "vo/et/fgu"]
 	path = vo/et/fgu
 	url = .
+[submodule "vo/go/qtj"]
+	path = vo/go/qtj
+	url = .
 [submodule "vo/ir/nmf"]
 	path = vo/ir/nmf
 	url = .
