@@ -23989,6 +23989,9 @@
 [submodule "ld/jo/plu"]
 	path = ld/jo/plu
 	url = .
+[submodule "ld/mj/ddt"]
+	path = ld/mj/ddt
+	url = .
 [submodule "ld/ot/vkc"]
 	path = ld/ot/vkc
 	url = .
