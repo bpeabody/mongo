@@ -439,6 +439,9 @@
 [submodule "ae/sk/qvr"]
 	path = ae/sk/qvr
 	url = .
+[submodule "ae/st/fgr"]
+	path = ae/st/fgr
+	url = .
 [submodule "ae/su/eva"]
 	path = ae/su/eva
 	url = .
