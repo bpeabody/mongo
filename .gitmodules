@@ -5167,6 +5167,9 @@
 [submodule "cm/wc/edn"]
 	path = cm/wc/edn
 	url = .
+[submodule "cm/wo/shz"]
+	path = cm/wo/shz
+	url = .
 [submodule "cm/wq/rdy"]
 	path = cm/wq/rdy
 	url = .
