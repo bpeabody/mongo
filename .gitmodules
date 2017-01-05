@@ -31033,6 +31033,9 @@
 [submodule "mz/cx/vgc"]
 	path = mz/cx/vgc
 	url = .
+[submodule "mz/dc/icq"]
+	path = mz/dc/icq
+	url = .
 [submodule "mz/dn/hlp"]
 	path = mz/dn/hlp
 	url = .
