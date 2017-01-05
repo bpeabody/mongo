@@ -32365,6 +32365,9 @@
 [submodule "nr/ng/kpg"]
 	path = nr/ng/kpg
 	url = .
+[submodule "nr/pn/zeo"]
+	path = nr/pn/zeo
+	url = .
 [submodule "nr/qx/smm"]
 	path = nr/qx/smm
 	url = .
