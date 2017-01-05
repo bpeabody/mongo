@@ -32194,6 +32194,9 @@
 [submodule "ok/cj/gyg"]
 	path = ok/cj/gyg
 	url = .
+[submodule "ok/dd/vdd"]
+	path = ok/dd/vdd
+	url = .
 [submodule "ok/et/tsn"]
 	path = ok/et/tsn
 	url = .
