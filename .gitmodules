@@ -6160,6 +6160,9 @@
 [submodule "dr/zh/zuw"]
 	path = dr/zh/zuw
 	url = .
+[submodule "ds/cl/prf"]
+	path = ds/cl/prf
+	url = .
 [submodule "ds/fb/vmm"]
 	path = ds/fb/vmm
 	url = .
