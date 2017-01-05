@@ -42040,6 +42040,9 @@
 [submodule "ua/qt/cfd"]
 	path = ua/qt/cfd
 	url = .
+[submodule "ua/ro/qgn"]
+	path = ua/ro/qgn
+	url = .
 [submodule "ua/sx/dnr"]
 	path = ua/sx/dnr
 	url = .
