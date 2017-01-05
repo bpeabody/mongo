@@ -8923,6 +8923,9 @@
 [submodule "gi/pd/oju"]
 	path = gi/pd/oju
 	url = .
+[submodule "gi/py/pci"]
+	path = gi/py/pci
+	url = .
 [submodule "gi/rd/efc"]
 	path = gi/rd/efc
 	url = .
