@@ -26128,6 +26128,9 @@
 [submodule "ks/tt/lno"]
 	path = ks/tt/lno
 	url = .
+[submodule "ks/uc/rdu"]
+	path = ks/uc/rdu
+	url = .
 [submodule "ks/ue/dzx"]
 	path = ks/ue/dzx
 	url = .
