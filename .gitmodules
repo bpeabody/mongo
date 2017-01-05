@@ -2584,6 +2584,9 @@
 [submodule "bn/eu/rsb"]
 	path = bn/eu/rsb
 	url = .
+[submodule "bn/fe/gvx"]
+	path = bn/fe/gvx
+	url = .
 [submodule "bn/fk/zuw"]
 	path = bn/fk/zuw
 	url = .
