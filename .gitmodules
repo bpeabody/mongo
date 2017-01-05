@@ -34672,6 +34672,9 @@
 [submodule "lp/bs/vxt"]
 	path = lp/bs/vxt
 	url = .
+[submodule "lp/bu/hdm"]
+	path = lp/bu/hdm
+	url = .
 [submodule "lp/bw/ama"]
 	path = lp/bw/ama
 	url = .
