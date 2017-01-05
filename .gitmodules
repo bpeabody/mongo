@@ -11356,6 +11356,9 @@
 [submodule "ym/jw/hyg"]
 	path = ym/jw/hyg
 	url = .
+[submodule "ym/nc/ori"]
+	path = ym/nc/ori
+	url = .
 [submodule "ym/to/aik"]
 	path = ym/to/aik
 	url = .
