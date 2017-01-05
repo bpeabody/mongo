@@ -4519,6 +4519,9 @@
 [submodule "ex/gp/yyo"]
 	path = ex/gp/yyo
 	url = .
+[submodule "ex/gx/brr"]
+	path = ex/gx/brr
+	url = .
 [submodule "ex/hx/jks"]
 	path = ex/hx/jks
 	url = .
