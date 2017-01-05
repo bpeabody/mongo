@@ -4873,6 +4873,9 @@
 [submodule "cd/dh/pkj"]
 	path = cd/dh/pkj
 	url = .
+[submodule "cd/dl/mdw"]
+	path = cd/dl/mdw
+	url = .
 [submodule "cd/dn/mpm"]
 	path = cd/dn/mpm
 	url = .
