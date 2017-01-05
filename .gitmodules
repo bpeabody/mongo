@@ -18712,6 +18712,9 @@
 [submodule "ii/eh/qso"]
 	path = ii/eh/qso
 	url = .
+[submodule "ii/el/adh"]
+	path = ii/el/adh
+	url = .
 [submodule "ii/fe/rbq"]
 	path = ii/fe/rbq
 	url = .
