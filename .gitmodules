@@ -35014,6 +35014,9 @@
 [submodule "mm/av/jto"]
 	path = mm/av/jto
 	url = .
+[submodule "mm/aw/ufj"]
+	path = mm/aw/ufj
+	url = .
 [submodule "mm/bj/hag"]
 	path = mm/bj/hag
 	url = .
