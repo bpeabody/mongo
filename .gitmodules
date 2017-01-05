@@ -10489,6 +10489,9 @@
 [submodule "fv/uo/lxg"]
 	path = fv/uo/lxg
 	url = .
+[submodule "fv/vk/wxq"]
+	path = fv/vk/wxq
+	url = .
 [submodule "fv/wk/luh"]
 	path = fv/wk/luh
 	url = .
