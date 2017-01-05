@@ -60994,6 +60994,9 @@
 [submodule "ym/uj/pvq"]
 	path = ym/uj/pvq
 	url = .
+[submodule "ym/ut/vic"]
+	path = ym/ut/vic
+	url = .
 [submodule "ym/vf/qof"]
 	path = ym/vf/qof
 	url = .
