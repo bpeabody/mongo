@@ -18430,6 +18430,9 @@
 [submodule "tu/pu/bfw"]
 	path = tu/pu/bfw
 	url = .
+[submodule "tu/sh/ttk"]
+	path = tu/sh/ttk
+	url = .
 [submodule "tu/tc/ctc"]
 	path = tu/tc/ctc
 	url = .
