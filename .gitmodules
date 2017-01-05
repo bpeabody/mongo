@@ -12091,6 +12091,9 @@
 [submodule "tt/gt/rjn"]
 	path = tt/gt/rjn
 	url = .
+[submodule "tt/iy/kzh"]
+	path = tt/iy/kzh
+	url = .
 [submodule "tt/pe/esx"]
 	path = tt/pe/esx
 	url = .
