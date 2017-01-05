@@ -1546,6 +1546,9 @@
 [submodule "xz/iq/pth"]
 	path = xz/iq/pth
 	url = .
+[submodule "yb/ea/tjd"]
+	path = yb/ea/tjd
+	url = .
 [submodule "yb/sy/tbv"]
 	path = yb/sy/tbv
 	url = .
