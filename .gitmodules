@@ -11143,6 +11143,9 @@
 [submodule "ia/rc/nbl"]
 	path = ia/rc/nbl
 	url = .
+[submodule "ia/rq/ucr"]
+	path = ia/rq/ucr
+	url = .
 [submodule "ia/sb/psz"]
 	path = ia/sb/psz
 	url = .
