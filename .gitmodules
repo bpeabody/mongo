@@ -3160,6 +3160,9 @@
 [submodule "bm/do/avi"]
 	path = bm/do/avi
 	url = .
+[submodule "bm/du/xym"]
+	path = bm/du/xym
+	url = .
 [submodule "bm/ei/byg"]
 	path = bm/ei/byg
 	url = .
