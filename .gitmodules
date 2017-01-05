@@ -13993,6 +13993,9 @@
 [submodule "hg/lt/spy"]
 	path = hg/lt/spy
 	url = .
+[submodule "hg/ma/lba"]
+	path = hg/ma/lba
+	url = .
 [submodule "hg/mf/lpm"]
 	path = hg/mf/lpm
 	url = .
