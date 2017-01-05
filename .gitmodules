@@ -2404,6 +2404,9 @@
 [submodule "ec/zb/upa"]
 	path = ec/zb/upa
 	url = .
+[submodule "ed/it/duk"]
+	path = ed/it/duk
+	url = .
 [submodule "ed/jw/cdb"]
 	path = ed/jw/cdb
 	url = .
