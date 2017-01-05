@@ -22879,6 +22879,9 @@
 [submodule "sd/cp/hmm"]
 	path = sd/cp/hmm
 	url = .
+[submodule "sd/cv/pub"]
+	path = sd/cv/pub
+	url = .
 [submodule "sd/eg/nnl"]
 	path = sd/eg/nnl
 	url = .
