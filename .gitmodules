@@ -12850,6 +12850,9 @@
 [submodule "ek/hu/cad"]
 	path = ek/hu/cad
 	url = .
+[submodule "ek/hz/njb"]
+	path = ek/hz/njb
+	url = .
 [submodule "ek/ic/yvb"]
 	path = ek/ic/yvb
 	url = .
