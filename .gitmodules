@@ -805,6 +805,9 @@
 [submodule "au/wu/rxr"]
 	path = au/wu/rxr
 	url = .
+[submodule "au/yq/fpv"]
+	path = au/yq/fpv
+	url = .
 [submodule "au/zg/cdi"]
 	path = au/zg/cdi
 	url = .
