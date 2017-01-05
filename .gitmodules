@@ -5596,6 +5596,9 @@
 [submodule "ge/tv/bat"]
 	path = ge/tv/bat
 	url = .
+[submodule "ge/tv/jbs"]
+	path = ge/tv/jbs
+	url = .
 [submodule "ge/xa/mbf"]
 	path = ge/xa/mbf
 	url = .
