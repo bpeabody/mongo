@@ -6781,6 +6781,9 @@
 [submodule "fo/at/uzx"]
 	path = fo/at/uzx
 	url = .
+[submodule "fo/cn/wfb"]
+	path = fo/cn/wfb
+	url = .
 [submodule "fo/co/xtp"]
 	path = fo/co/xtp
 	url = .
