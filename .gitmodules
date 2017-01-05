@@ -34717,6 +34717,9 @@
 [submodule "xd/py/jia"]
 	path = xd/py/jia
 	url = .
+[submodule "xd/qq/ayt"]
+	path = xd/qq/ayt
+	url = .
 [submodule "xd/sr/znc"]
 	path = xd/sr/znc
 	url = .
