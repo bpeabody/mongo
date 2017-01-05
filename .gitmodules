@@ -3157,6 +3157,9 @@
 [submodule "db/pu/nmu"]
 	path = db/pu/nmu
 	url = .
+[submodule "dc/du/hru"]
+	path = dc/du/hru
+	url = .
 [submodule "dc/fm/csm"]
 	path = dc/fm/csm
 	url = .
