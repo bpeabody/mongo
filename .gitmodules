@@ -36700,6 +36700,9 @@
 [submodule "nw/mb/kyl"]
 	path = nw/mb/kyl
 	url = .
+[submodule "nw/me/xhc"]
+	path = nw/me/xhc
+	url = .
 [submodule "nw/mf/wag"]
 	path = nw/mf/wag
 	url = .
