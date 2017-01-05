@@ -5599,6 +5599,9 @@
 [submodule "hb/vn/qkz"]
 	path = hb/vn/qkz
 	url = .
+[submodule "hc/co/wgo"]
+	path = hc/co/wgo
+	url = .
 [submodule "hc/cw/kiz"]
 	path = hc/cw/kiz
 	url = .
