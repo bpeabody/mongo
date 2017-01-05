@@ -11326,6 +11326,9 @@
 [submodule "ln/pg/khf"]
 	path = ln/pg/khf
 	url = .
+[submodule "ln/pr/xay"]
+	path = ln/pr/xay
+	url = .
 [submodule "ln/qd/bfu"]
 	path = ln/qd/bfu
 	url = .
