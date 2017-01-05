@@ -27862,6 +27862,9 @@
 [submodule "pi/qa/rav"]
 	path = pi/qa/rav
 	url = .
+[submodule "pi/rv/uwu"]
+	path = pi/rv/uwu
+	url = .
 [submodule "pi/ub/emp"]
 	path = pi/ub/emp
 	url = .
