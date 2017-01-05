@@ -55420,6 +55420,9 @@
 [submodule "sw/yf/jpc"]
 	path = sw/yf/jpc
 	url = .
+[submodule "sw/yq/lge"]
+	path = sw/yq/lge
+	url = .
 [submodule "sw/zc/yxk"]
 	path = sw/zc/yxk
 	url = .
