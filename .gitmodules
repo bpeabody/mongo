@@ -4870,6 +4870,9 @@
 [submodule "ns/gz/zel"]
 	path = ns/gz/zel
 	url = .
+[submodule "ns/ha/izb"]
+	path = ns/ha/izb
+	url = .
 [submodule "ns/it/ahr"]
 	path = ns/it/ahr
 	url = .
