@@ -1411,6 +1411,9 @@
 [submodule "ui/sz/htx"]
 	path = ui/sz/htx
 	url = .
+[submodule "uj/oa/smc"]
+	path = uj/oa/smc
+	url = .
 [submodule "uk/zi/tjx"]
 	path = uk/zi/tjx
 	url = .
