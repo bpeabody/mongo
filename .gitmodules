@@ -925,6 +925,9 @@
 [submodule "ax/ax/uan"]
 	path = ax/ax/uan
 	url = .
+[submodule "ax/co/aqs"]
+	path = ax/co/aqs
+	url = .
 [submodule "ax/eb/cpg"]
 	path = ax/eb/cpg
 	url = .
