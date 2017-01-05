@@ -13363,6 +13363,9 @@
 [submodule "hi/tj/kle"]
 	path = hi/tj/kle
 	url = .
+[submodule "hi/vs/xls"]
+	path = hi/vs/xls
+	url = .
 [submodule "hi/wb/jnk"]
 	path = hi/wb/jnk
 	url = .
