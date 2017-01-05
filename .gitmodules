@@ -4870,6 +4870,9 @@
 [submodule "qr/wi/eqn"]
 	path = qr/wi/eqn
 	url = .
+[submodule "qs/cx/nvd"]
+	path = qs/cx/nvd
+	url = .
 [submodule "qs/eq/yrr"]
 	path = qs/eq/yrr
 	url = .
