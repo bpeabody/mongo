@@ -14407,6 +14407,9 @@
 [submodule "ok/jm/mof"]
 	path = ok/jm/mof
 	url = .
+[submodule "ok/jn/ixl"]
+	path = ok/jn/ixl
+	url = .
 [submodule "ok/rv/sjl"]
 	path = ok/rv/sjl
 	url = .
