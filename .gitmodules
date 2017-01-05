@@ -38488,6 +38488,9 @@
 [submodule "pj/jc/bsn"]
 	path = pj/jc/bsn
 	url = .
+[submodule "pj/kl/yng"]
+	path = pj/kl/yng
+	url = .
 [submodule "pj/la/qan"]
 	path = pj/la/qan
 	url = .
