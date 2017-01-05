@@ -3295,6 +3295,9 @@
 [submodule "gh/zc/qwz"]
 	path = gh/zc/qwz
 	url = .
+[submodule "gh/zn/ckr"]
+	path = gh/zn/ckr
+	url = .
 [submodule "gi/gc/qhg"]
 	path = gi/gc/qhg
 	url = .
