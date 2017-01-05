@@ -12850,6 +12850,9 @@
 [submodule "jq/su/rrf"]
 	path = jq/su/rrf
 	url = .
+[submodule "jq/tu/ocd"]
+	path = jq/tu/ocd
+	url = .
 [submodule "jq/wo/faq"]
 	path = jq/wo/faq
 	url = .
