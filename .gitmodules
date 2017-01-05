@@ -148,6 +148,9 @@
 [submodule "zh/ww/rno"]
 	path = zh/ww/rno
 	url = .
+[submodule "zx/od/dtp"]
+	path = zx/od/dtp
+	url = .
 [submodule "zx/zk/xvy"]
 	path = zx/zk/xvy
 	url = .
