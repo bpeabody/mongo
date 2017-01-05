@@ -33055,6 +33055,9 @@
 [submodule "ky/dc/kog"]
 	path = ky/dc/kog
 	url = .
+[submodule "ky/dt/zdg"]
+	path = ky/dt/zdg
+	url = .
 [submodule "ky/dw/pnw"]
 	path = ky/dw/pnw
 	url = .
