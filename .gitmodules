@@ -10273,6 +10273,9 @@
 [submodule "dx/tf/kgi"]
 	path = dx/tf/kgi
 	url = .
+[submodule "dx/tq/gws"]
+	path = dx/tq/gws
+	url = .
 [submodule "dx/tz/usw"]
 	path = dx/tz/usw
 	url = .
