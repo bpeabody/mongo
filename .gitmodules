@@ -10216,6 +10216,9 @@
 [submodule "uv/kq/bjx"]
 	path = uv/kq/bjx
 	url = .
+[submodule "uv/sb/uht"]
+	path = uv/sb/uht
+	url = .
 [submodule "uv/sm/jkr"]
 	path = uv/sm/jkr
 	url = .
