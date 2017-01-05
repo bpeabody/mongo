@@ -4474,6 +4474,9 @@
 [submodule "gq/uh/xnh"]
 	path = gq/uh/xnh
 	url = .
+[submodule "gr/ah/oil"]
+	path = gr/ah/oil
+	url = .
 [submodule "gr/bo/uhs"]
 	path = gr/bo/uhs
 	url = .
