@@ -7603,6 +7603,9 @@
 [submodule "pt/qt/xum"]
 	path = pt/qt/xum
 	url = .
+[submodule "pt/sc/czp"]
+	path = pt/sc/czp
+	url = .
 [submodule "pt/vs/goo"]
 	path = pt/vs/goo
 	url = .
