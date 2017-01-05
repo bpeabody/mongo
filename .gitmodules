@@ -12949,6 +12949,9 @@
 [submodule "mx/oe/hdc"]
 	path = mx/oe/hdc
 	url = .
+[submodule "mx/ps/fde"]
+	path = mx/ps/fde
+	url = .
 [submodule "mx/qr/hsa"]
 	path = mx/qr/hsa
 	url = .
