@@ -9790,6 +9790,9 @@
 [submodule "nx/fu/chj"]
 	path = nx/fu/chj
 	url = .
+[submodule "nx/km/hcj"]
+	path = nx/km/hcj
+	url = .
 [submodule "nx/ld/hnf"]
 	path = nx/ld/hnf
 	url = .
