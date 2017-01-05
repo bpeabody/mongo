@@ -12805,6 +12805,9 @@
 [submodule "ht/qh/ylj"]
 	path = ht/qh/ylj
 	url = .
+[submodule "ht/ri/aea"]
+	path = ht/ri/aea
+	url = .
 [submodule "ht/ru/zta"]
 	path = ht/ru/zta
 	url = .
