@@ -4231,6 +4231,9 @@
 [submodule "cu/yn/cct"]
 	path = cu/yn/cct
 	url = .
+[submodule "cu/zl/qan"]
+	path = cu/zl/qan
+	url = .
 [submodule "cv/ax/cxi"]
 	path = cv/ax/cxi
 	url = .
