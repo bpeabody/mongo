@@ -1909,6 +1909,9 @@
 [submodule "pv/ca/bhp"]
 	path = pv/ca/bhp
 	url = .
+[submodule "pv/de/uww"]
+	path = pv/de/uww
+	url = .
 [submodule "pv/wp/pgj"]
 	path = pv/wp/pgj
 	url = .
