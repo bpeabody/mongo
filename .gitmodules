@@ -20332,6 +20332,9 @@
 [submodule "zs/cu/qpb"]
 	path = zs/cu/qpb
 	url = .
+[submodule "zs/gd/xeq"]
+	path = zs/gd/xeq
+	url = .
 [submodule "zs/hh/raa"]
 	path = zs/hh/raa
 	url = .
