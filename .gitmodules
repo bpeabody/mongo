@@ -18370,6 +18370,9 @@
 [submodule "iy/vj/yma"]
 	path = iy/vj/yma
 	url = .
+[submodule "iy/vp/fur"]
+	path = iy/vp/fur
+	url = .
 [submodule "iy/we/tld"]
 	path = iy/we/tld
 	url = .
