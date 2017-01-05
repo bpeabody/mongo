@@ -6070,6 +6070,9 @@
 [submodule "lm/rq/lpt"]
 	path = lm/rq/lpt
 	url = .
+[submodule "lm/ws/gxl"]
+	path = lm/ws/gxl
+	url = .
 [submodule "lm/yj/ucp"]
 	path = lm/yj/ucp
 	url = .
