@@ -14881,6 +14881,9 @@
 [submodule "nr/ng/kpg"]
 	path = nr/ng/kpg
 	url = .
+[submodule "nr/qx/smm"]
+	path = nr/qx/smm
+	url = .
 [submodule "nr/sp/hoe"]
 	path = nr/sp/hoe
 	url = .
