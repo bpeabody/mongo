@@ -6775,6 +6775,9 @@
 [submodule "go/ah/cuk"]
 	path = go/ah/cuk
 	url = .
+[submodule "go/fj/uyt"]
+	path = go/fj/uyt
+	url = .
 [submodule "go/gc/yhq"]
 	path = go/gc/yhq
 	url = .
