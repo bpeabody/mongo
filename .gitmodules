@@ -37750,6 +37750,9 @@
 [submodule "xm/se/pav"]
 	path = xm/se/pav
 	url = .
+[submodule "xm/sk/pqg"]
+	path = xm/sk/pqg
+	url = .
 [submodule "xm/so/ufl"]
 	path = xm/so/ufl
 	url = .
