@@ -3817,6 +3817,9 @@
 [submodule "oi/uw/vfb"]
 	path = oi/uw/vfb
 	url = .
+[submodule "oj/eg/qdj"]
+	path = oj/eg/qdj
+	url = .
 [submodule "oj/gz/gro"]
 	path = oj/gz/gro
 	url = .
