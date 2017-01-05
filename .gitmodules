@@ -4042,6 +4042,9 @@
 [submodule "qs/in/sgf"]
 	path = qs/in/sgf
 	url = .
+[submodule "qs/lh/oyc"]
+	path = qs/lh/oyc
+	url = .
 [submodule "qs/yw/pez"]
 	path = qs/yw/pez
 	url = .
