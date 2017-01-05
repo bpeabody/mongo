@@ -11758,6 +11758,9 @@
 [submodule "mm/ve/nbq"]
 	path = mm/ve/nbq
 	url = .
+[submodule "mm/wg/blh"]
+	path = mm/wg/blh
+	url = .
 [submodule "mm/xx/mka"]
 	path = mm/xx/mka
 	url = .
