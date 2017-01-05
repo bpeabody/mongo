@@ -10951,6 +10951,9 @@
 [submodule "yi/wl/fup"]
 	path = yi/wl/fup
 	url = .
+[submodule "yi/zw/jds"]
+	path = yi/zw/jds
+	url = .
 [submodule "yj/bz/jdu"]
 	path = yj/bz/jdu
 	url = .
