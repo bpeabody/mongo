@@ -610,6 +610,9 @@
 [submodule "by/gm/iur"]
 	path = by/gm/iur
 	url = .
+[submodule "by/kk/jis"]
+	path = by/kk/jis
+	url = .
 [submodule "by/mj/wqa"]
 	path = by/mj/wqa
 	url = .
