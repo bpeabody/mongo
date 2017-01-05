@@ -52429,6 +52429,9 @@
 [submodule "tg/jo/rdt"]
 	path = tg/jo/rdt
 	url = .
+[submodule "tg/kc/lzc"]
+	path = tg/kc/lzc
+	url = .
 [submodule "tg/kh/ref"]
 	path = tg/kh/ref
 	url = .
