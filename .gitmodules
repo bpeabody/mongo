@@ -3376,6 +3376,9 @@
 [submodule "kh/oe/nix"]
 	path = kh/oe/nix
 	url = .
+[submodule "kh/re/nev"]
+	path = kh/re/nev
+	url = .
 [submodule "ki/hx/keg"]
 	path = ki/hx/keg
 	url = .
