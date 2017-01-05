@@ -40699,6 +40699,9 @@
 [submodule "nx/dc/gsa"]
 	path = nx/dc/gsa
 	url = .
+[submodule "nx/dd/was"]
+	path = nx/dd/was
+	url = .
 [submodule "nx/dg/sre"]
 	path = nx/dg/sre
 	url = .
