@@ -21256,6 +21256,9 @@
 [submodule "le/rb/rka"]
 	path = le/rb/rka
 	url = .
+[submodule "le/ro/gmo"]
+	path = le/ro/gmo
+	url = .
 [submodule "le/sx/oco"]
 	path = le/sx/oco
 	url = .
