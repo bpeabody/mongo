@@ -12550,6 +12550,9 @@
 [submodule "jj/hh/nyg"]
 	path = jj/hh/nyg
 	url = .
+[submodule "jj/hp/eyi"]
+	path = jj/hp/eyi
+	url = .
 [submodule "jj/mk/wol"]
 	path = jj/mk/wol
 	url = .
