@@ -27163,6 +27163,9 @@
 [submodule "jb/vc/nkg"]
 	path = jb/vc/nkg
 	url = .
+[submodule "jb/vw/hkl"]
+	path = jb/vw/hkl
+	url = .
 [submodule "jb/wm/sbh"]
 	path = jb/wm/sbh
 	url = .
