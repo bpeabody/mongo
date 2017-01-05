@@ -40426,6 +40426,9 @@
 [submodule "oq/mx/dhq"]
 	path = oq/mx/dhq
 	url = .
+[submodule "oq/nt/uxr"]
+	path = oq/nt/uxr
+	url = .
 [submodule "oq/nw/hdx"]
 	path = oq/nw/hdx
 	url = .
