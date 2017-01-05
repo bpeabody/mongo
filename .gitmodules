@@ -7774,6 +7774,9 @@
 [submodule "pr/xz/zfm"]
 	path = pr/xz/zfm
 	url = .
+[submodule "ps/fy/qhi"]
+	path = ps/fy/qhi
+	url = .
 [submodule "ps/ld/kvx"]
 	path = ps/ld/kvx
 	url = .
