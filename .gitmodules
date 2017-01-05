@@ -8122,6 +8122,9 @@
 [submodule "mq/gv/ics"]
 	path = mq/gv/ics
 	url = .
+[submodule "mq/hg/mzh"]
+	path = mq/hg/mzh
+	url = .
 [submodule "mq/lw/jau"]
 	path = mq/lw/jau
 	url = .
