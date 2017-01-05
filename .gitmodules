@@ -12721,6 +12721,9 @@
 [submodule "ti/mn/ngn"]
 	path = ti/mn/ngn
 	url = .
+[submodule "ti/nk/cqy"]
+	path = ti/nk/cqy
+	url = .
 [submodule "ti/ta/tcc"]
 	path = ti/ta/tcc
 	url = .
