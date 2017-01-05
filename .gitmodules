@@ -15352,6 +15352,9 @@
 [submodule "kc/bz/ppg"]
 	path = kc/bz/ppg
 	url = .
+[submodule "kc/do/xhc"]
+	path = kc/do/xhc
+	url = .
 [submodule "kc/ec/acn"]
 	path = kc/ec/acn
 	url = .
