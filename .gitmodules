@@ -6364,6 +6364,9 @@
 [submodule "oe/aq/aod"]
 	path = oe/aq/aod
 	url = .
+[submodule "oe/as/ocx"]
+	path = oe/as/ocx
+	url = .
 [submodule "oe/bg/gct"]
 	path = oe/bg/gct
 	url = .
