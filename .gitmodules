@@ -5041,6 +5041,9 @@
 [submodule "cz/xu/fei"]
 	path = cz/xu/fei
 	url = .
+[submodule "da/al/pyd"]
+	path = da/al/pyd
+	url = .
 [submodule "da/ar/eux"]
 	path = da/ar/eux
 	url = .
