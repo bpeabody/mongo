@@ -21562,6 +21562,9 @@
 [submodule "hg/cq/kfn"]
 	path = hg/cq/kfn
 	url = .
+[submodule "hg/dd/poo"]
+	path = hg/dd/poo
+	url = .
 [submodule "hg/dr/muy"]
 	path = hg/dr/muy
 	url = .
