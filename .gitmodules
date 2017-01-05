@@ -1204,6 +1204,9 @@
 [submodule "og/ol/xsl"]
 	path = og/ol/xsl
 	url = .
+[submodule "og/rh/eol"]
+	path = og/rh/eol
+	url = .
 [submodule "og/uj/mdn"]
 	path = og/uj/mdn
 	url = .
