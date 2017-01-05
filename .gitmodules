@@ -331,6 +331,9 @@
 [submodule "ac/uh/ugk"]
 	path = ac/uh/ugk
 	url = .
+[submodule "ac/ul/gqf"]
+	path = ac/ul/gqf
+	url = .
 [submodule "ac/ur/wwf"]
 	path = ac/ur/wwf
 	url = .
