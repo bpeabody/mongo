@@ -51280,6 +51280,9 @@
 [submodule "se/eh/hqc"]
 	path = se/eh/hqc
 	url = .
+[submodule "se/eu/dgr"]
+	path = se/eu/dgr
+	url = .
 [submodule "se/fb/lgi"]
 	path = se/fb/lgi
 	url = .
