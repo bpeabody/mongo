@@ -11941,6 +11941,9 @@
 [submodule "yd/qp/wff"]
 	path = yd/qp/wff
 	url = .
+[submodule "ye/eb/naz"]
+	path = ye/eb/naz
+	url = .
 [submodule "ye/ib/wmo"]
 	path = ye/ib/wmo
 	url = .
