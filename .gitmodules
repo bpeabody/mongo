@@ -8968,6 +8968,9 @@
 [submodule "pg/nv/oxb"]
 	path = pg/nv/oxb
 	url = .
+[submodule "pg/pe/jbc"]
+	path = pg/pe/jbc
+	url = .
 [submodule "pg/wk/uyn"]
 	path = pg/wk/uyn
 	url = .
