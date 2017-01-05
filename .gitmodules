@@ -32128,6 +32128,9 @@
 [submodule "wt/ns/qgx"]
 	path = wt/ns/qgx
 	url = .
+[submodule "wt/qw/swg"]
+	path = wt/qw/swg
+	url = .
 [submodule "wt/rn/xel"]
 	path = wt/rn/xel
 	url = .
