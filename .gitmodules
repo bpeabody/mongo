@@ -8707,6 +8707,9 @@
 [submodule "qb/jx/aoa"]
 	path = qb/jx/aoa
 	url = .
+[submodule "qb/kc/fco"]
+	path = qb/kc/fco
+	url = .
 [submodule "qb/rz/vkx"]
 	path = qb/rz/vkx
 	url = .
