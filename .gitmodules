@@ -21064,6 +21064,9 @@
 [submodule "vo/tt/wtg"]
 	path = vo/tt/wtg
 	url = .
+[submodule "vo/us/hts"]
+	path = vo/us/hts
+	url = .
 [submodule "vo/xn/xee"]
 	path = vo/xn/xee
 	url = .
