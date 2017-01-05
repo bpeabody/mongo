@@ -874,6 +874,9 @@
 [submodule "ar/lc/ark"]
 	path = ar/lc/ark
 	url = .
+[submodule "ar/mf/elr"]
+	path = ar/mf/elr
+	url = .
 [submodule "ar/my/msa"]
 	path = ar/my/msa
 	url = .
