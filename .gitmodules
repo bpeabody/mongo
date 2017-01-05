@@ -13318,6 +13318,9 @@
 [submodule "sv/go/mvu"]
 	path = sv/go/mvu
 	url = .
+[submodule "sv/ml/wdz"]
+	path = sv/ml/wdz
+	url = .
 [submodule "sv/mm/ryh"]
 	path = sv/mm/ryh
 	url = .
