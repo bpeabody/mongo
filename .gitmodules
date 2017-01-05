@@ -18037,6 +18037,9 @@
 [submodule "hw/me/fge"]
 	path = hw/me/fge
 	url = .
+[submodule "hw/mi/ijy"]
+	path = hw/mi/ijy
+	url = .
 [submodule "hw/pb/oev"]
 	path = hw/pb/oev
 	url = .
