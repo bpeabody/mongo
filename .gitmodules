@@ -24532,6 +24532,9 @@
 [submodule "mk/mj/wel"]
 	path = mk/mj/wel
 	url = .
+[submodule "mk/nm/xjb"]
+	path = mk/nm/xjb
+	url = .
 [submodule "mk/nt/wuw"]
 	path = mk/nt/wuw
 	url = .
