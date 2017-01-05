@@ -712,6 +712,9 @@
 [submodule "ag/ps/boh"]
 	path = ag/ps/boh
 	url = .
+[submodule "ag/ps/qej"]
+	path = ag/ps/qej
+	url = .
 [submodule "ag/qp/dop"]
 	path = ag/qp/dop
 	url = .
