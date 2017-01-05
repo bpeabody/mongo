@@ -6631,6 +6631,9 @@
 [submodule "nd/vm/umb"]
 	path = nd/vm/umb
 	url = .
+[submodule "ne/dp/dna"]
+	path = ne/dp/dna
+	url = .
 [submodule "ne/ph/val"]
 	path = ne/ph/val
 	url = .
