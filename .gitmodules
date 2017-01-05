@@ -5944,6 +5944,9 @@
 [submodule "rg/iu/odb"]
 	path = rg/iu/odb
 	url = .
+[submodule "rg/qp/rmk"]
+	path = rg/qp/rmk
+	url = .
 [submodule "rg/tm/ffm"]
 	path = rg/tm/ffm
 	url = .
