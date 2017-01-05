@@ -2722,6 +2722,9 @@
 [submodule "gj/xr/yfd"]
 	path = gj/xr/yfd
 	url = .
+[submodule "gk/mw/ksp"]
+	path = gk/mw/ksp
+	url = .
 [submodule "gk/tf/chi"]
 	path = gk/tf/chi
 	url = .
