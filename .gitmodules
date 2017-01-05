@@ -6772,6 +6772,9 @@
 [submodule "xb/di/hgl"]
 	path = xb/di/hgl
 	url = .
+[submodule "xb/iv/mcl"]
+	path = xb/iv/mcl
+	url = .
 [submodule "xb/lq/brj"]
 	path = xb/lq/brj
 	url = .
