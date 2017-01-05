@@ -21694,6 +21694,9 @@
 [submodule "mt/tl/sih"]
 	path = mt/tl/sih
 	url = .
+[submodule "mt/ub/jxk"]
+	path = mt/ub/jxk
+	url = .
 [submodule "mt/wp/aea"]
 	path = mt/wp/aea
 	url = .
