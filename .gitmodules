@@ -1660,6 +1660,9 @@
 [submodule "ar/my/msa"]
 	path = ar/my/msa
 	url = .
+[submodule "ar/om/ptl"]
+	path = ar/om/ptl
+	url = .
 [submodule "ar/qb/zuy"]
 	path = ar/qb/zuy
 	url = .
