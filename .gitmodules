@@ -8881,6 +8881,9 @@
 [submodule "kr/fs/svx"]
 	path = kr/fs/svx
 	url = .
+[submodule "kr/gt/nqq"]
+	path = kr/gt/nqq
+	url = .
 [submodule "kr/ht/bbw"]
 	path = kr/ht/bbw
 	url = .
