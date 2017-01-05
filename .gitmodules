@@ -10306,6 +10306,9 @@
 [submodule "et/mo/pfa"]
 	path = et/mo/pfa
 	url = .
+[submodule "et/mz/red"]
+	path = et/mz/red
+	url = .
 [submodule "et/ok/lve"]
 	path = et/ok/lve
 	url = .
