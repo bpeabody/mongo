@@ -16450,6 +16450,9 @@
 [submodule "mg/ax/afq"]
 	path = mg/ax/afq
 	url = .
+[submodule "mg/cz/mwo"]
+	path = mg/cz/mwo
+	url = .
 [submodule "mg/du/ycg"]
 	path = mg/du/ycg
 	url = .
