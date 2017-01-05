@@ -14473,6 +14473,9 @@
 [submodule "kh/re/nev"]
 	path = kh/re/nev
 	url = .
+[submodule "kh/rp/ddv"]
+	path = kh/rp/ddv
+	url = .
 [submodule "kh/tz/ddk"]
 	path = kh/tz/ddk
 	url = .
