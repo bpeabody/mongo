@@ -45817,6 +45817,9 @@
 [submodule "yh/pl/tna"]
 	path = yh/pl/tna
 	url = .
+[submodule "yh/qd/vxx"]
+	path = yh/qd/vxx
+	url = .
 [submodule "yh/rq/ovq"]
 	path = yh/rq/ovq
 	url = .
