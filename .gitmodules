@@ -21865,6 +21865,9 @@
 [submodule "ps/fy/qhi"]
 	path = ps/fy/qhi
 	url = .
+[submodule "ps/gk/ezd"]
+	path = ps/gk/ezd
+	url = .
 [submodule "ps/gl/mwi"]
 	path = ps/gl/mwi
 	url = .
