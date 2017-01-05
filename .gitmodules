@@ -12853,6 +12853,9 @@
 [submodule "rs/kp/yit"]
 	path = rs/kp/yit
 	url = .
+[submodule "rs/mq/vpw"]
+	path = rs/mq/vpw
+	url = .
 [submodule "rt/al/dnm"]
 	path = rt/al/dnm
 	url = .
