@@ -6964,6 +6964,9 @@
 [submodule "wn/du/hak"]
 	path = wn/du/hak
 	url = .
+[submodule "wn/fw/bqq"]
+	path = wn/fw/bqq
+	url = .
 [submodule "wn/md/mim"]
 	path = wn/md/mim
 	url = .
