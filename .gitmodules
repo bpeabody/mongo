@@ -22081,6 +22081,9 @@
 [submodule "yr/ez/jbz"]
 	path = yr/ez/jbz
 	url = .
+[submodule "yr/gh/dep"]
+	path = yr/gh/dep
+	url = .
 [submodule "yr/hq/lca"]
 	path = yr/hq/lca
 	url = .
