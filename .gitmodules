@@ -3748,6 +3748,9 @@
 [submodule "qm/uc/cvk"]
 	path = qm/uc/cvk
 	url = .
+[submodule "qn/ak/noa"]
+	path = qn/ak/noa
+	url = .
 [submodule "qn/zk/lni"]
 	path = qn/zk/lni
 	url = .
