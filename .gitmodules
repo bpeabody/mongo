@@ -3337,6 +3337,9 @@
 [submodule "nk/ag/vcr"]
 	path = nk/ag/vcr
 	url = .
+[submodule "nk/vj/fxk"]
+	path = nk/vj/fxk
+	url = .
 [submodule "nl/dm/sql"]
 	path = nl/dm/sql
 	url = .
