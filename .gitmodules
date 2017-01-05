@@ -5095,6 +5095,9 @@
 [submodule "dj/ls/ory"]
 	path = dj/ls/ory
 	url = .
+[submodule "dj/nr/zvz"]
+	path = dj/nr/zvz
+	url = .
 [submodule "dj/og/vfz"]
 	path = dj/og/vfz
 	url = .
