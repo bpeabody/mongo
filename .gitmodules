@@ -4582,6 +4582,9 @@
 [submodule "ly/as/idb"]
 	path = ly/as/idb
 	url = .
+[submodule "ly/ht/fde"]
+	path = ly/ht/fde
+	url = .
 [submodule "ly/od/bnk"]
 	path = ly/od/bnk
 	url = .
