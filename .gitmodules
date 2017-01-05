@@ -57940,6 +57940,9 @@
 [submodule "yd/yn/odk"]
 	path = yd/yn/odk
 	url = .
+[submodule "yd/zj/ftr"]
+	path = yd/zj/ftr
+	url = .
 [submodule "yd/zm/ryq"]
 	path = yd/zm/ryq
 	url = .
