@@ -33490,6 +33490,9 @@
 [submodule "ot/vk/tha"]
 	path = ot/vk/tha
 	url = .
+[submodule "ot/wa/kmr"]
+	path = ot/wa/kmr
+	url = .
 [submodule "ot/wi/cwl"]
 	path = ot/wi/cwl
 	url = .
