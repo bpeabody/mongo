@@ -20725,6 +20725,9 @@
 [submodule "sm/kd/qzd"]
 	path = sm/kd/qzd
 	url = .
+[submodule "sm/ki/qon"]
+	path = sm/ki/qon
+	url = .
 [submodule "sm/lf/drd"]
 	path = sm/lf/drd
 	url = .
