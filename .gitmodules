@@ -9001,6 +9001,9 @@
 [submodule "lk/tc/czj"]
 	path = lk/tc/czj
 	url = .
+[submodule "lk/ua/xlx"]
+	path = lk/ua/xlx
+	url = .
 [submodule "lk/vk/pbu"]
 	path = lk/vk/pbu
 	url = .
