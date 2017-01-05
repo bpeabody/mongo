@@ -565,6 +565,9 @@
 [submodule "aj/xw/ddi"]
 	path = aj/xw/ddi
 	url = .
+[submodule "aj/yk/hgm"]
+	path = aj/yk/hgm
+	url = .
 [submodule "aj/yk/vfi"]
 	path = aj/yk/vfi
 	url = .
