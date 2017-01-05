@@ -51229,6 +51229,9 @@
 [submodule "st/uc/xgi"]
 	path = st/uc/xgi
 	url = .
+[submodule "st/uw/nej"]
+	path = st/uw/nej
+	url = .
 [submodule "st/vy/brm"]
 	path = st/vy/brm
 	url = .
