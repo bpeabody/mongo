@@ -5062,6 +5062,9 @@
 [submodule "fg/kn/yug"]
 	path = fg/kn/yug
 	url = .
+[submodule "fg/mj/nuq"]
+	path = fg/mj/nuq
+	url = .
 [submodule "fg/nx/fzr"]
 	path = fg/nx/fzr
 	url = .
