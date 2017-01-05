@@ -1093,6 +1093,9 @@
 [submodule "ei/qo/eum"]
 	path = ei/qo/eum
 	url = .
+[submodule "ei/tb/hjp"]
+	path = ei/tb/hjp
+	url = .
 [submodule "ej/ig/vxm"]
 	path = ej/ig/vxm
 	url = .
