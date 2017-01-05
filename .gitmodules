@@ -1711,6 +1711,9 @@
 [submodule "ct/kk/qnb"]
 	path = ct/kk/qnb
 	url = .
+[submodule "ct/kz/eqt"]
+	path = ct/kz/eqt
+	url = .
 [submodule "ct/ma/qjg"]
 	path = ct/ma/qjg
 	url = .
