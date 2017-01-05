@@ -7180,6 +7180,9 @@
 [submodule "qr/zc/dff"]
 	path = qr/zc/dff
 	url = .
+[submodule "qs/ck/usm"]
+	path = qs/ck/usm
+	url = .
 [submodule "qs/cx/nvd"]
 	path = qs/cx/nvd
 	url = .
