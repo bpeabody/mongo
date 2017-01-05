@@ -30931,6 +30931,9 @@
 [submodule "uz/pz/tnx"]
 	path = uz/pz/tnx
 	url = .
+[submodule "uz/sn/nkn"]
+	path = uz/sn/nkn
+	url = .
 [submodule "va/fw/fkt"]
 	path = va/fw/fkt
 	url = .
