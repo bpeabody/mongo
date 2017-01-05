@@ -11821,6 +11821,9 @@
 [submodule "qe/sx/rhw"]
 	path = qe/sx/rhw
 	url = .
+[submodule "qe/wd/bzb"]
+	path = qe/wd/bzb
+	url = .
 [submodule "qe/xp/wit"]
 	path = qe/xp/wit
 	url = .
