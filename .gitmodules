@@ -15559,6 +15559,9 @@
 [submodule "oy/kc/hez"]
 	path = oy/kc/hez
 	url = .
+[submodule "oy/lq/sqy"]
+	path = oy/lq/sqy
+	url = .
 [submodule "oy/mx/wmm"]
 	path = oy/mx/wmm
 	url = .
