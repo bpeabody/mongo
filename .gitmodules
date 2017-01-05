@@ -16198,6 +16198,9 @@
 [submodule "sy/jz/odn"]
 	path = sy/jz/odn
 	url = .
+[submodule "sy/li/sqb"]
+	path = sy/li/sqb
+	url = .
 [submodule "sy/oq/lny"]
 	path = sy/oq/lny
 	url = .
