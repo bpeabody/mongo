@@ -53083,6 +53083,9 @@
 [submodule "yu/bn/hsk"]
 	path = yu/bn/hsk
 	url = .
+[submodule "yu/bo/wac"]
+	path = yu/bo/wac
+	url = .
 [submodule "yu/bt/qfg"]
 	path = yu/bt/qfg
 	url = .
