@@ -16162,6 +16162,9 @@
 [submodule "qe/cc/maj"]
 	path = qe/cc/maj
 	url = .
+[submodule "qe/dh/aha"]
+	path = qe/dh/aha
+	url = .
 [submodule "qe/ed/ezh"]
 	path = qe/ed/ezh
 	url = .
