@@ -33766,6 +33766,9 @@
 [submodule "tx/cm/nla"]
 	path = tx/cm/nla
 	url = .
+[submodule "tx/dx/tqi"]
+	path = tx/dx/tqi
+	url = .
 [submodule "tx/ep/rut"]
 	path = tx/ep/rut
 	url = .
