@@ -36745,6 +36745,9 @@
 [submodule "oj/ro/kox"]
 	path = oj/ro/kox
 	url = .
+[submodule "oj/sq/ntj"]
+	path = oj/sq/ntj
+	url = .
 [submodule "oj/st/jhi"]
 	path = oj/st/jhi
 	url = .
