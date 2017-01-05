@@ -12592,6 +12592,9 @@
 [submodule "rl/qi/yjo"]
 	path = rl/qi/yjo
 	url = .
+[submodule "rl/rx/usm"]
+	path = rl/rx/usm
+	url = .
 [submodule "rl/yr/qby"]
 	path = rl/yr/qby
 	url = .
