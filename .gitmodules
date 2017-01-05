@@ -2788,6 +2788,9 @@
 [submodule "cl/vj/yrf"]
 	path = cl/vj/yrf
 	url = .
+[submodule "cl/yl/ndy"]
+	path = cl/yl/ndy
+	url = .
 [submodule "cl/zj/kao"]
 	path = cl/zj/kao
 	url = .
