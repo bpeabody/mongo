@@ -3637,6 +3637,9 @@
 [submodule "rv/wf/doj"]
 	path = rv/wf/doj
 	url = .
+[submodule "rw/fw/kps"]
+	path = rw/fw/kps
+	url = .
 [submodule "rw/qp/gos"]
 	path = rw/qp/gos
 	url = .
