@@ -1213,6 +1213,9 @@
 [submodule "al/ec/ewi"]
 	path = al/ec/ewi
 	url = .
+[submodule "al/ep/qec"]
+	path = al/ep/qec
+	url = .
 [submodule "al/fb/wkh"]
 	path = al/fb/wkh
 	url = .
