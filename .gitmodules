@@ -6928,6 +6928,9 @@
 [submodule "qs/lh/oyc"]
 	path = qs/lh/oyc
 	url = .
+[submodule "qs/sc/eim"]
+	path = qs/sc/eim
+	url = .
 [submodule "qs/yw/pez"]
 	path = qs/yw/pez
 	url = .
