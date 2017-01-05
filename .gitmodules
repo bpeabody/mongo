@@ -41635,6 +41635,9 @@
 [submodule "tc/up/may"]
 	path = tc/up/may
 	url = .
+[submodule "tc/vn/mps"]
+	path = tc/vn/mps
+	url = .
 [submodule "tc/yg/jde"]
 	path = tc/yg/jde
 	url = .
