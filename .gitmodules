@@ -12979,6 +12979,9 @@
 [submodule "ir/go/bnf"]
 	path = ir/go/bnf
 	url = .
+[submodule "ir/hx/hai"]
+	path = ir/hx/hai
+	url = .
 [submodule "ir/ib/rka"]
 	path = ir/ib/rka
 	url = .
