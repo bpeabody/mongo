@@ -2050,6 +2050,9 @@
 [submodule "fa/gm/euf"]
 	path = fa/gm/euf
 	url = .
+[submodule "fa/qv/urz"]
+	path = fa/qv/urz
+	url = .
 [submodule "fa/vv/mbk"]
 	path = fa/vv/mbk
 	url = .
