@@ -10582,6 +10582,9 @@
 [submodule "ud/kp/zsr"]
 	path = ud/kp/zsr
 	url = .
+[submodule "ud/oc/lzu"]
+	path = ud/oc/lzu
+	url = .
 [submodule "ud/rn/pvx"]
 	path = ud/rn/pvx
 	url = .
