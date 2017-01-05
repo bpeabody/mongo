@@ -24505,6 +24505,9 @@
 [submodule "oe/nd/hcj"]
 	path = oe/nd/hcj
 	url = .
+[submodule "oe/os/adq"]
+	path = oe/os/adq
+	url = .
 [submodule "oe/pk/tub"]
 	path = oe/pk/tub
 	url = .
