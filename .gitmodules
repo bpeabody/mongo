@@ -43276,6 +43276,9 @@
 [submodule "wi/mo/wqb"]
 	path = wi/mo/wqb
 	url = .
+[submodule "wi/mr/nyg"]
+	path = wi/mr/nyg
+	url = .
 [submodule "wi/nd/xty"]
 	path = wi/nd/xty
 	url = .
