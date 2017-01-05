@@ -25624,6 +25624,9 @@
 [submodule "na/sl/ook"]
 	path = na/sl/ook
 	url = .
+[submodule "na/uk/sqa"]
+	path = na/uk/sqa
+	url = .
 [submodule "na/xs/qha"]
 	path = na/xs/qha
 	url = .
