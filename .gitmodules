@@ -9469,6 +9469,9 @@
 [submodule "iq/gc/srh"]
 	path = iq/gc/srh
 	url = .
+[submodule "iq/gh/gvc"]
+	path = iq/gh/gvc
+	url = .
 [submodule "iq/hq/fjt"]
 	path = iq/hq/fjt
 	url = .
