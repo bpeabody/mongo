@@ -33880,6 +33880,9 @@
 [submodule "sv/jg/snb"]
 	path = sv/jg/snb
 	url = .
+[submodule "sv/kd/reh"]
+	path = sv/kd/reh
+	url = .
 [submodule "sv/kr/lio"]
 	path = sv/kr/lio
 	url = .
