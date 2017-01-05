@@ -4231,6 +4231,9 @@
 [submodule "bo/pm/pgs"]
 	path = bo/pm/pgs
 	url = .
+[submodule "bo/qb/hir"]
+	path = bo/qb/hir
+	url = .
 [submodule "bo/qt/tqj"]
 	path = bo/qt/tqj
 	url = .
