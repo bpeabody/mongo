@@ -6721,6 +6721,9 @@
 [submodule "dg/in/ups"]
 	path = dg/in/ups
 	url = .
+[submodule "dg/jc/wqx"]
+	path = dg/jc/wqx
+	url = .
 [submodule "dg/je/noh"]
 	path = dg/je/noh
 	url = .
