@@ -19465,6 +19465,9 @@
 [submodule "yj/ld/lfd"]
 	path = yj/ld/lfd
 	url = .
+[submodule "yj/md/ywv"]
+	path = yj/md/ywv
+	url = .
 [submodule "yj/sy/zbb"]
 	path = yj/sy/zbb
 	url = .
