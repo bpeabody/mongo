@@ -2302,6 +2302,9 @@
 [submodule "dq/uc/bwb"]
 	path = dq/uc/bwb
 	url = .
+[submodule "dq/wq/hmj"]
+	path = dq/wq/hmj
+	url = .
 [submodule "dq/xp/tyy"]
 	path = dq/xp/tyy
 	url = .
