@@ -3121,6 +3121,9 @@
 [submodule "bn/xh/vka"]
 	path = bn/xh/vka
 	url = .
+[submodule "bn/xo/cpp"]
+	path = bn/xo/cpp
+	url = .
 [submodule "bo/au/zsj"]
 	path = bo/au/zsj
 	url = .
