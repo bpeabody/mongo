@@ -7048,6 +7048,9 @@
 [submodule "rw/qp/gos"]
 	path = rw/qp/gos
 	url = .
+[submodule "rw/qv/cga"]
+	path = rw/qv/cga
+	url = .
 [submodule "rw/tx/ldj"]
 	path = rw/tx/ldj
 	url = .
