@@ -12532,6 +12532,9 @@
 [submodule "np/dq/tke"]
 	path = np/dq/tke
 	url = .
+[submodule "np/ex/wye"]
+	path = np/ex/wye
+	url = .
 [submodule "np/hn/mcg"]
 	path = np/hn/mcg
 	url = .
