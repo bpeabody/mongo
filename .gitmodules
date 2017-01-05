@@ -32644,6 +32644,9 @@
 [submodule "nq/wu/exa"]
 	path = nq/wu/exa
 	url = .
+[submodule "nq/xs/sik"]
+	path = nq/xs/sik
+	url = .
 [submodule "nq/yg/bfp"]
 	path = nq/yg/bfp
 	url = .
