@@ -39568,6 +39568,9 @@
 [submodule "rs/wt/bko"]
 	path = rs/wt/bko
 	url = .
+[submodule "rs/xb/tdq"]
+	path = rs/xb/tdq
+	url = .
 [submodule "rs/yj/teg"]
 	path = rs/yj/teg
 	url = .
