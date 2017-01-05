@@ -41866,6 +41866,9 @@
 [submodule "sb/fd/vwl"]
 	path = sb/fd/vwl
 	url = .
+[submodule "sb/ff/ros"]
+	path = sb/ff/ros
+	url = .
 [submodule "sb/ft/dpl"]
 	path = sb/ft/dpl
 	url = .
