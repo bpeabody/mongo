@@ -274,6 +274,9 @@
 [submodule "ai/fx/imv"]
 	path = ai/fx/imv
 	url = .
+[submodule "ai/gb/nnv"]
+	path = ai/gb/nnv
+	url = .
 [submodule "ai/ir/zjr"]
 	path = ai/ir/zjr
 	url = .
