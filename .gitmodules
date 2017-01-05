@@ -38170,6 +38170,9 @@
 [submodule "sy/fj/ryo"]
 	path = sy/fj/ryo
 	url = .
+[submodule "sy/ft/tnn"]
+	path = sy/ft/tnn
+	url = .
 [submodule "sy/gx/qvw"]
 	path = sy/gx/qvw
 	url = .
