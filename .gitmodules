@@ -50428,6 +50428,9 @@
 [submodule "sw/ke/fqn"]
 	path = sw/ke/fqn
 	url = .
+[submodule "sw/kt/tki"]
+	path = sw/kt/tki
+	url = .
 [submodule "sw/ld/ybv"]
 	path = sw/ld/ybv
 	url = .
