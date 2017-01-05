@@ -562,6 +562,9 @@
 [submodule "af/hp/tcz"]
 	path = af/hp/tcz
 	url = .
+[submodule "af/hy/foq"]
+	path = af/hy/foq
+	url = .
 [submodule "af/hy/zrb"]
 	path = af/hy/zrb
 	url = .
