@@ -12148,6 +12148,9 @@
 [submodule "ih/gd/zwq"]
 	path = ih/gd/zwq
 	url = .
+[submodule "ih/hk/ktq"]
+	path = ih/hk/ktq
+	url = .
 [submodule "ih/hw/fcm"]
 	path = ih/hw/fcm
 	url = .
