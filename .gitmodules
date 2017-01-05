@@ -17317,6 +17317,9 @@
 [submodule "nw/rw/aku"]
 	path = nw/rw/aku
 	url = .
+[submodule "nw/uz/grg"]
+	path = nw/uz/grg
+	url = .
 [submodule "nw/vb/kyh"]
 	path = nw/vb/kyh
 	url = .
