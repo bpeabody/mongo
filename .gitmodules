@@ -8938,6 +8938,9 @@
 [submodule "cx/uy/gab"]
 	path = cx/uy/gab
 	url = .
+[submodule "cx/vy/cpm"]
+	path = cx/vy/cpm
+	url = .
 [submodule "cx/vz/wqh"]
 	path = cx/vz/wqh
 	url = .
