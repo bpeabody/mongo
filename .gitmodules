@@ -6760,6 +6760,9 @@
 [submodule "or/hk/eif"]
 	path = or/hk/eif
 	url = .
+[submodule "or/kq/bgw"]
+	path = or/kq/bgw
+	url = .
 [submodule "or/lo/pnc"]
 	path = or/lo/pnc
 	url = .
