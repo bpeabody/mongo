@@ -13486,6 +13486,9 @@
 [submodule "gj/lp/tgs"]
 	path = gj/lp/tgs
 	url = .
+[submodule "gj/lt/dhc"]
+	path = gj/lt/dhc
+	url = .
 [submodule "gj/lz/ykd"]
 	path = gj/lz/ykd
 	url = .
