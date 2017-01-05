@@ -12121,6 +12121,9 @@
 [submodule "kd/br/xxg"]
 	path = kd/br/xxg
 	url = .
+[submodule "kd/cf/upb"]
+	path = kd/cf/upb
+	url = .
 [submodule "kd/da/pys"]
 	path = kd/da/pys
 	url = .
