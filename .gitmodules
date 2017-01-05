@@ -32323,6 +32323,9 @@
 [submodule "ox/wc/upa"]
 	path = ox/wc/upa
 	url = .
+[submodule "ox/xp/xir"]
+	path = ox/xp/xir
+	url = .
 [submodule "ox/yl/ntr"]
 	path = ox/yl/ntr
 	url = .
