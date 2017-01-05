@@ -40162,6 +40162,9 @@
 [submodule "rc/rv/exs"]
 	path = rc/rv/exs
 	url = .
+[submodule "rc/sm/cpv"]
+	path = rc/sm/cpv
+	url = .
 [submodule "rc/sy/pqs"]
 	path = rc/sy/pqs
 	url = .
