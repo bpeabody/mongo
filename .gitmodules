@@ -5530,6 +5530,9 @@
 [submodule "jz/gk/gnq"]
 	path = jz/gk/gnq
 	url = .
+[submodule "jz/hn/nri"]
+	path = jz/hn/nri
+	url = .
 [submodule "jz/ie/ghd"]
 	path = jz/ie/ghd
 	url = .
