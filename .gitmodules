@@ -4015,6 +4015,9 @@
 [submodule "sw/th/rtc"]
 	path = sw/th/rtc
 	url = .
+[submodule "sx/bo/ilu"]
+	path = sx/bo/ilu
+	url = .
 [submodule "sx/hy/odo"]
 	path = sx/hy/odo
 	url = .
