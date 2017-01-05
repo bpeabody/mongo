@@ -529,6 +529,9 @@
 [submodule "av/ai/vvo"]
 	path = av/ai/vvo
 	url = .
+[submodule "av/ay/jwk"]
+	path = av/ay/jwk
+	url = .
 [submodule "av/my/iji"]
 	path = av/my/iji
 	url = .
