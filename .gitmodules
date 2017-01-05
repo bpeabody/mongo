@@ -47440,6 +47440,9 @@
 [submodule "vq/kf/aap"]
 	path = vq/kf/aap
 	url = .
+[submodule "vq/kv/hzo"]
+	path = vq/kv/hzo
+	url = .
 [submodule "vq/lr/mrv"]
 	path = vq/lr/mrv
 	url = .
