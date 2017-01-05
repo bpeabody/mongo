@@ -3988,6 +3988,9 @@
 [submodule "fm/mt/ulx"]
 	path = fm/mt/ulx
 	url = .
+[submodule "fm/vu/tji"]
+	path = fm/vu/tji
+	url = .
 [submodule "fm/ya/swu"]
 	path = fm/ya/swu
 	url = .
