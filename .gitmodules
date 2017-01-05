@@ -18031,6 +18031,9 @@
 [submodule "uq/fr/xtq"]
 	path = uq/fr/xtq
 	url = .
+[submodule "uq/gv/haz"]
+	path = uq/gv/haz
+	url = .
 [submodule "uq/jz/pjb"]
 	path = uq/jz/pjb
 	url = .
