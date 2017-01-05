@@ -4657,6 +4657,9 @@
 [submodule "cm/mk/dxu"]
 	path = cm/mk/dxu
 	url = .
+[submodule "cm/nh/foh"]
+	path = cm/nh/foh
+	url = .
 [submodule "cm/og/afj"]
 	path = cm/og/afj
 	url = .
