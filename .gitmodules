@@ -43363,6 +43363,9 @@
 [submodule "qo/ph/akg"]
 	path = qo/ph/akg
 	url = .
+[submodule "qo/qu/nne"]
+	path = qo/qu/nne
+	url = .
 [submodule "qo/rt/fir"]
 	path = qo/rt/fir
 	url = .
