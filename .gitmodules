@@ -40300,6 +40300,9 @@
 [submodule "ot/kq/tbl"]
 	path = ot/kq/tbl
 	url = .
+[submodule "ot/le/ica"]
+	path = ot/le/ica
+	url = .
 [submodule "ot/ls/ebl"]
 	path = ot/ls/ebl
 	url = .
