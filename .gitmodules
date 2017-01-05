@@ -6808,6 +6808,9 @@
 [submodule "ef/xc/jlo"]
 	path = ef/xc/jlo
 	url = .
+[submodule "ef/xv/gsn"]
+	path = ef/xv/gsn
+	url = .
 [submodule "ef/yg/qaw"]
 	path = ef/yg/qaw
 	url = .
