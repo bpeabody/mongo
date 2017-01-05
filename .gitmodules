@@ -18751,6 +18751,9 @@
 [submodule "nm/ih/szz"]
 	path = nm/ih/szz
 	url = .
+[submodule "nm/lk/jot"]
+	path = nm/lk/jot
+	url = .
 [submodule "nm/oo/kpv"]
 	path = nm/oo/kpv
 	url = .
