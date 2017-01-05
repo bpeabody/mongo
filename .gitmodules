@@ -7276,6 +7276,9 @@
 [submodule "dq/uc/bwb"]
 	path = dq/uc/bwb
 	url = .
+[submodule "dq/vt/cpl"]
+	path = dq/vt/cpl
+	url = .
 [submodule "dq/wq/hmj"]
 	path = dq/wq/hmj
 	url = .
