@@ -8518,6 +8518,9 @@
 [submodule "np/hp/zbv"]
 	path = np/hp/zbv
 	url = .
+[submodule "np/iq/zzt"]
+	path = np/iq/zzt
+	url = .
 [submodule "np/kd/key"]
 	path = np/kd/key
 	url = .
