@@ -17236,6 +17236,9 @@
 [submodule "kb/lw/qlc"]
 	path = kb/lw/qlc
 	url = .
+[submodule "kb/lx/cnn"]
+	path = kb/lx/cnn
+	url = .
 [submodule "kb/nc/meo"]
 	path = kb/nc/meo
 	url = .
