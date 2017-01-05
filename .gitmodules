@@ -1723,6 +1723,9 @@
 [submodule "ap/gv/qcr"]
 	path = ap/gv/qcr
 	url = .
+[submodule "ap/ib/qpy"]
+	path = ap/ib/qpy
+	url = .
 [submodule "ap/ir/nzg"]
 	path = ap/ir/nzg
 	url = .
