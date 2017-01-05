@@ -1750,6 +1750,9 @@
 [submodule "ob/xk/pqg"]
 	path = ob/xk/pqg
 	url = .
+[submodule "oc/js/bmo"]
+	path = oc/js/bmo
+	url = .
 [submodule "oc/tm/nla"]
 	path = oc/tm/nla
 	url = .
