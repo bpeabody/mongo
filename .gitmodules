@@ -45091,6 +45091,9 @@
 [submodule "wv/wo/ntd"]
 	path = wv/wo/ntd
 	url = .
+[submodule "wv/wx/avf"]
+	path = wv/wx/avf
+	url = .
 [submodule "wv/xs/ued"]
 	path = wv/xs/ued
 	url = .
