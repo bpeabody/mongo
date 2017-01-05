@@ -7765,6 +7765,9 @@
 [submodule "fk/sj/ary"]
 	path = fk/sj/ary
 	url = .
+[submodule "fk/sm/zrj"]
+	path = fk/sm/zrj
+	url = .
 [submodule "fk/sw/myg"]
 	path = fk/sw/myg
 	url = .
