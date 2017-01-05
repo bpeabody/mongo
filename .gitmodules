@@ -2062,6 +2062,9 @@
 [submodule "cj/ua/eft"]
 	path = cj/ua/eft
 	url = .
+[submodule "ck/at/yyf"]
+	path = ck/at/yyf
+	url = .
 [submodule "ck/bg/imc"]
 	path = ck/bg/imc
 	url = .
