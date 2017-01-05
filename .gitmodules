@@ -56320,6 +56320,9 @@
 [submodule "uq/nh/nfq"]
 	path = uq/nh/nfq
 	url = .
+[submodule "uq/pa/qix"]
+	path = uq/pa/qix
+	url = .
 [submodule "uq/ph/nmf"]
 	path = uq/ph/nmf
 	url = .
