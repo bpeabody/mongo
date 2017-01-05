@@ -38815,6 +38815,9 @@
 [submodule "nr/ei/nns"]
 	path = nr/ei/nns
 	url = .
+[submodule "nr/fx/uwg"]
+	path = nr/fx/uwg
+	url = .
 [submodule "nr/hq/oft"]
 	path = nr/hq/oft
 	url = .
