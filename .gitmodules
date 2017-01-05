@@ -15817,6 +15817,9 @@
 [submodule "xv/ud/gqt"]
 	path = xv/ud/gqt
 	url = .
+[submodule "xv/xf/vtg"]
+	path = xv/xf/vtg
+	url = .
 [submodule "xw/bh/jyc"]
 	path = xw/bh/jyc
 	url = .
