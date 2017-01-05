@@ -4894,6 +4894,9 @@
 [submodule "ga/ut/ygg"]
 	path = ga/ut/ygg
 	url = .
+[submodule "ga/yy/igv"]
+	path = ga/yy/igv
+	url = .
 [submodule "gb/ac/ljd"]
 	path = gb/ac/ljd
 	url = .
