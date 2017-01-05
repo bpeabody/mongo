@@ -30616,6 +30616,9 @@
 [submodule "kv/lr/hwf"]
 	path = kv/lr/hwf
 	url = .
+[submodule "kv/mb/bin"]
+	path = kv/mb/bin
+	url = .
 [submodule "kv/md/kfd"]
 	path = kv/md/kfd
 	url = .
