@@ -895,6 +895,9 @@
 [submodule "az/eq/xkj"]
 	path = az/eq/xkj
 	url = .
+[submodule "az/fi/brn"]
+	path = az/fi/brn
+	url = .
 [submodule "az/fp/mpx"]
 	path = az/fp/mpx
 	url = .
