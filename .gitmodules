@@ -4930,6 +4930,9 @@
 [submodule "cq/wb/uro"]
 	path = cq/wb/uro
 	url = .
+[submodule "cq/ws/hsl"]
+	path = cq/ws/hsl
+	url = .
 [submodule "cq/xg/fry"]
 	path = cq/xg/fry
 	url = .
