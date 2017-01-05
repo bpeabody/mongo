@@ -25348,6 +25348,9 @@
 [submodule "lr/qm/hya"]
 	path = lr/qm/hya
 	url = .
+[submodule "lr/ry/ddb"]
+	path = lr/ry/ddb
+	url = .
 [submodule "lr/th/orw"]
 	path = lr/th/orw
 	url = .
