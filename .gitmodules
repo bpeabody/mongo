@@ -57355,6 +57355,9 @@
 [submodule "ts/wc/kom"]
 	path = ts/wc/kom
 	url = .
+[submodule "ts/wd/zsp"]
+	path = ts/wd/zsp
+	url = .
 [submodule "ts/wz/kug"]
 	path = ts/wz/kug
 	url = .
