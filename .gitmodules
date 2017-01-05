@@ -25207,6 +25207,9 @@
 [submodule "je/ws/egx"]
 	path = je/ws/egx
 	url = .
+[submodule "je/ym/vxg"]
+	path = je/ym/vxg
+	url = .
 [submodule "je/yn/mbp"]
 	path = je/yn/mbp
 	url = .
