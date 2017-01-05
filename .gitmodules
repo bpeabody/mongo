@@ -9322,6 +9322,9 @@
 [submodule "ev/fn/yrj"]
 	path = ev/fn/yrj
 	url = .
+[submodule "ev/gu/tgd"]
+	path = ev/gu/tgd
+	url = .
 [submodule "ev/hh/vzt"]
 	path = ev/hh/vzt
 	url = .
