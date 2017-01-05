@@ -27502,6 +27502,9 @@
 [submodule "jl/ua/wck"]
 	path = jl/ua/wck
 	url = .
+[submodule "jl/vc/qen"]
+	path = jl/vc/qen
+	url = .
 [submodule "jl/vm/fpu"]
 	path = jl/vm/fpu
 	url = .
