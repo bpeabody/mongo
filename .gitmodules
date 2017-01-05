@@ -28042,6 +28042,9 @@
 [submodule "ng/yu/rrs"]
 	path = ng/yu/rrs
 	url = .
+[submodule "nh/ar/rip"]
+	path = nh/ar/rip
+	url = .
 [submodule "nh/bb/foy"]
 	path = nh/bb/foy
 	url = .
