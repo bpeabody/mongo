@@ -23209,6 +23209,9 @@
 [submodule "ri/qq/sqh"]
 	path = ri/qq/sqh
 	url = .
+[submodule "ri/rb/edn"]
+	path = ri/rb/edn
+	url = .
 [submodule "ri/rp/cjx"]
 	path = ri/rp/cjx
 	url = .
