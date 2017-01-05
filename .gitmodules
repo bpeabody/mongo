@@ -12193,6 +12193,9 @@
 [submodule "fw/kq/vio"]
 	path = fw/kq/vio
 	url = .
+[submodule "fw/lc/pxc"]
+	path = fw/lc/pxc
+	url = .
 [submodule "fw/le/shw"]
 	path = fw/le/shw
 	url = .
