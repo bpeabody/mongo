@@ -646,6 +646,9 @@
 [submodule "ep/af/pop"]
 	path = ep/af/pop
 	url = .
+[submodule "ep/bq/xbu"]
+	path = ep/bq/xbu
+	url = .
 [submodule "ep/fa/ejp"]
 	path = ep/fa/ejp
 	url = .
