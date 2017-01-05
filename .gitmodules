@@ -19624,6 +19624,9 @@
 [submodule "gs/ai/uhe"]
 	path = gs/ai/uhe
 	url = .
+[submodule "gs/an/qia"]
+	path = gs/an/qia
+	url = .
 [submodule "gs/ar/suc"]
 	path = gs/ar/suc
 	url = .
