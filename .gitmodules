@@ -6568,6 +6568,9 @@
 [submodule "jl/bj/dpi"]
 	path = jl/bj/dpi
 	url = .
+[submodule "jl/cf/vxy"]
+	path = jl/cf/vxy
+	url = .
 [submodule "jl/ja/kyl"]
 	path = jl/ja/kyl
 	url = .
