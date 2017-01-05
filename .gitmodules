@@ -41836,6 +41836,9 @@
 [submodule "uw/he/jca"]
 	path = uw/he/jca
 	url = .
+[submodule "uw/ic/lge"]
+	path = uw/ic/lge
+	url = .
 [submodule "uw/ix/swk"]
 	path = uw/ix/swk
 	url = .
