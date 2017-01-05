@@ -21814,6 +21814,9 @@
 [submodule "lu/va/obg"]
 	path = lu/va/obg
 	url = .
+[submodule "lu/ws/svk"]
+	path = lu/ws/svk
+	url = .
 [submodule "lu/wv/kpn"]
 	path = lu/wv/kpn
 	url = .
