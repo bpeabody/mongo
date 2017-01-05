@@ -24406,6 +24406,9 @@
 [submodule "kp/en/viq"]
 	path = kp/en/viq
 	url = .
+[submodule "kp/gv/zgm"]
+	path = kp/gv/zgm
+	url = .
 [submodule "kp/jm/zzy"]
 	path = kp/jm/zzy
 	url = .
