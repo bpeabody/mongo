@@ -10510,6 +10510,9 @@
 [submodule "nr/ng/kpg"]
 	path = nr/ng/kpg
 	url = .
+[submodule "nr/sp/hoe"]
+	path = nr/sp/hoe
+	url = .
 [submodule "nr/tg/nwo"]
 	path = nr/tg/nwo
 	url = .
