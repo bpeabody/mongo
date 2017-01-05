@@ -1354,6 +1354,9 @@
 [submodule "kx/ac/wqc"]
 	path = kx/ac/wqc
 	url = .
+[submodule "kx/nz/rzd"]
+	path = kx/nz/rzd
+	url = .
 [submodule "kx/wx/cgq"]
 	path = kx/wx/cgq
 	url = .
