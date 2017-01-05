@@ -27616,6 +27616,9 @@
 [submodule "ks/cs/sdh"]
 	path = ks/cs/sdh
 	url = .
+[submodule "ks/da/cpk"]
+	path = ks/da/cpk
+	url = .
 [submodule "ks/fg/zod"]
 	path = ks/fg/zod
 	url = .
