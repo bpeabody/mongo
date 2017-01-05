@@ -5035,6 +5035,9 @@
 [submodule "fr/qv/atl"]
 	path = fr/qv/atl
 	url = .
+[submodule "fr/rs/gae"]
+	path = fr/rs/gae
+	url = .
 [submodule "fr/rs/ygf"]
 	path = fr/rs/ygf
 	url = .
