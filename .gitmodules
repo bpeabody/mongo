@@ -6574,6 +6574,9 @@
 [submodule "mm/yv/fno"]
 	path = mm/yv/fno
 	url = .
+[submodule "mn/eo/crq"]
+	path = mn/eo/crq
+	url = .
 [submodule "mn/gu/mvl"]
 	path = mn/gu/mvl
 	url = .
