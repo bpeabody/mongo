@@ -24355,6 +24355,9 @@
 [submodule "pp/ud/mka"]
 	path = pp/ud/mka
 	url = .
+[submodule "pp/wa/nar"]
+	path = pp/wa/nar
+	url = .
 [submodule "pp/wn/ygs"]
 	path = pp/wn/ygs
 	url = .
