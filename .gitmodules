@@ -12031,6 +12031,9 @@
 [submodule "ls/nm/zco"]
 	path = ls/nm/zco
 	url = .
+[submodule "ls/nw/bgl"]
+	path = ls/nw/bgl
+	url = .
 [submodule "ls/om/cxf"]
 	path = ls/om/cxf
 	url = .
