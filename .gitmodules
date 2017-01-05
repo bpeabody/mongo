@@ -25645,6 +25645,9 @@
 [submodule "oj/gz/vfo"]
 	path = oj/gz/vfo
 	url = .
+[submodule "oj/hn/yus"]
+	path = oj/hn/yus
+	url = .
 [submodule "oj/id/qqe"]
 	path = oj/id/qqe
 	url = .
