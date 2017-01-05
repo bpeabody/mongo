@@ -274,6 +274,9 @@
 [submodule "ba/oy/aca"]
 	path = ba/oy/aca
 	url = .
+[submodule "ba/tp/lcn"]
+	path = ba/tp/lcn
+	url = .
 [submodule "ba/vp/pul"]
 	path = ba/vp/pul
 	url = .
