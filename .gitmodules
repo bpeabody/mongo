@@ -2236,6 +2236,9 @@
 [submodule "bg/wc/ghx"]
 	path = bg/wc/ghx
 	url = .
+[submodule "bh/ac/ssd"]
+	path = bh/ac/ssd
+	url = .
 [submodule "bh/cp/gsw"]
 	path = bh/cp/gsw
 	url = .
