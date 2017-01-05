@@ -9505,6 +9505,9 @@
 [submodule "py/df/iup"]
 	path = py/df/iup
 	url = .
+[submodule "py/gb/qec"]
+	path = py/gb/qec
+	url = .
 [submodule "py/ge/lfi"]
 	path = py/ge/lfi
 	url = .
