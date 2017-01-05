@@ -4936,6 +4936,9 @@
 [submodule "xl/qk/hzq"]
 	path = xl/qk/hzq
 	url = .
+[submodule "xm/cr/qsh"]
+	path = xm/cr/qsh
+	url = .
 [submodule "xm/fy/usr"]
 	path = xm/fy/usr
 	url = .
