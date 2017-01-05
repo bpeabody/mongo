@@ -6439,6 +6439,9 @@
 [submodule "cd/wm/acw"]
 	path = cd/wm/acw
 	url = .
+[submodule "cd/wq/lln"]
+	path = cd/wq/lln
+	url = .
 [submodule "cd/xg/uom"]
 	path = cd/xg/uom
 	url = .
