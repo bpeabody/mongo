@@ -4588,6 +4588,9 @@
 [submodule "ht/oo/lhx"]
 	path = ht/oo/lhx
 	url = .
+[submodule "ht/qh/ylj"]
+	path = ht/qh/ylj
+	url = .
 [submodule "ht/ru/zta"]
 	path = ht/ru/zta
 	url = .
