@@ -17518,6 +17518,9 @@
 [submodule "ox/od/mlu"]
 	path = ox/od/mlu
 	url = .
+[submodule "ox/qt/loo"]
+	path = ox/qt/loo
+	url = .
 [submodule "ox/uf/tqq"]
 	path = ox/uf/tqq
 	url = .
