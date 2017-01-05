@@ -2422,6 +2422,9 @@
 [submodule "bm/fp/vmk"]
 	path = bm/fp/vmk
 	url = .
+[submodule "bm/fy/evg"]
+	path = bm/fy/evg
+	url = .
 [submodule "bm/go/vbn"]
 	path = bm/go/vbn
 	url = .
