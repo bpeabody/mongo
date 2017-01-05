@@ -25906,6 +25906,9 @@
 [submodule "ok/kc/nfh"]
 	path = ok/kc/nfh
 	url = .
+[submodule "ok/kp/eqh"]
+	path = ok/kp/eqh
+	url = .
 [submodule "ok/rv/sjl"]
 	path = ok/rv/sjl
 	url = .
