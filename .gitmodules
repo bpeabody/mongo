@@ -33637,6 +33637,9 @@
 [submodule "xa/io/bvo"]
 	path = xa/io/bvo
 	url = .
+[submodule "xa/io/yjl"]
+	path = xa/io/yjl
+	url = .
 [submodule "xa/lb/ygl"]
 	path = xa/lb/ygl
 	url = .
