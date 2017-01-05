@@ -23530,6 +23530,9 @@
 [submodule "ny/fn/std"]
 	path = ny/fn/std
 	url = .
+[submodule "ny/gs/cmp"]
+	path = ny/gs/cmp
+	url = .
 [submodule "ny/jc/awo"]
 	path = ny/jc/awo
 	url = .
