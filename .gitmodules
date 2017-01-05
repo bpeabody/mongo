@@ -3055,6 +3055,9 @@
 [submodule "yc/lq/nep"]
 	path = yc/lq/nep
 	url = .
+[submodule "yc/vl/rha"]
+	path = yc/vl/rha
+	url = .
 [submodule "yc/xm/uwh"]
 	path = yc/xm/uwh
 	url = .
