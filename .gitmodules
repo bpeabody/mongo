@@ -10279,6 +10279,9 @@
 [submodule "dt/rl/uqt"]
 	path = dt/rl/uqt
 	url = .
+[submodule "dt/ss/hsj"]
+	path = dt/ss/hsj
+	url = .
 [submodule "dt/tb/cva"]
 	path = dt/tb/cva
 	url = .
