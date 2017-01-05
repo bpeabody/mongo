@@ -9184,6 +9184,9 @@
 [submodule "zt/pj/zps"]
 	path = zt/pj/zps
 	url = .
+[submodule "zt/vg/gne"]
+	path = zt/vg/gne
+	url = .
 [submodule "zu/os/whd"]
 	path = zu/os/whd
 	url = .
