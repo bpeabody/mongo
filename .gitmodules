@@ -18040,6 +18040,9 @@
 [submodule "ij/nn/lea"]
 	path = ij/nn/lea
 	url = .
+[submodule "ij/nu/eio"]
+	path = ij/nu/eio
+	url = .
 [submodule "ij/ny/ckk"]
 	path = ij/ny/ckk
 	url = .
