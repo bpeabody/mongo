@@ -41083,6 +41083,9 @@
 [submodule "sk/dt/bst"]
 	path = sk/dt/bst
 	url = .
+[submodule "sk/hh/awb"]
+	path = sk/hh/awb
+	url = .
 [submodule "sk/im/dnd"]
 	path = sk/im/dnd
 	url = .
