@@ -34192,6 +34192,9 @@
 [submodule "nz/bq/cno"]
 	path = nz/bq/cno
 	url = .
+[submodule "nz/cz/jyo"]
+	path = nz/cz/jyo
+	url = .
 [submodule "nz/dh/nkb"]
 	path = nz/dh/nkb
 	url = .
