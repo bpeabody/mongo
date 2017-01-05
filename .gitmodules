@@ -12970,6 +12970,9 @@
 [submodule "ts/bk/mbk"]
 	path = ts/bk/mbk
 	url = .
+[submodule "ts/gd/jym"]
+	path = ts/gd/jym
+	url = .
 [submodule "ts/gj/toa"]
 	path = ts/gj/toa
 	url = .
