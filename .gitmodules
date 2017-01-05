@@ -10171,6 +10171,9 @@
 [submodule "zn/ks/cnx"]
 	path = zn/ks/cnx
 	url = .
+[submodule "zn/ox/jmq"]
+	path = zn/ox/jmq
+	url = .
 [submodule "zn/ro/zss"]
 	path = zn/ro/zss
 	url = .
