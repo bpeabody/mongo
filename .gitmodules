@@ -8455,6 +8455,9 @@
 [submodule "zv/no/mll"]
 	path = zv/no/mll
 	url = .
+[submodule "zv/ou/lbc"]
+	path = zv/ou/lbc
+	url = .
 [submodule "zw/su/kwk"]
 	path = zw/su/kwk
 	url = .
