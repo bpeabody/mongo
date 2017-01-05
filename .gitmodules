@@ -10930,6 +10930,9 @@
 [submodule "fc/pa/yfr"]
 	path = fc/pa/yfr
 	url = .
+[submodule "fc/pp/dyk"]
+	path = fc/pp/dyk
+	url = .
 [submodule "fc/qd/hss"]
 	path = fc/qd/hss
 	url = .
