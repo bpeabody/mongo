@@ -1696,6 +1696,9 @@
 [submodule "xh/ev/pbe"]
 	path = xh/ev/pbe
 	url = .
+[submodule "xi/cx/lii"]
+	path = xi/cx/lii
+	url = .
 [submodule "xj/az/dsw"]
 	path = xj/az/dsw
 	url = .
