@@ -1750,6 +1750,9 @@
 [submodule "td/nk/sni"]
 	path = td/nk/sni
 	url = .
+[submodule "te/cm/vea"]
+	path = te/cm/vea
+	url = .
 [submodule "tf/dm/gyi"]
 	path = tf/dm/gyi
 	url = .
