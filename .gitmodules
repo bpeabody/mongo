@@ -4810,6 +4810,9 @@
 [submodule "hf/gx/nhp"]
 	path = hf/gx/nhp
 	url = .
+[submodule "hf/ja/bui"]
+	path = hf/ja/bui
+	url = .
 [submodule "hf/ju/vnz"]
 	path = hf/ju/vnz
 	url = .
