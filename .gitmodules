@@ -6433,6 +6433,9 @@
 [submodule "jb/jw/pyz"]
 	path = jb/jw/pyz
 	url = .
+[submodule "jb/ms/btq"]
+	path = jb/ms/btq
+	url = .
 [submodule "jb/sq/ibi"]
 	path = jb/sq/ibi
 	url = .
