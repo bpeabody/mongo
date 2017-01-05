@@ -10918,6 +10918,9 @@
 [submodule "lg/fr/omj"]
 	path = lg/fr/omj
 	url = .
+[submodule "lg/gf/wjf"]
+	path = lg/gf/wjf
+	url = .
 [submodule "lg/hp/ofq"]
 	path = lg/hp/ofq
 	url = .
