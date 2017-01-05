@@ -109,6 +109,9 @@
 [submodule "dm/lr/dnv"]
 	path = dm/lr/dnv
 	url = .
+[submodule "do/ou/opr"]
+	path = do/ou/opr
+	url = .
 [submodule "do/rw/xag"]
 	path = do/rw/xag
 	url = .
