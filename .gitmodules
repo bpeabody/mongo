@@ -16255,6 +16255,9 @@
 [submodule "of/sv/oen"]
 	path = of/sv/oen
 	url = .
+[submodule "of/tc/rcb"]
+	path = of/tc/rcb
+	url = .
 [submodule "of/te/dec"]
 	path = of/te/dec
 	url = .
