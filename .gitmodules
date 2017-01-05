@@ -1552,6 +1552,9 @@
 [submodule "ao/kf/pam"]
 	path = ao/kf/pam
 	url = .
+[submodule "ao/km/brd"]
+	path = ao/km/brd
+	url = .
 [submodule "ao/kw/zkr"]
 	path = ao/kw/zkr
 	url = .
