@@ -685,6 +685,9 @@
 [submodule "mx/jd/yhw"]
 	path = mx/jd/yhw
 	url = .
+[submodule "mz/lh/pzc"]
+	path = mz/lh/pzc
+	url = .
 [submodule "nc/od/vzu"]
 	path = nc/od/vzu
 	url = .
