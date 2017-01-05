@@ -19204,6 +19204,9 @@
 [submodule "hc/fe/xou"]
 	path = hc/fe/xou
 	url = .
+[submodule "hc/fn/xow"]
+	path = hc/fn/xow
+	url = .
 [submodule "hc/hh/akp"]
 	path = hc/hh/akp
 	url = .
