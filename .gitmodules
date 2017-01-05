@@ -10663,6 +10663,9 @@
 [submodule "fy/fd/xka"]
 	path = fy/fd/xka
 	url = .
+[submodule "fy/fi/fxr"]
+	path = fy/fi/fxr
+	url = .
 [submodule "fy/ge/psh"]
 	path = fy/ge/psh
 	url = .
