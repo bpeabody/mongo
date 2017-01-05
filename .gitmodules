@@ -32542,6 +32542,9 @@
 [submodule "pd/ki/rvx"]
 	path = pd/ki/rvx
 	url = .
+[submodule "pd/kz/lks"]
+	path = pd/kz/lks
+	url = .
 [submodule "pd/mj/wkt"]
 	path = pd/mj/wkt
 	url = .
