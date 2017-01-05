@@ -6481,6 +6481,9 @@
 [submodule "cl/lr/tmj"]
 	path = cl/lr/tmj
 	url = .
+[submodule "cl/nw/aaj"]
+	path = cl/nw/aaj
+	url = .
 [submodule "cl/pc/ilx"]
 	path = cl/pc/ilx
 	url = .
