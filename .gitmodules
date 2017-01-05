@@ -1510,6 +1510,9 @@
 [submodule "ap/lv/jgx"]
 	path = ap/lv/jgx
 	url = .
+[submodule "ap/mb/kan"]
+	path = ap/mb/kan
+	url = .
 [submodule "ap/nw/bmt"]
 	path = ap/nw/bmt
 	url = .
