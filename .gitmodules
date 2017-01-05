@@ -982,6 +982,9 @@
 [submodule "lv/wj/dxz"]
 	path = lv/wj/dxz
 	url = .
+[submodule "lx/mk/cfl"]
+	path = lx/mk/cfl
+	url = .
 [submodule "md/hr/guc"]
 	path = md/hr/guc
 	url = .
