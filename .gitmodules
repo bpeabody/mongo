@@ -7972,6 +7972,9 @@
 [submodule "xu/ej/boe"]
 	path = xu/ej/boe
 	url = .
+[submodule "xu/fe/gyu"]
+	path = xu/fe/gyu
+	url = .
 [submodule "xv/fj/xgj"]
 	path = xv/fj/xgj
 	url = .
