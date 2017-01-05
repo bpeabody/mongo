@@ -7210,6 +7210,9 @@
 [submodule "ii/fe/rbq"]
 	path = ii/fe/rbq
 	url = .
+[submodule "ii/me/gam"]
+	path = ii/me/gam
+	url = .
 [submodule "ii/mx/rgq"]
 	path = ii/mx/rgq
 	url = .
