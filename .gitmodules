@@ -1825,6 +1825,9 @@
 [submodule "yb/wr/ozh"]
 	path = yb/wr/ozh
 	url = .
+[submodule "yc/hn/ycl"]
+	path = yc/hn/ycl
+	url = .
 [submodule "yc/lq/nep"]
 	path = yc/lq/nep
 	url = .
