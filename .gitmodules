@@ -47407,6 +47407,9 @@
 [submodule "ve/ui/pop"]
 	path = ve/ui/pop
 	url = .
+[submodule "ve/um/fat"]
+	path = ve/um/fat
+	url = .
 [submodule "ve/vs/lbo"]
 	path = ve/vs/lbo
 	url = .
