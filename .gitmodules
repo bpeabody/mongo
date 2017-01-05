@@ -14416,6 +14416,9 @@
 [submodule "ub/wp/frj"]
 	path = ub/wp/frj
 	url = .
+[submodule "ub/wx/jzu"]
+	path = ub/wx/jzu
+	url = .
 [submodule "ub/yg/cvg"]
 	path = ub/yg/cvg
 	url = .
