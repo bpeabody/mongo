@@ -5218,6 +5218,9 @@
 [submodule "bu/ib/uqb"]
 	path = bu/ib/uqb
 	url = .
+[submodule "bu/if/cqm"]
+	path = bu/if/cqm
+	url = .
 [submodule "bu/ip/iah"]
 	path = bu/ip/iah
 	url = .
