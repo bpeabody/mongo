@@ -29476,6 +29476,9 @@
 [submodule "pr/ya/vug"]
 	path = pr/ya/vug
 	url = .
+[submodule "pr/yt/koq"]
+	path = pr/yt/koq
+	url = .
 [submodule "ps/ca/ipy"]
 	path = ps/ca/ipy
 	url = .
