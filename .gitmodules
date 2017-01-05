@@ -10486,6 +10486,9 @@
 [submodule "ga/ut/ygg"]
 	path = ga/ut/ygg
 	url = .
+[submodule "ga/vu/gcp"]
+	path = ga/vu/gcp
+	url = .
 [submodule "ga/wh/tfu"]
 	path = ga/wh/tfu
 	url = .
