@@ -3700,6 +3700,9 @@
 [submodule "gd/yw/rxh"]
 	path = gd/yw/rxh
 	url = .
+[submodule "ge/gh/xxl"]
+	path = ge/gh/xxl
+	url = .
 [submodule "ge/if/wgp"]
 	path = ge/if/wgp
 	url = .
