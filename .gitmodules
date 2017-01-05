@@ -65530,6 +65530,9 @@
 [submodule "xe/tt/bty"]
 	path = xe/tt/bty
 	url = .
+[submodule "xe/um/uoa"]
+	path = xe/um/uoa
+	url = .
 [submodule "xe/uw/sav"]
 	path = xe/uw/sav
 	url = .
