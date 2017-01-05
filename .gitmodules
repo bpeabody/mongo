@@ -33730,6 +33730,9 @@
 [submodule "pc/kb/tnr"]
 	path = pc/kb/tnr
 	url = .
+[submodule "pc/kz/moy"]
+	path = pc/kz/moy
+	url = .
 [submodule "pc/ls/xnv"]
 	path = pc/ls/xnv
 	url = .
