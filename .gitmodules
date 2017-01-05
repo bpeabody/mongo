@@ -17614,6 +17614,9 @@
 [submodule "lb/sz/qrh"]
 	path = lb/sz/qrh
 	url = .
+[submodule "lb/tm/pur"]
+	path = lb/tm/pur
+	url = .
 [submodule "lb/uo/bkz"]
 	path = lb/uo/bkz
 	url = .
