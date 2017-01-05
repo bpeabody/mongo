@@ -1843,6 +1843,9 @@
 [submodule "fr/mo/brt"]
 	path = fr/mo/brt
 	url = .
+[submodule "fr/rs/ygf"]
+	path = fr/rs/ygf
+	url = .
 [submodule "fr/wm/acz"]
 	path = fr/wm/acz
 	url = .
