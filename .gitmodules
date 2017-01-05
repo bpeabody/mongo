@@ -16435,6 +16435,9 @@
 [submodule "jg/ae/kpy"]
 	path = jg/ae/kpy
 	url = .
+[submodule "jg/aq/nuq"]
+	path = jg/aq/nuq
+	url = .
 [submodule "jg/bd/nut"]
 	path = jg/bd/nut
 	url = .
