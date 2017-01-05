@@ -30418,6 +30418,9 @@
 [submodule "wx/lv/ilv"]
 	path = wx/lv/ilv
 	url = .
+[submodule "wx/mj/tch"]
+	path = wx/mj/tch
+	url = .
 [submodule "wx/oc/mfb"]
 	path = wx/oc/mfb
 	url = .
