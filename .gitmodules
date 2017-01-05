@@ -2872,6 +2872,9 @@
 [submodule "gm/db/uwm"]
 	path = gm/db/uwm
 	url = .
+[submodule "gm/fa/thc"]
+	path = gm/fa/thc
+	url = .
 [submodule "gm/gy/ori"]
 	path = gm/gy/ori
 	url = .
