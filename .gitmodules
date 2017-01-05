@@ -19366,6 +19366,9 @@
 [submodule "ld/su/bst"]
 	path = ld/su/bst
 	url = .
+[submodule "ld/ue/ltq"]
+	path = ld/ue/ltq
+	url = .
 [submodule "ld/wd/emt"]
 	path = ld/wd/emt
 	url = .
