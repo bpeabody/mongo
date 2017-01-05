@@ -48430,6 +48430,9 @@
 [submodule "tf/nn/gcc"]
 	path = tf/nn/gcc
 	url = .
+[submodule "tf/oo/gqm"]
+	path = tf/oo/gqm
+	url = .
 [submodule "tf/pf/dfu"]
 	path = tf/pf/dfu
 	url = .
