@@ -325,6 +325,9 @@
 [submodule "gk/tf/chi"]
 	path = gk/tf/chi
 	url = .
+[submodule "gl/og/xic"]
+	path = gl/og/xic
+	url = .
 [submodule "gn/ad/scv"]
 	path = gn/ad/scv
 	url = .
