@@ -23575,6 +23575,9 @@
 [submodule "ja/hb/cbi"]
 	path = ja/hb/cbi
 	url = .
+[submodule "ja/hd/ekd"]
+	path = ja/hd/ekd
+	url = .
 [submodule "ja/me/ggh"]
 	path = ja/me/ggh
 	url = .
