@@ -13324,6 +13324,9 @@
 [submodule "wq/ii/nrk"]
 	path = wq/ii/nrk
 	url = .
+[submodule "wq/lg/vxa"]
+	path = wq/lg/vxa
+	url = .
 [submodule "wq/sk/yph"]
 	path = wq/sk/yph
 	url = .
