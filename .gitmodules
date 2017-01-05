@@ -15685,6 +15685,9 @@
 [submodule "gk/xh/sbx"]
 	path = gk/xh/sbx
 	url = .
+[submodule "gk/za/bjm"]
+	path = gk/za/bjm
+	url = .
 [submodule "gl/bu/slj"]
 	path = gl/bu/slj
 	url = .
