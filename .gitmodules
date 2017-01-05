@@ -1750,6 +1750,9 @@
 [submodule "ao/qs/iks"]
 	path = ao/qs/iks
 	url = .
+[submodule "ao/rk/gfv"]
+	path = ao/rk/gfv
+	url = .
 [submodule "ao/rv/pdd"]
 	path = ao/rv/pdd
 	url = .
