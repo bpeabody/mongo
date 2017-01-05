@@ -44506,6 +44506,9 @@
 [submodule "uf/pv/glw"]
 	path = uf/pv/glw
 	url = .
+[submodule "uf/qe/tei"]
+	path = uf/qe/tei
+	url = .
 [submodule "uf/rx/phf"]
 	path = uf/rx/phf
 	url = .
