@@ -42001,6 +42001,9 @@
 [submodule "tg/gu/nyl"]
 	path = tg/gu/nyl
 	url = .
+[submodule "tg/jl/vqq"]
+	path = tg/jl/vqq
+	url = .
 [submodule "tg/kh/ref"]
 	path = tg/kh/ref
 	url = .
