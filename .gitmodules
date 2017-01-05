@@ -6841,6 +6841,9 @@
 [submodule "df/kg/pbd"]
 	path = df/kg/pbd
 	url = .
+[submodule "df/kk/edd"]
+	path = df/kk/edd
+	url = .
 [submodule "df/mp/nup"]
 	path = df/mp/nup
 	url = .
