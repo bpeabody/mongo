@@ -9790,6 +9790,9 @@
 [submodule "ej/cs/ssq"]
 	path = ej/cs/ssq
 	url = .
+[submodule "ej/ea/eiv"]
+	path = ej/ea/eiv
+	url = .
 [submodule "ej/ee/pxh"]
 	path = ej/ee/pxh
 	url = .
