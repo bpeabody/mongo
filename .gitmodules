@@ -28936,6 +28936,9 @@
 [submodule "yn/wq/yyn"]
 	path = yn/wq/yyn
 	url = .
+[submodule "yn/yq/ekh"]
+	path = yn/yq/ekh
+	url = .
 [submodule "yn/zb/rhx"]
 	path = yn/zb/rhx
 	url = .
