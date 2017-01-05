@@ -9103,6 +9103,9 @@
 [submodule "uh/oc/wfm"]
 	path = uh/oc/wfm
 	url = .
+[submodule "ui/hj/rli"]
+	path = ui/hj/rli
+	url = .
 [submodule "ui/jj/ewz"]
 	path = ui/jj/ewz
 	url = .
