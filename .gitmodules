@@ -18451,6 +18451,9 @@
 [submodule "go/dh/alm"]
 	path = go/dh/alm
 	url = .
+[submodule "go/ds/nxp"]
+	path = go/ds/nxp
+	url = .
 [submodule "go/fj/uyt"]
 	path = go/fj/uyt
 	url = .
