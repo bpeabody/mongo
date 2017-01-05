@@ -8320,6 +8320,9 @@
 [submodule "hq/jf/kfe"]
 	path = hq/jf/kfe
 	url = .
+[submodule "hq/kn/dqq"]
+	path = hq/kn/dqq
+	url = .
 [submodule "hq/mf/lmr"]
 	path = hq/mf/lmr
 	url = .
