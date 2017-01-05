@@ -33736,6 +33736,9 @@
 [submodule "ri/rb/edn"]
 	path = ri/rb/edn
 	url = .
+[submodule "ri/rb/jtc"]
+	path = ri/rb/jtc
+	url = .
 [submodule "ri/rp/cjx"]
 	path = ri/rp/cjx
 	url = .
