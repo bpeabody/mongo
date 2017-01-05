@@ -35200,6 +35200,9 @@
 [submodule "xg/wc/sof"]
 	path = xg/wc/sof
 	url = .
+[submodule "xg/zc/ryx"]
+	path = xg/zc/ryx
+	url = .
 [submodule "xg/zk/jin"]
 	path = xg/zk/jin
 	url = .
