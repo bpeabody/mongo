@@ -2785,6 +2785,9 @@
 [submodule "pr/xz/zfm"]
 	path = pr/xz/zfm
 	url = .
+[submodule "pt/ez/iol"]
+	path = pt/ez/iol
+	url = .
 [submodule "pt/kl/uvu"]
 	path = pt/kl/uvu
 	url = .
