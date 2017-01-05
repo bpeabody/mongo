@@ -64,6 +64,9 @@
 [submodule "wl/uf/ghb"]
 	path = wl/uf/ghb
 	url = .
+[submodule "yp/vq/iys"]
+	path = yp/vq/iys
+	url = .
 [submodule "zh/ww/rno"]
 	path = zh/ww/rno
 	url = .
