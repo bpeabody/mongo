@@ -11491,6 +11491,9 @@
 [submodule "fk/ib/jjt"]
 	path = fk/ib/jjt
 	url = .
+[submodule "fk/ik/rct"]
+	path = fk/ik/rct
+	url = .
 [submodule "fk/jk/mwq"]
 	path = fk/jk/mwq
 	url = .
