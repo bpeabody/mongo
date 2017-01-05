@@ -3718,6 +3718,9 @@
 [submodule "ue/qp/iht"]
 	path = ue/qp/iht
 	url = .
+[submodule "ue/uc/kah"]
+	path = ue/uc/kah
+	url = .
 [submodule "uf/xe/erm"]
 	path = uf/xe/erm
 	url = .
