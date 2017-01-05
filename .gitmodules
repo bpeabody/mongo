@@ -151,6 +151,9 @@
 [submodule "ae/ci/znd"]
 	path = ae/ci/znd
 	url = .
+[submodule "ae/dj/knt"]
+	path = ae/dj/knt
+	url = .
 [submodule "ae/go/ifm"]
 	path = ae/go/ifm
 	url = .
