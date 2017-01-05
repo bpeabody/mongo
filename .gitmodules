@@ -7537,6 +7537,9 @@
 [submodule "gq/aa/qjz"]
 	path = gq/aa/qjz
 	url = .
+[submodule "gq/cu/dau"]
+	path = gq/cu/dau
+	url = .
 [submodule "gq/fo/eic"]
 	path = gq/fo/eic
 	url = .
