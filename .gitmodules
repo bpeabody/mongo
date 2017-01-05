@@ -3793,6 +3793,9 @@
 [submodule "ks/td/iaq"]
 	path = ks/td/iaq
 	url = .
+[submodule "ks/vd/mnc"]
+	path = ks/vd/mnc
+	url = .
 [submodule "kt/bg/mla"]
 	path = kt/bg/mla
 	url = .
