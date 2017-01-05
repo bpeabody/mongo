@@ -2047,6 +2047,9 @@
 [submodule "dg/tv/sey"]
 	path = dg/tv/sey
 	url = .
+[submodule "dg/wv/tow"]
+	path = dg/wv/tow
+	url = .
 [submodule "dg/zx/kqa"]
 	path = dg/zx/kqa
 	url = .
