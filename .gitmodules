@@ -832,6 +832,9 @@
 [submodule "ok/ce/akb"]
 	path = ok/ce/akb
 	url = .
+[submodule "ok/sf/qxt"]
+	path = ok/sf/qxt
+	url = .
 [submodule "ok/uv/dnu"]
 	path = ok/uv/dnu
 	url = .
