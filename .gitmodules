@@ -27118,6 +27118,9 @@
 [submodule "ym/nc/ori"]
 	path = ym/nc/ori
 	url = .
+[submodule "ym/pg/dcg"]
+	path = ym/pg/dcg
+	url = .
 [submodule "ym/rq/fnd"]
 	path = ym/rq/fnd
 	url = .
