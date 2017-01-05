@@ -1018,6 +1018,9 @@
 [submodule "av/ay/jwk"]
 	path = av/ay/jwk
 	url = .
+[submodule "av/bp/soa"]
+	path = av/bp/soa
+	url = .
 [submodule "av/ch/uml"]
 	path = av/ch/uml
 	url = .
