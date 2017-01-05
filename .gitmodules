@@ -481,6 +481,9 @@
 [submodule "ue/qp/iht"]
 	path = ue/qp/iht
 	url = .
+[submodule "ui/ke/qzu"]
+	path = ui/ke/qzu
+	url = .
 [submodule "uo/ca/jyg"]
 	path = uo/ca/jyg
 	url = .
