@@ -5566,6 +5566,9 @@
 [submodule "gh/hk/ehl"]
 	path = gh/hk/ehl
 	url = .
+[submodule "gh/jj/ipn"]
+	path = gh/jj/ipn
+	url = .
 [submodule "gh/jk/qec"]
 	path = gh/jk/qec
 	url = .
