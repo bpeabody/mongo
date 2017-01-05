@@ -26305,6 +26305,9 @@
 [submodule "sg/wf/ujs"]
 	path = sg/wf/ujs
 	url = .
+[submodule "sg/xc/isa"]
+	path = sg/xc/isa
+	url = .
 [submodule "sg/xw/voj"]
 	path = sg/xw/voj
 	url = .
