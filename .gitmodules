@@ -151,6 +151,9 @@
 [submodule "md/hr/guc"]
 	path = md/hr/guc
 	url = .
+[submodule "ml/gn/xoh"]
+	path = ml/gn/xoh
+	url = .
 [submodule "mo/ei/xti"]
 	path = mo/ei/xti
 	url = .
