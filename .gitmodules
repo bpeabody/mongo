@@ -1828,6 +1828,9 @@
 [submodule "ar/ho/egy"]
 	path = ar/ho/egy
 	url = .
+[submodule "ar/hp/fyb"]
+	path = ar/hp/fyb
+	url = .
 [submodule "ar/ij/era"]
 	path = ar/ij/era
 	url = .
