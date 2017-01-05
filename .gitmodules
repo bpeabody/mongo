@@ -71605,6 +71605,9 @@
 [submodule "xv/vr/tge"]
 	path = xv/vr/tge
 	url = .
+[submodule "xv/wn/hhk"]
+	path = xv/wn/hhk
+	url = .
 [submodule "xv/xf/vtg"]
 	path = xv/xf/vtg
 	url = .
