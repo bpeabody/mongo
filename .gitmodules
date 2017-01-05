@@ -20377,6 +20377,9 @@
 [submodule "ly/tn/sgi"]
 	path = ly/tn/sgi
 	url = .
+[submodule "ly/ww/kwe"]
+	path = ly/ww/kwe
+	url = .
 [submodule "ly/yr/inv"]
 	path = ly/yr/inv
 	url = .
