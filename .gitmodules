@@ -23593,6 +23593,9 @@
 [submodule "jk/au/qhq"]
 	path = jk/au/qhq
 	url = .
+[submodule "jk/br/amq"]
+	path = jk/br/amq
+	url = .
 [submodule "jk/eb/fhh"]
 	path = jk/eb/fhh
 	url = .
