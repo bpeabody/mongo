@@ -13060,6 +13060,9 @@
 [submodule "sv/by/acu"]
 	path = sv/by/acu
 	url = .
+[submodule "sv/cm/kyj"]
+	path = sv/cm/kyj
+	url = .
 [submodule "sv/fq/hvs"]
 	path = sv/fq/hvs
 	url = .
