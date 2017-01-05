@@ -3235,6 +3235,9 @@
 [submodule "by/kk/jis"]
 	path = by/kk/jis
 	url = .
+[submodule "by/ln/kul"]
+	path = by/ln/kul
+	url = .
 [submodule "by/mj/wqa"]
 	path = by/mj/wqa
 	url = .
