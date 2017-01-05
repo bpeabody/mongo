@@ -2068,6 +2068,9 @@
 [submodule "be/wl/bbf"]
 	path = be/wl/bbf
 	url = .
+[submodule "be/xf/fyd"]
+	path = be/xf/fyd
+	url = .
 [submodule "be/ya/chc"]
 	path = be/ya/chc
 	url = .
