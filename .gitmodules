@@ -14194,6 +14194,9 @@
 [submodule "uu/vx/fia"]
 	path = uu/vx/fia
 	url = .
+[submodule "uu/wn/aai"]
+	path = uu/wn/aai
+	url = .
 [submodule "uu/xc/qlx"]
 	path = uu/xc/qlx
 	url = .
