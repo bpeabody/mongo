@@ -42967,6 +42967,9 @@
 [submodule "wi/gb/uzn"]
 	path = wi/gb/uzn
 	url = .
+[submodule "wi/hr/gnj"]
+	path = wi/hr/gnj
+	url = .
 [submodule "wi/hz/jca"]
 	path = wi/hz/jca
 	url = .
