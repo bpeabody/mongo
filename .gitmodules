@@ -20896,6 +20896,9 @@
 [submodule "ng/kl/ate"]
 	path = ng/kl/ate
 	url = .
+[submodule "ng/kt/jrs"]
+	path = ng/kt/jrs
+	url = .
 [submodule "ng/ku/jav"]
 	path = ng/ku/jav
 	url = .
