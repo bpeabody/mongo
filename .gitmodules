@@ -68212,6 +68212,9 @@
 [submodule "wq/xi/gns"]
 	path = wq/xi/gns
 	url = .
+[submodule "wq/xl/jxq"]
+	path = wq/xl/jxq
+	url = .
 [submodule "wq/yj/okt"]
 	path = wq/yj/okt
 	url = .
