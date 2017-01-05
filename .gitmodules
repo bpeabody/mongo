@@ -57373,6 +57373,9 @@
 [submodule "yg/ss/gkl"]
 	path = yg/ss/gkl
 	url = .
+[submodule "yg/su/hke"]
+	path = yg/su/hke
+	url = .
 [submodule "yg/ud/laz"]
 	path = yg/ud/laz
 	url = .
