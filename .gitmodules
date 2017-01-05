@@ -25966,6 +25966,9 @@
 [submodule "mm/gi/ggc"]
 	path = mm/gi/ggc
 	url = .
+[submodule "mm/gn/luq"]
+	path = mm/gn/luq
+	url = .
 [submodule "mm/gp/iyw"]
 	path = mm/gp/iyw
 	url = .
