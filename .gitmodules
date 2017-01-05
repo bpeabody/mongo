@@ -19,6 +19,9 @@
 [submodule "aa/ts/aja"]
 	path = aa/ts/aja
 	url = .
+[submodule "aa/uz/vij"]
+	path = aa/uz/vij
+	url = .
 [submodule "aa/xu/bcq"]
 	path = aa/xu/bcq
 	url = .
