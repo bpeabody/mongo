@@ -12814,6 +12814,9 @@
 [submodule "vd/jp/duc"]
 	path = vd/jp/duc
 	url = .
+[submodule "vd/mj/fnm"]
+	path = vd/mj/fnm
+	url = .
 [submodule "vd/qi/ngz"]
 	path = vd/qi/ngz
 	url = .
