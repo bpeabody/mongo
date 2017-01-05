@@ -1492,6 +1492,9 @@
 [submodule "is/ll/wxn"]
 	path = is/ll/wxn
 	url = .
+[submodule "is/nc/waf"]
+	path = is/nc/waf
+	url = .
 [submodule "it/bs/vuh"]
 	path = it/bs/vuh
 	url = .
