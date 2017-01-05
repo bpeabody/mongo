@@ -28165,6 +28165,9 @@
 [submodule "tf/qc/edw"]
 	path = tf/qc/edw
 	url = .
+[submodule "tf/st/fgq"]
+	path = tf/st/fgq
+	url = .
 [submodule "tf/uc/iab"]
 	path = tf/uc/iab
 	url = .
