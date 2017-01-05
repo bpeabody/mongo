@@ -5704,6 +5704,9 @@
 [submodule "pa/sm/qwk"]
 	path = pa/sm/qwk
 	url = .
+[submodule "pa/uy/poi"]
+	path = pa/uy/poi
+	url = .
 [submodule "pb/bd/rpx"]
 	path = pb/bd/rpx
 	url = .
