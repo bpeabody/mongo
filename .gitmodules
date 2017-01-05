@@ -3901,6 +3901,9 @@
 [submodule "ja/ue/sux"]
 	path = ja/ue/sux
 	url = .
+[submodule "jb/av/vsu"]
+	path = jb/av/vsu
+	url = .
 [submodule "jb/bh/hop"]
 	path = jb/bh/hop
 	url = .
