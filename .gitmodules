@@ -51244,6 +51244,9 @@
 [submodule "tc/ta/vne"]
 	path = tc/ta/vne
 	url = .
+[submodule "tc/te/wvl"]
+	path = tc/te/wvl
+	url = .
 [submodule "tc/tx/dsi"]
 	path = tc/tx/dsi
 	url = .
