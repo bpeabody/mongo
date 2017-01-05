@@ -40288,6 +40288,9 @@
 [submodule "th/kb/uop"]
 	path = th/kb/uop
 	url = .
+[submodule "th/la/xaw"]
+	path = th/la/xaw
+	url = .
 [submodule "th/ll/jsm"]
 	path = th/ll/jsm
 	url = .
