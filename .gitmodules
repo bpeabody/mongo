@@ -688,6 +688,9 @@
 [submodule "ft/mj/ezz"]
 	path = ft/mj/ezz
 	url = .
+[submodule "fu/dm/nlg"]
+	path = fu/dm/nlg
+	url = .
 [submodule "fu/xu/vfo"]
 	path = fu/xu/vfo
 	url = .
