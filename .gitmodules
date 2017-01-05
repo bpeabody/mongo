@@ -16582,6 +16582,9 @@
 [submodule "km/zv/nyy"]
 	path = km/zv/nyy
 	url = .
+[submodule "kn/af/luj"]
+	path = kn/af/luj
+	url = .
 [submodule "kn/do/oum"]
 	path = kn/do/oum
 	url = .
