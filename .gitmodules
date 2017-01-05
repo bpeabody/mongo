@@ -37099,6 +37099,9 @@
 [submodule "om/if/kau"]
 	path = om/if/kau
 	url = .
+[submodule "om/ii/kgl"]
+	path = om/ii/kgl
+	url = .
 [submodule "om/kl/ujj"]
 	path = om/kl/ujj
 	url = .
