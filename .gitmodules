@@ -1879,6 +1879,9 @@
 [submodule "bd/pq/qlc"]
 	path = bd/pq/qlc
 	url = .
+[submodule "bd/qp/jbd"]
+	path = bd/qp/jbd
+	url = .
 [submodule "bd/ve/rmt"]
 	path = bd/ve/rmt
 	url = .
