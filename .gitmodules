@@ -21085,6 +21085,9 @@
 [submodule "ta/ci/lkf"]
 	path = ta/ci/lkf
 	url = .
+[submodule "ta/cx/ygg"]
+	path = ta/cx/ygg
+	url = .
 [submodule "ta/db/kge"]
 	path = ta/db/kge
 	url = .
