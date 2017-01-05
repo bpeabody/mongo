@@ -27913,6 +27913,9 @@
 [submodule "ke/cm/evl"]
 	path = ke/cm/evl
 	url = .
+[submodule "ke/cm/srj"]
+	path = ke/cm/srj
+	url = .
 [submodule "ke/em/bfl"]
 	path = ke/em/bfl
 	url = .
