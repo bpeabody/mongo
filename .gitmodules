@@ -9592,6 +9592,9 @@
 [submodule "dp/kw/bpy"]
 	path = dp/kw/bpy
 	url = .
+[submodule "dp/lc/lzi"]
+	path = dp/lc/lzi
+	url = .
 [submodule "dp/lr/str"]
 	path = dp/lr/str
 	url = .
