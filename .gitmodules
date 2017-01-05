@@ -27100,6 +27100,9 @@
 [submodule "kw/up/cbt"]
 	path = kw/up/cbt
 	url = .
+[submodule "kw/up/ebu"]
+	path = kw/up/ebu
+	url = .
 [submodule "kw/vk/bqf"]
 	path = kw/vk/bqf
 	url = .
