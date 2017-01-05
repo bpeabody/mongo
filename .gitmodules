@@ -10174,6 +10174,9 @@
 [submodule "xt/md/rgj"]
 	path = xt/md/rgj
 	url = .
+[submodule "xt/ut/jiz"]
+	path = xt/ut/jiz
+	url = .
 [submodule "xt/vr/eog"]
 	path = xt/vr/eog
 	url = .
