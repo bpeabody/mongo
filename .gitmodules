@@ -1918,6 +1918,9 @@
 [submodule "cp/yd/wbp"]
 	path = cp/yd/wbp
 	url = .
+[submodule "cq/bo/unz"]
+	path = cq/bo/unz
+	url = .
 [submodule "cq/gy/vcw"]
 	path = cq/gy/vcw
 	url = .
