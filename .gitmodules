@@ -4882,6 +4882,9 @@
 [submodule "vw/ug/rru"]
 	path = vw/ug/rru
 	url = .
+[submodule "vx/qr/pxd"]
+	path = vx/qr/pxd
+	url = .
 [submodule "vy/ez/zec"]
 	path = vy/ez/zec
 	url = .
