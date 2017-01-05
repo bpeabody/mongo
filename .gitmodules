@@ -31546,6 +31546,9 @@
 [submodule "nx/ho/eoy"]
 	path = nx/ho/eoy
 	url = .
+[submodule "nx/iq/glq"]
+	path = nx/iq/glq
+	url = .
 [submodule "nx/jx/lwt"]
 	path = nx/jx/lwt
 	url = .
