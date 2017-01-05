@@ -2953,6 +2953,9 @@
 [submodule "nq/wl/pcz"]
 	path = nq/wl/pcz
 	url = .
+[submodule "nr/ld/xhq"]
+	path = nr/ld/xhq
+	url = .
 [submodule "nr/lr/mub"]
 	path = nr/lr/mub
 	url = .
