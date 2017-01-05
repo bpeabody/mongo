@@ -8173,6 +8173,9 @@
 [submodule "lg/bp/xgj"]
 	path = lg/bp/xgj
 	url = .
+[submodule "lg/hp/ofq"]
+	path = lg/hp/ofq
+	url = .
 [submodule "lg/of/gmu"]
 	path = lg/of/gmu
 	url = .
