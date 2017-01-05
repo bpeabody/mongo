@@ -9637,6 +9637,9 @@
 [submodule "pd/yi/sde"]
 	path = pd/yi/sde
 	url = .
+[submodule "pe/aj/fzq"]
+	path = pe/aj/fzq
+	url = .
 [submodule "pe/ct/iok"]
 	path = pe/ct/iok
 	url = .
