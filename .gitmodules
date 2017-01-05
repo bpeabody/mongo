@@ -12235,6 +12235,9 @@
 [submodule "hr/ip/kau"]
 	path = hr/ip/kau
 	url = .
+[submodule "hr/kc/wpu"]
+	path = hr/kc/wpu
+	url = .
 [submodule "hr/kl/mff"]
 	path = hr/kl/mff
 	url = .
