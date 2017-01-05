@@ -36712,6 +36712,9 @@
 [submodule "mh/nr/cdb"]
 	path = mh/nr/cdb
 	url = .
+[submodule "mh/oi/jdg"]
+	path = mh/oi/jdg
+	url = .
 [submodule "mh/or/hfq"]
 	path = mh/or/hfq
 	url = .
