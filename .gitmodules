@@ -36709,6 +36709,9 @@
 [submodule "nh/yb/wmc"]
 	path = nh/yb/wmc
 	url = .
+[submodule "nh/yy/wrw"]
+	path = nh/yy/wrw
+	url = .
 [submodule "nh/zr/ssg"]
 	path = nh/zr/ssg
 	url = .
