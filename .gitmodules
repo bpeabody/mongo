@@ -23092,6 +23092,9 @@
 [submodule "ib/wr/iee"]
 	path = ib/wr/iee
 	url = .
+[submodule "ib/xo/idj"]
+	path = ib/xo/idj
+	url = .
 [submodule "ib/xw/yrd"]
 	path = ib/xw/yrd
 	url = .
