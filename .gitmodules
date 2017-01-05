@@ -25642,6 +25642,9 @@
 [submodule "js/nj/ocg"]
 	path = js/nj/ocg
 	url = .
+[submodule "js/oq/mdu"]
+	path = js/oq/mdu
+	url = .
 [submodule "js/pc/iks"]
 	path = js/pc/iks
 	url = .
