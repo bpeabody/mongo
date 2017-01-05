@@ -8083,6 +8083,9 @@
 [submodule "nc/wo/sho"]
 	path = nc/wo/sho
 	url = .
+[submodule "nc/yz/kkh"]
+	path = nc/yz/kkh
+	url = .
 [submodule "nd/bn/bsv"]
 	path = nd/bn/bsv
 	url = .
