@@ -29740,6 +29740,9 @@
 [submodule "mb/gb/tye"]
 	path = mb/gb/tye
 	url = .
+[submodule "mb/gi/szz"]
+	path = mb/gi/szz
+	url = .
 [submodule "mb/gj/sbv"]
 	path = mb/gj/sbv
 	url = .
