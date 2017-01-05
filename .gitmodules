@@ -20506,6 +20506,9 @@
 [submodule "yk/ll/jjw"]
 	path = yk/ll/jjw
 	url = .
+[submodule "yk/ns/ypm"]
+	path = yk/ns/ypm
+	url = .
 [submodule "yk/pl/cjd"]
 	path = yk/pl/cjd
 	url = .
