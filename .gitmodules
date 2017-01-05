@@ -44092,6 +44092,9 @@
 [submodule "zw/le/tey"]
 	path = zw/le/tey
 	url = .
+[submodule "zw/nn/slq"]
+	path = zw/nn/slq
+	url = .
 [submodule "zw/qo/obd"]
 	path = zw/qo/obd
 	url = .
