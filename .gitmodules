@@ -35056,6 +35056,9 @@
 [submodule "xz/ar/csf"]
 	path = xz/ar/csf
 	url = .
+[submodule "xz/bm/wsh"]
+	path = xz/bm/wsh
+	url = .
 [submodule "xz/eh/ruz"]
 	path = xz/eh/ruz
 	url = .
