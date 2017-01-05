@@ -32227,6 +32227,9 @@
 [submodule "qm/ap/ylf"]
 	path = qm/ap/ylf
 	url = .
+[submodule "qm/ax/cqf"]
+	path = qm/ax/cqf
+	url = .
 [submodule "qm/bk/wxf"]
 	path = qm/bk/wxf
 	url = .
