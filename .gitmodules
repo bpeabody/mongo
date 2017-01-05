@@ -28912,6 +28912,9 @@
 [submodule "wd/hk/inr"]
 	path = wd/hk/inr
 	url = .
+[submodule "wd/jo/bmd"]
+	path = wd/jo/bmd
+	url = .
 [submodule "wd/mu/ntg"]
 	path = wd/mu/ntg
 	url = .
