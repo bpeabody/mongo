@@ -3070,6 +3070,9 @@
 [submodule "ba/ff/oht"]
 	path = ba/ff/oht
 	url = .
+[submodule "ba/hw/hmz"]
+	path = ba/hw/hmz
+	url = .
 [submodule "ba/ih/aqq"]
 	path = ba/ih/aqq
 	url = .
