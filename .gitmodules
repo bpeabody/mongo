@@ -18988,6 +18988,9 @@
 [submodule "gx/hi/bma"]
 	path = gx/hi/bma
 	url = .
+[submodule "gx/ht/arw"]
+	path = gx/ht/arw
+	url = .
 [submodule "gx/iw/qnr"]
 	path = gx/iw/qnr
 	url = .
