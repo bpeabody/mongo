@@ -16087,6 +16087,9 @@
 [submodule "ms/qc/htt"]
 	path = ms/qc/htt
 	url = .
+[submodule "ms/ud/jat"]
+	path = ms/ud/jat
+	url = .
 [submodule "ms/uv/hyu"]
 	path = ms/uv/hyu
 	url = .
