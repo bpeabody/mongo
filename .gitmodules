@@ -10249,6 +10249,9 @@
 [submodule "pg/jy/eld"]
 	path = pg/jy/eld
 	url = .
+[submodule "pg/lz/eqe"]
+	path = pg/lz/eqe
+	url = .
 [submodule "pg/nh/hgs"]
 	path = pg/nh/hgs
 	url = .
