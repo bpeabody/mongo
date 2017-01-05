@@ -9511,6 +9511,9 @@
 [submodule "hg/lt/spy"]
 	path = hg/lt/spy
 	url = .
+[submodule "hg/vt/jxf"]
+	path = hg/vt/jxf
+	url = .
 [submodule "hg/wr/cps"]
 	path = hg/wr/cps
 	url = .
