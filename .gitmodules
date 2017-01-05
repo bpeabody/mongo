@@ -31351,6 +31351,9 @@
 [submodule "uz/sn/nkn"]
 	path = uz/sn/nkn
 	url = .
+[submodule "va/bj/rsn"]
+	path = va/bj/rsn
+	url = .
 [submodule "va/fw/fkt"]
 	path = va/fw/fkt
 	url = .
