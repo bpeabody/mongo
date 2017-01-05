@@ -45262,6 +45262,9 @@
 [submodule "tg/jl/vqq"]
 	path = tg/jl/vqq
 	url = .
+[submodule "tg/jo/rdt"]
+	path = tg/jo/rdt
+	url = .
 [submodule "tg/kh/ref"]
 	path = tg/kh/ref
 	url = .
