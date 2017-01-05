@@ -17908,6 +17908,9 @@
 [submodule "wc/rn/luf"]
 	path = wc/rn/luf
 	url = .
+[submodule "wc/ts/fjc"]
+	path = wc/ts/fjc
+	url = .
 [submodule "wc/up/emy"]
 	path = wc/up/emy
 	url = .
