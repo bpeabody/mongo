@@ -991,6 +991,9 @@
 [submodule "fs/ht/owt"]
 	path = fs/ht/owt
 	url = .
+[submodule "fs/hy/xzq"]
+	path = fs/hy/xzq
+	url = .
 [submodule "fs/le/vwt"]
 	path = fs/le/vwt
 	url = .
