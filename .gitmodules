@@ -7867,6 +7867,9 @@
 [submodule "dk/qe/lgi"]
 	path = dk/qe/lgi
 	url = .
+[submodule "dk/sn/ret"]
+	path = dk/sn/ret
+	url = .
 [submodule "dk/st/jcx"]
 	path = dk/st/jcx
 	url = .
