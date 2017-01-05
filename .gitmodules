@@ -6022,6 +6022,9 @@
 [submodule "ku/vv/azs"]
 	path = ku/vv/azs
 	url = .
+[submodule "ku/yw/coo"]
+	path = ku/yw/coo
+	url = .
 [submodule "kv/iy/iap"]
 	path = kv/iy/iap
 	url = .
