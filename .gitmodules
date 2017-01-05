@@ -5701,6 +5701,9 @@
 [submodule "rd/vn/eky"]
 	path = rd/vn/eky
 	url = .
+[submodule "rd/ws/sic"]
+	path = rd/ws/sic
+	url = .
 [submodule "rd/yi/lxq"]
 	path = rd/yi/lxq
 	url = .
