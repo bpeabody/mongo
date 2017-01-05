@@ -23284,6 +23284,9 @@
 [submodule "uc/qs/adw"]
 	path = uc/qs/adw
 	url = .
+[submodule "uc/rn/pvr"]
+	path = uc/rn/pvr
+	url = .
 [submodule "uc/se/owm"]
 	path = uc/se/owm
 	url = .
