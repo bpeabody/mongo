@@ -48541,6 +48541,9 @@
 [submodule "vb/mu/nme"]
 	path = vb/mu/nme
 	url = .
+[submodule "vb/ux/sqj"]
+	path = vb/ux/sqj
+	url = .
 [submodule "vb/vs/qby"]
 	path = vb/vs/qby
 	url = .
