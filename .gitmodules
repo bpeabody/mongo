@@ -487,6 +487,9 @@
 [submodule "co/of/qoi"]
 	path = co/of/qoi
 	url = .
+[submodule "cp/ag/hmu"]
+	path = cp/ag/hmu
+	url = .
 [submodule "cp/kk/rym"]
 	path = cp/kk/rym
 	url = .
