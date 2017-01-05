@@ -2092,6 +2092,9 @@
 [submodule "ar/ja/ykq"]
 	path = ar/ja/ykq
 	url = .
+[submodule "ar/jy/qcu"]
+	path = ar/jy/qcu
+	url = .
 [submodule "ar/kj/ili"]
 	path = ar/kj/ili
 	url = .
