@@ -17116,6 +17116,9 @@
 [submodule "ih/la/pgq"]
 	path = ih/la/pgq
 	url = .
+[submodule "ih/lw/gwz"]
+	path = ih/lw/gwz
+	url = .
 [submodule "ih/mu/qwz"]
 	path = ih/mu/qwz
 	url = .
