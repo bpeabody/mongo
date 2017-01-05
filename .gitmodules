@@ -50908,6 +50908,9 @@
 [submodule "rz/kk/mrj"]
 	path = rz/kk/mrj
 	url = .
+[submodule "rz/ky/arn"]
+	path = rz/ky/arn
+	url = .
 [submodule "rz/le/hgu"]
 	path = rz/le/hgu
 	url = .
