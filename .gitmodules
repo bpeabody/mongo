@@ -35809,6 +35809,9 @@
 [submodule "tu/mb/jbz"]
 	path = tu/mb/jbz
 	url = .
+[submodule "tu/mq/hcy"]
+	path = tu/mq/hcy
+	url = .
 [submodule "tu/or/cfi"]
 	path = tu/or/cfi
 	url = .
