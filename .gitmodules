@@ -6886,6 +6886,9 @@
 [submodule "fj/rv/ovz"]
 	path = fj/rv/ovz
 	url = .
+[submodule "fj/uk/gzd"]
+	path = fj/uk/gzd
+	url = .
 [submodule "fj/up/hyl"]
 	path = fj/up/hyl
 	url = .
