@@ -481,6 +481,9 @@
 [submodule "ay/dz/gvc"]
 	path = ay/dz/gvc
 	url = .
+[submodule "ay/gf/khj"]
+	path = ay/gf/khj
+	url = .
 [submodule "ay/ji/ejk"]
 	path = ay/ji/ejk
 	url = .
