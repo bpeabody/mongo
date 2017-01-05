@@ -3757,6 +3757,9 @@
 [submodule "du/sx/soj"]
 	path = du/sx/soj
 	url = .
+[submodule "du/tj/lut"]
+	path = du/tj/lut
+	url = .
 [submodule "du/tx/wqm"]
 	path = du/tx/wqm
 	url = .
