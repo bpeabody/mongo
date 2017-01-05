@@ -12907,6 +12907,9 @@
 [submodule "gg/ec/vcj"]
 	path = gg/ec/vcj
 	url = .
+[submodule "gg/ek/dsa"]
+	path = gg/ek/dsa
+	url = .
 [submodule "gg/en/ivc"]
 	path = gg/en/ivc
 	url = .
