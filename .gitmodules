@@ -8881,6 +8881,9 @@
 [submodule "rb/oo/vpp"]
 	path = rb/oo/vpp
 	url = .
+[submodule "rb/pg/iub"]
+	path = rb/pg/iub
+	url = .
 [submodule "rb/qe/ecs"]
 	path = rb/qe/ecs
 	url = .
