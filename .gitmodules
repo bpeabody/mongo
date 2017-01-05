@@ -2338,6 +2338,9 @@
 [submodule "ss/do/dwh"]
 	path = ss/do/dwh
 	url = .
+[submodule "st/zh/tac"]
+	path = st/zh/tac
+	url = .
 [submodule "sv/by/acu"]
 	path = sv/by/acu
 	url = .
