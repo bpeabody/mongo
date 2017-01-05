@@ -20281,6 +20281,9 @@
 [submodule "lp/ht/myr"]
 	path = lp/ht/myr
 	url = .
+[submodule "lp/hv/chd"]
+	path = lp/hv/chd
+	url = .
 [submodule "lp/jd/bdh"]
 	path = lp/jd/bdh
 	url = .
