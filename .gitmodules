@@ -6283,6 +6283,9 @@
 [submodule "yw/ga/oqu"]
 	path = yw/ga/oqu
 	url = .
+[submodule "yw/lt/xxa"]
+	path = yw/lt/xxa
+	url = .
 [submodule "yw/vr/cad"]
 	path = yw/vr/cad
 	url = .
