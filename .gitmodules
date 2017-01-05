@@ -3760,6 +3760,9 @@
 [submodule "lr/cy/zyy"]
 	path = lr/cy/zyy
 	url = .
+[submodule "lr/kw/lyi"]
+	path = lr/kw/lyi
+	url = .
 [submodule "lr/nl/ukl"]
 	path = lr/nl/ukl
 	url = .
