@@ -18976,6 +18976,9 @@
 [submodule "hh/vr/ijs"]
 	path = hh/vr/ijs
 	url = .
+[submodule "hh/vt/dkz"]
+	path = hh/vt/dkz
+	url = .
 [submodule "hh/wg/dpz"]
 	path = hh/wg/dpz
 	url = .
