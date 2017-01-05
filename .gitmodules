@@ -757,6 +757,9 @@
 [submodule "er/ih/nrk"]
 	path = er/ih/nrk
 	url = .
+[submodule "er/kj/ozc"]
+	path = er/kj/ozc
+	url = .
 [submodule "er/pl/ybq"]
 	path = er/pl/ybq
 	url = .
