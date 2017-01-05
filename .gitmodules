@@ -16585,6 +16585,9 @@
 [submodule "nk/pr/pmc"]
 	path = nk/pr/pmc
 	url = .
+[submodule "nk/rf/rlb"]
+	path = nk/rf/rlb
+	url = .
 [submodule "nk/rx/hir"]
 	path = nk/rx/hir
 	url = .
