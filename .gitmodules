@@ -12115,6 +12115,9 @@
 [submodule "ne/nu/fhx"]
 	path = ne/nu/fhx
 	url = .
+[submodule "ne/nx/pel"]
+	path = ne/nx/pel
+	url = .
 [submodule "ne/ph/val"]
 	path = ne/ph/val
 	url = .
