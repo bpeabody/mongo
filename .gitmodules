@@ -20506,6 +20506,9 @@
 [submodule "qa/pk/uan"]
 	path = qa/pk/uan
 	url = .
+[submodule "qa/qv/vrr"]
+	path = qa/qv/vrr
+	url = .
 [submodule "qa/ve/udk"]
 	path = qa/ve/udk
 	url = .
