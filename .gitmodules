@@ -24853,6 +24853,9 @@
 [submodule "yy/al/bay"]
 	path = yy/al/bay
 	url = .
+[submodule "yy/fm/xwc"]
+	path = yy/fm/xwc
+	url = .
 [submodule "yy/gj/xqy"]
 	path = yy/gj/xqy
 	url = .
