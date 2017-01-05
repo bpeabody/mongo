@@ -3859,6 +3859,9 @@
 [submodule "ir/fj/ogi"]
 	path = ir/fj/ogi
 	url = .
+[submodule "ir/jt/fti"]
+	path = ir/jt/fti
+	url = .
 [submodule "ir/np/nhu"]
 	path = ir/np/nhu
 	url = .
