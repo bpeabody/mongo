@@ -49,6 +49,9 @@
 [submodule "aa/pb/veb"]
 	path = aa/pb/veb
 	url = .
+[submodule "aa/pj/vbo"]
+	path = aa/pj/vbo
+	url = .
 [submodule "aa/rg/hea"]
 	path = aa/rg/hea
 	url = .
