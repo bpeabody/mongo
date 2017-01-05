@@ -1375,6 +1375,9 @@
 [submodule "gl/yy/lca"]
 	path = gl/yy/lca
 	url = .
+[submodule "gm/db/uwm"]
+	path = gm/db/uwm
+	url = .
 [submodule "gn/ad/scv"]
 	path = gn/ad/scv
 	url = .
