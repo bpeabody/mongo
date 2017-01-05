@@ -40693,6 +40693,9 @@
 [submodule "uv/gm/eip"]
 	path = uv/gm/eip
 	url = .
+[submodule "uv/he/iud"]
+	path = uv/he/iud
+	url = .
 [submodule "uv/if/hpx"]
 	path = uv/if/hpx
 	url = .
