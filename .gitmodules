@@ -3868,6 +3868,9 @@
 [submodule "rt/lm/ety"]
 	path = rt/lm/ety
 	url = .
+[submodule "rt/yw/ddd"]
+	path = rt/yw/ddd
+	url = .
 [submodule "ru/ey/npj"]
 	path = ru/ey/npj
 	url = .
