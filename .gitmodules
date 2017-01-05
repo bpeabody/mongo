@@ -12190,6 +12190,9 @@
 [submodule "iy/qt/xvg"]
 	path = iy/qt/xvg
 	url = .
+[submodule "iy/qx/lru"]
+	path = iy/qx/lru
+	url = .
 [submodule "iy/sv/mov"]
 	path = iy/sv/mov
 	url = .
