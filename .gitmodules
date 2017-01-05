@@ -31081,6 +31081,9 @@
 [submodule "lr/ck/jmv"]
 	path = lr/ck/jmv
 	url = .
+[submodule "lr/cm/jec"]
+	path = lr/cm/jec
+	url = .
 [submodule "lr/cp/odf"]
 	path = lr/cp/odf
 	url = .
