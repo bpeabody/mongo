@@ -8206,6 +8206,9 @@
 [submodule "hv/qv/ovt"]
 	path = hv/qv/ovt
 	url = .
+[submodule "hv/ss/bsr"]
+	path = hv/ss/bsr
+	url = .
 [submodule "hv/yn/jjx"]
 	path = hv/yn/jjx
 	url = .
