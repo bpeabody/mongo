@@ -4279,6 +4279,9 @@
 [submodule "ia/ns/lou"]
 	path = ia/ns/lou
 	url = .
+[submodule "ia/pb/wgg"]
+	path = ia/pb/wgg
+	url = .
 [submodule "ia/qs/eml"]
 	path = ia/qs/eml
 	url = .
