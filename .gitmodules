@@ -11203,6 +11203,9 @@
 [submodule "hc/ed/dxv"]
 	path = hc/ed/dxv
 	url = .
+[submodule "hc/ek/vsp"]
+	path = hc/ek/vsp
+	url = .
 [submodule "hc/eu/lgd"]
 	path = hc/eu/lgd
 	url = .
