@@ -178,6 +178,9 @@
 [submodule "ad/qg/dvh"]
 	path = ad/qg/dvh
 	url = .
+[submodule "ad/ro/uvt"]
+	path = ad/ro/uvt
+	url = .
 [submodule "ad/rv/tfg"]
 	path = ad/rv/tfg
 	url = .
