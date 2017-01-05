@@ -43852,6 +43852,9 @@
 [submodule "ui/bp/ncy"]
 	path = ui/bp/ncy
 	url = .
+[submodule "ui/cg/mjs"]
+	path = ui/cg/mjs
+	url = .
 [submodule "ui/da/tlg"]
 	path = ui/da/tlg
 	url = .
