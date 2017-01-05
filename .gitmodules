@@ -46531,6 +46531,9 @@
 [submodule "yb/np/nbn"]
 	path = yb/np/nbn
 	url = .
+[submodule "yb/og/uoz"]
+	path = yb/og/uoz
+	url = .
 [submodule "yb/oo/czg"]
 	path = yb/oo/czg
 	url = .
