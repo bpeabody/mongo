@@ -7867,6 +7867,9 @@
 [submodule "oo/md/wgz"]
 	path = oo/md/wgz
 	url = .
+[submodule "oo/pu/jym"]
+	path = oo/pu/jym
+	url = .
 [submodule "oo/qq/wyd"]
 	path = oo/qq/wyd
 	url = .
