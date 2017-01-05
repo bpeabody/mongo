@@ -3460,6 +3460,9 @@
 [submodule "hu/wh/kfv"]
 	path = hu/wh/kfv
 	url = .
+[submodule "hv/es/bcn"]
+	path = hv/es/bcn
+	url = .
 [submodule "hv/gr/miy"]
 	path = hv/gr/miy
 	url = .
