@@ -7471,6 +7471,9 @@
 [submodule "gf/pr/kmp"]
 	path = gf/pr/kmp
 	url = .
+[submodule "gf/rw/phq"]
+	path = gf/rw/phq
+	url = .
 [submodule "gf/tf/whs"]
 	path = gf/tf/whs
 	url = .
