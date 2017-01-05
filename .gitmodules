@@ -45874,6 +45874,9 @@
 [submodule "ry/dt/gck"]
 	path = ry/dt/gck
 	url = .
+[submodule "ry/ee/qmh"]
+	path = ry/ee/qmh
+	url = .
 [submodule "ry/ez/oxc"]
 	path = ry/ez/oxc
 	url = .
