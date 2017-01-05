@@ -16516,6 +16516,9 @@
 [submodule "ra/qt/aux"]
 	path = ra/qt/aux
 	url = .
+[submodule "ra/rp/khn"]
+	path = ra/rp/khn
+	url = .
 [submodule "ra/um/jno"]
 	path = ra/um/jno
 	url = .
