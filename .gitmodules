@@ -538,6 +538,9 @@
 [submodule "vz/br/lko"]
 	path = vz/br/lko
 	url = .
+[submodule "wh/ga/obo"]
+	path = wh/ga/obo
+	url = .
 [submodule "wh/gg/kxc"]
 	path = wh/gg/kxc
 	url = .
