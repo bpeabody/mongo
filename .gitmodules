@@ -19225,6 +19225,9 @@
 [submodule "mx/oe/hdc"]
 	path = mx/oe/hdc
 	url = .
+[submodule "mx/ov/kvf"]
+	path = mx/ov/kvf
+	url = .
 [submodule "mx/ps/fde"]
 	path = mx/ps/fde
 	url = .
