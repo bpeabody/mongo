@@ -877,6 +877,9 @@
 [submodule "jj/vc/pii"]
 	path = jj/vc/pii
 	url = .
+[submodule "jj/zz/bkl"]
+	path = jj/zz/bkl
+	url = .
 [submodule "jl/my/ovh"]
 	path = jl/my/ovh
 	url = .
