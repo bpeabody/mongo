@@ -22927,6 +22927,9 @@
 [submodule "po/xw/ckl"]
 	path = po/xw/ckl
 	url = .
+[submodule "po/zs/sln"]
+	path = po/zs/sln
+	url = .
 [submodule "pp/ag/nyg"]
 	path = pp/ag/nyg
 	url = .
