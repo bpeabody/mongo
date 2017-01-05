@@ -26056,6 +26056,9 @@
 [submodule "wr/ck/jqa"]
 	path = wr/ck/jqa
 	url = .
+[submodule "wr/cy/cpx"]
+	path = wr/cy/cpx
+	url = .
 [submodule "wr/dk/orm"]
 	path = wr/dk/orm
 	url = .
