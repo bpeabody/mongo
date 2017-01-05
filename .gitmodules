@@ -58996,6 +58996,9 @@
 [submodule "xo/yr/tex"]
 	path = xo/yr/tex
 	url = .
+[submodule "xp/ao/cqv"]
+	path = xp/ao/cqv
+	url = .
 [submodule "xp/ay/jdk"]
 	path = xp/ay/jdk
 	url = .
