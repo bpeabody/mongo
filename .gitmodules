@@ -12376,6 +12376,9 @@
 [submodule "ms/db/gbv"]
 	path = ms/db/gbv
 	url = .
+[submodule "ms/fr/ayn"]
+	path = ms/fr/ayn
+	url = .
 [submodule "ms/ft/vqe"]
 	path = ms/ft/vqe
 	url = .
