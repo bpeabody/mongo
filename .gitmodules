@@ -2800,6 +2800,9 @@
 [submodule "az/lj/mpp"]
 	path = az/lj/mpp
 	url = .
+[submodule "az/ls/dcj"]
+	path = az/ls/dcj
+	url = .
 [submodule "az/mj/vac"]
 	path = az/mj/vac
 	url = .
