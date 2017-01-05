@@ -31228,6 +31228,9 @@
 [submodule "vh/pu/qyc"]
 	path = vh/pu/qyc
 	url = .
+[submodule "vh/qj/xdh"]
+	path = vh/qj/xdh
+	url = .
 [submodule "vh/qm/ohg"]
 	path = vh/qm/ohg
 	url = .
