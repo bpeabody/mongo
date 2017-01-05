@@ -23716,6 +23716,9 @@
 [submodule "mo/dl/zpe"]
 	path = mo/dl/zpe
 	url = .
+[submodule "mo/ef/gry"]
+	path = mo/ef/gry
+	url = .
 [submodule "mo/ei/xti"]
 	path = mo/ei/xti
 	url = .
