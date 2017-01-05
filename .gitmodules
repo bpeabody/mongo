@@ -4465,6 +4465,9 @@
 [submodule "eh/wo/ccg"]
 	path = eh/wo/ccg
 	url = .
+[submodule "eh/xh/vup"]
+	path = eh/xh/vup
+	url = .
 [submodule "eh/xl/lfm"]
 	path = eh/xl/lfm
 	url = .
