@@ -67,6 +67,9 @@
 [submodule "aa/pj/vbo"]
 	path = aa/pj/vbo
 	url = .
+[submodule "aa/pn/ehr"]
+	path = aa/pn/ehr
+	url = .
 [submodule "aa/rg/hea"]
 	path = aa/rg/hea
 	url = .
