@@ -36244,6 +36244,9 @@
 [submodule "uz/pz/tnx"]
 	path = uz/pz/tnx
 	url = .
+[submodule "uz/rp/bik"]
+	path = uz/rp/bik
+	url = .
 [submodule "uz/sn/nkn"]
 	path = uz/sn/nkn
 	url = .
