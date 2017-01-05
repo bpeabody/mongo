@@ -14728,6 +14728,9 @@
 [submodule "xf/ee/rjl"]
 	path = xf/ee/rjl
 	url = .
+[submodule "xf/hk/hcc"]
+	path = xf/hk/hcc
+	url = .
 [submodule "xf/hm/rtj"]
 	path = xf/hm/rtj
 	url = .
