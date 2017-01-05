@@ -13333,6 +13333,9 @@
 [submodule "ms/os/vns"]
 	path = ms/os/vns
 	url = .
+[submodule "ms/zf/xte"]
+	path = ms/zf/xte
+	url = .
 [submodule "mt/fw/one"]
 	path = mt/fw/one
 	url = .
