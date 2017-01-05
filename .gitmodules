@@ -38047,6 +38047,9 @@
 [submodule "yq/wp/zdl"]
 	path = yq/wp/zdl
 	url = .
+[submodule "yq/wt/jis"]
+	path = yq/wt/jis
+	url = .
 [submodule "yq/yt/ovt"]
 	path = yq/yt/ovt
 	url = .
