@@ -39475,6 +39475,9 @@
 [submodule "st/nl/spw"]
 	path = st/nl/spw
 	url = .
+[submodule "st/nx/bup"]
+	path = st/nx/bup
+	url = .
 [submodule "st/ob/yvy"]
 	path = st/ob/yvy
 	url = .
