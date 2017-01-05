@@ -33595,6 +33595,9 @@
 [submodule "rv/tu/gdb"]
 	path = rv/tu/gdb
 	url = .
+[submodule "rv/vf/uty"]
+	path = rv/vf/uty
+	url = .
 [submodule "rv/vn/nue"]
 	path = rv/vn/nue
 	url = .
