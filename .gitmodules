@@ -15583,6 +15583,9 @@
 [submodule "nv/fz/fvo"]
 	path = nv/fz/fvo
 	url = .
+[submodule "nv/gi/knn"]
+	path = nv/gi/knn
+	url = .
 [submodule "nv/ic/qwa"]
 	path = nv/ic/qwa
 	url = .
