@@ -30616,6 +30616,9 @@
 [submodule "oy/wv/rky"]
 	path = oy/wv/rky
 	url = .
+[submodule "oy/xa/mrl"]
+	path = oy/xa/mrl
+	url = .
 [submodule "oy/xs/wvp"]
 	path = oy/xs/wvp
 	url = .
