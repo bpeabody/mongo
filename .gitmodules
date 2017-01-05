@@ -41026,6 +41026,9 @@
 [submodule "ru/qi/pdb"]
 	path = ru/qi/pdb
 	url = .
+[submodule "ru/ra/peo"]
+	path = ru/ra/peo
+	url = .
 [submodule "ru/si/nub"]
 	path = ru/si/nub
 	url = .
