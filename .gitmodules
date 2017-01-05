@@ -3334,6 +3334,9 @@
 [submodule "gb/vy/waw"]
 	path = gb/vy/waw
 	url = .
+[submodule "gb/zh/ins"]
+	path = gb/zh/ins
+	url = .
 [submodule "gc/gi/ghl"]
 	path = gc/gi/ghl
 	url = .
