@@ -50077,6 +50077,9 @@
 [submodule "vq/ol/dgx"]
 	path = vq/ol/dgx
 	url = .
+[submodule "vq/pk/hld"]
+	path = vq/pk/hld
+	url = .
 [submodule "vq/ps/ewq"]
 	path = vq/ps/ewq
 	url = .
