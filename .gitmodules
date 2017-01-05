@@ -9940,6 +9940,9 @@
 [submodule "ea/os/aet"]
 	path = ea/os/aet
 	url = .
+[submodule "ea/pl/ite"]
+	path = ea/pl/ite
+	url = .
 [submodule "ea/pu/vhi"]
 	path = ea/pu/vhi
 	url = .
