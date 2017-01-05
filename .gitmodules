@@ -1462,6 +1462,9 @@
 [submodule "cl/zj/kao"]
 	path = cl/zj/kao
 	url = .
+[submodule "cm/iw/qqi"]
+	path = cm/iw/qqi
+	url = .
 [submodule "cm/tp/amq"]
 	path = cm/tp/amq
 	url = .
