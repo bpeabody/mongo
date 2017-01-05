@@ -40462,6 +40462,9 @@
 [submodule "td/vd/rmu"]
 	path = td/vd/rmu
 	url = .
+[submodule "td/we/tar"]
+	path = td/we/tar
+	url = .
 [submodule "td/xt/snw"]
 	path = td/xt/snw
 	url = .
