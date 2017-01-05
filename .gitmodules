@@ -6217,6 +6217,9 @@
 [submodule "cd/ea/jdu"]
 	path = cd/ea/jdu
 	url = .
+[submodule "cd/ew/yak"]
+	path = cd/ew/yak
+	url = .
 [submodule "cd/ez/jms"]
 	path = cd/ez/jms
 	url = .
