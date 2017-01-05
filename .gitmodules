@@ -982,6 +982,9 @@
 [submodule "ai/rz/cmy"]
 	path = ai/rz/cmy
 	url = .
+[submodule "ai/sd/lzf"]
+	path = ai/sd/lzf
+	url = .
 [submodule "ai/ss/dya"]
 	path = ai/ss/dya
 	url = .
