@@ -13156,6 +13156,9 @@
 [submodule "iq/lt/gub"]
 	path = iq/lt/gub
 	url = .
+[submodule "iq/mo/rzu"]
+	path = iq/mo/rzu
+	url = .
 [submodule "iq/mr/inn"]
 	path = iq/mr/inn
 	url = .
