@@ -40090,6 +40090,9 @@
 [submodule "ue/pn/ovi"]
 	path = ue/pn/ovi
 	url = .
+[submodule "ue/qa/awp"]
+	path = ue/qa/awp
+	url = .
 [submodule "ue/qp/iht"]
 	path = ue/qp/iht
 	url = .
