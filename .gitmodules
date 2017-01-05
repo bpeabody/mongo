@@ -10264,6 +10264,9 @@
 [submodule "or/kq/bgw"]
 	path = or/kq/bgw
 	url = .
+[submodule "or/kv/teu"]
+	path = or/kv/teu
+	url = .
 [submodule "or/lo/pnc"]
 	path = or/lo/pnc
 	url = .
