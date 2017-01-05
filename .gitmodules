@@ -9781,6 +9781,9 @@
 [submodule "ek/rz/yub"]
 	path = ek/rz/yub
 	url = .
+[submodule "ek/sx/qer"]
+	path = ek/sx/qer
+	url = .
 [submodule "ek/uh/vdu"]
 	path = ek/uh/vdu
 	url = .
