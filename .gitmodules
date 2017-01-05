@@ -28996,6 +28996,9 @@
 [submodule "qa/qv/vrr"]
 	path = qa/qv/vrr
 	url = .
+[submodule "qa/tj/kha"]
+	path = qa/tj/kha
+	url = .
 [submodule "qa/ts/beu"]
 	path = qa/ts/beu
 	url = .
