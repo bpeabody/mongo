@@ -41593,6 +41593,9 @@
 [submodule "qs/cy/xic"]
 	path = qs/cy/xic
 	url = .
+[submodule "qs/da/jsp"]
+	path = qs/da/jsp
+	url = .
 [submodule "qs/eb/xea"]
 	path = qs/eb/xea
 	url = .
