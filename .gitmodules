@@ -4999,6 +4999,9 @@
 [submodule "nq/is/wab"]
 	path = nq/is/wab
 	url = .
+[submodule "nq/vu/qgw"]
+	path = nq/vu/qgw
+	url = .
 [submodule "nq/wl/pcz"]
 	path = nq/wl/pcz
 	url = .
