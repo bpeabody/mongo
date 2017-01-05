@@ -16135,6 +16135,9 @@
 [submodule "zu/cv/yfl"]
 	path = zu/cv/yfl
 	url = .
+[submodule "zu/im/jvd"]
+	path = zu/im/jvd
+	url = .
 [submodule "zu/oh/ufe"]
 	path = zu/oh/ufe
 	url = .
