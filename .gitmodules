@@ -19090,6 +19090,9 @@
 [submodule "hc/my/agl"]
 	path = hc/my/agl
 	url = .
+[submodule "hc/ne/ayo"]
+	path = hc/ne/ayo
+	url = .
 [submodule "hc/ns/ejv"]
 	path = hc/ns/ejv
 	url = .
