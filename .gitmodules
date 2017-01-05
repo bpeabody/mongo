@@ -3037,6 +3037,9 @@
 [submodule "hs/nc/mmm"]
 	path = hs/nc/mmm
 	url = .
+[submodule "hs/vm/ogf"]
+	path = hs/vm/ogf
+	url = .
 [submodule "ht/hc/amx"]
 	path = ht/hc/amx
 	url = .
