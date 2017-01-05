@@ -27727,6 +27727,9 @@
 [submodule "jq/ks/fiv"]
 	path = jq/ks/fiv
 	url = .
+[submodule "jq/lb/fmb"]
+	path = jq/lb/fmb
+	url = .
 [submodule "jq/mc/oix"]
 	path = jq/mc/oix
 	url = .
