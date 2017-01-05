@@ -178,6 +178,9 @@
 [submodule "af/yw/bmq"]
 	path = af/yw/bmq
 	url = .
+[submodule "ag/ew/xla"]
+	path = ag/ew/xla
+	url = .
 [submodule "ag/fo/haa"]
 	path = ag/fo/haa
 	url = .
