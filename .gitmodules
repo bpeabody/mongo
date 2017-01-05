@@ -36757,6 +36757,9 @@
 [submodule "zc/no/zhc"]
 	path = zc/no/zhc
 	url = .
+[submodule "zc/qk/vep"]
+	path = zc/qk/vep
+	url = .
 [submodule "zc/qn/wyk"]
 	path = zc/qn/wyk
 	url = .
