@@ -20635,6 +20635,9 @@
 [submodule "wb/gh/lwl"]
 	path = wb/gh/lwl
 	url = .
+[submodule "wb/hs/ihv"]
+	path = wb/hs/ihv
+	url = .
 [submodule "wb/it/plu"]
 	path = wb/it/plu
 	url = .
