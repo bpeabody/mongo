@@ -5455,6 +5455,9 @@
 [submodule "ch/rw/zpl"]
 	path = ch/rw/zpl
 	url = .
+[submodule "ch/ry/afd"]
+	path = ch/ry/afd
+	url = .
 [submodule "ch/rz/zwl"]
 	path = ch/rz/zwl
 	url = .
