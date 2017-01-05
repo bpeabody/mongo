@@ -46417,6 +46417,9 @@
 [submodule "ts/gm/hrk"]
 	path = ts/gm/hrk
 	url = .
+[submodule "ts/hl/ltt"]
+	path = ts/hl/ltt
+	url = .
 [submodule "ts/ia/sso"]
 	path = ts/ia/sso
 	url = .
