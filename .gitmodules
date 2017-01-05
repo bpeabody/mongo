@@ -15652,6 +15652,9 @@
 [submodule "fm/nz/toi"]
 	path = fm/nz/toi
 	url = .
+[submodule "fm/pg/tep"]
+	path = fm/pg/tep
+	url = .
 [submodule "fm/qt/daz"]
 	path = fm/qt/daz
 	url = .
