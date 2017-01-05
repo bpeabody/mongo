@@ -66535,6 +66535,9 @@
 [submodule "yy/uc/vvo"]
 	path = yy/uc/vvo
 	url = .
+[submodule "yy/un/isy"]
+	path = yy/un/isy
+	url = .
 [submodule "yy/uq/wxh"]
 	path = yy/uq/wxh
 	url = .
