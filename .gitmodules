@@ -11713,6 +11713,9 @@
 [submodule "ub/wb/lmb"]
 	path = ub/wb/lmb
 	url = .
+[submodule "ub/wp/frj"]
+	path = ub/wp/frj
+	url = .
 [submodule "ub/yg/cvg"]
 	path = ub/yg/cvg
 	url = .
