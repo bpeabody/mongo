@@ -7372,6 +7372,9 @@
 [submodule "gu/xb/cik"]
 	path = gu/xb/cik
 	url = .
+[submodule "gu/xo/vaw"]
+	path = gu/xo/vaw
+	url = .
 [submodule "gv/bg/ztf"]
 	path = gv/bg/ztf
 	url = .
