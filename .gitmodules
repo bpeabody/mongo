@@ -10444,6 +10444,9 @@
 [submodule "ma/zs/buy"]
 	path = ma/zs/buy
 	url = .
+[submodule "mb/am/fow"]
+	path = mb/am/fow
+	url = .
 [submodule "mb/bq/izu"]
 	path = mb/bq/izu
 	url = .
