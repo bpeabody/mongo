@@ -27919,6 +27919,9 @@
 [submodule "xa/bc/nfl"]
 	path = xa/bc/nfl
 	url = .
+[submodule "xa/bp/qwu"]
+	path = xa/bp/qwu
+	url = .
 [submodule "xa/cu/idg"]
 	path = xa/cu/idg
 	url = .
