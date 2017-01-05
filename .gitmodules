@@ -10246,6 +10246,9 @@
 [submodule "kj/aa/pwk"]
 	path = kj/aa/pwk
 	url = .
+[submodule "kj/aq/dqa"]
+	path = kj/aq/dqa
+	url = .
 [submodule "kj/av/tmg"]
 	path = kj/av/tmg
 	url = .
