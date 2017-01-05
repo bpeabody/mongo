@@ -1318,6 +1318,9 @@
 [submodule "fu/dm/nlg"]
 	path = fu/dm/nlg
 	url = .
+[submodule "fu/qk/ccv"]
+	path = fu/qk/ccv
+	url = .
 [submodule "fu/xu/vfo"]
 	path = fu/xu/vfo
 	url = .
