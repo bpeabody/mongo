@@ -18847,6 +18847,9 @@
 [submodule "lb/eb/mxu"]
 	path = lb/eb/mxu
 	url = .
+[submodule "lb/ep/mri"]
+	path = lb/ep/mri
+	url = .
 [submodule "lb/fh/kyw"]
 	path = lb/fh/kyw
 	url = .
