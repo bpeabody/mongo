@@ -12607,6 +12607,9 @@
 [submodule "ie/wg/alu"]
 	path = ie/wg/alu
 	url = .
+[submodule "ie/xh/bii"]
+	path = ie/xh/bii
+	url = .
 [submodule "ie/xx/idy"]
 	path = ie/xx/idy
 	url = .
