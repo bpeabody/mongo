@@ -31480,6 +31480,9 @@
 [submodule "ob/fd/udj"]
 	path = ob/fd/udj
 	url = .
+[submodule "ob/fk/awf"]
+	path = ob/fk/awf
+	url = .
 [submodule "ob/gh/ttn"]
 	path = ob/gh/ttn
 	url = .
