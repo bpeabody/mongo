@@ -49375,6 +49375,9 @@
 [submodule "ra/ey/hxi"]
 	path = ra/ey/hxi
 	url = .
+[submodule "ra/fs/kih"]
+	path = ra/fs/kih
+	url = .
 [submodule "ra/ft/bkm"]
 	path = ra/ft/bkm
 	url = .
