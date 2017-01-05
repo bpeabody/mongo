@@ -5245,6 +5245,9 @@
 [submodule "fj/ed/rox"]
 	path = fj/ed/rox
 	url = .
+[submodule "fj/gj/emx"]
+	path = fj/gj/emx
+	url = .
 [submodule "fj/jn/cga"]
 	path = fj/jn/cga
 	url = .
