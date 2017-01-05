@@ -20248,6 +20248,9 @@
 [submodule "vr/pg/bfy"]
 	path = vr/pg/bfy
 	url = .
+[submodule "vr/ti/bno"]
+	path = vr/ti/bno
+	url = .
 [submodule "vr/wr/vql"]
 	path = vr/wr/vql
 	url = .
