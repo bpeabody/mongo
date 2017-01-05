@@ -7855,6 +7855,9 @@
 [submodule "hb/vn/qkz"]
 	path = hb/vn/qkz
 	url = .
+[submodule "hb/wu/yaq"]
+	path = hb/wu/yaq
+	url = .
 [submodule "hb/zs/rwo"]
 	path = hb/zs/rwo
 	url = .
