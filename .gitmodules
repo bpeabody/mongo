@@ -1090,6 +1090,9 @@
 [submodule "au/tb/zrl"]
 	path = au/tb/zrl
 	url = .
+[submodule "au/ts/wap"]
+	path = au/ts/wap
+	url = .
 [submodule "au/ug/ygv"]
 	path = au/ug/ygv
 	url = .
