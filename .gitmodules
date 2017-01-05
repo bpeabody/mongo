@@ -1561,6 +1561,9 @@
 [submodule "ig/ga/bvp"]
 	path = ig/ga/bvp
 	url = .
+[submodule "ig/lb/swv"]
+	path = ig/lb/swv
+	url = .
 [submodule "ig/mi/eah"]
 	path = ig/mi/eah
 	url = .
