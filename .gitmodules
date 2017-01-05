@@ -3184,6 +3184,9 @@
 [submodule "ld/fj/ncw"]
 	path = ld/fj/ncw
 	url = .
+[submodule "ld/gn/umx"]
+	path = ld/gn/umx
+	url = .
 [submodule "ld/ys/rru"]
 	path = ld/ys/rru
 	url = .
