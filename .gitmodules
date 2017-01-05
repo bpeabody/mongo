@@ -3913,6 +3913,9 @@
 [submodule "fc/qy/iqb"]
 	path = fc/qy/iqb
 	url = .
+[submodule "fc/ru/isp"]
+	path = fc/ru/isp
+	url = .
 [submodule "fc/tj/upz"]
 	path = fc/tj/upz
 	url = .
