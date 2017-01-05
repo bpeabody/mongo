@@ -10492,6 +10492,9 @@
 [submodule "kw/lw/hsr"]
 	path = kw/lw/hsr
 	url = .
+[submodule "kw/ms/kbw"]
+	path = kw/ms/kbw
+	url = .
 [submodule "kw/qu/dtw"]
 	path = kw/qu/dtw
 	url = .
