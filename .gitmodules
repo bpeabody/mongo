@@ -44428,6 +44428,9 @@
 [submodule "ug/ru/hfs"]
 	path = ug/ru/hfs
 	url = .
+[submodule "ug/sa/jju"]
+	path = ug/sa/jju
+	url = .
 [submodule "ug/uj/jum"]
 	path = ug/uj/jum
 	url = .
