@@ -38968,6 +38968,9 @@
 [submodule "qu/qc/bsz"]
 	path = qu/qc/bsz
 	url = .
+[submodule "qu/rh/rzi"]
+	path = qu/rh/rzi
+	url = .
 [submodule "qu/rs/uup"]
 	path = qu/rs/uup
 	url = .
