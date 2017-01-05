@@ -8008,6 +8008,9 @@
 [submodule "fc/zd/zcs"]
 	path = fc/zd/zcs
 	url = .
+[submodule "fd/ce/ueg"]
+	path = fd/ce/ueg
+	url = .
 [submodule "fd/cs/cop"]
 	path = fd/cs/cop
 	url = .
