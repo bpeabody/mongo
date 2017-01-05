@@ -10549,6 +10549,9 @@
 [submodule "pf/iw/zxd"]
 	path = pf/iw/zxd
 	url = .
+[submodule "pf/jd/hay"]
+	path = pf/jd/hay
+	url = .
 [submodule "pf/ko/foq"]
 	path = pf/ko/foq
 	url = .
