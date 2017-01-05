@@ -49174,6 +49174,9 @@
 [submodule "yu/ij/vfa"]
 	path = yu/ij/vfa
 	url = .
+[submodule "yu/js/kht"]
+	path = yu/js/kht
+	url = .
 [submodule "yu/js/yaf"]
 	path = yu/js/yaf
 	url = .
