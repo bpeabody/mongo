@@ -14740,6 +14740,9 @@
 [submodule "fw/bw/ngq"]
 	path = fw/bw/ngq
 	url = .
+[submodule "fw/dn/ysa"]
+	path = fw/dn/ysa
+	url = .
 [submodule "fw/dr/lwd"]
 	path = fw/dr/lwd
 	url = .
