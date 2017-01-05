@@ -8635,6 +8635,9 @@
 [submodule "td/tt/eig"]
 	path = td/tt/eig
 	url = .
+[submodule "td/vd/rmu"]
+	path = td/vd/rmu
+	url = .
 [submodule "te/ao/dsr"]
 	path = te/ao/dsr
 	url = .
