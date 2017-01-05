@@ -18772,6 +18772,9 @@
 [submodule "sv/jg/snb"]
 	path = sv/jg/snb
 	url = .
+[submodule "sv/kr/lio"]
+	path = sv/kr/lio
+	url = .
 [submodule "sv/ml/wdz"]
 	path = sv/ml/wdz
 	url = .
