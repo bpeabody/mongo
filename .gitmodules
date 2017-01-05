@@ -5485,6 +5485,9 @@
 [submodule "sl/gl/dfv"]
 	path = sl/gl/dfv
 	url = .
+[submodule "sl/ja/oyc"]
+	path = sl/ja/oyc
+	url = .
 [submodule "sm/ai/qfy"]
 	path = sm/ai/qfy
 	url = .
