@@ -14365,6 +14365,9 @@
 [submodule "nz/oe/nox"]
 	path = nz/oe/nox
 	url = .
+[submodule "nz/og/yye"]
+	path = nz/og/yye
+	url = .
 [submodule "nz/ok/zil"]
 	path = nz/ok/zil
 	url = .
