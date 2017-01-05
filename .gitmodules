@@ -23539,6 +23539,9 @@
 [submodule "wb/bz/uek"]
 	path = wb/bz/uek
 	url = .
+[submodule "wb/cz/ukw"]
+	path = wb/cz/ukw
+	url = .
 [submodule "wb/en/zaq"]
 	path = wb/en/zaq
 	url = .
