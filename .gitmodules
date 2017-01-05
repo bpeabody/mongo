@@ -14473,6 +14473,9 @@
 [submodule "iv/ia/htx"]
 	path = iv/ia/htx
 	url = .
+[submodule "iv/mf/osd"]
+	path = iv/mf/osd
+	url = .
 [submodule "iv/mf/wma"]
 	path = iv/mf/wma
 	url = .
