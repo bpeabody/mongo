@@ -475,6 +475,9 @@
 [submodule "cp/se/xsv"]
 	path = cp/se/xsv
 	url = .
+[submodule "cq/gy/vcw"]
+	path = cq/gy/vcw
+	url = .
 [submodule "cr/ai/pmf"]
 	path = cr/ai/pmf
 	url = .
