@@ -5965,6 +5965,9 @@
 [submodule "fa/ne/pma"]
 	path = fa/ne/pma
 	url = .
+[submodule "fa/ns/wgy"]
+	path = fa/ns/wgy
+	url = .
 [submodule "fa/pv/jlz"]
 	path = fa/pv/jlz
 	url = .
