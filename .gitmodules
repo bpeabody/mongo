@@ -42469,6 +42469,9 @@
 [submodule "ph/tk/exu"]
 	path = ph/tk/exu
 	url = .
+[submodule "ph/ud/yin"]
+	path = ph/ud/yin
+	url = .
 [submodule "ph/ut/nwo"]
 	path = ph/ut/nwo
 	url = .
