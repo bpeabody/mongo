@@ -10075,6 +10075,9 @@
 [submodule "uy/bg/brd"]
 	path = uy/bg/brd
 	url = .
+[submodule "uy/go/gmo"]
+	path = uy/go/gmo
+	url = .
 [submodule "uy/ii/fff"]
 	path = uy/ii/fff
 	url = .
