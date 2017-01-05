@@ -2026,6 +2026,9 @@
 [submodule "cq/ue/fud"]
 	path = cq/ue/fud
 	url = .
+[submodule "cq/yq/cxe"]
+	path = cq/yq/cxe
+	url = .
 [submodule "cr/ai/pmf"]
 	path = cr/ai/pmf
 	url = .
