@@ -16651,6 +16651,9 @@
 [submodule "nb/sh/esv"]
 	path = nb/sh/esv
 	url = .
+[submodule "nb/si/cwi"]
+	path = nb/si/cwi
+	url = .
 [submodule "nc/ez/vbw"]
 	path = nc/ez/vbw
 	url = .
