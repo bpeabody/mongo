@@ -10486,6 +10486,9 @@
 [submodule "do/jt/xoc"]
 	path = do/jt/xoc
 	url = .
+[submodule "do/jw/iew"]
+	path = do/jw/iew
+	url = .
 [submodule "do/kb/jev"]
 	path = do/kb/jev
 	url = .
