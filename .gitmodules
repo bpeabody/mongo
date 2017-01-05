@@ -23863,6 +23863,9 @@
 [submodule "qb/cv/avo"]
 	path = qb/cv/avo
 	url = .
+[submodule "qb/cv/otu"]
+	path = qb/cv/otu
+	url = .
 [submodule "qb/dv/rhs"]
 	path = qb/dv/rhs
 	url = .
