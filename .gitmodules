@@ -4783,6 +4783,9 @@
 [submodule "co/of/qoi"]
 	path = co/of/qoi
 	url = .
+[submodule "co/pu/awr"]
+	path = co/pu/awr
+	url = .
 [submodule "co/qq/eof"]
 	path = co/qq/eof
 	url = .
