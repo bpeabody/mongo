@@ -11248,6 +11248,9 @@
 [submodule "yn/se/bop"]
 	path = yn/se/bop
 	url = .
+[submodule "yn/vd/wwl"]
+	path = yn/vd/wwl
+	url = .
 [submodule "yn/vx/ioo"]
 	path = yn/vx/ioo
 	url = .
