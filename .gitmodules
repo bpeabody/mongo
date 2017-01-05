@@ -15826,6 +15826,9 @@
 [submodule "sf/sc/wwf"]
 	path = sf/sc/wwf
 	url = .
+[submodule "sf/uo/trn"]
+	path = sf/uo/trn
+	url = .
 [submodule "sf/xv/mdj"]
 	path = sf/xv/mdj
 	url = .
