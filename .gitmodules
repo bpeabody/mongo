@@ -21196,6 +21196,9 @@
 [submodule "qm/xo/wwm"]
 	path = qm/xo/wwm
 	url = .
+[submodule "qm/yj/gis"]
+	path = qm/yj/gis
+	url = .
 [submodule "qm/zp/wmt"]
 	path = qm/zp/wmt
 	url = .
