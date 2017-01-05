@@ -17806,6 +17806,9 @@
 [submodule "hu/lc/gjw"]
 	path = hu/lc/gjw
 	url = .
+[submodule "hu/lu/bvr"]
+	path = hu/lu/bvr
+	url = .
 [submodule "hu/mr/ilx"]
 	path = hu/mr/ilx
 	url = .
