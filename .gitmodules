@@ -8221,6 +8221,9 @@
 [submodule "kx/tw/ydp"]
 	path = kx/tw/ydp
 	url = .
+[submodule "kx/ub/fpv"]
+	path = kx/ub/fpv
+	url = .
 [submodule "kx/uk/iwr"]
 	path = kx/uk/iwr
 	url = .
