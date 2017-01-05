@@ -1,6 +1,9 @@
 [submodule "ah/qy/stj"]
 	path = ah/qy/stj
 	url = .
+[submodule "fi/my/npa"]
+	path = fi/my/npa
+	url = .
 [submodule "mo/ei/xti"]
 	path = mo/ei/xti
 	url = .
