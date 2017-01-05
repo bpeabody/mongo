@@ -42286,6 +42286,9 @@
 [submodule "sz/ew/bga"]
 	path = sz/ew/bga
 	url = .
+[submodule "sz/gm/jin"]
+	path = sz/gm/jin
+	url = .
 [submodule "sz/ik/afi"]
 	path = sz/ik/afi
 	url = .
