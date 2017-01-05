@@ -15325,6 +15325,9 @@
 [submodule "pq/wi/uyt"]
 	path = pq/wi/uyt
 	url = .
+[submodule "pq/zh/lzb"]
+	path = pq/zh/lzb
+	url = .
 [submodule "pr/cq/qwf"]
 	path = pr/cq/qwf
 	url = .
