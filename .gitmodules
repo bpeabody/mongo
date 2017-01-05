@@ -136,6 +136,9 @@
 [submodule "be/ha/ker"]
 	path = be/ha/ker
 	url = .
+[submodule "be/ho/wnk"]
+	path = be/ho/wnk
+	url = .
 [submodule "bf/gf/vfh"]
 	path = bf/gf/vfh
 	url = .
