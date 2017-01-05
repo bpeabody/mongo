@@ -3445,6 +3445,9 @@
 [submodule "wb/qg/pqg"]
 	path = wb/qg/pqg
 	url = .
+[submodule "wc/cv/ewd"]
+	path = wc/cv/ewd
+	url = .
 [submodule "wc/vt/dcr"]
 	path = wc/vt/dcr
 	url = .
