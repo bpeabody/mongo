@@ -12766,6 +12766,9 @@
 [submodule "kx/va/hma"]
 	path = kx/va/hma
 	url = .
+[submodule "kx/vs/xam"]
+	path = kx/vs/xam
+	url = .
 [submodule "kx/wx/cgq"]
 	path = kx/wx/cgq
 	url = .
