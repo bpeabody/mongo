@@ -3169,6 +3169,9 @@
 [submodule "ed/vv/ych"]
 	path = ed/vv/ych
 	url = .
+[submodule "ee/jj/bui"]
+	path = ee/jj/bui
+	url = .
 [submodule "ee/jp/yaf"]
 	path = ee/jp/yaf
 	url = .
