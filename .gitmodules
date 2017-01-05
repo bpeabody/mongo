@@ -13318,6 +13318,9 @@
 [submodule "ux/yw/dnv"]
 	path = ux/yw/dnv
 	url = .
+[submodule "uy/ap/nog"]
+	path = uy/ap/nog
+	url = .
 [submodule "uy/bg/brd"]
 	path = uy/bg/brd
 	url = .
