@@ -3814,6 +3814,9 @@
 [submodule "hs/vm/ogf"]
 	path = hs/vm/ogf
 	url = .
+[submodule "ht/ff/dne"]
+	path = ht/ff/dne
+	url = .
 [submodule "ht/hc/amx"]
 	path = ht/hc/amx
 	url = .
