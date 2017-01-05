@@ -53689,6 +53689,9 @@
 [submodule "ut/js/bha"]
 	path = ut/js/bha
 	url = .
+[submodule "ut/kn/jad"]
+	path = ut/kn/jad
+	url = .
 [submodule "ut/lh/wrg"]
 	path = ut/lh/wrg
 	url = .
