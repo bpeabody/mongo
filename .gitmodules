@@ -33826,6 +33826,9 @@
 [submodule "rc/hf/kxo"]
 	path = rc/hf/kxo
 	url = .
+[submodule "rc/hu/fuq"]
+	path = rc/hu/fuq
+	url = .
 [submodule "rc/hy/vsb"]
 	path = rc/hy/vsb
 	url = .
