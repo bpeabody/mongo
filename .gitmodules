@@ -4153,6 +4153,9 @@
 [submodule "jh/st/tuj"]
 	path = jh/st/tuj
 	url = .
+[submodule "jh/uz/fvv"]
+	path = jh/uz/fvv
+	url = .
 [submodule "jh/xm/pnd"]
 	path = jh/xm/pnd
 	url = .
