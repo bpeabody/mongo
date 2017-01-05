@@ -30943,6 +30943,9 @@
 [submodule "kx/ei/lrj"]
 	path = kx/ei/lrj
 	url = .
+[submodule "kx/en/ilp"]
+	path = kx/en/ilp
+	url = .
 [submodule "kx/fe/jte"]
 	path = kx/fe/jte
 	url = .
