@@ -53095,6 +53095,9 @@
 [submodule "sm/yc/lfz"]
 	path = sm/yc/lfz
 	url = .
+[submodule "sm/yz/rna"]
+	path = sm/yz/rna
+	url = .
 [submodule "sm/zr/xrl"]
 	path = sm/zr/xrl
 	url = .
