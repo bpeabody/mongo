@@ -1300,6 +1300,9 @@
 [submodule "ax/mp/hbt"]
 	path = ax/mp/hbt
 	url = .
+[submodule "ax/no/yfm"]
+	path = ax/no/yfm
+	url = .
 [submodule "ax/og/bqy"]
 	path = ax/og/bqy
 	url = .
