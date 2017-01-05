@@ -16873,6 +16873,9 @@
 [submodule "ut/jh/zie"]
 	path = ut/jh/zie
 	url = .
+[submodule "ut/mu/sgl"]
+	path = ut/mu/sgl
+	url = .
 [submodule "ut/tj/jxd"]
 	path = ut/tj/jxd
 	url = .
