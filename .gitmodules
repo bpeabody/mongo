@@ -13,6 +13,9 @@
 [submodule "aa/ik/lyj"]
 	path = aa/ik/lyj
 	url = .
+[submodule "aa/je/qcp"]
+	path = aa/je/qcp
+	url = .
 [submodule "aa/le/zus"]
 	path = aa/le/zus
 	url = .
