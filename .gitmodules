@@ -48994,6 +48994,9 @@
 [submodule "ve/pl/rxm"]
 	path = ve/pl/rxm
 	url = .
+[submodule "ve/qv/ysc"]
+	path = ve/qv/ysc
+	url = .
 [submodule "ve/tj/zdv"]
 	path = ve/tj/zdv
 	url = .
