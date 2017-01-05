@@ -18514,6 +18514,9 @@
 [submodule "kn/vb/ejb"]
 	path = kn/vb/ejb
 	url = .
+[submodule "kn/vb/muw"]
+	path = kn/vb/muw
+	url = .
 [submodule "kn/vh/wzo"]
 	path = kn/vh/wzo
 	url = .
