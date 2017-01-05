@@ -12925,6 +12925,9 @@
 [submodule "ka/et/dkf"]
 	path = ka/et/dkf
 	url = .
+[submodule "ka/fr/rwi"]
+	path = ka/fr/rwi
+	url = .
 [submodule "ka/ia/wgs"]
 	path = ka/ia/wgs
 	url = .
