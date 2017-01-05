@@ -3481,6 +3481,9 @@
 [submodule "iq/wx/bbg"]
 	path = iq/wx/bbg
 	url = .
+[submodule "iq/zs/nnv"]
+	path = iq/zs/nnv
+	url = .
 [submodule "ir/bj/ewt"]
 	path = ir/bj/ewt
 	url = .
