@@ -11779,6 +11779,9 @@
 [submodule "nn/tr/brw"]
 	path = nn/tr/brw
 	url = .
+[submodule "nn/ty/teo"]
+	path = nn/ty/teo
+	url = .
 [submodule "nn/uy/wen"]
 	path = nn/uy/wen
 	url = .
