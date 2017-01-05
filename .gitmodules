@@ -2383,6 +2383,9 @@
 [submodule "fb/wr/ony"]
 	path = fb/wr/ony
 	url = .
+[submodule "fc/as/ott"]
+	path = fc/as/ott
+	url = .
 [submodule "fc/hz/szw"]
 	path = fc/hz/szw
 	url = .
