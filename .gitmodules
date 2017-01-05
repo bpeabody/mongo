@@ -23002,6 +23002,9 @@
 [submodule "yp/it/qli"]
 	path = yp/it/qli
 	url = .
+[submodule "yp/mk/ouj"]
+	path = yp/mk/ouj
+	url = .
 [submodule "yp/nh/uep"]
 	path = yp/nh/uep
 	url = .
