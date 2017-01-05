@@ -3781,6 +3781,9 @@
 [submodule "ep/uq/urb"]
 	path = ep/uq/urb
 	url = .
+[submodule "eq/gc/byp"]
+	path = eq/gc/byp
+	url = .
 [submodule "eq/io/des"]
 	path = eq/io/des
 	url = .
