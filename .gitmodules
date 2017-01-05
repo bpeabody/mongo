@@ -38689,6 +38689,9 @@
 [submodule "yv/jq/oib"]
 	path = yv/jq/oib
 	url = .
+[submodule "yv/jx/rvg"]
+	path = yv/jx/rvg
+	url = .
 [submodule "yv/kt/dqw"]
 	path = yv/kt/dqw
 	url = .
