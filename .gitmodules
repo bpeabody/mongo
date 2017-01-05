@@ -10936,6 +10936,9 @@
 [submodule "gk/dp/vnk"]
 	path = gk/dp/vnk
 	url = .
+[submodule "gk/gv/uds"]
+	path = gk/gv/uds
+	url = .
 [submodule "gk/hb/oel"]
 	path = gk/hb/oel
 	url = .
