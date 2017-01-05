@@ -7303,6 +7303,9 @@
 [submodule "nq/wl/pcz"]
 	path = nq/wl/pcz
 	url = .
+[submodule "nr/ac/mop"]
+	path = nr/ac/mop
+	url = .
 [submodule "nr/iw/sjg"]
 	path = nr/iw/sjg
 	url = .
