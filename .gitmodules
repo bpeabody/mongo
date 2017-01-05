@@ -4609,6 +4609,9 @@
 [submodule "os/dy/foh"]
 	path = os/dy/foh
 	url = .
+[submodule "os/vf/fwu"]
+	path = os/vf/fwu
+	url = .
 [submodule "ot/op/pfa"]
 	path = ot/op/pfa
 	url = .
