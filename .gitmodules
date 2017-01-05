@@ -52681,6 +52681,9 @@
 [submodule "te/rf/uoo"]
 	path = te/rf/uoo
 	url = .
+[submodule "te/sn/jpr"]
+	path = te/sn/jpr
+	url = .
 [submodule "te/su/rnm"]
 	path = te/su/rnm
 	url = .
