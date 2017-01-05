@@ -11965,6 +11965,9 @@
 [submodule "lc/jb/zmo"]
 	path = lc/jb/zmo
 	url = .
+[submodule "lc/js/yrv"]
+	path = lc/js/yrv
+	url = .
 [submodule "lc/mk/cjk"]
 	path = lc/mk/cjk
 	url = .
