@@ -7213,6 +7213,9 @@
 [submodule "lr/ww/qds"]
 	path = lr/ww/qds
 	url = .
+[submodule "ls/au/lri"]
+	path = ls/au/lri
+	url = .
 [submodule "ls/gu/hls"]
 	path = ls/gu/hls
 	url = .
