@@ -5050,6 +5050,9 @@
 [submodule "oe/aq/aod"]
 	path = oe/aq/aod
 	url = .
+[submodule "oe/bg/gct"]
+	path = oe/bg/gct
+	url = .
 [submodule "oe/me/agn"]
 	path = oe/me/agn
 	url = .
