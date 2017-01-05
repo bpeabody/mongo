@@ -62833,6 +62833,9 @@
 [submodule "xv/qv/nvh"]
 	path = xv/qv/nvh
 	url = .
+[submodule "xv/rp/cfc"]
+	path = xv/rp/cfc
+	url = .
 [submodule "xv/rq/djq"]
 	path = xv/rq/djq
 	url = .
