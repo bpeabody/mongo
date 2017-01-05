@@ -20992,6 +20992,9 @@
 [submodule "po/me/ftk"]
 	path = po/me/ftk
 	url = .
+[submodule "po/no/blq"]
+	path = po/no/blq
+	url = .
 [submodule "po/pk/bfp"]
 	path = po/pk/bfp
 	url = .
