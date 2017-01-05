@@ -3559,6 +3559,9 @@
 [submodule "cb/xj/gqr"]
 	path = cb/xj/gqr
 	url = .
+[submodule "cb/xw/ncs"]
+	path = cb/xw/ncs
+	url = .
 [submodule "cb/yc/wnq"]
 	path = cb/yc/wnq
 	url = .
