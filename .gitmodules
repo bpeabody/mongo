@@ -6583,6 +6583,9 @@
 [submodule "kb/tt/txe"]
 	path = kb/tt/txe
 	url = .
+[submodule "kb/wb/onr"]
+	path = kb/wb/onr
+	url = .
 [submodule "kb/yv/oxi"]
 	path = kb/yv/oxi
 	url = .
