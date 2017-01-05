@@ -10024,6 +10024,9 @@
 [submodule "wr/rx/gad"]
 	path = wr/rx/gad
 	url = .
+[submodule "wr/ue/pbc"]
+	path = wr/ue/pbc
+	url = .
 [submodule "wr/ws/kpu"]
 	path = wr/ws/kpu
 	url = .
