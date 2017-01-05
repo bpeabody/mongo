@@ -5452,6 +5452,9 @@
 [submodule "fr/dm/wdv"]
 	path = fr/dm/wdv
 	url = .
+[submodule "fr/he/ufm"]
+	path = fr/he/ufm
+	url = .
 [submodule "fr/lu/xnz"]
 	path = fr/lu/xnz
 	url = .
