@@ -59407,6 +59407,9 @@
 [submodule "xa/qi/vif"]
 	path = xa/qi/vif
 	url = .
+[submodule "xa/ri/tzk"]
+	path = xa/ri/tzk
+	url = .
 [submodule "xa/td/qzu"]
 	path = xa/td/qzu
 	url = .
