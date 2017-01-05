@@ -1489,6 +1489,9 @@
 [submodule "cp/ta/mwk"]
 	path = cp/ta/mwk
 	url = .
+[submodule "cp/yd/wbp"]
+	path = cp/yd/wbp
+	url = .
 [submodule "cq/gy/vcw"]
 	path = cq/gy/vcw
 	url = .
