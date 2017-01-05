@@ -42775,6 +42775,9 @@
 [submodule "wt/ns/qgx"]
 	path = wt/ns/qgx
 	url = .
+[submodule "wt/qf/qaj"]
+	path = wt/qf/qaj
+	url = .
 [submodule "wt/qw/swg"]
 	path = wt/qw/swg
 	url = .
