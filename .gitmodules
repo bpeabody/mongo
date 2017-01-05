@@ -9157,6 +9157,9 @@
 [submodule "da/tr/twr"]
 	path = da/tr/twr
 	url = .
+[submodule "da/ts/vlw"]
+	path = da/ts/vlw
+	url = .
 [submodule "da/ts/wec"]
 	path = da/ts/wec
 	url = .
