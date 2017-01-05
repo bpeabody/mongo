@@ -6112,6 +6112,9 @@
 [submodule "pb/ri/kfs"]
 	path = pb/ri/kfs
 	url = .
+[submodule "pc/eo/xik"]
+	path = pc/eo/xik
+	url = .
 [submodule "pc/ii/qei"]
 	path = pc/ii/qei
 	url = .
