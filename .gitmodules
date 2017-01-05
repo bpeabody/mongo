@@ -2599,6 +2599,9 @@
 [submodule "bq/om/xtw"]
 	path = bq/om/xtw
 	url = .
+[submodule "bq/oq/udb"]
+	path = bq/oq/udb
+	url = .
 [submodule "bq/ov/vfs"]
 	path = bq/ov/vfs
 	url = .
