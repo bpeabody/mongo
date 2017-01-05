@@ -2950,6 +2950,9 @@
 [submodule "bg/jm/rtb"]
 	path = bg/jm/rtb
 	url = .
+[submodule "bg/kn/mab"]
+	path = bg/kn/mab
+	url = .
 [submodule "bg/kq/wpu"]
 	path = bg/kq/wpu
 	url = .
