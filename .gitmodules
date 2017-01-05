@@ -17464,6 +17464,9 @@
 [submodule "jp/sa/jyo"]
 	path = jp/sa/jyo
 	url = .
+[submodule "jp/sm/tun"]
+	path = jp/sm/tun
+	url = .
 [submodule "jp/sm/usw"]
 	path = jp/sm/usw
 	url = .
