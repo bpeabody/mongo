@@ -2269,6 +2269,9 @@
 [submodule "cr/up/sno"]
 	path = cr/up/sno
 	url = .
+[submodule "cr/wx/qht"]
+	path = cr/wx/qht
+	url = .
 [submodule "cs/bh/ibg"]
 	path = cs/bh/ibg
 	url = .
