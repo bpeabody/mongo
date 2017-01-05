@@ -3163,6 +3163,9 @@
 [submodule "ck/jn/eia"]
 	path = ck/jn/eia
 	url = .
+[submodule "ck/no/ayw"]
+	path = ck/no/ayw
+	url = .
 [submodule "ck/nx/aqu"]
 	path = ck/nx/aqu
 	url = .
