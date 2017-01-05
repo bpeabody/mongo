@@ -29230,6 +29230,9 @@
 [submodule "ra/gw/pft"]
 	path = ra/gw/pft
 	url = .
+[submodule "ra/gy/ksj"]
+	path = ra/gy/ksj
+	url = .
 [submodule "ra/hl/ryd"]
 	path = ra/hl/ryd
 	url = .
