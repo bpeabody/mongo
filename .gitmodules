@@ -10207,6 +10207,9 @@
 [submodule "gi/mk/nte"]
 	path = gi/mk/nte
 	url = .
+[submodule "gi/nw/ruy"]
+	path = gi/nw/ruy
+	url = .
 [submodule "gi/oe/rer"]
 	path = gi/oe/rer
 	url = .
