@@ -27118,6 +27118,9 @@
 [submodule "lp/bs/vxt"]
 	path = lp/bs/vxt
 	url = .
+[submodule "lp/bw/ama"]
+	path = lp/bw/ama
+	url = .
 [submodule "lp/bz/mmc"]
 	path = lp/bz/mmc
 	url = .
