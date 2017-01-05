@@ -27100,6 +27100,9 @@
 [submodule "lx/tx/uwq"]
 	path = lx/tx/uwq
 	url = .
+[submodule "lx/uq/tji"]
+	path = lx/uq/tji
+	url = .
 [submodule "lx/uz/lor"]
 	path = lx/uz/lor
 	url = .
