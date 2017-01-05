@@ -9301,6 +9301,9 @@
 [submodule "lr/kw/lyi"]
 	path = lr/kw/lyi
 	url = .
+[submodule "lr/ng/xyf"]
+	path = lr/ng/xyf
+	url = .
 [submodule "lr/nl/ukl"]
 	path = lr/nl/ukl
 	url = .
