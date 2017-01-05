@@ -5458,6 +5458,9 @@
 [submodule "cm/sf/mpp"]
 	path = cm/sf/mpp
 	url = .
+[submodule "cm/sv/xvq"]
+	path = cm/sv/xvq
+	url = .
 [submodule "cm/tj/qav"]
 	path = cm/tj/qav
 	url = .
