@@ -30379,6 +30379,9 @@
 [submodule "kj/pm/sup"]
 	path = kj/pm/sup
 	url = .
+[submodule "kj/px/dkd"]
+	path = kj/px/dkd
+	url = .
 [submodule "kj/qc/hkw"]
 	path = kj/qc/hkw
 	url = .
