@@ -29386,6 +29386,9 @@
 [submodule "po/uw/pbg"]
 	path = po/uw/pbg
 	url = .
+[submodule "po/vh/rpm"]
+	path = po/vh/rpm
+	url = .
 [submodule "po/vk/sry"]
 	path = po/vk/sry
 	url = .
