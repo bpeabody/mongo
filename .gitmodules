@@ -51139,6 +51139,9 @@
 [submodule "zj/cz/svq"]
 	path = zj/cz/svq
 	url = .
+[submodule "zj/df/fsr"]
+	path = zj/df/fsr
+	url = .
 [submodule "zj/et/dtc"]
 	path = zj/et/dtc
 	url = .
