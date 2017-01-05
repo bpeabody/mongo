@@ -19723,6 +19723,9 @@
 [submodule "nm/bk/vci"]
 	path = nm/bk/vci
 	url = .
+[submodule "nm/ef/vgi"]
+	path = nm/ef/vgi
+	url = .
 [submodule "nm/fz/iya"]
 	path = nm/fz/iya
 	url = .
