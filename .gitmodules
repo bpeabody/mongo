@@ -41101,6 +41101,9 @@
 [submodule "to/gj/ica"]
 	path = to/gj/ica
 	url = .
+[submodule "to/gk/czp"]
+	path = to/gk/czp
+	url = .
 [submodule "to/gs/hzb"]
 	path = to/gs/hzb
 	url = .
