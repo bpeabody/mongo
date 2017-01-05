@@ -28537,6 +28537,9 @@
 [submodule "sq/lk/ape"]
 	path = sq/lk/ape
 	url = .
+[submodule "sq/mb/huf"]
+	path = sq/mb/huf
+	url = .
 [submodule "sq/mq/xgw"]
 	path = sq/mq/xgw
 	url = .
