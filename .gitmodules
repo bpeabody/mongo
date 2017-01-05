@@ -985,6 +985,9 @@
 [submodule "hc/ns/ejv"]
 	path = hc/ns/ejv
 	url = .
+[submodule "hc/yn/cws"]
+	path = hc/yn/cws
+	url = .
 [submodule "hc/zw/yrs"]
 	path = hc/zw/yrs
 	url = .
