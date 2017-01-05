@@ -50146,6 +50146,9 @@
 [submodule "wi/sg/bdx"]
 	path = wi/sg/bdx
 	url = .
+[submodule "wi/tf/xwm"]
+	path = wi/tf/xwm
+	url = .
 [submodule "wi/tp/ery"]
 	path = wi/tp/ery
 	url = .
