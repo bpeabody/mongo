@@ -15790,6 +15790,9 @@
 [submodule "uj/cs/pwh"]
 	path = uj/cs/pwh
 	url = .
+[submodule "uj/db/lmr"]
+	path = uj/db/lmr
+	url = .
 [submodule "uj/dx/kvk"]
 	path = uj/dx/kvk
 	url = .
