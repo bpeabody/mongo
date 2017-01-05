@@ -28306,6 +28306,9 @@
 [submodule "ka/nu/utk"]
 	path = ka/nu/utk
 	url = .
+[submodule "ka/nv/sye"]
+	path = ka/nv/sye
+	url = .
 [submodule "ka/oc/wmo"]
 	path = ka/oc/wmo
 	url = .
