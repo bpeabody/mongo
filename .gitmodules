@@ -64,6 +64,9 @@
 [submodule "ch/jt/gtw"]
 	path = ch/jt/gtw
 	url = .
+[submodule "ci/ub/pkv"]
+	path = ci/ub/pkv
+	url = .
 [submodule "cj/rf/qjt"]
 	path = cj/rf/qjt
 	url = .
