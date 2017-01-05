@@ -322,6 +322,9 @@
 [submodule "ae/is/bcw"]
 	path = ae/is/bcw
 	url = .
+[submodule "ae/iw/rdu"]
+	path = ae/iw/rdu
+	url = .
 [submodule "ae/iz/cjt"]
 	path = ae/iz/cjt
 	url = .
