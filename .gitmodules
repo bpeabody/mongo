@@ -1738,6 +1738,9 @@
 [submodule "az/wk/goq"]
 	path = az/wk/goq
 	url = .
+[submodule "az/xa/mrb"]
+	path = az/xa/mrb
+	url = .
 [submodule "az/yx/gdm"]
 	path = az/yx/gdm
 	url = .
