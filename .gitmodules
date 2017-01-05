@@ -3781,6 +3781,9 @@
 [submodule "bw/en/lak"]
 	path = bw/en/lak
 	url = .
+[submodule "bw/eu/fus"]
+	path = bw/eu/fus
+	url = .
 [submodule "bw/il/qwq"]
 	path = bw/il/qwq
 	url = .
