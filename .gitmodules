@@ -7375,6 +7375,9 @@
 [submodule "co/hz/yos"]
 	path = co/hz/yos
 	url = .
+[submodule "co/ir/eeo"]
+	path = co/ir/eeo
+	url = .
 [submodule "co/ix/ygx"]
 	path = co/ix/ygx
 	url = .
