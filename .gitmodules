@@ -30421,6 +30421,9 @@
 [submodule "kf/bk/bge"]
 	path = kf/bk/bge
 	url = .
+[submodule "kf/bz/wsl"]
+	path = kf/bz/wsl
+	url = .
 [submodule "kf/fg/lwd"]
 	path = kf/fg/lwd
 	url = .
