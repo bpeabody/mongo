@@ -20173,6 +20173,9 @@
 [submodule "wu/oa/nqo"]
 	path = wu/oa/nqo
 	url = .
+[submodule "wu/pb/uka"]
+	path = wu/pb/uka
+	url = .
 [submodule "wu/qi/mbt"]
 	path = wu/qi/mbt
 	url = .
