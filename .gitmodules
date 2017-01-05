@@ -20488,6 +20488,9 @@
 [submodule "ht/oo/lhx"]
 	path = ht/oo/lhx
 	url = .
+[submodule "ht/pg/fqc"]
+	path = ht/pg/fqc
+	url = .
 [submodule "ht/pl/qnk"]
 	path = ht/pl/qnk
 	url = .
