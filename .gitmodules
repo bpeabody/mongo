@@ -29950,6 +29950,9 @@
 [submodule "pi/wx/zrf"]
 	path = pi/wx/zrf
 	url = .
+[submodule "pi/xa/wms"]
+	path = pi/xa/wms
+	url = .
 [submodule "pi/xe/ufa"]
 	path = pi/xe/ufa
 	url = .
