@@ -13978,6 +13978,9 @@
 [submodule "me/hj/cwk"]
 	path = me/hj/cwk
 	url = .
+[submodule "me/mo/pat"]
+	path = me/mo/pat
+	url = .
 [submodule "me/pn/skl"]
 	path = me/pn/skl
 	url = .
