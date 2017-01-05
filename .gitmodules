@@ -427,6 +427,9 @@
 [submodule "bx/hn/wwl"]
 	path = bx/hn/wwl
 	url = .
+[submodule "bx/is/wrr"]
+	path = bx/is/wrr
+	url = .
 [submodule "bx/ph/yze"]
 	path = bx/ph/yze
 	url = .
