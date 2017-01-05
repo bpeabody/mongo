@@ -40270,6 +40270,9 @@
 [submodule "nx/jx/lwt"]
 	path = nx/jx/lwt
 	url = .
+[submodule "nx/kb/kjp"]
+	path = nx/kb/kjp
+	url = .
 [submodule "nx/km/hcj"]
 	path = nx/km/hcj
 	url = .
