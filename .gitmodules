@@ -52516,6 +52516,9 @@
 [submodule "ru/gb/lie"]
 	path = ru/gb/lie
 	url = .
+[submodule "ru/hd/zbl"]
+	path = ru/hd/zbl
+	url = .
 [submodule "ru/hf/xhb"]
 	path = ru/hf/xhb
 	url = .
