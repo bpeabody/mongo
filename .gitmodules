@@ -3013,6 +3013,9 @@
 [submodule "zr/nw/sax"]
 	path = zr/nw/sax
 	url = .
+[submodule "zs/cu/qpb"]
+	path = zs/cu/qpb
+	url = .
 [submodule "zt/pj/zps"]
 	path = zt/pj/zps
 	url = .
