@@ -15337,6 +15337,9 @@
 [submodule "xp/ic/jww"]
 	path = xp/ic/jww
 	url = .
+[submodule "xp/ip/gei"]
+	path = xp/ip/gei
+	url = .
 [submodule "xp/jp/fsq"]
 	path = xp/jp/fsq
 	url = .
