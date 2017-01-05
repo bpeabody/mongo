@@ -5476,6 +5476,9 @@
 [submodule "cb/ms/iav"]
 	path = cb/ms/iav
 	url = .
+[submodule "cb/ng/hnp"]
+	path = cb/ng/hnp
+	url = .
 [submodule "cb/oo/grf"]
 	path = cb/oo/grf
 	url = .
