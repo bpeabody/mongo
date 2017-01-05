@@ -41932,6 +41932,9 @@
 [submodule "ph/sp/xjd"]
 	path = ph/sp/xjd
 	url = .
+[submodule "ph/sv/abl"]
+	path = ph/sv/abl
+	url = .
 [submodule "ph/sx/omz"]
 	path = ph/sx/omz
 	url = .
