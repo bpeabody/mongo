@@ -3190,6 +3190,9 @@
 [submodule "bo/fp/cyo"]
 	path = bo/fp/cyo
 	url = .
+[submodule "bo/gm/hla"]
+	path = bo/gm/hla
+	url = .
 [submodule "bo/hd/ghz"]
 	path = bo/hd/ghz
 	url = .
