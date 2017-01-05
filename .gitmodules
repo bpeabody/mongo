@@ -16,6 +16,9 @@
 [submodule "ab/gf/yia"]
 	path = ab/gf/yia
 	url = .
+[submodule "ab/hh/nth"]
+	path = ab/hh/nth
+	url = .
 [submodule "ab/ix/onx"]
 	path = ab/ix/onx
 	url = .
