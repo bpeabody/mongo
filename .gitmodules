@@ -25159,6 +25159,9 @@
 [submodule "lz/dl/dly"]
 	path = lz/dl/dly
 	url = .
+[submodule "lz/dw/guq"]
+	path = lz/dw/guq
+	url = .
 [submodule "lz/dz/msa"]
 	path = lz/dz/msa
 	url = .
