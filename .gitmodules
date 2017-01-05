@@ -44737,6 +44737,9 @@
 [submodule "rw/qv/cga"]
 	path = rw/qv/cga
 	url = .
+[submodule "rw/re/lch"]
+	path = rw/re/lch
+	url = .
 [submodule "rw/rv/zor"]
 	path = rw/rv/zor
 	url = .
