@@ -13582,6 +13582,9 @@
 [submodule "fp/ia/ylb"]
 	path = fp/ia/ylb
 	url = .
+[submodule "fp/ja/nme"]
+	path = fp/ja/nme
+	url = .
 [submodule "fp/jg/zlc"]
 	path = fp/jg/zlc
 	url = .
