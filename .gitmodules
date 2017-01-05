@@ -8794,6 +8794,9 @@
 [submodule "tn/ku/lqh"]
 	path = tn/ku/lqh
 	url = .
+[submodule "tn/me/nbn"]
+	path = tn/me/nbn
+	url = .
 [submodule "tn/uk/ijp"]
 	path = tn/uk/ijp
 	url = .
