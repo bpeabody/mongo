@@ -45415,6 +45415,9 @@
 [submodule "sc/xn/heb"]
 	path = sc/xn/heb
 	url = .
+[submodule "sc/xo/ngi"]
+	path = sc/xo/ngi
+	url = .
 [submodule "sc/yb/pje"]
 	path = sc/yb/pje
 	url = .
