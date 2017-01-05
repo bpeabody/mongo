@@ -8179,6 +8179,9 @@
 [submodule "gs/ir/ore"]
 	path = gs/ir/ore
 	url = .
+[submodule "gs/ja/mnb"]
+	path = gs/ja/mnb
+	url = .
 [submodule "gs/jf/nfr"]
 	path = gs/jf/nfr
 	url = .
