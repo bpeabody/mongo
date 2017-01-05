@@ -9484,6 +9484,9 @@
 [submodule "jq/hg/kab"]
 	path = jq/hg/kab
 	url = .
+[submodule "jq/is/usn"]
+	path = jq/is/usn
+	url = .
 [submodule "jq/jw/kqx"]
 	path = jq/jw/kqx
 	url = .
