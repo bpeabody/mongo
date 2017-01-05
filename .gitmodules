@@ -22534,6 +22534,9 @@
 [submodule "qw/dh/pap"]
 	path = qw/dh/pap
 	url = .
+[submodule "qw/dk/mdc"]
+	path = qw/dk/mdc
+	url = .
 [submodule "qw/dp/evx"]
 	path = qw/dp/evx
 	url = .
