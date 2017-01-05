@@ -4267,6 +4267,9 @@
 [submodule "eb/lg/bux"]
 	path = eb/lg/bux
 	url = .
+[submodule "eb/oz/kok"]
+	path = eb/oz/kok
+	url = .
 [submodule "eb/po/bsi"]
 	path = eb/po/bsi
 	url = .
