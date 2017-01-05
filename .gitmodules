@@ -10561,6 +10561,9 @@
 [submodule "dl/vc/ica"]
 	path = dl/vc/ica
 	url = .
+[submodule "dl/vn/zlo"]
+	path = dl/vn/zlo
+	url = .
 [submodule "dl/wo/rzd"]
 	path = dl/wo/rzd
 	url = .
