@@ -10291,6 +10291,9 @@
 [submodule "pv/de/uww"]
 	path = pv/de/uww
 	url = .
+[submodule "pv/dj/ehk"]
+	path = pv/dj/ehk
+	url = .
 [submodule "pv/kn/xmd"]
 	path = pv/kn/xmd
 	url = .
