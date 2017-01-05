@@ -6055,6 +6055,9 @@
 [submodule "zu/os/whd"]
 	path = zu/os/whd
 	url = .
+[submodule "zv/gp/erp"]
+	path = zv/gp/erp
+	url = .
 [submodule "zw/su/kwk"]
 	path = zw/su/kwk
 	url = .
