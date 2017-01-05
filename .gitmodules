@@ -955,6 +955,9 @@
 [submodule "ll/pb/bxq"]
 	path = ll/pb/bxq
 	url = .
+[submodule "ll/qh/lkp"]
+	path = ll/qh/lkp
+	url = .
 [submodule "lm/bn/iku"]
 	path = lm/bn/iku
 	url = .
