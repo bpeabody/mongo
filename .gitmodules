@@ -29014,6 +29014,9 @@
 [submodule "yw/ds/vcg"]
 	path = yw/ds/vcg
 	url = .
+[submodule "yw/fk/wal"]
+	path = yw/fk/wal
+	url = .
 [submodule "yw/ga/oqu"]
 	path = yw/ga/oqu
 	url = .
