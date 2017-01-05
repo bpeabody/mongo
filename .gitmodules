@@ -58555,6 +58555,9 @@
 [submodule "xg/bm/svd"]
 	path = xg/bm/svd
 	url = .
+[submodule "xg/bo/brw"]
+	path = xg/bo/brw
+	url = .
 [submodule "xg/cr/fyu"]
 	path = xg/cr/fyu
 	url = .
