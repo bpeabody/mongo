@@ -6385,6 +6385,9 @@
 [submodule "rz/hf/dig"]
 	path = rz/hf/dig
 	url = .
+[submodule "rz/ye/nhh"]
+	path = rz/ye/nhh
+	url = .
 [submodule "sa/bb/azr"]
 	path = sa/bb/azr
 	url = .
