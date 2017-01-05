@@ -1327,6 +1327,9 @@
 [submodule "ay/ri/kno"]
 	path = ay/ri/kno
 	url = .
+[submodule "ay/ri/zor"]
+	path = ay/ri/zor
+	url = .
 [submodule "ay/zc/gxd"]
 	path = ay/zc/gxd
 	url = .
