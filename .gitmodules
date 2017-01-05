@@ -6274,6 +6274,9 @@
 [submodule "hg/wr/cps"]
 	path = hg/wr/cps
 	url = .
+[submodule "hg/yz/mog"]
+	path = hg/yz/mog
+	url = .
 [submodule "hh/am/rqa"]
 	path = hh/am/rqa
 	url = .
