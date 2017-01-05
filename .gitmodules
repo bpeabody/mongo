@@ -25483,6 +25483,9 @@
 [submodule "lo/yp/csm"]
 	path = lo/yp/csm
 	url = .
+[submodule "lp/aw/ise"]
+	path = lp/aw/ise
+	url = .
 [submodule "lp/bs/vxt"]
 	path = lp/bs/vxt
 	url = .
