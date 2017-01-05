@@ -6802,6 +6802,9 @@
 [submodule "ez/qh/nos"]
 	path = ez/qh/nos
 	url = .
+[submodule "ez/qy/qpq"]
+	path = ez/qy/qpq
+	url = .
 [submodule "ez/sm/irr"]
 	path = ez/sm/irr
 	url = .
