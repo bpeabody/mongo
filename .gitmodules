@@ -43687,6 +43687,9 @@
 [submodule "ri/xz/bmm"]
 	path = ri/xz/bmm
 	url = .
+[submodule "ri/ye/yto"]
+	path = ri/ye/yto
+	url = .
 [submodule "ri/yk/gtb"]
 	path = ri/yk/gtb
 	url = .
