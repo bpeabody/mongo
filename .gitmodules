@@ -8005,6 +8005,9 @@
 [submodule "ez/qh/nos"]
 	path = ez/qh/nos
 	url = .
+[submodule "ez/qo/hrr"]
+	path = ez/qo/hrr
+	url = .
 [submodule "ez/qr/gcu"]
 	path = ez/qr/gcu
 	url = .
