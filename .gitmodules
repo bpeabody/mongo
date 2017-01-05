@@ -13819,6 +13819,9 @@
 [submodule "lr/ww/qds"]
 	path = lr/ww/qds
 	url = .
+[submodule "lr/xa/jgs"]
+	path = lr/xa/jgs
+	url = .
 [submodule "lr/xq/zbm"]
 	path = lr/xq/zbm
 	url = .
