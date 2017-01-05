@@ -19378,6 +19378,9 @@
 [submodule "jt/ic/yor"]
 	path = jt/ic/yor
 	url = .
+[submodule "jt/iw/sjk"]
+	path = jt/iw/sjk
+	url = .
 [submodule "jt/kv/bgj"]
 	path = jt/kv/bgj
 	url = .
