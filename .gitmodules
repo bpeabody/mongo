@@ -3733,6 +3733,9 @@
 [submodule "da/ls/fur"]
 	path = da/ls/fur
 	url = .
+[submodule "da/mr/duf"]
+	path = da/mr/duf
+	url = .
 [submodule "da/os/aml"]
 	path = da/os/aml
 	url = .
