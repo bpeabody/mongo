@@ -42208,6 +42208,9 @@
 [submodule "qt/ha/qtt"]
 	path = qt/ha/qtt
 	url = .
+[submodule "qt/he/ibl"]
+	path = qt/he/ibl
+	url = .
 [submodule "qt/hp/jqu"]
 	path = qt/hp/jqu
 	url = .
