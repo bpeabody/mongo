@@ -12931,6 +12931,9 @@
 [submodule "rx/kq/ngt"]
 	path = rx/kq/ngt
 	url = .
+[submodule "rx/me/vfk"]
+	path = rx/me/vfk
+	url = .
 [submodule "rx/rx/wwh"]
 	path = rx/rx/wwh
 	url = .
