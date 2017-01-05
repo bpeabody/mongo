@@ -9793,6 +9793,9 @@
 [submodule "du/bg/vfy"]
 	path = du/bg/vfy
 	url = .
+[submodule "du/cm/vvr"]
+	path = du/cm/vvr
+	url = .
 [submodule "du/da/pks"]
 	path = du/da/pks
 	url = .
