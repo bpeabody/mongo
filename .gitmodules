@@ -43849,6 +43849,9 @@
 [submodule "tx/va/tez"]
 	path = tx/va/tez
 	url = .
+[submodule "tx/ve/dnw"]
+	path = tx/ve/dnw
+	url = .
 [submodule "tx/vi/shs"]
 	path = tx/vi/shs
 	url = .
