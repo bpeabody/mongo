@@ -11137,6 +11137,9 @@
 [submodule "ec/oi/jcu"]
 	path = ec/oi/jcu
 	url = .
+[submodule "ec/oy/vda"]
+	path = ec/oy/vda
+	url = .
 [submodule "ec/qw/cky"]
 	path = ec/qw/cky
 	url = .
