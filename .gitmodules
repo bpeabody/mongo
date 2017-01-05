@@ -13711,6 +13711,9 @@
 [submodule "gk/ac/xtc"]
 	path = gk/ac/xtc
 	url = .
+[submodule "gk/al/xhx"]
+	path = gk/al/xhx
+	url = .
 [submodule "gk/cu/grg"]
 	path = gk/cu/grg
 	url = .
