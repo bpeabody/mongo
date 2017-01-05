@@ -48463,6 +48463,9 @@
 [submodule "sg/rc/pgb"]
 	path = sg/rc/pgb
 	url = .
+[submodule "sg/ri/abg"]
+	path = sg/ri/abg
+	url = .
 [submodule "sg/sw/fgt"]
 	path = sg/sw/fgt
 	url = .
