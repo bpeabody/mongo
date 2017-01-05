@@ -29398,6 +29398,9 @@
 [submodule "kh/nl/eou"]
 	path = kh/nl/eou
 	url = .
+[submodule "kh/od/dub"]
+	path = kh/od/dub
+	url = .
 [submodule "kh/oe/nix"]
 	path = kh/oe/nix
 	url = .
