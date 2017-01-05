@@ -8065,6 +8065,9 @@
 [submodule "to/sm/ird"]
 	path = to/sm/ird
 	url = .
+[submodule "to/wn/ngp"]
+	path = to/wn/ngp
+	url = .
 [submodule "tp/ew/hok"]
 	path = tp/ew/hok
 	url = .
