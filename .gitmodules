@@ -883,6 +883,9 @@
 [submodule "dp/se/teo"]
 	path = dp/se/teo
 	url = .
+[submodule "dq/gi/jkr"]
+	path = dq/gi/jkr
+	url = .
 [submodule "dr/ad/bei"]
 	path = dr/ad/bei
 	url = .
