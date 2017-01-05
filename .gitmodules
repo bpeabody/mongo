@@ -13900,6 +13900,9 @@
 [submodule "ya/cn/zan"]
 	path = ya/cn/zan
 	url = .
+[submodule "ya/fo/jkn"]
+	path = ya/fo/jkn
+	url = .
 [submodule "ya/xy/ofa"]
 	path = ya/xy/ofa
 	url = .
