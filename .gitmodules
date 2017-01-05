@@ -1900,6 +1900,9 @@
 [submodule "ln/cg/kbx"]
 	path = ln/cg/kbx
 	url = .
+[submodule "ln/pg/khf"]
+	path = ln/pg/khf
+	url = .
 [submodule "lo/en/aei"]
 	path = lo/en/aei
 	url = .
