@@ -2149,6 +2149,9 @@
 [submodule "ip/lj/hii"]
 	path = ip/lj/hii
 	url = .
+[submodule "ip/op/ajf"]
+	path = ip/op/ajf
+	url = .
 [submodule "ip/ux/xfc"]
 	path = ip/ux/xfc
 	url = .
