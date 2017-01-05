@@ -10228,6 +10228,9 @@
 [submodule "pr/ya/vug"]
 	path = pr/ya/vug
 	url = .
+[submodule "ps/eo/jnd"]
+	path = ps/eo/jnd
+	url = .
 [submodule "ps/fy/qhi"]
 	path = ps/fy/qhi
 	url = .
