@@ -11443,6 +11443,9 @@
 [submodule "gs/vr/eyu"]
 	path = gs/vr/eyu
 	url = .
+[submodule "gs/vt/wrd"]
+	path = gs/vt/wrd
+	url = .
 [submodule "gs/xw/gzx"]
 	path = gs/xw/gzx
 	url = .
