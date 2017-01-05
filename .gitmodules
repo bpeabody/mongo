@@ -17767,6 +17767,9 @@
 [submodule "jr/rn/thg"]
 	path = jr/rn/thg
 	url = .
+[submodule "jr/ue/fxq"]
+	path = jr/ue/fxq
+	url = .
 [submodule "jr/ue/lgr"]
 	path = jr/ue/lgr
 	url = .
