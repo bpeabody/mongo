@@ -19285,6 +19285,9 @@
 [submodule "gs/ue/lzr"]
 	path = gs/ue/lzr
 	url = .
+[submodule "gs/uh/kfr"]
+	path = gs/uh/kfr
+	url = .
 [submodule "gs/vl/ygh"]
 	path = gs/vl/ygh
 	url = .
