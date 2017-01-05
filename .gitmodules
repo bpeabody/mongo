@@ -3712,6 +3712,9 @@
 [submodule "dp/fj/xve"]
 	path = dp/fj/xve
 	url = .
+[submodule "dp/gb/bue"]
+	path = dp/gb/bue
+	url = .
 [submodule "dp/jc/qjw"]
 	path = dp/jc/qjw
 	url = .
