@@ -24934,6 +24934,9 @@
 [submodule "oa/qs/kpo"]
 	path = oa/qs/kpo
 	url = .
+[submodule "oa/rq/jmy"]
+	path = oa/rq/jmy
+	url = .
 [submodule "oa/sy/dlf"]
 	path = oa/sy/dlf
 	url = .
