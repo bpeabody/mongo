@@ -26053,6 +26053,9 @@
 [submodule "iw/om/pvf"]
 	path = iw/om/pvf
 	url = .
+[submodule "iw/te/zgj"]
+	path = iw/te/zgj
+	url = .
 [submodule "iw/tn/zgi"]
 	path = iw/tn/zgi
 	url = .
