@@ -13507,6 +13507,9 @@
 [submodule "fb/lr/zob"]
 	path = fb/lr/zob
 	url = .
+[submodule "fb/nd/gle"]
+	path = fb/nd/gle
+	url = .
 [submodule "fb/ns/ifc"]
 	path = fb/ns/ifc
 	url = .
