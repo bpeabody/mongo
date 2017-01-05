@@ -15679,6 +15679,9 @@
 [submodule "jf/hc/jpr"]
 	path = jf/hc/jpr
 	url = .
+[submodule "jf/in/yic"]
+	path = jf/in/yic
+	url = .
 [submodule "jf/ke/kzu"]
 	path = jf/ke/kzu
 	url = .
