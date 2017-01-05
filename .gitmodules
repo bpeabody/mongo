@@ -39040,6 +39040,9 @@
 [submodule "pz/bo/pfp"]
 	path = pz/bo/pfp
 	url = .
+[submodule "pz/br/fyr"]
+	path = pz/br/fyr
+	url = .
 [submodule "pz/ca/nyj"]
 	path = pz/ca/nyj
 	url = .
