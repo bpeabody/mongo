@@ -574,6 +574,9 @@
 [submodule "ri/rp/cjx"]
 	path = ri/rp/cjx
 	url = .
+[submodule "rk/sm/uba"]
+	path = rk/sm/uba
+	url = .
 [submodule "rm/xn/emh"]
 	path = rm/xn/emh
 	url = .
