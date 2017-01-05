@@ -37741,6 +37741,9 @@
 [submodule "nz/gc/kah"]
 	path = nz/gc/kah
 	url = .
+[submodule "nz/gg/csg"]
+	path = nz/gg/csg
+	url = .
 [submodule "nz/go/vsc"]
 	path = nz/go/vsc
 	url = .
