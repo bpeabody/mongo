@@ -2266,6 +2266,9 @@
 [submodule "mf/an/rug"]
 	path = mf/an/rug
 	url = .
+[submodule "mf/dd/kec"]
+	path = mf/dd/kec
+	url = .
 [submodule "mf/gn/jti"]
 	path = mf/gn/jti
 	url = .
