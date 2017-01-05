@@ -14557,6 +14557,9 @@
 [submodule "ms/db/gbv"]
 	path = ms/db/gbv
 	url = .
+[submodule "ms/ed/kdk"]
+	path = ms/ed/kdk
+	url = .
 [submodule "ms/fr/ayn"]
 	path = ms/fr/ayn
 	url = .
