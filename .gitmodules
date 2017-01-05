@@ -51883,6 +51883,9 @@
 [submodule "rt/al/dnm"]
 	path = rt/al/dnm
 	url = .
+[submodule "rt/ay/moq"]
+	path = rt/ay/moq
+	url = .
 [submodule "rt/cg/qen"]
 	path = rt/cg/qen
 	url = .
