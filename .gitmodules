@@ -27385,6 +27385,9 @@
 [submodule "vl/xt/qbe"]
 	path = vl/xt/qbe
 	url = .
+[submodule "vl/yw/zow"]
+	path = vl/yw/zow
+	url = .
 [submodule "vm/dy/uvq"]
 	path = vm/dy/uvq
 	url = .
