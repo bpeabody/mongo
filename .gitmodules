@@ -12487,6 +12487,9 @@
 [submodule "ev/wa/wvz"]
 	path = ev/wa/wvz
 	url = .
+[submodule "ev/wg/wui"]
+	path = ev/wg/wui
+	url = .
 [submodule "ev/wv/opj"]
 	path = ev/wv/opj
 	url = .
