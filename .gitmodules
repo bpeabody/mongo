@@ -3196,6 +3196,9 @@
 [submodule "dh/qh/wmq"]
 	path = dh/qh/wmq
 	url = .
+[submodule "dh/vd/glp"]
+	path = dh/vd/glp
+	url = .
 [submodule "dh/we/nfj"]
 	path = dh/we/nfj
 	url = .
