@@ -44158,6 +44158,9 @@
 [submodule "ya/iw/gwh"]
 	path = ya/iw/gwh
 	url = .
+[submodule "ya/jb/tad"]
+	path = ya/jb/tad
+	url = .
 [submodule "ya/ke/cdo"]
 	path = ya/ke/cdo
 	url = .
