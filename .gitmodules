@@ -17581,6 +17581,9 @@
 [submodule "io/gz/lzo"]
 	path = io/gz/lzo
 	url = .
+[submodule "io/he/hnr"]
+	path = io/he/hnr
+	url = .
 [submodule "io/hh/jhm"]
 	path = io/hh/jhm
 	url = .
