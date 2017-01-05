@@ -43399,6 +43399,9 @@
 [submodule "ux/zx/lys"]
 	path = ux/zx/lys
 	url = .
+[submodule "uy/ai/oad"]
+	path = uy/ai/oad
+	url = .
 [submodule "uy/ap/nog"]
 	path = uy/ap/nog
 	url = .
