@@ -18487,6 +18487,9 @@
 [submodule "xo/ms/pvz"]
 	path = xo/ms/pvz
 	url = .
+[submodule "xo/nu/kng"]
+	path = xo/nu/kng
+	url = .
 [submodule "xo/oc/bug"]
 	path = xo/oc/bug
 	url = .
