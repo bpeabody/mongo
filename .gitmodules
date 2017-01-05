@@ -8116,6 +8116,9 @@
 [submodule "ew/xr/gyl"]
 	path = ew/xr/gyl
 	url = .
+[submodule "ew/yd/dfu"]
+	path = ew/yd/dfu
+	url = .
 [submodule "ex/ag/sqh"]
 	path = ex/ag/sqh
 	url = .
