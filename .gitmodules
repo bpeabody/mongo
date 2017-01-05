@@ -15400,6 +15400,9 @@
 [submodule "fw/ro/bhg"]
 	path = fw/ro/bhg
 	url = .
+[submodule "fw/rs/ion"]
+	path = fw/rs/ion
+	url = .
 [submodule "fw/sa/ekk"]
 	path = fw/sa/ekk
 	url = .
