@@ -17800,6 +17800,9 @@
 [submodule "gj/yd/ncu"]
 	path = gj/yd/ncu
 	url = .
+[submodule "gj/yl/cba"]
+	path = gj/yl/cba
+	url = .
 [submodule "gj/zk/rqp"]
 	path = gj/zk/rqp
 	url = .
