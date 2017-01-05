@@ -35713,6 +35713,9 @@
 [submodule "ug/on/xmb"]
 	path = ug/on/xmb
 	url = .
+[submodule "ug/pj/zoq"]
+	path = ug/pj/zoq
+	url = .
 [submodule "ug/qk/dbz"]
 	path = ug/qk/dbz
 	url = .
