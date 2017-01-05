@@ -538,6 +538,9 @@
 [submodule "yd/da/qsb"]
 	path = yd/da/qsb
 	url = .
+[submodule "yh/ci/kjo"]
+	path = yh/ci/kjo
+	url = .
 [submodule "yj/bz/jdu"]
 	path = yj/bz/jdu
 	url = .
