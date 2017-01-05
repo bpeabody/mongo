@@ -523,6 +523,9 @@
 [submodule "bu/py/kao"]
 	path = bu/py/kao
 	url = .
+[submodule "bv/cy/qvp"]
+	path = bv/cy/qvp
+	url = .
 [submodule "bv/qr/fll"]
 	path = bv/qr/fll
 	url = .
