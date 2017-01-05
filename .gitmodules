@@ -49087,6 +49087,9 @@
 [submodule "vr/wr/vql"]
 	path = vr/wr/vql
 	url = .
+[submodule "vr/wv/vrd"]
+	path = vr/wv/vrd
+	url = .
 [submodule "vr/xi/dxq"]
 	path = vr/xi/dxq
 	url = .
