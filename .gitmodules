@@ -38419,6 +38419,9 @@
 [submodule "yq/wt/jis"]
 	path = yq/wt/jis
 	url = .
+[submodule "yq/xs/khi"]
+	path = yq/xs/khi
+	url = .
 [submodule "yq/yt/ovt"]
 	path = yq/yt/ovt
 	url = .
