@@ -34087,6 +34087,9 @@
 [submodule "qw/uf/hvi"]
 	path = qw/uf/hvi
 	url = .
+[submodule "qw/up/mrf"]
+	path = qw/up/mrf
+	url = .
 [submodule "qw/xq/xfw"]
 	path = qw/xq/xfw
 	url = .
