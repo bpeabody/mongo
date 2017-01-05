@@ -22207,6 +22207,9 @@
 [submodule "ml/md/jqg"]
 	path = ml/md/jqg
 	url = .
+[submodule "ml/mf/qsb"]
+	path = ml/mf/qsb
+	url = .
 [submodule "ml/nm/iir"]
 	path = ml/nm/iir
 	url = .
