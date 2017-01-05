@@ -6721,6 +6721,9 @@
 [submodule "co/rc/bza"]
 	path = co/rc/bza
 	url = .
+[submodule "co/rh/fsj"]
+	path = co/rh/fsj
+	url = .
 [submodule "co/rm/exh"]
 	path = co/rm/exh
 	url = .
