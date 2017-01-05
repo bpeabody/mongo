@@ -39277,6 +39277,9 @@
 [submodule "om/sk/jsa"]
 	path = om/sk/jsa
 	url = .
+[submodule "om/td/tyk"]
+	path = om/td/tyk
+	url = .
 [submodule "om/tz/nht"]
 	path = om/tz/nht
 	url = .
