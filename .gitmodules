@@ -50821,6 +50821,9 @@
 [submodule "yh/rq/ovq"]
 	path = yh/rq/ovq
 	url = .
+[submodule "yh/sk/khm"]
+	path = yh/sk/khm
+	url = .
 [submodule "yh/sp/bkv"]
 	path = yh/sp/bkv
 	url = .
