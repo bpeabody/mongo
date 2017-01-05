@@ -27076,6 +27076,9 @@
 [submodule "ti/bt/ruc"]
 	path = ti/bt/ruc
 	url = .
+[submodule "ti/et/vkr"]
+	path = ti/et/vkr
+	url = .
 [submodule "ti/fm/nsj"]
 	path = ti/fm/nsj
 	url = .
