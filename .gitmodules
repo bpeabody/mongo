@@ -7201,6 +7201,9 @@
 [submodule "vr/hd/rhz"]
 	path = vr/hd/rhz
 	url = .
+[submodule "vr/im/bvk"]
+	path = vr/im/bvk
+	url = .
 [submodule "vr/io/jwh"]
 	path = vr/io/jwh
 	url = .
