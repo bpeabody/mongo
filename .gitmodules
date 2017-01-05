@@ -1789,6 +1789,9 @@
 [submodule "rm/ld/bnx"]
 	path = rm/ld/bnx
 	url = .
+[submodule "rm/ly/vaj"]
+	path = rm/ly/vaj
+	url = .
 [submodule "rm/pn/mtq"]
 	path = rm/pn/mtq
 	url = .
