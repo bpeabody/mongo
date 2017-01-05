@@ -3709,6 +3709,9 @@
 [submodule "cb/is/nvm"]
 	path = cb/is/nvm
 	url = .
+[submodule "cb/jq/bbo"]
+	path = cb/jq/bbo
+	url = .
 [submodule "cb/js/oem"]
 	path = cb/js/oem
 	url = .
