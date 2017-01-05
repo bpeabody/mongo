@@ -253,6 +253,9 @@
 [submodule "as/ps/ecd"]
 	path = as/ps/ecd
 	url = .
+[submodule "as/ta/ejo"]
+	path = as/ta/ejo
+	url = .
 [submodule "at/ce/kma"]
 	path = at/ce/kma
 	url = .
