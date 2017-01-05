@@ -22030,6 +22030,9 @@
 [submodule "yt/cb/rof"]
 	path = yt/cb/rof
 	url = .
+[submodule "yt/de/gqj"]
+	path = yt/de/gqj
+	url = .
 [submodule "yt/ft/rus"]
 	path = yt/ft/rus
 	url = .
