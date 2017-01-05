@@ -2878,6 +2878,9 @@
 [submodule "bq/zh/tom"]
 	path = bq/zh/tom
 	url = .
+[submodule "bq/zn/nqi"]
+	path = bq/zn/nqi
+	url = .
 [submodule "bq/zo/kyu"]
 	path = bq/zo/kyu
 	url = .
