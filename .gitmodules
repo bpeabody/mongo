@@ -4741,6 +4741,9 @@
 [submodule "co/sc/aho"]
 	path = co/sc/aho
 	url = .
+[submodule "co/sf/yzv"]
+	path = co/sf/yzv
+	url = .
 [submodule "co/sk/pmj"]
 	path = co/sk/pmj
 	url = .
