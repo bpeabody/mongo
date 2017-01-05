@@ -1354,6 +1354,9 @@
 [submodule "fg/bv/kes"]
 	path = fg/bv/kes
 	url = .
+[submodule "fg/hj/pgd"]
+	path = fg/hj/pgd
+	url = .
 [submodule "fg/xh/jto"]
 	path = fg/xh/jto
 	url = .
