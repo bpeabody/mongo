@@ -61,6 +61,9 @@
 [submodule "ak/zg/rex"]
 	path = ak/zg/rex
 	url = .
+[submodule "al/lg/gfj"]
+	path = al/lg/gfj
+	url = .
 [submodule "am/nn/fdb"]
 	path = am/nn/fdb
 	url = .
