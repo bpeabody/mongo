@@ -22405,6 +22405,9 @@
 [submodule "hw/fz/mhw"]
 	path = hw/fz/mhw
 	url = .
+[submodule "hw/gj/kkg"]
+	path = hw/gj/kkg
+	url = .
 [submodule "hw/hf/hca"]
 	path = hw/hf/hca
 	url = .
