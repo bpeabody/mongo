@@ -42970,6 +42970,9 @@
 [submodule "to/pe/czf"]
 	path = to/pe/czf
 	url = .
+[submodule "to/qa/whd"]
+	path = to/qa/whd
+	url = .
 [submodule "to/sm/ird"]
 	path = to/sm/ird
 	url = .
