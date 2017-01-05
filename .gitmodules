@@ -32626,6 +32626,9 @@
 [submodule "mh/lb/tel"]
 	path = mh/lb/tel
 	url = .
+[submodule "mh/mb/bdq"]
+	path = mh/mb/bdq
+	url = .
 [submodule "mh/mt/vru"]
 	path = mh/mt/vru
 	url = .
