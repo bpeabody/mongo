@@ -35581,6 +35581,9 @@
 [submodule "up/tc/bpq"]
 	path = up/tc/bpq
 	url = .
+[submodule "up/xq/enx"]
+	path = up/xq/enx
+	url = .
 [submodule "up/yd/bip"]
 	path = up/yd/bip
 	url = .
