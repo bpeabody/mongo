@@ -6682,6 +6682,9 @@
 [submodule "df/rd/cwg"]
 	path = df/rd/cwg
 	url = .
+[submodule "df/ro/sxi"]
+	path = df/ro/sxi
+	url = .
 [submodule "df/ss/jez"]
 	path = df/ss/jez
 	url = .
