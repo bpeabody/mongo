@@ -13354,6 +13354,9 @@
 [submodule "gk/ds/vqx"]
 	path = gk/ds/vqx
 	url = .
+[submodule "gk/ee/kgx"]
+	path = gk/ee/kgx
+	url = .
 [submodule "gk/gv/uds"]
 	path = gk/gv/uds
 	url = .
