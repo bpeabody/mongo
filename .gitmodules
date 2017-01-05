@@ -18958,6 +18958,9 @@
 [submodule "uw/lb/vlf"]
 	path = uw/lb/vlf
 	url = .
+[submodule "uw/li/kqi"]
+	path = uw/li/kqi
+	url = .
 [submodule "uw/lk/irr"]
 	path = uw/lk/irr
 	url = .
