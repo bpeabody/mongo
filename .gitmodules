@@ -49894,6 +49894,9 @@
 [submodule "uw/bp/ghk"]
 	path = uw/bp/ghk
 	url = .
+[submodule "uw/dc/aay"]
+	path = uw/dc/aay
+	url = .
 [submodule "uw/ec/qcd"]
 	path = uw/ec/qcd
 	url = .
