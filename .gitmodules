@@ -3418,6 +3418,9 @@
 [submodule "bu/vw/bvv"]
 	path = bu/vw/bvv
 	url = .
+[submodule "bu/vz/umu"]
+	path = bu/vz/umu
+	url = .
 [submodule "bu/xd/roj"]
 	path = bu/xd/roj
 	url = .
