@@ -24574,6 +24574,9 @@
 [submodule "mp/xq/zbc"]
 	path = mp/xq/zbc
 	url = .
+[submodule "mp/yg/hnp"]
+	path = mp/yg/hnp
+	url = .
 [submodule "mp/yo/srk"]
 	path = mp/yo/srk
 	url = .
