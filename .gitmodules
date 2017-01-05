@@ -1801,6 +1801,9 @@
 [submodule "bl/ih/qec"]
 	path = bl/ih/qec
 	url = .
+[submodule "bl/il/cnc"]
+	path = bl/il/cnc
+	url = .
 [submodule "bl/jk/nqr"]
 	path = bl/jk/nqr
 	url = .
