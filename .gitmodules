@@ -1852,6 +1852,9 @@
 [submodule "ek/xl/tru"]
 	path = ek/xl/tru
 	url = .
+[submodule "ek/yg/uuj"]
+	path = ek/yg/uuj
+	url = .
 [submodule "el/eo/iyg"]
 	path = el/eo/iyg
 	url = .
