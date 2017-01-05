@@ -9919,6 +9919,9 @@
 [submodule "lf/gd/qdt"]
 	path = lf/gd/qdt
 	url = .
+[submodule "lf/hl/hsz"]
+	path = lf/hl/hsz
+	url = .
 [submodule "lf/kz/wou"]
 	path = lf/kz/wou
 	url = .
