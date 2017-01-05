@@ -3841,6 +3841,9 @@
 [submodule "bq/me/zqt"]
 	path = bq/me/zqt
 	url = .
+[submodule "bq/my/ymw"]
+	path = bq/my/ymw
+	url = .
 [submodule "bq/om/xtw"]
 	path = bq/om/xtw
 	url = .
