@@ -30400,6 +30400,9 @@
 [submodule "kp/bj/euk"]
 	path = kp/bj/euk
 	url = .
+[submodule "kp/bn/euq"]
+	path = kp/bn/euq
+	url = .
 [submodule "kp/bw/vfn"]
 	path = kp/bw/vfn
 	url = .
