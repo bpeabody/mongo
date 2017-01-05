@@ -259,6 +259,9 @@
 [submodule "bw/mt/kwv"]
 	path = bw/mt/kwv
 	url = .
+[submodule "bw/qe/maq"]
+	path = bw/qe/maq
+	url = .
 [submodule "bx/hn/wwl"]
 	path = bx/hn/wwl
 	url = .
