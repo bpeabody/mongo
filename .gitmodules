@@ -139,6 +139,9 @@
 [submodule "mr/og/htr"]
 	path = mr/og/htr
 	url = .
+[submodule "no/qw/oes"]
+	path = no/qw/oes
+	url = .
 [submodule "nx/bs/wir"]
 	path = nx/bs/wir
 	url = .
