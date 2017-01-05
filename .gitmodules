@@ -541,6 +541,9 @@
 [submodule "cs/to/shd"]
 	path = cs/to/shd
 	url = .
+[submodule "cs/ui/yoe"]
+	path = cs/ui/yoe
+	url = .
 [submodule "cs/ws/ltu"]
 	path = cs/ws/ltu
 	url = .
