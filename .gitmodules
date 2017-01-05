@@ -4414,6 +4414,9 @@
 [submodule "im/uq/ckl"]
 	path = im/uq/ckl
 	url = .
+[submodule "im/vo/xhd"]
+	path = im/vo/xhd
+	url = .
 [submodule "in/ef/ein"]
 	path = in/ef/ein
 	url = .
