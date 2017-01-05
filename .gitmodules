@@ -1471,6 +1471,9 @@
 [submodule "uf/zu/esb"]
 	path = uf/zu/esb
 	url = .
+[submodule "uh/it/buv"]
+	path = uh/it/buv
+	url = .
 [submodule "ui/ke/qzu"]
 	path = ui/ke/qzu
 	url = .
