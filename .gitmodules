@@ -6487,6 +6487,9 @@
 [submodule "jl/ua/wck"]
 	path = jl/ua/wck
 	url = .
+[submodule "jl/vm/fpu"]
+	path = jl/vm/fpu
+	url = .
 [submodule "jl/xg/jto"]
 	path = jl/xg/jto
 	url = .
