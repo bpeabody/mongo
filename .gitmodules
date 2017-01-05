@@ -32848,6 +32848,9 @@
 [submodule "zr/gc/jdy"]
 	path = zr/gc/jdy
 	url = .
+[submodule "zr/je/xqx"]
+	path = zr/je/xqx
+	url = .
 [submodule "zr/mz/mwf"]
 	path = zr/mz/mwf
 	url = .
