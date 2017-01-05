@@ -6319,6 +6319,9 @@
 [submodule "mj/za/rkk"]
 	path = mj/za/rkk
 	url = .
+[submodule "mk/dy/gif"]
+	path = mk/dy/gif
+	url = .
 [submodule "mk/gi/mho"]
 	path = mk/gi/mho
 	url = .
