@@ -31915,6 +31915,9 @@
 [submodule "nm/xb/eqh"]
 	path = nm/xb/eqh
 	url = .
+[submodule "nn/at/gso"]
+	path = nn/at/gso
+	url = .
 [submodule "nn/az/hds"]
 	path = nn/az/hds
 	url = .
