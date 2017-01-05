@@ -4939,6 +4939,9 @@
 [submodule "ea/fj/ulh"]
 	path = ea/fj/ulh
 	url = .
+[submodule "ea/gb/yus"]
+	path = ea/gb/yus
+	url = .
 [submodule "ea/gg/cyb"]
 	path = ea/gg/cyb
 	url = .
