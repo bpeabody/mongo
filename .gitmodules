@@ -20500,6 +20500,9 @@
 [submodule "qc/zx/pnj"]
 	path = qc/zx/pnj
 	url = .
+[submodule "qd/bs/ccr"]
+	path = qd/bs/ccr
+	url = .
 [submodule "qd/ct/vqz"]
 	path = qd/ct/vqz
 	url = .
