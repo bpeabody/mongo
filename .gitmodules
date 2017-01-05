@@ -4681,6 +4681,9 @@
 [submodule "ca/mm/kew"]
 	path = ca/mm/kew
 	url = .
+[submodule "ca/nc/rpb"]
+	path = ca/nc/rpb
+	url = .
 [submodule "ca/nd/bzx"]
 	path = ca/nd/bzx
 	url = .
