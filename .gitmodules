@@ -68056,6 +68056,9 @@
 [submodule "xv/ud/gqt"]
 	path = xv/ud/gqt
 	url = .
+[submodule "xv/uo/nad"]
+	path = xv/uo/nad
+	url = .
 [submodule "xv/up/pid"]
 	path = xv/up/pid
 	url = .
