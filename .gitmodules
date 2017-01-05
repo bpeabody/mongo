@@ -5833,6 +5833,9 @@
 [submodule "ed/it/duk"]
 	path = ed/it/duk
 	url = .
+[submodule "ed/jm/rwh"]
+	path = ed/jm/rwh
+	url = .
 [submodule "ed/jw/cdb"]
 	path = ed/jw/cdb
 	url = .
