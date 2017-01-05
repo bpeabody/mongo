@@ -2134,6 +2134,9 @@
 [submodule "in/ef/ein"]
 	path = in/ef/ein
 	url = .
+[submodule "in/kj/vjz"]
+	path = in/kj/vjz
+	url = .
 [submodule "io/aw/fgo"]
 	path = io/aw/fgo
 	url = .
