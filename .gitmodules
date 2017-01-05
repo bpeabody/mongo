@@ -51016,6 +51016,9 @@
 [submodule "rz/ai/ned"]
 	path = rz/ai/ned
 	url = .
+[submodule "rz/at/nyg"]
+	path = rz/at/nyg
+	url = .
 [submodule "rz/aw/zxn"]
 	path = rz/aw/zxn
 	url = .
