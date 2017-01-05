@@ -2815,6 +2815,9 @@
 [submodule "bk/sn/zxr"]
 	path = bk/sn/zxr
 	url = .
+[submodule "bk/vk/fvd"]
+	path = bk/vk/fvd
+	url = .
 [submodule "bk/wq/rwj"]
 	path = bk/wq/rwj
 	url = .
