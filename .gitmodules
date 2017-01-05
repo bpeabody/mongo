@@ -2011,6 +2011,9 @@
 [submodule "ms/ls/zrf"]
 	path = ms/ls/zrf
 	url = .
+[submodule "ms/os/vns"]
+	path = ms/os/vns
+	url = .
 [submodule "mt/fw/one"]
 	path = mt/fw/one
 	url = .
