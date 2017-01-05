@@ -15868,6 +15868,9 @@
 [submodule "fh/ad/xyb"]
 	path = fh/ad/xyb
 	url = .
+[submodule "fh/ao/nap"]
+	path = fh/ao/nap
+	url = .
 [submodule "fh/bh/cag"]
 	path = fh/bh/cag
 	url = .
