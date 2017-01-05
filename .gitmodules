@@ -29263,6 +29263,9 @@
 [submodule "uv/lu/nbr"]
 	path = uv/lu/nbr
 	url = .
+[submodule "uv/rp/gat"]
+	path = uv/rp/gat
+	url = .
 [submodule "uv/sb/uht"]
 	path = uv/sb/uht
 	url = .
