@@ -22384,6 +22384,9 @@
 [submodule "ow/te/efh"]
 	path = ow/te/efh
 	url = .
+[submodule "ow/tn/irc"]
+	path = ow/tn/irc
+	url = .
 [submodule "ow/vg/xkn"]
 	path = ow/vg/xkn
 	url = .
