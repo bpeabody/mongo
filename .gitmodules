@@ -4327,6 +4327,9 @@
 [submodule "cl/cv/isz"]
 	path = cl/cv/isz
 	url = .
+[submodule "cl/dm/vmf"]
+	path = cl/dm/vmf
+	url = .
 [submodule "cl/er/rxh"]
 	path = cl/er/rxh
 	url = .
