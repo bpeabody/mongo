@@ -10801,6 +10801,9 @@
 [submodule "uq/at/vvl"]
 	path = uq/at/vvl
 	url = .
+[submodule "uq/bn/eyk"]
+	path = uq/bn/eyk
+	url = .
 [submodule "uq/jz/pjb"]
 	path = uq/jz/pjb
 	url = .
