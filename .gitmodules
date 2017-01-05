@@ -1468,6 +1468,9 @@
 [submodule "ap/av/uuq"]
 	path = ap/av/uuq
 	url = .
+[submodule "ap/ca/thd"]
+	path = ap/ca/thd
+	url = .
 [submodule "ap/cr/gdx"]
 	path = ap/cr/gdx
 	url = .
