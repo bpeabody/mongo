@@ -4405,6 +4405,9 @@
 [submodule "cm/zq/fbc"]
 	path = cm/zq/fbc
 	url = .
+[submodule "cn/bi/tqi"]
+	path = cn/bi/tqi
+	url = .
 [submodule "cn/cb/dpk"]
 	path = cn/cb/dpk
 	url = .
