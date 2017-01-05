@@ -39883,6 +39883,9 @@
 [submodule "qb/dv/rhs"]
 	path = qb/dv/rhs
 	url = .
+[submodule "qb/fk/ent"]
+	path = qb/fk/ent
+	url = .
 [submodule "qb/ga/roh"]
 	path = qb/ga/roh
 	url = .
