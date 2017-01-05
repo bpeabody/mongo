@@ -1243,6 +1243,9 @@
 [submodule "qt/zs/prm"]
 	path = qt/zs/prm
 	url = .
+[submodule "qu/bn/iki"]
+	path = qu/bn/iki
+	url = .
 [submodule "qu/jz/kgo"]
 	path = qu/jz/kgo
 	url = .
