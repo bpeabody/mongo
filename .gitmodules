@@ -13741,6 +13741,9 @@
 [submodule "hi/io/ijx"]
 	path = hi/io/ijx
 	url = .
+[submodule "hi/jp/knh"]
+	path = hi/jp/knh
+	url = .
 [submodule "hi/ll/ldk"]
 	path = hi/ll/ldk
 	url = .
