@@ -5305,6 +5305,9 @@
 [submodule "wm/xu/zug"]
 	path = wm/xu/zug
 	url = .
+[submodule "wn/bt/efv"]
+	path = wn/bt/efv
+	url = .
 [submodule "wn/du/hak"]
 	path = wn/du/hak
 	url = .
