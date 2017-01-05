@@ -3724,6 +3724,9 @@
 [submodule "im/ua/ybo"]
 	path = im/ua/ybo
 	url = .
+[submodule "im/uq/ckl"]
+	path = im/uq/ckl
+	url = .
 [submodule "in/ef/ein"]
 	path = in/ef/ein
 	url = .
