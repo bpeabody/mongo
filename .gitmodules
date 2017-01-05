@@ -13312,6 +13312,9 @@
 [submodule "fc/ce/esg"]
 	path = fc/ce/esg
 	url = .
+[submodule "fc/cm/qji"]
+	path = fc/cm/qji
+	url = .
 [submodule "fc/dr/sww"]
 	path = fc/dr/sww
 	url = .
