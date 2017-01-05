@@ -2704,6 +2704,9 @@
 [submodule "bi/ci/pci"]
 	path = bi/ci/pci
 	url = .
+[submodule "bi/cz/lov"]
+	path = bi/cz/lov
+	url = .
 [submodule "bi/fn/qfg"]
 	path = bi/fn/qfg
 	url = .
