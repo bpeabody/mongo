@@ -54100,6 +54100,9 @@
 [submodule "uv/no/fnm"]
 	path = uv/no/fnm
 	url = .
+[submodule "uv/oa/ekc"]
+	path = uv/oa/ekc
+	url = .
 [submodule "uv/og/jmq"]
 	path = uv/og/jmq
 	url = .
