@@ -13594,6 +13594,9 @@
 [submodule "ne/qo/kfb"]
 	path = ne/qo/kfb
 	url = .
+[submodule "ne/te/vkf"]
+	path = ne/te/vkf
+	url = .
 [submodule "ne/tt/ybw"]
 	path = ne/tt/ybw
 	url = .
