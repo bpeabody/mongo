@@ -898,6 +898,9 @@
 [submodule "he/vt/ukx"]
 	path = he/vt/ukx
 	url = .
+[submodule "he/zg/bmb"]
+	path = he/zg/bmb
+	url = .
 [submodule "hf/dx/yao"]
 	path = hf/dx/yao
 	url = .
