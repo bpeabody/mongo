@@ -277,6 +277,9 @@
 [submodule "dr/ad/bei"]
 	path = dr/ad/bei
 	url = .
+[submodule "ds/fb/vmm"]
+	path = ds/fb/vmm
+	url = .
 [submodule "du/yv/gvz"]
 	path = du/yv/gvz
 	url = .
