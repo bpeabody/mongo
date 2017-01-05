@@ -29431,6 +29431,9 @@
 [submodule "pu/ob/vkt"]
 	path = pu/ob/vkt
 	url = .
+[submodule "pu/ox/fuy"]
+	path = pu/ox/fuy
+	url = .
 [submodule "pu/tm/axo"]
 	path = pu/tm/axo
 	url = .
