@@ -9364,6 +9364,9 @@
 [submodule "dk/fe/eek"]
 	path = dk/fe/eek
 	url = .
+[submodule "dk/hd/vrs"]
+	path = dk/hd/vrs
+	url = .
 [submodule "dk/jc/fyd"]
 	path = dk/jc/fyd
 	url = .
