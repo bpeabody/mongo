@@ -10999,6 +10999,9 @@
 [submodule "ng/io/njq"]
 	path = ng/io/njq
 	url = .
+[submodule "ng/om/ygd"]
+	path = ng/om/ygd
+	url = .
 [submodule "ng/pc/kvl"]
 	path = ng/pc/kvl
 	url = .
