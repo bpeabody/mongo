@@ -4120,6 +4120,9 @@
 [submodule "cx/ll/yqi"]
 	path = cx/ll/yqi
 	url = .
+[submodule "cx/mi/scp"]
+	path = cx/mi/scp
+	url = .
 [submodule "cx/nt/qvg"]
 	path = cx/nt/qvg
 	url = .
