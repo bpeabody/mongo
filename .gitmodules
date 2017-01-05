@@ -10627,6 +10627,9 @@
 [submodule "kf/vv/scg"]
 	path = kf/vv/scg
 	url = .
+[submodule "kf/wv/pro"]
+	path = kf/wv/pro
+	url = .
 [submodule "kf/xq/xie"]
 	path = kf/xq/xie
 	url = .
