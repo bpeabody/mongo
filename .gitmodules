@@ -10324,6 +10324,9 @@
 [submodule "dn/zv/bpt"]
 	path = dn/zv/bpt
 	url = .
+[submodule "do/ag/gnv"]
+	path = do/ag/gnv
+	url = .
 [submodule "do/ai/bmo"]
 	path = do/ai/bmo
 	url = .
