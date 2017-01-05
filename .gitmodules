@@ -6985,6 +6985,9 @@
 [submodule "ru/ey/npj"]
 	path = ru/ey/npj
 	url = .
+[submodule "ru/jd/eax"]
+	path = ru/jd/eax
+	url = .
 [submodule "ru/kb/vmu"]
 	path = ru/kb/vmu
 	url = .
