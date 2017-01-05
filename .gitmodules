@@ -7741,6 +7741,9 @@
 [submodule "hl/gk/egx"]
 	path = hl/gk/egx
 	url = .
+[submodule "hl/gk/fkp"]
+	path = hl/gk/fkp
+	url = .
 [submodule "hl/je/yuc"]
 	path = hl/je/yuc
 	url = .
