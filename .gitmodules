@@ -8038,6 +8038,9 @@
 [submodule "cw/so/prm"]
 	path = cw/so/prm
 	url = .
+[submodule "cw/tg/zdc"]
+	path = cw/tg/zdc
+	url = .
 [submodule "cw/tm/tcr"]
 	path = cw/tm/tcr
 	url = .
