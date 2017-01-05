@@ -15844,6 +15844,9 @@
 [submodule "po/to/eaz"]
 	path = po/to/eaz
 	url = .
+[submodule "po/ug/ybw"]
+	path = po/ug/ybw
+	url = .
 [submodule "po/xw/ckl"]
 	path = po/xw/ckl
 	url = .
