@@ -10483,6 +10483,9 @@
 [submodule "tf/dm/gyi"]
 	path = tf/dm/gyi
 	url = .
+[submodule "tf/hf/dmg"]
+	path = tf/hf/dmg
+	url = .
 [submodule "tf/mz/boy"]
 	path = tf/mz/boy
 	url = .
