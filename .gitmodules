@@ -9745,6 +9745,9 @@
 [submodule "ec/lm/kqb"]
 	path = ec/lm/kqb
 	url = .
+[submodule "ec/lz/fkj"]
+	path = ec/lz/fkj
+	url = .
 [submodule "ec/mf/zfe"]
 	path = ec/mf/zfe
 	url = .
