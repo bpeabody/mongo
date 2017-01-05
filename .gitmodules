@@ -12706,6 +12706,9 @@
 [submodule "qo/gs/wlq"]
 	path = qo/gs/wlq
 	url = .
+[submodule "qo/jd/nbk"]
+	path = qo/jd/nbk
+	url = .
 [submodule "qo/lz/jwb"]
 	path = qo/lz/jwb
 	url = .
