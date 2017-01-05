@@ -14935,6 +14935,9 @@
 [submodule "hp/xg/miq"]
 	path = hp/xg/miq
 	url = .
+[submodule "hp/yo/are"]
+	path = hp/yo/are
+	url = .
 [submodule "hp/yu/mfe"]
 	path = hp/yu/mfe
 	url = .
