@@ -9754,6 +9754,9 @@
 [submodule "dl/nk/ymr"]
 	path = dl/nk/ymr
 	url = .
+[submodule "dl/nm/nsy"]
+	path = dl/nm/nsy
+	url = .
 [submodule "dl/oc/gbb"]
 	path = dl/oc/gbb
 	url = .
