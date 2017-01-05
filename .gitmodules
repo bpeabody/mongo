@@ -10942,6 +10942,9 @@
 [submodule "gc/bm/asz"]
 	path = gc/bm/asz
 	url = .
+[submodule "gc/ef/vwg"]
+	path = gc/ef/vwg
+	url = .
 [submodule "gc/ek/vvy"]
 	path = gc/ek/vvy
 	url = .
