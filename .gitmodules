@@ -799,6 +799,9 @@
 [submodule "xf/ou/lup"]
 	path = xf/ou/lup
 	url = .
+[submodule "xg/os/amf"]
+	path = xg/os/amf
+	url = .
 [submodule "xh/er/wci"]
 	path = xh/er/wci
 	url = .
