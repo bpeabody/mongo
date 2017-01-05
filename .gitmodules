@@ -6607,6 +6607,9 @@
 [submodule "cf/vm/jzc"]
 	path = cf/vm/jzc
 	url = .
+[submodule "cf/vw/ced"]
+	path = cf/vw/ced
+	url = .
 [submodule "cf/xq/xkp"]
 	path = cf/xq/xkp
 	url = .
