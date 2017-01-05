@@ -16000,6 +16000,9 @@
 [submodule "nw/rw/aku"]
 	path = nw/rw/aku
 	url = .
+[submodule "nw/vb/kyh"]
+	path = nw/vb/kyh
+	url = .
 [submodule "nw/vq/udv"]
 	path = nw/vq/udv
 	url = .
