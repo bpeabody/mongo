@@ -38197,6 +38197,9 @@
 [submodule "tu/yy/hhz"]
 	path = tu/yy/hhz
 	url = .
+[submodule "tu/yy/how"]
+	path = tu/yy/how
+	url = .
 [submodule "tu/zx/shz"]
 	path = tu/zx/shz
 	url = .
