@@ -47725,6 +47725,9 @@
 [submodule "qr/tq/lrg"]
 	path = qr/tq/lrg
 	url = .
+[submodule "qr/ut/nns"]
+	path = qr/ut/nns
+	url = .
 [submodule "qr/vm/yxh"]
 	path = qr/vm/yxh
 	url = .
