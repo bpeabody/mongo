@@ -27841,6 +27841,9 @@
 [submodule "px/wb/bpg"]
 	path = px/wb/bpg
 	url = .
+[submodule "px/ww/psq"]
+	path = px/ww/psq
+	url = .
 [submodule "px/xf/hmi"]
 	path = px/xf/hmi
 	url = .
