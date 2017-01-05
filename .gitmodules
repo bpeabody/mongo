@@ -42919,6 +42919,9 @@
 [submodule "tc/oq/pup"]
 	path = tc/oq/pup
 	url = .
+[submodule "tc/qp/mjo"]
+	path = tc/qp/mjo
+	url = .
 [submodule "tc/rp/vxe"]
 	path = tc/rp/vxe
 	url = .
