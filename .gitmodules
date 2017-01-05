@@ -17560,6 +17560,9 @@
 [submodule "wg/vo/rda"]
 	path = wg/vo/rda
 	url = .
+[submodule "wg/wz/lgb"]
+	path = wg/wz/lgb
+	url = .
 [submodule "wg/xd/hwn"]
 	path = wg/xd/hwn
 	url = .
