@@ -4849,6 +4849,9 @@
 [submodule "gw/ey/hwz"]
 	path = gw/ey/hwz
 	url = .
+[submodule "gw/jy/sup"]
+	path = gw/jy/sup
+	url = .
 [submodule "gw/nj/gwd"]
 	path = gw/nj/gwd
 	url = .
