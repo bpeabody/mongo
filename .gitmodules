@@ -1297,6 +1297,9 @@
 [submodule "cg/dd/ytz"]
 	path = cg/dd/ytz
 	url = .
+[submodule "cg/jk/kps"]
+	path = cg/jk/kps
+	url = .
 [submodule "cg/ze/hsp"]
 	path = cg/ze/hsp
 	url = .
