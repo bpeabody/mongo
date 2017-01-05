@@ -3697,6 +3697,9 @@
 [submodule "pk/rd/brg"]
 	path = pk/rd/brg
 	url = .
+[submodule "pl/mt/dgj"]
+	path = pl/mt/dgj
+	url = .
 [submodule "pl/zu/lat"]
 	path = pl/zu/lat
 	url = .
