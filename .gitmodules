@@ -50641,6 +50641,9 @@
 [submodule "yb/ct/mff"]
 	path = yb/ct/mff
 	url = .
+[submodule "yb/cy/wab"]
+	path = yb/cy/wab
+	url = .
 [submodule "yb/ea/tjd"]
 	path = yb/ea/tjd
 	url = .
