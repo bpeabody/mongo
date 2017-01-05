@@ -9286,6 +9286,9 @@
 [submodule "dj/wy/iuw"]
 	path = dj/wy/iuw
 	url = .
+[submodule "dj/zj/rex"]
+	path = dj/zj/rex
+	url = .
 [submodule "dj/zn/kkn"]
 	path = dj/zn/kkn
 	url = .
