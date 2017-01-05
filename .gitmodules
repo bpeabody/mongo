@@ -9796,6 +9796,9 @@
 [submodule "ii/ru/eqf"]
 	path = ii/ru/eqf
 	url = .
+[submodule "ii/so/ihe"]
+	path = ii/so/ihe
+	url = .
 [submodule "ii/sv/yun"]
 	path = ii/sv/yun
 	url = .
