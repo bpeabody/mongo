@@ -21754,6 +21754,9 @@
 [submodule "mc/tk/csr"]
 	path = mc/tk/csr
 	url = .
+[submodule "mc/zb/blt"]
+	path = mc/zb/blt
+	url = .
 [submodule "md/az/khq"]
 	path = md/az/khq
 	url = .
