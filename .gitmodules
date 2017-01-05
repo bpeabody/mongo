@@ -15304,6 +15304,9 @@
 [submodule "ha/wg/fje"]
 	path = ha/wg/fje
 	url = .
+[submodule "ha/ws/aoa"]
+	path = ha/ws/aoa
+	url = .
 [submodule "ha/xt/ypw"]
 	path = ha/xt/ypw
 	url = .
