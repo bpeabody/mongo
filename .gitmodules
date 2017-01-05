@@ -24517,6 +24517,9 @@
 [submodule "mq/aj/dcm"]
 	path = mq/aj/dcm
 	url = .
+[submodule "mq/bm/gme"]
+	path = mq/bm/gme
+	url = .
 [submodule "mq/do/cnh"]
 	path = mq/do/cnh
 	url = .
