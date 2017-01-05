@@ -23224,6 +23224,9 @@
 [submodule "jr/ak/lml"]
 	path = jr/ak/lml
 	url = .
+[submodule "jr/bm/udy"]
+	path = jr/bm/udy
+	url = .
 [submodule "jr/ci/xvx"]
 	path = jr/ci/xvx
 	url = .
