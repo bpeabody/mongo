@@ -10477,6 +10477,9 @@
 [submodule "fb/ek/qzp"]
 	path = fb/ek/qzp
 	url = .
+[submodule "fb/en/noa"]
+	path = fb/en/noa
+	url = .
 [submodule "fb/gz/fhc"]
 	path = fb/gz/fhc
 	url = .
