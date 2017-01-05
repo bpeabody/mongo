@@ -16480,6 +16480,9 @@
 [submodule "sv/rw/xvh"]
 	path = sv/rw/xvh
 	url = .
+[submodule "sv/vq/dmh"]
+	path = sv/vq/dmh
+	url = .
 [submodule "sw/bz/guc"]
 	path = sw/bz/guc
 	url = .
