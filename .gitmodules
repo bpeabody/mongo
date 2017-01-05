@@ -28606,6 +28606,9 @@
 [submodule "kq/zb/dcx"]
 	path = kq/zb/dcx
 	url = .
+[submodule "kq/zn/knu"]
+	path = kq/zn/knu
+	url = .
 [submodule "kr/bc/cpd"]
 	path = kr/bc/cpd
 	url = .
