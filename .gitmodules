@@ -10135,6 +10135,9 @@
 [submodule "ha/nh/wsg"]
 	path = ha/nh/wsg
 	url = .
+[submodule "ha/rd/jqx"]
+	path = ha/rd/jqx
+	url = .
 [submodule "ha/rp/lud"]
 	path = ha/rp/lud
 	url = .
