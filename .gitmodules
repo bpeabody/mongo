@@ -38248,6 +38248,9 @@
 [submodule "wm/bg/mrc"]
 	path = wm/bg/mrc
 	url = .
+[submodule "wm/bk/gyt"]
+	path = wm/bk/gyt
+	url = .
 [submodule "wm/bu/qbe"]
 	path = wm/bu/qbe
 	url = .
