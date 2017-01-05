@@ -2926,6 +2926,9 @@
 [submodule "dd/fn/srx"]
 	path = dd/fn/srx
 	url = .
+[submodule "dd/gy/ksa"]
+	path = dd/gy/ksa
+	url = .
 [submodule "dd/hc/rfb"]
 	path = dd/hc/rfb
 	url = .
