@@ -49132,6 +49132,9 @@
 [submodule "sy/ln/xjv"]
 	path = sy/ln/xjv
 	url = .
+[submodule "sy/lx/hrc"]
+	path = sy/lx/hrc
+	url = .
 [submodule "sy/me/jwf"]
 	path = sy/me/jwf
 	url = .
