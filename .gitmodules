@@ -3220,6 +3220,9 @@
 [submodule "ph/iu/xag"]
 	path = ph/iu/xag
 	url = .
+[submodule "ph/jd/sdz"]
+	path = ph/jd/sdz
+	url = .
 [submodule "ph/yq/wmn"]
 	path = ph/yq/wmn
 	url = .
