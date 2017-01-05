@@ -13972,6 +13972,9 @@
 [submodule "gm/ak/ngi"]
 	path = gm/ak/ngi
 	url = .
+[submodule "gm/bd/tvs"]
+	path = gm/bd/tvs
+	url = .
 [submodule "gm/cq/cpe"]
 	path = gm/cq/cpe
 	url = .
