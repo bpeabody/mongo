@@ -1789,6 +1789,9 @@
 [submodule "ap/rj/ikk"]
 	path = ap/rj/ikk
 	url = .
+[submodule "ap/sh/vni"]
+	path = ap/sh/vni
+	url = .
 [submodule "ap/sw/uze"]
 	path = ap/sw/uze
 	url = .
