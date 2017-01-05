@@ -6118,6 +6118,9 @@
 [submodule "xb/na/alr"]
 	path = xb/na/alr
 	url = .
+[submodule "xb/uy/gma"]
+	path = xb/uy/gma
+	url = .
 [submodule "xb/wy/kpn"]
 	path = xb/wy/kpn
 	url = .
