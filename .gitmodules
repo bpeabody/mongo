@@ -31117,6 +31117,9 @@
 [submodule "ky/ir/sew"]
 	path = ky/ir/sew
 	url = .
+[submodule "ky/kf/alf"]
+	path = ky/kf/alf
+	url = .
 [submodule "ky/kp/dnv"]
 	path = ky/kp/dnv
 	url = .
