@@ -1564,6 +1564,9 @@
 [submodule "uo/ca/jyg"]
 	path = uo/ca/jyg
 	url = .
+[submodule "uq/at/vvl"]
+	path = uq/at/vvl
+	url = .
 [submodule "ur/le/qqt"]
 	path = ur/le/qqt
 	url = .
