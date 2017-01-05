@@ -58396,6 +58396,9 @@
 [submodule "yu/cu/fyz"]
 	path = yu/cu/fyz
 	url = .
+[submodule "yu/dn/vre"]
+	path = yu/dn/vre
+	url = .
 [submodule "yu/er/mix"]
 	path = yu/er/mix
 	url = .
