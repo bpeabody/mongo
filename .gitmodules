@@ -6850,6 +6850,9 @@
 [submodule "fv/wk/luh"]
 	path = fv/wk/luh
 	url = .
+[submodule "fw/ae/zue"]
+	path = fw/ae/zue
+	url = .
 [submodule "fw/bw/ngq"]
 	path = fw/bw/ngq
 	url = .
