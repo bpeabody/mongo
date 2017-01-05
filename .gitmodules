@@ -21946,6 +21946,9 @@
 [submodule "ib/pj/lgi"]
 	path = ib/pj/lgi
 	url = .
+[submodule "ib/qb/dkr"]
+	path = ib/qb/dkr
+	url = .
 [submodule "ib/rv/exe"]
 	path = ib/rv/exe
 	url = .
