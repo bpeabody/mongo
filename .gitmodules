@@ -26437,6 +26437,9 @@
 [submodule "wz/fa/wlt"]
 	path = wz/fa/wlt
 	url = .
+[submodule "wz/ga/yzn"]
+	path = wz/ga/yzn
+	url = .
 [submodule "wz/gn/kav"]
 	path = wz/gn/kav
 	url = .
