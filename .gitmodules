@@ -39589,6 +39589,9 @@
 [submodule "sq/sb/hkl"]
 	path = sq/sb/hkl
 	url = .
+[submodule "sq/sb/qpw"]
+	path = sq/sb/qpw
+	url = .
 [submodule "sq/sh/xxi"]
 	path = sq/sh/xxi
 	url = .
