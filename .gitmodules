@@ -1075,6 +1075,9 @@
 [submodule "fp/ha/ijx"]
 	path = fp/ha/ijx
 	url = .
+[submodule "fp/sz/ycf"]
+	path = fp/sz/ycf
+	url = .
 [submodule "fp/tk/iux"]
 	path = fp/tk/iux
 	url = .
