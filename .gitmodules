@@ -8206,6 +8206,9 @@
 [submodule "sv/rw/xvh"]
 	path = sv/rw/xvh
 	url = .
+[submodule "sw/bz/guc"]
+	path = sw/bz/guc
+	url = .
 [submodule "sw/eh/hep"]
 	path = sw/eh/hep
 	url = .
