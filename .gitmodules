@@ -166,6 +166,9 @@
 [submodule "ad/rv/tfg"]
 	path = ad/rv/tfg
 	url = .
+[submodule "ad/uf/jnh"]
+	path = ad/uf/jnh
+	url = .
 [submodule "ad/zw/qbx"]
 	path = ad/zw/qbx
 	url = .
