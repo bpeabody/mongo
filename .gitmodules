@@ -48451,6 +48451,9 @@
 [submodule "sz/gm/jin"]
 	path = sz/gm/jin
 	url = .
+[submodule "sz/he/hbm"]
+	path = sz/he/hbm
+	url = .
 [submodule "sz/ik/afi"]
 	path = sz/ik/afi
 	url = .
