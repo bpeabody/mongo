@@ -43144,6 +43144,9 @@
 [submodule "sq/xw/eva"]
 	path = sq/xw/eva
 	url = .
+[submodule "sq/yw/kpg"]
+	path = sq/yw/kpg
+	url = .
 [submodule "sr/bq/lhe"]
 	path = sr/bq/lhe
 	url = .
