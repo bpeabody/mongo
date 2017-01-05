@@ -22,6 +22,9 @@
 [submodule "ab/ix/onx"]
 	path = ab/ix/onx
 	url = .
+[submodule "ab/nx/oun"]
+	path = ab/nx/oun
+	url = .
 [submodule "ab/ol/stm"]
 	path = ab/ol/stm
 	url = .
