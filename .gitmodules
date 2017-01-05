@@ -3442,6 +3442,9 @@
 [submodule "py/az/dfv"]
 	path = py/az/dfv
 	url = .
+[submodule "py/ge/lfi"]
+	path = py/ge/lfi
+	url = .
 [submodule "pz/iz/jkj"]
 	path = pz/iz/jkj
 	url = .
