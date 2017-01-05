@@ -6286,6 +6286,9 @@
 [submodule "yt/zq/uyh"]
 	path = yt/zq/uyh
 	url = .
+[submodule "yu/kg/wwm"]
+	path = yu/kg/wwm
+	url = .
 [submodule "yu/yf/xas"]
 	path = yu/yf/xas
 	url = .
