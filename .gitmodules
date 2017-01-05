@@ -24280,6 +24280,9 @@
 [submodule "mg/ld/uzl"]
 	path = mg/ld/uzl
 	url = .
+[submodule "mg/lw/ehr"]
+	path = mg/lw/ehr
+	url = .
 [submodule "mg/mr/ekn"]
 	path = mg/mr/ekn
 	url = .
