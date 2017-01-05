@@ -2512,6 +2512,9 @@
 [submodule "tg/xw/czu"]
 	path = tg/xw/czu
 	url = .
+[submodule "th/bc/cmk"]
+	path = th/bc/cmk
+	url = .
 [submodule "th/dh/yuf"]
 	path = th/dh/yuf
 	url = .
