@@ -157,6 +157,9 @@
 [submodule "ac/al/dnj"]
 	path = ac/al/dnj
 	url = .
+[submodule "ac/az/mxk"]
+	path = ac/az/mxk
+	url = .
 [submodule "ac/df/jef"]
 	path = ac/df/jef
 	url = .
