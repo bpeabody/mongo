@@ -30550,6 +30550,9 @@
 [submodule "me/mo/pat"]
 	path = me/mo/pat
 	url = .
+[submodule "me/ns/wup"]
+	path = me/ns/wup
+	url = .
 [submodule "me/pf/env"]
 	path = me/pf/env
 	url = .
