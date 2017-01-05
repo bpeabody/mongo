@@ -16726,6 +16726,9 @@
 [submodule "yx/bf/xic"]
 	path = yx/bf/xic
 	url = .
+[submodule "yx/bk/mpf"]
+	path = yx/bk/mpf
+	url = .
 [submodule "yx/dl/dmn"]
 	path = yx/dl/dmn
 	url = .
