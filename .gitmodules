@@ -15829,6 +15829,9 @@
 [submodule "rv/sv/ylf"]
 	path = rv/sv/ylf
 	url = .
+[submodule "rv/tu/gdb"]
+	path = rv/tu/gdb
+	url = .
 [submodule "rv/vn/nue"]
 	path = rv/vn/nue
 	url = .
