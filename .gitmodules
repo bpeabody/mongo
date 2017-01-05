@@ -12457,6 +12457,9 @@
 [submodule "eu/bi/pwt"]
 	path = eu/bi/pwt
 	url = .
+[submodule "eu/bv/hkn"]
+	path = eu/bv/hkn
+	url = .
 [submodule "eu/dh/mtb"]
 	path = eu/dh/mtb
 	url = .
