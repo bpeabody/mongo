@@ -4273,6 +4273,9 @@
 [submodule "el/fk/uat"]
 	path = el/fk/uat
 	url = .
+[submodule "el/kf/hfm"]
+	path = el/kf/hfm
+	url = .
 [submodule "el/nt/aoo"]
 	path = el/nt/aoo
 	url = .
