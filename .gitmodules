@@ -12469,6 +12469,9 @@
 [submodule "sm/mg/efu"]
 	path = sm/mg/efu
 	url = .
+[submodule "sm/ob/szr"]
+	path = sm/ob/szr
+	url = .
 [submodule "sm/rh/pgh"]
 	path = sm/rh/pgh
 	url = .
