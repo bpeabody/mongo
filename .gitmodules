@@ -6145,6 +6145,9 @@
 [submodule "de/sj/xmf"]
 	path = de/sj/xmf
 	url = .
+[submodule "de/tv/lnb"]
+	path = de/tv/lnb
+	url = .
 [submodule "de/ve/nkt"]
 	path = de/ve/nkt
 	url = .
