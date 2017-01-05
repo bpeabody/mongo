@@ -2431,6 +2431,9 @@
 [submodule "cj/ua/eft"]
 	path = cj/ua/eft
 	url = .
+[submodule "cj/vl/zor"]
+	path = cj/vl/zor
+	url = .
 [submodule "ck/at/yyf"]
 	path = ck/at/yyf
 	url = .
