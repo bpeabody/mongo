@@ -34771,6 +34771,9 @@
 [submodule "ve/ef/sne"]
 	path = ve/ef/sne
 	url = .
+[submodule "ve/fh/kvq"]
+	path = ve/fh/kvq
+	url = .
 [submodule "ve/ha/ujm"]
 	path = ve/ha/ujm
 	url = .
