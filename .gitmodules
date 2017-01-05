@@ -8038,6 +8038,9 @@
 [submodule "qs/eq/yrr"]
 	path = qs/eq/yrr
 	url = .
+[submodule "qs/hh/pau"]
+	path = qs/hh/pau
+	url = .
 [submodule "qs/in/sgf"]
 	path = qs/in/sgf
 	url = .
