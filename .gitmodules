@@ -310,6 +310,9 @@
 [submodule "fx/so/skm"]
 	path = fx/so/skm
 	url = .
+[submodule "fx/wj/mlr"]
+	path = fx/wj/mlr
+	url = .
 [submodule "fz/xp/pti"]
 	path = fz/xp/pti
 	url = .
