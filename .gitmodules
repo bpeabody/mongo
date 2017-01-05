@@ -49801,6 +49801,9 @@
 [submodule "ti/xu/aib"]
 	path = ti/xu/aib
 	url = .
+[submodule "ti/yj/rks"]
+	path = ti/yj/rks
+	url = .
 [submodule "ti/yy/mts"]
 	path = ti/yy/mts
 	url = .
