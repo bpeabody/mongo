@@ -10147,6 +10147,9 @@
 [submodule "xw/md/xwf"]
 	path = xw/md/xwf
 	url = .
+[submodule "xw/oj/awe"]
+	path = xw/oj/awe
+	url = .
 [submodule "xw/tq/wfq"]
 	path = xw/tq/wfq
 	url = .
