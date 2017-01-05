@@ -28009,6 +28009,9 @@
 [submodule "rr/qq/bab"]
 	path = rr/qq/bab
 	url = .
+[submodule "rr/ts/vkr"]
+	path = rr/ts/vkr
+	url = .
 [submodule "rr/xv/tfm"]
 	path = rr/xv/tfm
 	url = .
