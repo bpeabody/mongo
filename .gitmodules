@@ -3841,6 +3841,9 @@
 [submodule "hq/mf/lmr"]
 	path = hq/mf/lmr
 	url = .
+[submodule "hq/mo/thc"]
+	path = hq/mo/thc
+	url = .
 [submodule "hq/na/yso"]
 	path = hq/na/yso
 	url = .
