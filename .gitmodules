@@ -30583,6 +30583,9 @@
 [submodule "op/go/adu"]
 	path = op/go/adu
 	url = .
+[submodule "op/gx/yay"]
+	path = op/gx/yay
+	url = .
 [submodule "op/ig/fln"]
 	path = op/ig/fln
 	url = .
