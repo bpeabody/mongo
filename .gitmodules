@@ -17512,6 +17512,9 @@
 [submodule "in/ra/ibg"]
 	path = in/ra/ibg
 	url = .
+[submodule "in/rg/hvx"]
+	path = in/rg/hvx
+	url = .
 [submodule "in/ru/kho"]
 	path = in/ru/kho
 	url = .
