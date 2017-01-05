@@ -547,6 +547,9 @@
 [submodule "ae/yj/nfz"]
 	path = ae/yj/nfz
 	url = .
+[submodule "ae/ym/jkb"]
+	path = ae/ym/jkb
+	url = .
 [submodule "ae/yp/byl"]
 	path = ae/yp/byl
 	url = .
