@@ -88,6 +88,9 @@
 [submodule "ap/zf/avk"]
 	path = ap/zf/avk
 	url = .
+[submodule "ar/vc/ymd"]
+	path = ar/vc/ymd
+	url = .
 [submodule "ar/xd/aqq"]
 	path = ar/xd/aqq
 	url = .
