@@ -55711,6 +55711,9 @@
 [submodule "ui/zb/eht"]
 	path = ui/zb/eht
 	url = .
+[submodule "ui/zb/kna"]
+	path = ui/zb/kna
+	url = .
 [submodule "ui/zy/sxi"]
 	path = ui/zy/sxi
 	url = .
