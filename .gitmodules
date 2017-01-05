@@ -4636,6 +4636,9 @@
 [submodule "cn/mp/glf"]
 	path = cn/mp/glf
 	url = .
+[submodule "cn/nz/rqs"]
+	path = cn/nz/rqs
+	url = .
 [submodule "cn/qe/dua"]
 	path = cn/qe/dua
 	url = .
