@@ -16291,6 +16291,9 @@
 [submodule "mc/ht/zgl"]
 	path = mc/ht/zgl
 	url = .
+[submodule "mc/hx/qij"]
+	path = mc/hx/qij
+	url = .
 [submodule "mc/ix/quj"]
 	path = mc/ix/quj
 	url = .
