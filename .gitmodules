@@ -39022,6 +39022,9 @@
 [submodule "vf/mn/wlp"]
 	path = vf/mn/wlp
 	url = .
+[submodule "vf/nn/fab"]
+	path = vf/nn/fab
+	url = .
 [submodule "vf/ns/lkt"]
 	path = vf/ns/lkt
 	url = .
