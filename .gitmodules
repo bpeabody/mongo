@@ -5095,6 +5095,9 @@
 [submodule "hx/ux/iqb"]
 	path = hx/ux/iqb
 	url = .
+[submodule "hy/cv/jnu"]
+	path = hy/cv/jnu
+	url = .
 [submodule "hy/ev/mgw"]
 	path = hy/ev/mgw
 	url = .
