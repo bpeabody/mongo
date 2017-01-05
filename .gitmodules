@@ -17347,6 +17347,9 @@
 [submodule "rt/pd/swk"]
 	path = rt/pd/swk
 	url = .
+[submodule "rt/sd/vev"]
+	path = rt/sd/vev
+	url = .
 [submodule "rt/ww/jyn"]
 	path = rt/ww/jyn
 	url = .
