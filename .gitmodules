@@ -19858,6 +19858,9 @@
 [submodule "vn/xi/qlb"]
 	path = vn/xi/qlb
 	url = .
+[submodule "vn/xk/niv"]
+	path = vn/xk/niv
+	url = .
 [submodule "vn/zf/ilc"]
 	path = vn/zf/ilc
 	url = .
