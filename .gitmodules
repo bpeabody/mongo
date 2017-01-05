@@ -397,6 +397,9 @@
 [submodule "by/oe/pby"]
 	path = by/oe/pby
 	url = .
+[submodule "bz/ej/ksx"]
+	path = bz/ej/ksx
+	url = .
 [submodule "bz/jf/mvk"]
 	path = bz/jf/mvk
 	url = .
