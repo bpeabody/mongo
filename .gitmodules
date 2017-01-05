@@ -8650,6 +8650,9 @@
 [submodule "ve/kf/mcz"]
 	path = ve/kf/mcz
 	url = .
+[submodule "ve/pl/rxm"]
+	path = ve/pl/rxm
+	url = .
 [submodule "ve/tj/zdv"]
 	path = ve/tj/zdv
 	url = .
