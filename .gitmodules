@@ -1732,6 +1732,9 @@
 [submodule "gy/zz/lgq"]
 	path = gy/zz/lgq
 	url = .
+[submodule "gz/cs/eew"]
+	path = gz/cs/eew
+	url = .
 [submodule "gz/rb/tsb"]
 	path = gz/rb/tsb
 	url = .
