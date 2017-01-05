@@ -61480,6 +61480,9 @@
 [submodule "vh/le/vwu"]
 	path = vh/le/vwu
 	url = .
+[submodule "vh/ml/vgl"]
+	path = vh/ml/vgl
+	url = .
 [submodule "vh/my/xpj"]
 	path = vh/my/xpj
 	url = .
