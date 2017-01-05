@@ -16048,6 +16048,9 @@
 [submodule "xn/iw/vqi"]
 	path = xn/iw/vqi
 	url = .
+[submodule "xn/kc/rdm"]
+	path = xn/kc/rdm
+	url = .
 [submodule "xn/ru/zvl"]
 	path = xn/ru/zvl
 	url = .
