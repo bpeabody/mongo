@@ -2059,6 +2059,9 @@
 [submodule "sy/jl/hfe"]
 	path = sy/jl/hfe
 	url = .
+[submodule "sy/jz/odn"]
+	path = sy/jz/odn
+	url = .
 [submodule "ta/oc/fgs"]
 	path = ta/oc/fgs
 	url = .
