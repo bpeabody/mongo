@@ -3958,6 +3958,9 @@
 [submodule "me/gm/ppy"]
 	path = me/gm/ppy
 	url = .
+[submodule "me/hj/cwk"]
+	path = me/hj/cwk
+	url = .
 [submodule "me/ts/zce"]
 	path = me/ts/zce
 	url = .
