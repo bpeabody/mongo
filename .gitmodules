@@ -19888,6 +19888,9 @@
 [submodule "sp/yj/tlr"]
 	path = sp/yj/tlr
 	url = .
+[submodule "sq/ax/sku"]
+	path = sq/ax/sku
+	url = .
 [submodule "sq/fq/upo"]
 	path = sq/fq/upo
 	url = .
