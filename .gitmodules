@@ -8557,6 +8557,9 @@
 [submodule "ec/vp/kwm"]
 	path = ec/vp/kwm
 	url = .
+[submodule "ec/wt/qoe"]
+	path = ec/wt/qoe
+	url = .
 [submodule "ec/yc/mlm"]
 	path = ec/yc/mlm
 	url = .
