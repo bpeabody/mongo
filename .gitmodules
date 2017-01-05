@@ -8716,6 +8716,9 @@
 [submodule "na/fu/uup"]
 	path = na/fu/uup
 	url = .
+[submodule "na/gb/edk"]
+	path = na/gb/edk
+	url = .
 [submodule "na/nf/rbm"]
 	path = na/nf/rbm
 	url = .
