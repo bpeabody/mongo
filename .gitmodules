@@ -38782,6 +38782,9 @@
 [submodule "uw/zd/gub"]
 	path = uw/zd/gub
 	url = .
+[submodule "ux/ai/yyr"]
+	path = ux/ai/yyr
+	url = .
 [submodule "ux/bf/bwj"]
 	path = ux/bf/bwj
 	url = .
