@@ -28303,6 +28303,9 @@
 [submodule "xn/tk/nab"]
 	path = xn/tk/nab
 	url = .
+[submodule "xn/uo/vzp"]
+	path = xn/uo/vzp
+	url = .
 [submodule "xn/vz/qom"]
 	path = xn/vz/qom
 	url = .
