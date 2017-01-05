@@ -16858,6 +16858,9 @@
 [submodule "go/cl/ihs"]
 	path = go/cl/ihs
 	url = .
+[submodule "go/cx/sho"]
+	path = go/cx/sho
+	url = .
 [submodule "go/dh/alm"]
 	path = go/dh/alm
 	url = .
