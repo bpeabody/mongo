@@ -30466,6 +30466,9 @@
 [submodule "kj/rt/pbc"]
 	path = kj/rt/pbc
 	url = .
+[submodule "kj/rw/gps"]
+	path = kj/rw/gps
+	url = .
 [submodule "kj/sf/kqk"]
 	path = kj/sf/kqk
 	url = .
