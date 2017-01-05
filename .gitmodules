@@ -4486,6 +4486,9 @@
 [submodule "dt/cr/fzl"]
 	path = dt/cr/fzl
 	url = .
+[submodule "dt/hf/zqh"]
+	path = dt/hf/zqh
+	url = .
 [submodule "dt/mn/kgd"]
 	path = dt/mn/kgd
 	url = .
