@@ -1264,6 +1264,9 @@
 [submodule "jw/oh/pjo"]
 	path = jw/oh/pjo
 	url = .
+[submodule "jw/tk/xhw"]
+	path = jw/tk/xhw
+	url = .
 [submodule "jw/vs/xin"]
 	path = jw/vs/xin
 	url = .
