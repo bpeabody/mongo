@@ -9433,6 +9433,9 @@
 [submodule "ds/it/eva"]
 	path = ds/it/eva
 	url = .
+[submodule "ds/jd/vxj"]
+	path = ds/jd/vxj
+	url = .
 [submodule "ds/ko/pek"]
 	path = ds/ko/pek
 	url = .
