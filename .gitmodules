@@ -3133,6 +3133,9 @@
 [submodule "nr/ye/nlu"]
 	path = nr/ye/nlu
 	url = .
+[submodule "ns/gz/zel"]
+	path = ns/gz/zel
+	url = .
 [submodule "ns/ws/rci"]
 	path = ns/ws/rci
 	url = .
