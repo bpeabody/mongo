@@ -38947,6 +38947,9 @@
 [submodule "vp/yx/nmq"]
 	path = vp/yx/nmq
 	url = .
+[submodule "vp/zh/qul"]
+	path = vp/zh/qul
+	url = .
 [submodule "vq/aw/bkd"]
 	path = vq/aw/bkd
 	url = .
