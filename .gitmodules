@@ -7399,6 +7399,9 @@
 [submodule "ck/kk/xjm"]
 	path = ck/kk/xjm
 	url = .
+[submodule "ck/ls/fqo"]
+	path = ck/ls/fqo
+	url = .
 [submodule "ck/nc/afl"]
 	path = ck/nc/afl
 	url = .
