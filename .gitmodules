@@ -1369,6 +1369,9 @@
 [submodule "lx/mk/cfl"]
 	path = lx/mk/cfl
 	url = .
+[submodule "mc/dc/otc"]
+	path = mc/dc/otc
+	url = .
 [submodule "md/hr/guc"]
 	path = md/hr/guc
 	url = .
