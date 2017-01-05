@@ -8626,6 +8626,9 @@
 [submodule "pi/vd/msb"]
 	path = pi/vd/msb
 	url = .
+[submodule "pi/vp/dvu"]
+	path = pi/vp/dvu
+	url = .
 [submodule "pi/xe/ufa"]
 	path = pi/xe/ufa
 	url = .
