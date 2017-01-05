@@ -40201,6 +40201,9 @@
 [submodule "qx/bh/lxn"]
 	path = qx/bh/lxn
 	url = .
+[submodule "qx/bk/mqe"]
+	path = qx/bk/mqe
+	url = .
 [submodule "qx/bo/abr"]
 	path = qx/bo/abr
 	url = .
