@@ -46684,6 +46684,9 @@
 [submodule "qe/sx/rhw"]
 	path = qe/sx/rhw
 	url = .
+[submodule "qe/tr/yjr"]
+	path = qe/tr/yjr
+	url = .
 [submodule "qe/wd/bzb"]
 	path = qe/wd/bzb
 	url = .
