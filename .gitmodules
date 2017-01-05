@@ -19198,6 +19198,9 @@
 [submodule "ky/zw/fpe"]
 	path = ky/zw/fpe
 	url = .
+[submodule "kz/az/cae"]
+	path = kz/az/cae
+	url = .
 [submodule "kz/dp/lek"]
 	path = kz/dp/lek
 	url = .
