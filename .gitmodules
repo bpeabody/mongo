@@ -904,6 +904,9 @@
 [submodule "ai/fk/ikr"]
 	path = ai/fk/ikr
 	url = .
+[submodule "ai/fk/wgi"]
+	path = ai/fk/wgi
+	url = .
 [submodule "ai/fw/nee"]
 	path = ai/fw/nee
 	url = .
