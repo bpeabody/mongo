@@ -2455,6 +2455,9 @@
 [submodule "bv/vn/hww"]
 	path = bv/vn/hww
 	url = .
+[submodule "bv/xn/ved"]
+	path = bv/xn/ved
+	url = .
 [submodule "bv/yq/jzh"]
 	path = bv/yq/jzh
 	url = .
