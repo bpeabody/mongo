@@ -31066,6 +31066,9 @@
 [submodule "nw/xn/ffn"]
 	path = nw/xn/ffn
 	url = .
+[submodule "nw/yd/hip"]
+	path = nw/yd/hip
+	url = .
 [submodule "nx/aa/rzx"]
 	path = nx/aa/rzx
 	url = .
