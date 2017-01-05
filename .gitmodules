@@ -18535,6 +18535,9 @@
 [submodule "hy/vz/htd"]
 	path = hy/vz/htd
 	url = .
+[submodule "hy/wo/bdi"]
+	path = hy/wo/bdi
+	url = .
 [submodule "hy/wr/ciy"]
 	path = hy/wr/ciy
 	url = .
