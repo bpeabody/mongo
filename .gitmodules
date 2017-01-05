@@ -25252,6 +25252,9 @@
 [submodule "kl/fk/cqk"]
 	path = kl/fk/cqk
 	url = .
+[submodule "kl/fo/cdi"]
+	path = kl/fo/cdi
+	url = .
 [submodule "kl/fq/ezu"]
 	path = kl/fq/ezu
 	url = .
