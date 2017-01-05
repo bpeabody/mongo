@@ -11482,6 +11482,9 @@
 [submodule "xq/qo/uhg"]
 	path = xq/qo/uhg
 	url = .
+[submodule "xq/uu/tyq"]
+	path = xq/uu/tyq
+	url = .
 [submodule "xq/vo/uew"]
 	path = xq/vo/uew
 	url = .
