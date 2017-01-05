@@ -56065,6 +56065,9 @@
 [submodule "sz/lt/mcf"]
 	path = sz/lt/mcf
 	url = .
+[submodule "sz/mi/htg"]
+	path = sz/mi/htg
+	url = .
 [submodule "sz/ng/pog"]
 	path = sz/ng/pog
 	url = .
