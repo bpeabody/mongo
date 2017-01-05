@@ -5917,6 +5917,9 @@
 [submodule "ck/rb/fwn"]
 	path = ck/rb/fwn
 	url = .
+[submodule "ck/sw/ifx"]
+	path = ck/sw/ifx
+	url = .
 [submodule "ck/tn/wem"]
 	path = ck/tn/wem
 	url = .
