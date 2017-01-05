@@ -7591,6 +7591,9 @@
 [submodule "hu/qb/oqa"]
 	path = hu/qb/oqa
 	url = .
+[submodule "hu/qd/khl"]
+	path = hu/qd/khl
+	url = .
 [submodule "hu/uq/jpy"]
 	path = hu/uq/jpy
 	url = .
