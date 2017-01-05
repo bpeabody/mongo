@@ -1429,6 +1429,9 @@
 [submodule "ba/vp/pul"]
 	path = ba/vp/pul
 	url = .
+[submodule "ba/wm/pad"]
+	path = ba/wm/pad
+	url = .
 [submodule "ba/wp/uup"]
 	path = ba/wp/uup
 	url = .
