@@ -15178,6 +15178,9 @@
 [submodule "fy/di/fll"]
 	path = fy/di/fll
 	url = .
+[submodule "fy/dk/rdy"]
+	path = fy/dk/rdy
+	url = .
 [submodule "fy/em/ext"]
 	path = fy/em/ext
 	url = .
