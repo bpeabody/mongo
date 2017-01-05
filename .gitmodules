@@ -37654,6 +37654,9 @@
 [submodule "rc/rv/exs"]
 	path = rc/rv/exs
 	url = .
+[submodule "rc/sy/pqs"]
+	path = rc/sy/pqs
+	url = .
 [submodule "rc/um/ofy"]
 	path = rc/um/ofy
 	url = .
