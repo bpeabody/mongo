@@ -11719,6 +11719,9 @@
 [submodule "et/za/nmv"]
 	path = et/za/nmv
 	url = .
+[submodule "et/zi/enf"]
+	path = et/zi/enf
+	url = .
 [submodule "et/zp/whc"]
 	path = et/zp/whc
 	url = .
