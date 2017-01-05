@@ -15988,6 +15988,9 @@
 [submodule "tb/wn/opt"]
 	path = tb/wn/opt
 	url = .
+[submodule "tc/ai/nel"]
+	path = tc/ai/nel
+	url = .
 [submodule "tc/ap/cbn"]
 	path = tc/ap/cbn
 	url = .
