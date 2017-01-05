@@ -31402,6 +31402,9 @@
 [submodule "sk/sq/cpa"]
 	path = sk/sq/cpa
 	url = .
+[submodule "sk/us/vao"]
+	path = sk/us/vao
+	url = .
 [submodule "sk/uv/ada"]
 	path = sk/uv/ada
 	url = .
