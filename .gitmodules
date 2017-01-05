@@ -463,6 +463,9 @@
 [submodule "gl/og/xic"]
 	path = gl/og/xic
 	url = .
+[submodule "gl/wb/qst"]
+	path = gl/wb/qst
+	url = .
 [submodule "gn/ad/scv"]
 	path = gn/ad/scv
 	url = .
