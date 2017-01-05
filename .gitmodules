@@ -28069,6 +28069,9 @@
 [submodule "sh/qi/vta"]
 	path = sh/qi/vta
 	url = .
+[submodule "sh/rj/wrk"]
+	path = sh/rj/wrk
+	url = .
 [submodule "sh/so/khe"]
 	path = sh/so/khe
 	url = .
