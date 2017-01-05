@@ -35500,6 +35500,9 @@
 [submodule "sb/gz/sdc"]
 	path = sb/gz/sdc
 	url = .
+[submodule "sb/ie/vxy"]
+	path = sb/ie/vxy
+	url = .
 [submodule "sb/ml/psc"]
 	path = sb/ml/psc
 	url = .
