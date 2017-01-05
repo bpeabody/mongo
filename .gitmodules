@@ -24412,6 +24412,9 @@
 [submodule "no/og/kwn"]
 	path = no/og/kwn
 	url = .
+[submodule "no/pe/scc"]
+	path = no/pe/scc
+	url = .
 [submodule "no/po/fro"]
 	path = no/po/fro
 	url = .
