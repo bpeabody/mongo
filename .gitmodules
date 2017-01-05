@@ -1561,6 +1561,9 @@
 [submodule "uw/kn/fbv"]
 	path = uw/kn/fbv
 	url = .
+[submodule "va/fw/fkt"]
+	path = va/fw/fkt
+	url = .
 [submodule "vb/ip/gty"]
 	path = vb/ip/gty
 	url = .
