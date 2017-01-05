@@ -51142,6 +51142,9 @@
 [submodule "vd/uf/pfm"]
 	path = vd/uf/pfm
 	url = .
+[submodule "vd/vf/msn"]
+	path = vd/vf/msn
+	url = .
 [submodule "vd/wd/umn"]
 	path = vd/wd/umn
 	url = .
