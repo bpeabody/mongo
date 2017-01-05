@@ -3757,6 +3757,9 @@
 [submodule "fb/di/fqf"]
 	path = fb/di/fqf
 	url = .
+[submodule "fb/dj/mfi"]
+	path = fb/dj/mfi
+	url = .
 [submodule "fb/gz/fhc"]
 	path = fb/gz/fhc
 	url = .
