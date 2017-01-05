@@ -1909,6 +1909,9 @@
 [submodule "mo/ei/xti"]
 	path = mo/ei/xti
 	url = .
+[submodule "mp/hh/qcs"]
+	path = mp/hh/qcs
+	url = .
 [submodule "mp/ln/ufh"]
 	path = mp/ln/ufh
 	url = .
