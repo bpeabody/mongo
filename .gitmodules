@@ -4243,6 +4243,9 @@
 [submodule "dl/dy/acl"]
 	path = dl/dy/acl
 	url = .
+[submodule "dl/gu/egi"]
+	path = dl/gu/egi
+	url = .
 [submodule "dl/hh/mgb"]
 	path = dl/hh/mgb
 	url = .
