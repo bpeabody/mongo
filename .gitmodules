@@ -14542,6 +14542,9 @@
 [submodule "ir/rt/qei"]
 	path = ir/rt/qei
 	url = .
+[submodule "ir/sd/snm"]
+	path = ir/sd/snm
+	url = .
 [submodule "ir/tm/zec"]
 	path = ir/tm/zec
 	url = .
