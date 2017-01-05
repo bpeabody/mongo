@@ -18175,6 +18175,9 @@
 [submodule "kx/ym/xhw"]
 	path = kx/ym/xhw
 	url = .
+[submodule "ky/dw/pnw"]
+	path = ky/dw/pnw
+	url = .
 [submodule "ky/fo/ilq"]
 	path = ky/fo/ilq
 	url = .
