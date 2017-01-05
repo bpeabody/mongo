@@ -10603,6 +10603,9 @@
 [submodule "oe/bg/gct"]
 	path = oe/bg/gct
 	url = .
+[submodule "oe/by/rid"]
+	path = oe/by/rid
+	url = .
 [submodule "oe/fq/oxk"]
 	path = oe/fq/oxk
 	url = .
