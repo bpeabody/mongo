@@ -25084,6 +25084,9 @@
 [submodule "sw/eh/hep"]
 	path = sw/eh/hep
 	url = .
+[submodule "sw/ji/evb"]
+	path = sw/ji/evb
+	url = .
 [submodule "sw/rg/pqh"]
 	path = sw/rg/pqh
 	url = .
