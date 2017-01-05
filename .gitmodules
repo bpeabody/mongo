@@ -19,6 +19,9 @@
 [submodule "cl/vj/yrf"]
 	path = cl/vj/yrf
 	url = .
+[submodule "cp/lx/gql"]
+	path = cp/lx/gql
+	url = .
 [submodule "cy/ev/krb"]
 	path = cy/ev/krb
 	url = .
