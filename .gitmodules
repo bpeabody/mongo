@@ -2140,6 +2140,9 @@
 [submodule "fe/jn/uav"]
 	path = fe/jn/uav
 	url = .
+[submodule "fe/nb/iky"]
+	path = fe/nb/iky
+	url = .
 [submodule "fe/rt/wxd"]
 	path = fe/rt/wxd
 	url = .
