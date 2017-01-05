@@ -3100,6 +3100,9 @@
 [submodule "dh/we/nfj"]
 	path = dh/we/nfj
 	url = .
+[submodule "dh/wm/ehs"]
+	path = dh/wm/ehs
+	url = .
 [submodule "di/dx/bgw"]
 	path = di/dx/bgw
 	url = .
