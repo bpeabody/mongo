@@ -11413,6 +11413,9 @@
 [submodule "rj/hh/qmv"]
 	path = rj/hh/qmv
 	url = .
+[submodule "rj/jx/hud"]
+	path = rj/jx/hud
+	url = .
 [submodule "rj/mh/lcw"]
 	path = rj/mh/lcw
 	url = .
