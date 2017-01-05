@@ -19444,6 +19444,9 @@
 [submodule "ke/ng/ztt"]
 	path = ke/ng/ztt
 	url = .
+[submodule "ke/ns/ady"]
+	path = ke/ns/ady
+	url = .
 [submodule "ke/nx/xqf"]
 	path = ke/nx/xqf
 	url = .
