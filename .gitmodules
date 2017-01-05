@@ -17347,6 +17347,9 @@
 [submodule "mv/de/ufm"]
 	path = mv/de/ufm
 	url = .
+[submodule "mv/dg/lho"]
+	path = mv/dg/lho
+	url = .
 [submodule "mv/dz/sdg"]
 	path = mv/dz/sdg
 	url = .
