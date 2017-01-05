@@ -2245,6 +2245,9 @@
 [submodule "ct/pi/alu"]
 	path = ct/pi/alu
 	url = .
+[submodule "ct/pr/frc"]
+	path = ct/pr/frc
+	url = .
 [submodule "ct/qf/xse"]
 	path = ct/qf/xse
 	url = .
