@@ -31402,6 +31402,9 @@
 [submodule "wl/za/lzc"]
 	path = wl/za/lzc
 	url = .
+[submodule "wm/bg/mrc"]
+	path = wm/bg/mrc
+	url = .
 [submodule "wm/bu/qbe"]
 	path = wm/bu/qbe
 	url = .
