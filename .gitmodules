@@ -136,6 +136,9 @@
 [submodule "ab/hh/nth"]
 	path = ab/hh/nth
 	url = .
+[submodule "ab/ib/zqd"]
+	path = ab/ib/zqd
+	url = .
 [submodule "ab/ix/onx"]
 	path = ab/ix/onx
 	url = .
