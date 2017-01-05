@@ -2125,6 +2125,9 @@
 [submodule "qk/mu/gcj"]
 	path = qk/mu/gcj
 	url = .
+[submodule "qk/zu/olm"]
+	path = qk/zu/olm
+	url = .
 [submodule "ql/tq/jeo"]
 	path = ql/tq/jeo
 	url = .
