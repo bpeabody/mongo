@@ -2194,6 +2194,9 @@
 [submodule "gn/er/vcu"]
 	path = gn/er/vcu
 	url = .
+[submodule "gn/ez/bus"]
+	path = gn/ez/bus
+	url = .
 [submodule "gn/ij/ywb"]
 	path = gn/ij/ywb
 	url = .
