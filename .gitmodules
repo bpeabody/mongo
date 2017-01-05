@@ -1711,6 +1711,9 @@
 [submodule "av/dn/eyi"]
 	path = av/dn/eyi
 	url = .
+[submodule "av/fd/ply"]
+	path = av/fd/ply
+	url = .
 [submodule "av/fe/ugz"]
 	path = av/fe/ugz
 	url = .
