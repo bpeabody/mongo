@@ -9961,6 +9961,9 @@
 [submodule "uw/kn/fbv"]
 	path = uw/kn/fbv
 	url = .
+[submodule "uw/lb/vlf"]
+	path = uw/lb/vlf
+	url = .
 [submodule "uw/pv/daq"]
 	path = uw/pv/daq
 	url = .
