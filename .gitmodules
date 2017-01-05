@@ -13873,6 +13873,9 @@
 [submodule "sa/ka/biu"]
 	path = sa/ka/biu
 	url = .
+[submodule "sa/lm/aub"]
+	path = sa/lm/aub
+	url = .
 [submodule "sa/lr/gmr"]
 	path = sa/lr/gmr
 	url = .
