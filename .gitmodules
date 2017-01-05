@@ -7342,6 +7342,9 @@
 [submodule "ec/lm/kqb"]
 	path = ec/lm/kqb
 	url = .
+[submodule "ec/mf/zfe"]
+	path = ec/mf/zfe
+	url = .
 [submodule "ec/mh/bay"]
 	path = ec/mh/bay
 	url = .
