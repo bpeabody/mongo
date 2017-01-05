@@ -2362,6 +2362,9 @@
 [submodule "gq/uh/xnh"]
 	path = gq/uh/xnh
 	url = .
+[submodule "gr/bo/uhs"]
+	path = gr/bo/uhs
+	url = .
 [submodule "gr/gm/ttj"]
 	path = gr/gm/ttj
 	url = .
