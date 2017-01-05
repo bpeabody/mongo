@@ -4867,6 +4867,9 @@
 [submodule "hd/iy/sgr"]
 	path = hd/iy/sgr
 	url = .
+[submodule "hd/mf/hkb"]
+	path = hd/mf/hkb
+	url = .
 [submodule "hd/mu/pbe"]
 	path = hd/mu/pbe
 	url = .
