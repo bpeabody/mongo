@@ -3730,6 +3730,9 @@
 [submodule "bn/uh/yhc"]
 	path = bn/uh/yhc
 	url = .
+[submodule "bn/vd/awr"]
+	path = bn/vd/awr
+	url = .
 [submodule "bn/vy/xvn"]
 	path = bn/vy/xvn
 	url = .
