@@ -52948,6 +52948,9 @@
 [submodule "tc/bz/pdn"]
 	path = tc/bz/pdn
 	url = .
+[submodule "tc/cg/syg"]
+	path = tc/cg/syg
+	url = .
 [submodule "tc/cv/ejp"]
 	path = tc/cv/ejp
 	url = .
