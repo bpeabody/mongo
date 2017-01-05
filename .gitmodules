@@ -775,6 +775,9 @@
 [submodule "gn/kw/wav"]
 	path = gn/kw/wav
 	url = .
+[submodule "go/ah/cuk"]
+	path = go/ah/cuk
+	url = .
 [submodule "go/gc/yhq"]
 	path = go/gc/yhq
 	url = .
