@@ -6253,6 +6253,9 @@
 [submodule "eh/xu/ojl"]
 	path = eh/xu/ojl
 	url = .
+[submodule "eh/zf/bbn"]
+	path = eh/zf/bbn
+	url = .
 [submodule "ei/af/zmk"]
 	path = ei/af/zmk
 	url = .
