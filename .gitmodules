@@ -23629,6 +23629,9 @@
 [submodule "hz/ug/ion"]
 	path = hz/ug/ion
 	url = .
+[submodule "hz/ui/qsw"]
+	path = hz/ui/qsw
+	url = .
 [submodule "hz/um/tvr"]
 	path = hz/um/tvr
 	url = .
