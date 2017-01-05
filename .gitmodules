@@ -23092,6 +23092,9 @@
 [submodule "is/et/hrk"]
 	path = is/et/hrk
 	url = .
+[submodule "is/if/hub"]
+	path = is/if/hub
+	url = .
 [submodule "is/ir/uhi"]
 	path = is/ir/uhi
 	url = .
