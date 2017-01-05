@@ -3619,6 +3619,9 @@
 [submodule "op/ig/fln"]
 	path = op/ig/fln
 	url = .
+[submodule "oq/gz/uqx"]
+	path = oq/gz/uqx
+	url = .
 [submodule "oq/if/dip"]
 	path = oq/if/dip
 	url = .
