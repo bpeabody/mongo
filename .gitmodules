@@ -68551,6 +68551,9 @@
 [submodule "xn/ws/sdb"]
 	path = xn/ws/sdb
 	url = .
+[submodule "xn/xf/jea"]
+	path = xn/xf/jea
+	url = .
 [submodule "xn/xm/hvi"]
 	path = xn/xm/hvi
 	url = .
