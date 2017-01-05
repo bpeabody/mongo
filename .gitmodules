@@ -19513,6 +19513,9 @@
 [submodule "np/dy/bbg"]
 	path = np/dy/bbg
 	url = .
+[submodule "np/ee/mgk"]
+	path = np/ee/mgk
+	url = .
 [submodule "np/ex/wye"]
 	path = np/ex/wye
 	url = .
