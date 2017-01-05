@@ -42070,6 +42070,9 @@
 [submodule "sa/wk/zmz"]
 	path = sa/wk/zmz
 	url = .
+[submodule "sa/yb/vbe"]
+	path = sa/yb/vbe
+	url = .
 [submodule "sb/bz/vtu"]
 	path = sb/bz/vtu
 	url = .
