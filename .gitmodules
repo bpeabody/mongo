@@ -2860,6 +2860,9 @@
 [submodule "ja/ol/mml"]
 	path = ja/ol/mml
 	url = .
+[submodule "ja/ue/sux"]
+	path = ja/ue/sux
+	url = .
 [submodule "jb/bh/hop"]
 	path = jb/bh/hop
 	url = .
