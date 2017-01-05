@@ -25630,6 +25630,9 @@
 [submodule "ly/ix/wbm"]
 	path = ly/ix/wbm
 	url = .
+[submodule "ly/kf/orx"]
+	path = ly/kf/orx
+	url = .
 [submodule "ly/nj/ime"]
 	path = ly/nj/ime
 	url = .
