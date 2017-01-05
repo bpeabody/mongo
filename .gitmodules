@@ -748,6 +748,9 @@
 [submodule "nx/bs/wir"]
 	path = nx/bs/wir
 	url = .
+[submodule "ny/fl/mrb"]
+	path = ny/fl/mrb
+	url = .
 [submodule "ny/wj/mrz"]
 	path = ny/wj/mrz
 	url = .
