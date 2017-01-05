@@ -9130,6 +9130,9 @@
 [submodule "sc/sm/ezq"]
 	path = sc/sm/ezq
 	url = .
+[submodule "sc/xi/lpo"]
+	path = sc/xi/lpo
+	url = .
 [submodule "sc/xn/heb"]
 	path = sc/xn/heb
 	url = .
