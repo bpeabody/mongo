@@ -39862,6 +39862,9 @@
 [submodule "wp/jt/ask"]
 	path = wp/jt/ask
 	url = .
+[submodule "wp/kr/ktt"]
+	path = wp/kr/ktt
+	url = .
 [submodule "wp/on/jbf"]
 	path = wp/on/jbf
 	url = .
