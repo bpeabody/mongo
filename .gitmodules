@@ -15544,6 +15544,9 @@
 [submodule "gp/kk/wcp"]
 	path = gp/kk/wcp
 	url = .
+[submodule "gp/kp/wcf"]
+	path = gp/kp/wcf
+	url = .
 [submodule "gp/mr/mji"]
 	path = gp/mr/mji
 	url = .
