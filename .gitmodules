@@ -9184,6 +9184,9 @@
 [submodule "pi/ub/emp"]
 	path = pi/ub/emp
 	url = .
+[submodule "pi/uu/juu"]
+	path = pi/uu/juu
+	url = .
 [submodule "pi/vd/msb"]
 	path = pi/vd/msb
 	url = .
