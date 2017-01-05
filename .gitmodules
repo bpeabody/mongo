@@ -4660,6 +4660,9 @@
 [submodule "gx/ry/hqv"]
 	path = gx/ry/hqv
 	url = .
+[submodule "gx/ts/jyl"]
+	path = gx/ts/jyl
+	url = .
 [submodule "gx/vw/usw"]
 	path = gx/vw/usw
 	url = .
