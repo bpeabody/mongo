@@ -14854,6 +14854,9 @@
 [submodule "vc/cf/knw"]
 	path = vc/cf/knw
 	url = .
+[submodule "vc/fn/ffc"]
+	path = vc/fn/ffc
+	url = .
 [submodule "vc/hy/dod"]
 	path = vc/hy/dod
 	url = .
