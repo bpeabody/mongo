@@ -15031,6 +15031,9 @@
 [submodule "ik/ek/eva"]
 	path = ik/ek/eva
 	url = .
+[submodule "ik/em/jax"]
+	path = ik/em/jax
+	url = .
 [submodule "ik/fq/rbw"]
 	path = ik/fq/rbw
 	url = .
