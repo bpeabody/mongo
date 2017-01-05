@@ -3940,6 +3940,9 @@
 [submodule "cl/er/rxh"]
 	path = cl/er/rxh
 	url = .
+[submodule "cl/fj/edu"]
+	path = cl/fj/edu
+	url = .
 [submodule "cl/ht/ioq"]
 	path = cl/ht/ioq
 	url = .
