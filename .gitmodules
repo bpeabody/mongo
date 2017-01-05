@@ -57730,6 +57730,9 @@
 [submodule "ua/my/qnm"]
 	path = ua/my/qnm
 	url = .
+[submodule "ua/on/uxx"]
+	path = ua/on/uxx
+	url = .
 [submodule "ua/ph/urj"]
 	path = ua/ph/urj
 	url = .
