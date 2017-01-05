@@ -30649,6 +30649,9 @@
 [submodule "tc/lf/fpk"]
 	path = tc/lf/fpk
 	url = .
+[submodule "tc/mi/app"]
+	path = tc/mi/app
+	url = .
 [submodule "tc/mj/opd"]
 	path = tc/mj/opd
 	url = .
