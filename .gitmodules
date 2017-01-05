@@ -41152,6 +41152,9 @@
 [submodule "xg/ds/eas"]
 	path = xg/ds/eas
 	url = .
+[submodule "xg/gw/ewi"]
+	path = xg/gw/ewi
+	url = .
 [submodule "xg/ic/vee"]
 	path = xg/ic/vee
 	url = .
