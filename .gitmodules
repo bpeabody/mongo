@@ -2605,6 +2605,9 @@
 [submodule "ot/zh/kdd"]
 	path = ot/zh/kdd
 	url = .
+[submodule "ou/fd/jjq"]
+	path = ou/fd/jjq
+	url = .
 [submodule "ou/jl/qaf"]
 	path = ou/jl/qaf
 	url = .
