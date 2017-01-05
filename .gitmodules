@@ -7033,6 +7033,9 @@
 [submodule "rv/oe/eix"]
 	path = rv/oe/eix
 	url = .
+[submodule "rv/pv/gal"]
+	path = rv/pv/gal
+	url = .
 [submodule "rv/vn/nue"]
 	path = rv/vn/nue
 	url = .
