@@ -11173,6 +11173,9 @@
 [submodule "fs/st/sdd"]
 	path = fs/st/sdd
 	url = .
+[submodule "fs/tl/jqx"]
+	path = fs/tl/jqx
+	url = .
 [submodule "fs/tm/njg"]
 	path = fs/tm/njg
 	url = .
