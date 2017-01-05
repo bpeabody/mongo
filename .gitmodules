@@ -5137,6 +5137,9 @@
 [submodule "dy/xe/ogr"]
 	path = dy/xe/ogr
 	url = .
+[submodule "dy/zy/xcq"]
+	path = dy/zy/xcq
+	url = .
 [submodule "dz/ex/yoq"]
 	path = dz/ex/yoq
 	url = .
