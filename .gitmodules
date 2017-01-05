@@ -6958,6 +6958,9 @@
 [submodule "lh/zm/jvb"]
 	path = lh/zm/jvb
 	url = .
+[submodule "li/av/wsk"]
+	path = li/av/wsk
+	url = .
 [submodule "li/cd/lfw"]
 	path = li/cd/lfw
 	url = .
