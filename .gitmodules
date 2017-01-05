@@ -11869,6 +11869,9 @@
 [submodule "kr/cx/qjg"]
 	path = kr/cx/qjg
 	url = .
+[submodule "kr/fa/npk"]
+	path = kr/fa/npk
+	url = .
 [submodule "kr/fs/svx"]
 	path = kr/fs/svx
 	url = .
