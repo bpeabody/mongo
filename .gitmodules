@@ -5008,6 +5008,9 @@
 [submodule "ki/au/grq"]
 	path = ki/au/grq
 	url = .
+[submodule "ki/dw/aje"]
+	path = ki/dw/aje
+	url = .
 [submodule "ki/hx/keg"]
 	path = ki/hx/keg
 	url = .
