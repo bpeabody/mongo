@@ -13708,6 +13708,9 @@
 [submodule "ng/cz/rln"]
 	path = ng/cz/rln
 	url = .
+[submodule "ng/da/vkb"]
+	path = ng/da/vkb
+	url = .
 [submodule "ng/df/efg"]
 	path = ng/df/efg
 	url = .
