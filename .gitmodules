@@ -322,6 +322,9 @@
 [submodule "ae/rb/glq"]
 	path = ae/rb/glq
 	url = .
+[submodule "ae/rl/squ"]
+	path = ae/rl/squ
+	url = .
 [submodule "ae/ry/vve"]
 	path = ae/ry/vve
 	url = .
