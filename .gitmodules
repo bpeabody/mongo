@@ -463,6 +463,9 @@
 [submodule "az/yx/gdm"]
 	path = az/yx/gdm
 	url = .
+[submodule "ba/ch/clt"]
+	path = ba/ch/clt
+	url = .
 [submodule "ba/ng/fry"]
 	path = ba/ng/fry
 	url = .
