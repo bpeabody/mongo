@@ -15715,6 +15715,9 @@
 [submodule "hh/am/rqa"]
 	path = hh/am/rqa
 	url = .
+[submodule "hh/av/atl"]
+	path = hh/av/atl
+	url = .
 [submodule "hh/ax/xtq"]
 	path = hh/ax/xtq
 	url = .
