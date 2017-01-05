@@ -12460,6 +12460,9 @@
 [submodule "fq/gm/jto"]
 	path = fq/gm/jto
 	url = .
+[submodule "fq/gt/del"]
+	path = fq/gt/del
+	url = .
 [submodule "fq/gu/hvr"]
 	path = fq/gu/hvr
 	url = .
