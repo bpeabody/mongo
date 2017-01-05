@@ -6961,6 +6961,9 @@
 [submodule "fe/ge/ouj"]
 	path = fe/ge/ouj
 	url = .
+[submodule "fe/gm/rlb"]
+	path = fe/gm/rlb
+	url = .
 [submodule "fe/gu/ron"]
 	path = fe/gu/ron
 	url = .
