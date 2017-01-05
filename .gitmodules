@@ -4981,6 +4981,9 @@
 [submodule "kq/fv/fcm"]
 	path = kq/fv/fcm
 	url = .
+[submodule "kq/jj/ybd"]
+	path = kq/jj/ybd
+	url = .
 [submodule "kq/vm/ozg"]
 	path = kq/vm/ozg
 	url = .
