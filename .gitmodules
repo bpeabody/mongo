@@ -45100,6 +45100,9 @@
 [submodule "rd/dm/xuu"]
 	path = rd/dm/xuu
 	url = .
+[submodule "rd/fe/eab"]
+	path = rd/fe/eab
+	url = .
 [submodule "rd/fo/ixb"]
 	path = rd/fo/ixb
 	url = .
