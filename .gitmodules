@@ -11386,6 +11386,9 @@
 [submodule "ep/at/epj"]
 	path = ep/at/epj
 	url = .
+[submodule "ep/bl/cci"]
+	path = ep/bl/cci
+	url = .
 [submodule "ep/bq/xbu"]
 	path = ep/bq/xbu
 	url = .
