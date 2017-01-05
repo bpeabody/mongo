@@ -24442,6 +24442,9 @@
 [submodule "yi/tz/tqi"]
 	path = yi/tz/tqi
 	url = .
+[submodule "yi/uo/vrn"]
+	path = yi/uo/vrn
+	url = .
 [submodule "yi/wl/fup"]
 	path = yi/wl/fup
 	url = .
