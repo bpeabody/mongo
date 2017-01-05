@@ -31270,6 +31270,9 @@
 [submodule "xf/su/myt"]
 	path = xf/su/myt
 	url = .
+[submodule "xf/vr/nai"]
+	path = xf/vr/nai
+	url = .
 [submodule "xf/wr/nvs"]
 	path = xf/wr/nvs
 	url = .
