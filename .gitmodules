@@ -53287,6 +53287,9 @@
 [submodule "uo/ud/ezi"]
 	path = uo/ud/ezi
 	url = .
+[submodule "uo/vr/osc"]
+	path = uo/vr/osc
+	url = .
 [submodule "uo/wy/lro"]
 	path = uo/wy/lro
 	url = .
