@@ -15157,6 +15157,9 @@
 [submodule "uz/nt/atf"]
 	path = uz/nt/atf
 	url = .
+[submodule "uz/pz/tnx"]
+	path = uz/pz/tnx
+	url = .
 [submodule "va/fw/fkt"]
 	path = va/fw/fkt
 	url = .
