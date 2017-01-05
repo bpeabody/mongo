@@ -3193,6 +3193,9 @@
 [submodule "be/ci/ijm"]
 	path = be/ci/ijm
 	url = .
+[submodule "be/ck/xek"]
+	path = be/ck/xek
+	url = .
 [submodule "be/cp/pyd"]
 	path = be/cp/pyd
 	url = .
