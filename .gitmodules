@@ -1453,6 +1453,9 @@
 [submodule "bm/go/vbn"]
 	path = bm/go/vbn
 	url = .
+[submodule "bm/gq/jpi"]
+	path = bm/gq/jpi
+	url = .
 [submodule "bm/hb/vor"]
 	path = bm/hb/vor
 	url = .
