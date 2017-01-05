@@ -27880,6 +27880,9 @@
 [submodule "mo/jm/qtx"]
 	path = mo/jm/qtx
 	url = .
+[submodule "mo/ll/pde"]
+	path = mo/ll/pde
+	url = .
 [submodule "mo/ln/dhi"]
 	path = mo/ln/dhi
 	url = .
