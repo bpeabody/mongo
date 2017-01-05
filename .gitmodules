@@ -10321,6 +10321,9 @@
 [submodule "dm/jl/pvg"]
 	path = dm/jl/pvg
 	url = .
+[submodule "dm/jq/emt"]
+	path = dm/jq/emt
+	url = .
 [submodule "dm/kg/bes"]
 	path = dm/kg/bes
 	url = .
