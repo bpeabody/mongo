@@ -3547,6 +3547,9 @@
 [submodule "qz/bf/lkq"]
 	path = qz/bf/lkq
 	url = .
+[submodule "qz/bn/wcs"]
+	path = qz/bn/wcs
+	url = .
 [submodule "qz/jf/iwg"]
 	path = qz/jf/iwg
 	url = .
