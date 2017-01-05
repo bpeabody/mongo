@@ -16582,6 +16582,9 @@
 [submodule "rh/rd/xrl"]
 	path = rh/rd/xrl
 	url = .
+[submodule "rh/su/cxq"]
+	path = rh/su/cxq
+	url = .
 [submodule "ri/bc/bkc"]
 	path = ri/bc/bkc
 	url = .
