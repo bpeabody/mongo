@@ -1324,6 +1324,9 @@
 [submodule "co/gz/tri"]
 	path = co/gz/tri
 	url = .
+[submodule "co/iz/fxn"]
+	path = co/iz/fxn
+	url = .
 [submodule "co/of/qoi"]
 	path = co/of/qoi
 	url = .
