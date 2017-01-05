@@ -15019,6 +15019,9 @@
 [submodule "ju/xi/lkg"]
 	path = ju/xi/lkg
 	url = .
+[submodule "ju/xi/nxl"]
+	path = ju/xi/nxl
+	url = .
 [submodule "ju/xv/fjd"]
 	path = ju/xv/fjd
 	url = .
