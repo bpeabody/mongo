@@ -13222,6 +13222,9 @@
 [submodule "kd/da/pys"]
 	path = kd/da/pys
 	url = .
+[submodule "kd/et/ptp"]
+	path = kd/et/ptp
+	url = .
 [submodule "kd/he/gyd"]
 	path = kd/he/gyd
 	url = .
