@@ -436,6 +436,9 @@
 [submodule "cz/fr/tlp"]
 	path = cz/fr/tlp
 	url = .
+[submodule "da/fs/wna"]
+	path = da/fs/wna
+	url = .
 [submodule "db/aw/yos"]
 	path = db/aw/yos
 	url = .
