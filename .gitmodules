@@ -1816,6 +1816,9 @@
 [submodule "dm/ex/ixc"]
 	path = dm/ex/ixc
 	url = .
+[submodule "dm/hc/ktc"]
+	path = dm/hc/ktc
+	url = .
 [submodule "dm/ir/lvl"]
 	path = dm/ir/lvl
 	url = .
