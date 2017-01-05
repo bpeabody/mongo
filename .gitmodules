@@ -24952,6 +24952,9 @@
 [submodule "xv/hb/umk"]
 	path = xv/hb/umk
 	url = .
+[submodule "xv/hr/vnd"]
+	path = xv/hr/vnd
+	url = .
 [submodule "xv/kk/nnd"]
 	path = xv/kk/nnd
 	url = .
