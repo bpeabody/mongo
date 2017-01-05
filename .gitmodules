@@ -21448,6 +21448,9 @@
 [submodule "jt/bs/zqq"]
 	path = jt/bs/zqq
 	url = .
+[submodule "jt/dh/kum"]
+	path = jt/dh/kum
+	url = .
 [submodule "jt/ff/dlg"]
 	path = jt/ff/dlg
 	url = .
