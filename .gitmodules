@@ -25369,6 +25369,9 @@
 [submodule "iz/lc/xcd"]
 	path = iz/lc/xcd
 	url = .
+[submodule "iz/lk/acq"]
+	path = iz/lk/acq
+	url = .
 [submodule "iz/lv/flj"]
 	path = iz/lv/flj
 	url = .
