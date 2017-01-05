@@ -8164,6 +8164,9 @@
 [submodule "dp/pg/dnf"]
 	path = dp/pg/dnf
 	url = .
+[submodule "dp/py/tef"]
+	path = dp/py/tef
+	url = .
 [submodule "dp/pz/qjf"]
 	path = dp/pz/qjf
 	url = .
