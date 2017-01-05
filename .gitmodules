@@ -30829,6 +30829,9 @@
 [submodule "zg/ir/qnq"]
 	path = zg/ir/qnq
 	url = .
+[submodule "zg/ji/ivx"]
+	path = zg/ji/ivx
+	url = .
 [submodule "zg/kx/jsi"]
 	path = zg/kx/jsi
 	url = .
