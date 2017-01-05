@@ -48103,6 +48103,9 @@
 [submodule "ub/ih/fpd"]
 	path = ub/ih/fpd
 	url = .
+[submodule "ub/ip/xuu"]
+	path = ub/ip/xuu
+	url = .
 [submodule "ub/iw/mbv"]
 	path = ub/iw/mbv
 	url = .
