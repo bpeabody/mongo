@@ -2122,6 +2122,9 @@
 [submodule "db/pu/nmu"]
 	path = db/pu/nmu
 	url = .
+[submodule "dc/hf/ygd"]
+	path = dc/hf/ygd
+	url = .
 [submodule "dc/jj/rzx"]
 	path = dc/jj/rzx
 	url = .
