@@ -9856,6 +9856,9 @@
 [submodule "fu/oi/mud"]
 	path = fu/oi/mud
 	url = .
+[submodule "fu/ok/kwz"]
+	path = fu/ok/kwz
+	url = .
 [submodule "fu/qk/ccv"]
 	path = fu/qk/ccv
 	url = .
