@@ -2671,6 +2671,9 @@
 [submodule "bi/if/dfn"]
 	path = bi/if/dfn
 	url = .
+[submodule "bi/io/xwj"]
+	path = bi/io/xwj
+	url = .
 [submodule "bi/kc/rba"]
 	path = bi/kc/rba
 	url = .
