@@ -6775,6 +6775,9 @@
 [submodule "nm/oo/kpv"]
 	path = nm/oo/kpv
 	url = .
+[submodule "nm/ps/pjx"]
+	path = nm/ps/pjx
+	url = .
 [submodule "nm/re/dwi"]
 	path = nm/re/dwi
 	url = .
