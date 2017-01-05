@@ -5776,6 +5776,9 @@
 [submodule "fc/zd/zcs"]
 	path = fc/zd/zcs
 	url = .
+[submodule "fd/cs/cop"]
+	path = fd/cs/cop
+	url = .
 [submodule "fd/fr/fgf"]
 	path = fd/fr/fgf
 	url = .
