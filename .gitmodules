@@ -56965,6 +56965,9 @@
 [submodule "tk/ha/uud"]
 	path = tk/ha/uud
 	url = .
+[submodule "tk/hv/wrq"]
+	path = tk/hv/wrq
+	url = .
 [submodule "tk/ia/fuz"]
 	path = tk/ia/fuz
 	url = .
