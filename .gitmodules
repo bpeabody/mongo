@@ -18514,6 +18514,9 @@
 [submodule "ni/wa/hib"]
 	path = ni/wa/hib
 	url = .
+[submodule "nj/bj/knz"]
+	path = nj/bj/knz
+	url = .
 [submodule "nj/bk/lft"]
 	path = nj/bk/lft
 	url = .
