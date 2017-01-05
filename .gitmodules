@@ -33880,6 +33880,9 @@
 [submodule "sm/vi/jnz"]
 	path = sm/vi/jnz
 	url = .
+[submodule "sm/vv/npc"]
+	path = sm/vv/npc
+	url = .
 [submodule "sm/wp/wli"]
 	path = sm/wp/wli
 	url = .
