@@ -25768,6 +25768,9 @@
 [submodule "rt/pd/swk"]
 	path = rt/pd/swk
 	url = .
+[submodule "rt/qb/zxk"]
+	path = rt/qb/zxk
+	url = .
 [submodule "rt/sd/vev"]
 	path = rt/sd/vev
 	url = .
