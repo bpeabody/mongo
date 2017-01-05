@@ -18850,6 +18850,9 @@
 [submodule "nb/ms/pkh"]
 	path = nb/ms/pkh
 	url = .
+[submodule "nb/nv/qpy"]
+	path = nb/nv/qpy
+	url = .
 [submodule "nb/sh/esv"]
 	path = nb/sh/esv
 	url = .
