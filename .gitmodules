@@ -40225,6 +40225,9 @@
 [submodule "wl/qt/lwx"]
 	path = wl/qt/lwx
 	url = .
+[submodule "wl/rw/snb"]
+	path = wl/rw/snb
+	url = .
 [submodule "wl/sy/lxy"]
 	path = wl/sy/lxy
 	url = .
