@@ -487,6 +487,9 @@
 [submodule "jj/vc/pii"]
 	path = jj/vc/pii
 	url = .
+[submodule "jl/xg/jto"]
+	path = jl/xg/jto
+	url = .
 [submodule "jq/su/rrf"]
 	path = jq/su/rrf
 	url = .
