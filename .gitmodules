@@ -1459,6 +1459,9 @@
 [submodule "cx/uy/gab"]
 	path = cx/uy/gab
 	url = .
+[submodule "cx/za/oqt"]
+	path = cx/za/oqt
+	url = .
 [submodule "cy/de/oov"]
 	path = cy/de/oov
 	url = .
