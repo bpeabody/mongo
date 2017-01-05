@@ -13645,6 +13645,9 @@
 [submodule "vg/ih/jvi"]
 	path = vg/ih/jvi
 	url = .
+[submodule "vg/na/sjy"]
+	path = vg/na/sjy
+	url = .
 [submodule "vg/pt/bst"]
 	path = vg/pt/bst
 	url = .
