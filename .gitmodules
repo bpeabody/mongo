@@ -14122,6 +14122,9 @@
 [submodule "ib/ep/owd"]
 	path = ib/ep/owd
 	url = .
+[submodule "ib/et/xmc"]
+	path = ib/et/xmc
+	url = .
 [submodule "ib/hc/whx"]
 	path = ib/hc/whx
 	url = .
