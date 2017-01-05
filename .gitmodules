@@ -17671,6 +17671,9 @@
 [submodule "ip/yk/vom"]
 	path = ip/yk/vom
 	url = .
+[submodule "ip/ys/ura"]
+	path = ip/ys/ura
+	url = .
 [submodule "iq/bc/rhd"]
 	path = iq/bc/rhd
 	url = .
