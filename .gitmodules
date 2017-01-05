@@ -136,6 +136,9 @@
 [submodule "ac/ld/kss"]
 	path = ac/ld/kss
 	url = .
+[submodule "ac/lq/nbe"]
+	path = ac/lq/nbe
+	url = .
 [submodule "ac/mj/bfb"]
 	path = ac/mj/bfb
 	url = .
