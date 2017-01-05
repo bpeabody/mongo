@@ -25543,6 +25543,9 @@
 [submodule "mb/hs/mmb"]
 	path = mb/hs/mmb
 	url = .
+[submodule "mb/jl/njr"]
+	path = mb/jl/njr
+	url = .
 [submodule "mb/jy/sxw"]
 	path = mb/jy/sxw
 	url = .
