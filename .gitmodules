@@ -5839,6 +5839,9 @@
 [submodule "wc/vt/dcr"]
 	path = wc/vt/dcr
 	url = .
+[submodule "wd/tg/oie"]
+	path = wd/tg/oie
+	url = .
 [submodule "wd/ve/rth"]
 	path = wd/ve/rth
 	url = .
