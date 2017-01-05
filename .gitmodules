@@ -18685,6 +18685,9 @@
 [submodule "gv/bg/ztf"]
 	path = gv/bg/ztf
 	url = .
+[submodule "gv/bw/vxp"]
+	path = gv/bw/vxp
+	url = .
 [submodule "gv/cn/geh"]
 	path = gv/cn/geh
 	url = .
