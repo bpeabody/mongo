@@ -6247,6 +6247,9 @@
 [submodule "ha/lj/lqm"]
 	path = ha/lj/lqm
 	url = .
+[submodule "ha/nh/wsg"]
+	path = ha/nh/wsg
+	url = .
 [submodule "ha/rp/lud"]
 	path = ha/rp/lud
 	url = .
