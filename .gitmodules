@@ -17497,6 +17497,9 @@
 [submodule "ks/cs/sdh"]
 	path = ks/cs/sdh
 	url = .
+[submodule "ks/iu/jve"]
+	path = ks/iu/jve
+	url = .
 [submodule "ks/ma/apu"]
 	path = ks/ma/apu
 	url = .
