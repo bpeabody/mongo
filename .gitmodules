@@ -2044,6 +2044,9 @@
 [submodule "bd/qp/jbd"]
 	path = bd/qp/jbd
 	url = .
+[submodule "bd/tk/reu"]
+	path = bd/tk/reu
+	url = .
 [submodule "bd/ve/rmt"]
 	path = bd/ve/rmt
 	url = .
