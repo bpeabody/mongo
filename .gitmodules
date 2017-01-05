@@ -2215,6 +2215,9 @@
 [submodule "ha/ea/nsr"]
 	path = ha/ea/nsr
 	url = .
+[submodule "ha/rp/lud"]
+	path = ha/rp/lud
+	url = .
 [submodule "hb/eg/ksr"]
 	path = hb/eg/ksr
 	url = .
