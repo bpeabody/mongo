@@ -4030,6 +4030,9 @@
 [submodule "dv/ng/jsc"]
 	path = dv/ng/jsc
 	url = .
+[submodule "dv/pm/uuq"]
+	path = dv/pm/uuq
+	url = .
 [submodule "dv/wz/xxu"]
 	path = dv/wz/xxu
 	url = .
