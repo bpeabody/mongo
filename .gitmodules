@@ -7072,6 +7072,9 @@
 [submodule "xg/bm/svd"]
 	path = xg/bm/svd
 	url = .
+[submodule "xg/dh/ypq"]
+	path = xg/dh/ypq
+	url = .
 [submodule "xg/jn/kml"]
 	path = xg/jn/kml
 	url = .
