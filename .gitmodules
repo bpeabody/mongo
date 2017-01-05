@@ -40561,6 +40561,9 @@
 [submodule "pw/fi/wdb"]
 	path = pw/fi/wdb
 	url = .
+[submodule "pw/gn/jga"]
+	path = pw/gn/jga
+	url = .
 [submodule "pw/hm/aiw"]
 	path = pw/hm/aiw
 	url = .
