@@ -8164,6 +8164,9 @@
 [submodule "tl/ru/ggg"]
 	path = tl/ru/ggg
 	url = .
+[submodule "tm/ag/btd"]
+	path = tm/ag/btd
+	url = .
 [submodule "tm/cc/enq"]
 	path = tm/cc/enq
 	url = .
