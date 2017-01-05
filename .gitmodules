@@ -16375,6 +16375,9 @@
 [submodule "gd/uq/szj"]
 	path = gd/uq/szj
 	url = .
+[submodule "gd/vb/uid"]
+	path = gd/vb/uid
+	url = .
 [submodule "gd/vd/jwe"]
 	path = gd/vd/jwe
 	url = .
