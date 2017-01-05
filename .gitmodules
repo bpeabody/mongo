@@ -8347,6 +8347,9 @@
 [submodule "qr/zc/dff"]
 	path = qr/zc/dff
 	url = .
+[submodule "qs/bw/plr"]
+	path = qs/bw/plr
+	url = .
 [submodule "qs/ck/usm"]
 	path = qs/ck/usm
 	url = .
