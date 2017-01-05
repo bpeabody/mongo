@@ -3733,6 +3733,9 @@
 [submodule "fu/mj/rmc"]
 	path = fu/mj/rmc
 	url = .
+[submodule "fu/mr/gqj"]
+	path = fu/mr/gqj
+	url = .
 [submodule "fu/qk/ccv"]
 	path = fu/qk/ccv
 	url = .
