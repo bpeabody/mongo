@@ -15790,6 +15790,9 @@
 [submodule "vm/ew/ugt"]
 	path = vm/ew/ugt
 	url = .
+[submodule "vm/sa/iky"]
+	path = vm/sa/iky
+	url = .
 [submodule "vm/sq/tbq"]
 	path = vm/sq/tbq
 	url = .
