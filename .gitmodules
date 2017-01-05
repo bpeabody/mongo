@@ -7306,6 +7306,9 @@
 [submodule "dr/pl/pao"]
 	path = dr/pl/pao
 	url = .
+[submodule "dr/pn/ngd"]
+	path = dr/pn/ngd
+	url = .
 [submodule "dr/ra/ilv"]
 	path = dr/ra/ilv
 	url = .
