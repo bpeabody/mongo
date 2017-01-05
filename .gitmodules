@@ -53839,6 +53839,9 @@
 [submodule "zh/hh/inr"]
 	path = zh/hh/inr
 	url = .
+[submodule "zh/hp/kqu"]
+	path = zh/hp/kqu
+	url = .
 [submodule "zh/ir/amr"]
 	path = zh/ir/amr
 	url = .
