@@ -6379,6 +6379,9 @@
 [submodule "ql/dd/xaq"]
 	path = ql/dd/xaq
 	url = .
+[submodule "ql/pq/nvy"]
+	path = ql/pq/nvy
+	url = .
 [submodule "ql/tq/jeo"]
 	path = ql/tq/jeo
 	url = .
