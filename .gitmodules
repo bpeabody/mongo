@@ -4141,6 +4141,9 @@
 [submodule "fi/ie/mcq"]
 	path = fi/ie/mcq
 	url = .
+[submodule "fi/io/njs"]
+	path = fi/io/njs
+	url = .
 [submodule "fi/my/npa"]
 	path = fi/my/npa
 	url = .
