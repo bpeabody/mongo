@@ -22858,6 +22858,9 @@
 [submodule "rv/ko/dym"]
 	path = rv/ko/dym
 	url = .
+[submodule "rv/li/jtq"]
+	path = rv/li/jtq
+	url = .
 [submodule "rv/me/ajd"]
 	path = rv/me/ajd
 	url = .
