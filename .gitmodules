@@ -26140,6 +26140,9 @@
 [submodule "jr/hv/equ"]
 	path = jr/hv/equ
 	url = .
+[submodule "jr/in/xru"]
+	path = jr/in/xru
+	url = .
 [submodule "jr/iu/oka"]
 	path = jr/iu/oka
 	url = .
