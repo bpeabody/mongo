@@ -307,6 +307,9 @@
 [submodule "in/ef/ein"]
 	path = in/ef/ein
 	url = .
+[submodule "io/rv/ich"]
+	path = io/rv/ich
+	url = .
 [submodule "ip/al/aal"]
 	path = ip/al/aal
 	url = .
