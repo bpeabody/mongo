@@ -1063,6 +1063,9 @@
 [submodule "xd/xd/czf"]
 	path = xd/xd/czf
 	url = .
+[submodule "xd/xq/obt"]
+	path = xd/xq/obt
+	url = .
 [submodule "xd/xz/sum"]
 	path = xd/xz/sum
 	url = .
