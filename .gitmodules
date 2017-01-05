@@ -2068,6 +2068,9 @@
 [submodule "bz/oi/lms"]
 	path = bz/oi/lms
 	url = .
+[submodule "bz/ql/xvh"]
+	path = bz/ql/xvh
+	url = .
 [submodule "bz/rn/bjk"]
 	path = bz/rn/bjk
 	url = .
