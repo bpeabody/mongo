@@ -652,6 +652,9 @@
 [submodule "cn/sw/gng"]
 	path = cn/sw/gng
 	url = .
+[submodule "cn/vd/jul"]
+	path = cn/vd/jul
+	url = .
 [submodule "co/dt/zxv"]
 	path = co/dt/zxv
 	url = .
