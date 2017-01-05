@@ -13114,6 +13114,9 @@
 [submodule "ni/qp/bix"]
 	path = ni/qp/bix
 	url = .
+[submodule "ni/rd/kgh"]
+	path = ni/rd/kgh
+	url = .
 [submodule "ni/te/jdt"]
 	path = ni/te/jdt
 	url = .
