@@ -1552,6 +1552,9 @@
 [submodule "le/sx/oco"]
 	path = le/sx/oco
 	url = .
+[submodule "lf/pm/qlw"]
+	path = lf/pm/qlw
+	url = .
 [submodule "lf/qn/fai"]
 	path = lf/qn/fai
 	url = .
