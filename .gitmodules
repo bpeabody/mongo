@@ -8980,6 +8980,9 @@
 [submodule "wr/rx/gad"]
 	path = wr/rx/gad
 	url = .
+[submodule "wr/ws/kpu"]
+	path = wr/ws/kpu
+	url = .
 [submodule "wr/yc/sxp"]
 	path = wr/yc/sxp
 	url = .
