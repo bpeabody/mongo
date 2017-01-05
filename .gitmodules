@@ -1840,6 +1840,9 @@
 [submodule "hk/as/hsg"]
 	path = hk/as/hsg
 	url = .
+[submodule "hk/by/tik"]
+	path = hk/by/tik
+	url = .
 [submodule "hl/bd/mrv"]
 	path = hl/bd/mrv
 	url = .
