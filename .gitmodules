@@ -23272,6 +23272,9 @@
 [submodule "jx/nv/jzr"]
 	path = jx/nv/jzr
 	url = .
+[submodule "jx/oz/lsb"]
+	path = jx/oz/lsb
+	url = .
 [submodule "jx/pi/ksi"]
 	path = jx/pi/ksi
 	url = .
