@@ -3859,6 +3859,9 @@
 [submodule "ek/rz/yub"]
 	path = ek/rz/yub
 	url = .
+[submodule "ek/wz/qfz"]
+	path = ek/wz/qfz
+	url = .
 [submodule "ek/xl/tru"]
 	path = ek/xl/tru
 	url = .
