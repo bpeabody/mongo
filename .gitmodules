@@ -16369,6 +16369,9 @@
 [submodule "lh/ts/mel"]
 	path = lh/ts/mel
 	url = .
+[submodule "lh/up/sfk"]
+	path = lh/up/sfk
+	url = .
 [submodule "lh/ya/zro"]
 	path = lh/ya/zro
 	url = .
