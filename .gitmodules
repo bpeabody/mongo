@@ -23095,6 +23095,9 @@
 [submodule "oz/cf/btz"]
 	path = oz/cf/btz
 	url = .
+[submodule "oz/dk/mmc"]
+	path = oz/dk/mmc
+	url = .
 [submodule "oz/kq/qun"]
 	path = oz/kq/qun
 	url = .
