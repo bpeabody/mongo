@@ -217,6 +217,9 @@
 [submodule "ad/kq/vlu"]
 	path = ad/kq/vlu
 	url = .
+[submodule "ad/pa/exy"]
+	path = ad/pa/exy
+	url = .
 [submodule "ad/pi/lxv"]
 	path = ad/pi/lxv
 	url = .
