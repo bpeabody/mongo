@@ -15871,6 +15871,9 @@
 [submodule "xp/bz/hgd"]
 	path = xp/bz/hgd
 	url = .
+[submodule "xp/fc/plk"]
+	path = xp/fc/plk
+	url = .
 [submodule "xp/gw/ifb"]
 	path = xp/gw/ifb
 	url = .
