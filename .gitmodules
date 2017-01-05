@@ -20812,6 +20812,9 @@
 [submodule "ho/gv/wjf"]
 	path = ho/gv/wjf
 	url = .
+[submodule "ho/gw/wqr"]
+	path = ho/gw/wqr
+	url = .
 [submodule "ho/ha/lcr"]
 	path = ho/ha/lcr
 	url = .
