@@ -307,6 +307,9 @@
 [submodule "kk/xf/mqx"]
 	path = kk/xf/mqx
 	url = .
+[submodule "kn/oh/duh"]
+	path = kn/oh/duh
+	url = .
 [submodule "ko/xh/ucl"]
 	path = ko/xh/ucl
 	url = .
