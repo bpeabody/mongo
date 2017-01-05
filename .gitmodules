@@ -7114,6 +7114,9 @@
 [submodule "em/us/fqn"]
 	path = em/us/fqn
 	url = .
+[submodule "em/xg/tpu"]
+	path = em/xg/tpu
+	url = .
 [submodule "em/xp/zbm"]
 	path = em/xp/zbm
 	url = .
