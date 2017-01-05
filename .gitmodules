@@ -24073,6 +24073,9 @@
 [submodule "ib/xo/idj"]
 	path = ib/xo/idj
 	url = .
+[submodule "ib/xt/lcm"]
+	path = ib/xt/lcm
+	url = .
 [submodule "ib/xw/yrd"]
 	path = ib/xw/yrd
 	url = .
