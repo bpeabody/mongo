@@ -52903,6 +52903,9 @@
 [submodule "rw/nb/gmx"]
 	path = rw/nb/gmx
 	url = .
+[submodule "rw/nd/skf"]
+	path = rw/nd/skf
+	url = .
 [submodule "rw/nm/fvi"]
 	path = rw/nm/fvi
 	url = .
