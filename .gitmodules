@@ -10030,6 +10030,9 @@
 [submodule "qw/mw/qsc"]
 	path = qw/mw/qsc
 	url = .
+[submodule "qw/xq/xfw"]
+	path = qw/xq/xfw
+	url = .
 [submodule "qx/an/wce"]
 	path = qx/an/wce
 	url = .
