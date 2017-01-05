@@ -47374,6 +47374,9 @@
 [submodule "vq/pw/zlc"]
 	path = vq/pw/zlc
 	url = .
+[submodule "vq/qq/ivd"]
+	path = vq/qq/ivd
+	url = .
 [submodule "vq/qw/kpu"]
 	path = vq/qw/kpu
 	url = .
