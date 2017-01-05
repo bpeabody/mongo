@@ -1057,6 +1057,9 @@
 [submodule "qz/jf/iwg"]
 	path = qz/jf/iwg
 	url = .
+[submodule "ra/jf/cbq"]
+	path = ra/jf/cbq
+	url = .
 [submodule "ra/um/jno"]
 	path = ra/um/jno
 	url = .
