@@ -38602,6 +38602,9 @@
 [submodule "sd/kg/wbs"]
 	path = sd/kg/wbs
 	url = .
+[submodule "sd/ks/asv"]
+	path = sd/ks/asv
+	url = .
 [submodule "sd/li/jcg"]
 	path = sd/li/jcg
 	url = .
