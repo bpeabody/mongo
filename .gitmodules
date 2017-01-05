@@ -42946,6 +42946,9 @@
 [submodule "tj/lt/dkl"]
 	path = tj/lt/dkl
 	url = .
+[submodule "tj/lv/uce"]
+	path = tj/lv/uce
+	url = .
 [submodule "tj/mp/xsn"]
 	path = tj/mp/xsn
 	url = .
