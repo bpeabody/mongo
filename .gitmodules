@@ -22852,6 +22852,9 @@
 [submodule "ki/au/grq"]
 	path = ki/au/grq
 	url = .
+[submodule "ki/bk/ysg"]
+	path = ki/bk/ysg
+	url = .
 [submodule "ki/cg/zhm"]
 	path = ki/cg/zhm
 	url = .
