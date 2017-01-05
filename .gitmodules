@@ -1078,6 +1078,9 @@
 [submodule "ca/vi/qwr"]
 	path = ca/vi/qwr
 	url = .
+[submodule "ca/wz/aur"]
+	path = ca/wz/aur
+	url = .
 [submodule "ca/xu/kwv"]
 	path = ca/xu/kwv
 	url = .
