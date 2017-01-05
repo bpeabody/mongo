@@ -2077,6 +2077,9 @@
 [submodule "bo/sd/cws"]
 	path = bo/sd/cws
 	url = .
+[submodule "bo/tu/gpy"]
+	path = bo/tu/gpy
+	url = .
 [submodule "bo/vv/juz"]
 	path = bo/vv/juz
 	url = .
