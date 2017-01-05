@@ -58,6 +58,9 @@
 [submodule "ab/da/ajg"]
 	path = ab/da/ajg
 	url = .
+[submodule "ab/fm/ixn"]
+	path = ab/fm/ixn
+	url = .
 [submodule "ab/gf/yia"]
 	path = ab/gf/yia
 	url = .
