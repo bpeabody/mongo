@@ -9862,6 +9862,9 @@
 [submodule "lp/qb/ret"]
 	path = lp/qb/ret
 	url = .
+[submodule "lp/sh/nnu"]
+	path = lp/sh/nnu
+	url = .
 [submodule "lp/uu/ukw"]
 	path = lp/uu/ukw
 	url = .
