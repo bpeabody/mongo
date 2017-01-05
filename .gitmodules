@@ -769,6 +769,9 @@
 [submodule "gi/gc/qhg"]
 	path = gi/gc/qhg
 	url = .
+[submodule "gi/pd/oju"]
+	path = gi/pd/oju
+	url = .
 [submodule "gi/ta/yii"]
 	path = gi/ta/yii
 	url = .
