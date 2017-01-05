@@ -15946,6 +15946,9 @@
 [submodule "lr/az/ayo"]
 	path = lr/az/ayo
 	url = .
+[submodule "lr/bg/alv"]
+	path = lr/bg/alv
+	url = .
 [submodule "lr/ck/jmv"]
 	path = lr/ck/jmv
 	url = .
