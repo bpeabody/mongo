@@ -3763,6 +3763,9 @@
 [submodule "wn/yp/vns"]
 	path = wn/yp/vns
 	url = .
+[submodule "wo/mm/nkv"]
+	path = wo/mm/nkv
+	url = .
 [submodule "wo/ot/udm"]
 	path = wo/ot/udm
 	url = .
