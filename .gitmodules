@@ -29851,6 +29851,9 @@
 [submodule "yh/go/uky"]
 	path = yh/go/uky
 	url = .
+[submodule "yh/jx/yyi"]
+	path = yh/jx/yyi
+	url = .
 [submodule "yh/lu/tvc"]
 	path = yh/lu/tvc
 	url = .
