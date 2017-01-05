@@ -66817,6 +66817,9 @@
 [submodule "zg/fq/jyr"]
 	path = zg/fq/jyr
 	url = .
+[submodule "zg/fr/min"]
+	path = zg/fr/min
+	url = .
 [submodule "zg/ge/fjb"]
 	path = zg/ge/fjb
 	url = .
