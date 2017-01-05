@@ -33661,6 +33661,9 @@
 [submodule "yh/eg/idj"]
 	path = yh/eg/idj
 	url = .
+[submodule "yh/fy/rnn"]
+	path = yh/fy/rnn
+	url = .
 [submodule "yh/go/uky"]
 	path = yh/go/uky
 	url = .
