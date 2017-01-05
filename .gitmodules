@@ -40084,6 +40084,9 @@
 [submodule "sb/ie/vxy"]
 	path = sb/ie/vxy
 	url = .
+[submodule "sb/ih/nvi"]
+	path = sb/ih/nvi
+	url = .
 [submodule "sb/ld/iri"]
 	path = sb/ld/iri
 	url = .
