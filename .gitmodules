@@ -4348,6 +4348,9 @@
 [submodule "bz/xq/wsl"]
 	path = bz/xq/wsl
 	url = .
+[submodule "bz/xt/chv"]
+	path = bz/xt/chv
+	url = .
 [submodule "bz/yj/aio"]
 	path = bz/yj/aio
 	url = .
