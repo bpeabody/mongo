@@ -56596,6 +56596,9 @@
 [submodule "wa/iy/ile"]
 	path = wa/iy/ile
 	url = .
+[submodule "wa/ja/nrm"]
+	path = wa/ja/nrm
+	url = .
 [submodule "wa/lr/csa"]
 	path = wa/lr/csa
 	url = .
