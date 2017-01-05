@@ -3835,6 +3835,9 @@
 [submodule "db/kf/eke"]
 	path = db/kf/eke
 	url = .
+[submodule "db/kz/zwq"]
+	path = db/kz/zwq
+	url = .
 [submodule "db/lr/whq"]
 	path = db/lr/whq
 	url = .
