@@ -7519,6 +7519,9 @@
 [submodule "cs/zw/btx"]
 	path = cs/zw/btx
 	url = .
+[submodule "cs/zy/tri"]
+	path = cs/zy/tri
+	url = .
 [submodule "ct/bw/vnu"]
 	path = ct/bw/vnu
 	url = .
