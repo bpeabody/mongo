@@ -676,6 +676,9 @@
 [submodule "ap/iu/mau"]
 	path = ap/iu/mau
 	url = .
+[submodule "ap/kg/vzl"]
+	path = ap/kg/vzl
+	url = .
 [submodule "ap/lv/jgx"]
 	path = ap/lv/jgx
 	url = .
