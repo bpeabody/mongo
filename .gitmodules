@@ -19111,6 +19111,9 @@
 [submodule "ml/se/wri"]
 	path = ml/se/wri
 	url = .
+[submodule "ml/tk/fab"]
+	path = ml/tk/fab
+	url = .
 [submodule "ml/tk/nea"]
 	path = ml/tk/nea
 	url = .
