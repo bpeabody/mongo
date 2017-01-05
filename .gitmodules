@@ -12541,6 +12541,9 @@
 [submodule "tv/ay/kig"]
 	path = tv/ay/kig
 	url = .
+[submodule "tv/gl/msr"]
+	path = tv/gl/msr
+	url = .
 [submodule "tv/jx/llw"]
 	path = tv/jx/llw
 	url = .
