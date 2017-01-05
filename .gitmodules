@@ -34492,6 +34492,9 @@
 [submodule "rd/kg/qov"]
 	path = rd/kg/qov
 	url = .
+[submodule "rd/mb/pmj"]
+	path = rd/mb/pmj
+	url = .
 [submodule "rd/mi/sab"]
 	path = rd/mi/sab
 	url = .
