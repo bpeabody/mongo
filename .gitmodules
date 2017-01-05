@@ -29506,6 +29506,9 @@
 [submodule "lp/jn/irf"]
 	path = lp/jn/irf
 	url = .
+[submodule "lp/jn/qls"]
+	path = lp/jn/qls
+	url = .
 [submodule "lp/jp/lkp"]
 	path = lp/jp/lkp
 	url = .
