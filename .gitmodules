@@ -66949,6 +66949,9 @@
 [submodule "wr/sl/gox"]
 	path = wr/sl/gox
 	url = .
+[submodule "wr/ss/aob"]
+	path = wr/ss/aob
+	url = .
 [submodule "wr/tl/eau"]
 	path = wr/tl/eau
 	url = .
