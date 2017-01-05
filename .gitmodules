@@ -57169,6 +57169,9 @@
 [submodule "wn/eq/qxi"]
 	path = wn/eq/qxi
 	url = .
+[submodule "wn/ev/bae"]
+	path = wn/ev/bae
+	url = .
 [submodule "wn/fb/qla"]
 	path = wn/fb/qla
 	url = .
