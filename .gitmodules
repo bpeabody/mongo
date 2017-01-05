@@ -16756,6 +16756,9 @@
 [submodule "qd/ct/vqz"]
 	path = qd/ct/vqz
 	url = .
+[submodule "qd/ds/njb"]
+	path = qd/ds/njb
+	url = .
 [submodule "qd/id/ika"]
 	path = qd/id/ika
 	url = .
