@@ -4519,6 +4519,9 @@
 [submodule "hi/nk/dht"]
 	path = hi/nk/dht
 	url = .
+[submodule "hi/no/fve"]
+	path = hi/no/fve
+	url = .
 [submodule "hi/oj/ajd"]
 	path = hi/oj/ajd
 	url = .
