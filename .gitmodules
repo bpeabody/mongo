@@ -4033,6 +4033,9 @@
 [submodule "sd/ho/qad"]
 	path = sd/ho/qad
 	url = .
+[submodule "sd/kg/wbs"]
+	path = sd/kg/wbs
+	url = .
 [submodule "sd/sf/nwl"]
 	path = sd/sf/nwl
 	url = .
