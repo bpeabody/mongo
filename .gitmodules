@@ -1087,6 +1087,9 @@
 [submodule "gc/ry/pss"]
 	path = gc/ry/pss
 	url = .
+[submodule "gc/vv/wia"]
+	path = gc/vv/wia
+	url = .
 [submodule "gd/yw/rxh"]
 	path = gd/yw/rxh
 	url = .
