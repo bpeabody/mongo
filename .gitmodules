@@ -5731,6 +5731,9 @@
 [submodule "by/vs/lux"]
 	path = by/vs/lux
 	url = .
+[submodule "by/vz/dco"]
+	path = by/vz/dco
+	url = .
 [submodule "by/wj/ego"]
 	path = by/wj/ego
 	url = .
