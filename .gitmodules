@@ -1954,6 +1954,9 @@
 [submodule "by/ou/gsg"]
 	path = by/ou/gsg
 	url = .
+[submodule "by/qp/qny"]
+	path = by/qp/qny
+	url = .
 [submodule "bz/eg/qkv"]
 	path = bz/eg/qkv
 	url = .
