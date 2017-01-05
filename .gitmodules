@@ -21172,6 +21172,9 @@
 [submodule "wo/zh/nmn"]
 	path = wo/zh/nmn
 	url = .
+[submodule "wp/bg/znw"]
+	path = wp/bg/znw
+	url = .
 [submodule "wp/cj/zcu"]
 	path = wp/cj/zcu
 	url = .
