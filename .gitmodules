@@ -40186,6 +40186,9 @@
 [submodule "wv/xz/uyu"]
 	path = wv/xz/uyu
 	url = .
+[submodule "wv/yc/joy"]
+	path = wv/yc/joy
+	url = .
 [submodule "wv/yh/wri"]
 	path = wv/yh/wri
 	url = .
