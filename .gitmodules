@@ -13282,6 +13282,9 @@
 [submodule "hg/il/oiu"]
 	path = hg/il/oiu
 	url = .
+[submodule "hg/kk/brm"]
+	path = hg/kk/brm
+	url = .
 [submodule "hg/lt/spy"]
 	path = hg/lt/spy
 	url = .
