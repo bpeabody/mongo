@@ -30853,6 +30853,9 @@
 [submodule "ol/wa/fkv"]
 	path = ol/wa/fkv
 	url = .
+[submodule "ol/wg/cpa"]
+	path = ol/wg/cpa
+	url = .
 [submodule "ol/wq/lwp"]
 	path = ol/wq/lwp
 	url = .
