@@ -23896,6 +23896,9 @@
 [submodule "va/vp/dbd"]
 	path = va/vp/dbd
 	url = .
+[submodule "va/xh/yrd"]
+	path = va/xh/yrd
+	url = .
 [submodule "vb/ey/nro"]
 	path = vb/ey/nro
 	url = .
