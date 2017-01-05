@@ -19648,6 +19648,9 @@
 [submodule "jd/lt/cjf"]
 	path = jd/lt/cjf
 	url = .
+[submodule "jd/lu/gvs"]
+	path = jd/lu/gvs
+	url = .
 [submodule "jd/lx/jfu"]
 	path = jd/lx/jfu
 	url = .
