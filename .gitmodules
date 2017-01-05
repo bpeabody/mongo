@@ -6598,6 +6598,9 @@
 [submodule "cn/wv/bxw"]
 	path = cn/wv/bxw
 	url = .
+[submodule "cn/zj/ibr"]
+	path = cn/zj/ibr
+	url = .
 [submodule "co/co/ypu"]
 	path = co/co/ypu
 	url = .
