@@ -72445,6 +72445,9 @@
 [submodule "zf/ny/ubn"]
 	path = zf/ny/ubn
 	url = .
+[submodule "zf/os/tdx"]
+	path = zf/os/tdx
+	url = .
 [submodule "zf/pe/jrr"]
 	path = zf/pe/jrr
 	url = .
