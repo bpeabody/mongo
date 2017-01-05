@@ -10867,6 +10867,9 @@
 [submodule "jz/lq/adh"]
 	path = jz/lq/adh
 	url = .
+[submodule "jz/lu/vhn"]
+	path = jz/lu/vhn
+	url = .
 [submodule "jz/lx/bup"]
 	path = jz/lx/bup
 	url = .
