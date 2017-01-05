@@ -12004,6 +12004,9 @@
 [submodule "fh/lk/euo"]
 	path = fh/lk/euo
 	url = .
+[submodule "fh/ll/kin"]
+	path = fh/ll/kin
+	url = .
 [submodule "fh/ma/kxw"]
 	path = fh/ma/kxw
 	url = .
