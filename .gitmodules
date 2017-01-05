@@ -16921,6 +16921,9 @@
 [submodule "yu/er/mix"]
 	path = yu/er/mix
 	url = .
+[submodule "yu/ij/vfa"]
+	path = yu/ij/vfa
+	url = .
 [submodule "yu/kg/wwm"]
 	path = yu/kg/wwm
 	url = .
