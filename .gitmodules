@@ -28186,6 +28186,9 @@
 [submodule "vr/io/jwh"]
 	path = vr/io/jwh
 	url = .
+[submodule "vr/ju/byq"]
+	path = vr/ju/byq
+	url = .
 [submodule "vr/ki/orj"]
 	path = vr/ki/orj
 	url = .
