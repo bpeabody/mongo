@@ -69016,6 +69016,9 @@
 [submodule "zt/hy/bli"]
 	path = zt/hy/bli
 	url = .
+[submodule "zt/ir/kbb"]
+	path = zt/ir/kbb
+	url = .
 [submodule "zt/ix/gda"]
 	path = zt/ix/gda
 	url = .
