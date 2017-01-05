@@ -14371,6 +14371,9 @@
 [submodule "fh/ow/inc"]
 	path = fh/ow/inc
 	url = .
+[submodule "fh/qq/ycb"]
+	path = fh/qq/ycb
+	url = .
 [submodule "fh/rb/feg"]
 	path = fh/rb/feg
 	url = .
