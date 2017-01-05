@@ -72112,6 +72112,9 @@
 [submodule "ya/gr/zhe"]
 	path = ya/gr/zhe
 	url = .
+[submodule "ya/hj/pcd"]
+	path = ya/hj/pcd
+	url = .
 [submodule "ya/ii/ogo"]
 	path = ya/ii/ogo
 	url = .
