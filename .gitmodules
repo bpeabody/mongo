@@ -18580,6 +18580,9 @@
 [submodule "nb/cd/ipr"]
 	path = nb/cd/ipr
 	url = .
+[submodule "nb/cw/cux"]
+	path = nb/cw/cux
+	url = .
 [submodule "nb/cx/ooe"]
 	path = nb/cx/ooe
 	url = .
