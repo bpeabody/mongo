@@ -58417,6 +58417,9 @@
 [submodule "zh/qg/pad"]
 	path = zh/qg/pad
 	url = .
+[submodule "zh/qh/hay"]
+	path = zh/qh/hay
+	url = .
 [submodule "zh/qp/kni"]
 	path = zh/qp/kni
 	url = .
