@@ -61675,6 +61675,9 @@
 [submodule "xn/rm/anl"]
 	path = xn/rm/anl
 	url = .
+[submodule "xn/ru/wcu"]
+	path = xn/ru/wcu
+	url = .
 [submodule "xn/ru/zvl"]
 	path = xn/ru/zvl
 	url = .
