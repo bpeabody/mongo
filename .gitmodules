@@ -32434,6 +32434,9 @@
 [submodule "ok/et/vsc"]
 	path = ok/et/vsc
 	url = .
+[submodule "ok/fc/sbh"]
+	path = ok/fc/sbh
+	url = .
 [submodule "ok/fi/htg"]
 	path = ok/fi/htg
 	url = .
