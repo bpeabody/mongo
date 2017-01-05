@@ -47182,6 +47182,9 @@
 [submodule "qn/cp/ply"]
 	path = qn/cp/ply
 	url = .
+[submodule "qn/el/ivq"]
+	path = qn/el/ivq
+	url = .
 [submodule "qn/ev/stj"]
 	path = qn/ev/stj
 	url = .
