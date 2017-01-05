@@ -115,6 +115,9 @@
 [submodule "ad/kq/vlu"]
 	path = ad/kq/vlu
 	url = .
+[submodule "ad/pi/lxv"]
+	path = ad/pi/lxv
+	url = .
 [submodule "ad/qc/acu"]
 	path = ad/qc/acu
 	url = .
