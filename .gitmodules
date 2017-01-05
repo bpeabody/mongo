@@ -2524,6 +2524,9 @@
 [submodule "ee/xt/cuo"]
 	path = ee/xt/cuo
 	url = .
+[submodule "ee/xv/qll"]
+	path = ee/xv/qll
+	url = .
 [submodule "ee/zg/owd"]
 	path = ee/zg/owd
 	url = .
