@@ -3565,6 +3565,9 @@
 [submodule "ss/uu/tbn"]
 	path = ss/uu/tbn
 	url = .
+[submodule "ss/xo/wte"]
+	path = ss/xo/wte
+	url = .
 [submodule "st/zh/tac"]
 	path = st/zh/tac
 	url = .
