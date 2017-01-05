@@ -33115,6 +33115,9 @@
 [submodule "mj/by/fml"]
 	path = mj/by/fml
 	url = .
+[submodule "mj/dc/kyn"]
+	path = mj/dc/kyn
+	url = .
 [submodule "mj/dd/qnf"]
 	path = mj/dd/qnf
 	url = .
