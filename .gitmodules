@@ -7267,6 +7267,9 @@
 [submodule "ih/mu/qwz"]
 	path = ih/mu/qwz
 	url = .
+[submodule "ih/ot/qla"]
+	path = ih/ot/qla
+	url = .
 [submodule "ih/sv/zki"]
 	path = ih/sv/zki
 	url = .
