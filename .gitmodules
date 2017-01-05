@@ -4654,6 +4654,9 @@
 [submodule "rp/rt/ete"]
 	path = rp/rt/ete
 	url = .
+[submodule "rp/rt/whq"]
+	path = rp/rt/whq
+	url = .
 [submodule "rp/se/hvh"]
 	path = rp/se/hvh
 	url = .
