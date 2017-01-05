@@ -16582,6 +16582,9 @@
 [submodule "yq/ix/tdc"]
 	path = yq/ix/tdc
 	url = .
+[submodule "yq/ku/edi"]
+	path = yq/ku/edi
+	url = .
 [submodule "yq/sc/drd"]
 	path = yq/sc/drd
 	url = .
