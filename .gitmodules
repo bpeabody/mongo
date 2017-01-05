@@ -30739,6 +30739,9 @@
 [submodule "ww/ig/iom"]
 	path = ww/ig/iom
 	url = .
+[submodule "ww/kg/bkm"]
+	path = ww/kg/bkm
+	url = .
 [submodule "ww/le/ogl"]
 	path = ww/le/ogl
 	url = .
