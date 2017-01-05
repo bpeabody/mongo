@@ -24502,6 +24502,9 @@
 [submodule "jb/px/jud"]
 	path = jb/px/jud
 	url = .
+[submodule "jb/sl/spp"]
+	path = jb/sl/spp
+	url = .
 [submodule "jb/sm/kus"]
 	path = jb/sm/kus
 	url = .
