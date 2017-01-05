@@ -6994,6 +6994,9 @@
 [submodule "kj/qc/hkw"]
 	path = kj/qc/hkw
 	url = .
+[submodule "kj/xs/ryg"]
+	path = kj/xs/ryg
+	url = .
 [submodule "kk/aj/ati"]
 	path = kk/aj/ati
 	url = .
