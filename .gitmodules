@@ -3580,6 +3580,9 @@
 [submodule "mk/kf/uye"]
 	path = mk/kf/uye
 	url = .
+[submodule "mk/vx/ubc"]
+	path = mk/vx/ubc
+	url = .
 [submodule "ml/ao/hkx"]
 	path = ml/ao/hkx
 	url = .
