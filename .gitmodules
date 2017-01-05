@@ -3337,6 +3337,9 @@
 [submodule "di/ou/cru"]
 	path = di/ou/cru
 	url = .
+[submodule "di/sj/kkv"]
+	path = di/sj/kkv
+	url = .
 [submodule "di/sr/csl"]
 	path = di/sr/csl
 	url = .
