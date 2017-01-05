@@ -4402,6 +4402,9 @@
 [submodule "dh/nq/llo"]
 	path = dh/nq/llo
 	url = .
+[submodule "dh/nt/udy"]
+	path = dh/nt/udy
+	url = .
 [submodule "dh/ow/oxc"]
 	path = dh/ow/oxc
 	url = .
