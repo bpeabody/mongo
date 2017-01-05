@@ -5692,6 +5692,9 @@
 [submodule "ck/jt/xxs"]
 	path = ck/jt/xxs
 	url = .
+[submodule "ck/kk/xjm"]
+	path = ck/kk/xjm
+	url = .
 [submodule "ck/nc/afl"]
 	path = ck/nc/afl
 	url = .
