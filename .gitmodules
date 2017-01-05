@@ -14707,6 +14707,9 @@
 [submodule "gf/pr/kmp"]
 	path = gf/pr/kmp
 	url = .
+[submodule "gf/rp/qfv"]
+	path = gf/rp/qfv
+	url = .
 [submodule "gf/rw/phq"]
 	path = gf/rw/phq
 	url = .
