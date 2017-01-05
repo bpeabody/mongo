@@ -38677,6 +38677,9 @@
 [submodule "pf/ob/psu"]
 	path = pf/ob/psu
 	url = .
+[submodule "pf/os/vom"]
+	path = pf/os/vom
+	url = .
 [submodule "pf/pz/kyy"]
 	path = pf/pz/kyy
 	url = .
