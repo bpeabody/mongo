@@ -1255,6 +1255,9 @@
 [submodule "hf/dx/yao"]
 	path = hf/dx/yao
 	url = .
+[submodule "hf/fu/cfi"]
+	path = hf/fu/cfi
+	url = .
 [submodule "hf/gx/nhp"]
 	path = hf/gx/nhp
 	url = .
