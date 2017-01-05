@@ -1300,6 +1300,9 @@
 [submodule "ng/io/njq"]
 	path = ng/io/njq
 	url = .
+[submodule "ng/wz/pzc"]
+	path = ng/wz/pzc
+	url = .
 [submodule "nh/js/wmn"]
 	path = nh/js/wmn
 	url = .
