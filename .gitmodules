@@ -28060,6 +28060,9 @@
 [submodule "sq/sb/hkl"]
 	path = sq/sb/hkl
 	url = .
+[submodule "sq/sh/xxi"]
+	path = sq/sh/xxi
+	url = .
 [submodule "sq/tb/zds"]
 	path = sq/tb/zds
 	url = .
