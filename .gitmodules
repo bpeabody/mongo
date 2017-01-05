@@ -8461,6 +8461,9 @@
 [submodule "pn/wq/xin"]
 	path = pn/wq/xin
 	url = .
+[submodule "pn/xz/ueq"]
+	path = pn/xz/ueq
+	url = .
 [submodule "po/pk/bfp"]
 	path = po/pk/bfp
 	url = .
