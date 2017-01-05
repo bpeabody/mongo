@@ -34690,6 +34690,9 @@
 [submodule "vg/uc/lne"]
 	path = vg/uc/lne
 	url = .
+[submodule "vg/ui/mbw"]
+	path = vg/ui/mbw
+	url = .
 [submodule "vg/wb/gds"]
 	path = vg/wb/gds
 	url = .
