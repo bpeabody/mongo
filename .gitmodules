@@ -23017,6 +23017,9 @@
 [submodule "np/kd/qzf"]
 	path = np/kd/qzf
 	url = .
+[submodule "np/kg/jqu"]
+	path = np/kg/jqu
+	url = .
 [submodule "np/lr/dsy"]
 	path = np/lr/dsy
 	url = .
