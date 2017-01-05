@@ -9088,6 +9088,9 @@
 [submodule "fx/lz/kyc"]
 	path = fx/lz/kyc
 	url = .
+[submodule "fx/mf/zea"]
+	path = fx/mf/zea
+	url = .
 [submodule "fx/mx/krm"]
 	path = fx/mx/krm
 	url = .
