@@ -9541,6 +9541,9 @@
 [submodule "do/kx/wqe"]
 	path = do/kx/wqe
 	url = .
+[submodule "do/lh/jnw"]
+	path = do/lh/jnw
+	url = .
 [submodule "do/lx/brd"]
 	path = do/lx/brd
 	url = .
