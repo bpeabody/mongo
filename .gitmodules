@@ -1567,6 +1567,9 @@
 [submodule "bs/sb/kpb"]
 	path = bs/sb/kpb
 	url = .
+[submodule "bs/ue/wwp"]
+	path = bs/ue/wwp
+	url = .
 [submodule "bt/ay/uad"]
 	path = bt/ay/uad
 	url = .
