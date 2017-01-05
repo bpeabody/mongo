@@ -9811,6 +9811,9 @@
 [submodule "wt/cw/eeb"]
 	path = wt/cw/eeb
 	url = .
+[submodule "wt/do/nis"]
+	path = wt/do/nis
+	url = .
 [submodule "wt/ls/xzi"]
 	path = wt/ls/xzi
 	url = .
