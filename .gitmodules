@@ -20338,6 +20338,9 @@
 [submodule "ky/ir/sew"]
 	path = ky/ir/sew
 	url = .
+[submodule "ky/kv/vob"]
+	path = ky/kv/vob
+	url = .
 [submodule "ky/nb/hpc"]
 	path = ky/nb/hpc
 	url = .
