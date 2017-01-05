@@ -2965,6 +2965,9 @@
 [submodule "gl/ps/osb"]
 	path = gl/ps/osb
 	url = .
+[submodule "gl/uz/fto"]
+	path = gl/uz/fto
+	url = .
 [submodule "gl/wb/qst"]
 	path = gl/wb/qst
 	url = .
