@@ -32257,6 +32257,9 @@
 [submodule "lc/nk/wre"]
 	path = lc/nk/wre
 	url = .
+[submodule "lc/oh/vpk"]
+	path = lc/oh/vpk
+	url = .
 [submodule "lc/qp/uvp"]
 	path = lc/qp/uvp
 	url = .
