@@ -17071,6 +17071,9 @@
 [submodule "kz/ow/xsh"]
 	path = kz/ow/xsh
 	url = .
+[submodule "kz/qt/lug"]
+	path = kz/qt/lug
+	url = .
 [submodule "kz/re/bkl"]
 	path = kz/re/bkl
 	url = .
