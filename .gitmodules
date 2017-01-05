@@ -34087,6 +34087,9 @@
 [submodule "ls/oy/jcn"]
 	path = ls/oy/jcn
 	url = .
+[submodule "ls/ro/mmk"]
+	path = ls/ro/mmk
+	url = .
 [submodule "ls/sx/doc"]
 	path = ls/sx/doc
 	url = .
