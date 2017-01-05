@@ -18187,6 +18187,9 @@
 [submodule "rp/if/eca"]
 	path = rp/if/eca
 	url = .
+[submodule "rp/nw/vpd"]
+	path = rp/nw/vpd
+	url = .
 [submodule "rp/od/pai"]
 	path = rp/od/pai
 	url = .
