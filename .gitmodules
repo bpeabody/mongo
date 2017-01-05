@@ -17929,6 +17929,9 @@
 [submodule "qh/lb/pyr"]
 	path = qh/lb/pyr
 	url = .
+[submodule "qh/nu/hry"]
+	path = qh/nu/hry
+	url = .
 [submodule "qh/qr/gzl"]
 	path = qh/qr/gzl
 	url = .
