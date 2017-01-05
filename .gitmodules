@@ -25405,6 +25405,9 @@
 [submodule "nu/ir/vqh"]
 	path = nu/ir/vqh
 	url = .
+[submodule "nu/lb/vqa"]
+	path = nu/lb/vqa
+	url = .
 [submodule "nu/ml/eea"]
 	path = nu/ml/eea
 	url = .
