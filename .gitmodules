@@ -2236,6 +2236,9 @@
 [submodule "sn/fm/rst"]
 	path = sn/fm/rst
 	url = .
+[submodule "sn/hd/oga"]
+	path = sn/hd/oga
+	url = .
 [submodule "sn/un/ieq"]
 	path = sn/un/ieq
 	url = .
