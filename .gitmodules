@@ -8794,6 +8794,9 @@
 [submodule "db/aw/yos"]
 	path = db/aw/yos
 	url = .
+[submodule "db/bg/xwu"]
+	path = db/bg/xwu
+	url = .
 [submodule "db/bq/mcm"]
 	path = db/bq/mcm
 	url = .
