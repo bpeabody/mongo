@@ -34777,6 +34777,9 @@
 [submodule "ra/eo/nzn"]
 	path = ra/eo/nzn
 	url = .
+[submodule "ra/ey/hxi"]
+	path = ra/ey/hxi
+	url = .
 [submodule "ra/ft/bkm"]
 	path = ra/ft/bkm
 	url = .
