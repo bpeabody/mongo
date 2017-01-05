@@ -40642,6 +40642,9 @@
 [submodule "ob/gs/sos"]
 	path = ob/gs/sos
 	url = .
+[submodule "ob/ia/qve"]
+	path = ob/ia/qve
+	url = .
 [submodule "ob/iw/hfb"]
 	path = ob/iw/hfb
 	url = .
