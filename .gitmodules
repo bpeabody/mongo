@@ -24505,6 +24505,9 @@
 [submodule "lj/xg/yho"]
 	path = lj/xg/yho
 	url = .
+[submodule "lj/xl/kdw"]
+	path = lj/xl/kdw
+	url = .
 [submodule "lj/xu/jwu"]
 	path = lj/xu/jwu
 	url = .
