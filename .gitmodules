@@ -21133,6 +21133,9 @@
 [submodule "ri/vg/bgf"]
 	path = ri/vg/bgf
 	url = .
+[submodule "ri/wx/bvp"]
+	path = ri/wx/bvp
+	url = .
 [submodule "ri/xz/bmm"]
 	path = ri/xz/bmm
 	url = .
