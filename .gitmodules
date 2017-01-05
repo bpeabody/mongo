@@ -12712,6 +12712,9 @@
 [submodule "fg/yb/yhe"]
 	path = fg/yb/yhe
 	url = .
+[submodule "fg/yl/eaz"]
+	path = fg/yl/eaz
+	url = .
 [submodule "fg/zc/xwh"]
 	path = fg/zc/xwh
 	url = .
