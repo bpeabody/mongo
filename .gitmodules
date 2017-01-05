@@ -10495,6 +10495,9 @@
 [submodule "rd/jp/kvs"]
 	path = rd/jp/kvs
 	url = .
+[submodule "rd/kg/qov"]
+	path = rd/kg/qov
+	url = .
 [submodule "rd/ng/ipx"]
 	path = rd/ng/ipx
 	url = .
