@@ -991,6 +991,9 @@
 [submodule "ai/fw/nee"]
 	path = ai/fw/nee
 	url = .
+[submodule "ai/fx/alz"]
+	path = ai/fx/alz
+	url = .
 [submodule "ai/fx/imv"]
 	path = ai/fx/imv
 	url = .
