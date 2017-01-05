@@ -4666,6 +4666,9 @@
 [submodule "gu/ge/ksi"]
 	path = gu/ge/ksi
 	url = .
+[submodule "gu/vu/rlt"]
+	path = gu/vu/rlt
+	url = .
 [submodule "gv/bg/ztf"]
 	path = gv/bg/ztf
 	url = .
