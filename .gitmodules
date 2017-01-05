@@ -5431,6 +5431,9 @@
 [submodule "vz/ii/tow"]
 	path = vz/ii/tow
 	url = .
+[submodule "wa/ez/mgo"]
+	path = wa/ez/mgo
+	url = .
 [submodule "wa/mi/aww"]
 	path = wa/mi/aww
 	url = .
