@@ -26389,6 +26389,9 @@
 [submodule "vk/fb/aum"]
 	path = vk/fb/aum
 	url = .
+[submodule "vk/fe/jch"]
+	path = vk/fe/jch
+	url = .
 [submodule "vk/fe/xue"]
 	path = vk/fe/xue
 	url = .
