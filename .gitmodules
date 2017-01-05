@@ -47377,6 +47377,9 @@
 [submodule "zs/rp/joz"]
 	path = zs/rp/joz
 	url = .
+[submodule "zs/sm/vwk"]
+	path = zs/sm/vwk
+	url = .
 [submodule "zs/wf/zrv"]
 	path = zs/wf/zrv
 	url = .
