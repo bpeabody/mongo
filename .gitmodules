@@ -40552,6 +40552,9 @@
 [submodule "tk/je/ier"]
 	path = tk/je/ier
 	url = .
+[submodule "tk/nr/jjd"]
+	path = tk/nr/jjd
+	url = .
 [submodule "tk/od/mrf"]
 	path = tk/od/mrf
 	url = .
