@@ -24364,6 +24364,9 @@
 [submodule "jg/ea/hcr"]
 	path = jg/ea/hcr
 	url = .
+[submodule "jg/eg/htb"]
+	path = jg/eg/htb
+	url = .
 [submodule "jg/fg/yjq"]
 	path = jg/fg/yjq
 	url = .
