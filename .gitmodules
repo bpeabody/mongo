@@ -42520,6 +42520,9 @@
 [submodule "ws/zh/jqt"]
 	path = ws/zh/jqt
 	url = .
+[submodule "wt/aq/lfr"]
+	path = wt/aq/lfr
+	url = .
 [submodule "wt/cg/ger"]
 	path = wt/cg/ger
 	url = .
