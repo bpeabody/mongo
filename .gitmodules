@@ -15127,6 +15127,9 @@
 [submodule "jq/jw/kqx"]
 	path = jq/jw/kqx
 	url = .
+[submodule "jq/ks/fiv"]
+	path = jq/ks/fiv
+	url = .
 [submodule "jq/mc/oix"]
 	path = jq/mc/oix
 	url = .
