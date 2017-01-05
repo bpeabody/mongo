@@ -3598,6 +3598,9 @@
 [submodule "sf/eo/hex"]
 	path = sf/eo/hex
 	url = .
+[submodule "sf/gw/cns"]
+	path = sf/gw/cns
+	url = .
 [submodule "sf/gw/jjf"]
 	path = sf/gw/jjf
 	url = .
