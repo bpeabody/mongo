@@ -1981,6 +1981,9 @@
 [submodule "cf/ov/svw"]
 	path = cf/ov/svw
 	url = .
+[submodule "cf/su/umu"]
+	path = cf/su/umu
+	url = .
 [submodule "cf/xq/xkp"]
 	path = cf/xq/xkp
 	url = .
