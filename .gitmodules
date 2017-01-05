@@ -688,6 +688,9 @@
 [submodule "ah/sn/gxh"]
 	path = ah/sn/gxh
 	url = .
+[submodule "ah/sv/qdo"]
+	path = ah/sv/qdo
+	url = .
 [submodule "ah/vd/xbo"]
 	path = ah/vd/xbo
 	url = .
