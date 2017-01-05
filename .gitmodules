@@ -1732,6 +1732,9 @@
 [submodule "ca/on/qxq"]
 	path = ca/on/qxq
 	url = .
+[submodule "ca/uq/fba"]
+	path = ca/uq/fba
+	url = .
 [submodule "ca/vi/qwr"]
 	path = ca/vi/qwr
 	url = .
