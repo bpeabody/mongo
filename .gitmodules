@@ -3514,6 +3514,9 @@
 [submodule "xh/ev/pbe"]
 	path = xh/ev/pbe
 	url = .
+[submodule "xh/oo/ebl"]
+	path = xh/oo/ebl
+	url = .
 [submodule "xi/cx/lii"]
 	path = xi/cx/lii
 	url = .
