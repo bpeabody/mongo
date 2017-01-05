@@ -3232,6 +3232,9 @@
 [submodule "ft/az/mqt"]
 	path = ft/az/mqt
 	url = .
+[submodule "ft/dd/pla"]
+	path = ft/dd/pla
+	url = .
 [submodule "ft/dl/aei"]
 	path = ft/dl/aei
 	url = .
