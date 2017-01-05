@@ -52492,6 +52492,9 @@
 [submodule "ve/du/hsw"]
 	path = ve/du/hsw
 	url = .
+[submodule "ve/dy/irr"]
+	path = ve/dy/irr
+	url = .
 [submodule "ve/ef/sne"]
 	path = ve/ef/sne
 	url = .
