@@ -11881,6 +11881,9 @@
 [submodule "km/mp/dkx"]
 	path = km/mp/dkx
 	url = .
+[submodule "km/we/sfp"]
+	path = km/we/sfp
+	url = .
 [submodule "km/wz/jli"]
 	path = km/wz/jli
 	url = .
