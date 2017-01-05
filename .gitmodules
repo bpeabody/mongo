@@ -10474,6 +10474,9 @@
 [submodule "dm/ly/vfq"]
 	path = dm/ly/vfq
 	url = .
+[submodule "dm/mv/xfb"]
+	path = dm/mv/xfb
+	url = .
 [submodule "dm/pq/lpj"]
 	path = dm/pq/lpj
 	url = .
