@@ -15469,6 +15469,9 @@
 [submodule "fm/bw/pxu"]
 	path = fm/bw/pxu
 	url = .
+[submodule "fm/cl/kgi"]
+	path = fm/cl/kgi
+	url = .
 [submodule "fm/dt/ore"]
 	path = fm/dt/ore
 	url = .
