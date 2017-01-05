@@ -46354,6 +46354,9 @@
 [submodule "pm/sd/nxa"]
 	path = pm/sd/nxa
 	url = .
+[submodule "pm/vg/hax"]
+	path = pm/vg/hax
+	url = .
 [submodule "pm/vy/nlo"]
 	path = pm/vy/nlo
 	url = .
