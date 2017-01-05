@@ -10912,6 +10912,9 @@
 [submodule "zb/sz/uor"]
 	path = zb/sz/uor
 	url = .
+[submodule "zb/wm/ncr"]
+	path = zb/wm/ncr
+	url = .
 [submodule "zc/hm/shv"]
 	path = zc/hm/shv
 	url = .
