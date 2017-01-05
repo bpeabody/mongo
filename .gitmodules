@@ -22288,6 +22288,9 @@
 [submodule "ig/uy/fpq"]
 	path = ig/uy/fpq
 	url = .
+[submodule "ig/wx/bhq"]
+	path = ig/wx/bhq
+	url = .
 [submodule "ig/xi/kps"]
 	path = ig/xi/kps
 	url = .
