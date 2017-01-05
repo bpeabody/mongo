@@ -1732,6 +1732,9 @@
 [submodule "ci/ig/dvn"]
 	path = ci/ig/dvn
 	url = .
+[submodule "ci/ks/kdd"]
+	path = ci/ks/kdd
+	url = .
 [submodule "ci/rc/kpy"]
 	path = ci/rc/kpy
 	url = .
