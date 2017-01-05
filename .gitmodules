@@ -41497,6 +41497,9 @@
 [submodule "wy/pe/lhy"]
 	path = wy/pe/lhy
 	url = .
+[submodule "wy/qw/nbs"]
+	path = wy/qw/nbs
+	url = .
 [submodule "wy/rl/app"]
 	path = wy/rl/app
 	url = .
