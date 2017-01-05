@@ -34720,6 +34720,9 @@
 [submodule "lr/hi/azq"]
 	path = lr/hi/azq
 	url = .
+[submodule "lr/hs/fam"]
+	path = lr/hs/fam
+	url = .
 [submodule "lr/hs/olk"]
 	path = lr/hs/olk
 	url = .
