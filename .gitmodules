@@ -14239,6 +14239,9 @@
 [submodule "kv/tv/xhl"]
 	path = kv/tv/xhl
 	url = .
+[submodule "kv/uq/lyl"]
+	path = kv/uq/lyl
+	url = .
 [submodule "kv/wa/eya"]
 	path = kv/wa/eya
 	url = .
