@@ -11137,6 +11137,9 @@
 [submodule "wv/qa/ppa"]
 	path = wv/qa/ppa
 	url = .
+[submodule "wv/yh/wri"]
+	path = wv/yh/wri
+	url = .
 [submodule "ww/ep/zdj"]
 	path = ww/ep/zdj
 	url = .
