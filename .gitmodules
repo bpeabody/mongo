@@ -22882,6 +22882,9 @@
 [submodule "ma/ia/eiz"]
 	path = ma/ia/eiz
 	url = .
+[submodule "ma/je/ygi"]
+	path = ma/je/ygi
+	url = .
 [submodule "ma/lj/pii"]
 	path = ma/lj/pii
 	url = .
