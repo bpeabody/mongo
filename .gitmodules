@@ -29506,6 +29506,9 @@
 [submodule "ka/gq/rym"]
 	path = ka/gq/rym
 	url = .
+[submodule "ka/hz/onc"]
+	path = ka/hz/onc
+	url = .
 [submodule "ka/ia/wgs"]
 	path = ka/ia/wgs
 	url = .
