@@ -1051,6 +1051,9 @@
 [submodule "ur/le/qqt"]
 	path = ur/le/qqt
 	url = .
+[submodule "ur/mq/dxa"]
+	path = ur/mq/dxa
+	url = .
 [submodule "ut/yn/vdx"]
 	path = ut/yn/vdx
 	url = .
