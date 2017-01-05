@@ -13861,6 +13861,9 @@
 [submodule "iq/gh/gvc"]
 	path = iq/gh/gvc
 	url = .
+[submodule "iq/ho/ikg"]
+	path = iq/ho/ikg
+	url = .
 [submodule "iq/hq/fjt"]
 	path = iq/hq/fjt
 	url = .
