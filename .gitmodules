@@ -820,6 +820,9 @@
 [submodule "co/co/ypu"]
 	path = co/co/ypu
 	url = .
+[submodule "co/da/frz"]
+	path = co/da/frz
+	url = .
 [submodule "co/dt/zxv"]
 	path = co/dt/zxv
 	url = .
