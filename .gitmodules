@@ -2587,6 +2587,9 @@
 [submodule "jf/xi/nas"]
 	path = jf/xi/nas
 	url = .
+[submodule "jg/ii/eto"]
+	path = jg/ii/eto
+	url = .
 [submodule "jg/kp/ikh"]
 	path = jg/kp/ikh
 	url = .
