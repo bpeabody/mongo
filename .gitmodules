@@ -49210,6 +49210,9 @@
 [submodule "uh/it/buv"]
 	path = uh/it/buv
 	url = .
+[submodule "uh/jf/qmn"]
+	path = uh/jf/qmn
+	url = .
 [submodule "uh/lk/aqk"]
 	path = uh/lk/aqk
 	url = .
