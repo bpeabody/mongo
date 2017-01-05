@@ -6151,6 +6151,9 @@
 [submodule "fe/ni/vrp"]
 	path = fe/ni/vrp
 	url = .
+[submodule "fe/nx/kpz"]
+	path = fe/nx/kpz
+	url = .
 [submodule "fe/pp/awv"]
 	path = fe/pp/awv
 	url = .
