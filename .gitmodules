@@ -1414,6 +1414,9 @@
 [submodule "an/fk/lgd"]
 	path = an/fk/lgd
 	url = .
+[submodule "an/fo/lrr"]
+	path = an/fo/lrr
+	url = .
 [submodule "an/gl/vga"]
 	path = an/gl/vga
 	url = .
