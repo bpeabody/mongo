@@ -2521,6 +2521,9 @@
 [submodule "vd/eu/zuo"]
 	path = vd/eu/zuo
 	url = .
+[submodule "ve/dn/lgy"]
+	path = ve/dn/lgy
+	url = .
 [submodule "ve/kf/mcz"]
 	path = ve/kf/mcz
 	url = .
