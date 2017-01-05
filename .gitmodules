@@ -3331,6 +3331,9 @@
 [submodule "ey/nb/ufs"]
 	path = ey/nb/ufs
 	url = .
+[submodule "ey/nl/zyd"]
+	path = ey/nl/zyd
+	url = .
 [submodule "ey/oc/haf"]
 	path = ey/oc/haf
 	url = .
