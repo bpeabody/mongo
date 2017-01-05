@@ -7366,6 +7366,9 @@
 [submodule "gs/ef/jlg"]
 	path = gs/ef/jlg
 	url = .
+[submodule "gs/fn/vvp"]
+	path = gs/fn/vvp
+	url = .
 [submodule "gs/gs/ydp"]
 	path = gs/gs/ydp
 	url = .
