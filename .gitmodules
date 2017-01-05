@@ -10138,6 +10138,9 @@
 [submodule "nu/su/mem"]
 	path = nu/su/mem
 	url = .
+[submodule "nv/fz/fvo"]
+	path = nv/fz/fvo
+	url = .
 [submodule "nv/ic/qwa"]
 	path = nv/ic/qwa
 	url = .
