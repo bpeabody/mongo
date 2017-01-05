@@ -2035,6 +2035,9 @@
 [submodule "lk/py/ovo"]
 	path = lk/py/ovo
 	url = .
+[submodule "lk/rw/oon"]
+	path = lk/rw/oon
+	url = .
 [submodule "ll/pb/bxq"]
 	path = ll/pb/bxq
 	url = .
