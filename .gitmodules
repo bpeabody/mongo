@@ -25069,6 +25069,9 @@
 [submodule "jk/gs/djo"]
 	path = jk/gs/djo
 	url = .
+[submodule "jk/hr/mzx"]
+	path = jk/hr/mzx
+	url = .
 [submodule "jk/hv/jlz"]
 	path = jk/hv/jlz
 	url = .
