@@ -6112,6 +6112,9 @@
 [submodule "gq/uh/xnh"]
 	path = gq/uh/xnh
 	url = .
+[submodule "gr/ad/kcd"]
+	path = gr/ad/kcd
+	url = .
 [submodule "gr/ah/oil"]
 	path = gr/ah/oil
 	url = .
