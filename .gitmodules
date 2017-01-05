@@ -1,6 +1,9 @@
 [submodule "ah/qy/stj"]
 	path = ah/qy/stj
 	url = .
+[submodule "mo/ei/xti"]
+	path = mo/ei/xti
+	url = .
 [submodule "mr/og/htr"]
 	path = mr/og/htr
 	url = .
