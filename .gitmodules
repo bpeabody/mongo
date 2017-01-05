@@ -2584,6 +2584,9 @@
 [submodule "bg/ub/hli"]
 	path = bg/ub/hli
 	url = .
+[submodule "bg/un/hvv"]
+	path = bg/un/hvv
+	url = .
 [submodule "bg/uv/ldg"]
 	path = bg/uv/ldg
 	url = .
