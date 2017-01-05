@@ -10843,6 +10843,9 @@
 [submodule "mq/do/cnh"]
 	path = mq/do/cnh
 	url = .
+[submodule "mq/dv/mhw"]
+	path = mq/dv/mhw
+	url = .
 [submodule "mq/dv/zub"]
 	path = mq/dv/zub
 	url = .
