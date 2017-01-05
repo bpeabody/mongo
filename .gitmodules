@@ -3094,6 +3094,9 @@
 [submodule "js/vx/sft"]
 	path = js/vx/sft
 	url = .
+[submodule "jt/ff/dlg"]
+	path = jt/ff/dlg
+	url = .
 [submodule "jt/go/jbn"]
 	path = jt/go/jbn
 	url = .
