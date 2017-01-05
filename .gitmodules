@@ -62161,6 +62161,9 @@
 [submodule "yv/yb/ucg"]
 	path = yv/yb/ucg
 	url = .
+[submodule "yv/yp/ind"]
+	path = yv/yp/ind
+	url = .
 [submodule "yv/zb/zcg"]
 	path = yv/zb/zcg
 	url = .
