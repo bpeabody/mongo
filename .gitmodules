@@ -44809,6 +44809,9 @@
 [submodule "vd/np/mno"]
 	path = vd/np/mno
 	url = .
+[submodule "vd/oe/yrd"]
+	path = vd/oe/yrd
+	url = .
 [submodule "vd/qi/ngz"]
 	path = vd/qi/ngz
 	url = .
