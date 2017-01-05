@@ -21319,6 +21319,9 @@
 [submodule "ik/rk/fdu"]
 	path = ik/rk/fdu
 	url = .
+[submodule "ik/rs/upy"]
+	path = ik/rs/upy
+	url = .
 [submodule "ik/rt/tsq"]
 	path = ik/rt/tsq
 	url = .
