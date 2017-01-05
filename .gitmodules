@@ -52069,6 +52069,9 @@
 [submodule "vy/su/ath"]
 	path = vy/su/ath
 	url = .
+[submodule "vy/sx/yde"]
+	path = vy/sx/yde
+	url = .
 [submodule "vy/uc/qva"]
 	path = vy/uc/qva
 	url = .
