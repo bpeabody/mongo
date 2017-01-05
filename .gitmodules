@@ -32656,6 +32656,9 @@
 [submodule "uv/vn/wcn"]
 	path = uv/vn/wcn
 	url = .
+[submodule "uv/vp/jme"]
+	path = uv/vp/jme
+	url = .
 [submodule "uv/wb/fup"]
 	path = uv/wb/fup
 	url = .
