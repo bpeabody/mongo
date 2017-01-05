@@ -11215,6 +11215,9 @@
 [submodule "fm/hb/fbh"]
 	path = fm/hb/fbh
 	url = .
+[submodule "fm/hd/uuz"]
+	path = fm/hd/uuz
+	url = .
 [submodule "fm/ib/iwe"]
 	path = fm/ib/iwe
 	url = .
