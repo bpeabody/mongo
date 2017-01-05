@@ -9616,6 +9616,9 @@
 [submodule "ua/gi/oac"]
 	path = ua/gi/oac
 	url = .
+[submodule "ua/hi/yej"]
+	path = ua/hi/yej
+	url = .
 [submodule "ua/ix/bdn"]
 	path = ua/ix/bdn
 	url = .
