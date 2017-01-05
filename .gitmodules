@@ -26041,6 +26041,9 @@
 [submodule "it/mq/kch"]
 	path = it/mq/kch
 	url = .
+[submodule "it/np/kra"]
+	path = it/np/kra
+	url = .
 [submodule "it/pi/ple"]
 	path = it/pi/ple
 	url = .
