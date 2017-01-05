@@ -30688,6 +30688,9 @@
 [submodule "sk/bc/kia"]
 	path = sk/bc/kia
 	url = .
+[submodule "sk/dg/ozg"]
+	path = sk/dg/ozg
+	url = .
 [submodule "sk/dt/bst"]
 	path = sk/dt/bst
 	url = .
