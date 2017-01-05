@@ -21439,6 +21439,9 @@
 [submodule "lv/ml/ali"]
 	path = lv/ml/ali
 	url = .
+[submodule "lv/mn/ytk"]
+	path = lv/mn/ytk
+	url = .
 [submodule "lv/mp/ics"]
 	path = lv/mp/ics
 	url = .
