@@ -43393,6 +43393,9 @@
 [submodule "vv/cx/jgd"]
 	path = vv/cx/jgd
 	url = .
+[submodule "vv/eg/kig"]
+	path = vv/eg/kig
+	url = .
 [submodule "vv/em/mvj"]
 	path = vv/em/mvj
 	url = .
