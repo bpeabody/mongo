@@ -10591,6 +10591,9 @@
 [submodule "fw/ro/bhg"]
 	path = fw/ro/bhg
 	url = .
+[submodule "fw/sa/ekk"]
+	path = fw/sa/ekk
+	url = .
 [submodule "fw/sb/eep"]
 	path = fw/sb/eep
 	url = .
