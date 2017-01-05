@@ -940,6 +940,9 @@
 [submodule "ao/kf/pam"]
 	path = ao/kf/pam
 	url = .
+[submodule "ao/kw/zkr"]
+	path = ao/kw/zkr
+	url = .
 [submodule "ao/my/bgz"]
 	path = ao/my/bgz
 	url = .
