@@ -18358,6 +18358,9 @@
 [submodule "yb/kw/maz"]
 	path = yb/kw/maz
 	url = .
+[submodule "yb/mn/hmj"]
+	path = yb/mn/hmj
+	url = .
 [submodule "yb/np/nbn"]
 	path = yb/np/nbn
 	url = .
