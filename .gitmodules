@@ -14947,6 +14947,9 @@
 [submodule "vy/ez/zec"]
 	path = vy/ez/zec
 	url = .
+[submodule "vy/lr/dpn"]
+	path = vy/lr/dpn
+	url = .
 [submodule "vy/nf/omw"]
 	path = vy/nf/omw
 	url = .
