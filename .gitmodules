@@ -36235,6 +36235,9 @@
 [submodule "ve/tj/zdv"]
 	path = ve/tj/zdv
 	url = .
+[submodule "ve/ui/pop"]
+	path = ve/ui/pop
+	url = .
 [submodule "ve/vs/lbo"]
 	path = ve/vs/lbo
 	url = .
