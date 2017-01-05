@@ -37492,6 +37492,9 @@
 [submodule "zc/yk/zyz"]
 	path = zc/yk/zyz
 	url = .
+[submodule "zc/ym/qdk"]
+	path = zc/ym/qdk
+	url = .
 [submodule "zc/zf/xng"]
 	path = zc/zf/xng
 	url = .
