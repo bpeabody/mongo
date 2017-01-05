@@ -45718,6 +45718,9 @@
 [submodule "wr/uh/buc"]
 	path = wr/uh/buc
 	url = .
+[submodule "wr/ur/xdj"]
+	path = wr/ur/xdj
+	url = .
 [submodule "wr/vx/aym"]
 	path = wr/vx/aym
 	url = .
