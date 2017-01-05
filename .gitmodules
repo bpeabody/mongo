@@ -18280,6 +18280,9 @@
 [submodule "sq/ie/xmg"]
 	path = sq/ie/xmg
 	url = .
+[submodule "sq/mq/xgw"]
+	path = sq/mq/xgw
+	url = .
 [submodule "sq/nq/kmg"]
 	path = sq/nq/kmg
 	url = .
