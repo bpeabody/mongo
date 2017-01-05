@@ -27943,6 +27943,9 @@
 [submodule "qz/tz/xka"]
 	path = qz/tz/xka
 	url = .
+[submodule "qz/vn/xhz"]
+	path = qz/vn/xhz
+	url = .
 [submodule "qz/vo/osx"]
 	path = qz/vo/osx
 	url = .
