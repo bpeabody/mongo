@@ -19423,6 +19423,9 @@
 [submodule "gl/go/wfl"]
 	path = gl/go/wfl
 	url = .
+[submodule "gl/jd/eal"]
+	path = gl/jd/eal
+	url = .
 [submodule "gl/jk/ijf"]
 	path = gl/jk/ijf
 	url = .
