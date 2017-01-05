@@ -18349,6 +18349,9 @@
 [submodule "ps/nz/xrf"]
 	path = ps/nz/xrf
 	url = .
+[submodule "ps/qh/pxq"]
+	path = ps/qh/pxq
+	url = .
 [submodule "ps/sg/lsk"]
 	path = ps/sg/lsk
 	url = .
