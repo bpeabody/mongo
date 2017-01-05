@@ -29407,6 +29407,9 @@
 [submodule "mx/vo/mcu"]
 	path = mx/vo/mcu
 	url = .
+[submodule "mx/vz/rys"]
+	path = mx/vz/rys
+	url = .
 [submodule "mx/wv/gik"]
 	path = mx/wv/gik
 	url = .
