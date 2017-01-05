@@ -10240,6 +10240,9 @@
 [submodule "fv/hf/mbx"]
 	path = fv/hf/mbx
 	url = .
+[submodule "fv/hq/zyd"]
+	path = fv/hq/zyd
+	url = .
 [submodule "fv/hs/rja"]
 	path = fv/hs/rja
 	url = .
