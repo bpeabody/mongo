@@ -42790,6 +42790,9 @@
 [submodule "ro/fr/blc"]
 	path = ro/fr/blc
 	url = .
+[submodule "ro/gc/uxl"]
+	path = ro/gc/uxl
+	url = .
 [submodule "ro/gl/cwo"]
 	path = ro/gl/cwo
 	url = .
