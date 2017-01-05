@@ -15277,6 +15277,9 @@
 [submodule "xk/ct/set"]
 	path = xk/ct/set
 	url = .
+[submodule "xk/df/xqi"]
+	path = xk/df/xqi
+	url = .
 [submodule "xk/hk/jwq"]
 	path = xk/hk/jwq
 	url = .
