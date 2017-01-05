@@ -3187,6 +3187,9 @@
 [submodule "mo/gb/otf"]
 	path = mo/gb/otf
 	url = .
+[submodule "mo/xd/mbc"]
+	path = mo/xd/mbc
+	url = .
 [submodule "mp/hh/qcs"]
 	path = mp/hh/qcs
 	url = .
