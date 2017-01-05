@@ -17374,6 +17374,9 @@
 [submodule "mp/sx/ies"]
 	path = mp/sx/ies
 	url = .
+[submodule "mp/tl/yac"]
+	path = mp/tl/yac
+	url = .
 [submodule "mp/vj/dqa"]
 	path = mp/vj/dqa
 	url = .
