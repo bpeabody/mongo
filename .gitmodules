@@ -22777,6 +22777,9 @@
 [submodule "rw/xo/nxz"]
 	path = rw/xo/nxz
 	url = .
+[submodule "rw/ya/gox"]
+	path = rw/ya/gox
+	url = .
 [submodule "rw/zg/asb"]
 	path = rw/zg/asb
 	url = .
