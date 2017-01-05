@@ -12007,6 +12007,9 @@
 [submodule "uc/lp/rzn"]
 	path = uc/lp/rzn
 	url = .
+[submodule "uc/ls/aiv"]
+	path = uc/ls/aiv
+	url = .
 [submodule "uc/nt/vpp"]
 	path = uc/nt/vpp
 	url = .
