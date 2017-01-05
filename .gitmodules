@@ -11563,6 +11563,9 @@
 [submodule "fw/le/shw"]
 	path = fw/le/shw
 	url = .
+[submodule "fw/np/dxj"]
+	path = fw/np/dxj
+	url = .
 [submodule "fw/op/ltx"]
 	path = fw/op/ltx
 	url = .
