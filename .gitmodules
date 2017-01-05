@@ -47791,6 +47791,9 @@
 [submodule "ux/jg/ydb"]
 	path = ux/jg/ydb
 	url = .
+[submodule "ux/jv/nqv"]
+	path = ux/jv/nqv
+	url = .
 [submodule "ux/mp/nuz"]
 	path = ux/mp/nuz
 	url = .
