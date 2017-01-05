@@ -2635,6 +2635,9 @@
 [submodule "bn/gi/wav"]
 	path = bn/gi/wav
 	url = .
+[submodule "bn/hg/vub"]
+	path = bn/hg/vub
+	url = .
 [submodule "bn/hk/lat"]
 	path = bn/hk/lat
 	url = .
