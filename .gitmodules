@@ -11197,6 +11197,9 @@
 [submodule "gs/ar/suc"]
 	path = gs/ar/suc
 	url = .
+[submodule "gs/bt/loh"]
+	path = gs/bt/loh
+	url = .
 [submodule "gs/db/wxa"]
 	path = gs/db/wxa
 	url = .
