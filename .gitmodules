@@ -11422,6 +11422,9 @@
 [submodule "hb/qy/xwf"]
 	path = hb/qy/xwf
 	url = .
+[submodule "hb/rf/faj"]
+	path = hb/rf/faj
+	url = .
 [submodule "hb/rw/dln"]
 	path = hb/rw/dln
 	url = .
