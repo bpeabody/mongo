@@ -5002,6 +5002,9 @@
 [submodule "it/bs/vuh"]
 	path = it/bs/vuh
 	url = .
+[submodule "it/ei/vhm"]
+	path = it/ei/vhm
+	url = .
 [submodule "it/gj/zxa"]
 	path = it/gj/zxa
 	url = .
