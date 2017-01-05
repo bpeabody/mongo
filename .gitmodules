@@ -3868,6 +3868,9 @@
 [submodule "cp/lx/gql"]
 	path = cp/lx/gql
 	url = .
+[submodule "cp/ny/dli"]
+	path = cp/ny/dli
+	url = .
 [submodule "cp/oz/dzr"]
 	path = cp/oz/dzr
 	url = .
