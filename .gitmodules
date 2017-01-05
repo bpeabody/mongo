@@ -64723,6 +64723,9 @@
 [submodule "ya/cn/zan"]
 	path = ya/cn/zan
 	url = .
+[submodule "ya/dx/hfc"]
+	path = ya/dx/hfc
+	url = .
 [submodule "ya/fo/jkn"]
 	path = ya/fo/jkn
 	url = .
