@@ -877,6 +877,9 @@
 [submodule "at/qf/wfa"]
 	path = at/qf/wfa
 	url = .
+[submodule "at/qx/vih"]
+	path = at/qx/vih
+	url = .
 [submodule "at/sd/ont"]
 	path = at/sd/ont
 	url = .
