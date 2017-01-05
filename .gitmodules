@@ -1450,6 +1450,9 @@
 [submodule "ao/he/brt"]
 	path = ao/he/brt
 	url = .
+[submodule "ao/hm/yok"]
+	path = ao/hm/yok
+	url = .
 [submodule "ao/ih/cai"]
 	path = ao/ih/cai
 	url = .
