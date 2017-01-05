@@ -4246,6 +4246,9 @@
 [submodule "lv/ja/art"]
 	path = lv/ja/art
 	url = .
+[submodule "lv/ky/man"]
+	path = lv/ky/man
+	url = .
 [submodule "lv/nk/gvb"]
 	path = lv/nk/gvb
 	url = .
