@@ -3679,6 +3679,9 @@
 [submodule "yk/vm/ygq"]
 	path = yk/vm/ygq
 	url = .
+[submodule "yl/cl/eck"]
+	path = yl/cl/eck
+	url = .
 [submodule "yl/ir/cnt"]
 	path = yl/ir/cnt
 	url = .
