@@ -51877,6 +51877,9 @@
 [submodule "ws/pb/amp"]
 	path = ws/pb/amp
 	url = .
+[submodule "ws/rr/ayt"]
+	path = ws/rr/ayt
+	url = .
 [submodule "ws/su/smw"]
 	path = ws/su/smw
 	url = .
