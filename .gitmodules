@@ -5959,6 +5959,9 @@
 [submodule "ll/qh/lkp"]
 	path = ll/qh/lkp
 	url = .
+[submodule "ll/ql/cpm"]
+	path = ll/ql/cpm
+	url = .
 [submodule "ll/rk/dvw"]
 	path = ll/rk/dvw
 	url = .
