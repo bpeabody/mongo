@@ -1099,6 +1099,9 @@
 [submodule "ao/ak/xpg"]
 	path = ao/ak/xpg
 	url = .
+[submodule "ao/bj/lsq"]
+	path = ao/bj/lsq
+	url = .
 [submodule "ao/db/zpp"]
 	path = ao/db/zpp
 	url = .
