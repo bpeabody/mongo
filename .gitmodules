@@ -12406,6 +12406,9 @@
 [submodule "wi/aq/zuc"]
 	path = wi/aq/zuc
 	url = .
+[submodule "wi/az/tuh"]
+	path = wi/az/tuh
+	url = .
 [submodule "wi/fm/cpy"]
 	path = wi/fm/cpy
 	url = .
