@@ -1471,6 +1471,9 @@
 [submodule "en/pc/yao"]
 	path = en/pc/yao
 	url = .
+[submodule "en/yw/ozc"]
+	path = en/yw/ozc
+	url = .
 [submodule "eo/hb/hnz"]
 	path = eo/hb/hnz
 	url = .
