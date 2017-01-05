@@ -4714,6 +4714,9 @@
 [submodule "ml/ix/lte"]
 	path = ml/ix/lte
 	url = .
+[submodule "ml/kl/aoz"]
+	path = ml/kl/aoz
+	url = .
 [submodule "ml/kw/rwl"]
 	path = ml/kw/rwl
 	url = .
