@@ -5374,6 +5374,9 @@
 [submodule "sw/eh/hep"]
 	path = sw/eh/hep
 	url = .
+[submodule "sw/sa/oal"]
+	path = sw/sa/oal
+	url = .
 [submodule "sw/th/rtc"]
 	path = sw/th/rtc
 	url = .
