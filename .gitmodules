@@ -12262,6 +12262,9 @@
 [submodule "ls/gu/xmc"]
 	path = ls/gu/xmc
 	url = .
+[submodule "ls/lr/bsl"]
+	path = ls/lr/bsl
+	url = .
 [submodule "ls/mc/huk"]
 	path = ls/mc/huk
 	url = .
