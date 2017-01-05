@@ -2695,6 +2695,9 @@
 [submodule "yh/ci/kjo"]
 	path = yh/ci/kjo
 	url = .
+[submodule "yi/wl/fup"]
+	path = yi/wl/fup
+	url = .
 [submodule "yj/bz/jdu"]
 	path = yj/bz/jdu
 	url = .
