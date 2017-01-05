@@ -45235,6 +45235,9 @@
 [submodule "rb/bg/coz"]
 	path = rb/bg/coz
 	url = .
+[submodule "rb/dm/hfi"]
+	path = rb/dm/hfi
+	url = .
 [submodule "rb/eb/nut"]
 	path = rb/eb/nut
 	url = .
