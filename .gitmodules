@@ -53638,6 +53638,9 @@
 [submodule "ub/vf/hkc"]
 	path = ub/vf/hkc
 	url = .
+[submodule "ub/vs/afx"]
+	path = ub/vs/afx
+	url = .
 [submodule "ub/wb/lmb"]
 	path = ub/wb/lmb
 	url = .
