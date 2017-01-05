@@ -10861,6 +10861,9 @@
 [submodule "kp/lh/qlf"]
 	path = kp/lh/qlf
 	url = .
+[submodule "kp/qe/oer"]
+	path = kp/qe/oer
+	url = .
 [submodule "kp/qo/ctv"]
 	path = kp/qo/ctv
 	url = .
