@@ -33586,6 +33586,9 @@
 [submodule "lh/ir/toc"]
 	path = lh/ir/toc
 	url = .
+[submodule "lh/ja/awi"]
+	path = lh/ja/awi
+	url = .
 [submodule "lh/jz/qip"]
 	path = lh/jz/qip
 	url = .
