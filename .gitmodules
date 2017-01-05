@@ -38233,6 +38233,9 @@
 [submodule "sw/eh/hep"]
 	path = sw/eh/hep
 	url = .
+[submodule "sw/fs/ynx"]
+	path = sw/fs/ynx
+	url = .
 [submodule "sw/ji/evb"]
 	path = sw/ji/evb
 	url = .
