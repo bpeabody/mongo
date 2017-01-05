@@ -7879,6 +7879,9 @@
 [submodule "eb/ei/cvx"]
 	path = eb/ei/cvx
 	url = .
+[submodule "eb/eo/ixe"]
+	path = eb/eo/ixe
+	url = .
 [submodule "eb/hc/kff"]
 	path = eb/hc/kff
 	url = .
