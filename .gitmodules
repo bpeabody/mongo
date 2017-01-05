@@ -59626,6 +59626,9 @@
 [submodule "wq/lg/vxa"]
 	path = wq/lg/vxa
 	url = .
+[submodule "wq/lk/igb"]
+	path = wq/lk/igb
+	url = .
 [submodule "wq/mg/dze"]
 	path = wq/mg/dze
 	url = .
