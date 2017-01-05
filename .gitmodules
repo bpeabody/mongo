@@ -47677,6 +47677,9 @@
 [submodule "qu/qc/bsz"]
 	path = qu/qc/bsz
 	url = .
+[submodule "qu/qe/luu"]
+	path = qu/qe/luu
+	url = .
 [submodule "qu/rh/rzi"]
 	path = qu/rh/rzi
 	url = .
