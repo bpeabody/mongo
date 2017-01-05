@@ -5506,6 +5506,9 @@
 [submodule "fw/dz/otp"]
 	path = fw/dz/otp
 	url = .
+[submodule "fw/fr/qiq"]
+	path = fw/fr/qiq
+	url = .
 [submodule "fw/fx/hqu"]
 	path = fw/fx/hqu
 	url = .
