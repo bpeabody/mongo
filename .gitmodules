@@ -10126,6 +10126,9 @@
 [submodule "fx/bf/jqm"]
 	path = fx/bf/jqm
 	url = .
+[submodule "fx/bq/btl"]
+	path = fx/bq/btl
+	url = .
 [submodule "fx/ci/dut"]
 	path = fx/ci/dut
 	url = .
