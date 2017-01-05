@@ -10582,6 +10582,9 @@
 [submodule "fs/jk/tyf"]
 	path = fs/jk/tyf
 	url = .
+[submodule "fs/ka/vto"]
+	path = fs/ka/vto
+	url = .
 [submodule "fs/ki/xoi"]
 	path = fs/ki/xoi
 	url = .
