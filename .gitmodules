@@ -23071,6 +23071,9 @@
 [submodule "kl/ke/dep"]
 	path = kl/ke/dep
 	url = .
+[submodule "kl/ki/vhh"]
+	path = kl/ki/vhh
+	url = .
 [submodule "kl/mx/xin"]
 	path = kl/mx/xin
 	url = .
