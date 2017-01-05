@@ -10993,6 +10993,9 @@
 [submodule "oj/gz/vfo"]
 	path = oj/gz/vfo
 	url = .
+[submodule "oj/mj/vwv"]
+	path = oj/mj/vwv
+	url = .
 [submodule "oj/mx/uof"]
 	path = oj/mx/uof
 	url = .
