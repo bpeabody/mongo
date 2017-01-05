@@ -8395,6 +8395,9 @@
 [submodule "lr/ew/erb"]
 	path = lr/ew/erb
 	url = .
+[submodule "lr/id/rkp"]
+	path = lr/id/rkp
+	url = .
 [submodule "lr/kw/lyi"]
 	path = lr/kw/lyi
 	url = .
