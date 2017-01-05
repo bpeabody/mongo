@@ -6877,6 +6877,9 @@
 [submodule "rv/dw/znw"]
 	path = rv/dw/znw
 	url = .
+[submodule "rv/ga/ogc"]
+	path = rv/ga/ogc
+	url = .
 [submodule "rv/me/ajd"]
 	path = rv/me/ajd
 	url = .
