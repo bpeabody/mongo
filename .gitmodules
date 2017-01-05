@@ -3682,6 +3682,9 @@
 [submodule "bf/lw/cxc"]
 	path = bf/lw/cxc
 	url = .
+[submodule "bf/mg/ayp"]
+	path = bf/mg/ayp
+	url = .
 [submodule "bf/nd/kou"]
 	path = bf/nd/kou
 	url = .
