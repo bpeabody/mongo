@@ -1957,6 +1957,9 @@
 [submodule "cp/ag/hmu"]
 	path = cp/ag/hmu
 	url = .
+[submodule "cp/cb/jnh"]
+	path = cp/cb/jnh
+	url = .
 [submodule "cp/dx/pjo"]
 	path = cp/dx/pjo
 	url = .
