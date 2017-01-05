@@ -5116,6 +5116,9 @@
 [submodule "dg/em/vmk"]
 	path = dg/em/vmk
 	url = .
+[submodule "dg/en/mxm"]
+	path = dg/en/mxm
+	url = .
 [submodule "dg/fg/vnl"]
 	path = dg/fg/vnl
 	url = .
