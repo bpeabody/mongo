@@ -34372,6 +34372,9 @@
 [submodule "nh/bb/foy"]
 	path = nh/bb/foy
 	url = .
+[submodule "nh/ce/dpn"]
+	path = nh/ce/dpn
+	url = .
 [submodule "nh/cw/akl"]
 	path = nh/cw/akl
 	url = .
