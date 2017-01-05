@@ -1591,6 +1591,9 @@
 [submodule "dd/ih/dxs"]
 	path = dd/ih/dxs
 	url = .
+[submodule "dd/lo/qje"]
+	path = dd/lo/qje
+	url = .
 [submodule "dd/lu/wcn"]
 	path = dd/lu/wcn
 	url = .
