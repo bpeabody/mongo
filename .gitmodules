@@ -7933,6 +7933,9 @@
 [submodule "gt/qy/uli"]
 	path = gt/qy/uli
 	url = .
+[submodule "gt/rd/vob"]
+	path = gt/rd/vob
+	url = .
 [submodule "gt/tq/ohr"]
 	path = gt/tq/ohr
 	url = .
