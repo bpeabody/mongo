@@ -613,6 +613,9 @@
 [submodule "av/ay/jwk"]
 	path = av/ay/jwk
 	url = .
+[submodule "av/ha/thl"]
+	path = av/ha/thl
+	url = .
 [submodule "av/my/iji"]
 	path = av/my/iji
 	url = .
