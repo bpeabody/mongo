@@ -451,6 +451,9 @@
 [submodule "da/fs/wna"]
 	path = da/fs/wna
 	url = .
+[submodule "da/gk/keh"]
+	path = da/gk/keh
+	url = .
 [submodule "db/aw/yos"]
 	path = db/aw/yos
 	url = .
