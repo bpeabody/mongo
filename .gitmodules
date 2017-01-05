@@ -2962,6 +2962,9 @@
 [submodule "dj/eq/gjk"]
 	path = dj/eq/gjk
 	url = .
+[submodule "dj/fe/qng"]
+	path = dj/fe/qng
+	url = .
 [submodule "dj/ix/zjk"]
 	path = dj/ix/zjk
 	url = .
