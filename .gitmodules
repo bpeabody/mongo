@@ -17737,6 +17737,9 @@
 [submodule "hs/dm/alp"]
 	path = hs/dm/alp
 	url = .
+[submodule "hs/ds/bvr"]
+	path = hs/ds/bvr
+	url = .
 [submodule "hs/fi/eyo"]
 	path = hs/fi/eyo
 	url = .
