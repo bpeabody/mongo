@@ -1048,6 +1048,9 @@
 [submodule "ak/jf/oer"]
 	path = ak/jf/oer
 	url = .
+[submodule "ak/jp/mfp"]
+	path = ak/jp/mfp
+	url = .
 [submodule "ak/ki/psd"]
 	path = ak/ki/psd
 	url = .
