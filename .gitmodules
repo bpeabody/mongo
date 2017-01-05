@@ -7255,6 +7255,9 @@
 [submodule "id/ub/bbs"]
 	path = id/ub/bbs
 	url = .
+[submodule "id/uj/cqc"]
+	path = id/uj/cqc
+	url = .
 [submodule "id/vu/pit"]
 	path = id/vu/pit
 	url = .
