@@ -52855,6 +52855,9 @@
 [submodule "yf/eg/fsn"]
 	path = yf/eg/fsn
 	url = .
+[submodule "yf/fk/coy"]
+	path = yf/fk/coy
+	url = .
 [submodule "yf/gn/gjp"]
 	path = yf/gn/gjp
 	url = .
