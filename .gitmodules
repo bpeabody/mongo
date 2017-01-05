@@ -9763,6 +9763,9 @@
 [submodule "dr/on/ipz"]
 	path = dr/on/ipz
 	url = .
+[submodule "dr/pc/snp"]
+	path = dr/pc/snp
+	url = .
 [submodule "dr/pl/pao"]
 	path = dr/pl/pao
 	url = .
