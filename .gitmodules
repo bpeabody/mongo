@@ -7774,6 +7774,9 @@
 [submodule "gy/vf/pto"]
 	path = gy/vf/pto
 	url = .
+[submodule "gy/vn/fyp"]
+	path = gy/vn/fyp
+	url = .
 [submodule "gy/wk/nmt"]
 	path = gy/wk/nmt
 	url = .
