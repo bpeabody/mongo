@@ -36847,6 +36847,9 @@
 [submodule "qu/jb/ary"]
 	path = qu/jb/ary
 	url = .
+[submodule "qu/js/kvx"]
+	path = qu/js/kvx
+	url = .
 [submodule "qu/jz/kgo"]
 	path = qu/jz/kgo
 	url = .
