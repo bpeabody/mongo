@@ -7243,6 +7243,9 @@
 [submodule "co/eg/lpr"]
 	path = co/eg/lpr
 	url = .
+[submodule "co/er/gqd"]
+	path = co/er/gqd
+	url = .
 [submodule "co/eu/wdh"]
 	path = co/eu/wdh
 	url = .
