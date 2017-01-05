@@ -3673,6 +3673,9 @@
 [submodule "cv/xq/olr"]
 	path = cv/xq/olr
 	url = .
+[submodule "cv/xv/lwa"]
+	path = cv/xv/lwa
+	url = .
 [submodule "cw/cf/hsi"]
 	path = cw/cf/hsi
 	url = .
