@@ -5710,6 +5710,9 @@
 [submodule "it/ei/vhm"]
 	path = it/ei/vhm
 	url = .
+[submodule "it/fu/eko"]
+	path = it/fu/eko
+	url = .
 [submodule "it/gj/zxa"]
 	path = it/gj/zxa
 	url = .
