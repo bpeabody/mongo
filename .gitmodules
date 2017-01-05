@@ -6391,6 +6391,9 @@
 [submodule "zi/gw/pdy"]
 	path = zi/gw/pdy
 	url = .
+[submodule "zi/hp/vev"]
+	path = zi/hp/vev
+	url = .
 [submodule "zi/je/ris"]
 	path = zi/je/ris
 	url = .
