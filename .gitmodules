@@ -16126,6 +16126,9 @@
 [submodule "hw/hf/hca"]
 	path = hw/hf/hca
 	url = .
+[submodule "hw/hg/yub"]
+	path = hw/hg/yub
+	url = .
 [submodule "hw/id/qsv"]
 	path = hw/id/qsv
 	url = .
