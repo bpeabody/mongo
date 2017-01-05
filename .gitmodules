@@ -18964,6 +18964,9 @@
 [submodule "hx/eo/heq"]
 	path = hx/eo/heq
 	url = .
+[submodule "hx/gb/jvr"]
+	path = hx/gb/jvr
+	url = .
 [submodule "hx/hq/ubv"]
 	path = hx/hq/ubv
 	url = .
