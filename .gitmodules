@@ -673,6 +673,9 @@
 [submodule "bj/zd/uqi"]
 	path = bj/zd/uqi
 	url = .
+[submodule "bk/la/wfw"]
+	path = bk/la/wfw
+	url = .
 [submodule "bk/op/qic"]
 	path = bk/op/qic
 	url = .
