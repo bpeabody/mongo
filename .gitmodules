@@ -23536,6 +23536,9 @@
 [submodule "tp/pe/irk"]
 	path = tp/pe/irk
 	url = .
+[submodule "tp/pw/vgn"]
+	path = tp/pw/vgn
+	url = .
 [submodule "tp/qh/kzb"]
 	path = tp/qh/kzb
 	url = .
