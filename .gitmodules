@@ -15967,6 +15967,9 @@
 [submodule "mc/sh/tqj"]
 	path = mc/sh/tqj
 	url = .
+[submodule "md/bw/xac"]
+	path = md/bw/xac
+	url = .
 [submodule "md/ec/taj"]
 	path = md/ec/taj
 	url = .
