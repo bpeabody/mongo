@@ -7759,6 +7759,9 @@
 [submodule "ih/hw/fcm"]
 	path = ih/hw/fcm
 	url = .
+[submodule "ih/iq/uvz"]
+	path = ih/iq/uvz
+	url = .
 [submodule "ih/mu/qwz"]
 	path = ih/mu/qwz
 	url = .
