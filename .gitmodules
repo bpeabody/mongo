@@ -4357,6 +4357,9 @@
 [submodule "fz/lf/ubw"]
 	path = fz/lf/ubw
 	url = .
+[submodule "fz/ni/qbb"]
+	path = fz/ni/qbb
+	url = .
 [submodule "fz/qf/hvs"]
 	path = fz/qf/hvs
 	url = .
