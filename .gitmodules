@@ -2065,6 +2065,9 @@
 [submodule "dn/cz/zmj"]
 	path = dn/cz/zmj
 	url = .
+[submodule "dn/dt/lda"]
+	path = dn/dt/lda
+	url = .
 [submodule "dn/dy/hee"]
 	path = dn/dy/hee
 	url = .
