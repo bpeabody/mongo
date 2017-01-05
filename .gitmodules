@@ -54850,6 +54850,9 @@
 [submodule "vc/tq/ckd"]
 	path = vc/tq/ckd
 	url = .
+[submodule "vc/uc/lkf"]
+	path = vc/uc/lkf
+	url = .
 [submodule "vc/uz/xra"]
 	path = vc/uz/xra
 	url = .
