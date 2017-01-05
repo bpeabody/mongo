@@ -5938,6 +5938,9 @@
 [submodule "kt/bh/oeh"]
 	path = kt/bh/oeh
 	url = .
+[submodule "kt/sx/ehs"]
+	path = kt/sx/ehs
+	url = .
 [submodule "kt/yr/yyd"]
 	path = kt/yr/yyd
 	url = .
