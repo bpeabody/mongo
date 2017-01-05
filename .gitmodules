@@ -19183,6 +19183,9 @@
 [submodule "pi/na/txc"]
 	path = pi/na/txc
 	url = .
+[submodule "pi/ot/egj"]
+	path = pi/ot/egj
+	url = .
 [submodule "pi/qa/rav"]
 	path = pi/qa/rav
 	url = .
