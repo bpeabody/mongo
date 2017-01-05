@@ -15664,6 +15664,9 @@
 [submodule "mp/lv/mhr"]
 	path = mp/lv/mhr
 	url = .
+[submodule "mp/ns/vpa"]
+	path = mp/ns/vpa
+	url = .
 [submodule "mp/ob/jbc"]
 	path = mp/ob/jbc
 	url = .
