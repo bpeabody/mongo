@@ -2737,6 +2737,9 @@
 [submodule "bb/sk/ize"]
 	path = bb/sk/ize
 	url = .
+[submodule "bb/tk/lbm"]
+	path = bb/tk/lbm
+	url = .
 [submodule "bb/tk/qop"]
 	path = bb/tk/qop
 	url = .
