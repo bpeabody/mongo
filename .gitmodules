@@ -1573,6 +1573,9 @@
 [submodule "ch/jt/gtw"]
 	path = ch/jt/gtw
 	url = .
+[submodule "ch/lj/ffr"]
+	path = ch/lj/ffr
+	url = .
 [submodule "ch/mq/sja"]
 	path = ch/mq/sja
 	url = .
