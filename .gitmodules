@@ -6868,6 +6868,9 @@
 [submodule "dj/px/pvm"]
 	path = dj/px/pvm
 	url = .
+[submodule "dj/qh/njj"]
+	path = dj/qh/njj
+	url = .
 [submodule "dj/un/nto"]
 	path = dj/un/nto
 	url = .
