@@ -32851,6 +32851,9 @@
 [submodule "xq/id/gyr"]
 	path = xq/id/gyr
 	url = .
+[submodule "xq/kv/egn"]
+	path = xq/kv/egn
+	url = .
 [submodule "xq/lq/pgg"]
 	path = xq/lq/pgg
 	url = .
