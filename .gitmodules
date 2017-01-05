@@ -8413,6 +8413,9 @@
 [submodule "wr/mk/bgd"]
 	path = wr/mk/bgd
 	url = .
+[submodule "wr/mz/rfd"]
+	path = wr/mz/rfd
+	url = .
 [submodule "wr/rx/gad"]
 	path = wr/rx/gad
 	url = .
