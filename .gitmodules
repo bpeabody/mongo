@@ -14443,6 +14443,9 @@
 [submodule "tc/ap/cbn"]
 	path = tc/ap/cbn
 	url = .
+[submodule "tc/aw/kwh"]
+	path = tc/aw/kwh
+	url = .
 [submodule "tc/jw/tos"]
 	path = tc/jw/tos
 	url = .
