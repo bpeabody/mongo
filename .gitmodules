@@ -6751,6 +6751,9 @@
 [submodule "cg/jk/kps"]
 	path = cg/jk/kps
 	url = .
+[submodule "cg/ln/yty"]
+	path = cg/ln/yty
+	url = .
 [submodule "cg/md/hvj"]
 	path = cg/md/hvj
 	url = .
