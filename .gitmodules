@@ -9763,6 +9763,9 @@
 [submodule "kg/eu/ctx"]
 	path = kg/eu/ctx
 	url = .
+[submodule "kg/ih/qya"]
+	path = kg/ih/qya
+	url = .
 [submodule "kg/kd/nvg"]
 	path = kg/kd/nvg
 	url = .
