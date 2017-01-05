@@ -33364,6 +33364,9 @@
 [submodule "ue/am/mfe"]
 	path = ue/am/mfe
 	url = .
+[submodule "ue/bq/hqe"]
+	path = ue/bq/hqe
+	url = .
 [submodule "ue/fk/acb"]
 	path = ue/fk/acb
 	url = .
