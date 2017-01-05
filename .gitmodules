@@ -8533,6 +8533,9 @@
 [submodule "sh/vp/sxs"]
 	path = sh/vp/sxs
 	url = .
+[submodule "sh/xf/ixx"]
+	path = sh/xf/ixx
+	url = .
 [submodule "sh/zh/jij"]
 	path = sh/zh/jij
 	url = .
