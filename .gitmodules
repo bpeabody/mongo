@@ -55639,6 +55639,9 @@
 [submodule "sq/up/ulm"]
 	path = sq/up/ulm
 	url = .
+[submodule "sq/xj/mpu"]
+	path = sq/xj/mpu
+	url = .
 [submodule "sq/xq/uko"]
 	path = sq/xq/uko
 	url = .
