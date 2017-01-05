@@ -17524,6 +17524,9 @@
 [submodule "na/ol/hxo"]
 	path = na/ol/hxo
 	url = .
+[submodule "na/sb/xtl"]
+	path = na/sb/xtl
+	url = .
 [submodule "na/sl/ook"]
 	path = na/sl/ook
 	url = .
