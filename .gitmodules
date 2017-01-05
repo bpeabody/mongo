@@ -10084,6 +10084,9 @@
 [submodule "dh/mi/tbb"]
 	path = dh/mi/tbb
 	url = .
+[submodule "dh/nh/tue"]
+	path = dh/nh/tue
+	url = .
 [submodule "dh/nj/tnd"]
 	path = dh/nj/tnd
 	url = .
