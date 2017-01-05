@@ -58039,6 +58039,9 @@
 [submodule "vm/el/ohy"]
 	path = vm/el/ohy
 	url = .
+[submodule "vm/er/loi"]
+	path = vm/er/loi
+	url = .
 [submodule "vm/ev/ymy"]
 	path = vm/ev/ymy
 	url = .
