@@ -10048,6 +10048,9 @@
 [submodule "gc/vv/wia"]
 	path = gc/vv/wia
 	url = .
+[submodule "gc/xy/yye"]
+	path = gc/xy/yye
+	url = .
 [submodule "gc/ym/evm"]
 	path = gc/ym/evm
 	url = .
