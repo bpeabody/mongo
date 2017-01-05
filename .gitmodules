@@ -32305,6 +32305,9 @@
 [submodule "ry/ii/lgb"]
 	path = ry/ii/lgb
 	url = .
+[submodule "ry/ii/ydm"]
+	path = ry/ii/ydm
+	url = .
 [submodule "ry/kg/xet"]
 	path = ry/kg/xet
 	url = .
