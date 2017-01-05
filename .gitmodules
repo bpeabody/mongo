@@ -12562,6 +12562,9 @@
 [submodule "se/fp/sbv"]
 	path = se/fp/sbv
 	url = .
+[submodule "se/gj/fxp"]
+	path = se/gj/fxp
+	url = .
 [submodule "se/lr/sqo"]
 	path = se/lr/sqo
 	url = .
