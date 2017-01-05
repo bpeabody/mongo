@@ -31042,6 +31042,9 @@
 [submodule "lq/lv/nzb"]
 	path = lq/lv/nzb
 	url = .
+[submodule "lq/lw/jyp"]
+	path = lq/lw/jyp
+	url = .
 [submodule "lq/lz/sdp"]
 	path = lq/lz/sdp
 	url = .
