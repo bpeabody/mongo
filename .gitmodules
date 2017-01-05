@@ -34,6 +34,9 @@
 [submodule "ab/cw/npg"]
 	path = ab/cw/npg
 	url = .
+[submodule "ab/da/ajg"]
+	path = ab/da/ajg
+	url = .
 [submodule "ab/gf/yia"]
 	path = ab/gf/yia
 	url = .
