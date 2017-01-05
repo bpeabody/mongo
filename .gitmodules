@@ -1366,6 +1366,9 @@
 [submodule "ao/bj/lsq"]
 	path = ao/bj/lsq
 	url = .
+[submodule "ao/ca/rax"]
+	path = ao/ca/rax
+	url = .
 [submodule "ao/db/zpp"]
 	path = ao/db/zpp
 	url = .
