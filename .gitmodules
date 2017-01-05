@@ -3685,6 +3685,9 @@
 [submodule "fp/ha/ijx"]
 	path = fp/ha/ijx
 	url = .
+[submodule "fp/ji/lqh"]
+	path = fp/ji/lqh
+	url = .
 [submodule "fp/lx/twu"]
 	path = fp/lx/twu
 	url = .
