@@ -37771,6 +37771,9 @@
 [submodule "ms/so/bay"]
 	path = ms/so/bay
 	url = .
+[submodule "ms/ud/hhr"]
+	path = ms/ud/hhr
+	url = .
 [submodule "ms/ud/jat"]
 	path = ms/ud/jat
 	url = .
