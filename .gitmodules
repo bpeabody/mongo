@@ -47284,6 +47284,9 @@
 [submodule "vj/ni/dwj"]
 	path = vj/ni/dwj
 	url = .
+[submodule "vj/ov/fic"]
+	path = vj/ov/fic
+	url = .
 [submodule "vj/qe/vmn"]
 	path = vj/qe/vmn
 	url = .
