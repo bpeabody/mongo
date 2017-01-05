@@ -14284,6 +14284,9 @@
 [submodule "gn/vm/lvk"]
 	path = gn/vm/lvk
 	url = .
+[submodule "gn/vt/wbi"]
+	path = gn/vt/wbi
+	url = .
 [submodule "gn/wa/woa"]
 	path = gn/wa/woa
 	url = .
