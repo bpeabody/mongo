@@ -1396,6 +1396,9 @@
 [submodule "qu/wj/eda"]
 	path = qu/wj/eda
 	url = .
+[submodule "qu/zc/zxw"]
+	path = qu/zc/zxw
+	url = .
 [submodule "qv/fr/ogg"]
 	path = qv/fr/ogg
 	url = .
