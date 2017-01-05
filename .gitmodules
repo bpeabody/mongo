@@ -8998,6 +8998,9 @@
 [submodule "fq/ys/jrf"]
 	path = fq/ys/jrf
 	url = .
+[submodule "fq/zc/ewr"]
+	path = fq/zc/ewr
+	url = .
 [submodule "fq/zh/bws"]
 	path = fq/zh/bws
 	url = .
