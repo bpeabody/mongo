@@ -13537,6 +13537,9 @@
 [submodule "hf/ja/bui"]
 	path = hf/ja/bui
 	url = .
+[submodule "hf/jd/gce"]
+	path = hf/jd/gce
+	url = .
 [submodule "hf/ju/vnz"]
 	path = hf/ju/vnz
 	url = .
