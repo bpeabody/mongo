@@ -5269,6 +5269,9 @@
 [submodule "gx/kl/mlf"]
 	path = gx/kl/mlf
 	url = .
+[submodule "gx/mv/sip"]
+	path = gx/mv/sip
+	url = .
 [submodule "gx/ra/voq"]
 	path = gx/ra/voq
 	url = .
