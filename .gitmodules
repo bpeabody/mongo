@@ -26665,6 +26665,9 @@
 [submodule "jd/xb/azj"]
 	path = jd/xb/azj
 	url = .
+[submodule "jd/xh/vmw"]
+	path = jd/xh/vmw
+	url = .
 [submodule "jd/xn/rrg"]
 	path = jd/xn/rrg
 	url = .
