@@ -7030,6 +7030,9 @@
 [submodule "kn/ij/spu"]
 	path = kn/ij/spu
 	url = .
+[submodule "kn/jr/lsi"]
+	path = kn/jr/lsi
+	url = .
 [submodule "kn/md/nxi"]
 	path = kn/md/nxi
 	url = .
