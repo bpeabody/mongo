@@ -50404,6 +50404,9 @@
 [submodule "yn/bo/pex"]
 	path = yn/bo/pex
 	url = .
+[submodule "yn/by/fqs"]
+	path = yn/by/fqs
+	url = .
 [submodule "yn/di/izh"]
 	path = yn/di/izh
 	url = .
