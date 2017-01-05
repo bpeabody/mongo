@@ -17923,6 +17923,9 @@
 [submodule "vj/fm/ifx"]
 	path = vj/fm/ifx
 	url = .
+[submodule "vj/ni/dwj"]
+	path = vj/ni/dwj
+	url = .
 [submodule "vj/qe/vmn"]
 	path = vj/qe/vmn
 	url = .
