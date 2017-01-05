@@ -9310,6 +9310,9 @@
 [submodule "hk/sk/upt"]
 	path = hk/sk/upt
 	url = .
+[submodule "hk/sv/rrj"]
+	path = hk/sv/rrj
+	url = .
 [submodule "hk/uc/xti"]
 	path = hk/uc/xti
 	url = .
