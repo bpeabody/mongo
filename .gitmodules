@@ -11269,6 +11269,9 @@
 [submodule "xd/ov/fpz"]
 	path = xd/ov/fpz
 	url = .
+[submodule "xd/py/jia"]
+	path = xd/py/jia
+	url = .
 [submodule "xd/sr/znc"]
 	path = xd/sr/znc
 	url = .
