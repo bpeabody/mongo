@@ -14233,6 +14233,9 @@
 [submodule "pw/lu/hqi"]
 	path = pw/lu/hqi
 	url = .
+[submodule "pw/nn/ekh"]
+	path = pw/nn/ekh
+	url = .
 [submodule "pw/ty/zag"]
 	path = pw/ty/zag
 	url = .
