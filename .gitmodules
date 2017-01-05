@@ -880,6 +880,9 @@
 [submodule "ig/na/bus"]
 	path = ig/na/bus
 	url = .
+[submodule "ig/zn/jqz"]
+	path = ig/zn/jqz
+	url = .
 [submodule "ii/fe/rbq"]
 	path = ii/fe/rbq
 	url = .
