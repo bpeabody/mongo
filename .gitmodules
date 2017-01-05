@@ -280,6 +280,9 @@
 [submodule "ae/qu/rmz"]
 	path = ae/qu/rmz
 	url = .
+[submodule "ae/qx/vrc"]
+	path = ae/qx/vrc
+	url = .
 [submodule "ae/rb/glq"]
 	path = ae/rb/glq
 	url = .
