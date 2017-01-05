@@ -36466,6 +36466,9 @@
 [submodule "tc/up/may"]
 	path = tc/up/may
 	url = .
+[submodule "tc/yu/xya"]
+	path = tc/yu/xya
+	url = .
 [submodule "tc/za/rxb"]
 	path = tc/za/rxb
 	url = .
