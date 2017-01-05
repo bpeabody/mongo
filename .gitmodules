@@ -7669,6 +7669,9 @@
 [submodule "cy/ev/krb"]
 	path = cy/ev/krb
 	url = .
+[submodule "cy/fr/ddq"]
+	path = cy/fr/ddq
+	url = .
 [submodule "cy/fw/zuv"]
 	path = cy/fw/zuv
 	url = .
