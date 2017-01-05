@@ -37828,6 +37828,9 @@
 [submodule "za/sg/nqn"]
 	path = za/sg/nqn
 	url = .
+[submodule "za/sl/lzf"]
+	path = za/sl/lzf
+	url = .
 [submodule "za/sz/dqb"]
 	path = za/sz/dqb
 	url = .
