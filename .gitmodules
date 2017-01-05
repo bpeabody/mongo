@@ -26032,6 +26032,9 @@
 [submodule "nh/ev/ity"]
 	path = nh/ev/ity
 	url = .
+[submodule "nh/je/lzx"]
+	path = nh/je/lzx
+	url = .
 [submodule "nh/js/wmn"]
 	path = nh/js/wmn
 	url = .
