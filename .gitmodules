@@ -22846,6 +22846,9 @@
 [submodule "yy/no/low"]
 	path = yy/no/low
 	url = .
+[submodule "yy/ov/dvt"]
+	path = yy/ov/dvt
+	url = .
 [submodule "yy/rl/glp"]
 	path = yy/rl/glp
 	url = .
