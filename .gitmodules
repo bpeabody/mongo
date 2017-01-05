@@ -7894,6 +7894,9 @@
 [submodule "fw/rb/rqe"]
 	path = fw/rb/rqe
 	url = .
+[submodule "fw/ro/bhg"]
+	path = fw/ro/bhg
+	url = .
 [submodule "fw/sb/eep"]
 	path = fw/sb/eep
 	url = .
