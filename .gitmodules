@@ -28606,6 +28606,9 @@
 [submodule "mv/ge/mks"]
 	path = mv/ge/mks
 	url = .
+[submodule "mv/gk/vek"]
+	path = mv/gk/vek
+	url = .
 [submodule "mv/gp/ihs"]
 	path = mv/gp/ihs
 	url = .
