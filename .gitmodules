@@ -1219,6 +1219,9 @@
 [submodule "al/tc/vmi"]
 	path = al/tc/vmi
 	url = .
+[submodule "al/tw/xqm"]
+	path = al/tw/xqm
+	url = .
 [submodule "al/uk/fqf"]
 	path = al/uk/fqf
 	url = .
