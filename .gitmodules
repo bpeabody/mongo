@@ -4831,6 +4831,9 @@
 [submodule "yg/fm/kqy"]
 	path = yg/fm/kqy
 	url = .
+[submodule "yg/ji/wig"]
+	path = yg/ji/wig
+	url = .
 [submodule "yg/sf/hne"]
 	path = yg/sf/hne
 	url = .
