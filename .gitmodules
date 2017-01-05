@@ -3226,6 +3226,9 @@
 [submodule "up/mw/jeg"]
 	path = up/mw/jeg
 	url = .
+[submodule "up/qs/fbu"]
+	path = up/qs/fbu
+	url = .
 [submodule "uq/at/vvl"]
 	path = uq/at/vvl
 	url = .
