@@ -604,6 +604,9 @@
 [submodule "cg/ze/hsp"]
 	path = cg/ze/hsp
 	url = .
+[submodule "ch/cr/ywi"]
+	path = ch/cr/ywi
+	url = .
 [submodule "ch/jt/gtw"]
 	path = ch/jt/gtw
 	url = .
