@@ -1498,6 +1498,9 @@
 [submodule "dw/ao/xxr"]
 	path = dw/ao/xxr
 	url = .
+[submodule "dw/di/jkg"]
+	path = dw/di/jkg
+	url = .
 [submodule "dw/fe/qca"]
 	path = dw/fe/qca
 	url = .
