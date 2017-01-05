@@ -3778,6 +3778,9 @@
 [submodule "fx/jg/usj"]
 	path = fx/jg/usj
 	url = .
+[submodule "fx/lz/kyc"]
+	path = fx/lz/kyc
+	url = .
 [submodule "fx/na/vkm"]
 	path = fx/na/vkm
 	url = .
