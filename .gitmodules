@@ -28531,6 +28531,9 @@
 [submodule "lj/ob/dbe"]
 	path = lj/ob/dbe
 	url = .
+[submodule "lj/pg/sow"]
+	path = lj/pg/sow
+	url = .
 [submodule "lj/pm/hwr"]
 	path = lj/pm/hwr
 	url = .
