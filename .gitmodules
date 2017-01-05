@@ -45508,6 +45508,9 @@
 [submodule "ss/gj/qgn"]
 	path = ss/gj/qgn
 	url = .
+[submodule "ss/gk/nby"]
+	path = ss/gk/nby
+	url = .
 [submodule "ss/jk/kjo"]
 	path = ss/jk/kjo
 	url = .
