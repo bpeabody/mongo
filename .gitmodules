@@ -20248,6 +20248,9 @@
 [submodule "vl/ae/zec"]
 	path = vl/ae/zec
 	url = .
+[submodule "vl/el/uoz"]
+	path = vl/el/uoz
+	url = .
 [submodule "vl/ep/iqc"]
 	path = vl/ep/iqc
 	url = .
