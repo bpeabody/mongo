@@ -7834,6 +7834,9 @@
 [submodule "yr/kd/cdq"]
 	path = yr/kd/cdq
 	url = .
+[submodule "yr/qe/ifd"]
+	path = yr/qe/ifd
+	url = .
 [submodule "yr/xr/bes"]
 	path = yr/xr/bes
 	url = .
