@@ -742,6 +742,9 @@
 [submodule "en/pc/yao"]
 	path = en/pc/yao
 	url = .
+[submodule "eo/hb/hnz"]
+	path = eo/hb/hnz
+	url = .
 [submodule "ep/af/pop"]
 	path = ep/af/pop
 	url = .
