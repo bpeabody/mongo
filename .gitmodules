@@ -25033,6 +25033,9 @@
 [submodule "np/kg/jqu"]
 	path = np/kg/jqu
 	url = .
+[submodule "np/kw/aoz"]
+	path = np/kw/aoz
+	url = .
 [submodule "np/lr/dsy"]
 	path = np/lr/dsy
 	url = .
