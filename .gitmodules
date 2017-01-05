@@ -31228,6 +31228,9 @@
 [submodule "kk/bh/oak"]
 	path = kk/bh/oak
 	url = .
+[submodule "kk/dn/qok"]
+	path = kk/dn/qok
+	url = .
 [submodule "kk/ec/fsm"]
 	path = kk/ec/fsm
 	url = .
