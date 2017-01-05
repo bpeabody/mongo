@@ -50464,6 +50464,9 @@
 [submodule "tc/rp/vxe"]
 	path = tc/rp/vxe
 	url = .
+[submodule "tc/sc/ncz"]
+	path = tc/sc/ncz
+	url = .
 [submodule "tc/ta/vne"]
 	path = tc/ta/vne
 	url = .
