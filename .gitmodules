@@ -3268,6 +3268,9 @@
 [submodule "bn/aj/tqa"]
 	path = bn/aj/tqa
 	url = .
+[submodule "bn/ak/nal"]
+	path = bn/ak/nal
+	url = .
 [submodule "bn/br/ujz"]
 	path = bn/br/ujz
 	url = .
