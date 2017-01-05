@@ -6658,6 +6658,9 @@
 [submodule "gs/tv/wqq"]
 	path = gs/tv/wqq
 	url = .
+[submodule "gs/vl/ygh"]
+	path = gs/vl/ygh
+	url = .
 [submodule "gt/ft/vfx"]
 	path = gt/ft/vfx
 	url = .
