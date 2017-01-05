@@ -865,6 +865,9 @@
 [submodule "an/tp/fys"]
 	path = an/tp/fys
 	url = .
+[submodule "an/ut/wqb"]
+	path = an/ut/wqb
+	url = .
 [submodule "an/wk/nej"]
 	path = an/wk/nej
 	url = .
