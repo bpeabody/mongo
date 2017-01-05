@@ -44422,6 +44422,9 @@
 [submodule "oz/ut/okh"]
 	path = oz/ut/okh
 	url = .
+[submodule "oz/vj/nto"]
+	path = oz/vj/nto
+	url = .
 [submodule "oz/wh/uxl"]
 	path = oz/wh/uxl
 	url = .
