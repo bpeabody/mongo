@@ -12211,6 +12211,9 @@
 [submodule "wg/pi/hmt"]
 	path = wg/pi/hmt
 	url = .
+[submodule "wg/sh/ddy"]
+	path = wg/sh/ddy
+	url = .
 [submodule "wg/sm/gng"]
 	path = wg/sm/gng
 	url = .
