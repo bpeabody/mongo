@@ -256,6 +256,9 @@
 [submodule "af/vv/nsg"]
 	path = af/vv/nsg
 	url = .
+[submodule "af/vx/cwo"]
+	path = af/vx/cwo
+	url = .
 [submodule "af/yw/bmq"]
 	path = af/yw/bmq
 	url = .
