@@ -2563,6 +2563,9 @@
 [submodule "mj/gf/fsf"]
 	path = mj/gf/fsf
 	url = .
+[submodule "mj/su/qxu"]
+	path = mj/su/qxu
+	url = .
 [submodule "mj/vr/nfy"]
 	path = mj/vr/nfy
 	url = .
