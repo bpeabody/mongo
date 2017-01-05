@@ -9979,6 +9979,9 @@
 [submodule "hc/kp/faw"]
 	path = hc/kp/faw
 	url = .
+[submodule "hc/lx/heu"]
+	path = hc/lx/heu
+	url = .
 [submodule "hc/ns/ejv"]
 	path = hc/ns/ejv
 	url = .
