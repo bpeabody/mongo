@@ -18367,6 +18367,9 @@
 [submodule "mc/tc/wlc"]
 	path = mc/tc/wlc
 	url = .
+[submodule "mc/tk/csr"]
+	path = mc/tk/csr
+	url = .
 [submodule "md/bw/xac"]
 	path = md/bw/xac
 	url = .
