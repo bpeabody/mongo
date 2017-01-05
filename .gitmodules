@@ -11338,6 +11338,9 @@
 [submodule "tf/pf/dfu"]
 	path = tf/pf/dfu
 	url = .
+[submodule "tg/az/lyy"]
+	path = tg/az/lyy
+	url = .
 [submodule "tg/db/bsx"]
 	path = tg/db/bsx
 	url = .
