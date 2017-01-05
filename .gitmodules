@@ -47659,6 +47659,9 @@
 [submodule "vx/ch/gsc"]
 	path = vx/ch/gsc
 	url = .
+[submodule "vx/cq/rda"]
+	path = vx/cq/rda
+	url = .
 [submodule "vx/cv/oeq"]
 	path = vx/cv/oeq
 	url = .
