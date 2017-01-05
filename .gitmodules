@@ -1252,6 +1252,9 @@
 [submodule "cs/uq/elw"]
 	path = cs/uq/elw
 	url = .
+[submodule "cs/vs/uce"]
+	path = cs/vs/uce
+	url = .
 [submodule "cs/ws/ltu"]
 	path = cs/ws/ltu
 	url = .
