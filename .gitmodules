@@ -34192,6 +34192,9 @@
 [submodule "ll/hb/ako"]
 	path = ll/hb/ako
 	url = .
+[submodule "ll/iu/vpp"]
+	path = ll/iu/vpp
+	url = .
 [submodule "ll/iy/rdf"]
 	path = ll/iy/rdf
 	url = .
