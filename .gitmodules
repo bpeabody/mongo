@@ -3118,6 +3118,9 @@
 [submodule "ly/qd/fws"]
 	path = ly/qd/fws
 	url = .
+[submodule "lz/dz/msa"]
+	path = lz/dz/msa
+	url = .
 [submodule "lz/ky/gcn"]
 	path = lz/ky/gcn
 	url = .
