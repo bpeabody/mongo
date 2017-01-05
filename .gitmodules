@@ -1723,6 +1723,9 @@
 [submodule "ku/ap/bqq"]
 	path = ku/ap/bqq
 	url = .
+[submodule "ku/vv/azs"]
+	path = ku/vv/azs
+	url = .
 [submodule "kw/fb/twy"]
 	path = kw/fb/twy
 	url = .
