@@ -55081,6 +55081,9 @@
 [submodule "st/ds/inp"]
 	path = st/ds/inp
 	url = .
+[submodule "st/ei/vou"]
+	path = st/ei/vou
+	url = .
 [submodule "st/ej/mro"]
 	path = st/ej/mro
 	url = .
