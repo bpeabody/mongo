@@ -14128,6 +14128,9 @@
 [submodule "hb/co/cbv"]
 	path = hb/co/cbv
 	url = .
+[submodule "hb/dc/atk"]
+	path = hb/dc/atk
+	url = .
 [submodule "hb/eg/ksr"]
 	path = hb/eg/ksr
 	url = .
