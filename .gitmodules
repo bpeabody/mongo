@@ -19615,6 +19615,9 @@
 [submodule "xb/nv/dqr"]
 	path = xb/nv/dqr
 	url = .
+[submodule "xb/qy/ssd"]
+	path = xb/qy/ssd
+	url = .
 [submodule "xb/te/vre"]
 	path = xb/te/vre
 	url = .
