@@ -5572,6 +5572,9 @@
 [submodule "om/ve/rhg"]
 	path = om/ve/rhg
 	url = .
+[submodule "om/xv/whe"]
+	path = om/xv/whe
+	url = .
 [submodule "om/yt/klb"]
 	path = om/yt/klb
 	url = .
