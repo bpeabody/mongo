@@ -3454,6 +3454,9 @@
 [submodule "cu/dj/mca"]
 	path = cu/dj/mca
 	url = .
+[submodule "cu/ds/hdt"]
+	path = cu/ds/hdt
+	url = .
 [submodule "cu/et/pwq"]
 	path = cu/et/pwq
 	url = .
