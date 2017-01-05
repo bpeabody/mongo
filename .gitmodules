@@ -6286,6 +6286,9 @@
 [submodule "ex/ly/nbm"]
 	path = ex/ly/nbm
 	url = .
+[submodule "ex/or/qgm"]
+	path = ex/or/qgm
+	url = .
 [submodule "ex/oy/egv"]
 	path = ex/oy/egv
 	url = .
