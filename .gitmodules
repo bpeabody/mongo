@@ -19339,6 +19339,9 @@
 [submodule "ia/ct/gzb"]
 	path = ia/ct/gzb
 	url = .
+[submodule "ia/cu/rsu"]
+	path = ia/cu/rsu
+	url = .
 [submodule "ia/fc/drc"]
 	path = ia/fc/drc
 	url = .
