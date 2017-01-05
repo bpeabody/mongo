@@ -40282,6 +40282,9 @@
 [submodule "sb/ld/iri"]
 	path = sb/ld/iri
 	url = .
+[submodule "sb/lr/csc"]
+	path = sb/lr/csc
+	url = .
 [submodule "sb/lr/jjq"]
 	path = sb/lr/jjq
 	url = .
