@@ -13249,6 +13249,9 @@
 [submodule "hs/qw/jxo"]
 	path = hs/qw/jxo
 	url = .
+[submodule "hs/sy/pot"]
+	path = hs/sy/pot
+	url = .
 [submodule "hs/tw/rey"]
 	path = hs/tw/rey
 	url = .
