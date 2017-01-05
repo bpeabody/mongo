@@ -53509,6 +53509,9 @@
 [submodule "sj/gs/wmr"]
 	path = sj/gs/wmr
 	url = .
+[submodule "sj/gy/wvv"]
+	path = sj/gy/wvv
+	url = .
 [submodule "sj/hm/rat"]
 	path = sj/hm/rat
 	url = .
