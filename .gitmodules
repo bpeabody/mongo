@@ -21343,6 +21343,9 @@
 [submodule "ip/ox/gmm"]
 	path = ip/ox/gmm
 	url = .
+[submodule "ip/rj/ist"]
+	path = ip/rj/ist
+	url = .
 [submodule "ip/rm/eid"]
 	path = ip/rm/eid
 	url = .
