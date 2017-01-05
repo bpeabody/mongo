@@ -103,6 +103,9 @@
 [submodule "br/bz/nfg"]
 	path = br/bz/nfg
 	url = .
+[submodule "br/wj/rms"]
+	path = br/wj/rms
+	url = .
 [submodule "br/zo/tvs"]
 	path = br/zo/tvs
 	url = .
