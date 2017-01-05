@@ -16093,6 +16093,9 @@
 [submodule "yc/cs/ain"]
 	path = yc/cs/ain
 	url = .
+[submodule "yc/dr/ose"]
+	path = yc/dr/ose
+	url = .
 [submodule "yc/hn/ycl"]
 	path = yc/hn/ycl
 	url = .
