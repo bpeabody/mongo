@@ -28963,6 +28963,9 @@
 [submodule "we/cg/zxi"]
 	path = we/cg/zxi
 	url = .
+[submodule "we/ij/spt"]
+	path = we/ij/spt
+	url = .
 [submodule "we/ix/ffb"]
 	path = we/ix/ffb
 	url = .
