@@ -55756,6 +55756,9 @@
 [submodule "xi/gn/kru"]
 	path = xi/gn/kru
 	url = .
+[submodule "xi/id/nhu"]
+	path = xi/id/nhu
+	url = .
 [submodule "xi/ip/wvt"]
 	path = xi/ip/wvt
 	url = .
