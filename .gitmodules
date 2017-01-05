@@ -7501,6 +7501,9 @@
 [submodule "vm/el/ohy"]
 	path = vm/el/ohy
 	url = .
+[submodule "vm/sq/tbq"]
+	path = vm/sq/tbq
+	url = .
 [submodule "vm/xc/cpf"]
 	path = vm/xc/cpf
 	url = .
