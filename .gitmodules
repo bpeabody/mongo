@@ -6943,6 +6943,9 @@
 [submodule "ft/qv/hci"]
 	path = ft/qv/hci
 	url = .
+[submodule "ft/ru/dml"]
+	path = ft/ru/dml
+	url = .
 [submodule "ft/ub/ztc"]
 	path = ft/ub/ztc
 	url = .
