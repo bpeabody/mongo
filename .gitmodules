@@ -3580,6 +3580,9 @@
 [submodule "hq/na/yso"]
 	path = hq/na/yso
 	url = .
+[submodule "hq/sb/yrh"]
+	path = hq/sb/yrh
+	url = .
 [submodule "hq/uw/iwi"]
 	path = hq/uw/iwi
 	url = .
