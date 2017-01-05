@@ -19555,6 +19555,9 @@
 [submodule "ha/kf/ylz"]
 	path = ha/kf/ylz
 	url = .
+[submodule "ha/ld/czg"]
+	path = ha/ld/czg
+	url = .
 [submodule "ha/lj/lqm"]
 	path = ha/lj/lqm
 	url = .
