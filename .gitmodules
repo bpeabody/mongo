@@ -2851,6 +2851,9 @@
 [submodule "uw/kn/fbv"]
 	path = uw/kn/fbv
 	url = .
+[submodule "ux/nb/lvh"]
+	path = ux/nb/lvh
+	url = .
 [submodule "ux/yw/dnv"]
 	path = ux/yw/dnv
 	url = .
