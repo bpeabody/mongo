@@ -18271,6 +18271,9 @@
 [submodule "ny/fn/std"]
 	path = ny/fn/std
 	url = .
+[submodule "ny/jc/awo"]
+	path = ny/jc/awo
+	url = .
 [submodule "ny/kw/bwi"]
 	path = ny/kw/bwi
 	url = .
