@@ -2320,6 +2320,9 @@
 [submodule "at/kx/nhz"]
 	path = at/kx/nhz
 	url = .
+[submodule "at/ls/qdd"]
+	path = at/ls/qdd
+	url = .
 [submodule "at/lu/yhd"]
 	path = at/lu/yhd
 	url = .
