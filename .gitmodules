@@ -25669,6 +25669,9 @@
 [submodule "mb/ql/emq"]
 	path = mb/ql/emq
 	url = .
+[submodule "mb/rh/nbb"]
+	path = mb/rh/nbb
+	url = .
 [submodule "mb/tr/ugz"]
 	path = mb/tr/ugz
 	url = .
