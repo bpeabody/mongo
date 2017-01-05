@@ -9226,6 +9226,9 @@
 [submodule "fi/rn/hre"]
 	path = fi/rn/hre
 	url = .
+[submodule "fi/tl/pjq"]
+	path = fi/tl/pjq
+	url = .
 [submodule "fi/uc/fkh"]
 	path = fi/uc/fkh
 	url = .
