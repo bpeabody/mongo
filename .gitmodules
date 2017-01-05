@@ -4219,6 +4219,9 @@
 [submodule "cq/ue/fud"]
 	path = cq/ue/fud
 	url = .
+[submodule "cq/wb/uro"]
+	path = cq/wb/uro
+	url = .
 [submodule "cq/xg/fry"]
 	path = cq/xg/fry
 	url = .
