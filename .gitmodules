@@ -6607,6 +6607,9 @@
 [submodule "ep/bq/xbu"]
 	path = ep/bq/xbu
 	url = .
+[submodule "ep/cs/jgf"]
+	path = ep/cs/jgf
+	url = .
 [submodule "ep/dt/ktq"]
 	path = ep/dt/ktq
 	url = .
