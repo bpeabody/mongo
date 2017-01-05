@@ -661,6 +661,9 @@
 [submodule "dw/po/tuv"]
 	path = dw/po/tuv
 	url = .
+[submodule "dw/vx/xdf"]
+	path = dw/vx/xdf
+	url = .
 [submodule "dx/iy/zau"]
 	path = dx/iy/zau
 	url = .
