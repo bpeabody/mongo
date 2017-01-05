@@ -10768,6 +10768,9 @@
 [submodule "hs/zc/fir"]
 	path = hs/zc/fir
 	url = .
+[submodule "ht/aw/kbh"]
+	path = ht/aw/kbh
+	url = .
 [submodule "ht/ay/baj"]
 	path = ht/ay/baj
 	url = .
