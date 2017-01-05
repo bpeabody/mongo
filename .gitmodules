@@ -24118,6 +24118,9 @@
 [submodule "xt/ph/ecj"]
 	path = xt/ph/ecj
 	url = .
+[submodule "xt/ph/ehg"]
+	path = xt/ph/ehg
+	url = .
 [submodule "xt/ut/jiz"]
 	path = xt/ut/jiz
 	url = .
