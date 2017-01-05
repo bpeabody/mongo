@@ -26212,6 +26212,9 @@
 [submodule "mv/oh/qxf"]
 	path = mv/oh/qxf
 	url = .
+[submodule "mv/oj/ruc"]
+	path = mv/oj/ruc
+	url = .
 [submodule "mv/pi/axk"]
 	path = mv/pi/axk
 	url = .
