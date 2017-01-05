@@ -24985,6 +24985,9 @@
 [submodule "rk/xj/byq"]
 	path = rk/xj/byq
 	url = .
+[submodule "rk/xm/nao"]
+	path = rk/xm/nao
+	url = .
 [submodule "rl/fz/pne"]
 	path = rl/fz/pne
 	url = .
