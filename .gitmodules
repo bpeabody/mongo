@@ -10192,6 +10192,9 @@
 [submodule "wb/qg/pqg"]
 	path = wb/qg/pqg
 	url = .
+[submodule "wb/wu/nzk"]
+	path = wb/wu/nzk
+	url = .
 [submodule "wc/cv/ewd"]
 	path = wc/cv/ewd
 	url = .
