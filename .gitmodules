@@ -6928,6 +6928,9 @@
 [submodule "kz/rk/dtc"]
 	path = kz/rk/dtc
 	url = .
+[submodule "kz/sv/jem"]
+	path = kz/sv/jem
+	url = .
 [submodule "kz/tt/fbt"]
 	path = kz/tt/fbt
 	url = .
