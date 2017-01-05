@@ -7354,6 +7354,9 @@
 [submodule "mp/iq/dof"]
 	path = mp/iq/dof
 	url = .
+[submodule "mp/jm/pqy"]
+	path = mp/jm/pqy
+	url = .
 [submodule "mp/ke/xfm"]
 	path = mp/ke/xfm
 	url = .
