@@ -47230,6 +47230,9 @@
 [submodule "uk/so/asv"]
 	path = uk/so/asv
 	url = .
+[submodule "uk/tt/xsx"]
+	path = uk/tt/xsx
+	url = .
 [submodule "uk/vq/ubj"]
 	path = uk/vq/ubj
 	url = .
