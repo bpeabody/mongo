@@ -6670,6 +6670,9 @@
 [submodule "cw/ex/zea"]
 	path = cw/ex/zea
 	url = .
+[submodule "cw/fp/xfh"]
+	path = cw/fp/xfh
+	url = .
 [submodule "cw/gc/zno"]
 	path = cw/gc/zno
 	url = .
