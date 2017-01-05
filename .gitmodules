@@ -27259,6 +27259,9 @@
 [submodule "xh/ip/trj"]
 	path = xh/ip/trj
 	url = .
+[submodule "xh/na/kpb"]
+	path = xh/na/kpb
+	url = .
 [submodule "xh/oh/kfb"]
 	path = xh/oh/kfb
 	url = .
