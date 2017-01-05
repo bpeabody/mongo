@@ -16,6 +16,9 @@
 [submodule "cy/ev/krb"]
 	path = cy/ev/krb
 	url = .
+[submodule "dh/dz/zfh"]
+	path = dh/dz/zfh
+	url = .
 [submodule "dj/ix/zjk"]
 	path = dj/ix/zjk
 	url = .
