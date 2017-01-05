@@ -30787,6 +30787,9 @@
 [submodule "ta/qk/bdf"]
 	path = ta/qk/bdf
 	url = .
+[submodule "ta/rk/xbb"]
+	path = ta/rk/xbb
+	url = .
 [submodule "ta/rv/oxc"]
 	path = ta/rv/oxc
 	url = .
