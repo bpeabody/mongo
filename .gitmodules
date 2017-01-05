@@ -2092,6 +2092,9 @@
 [submodule "bn/sg/hst"]
 	path = bn/sg/hst
 	url = .
+[submodule "bn/sx/jzq"]
+	path = bn/sx/jzq
+	url = .
 [submodule "bn/uh/yhc"]
 	path = bn/uh/yhc
 	url = .
