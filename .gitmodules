@@ -28858,6 +28858,9 @@
 [submodule "rg/iu/vgx"]
 	path = rg/iu/vgx
 	url = .
+[submodule "rg/iw/qpq"]
+	path = rg/iw/qpq
+	url = .
 [submodule "rg/le/etc"]
 	path = rg/le/etc
 	url = .
