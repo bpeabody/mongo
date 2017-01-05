@@ -1219,6 +1219,9 @@
 [submodule "cy/iy/uhj"]
 	path = cy/iy/uhj
 	url = .
+[submodule "cy/pl/cat"]
+	path = cy/pl/cat
+	url = .
 [submodule "cy/qx/box"]
 	path = cy/qx/box
 	url = .
