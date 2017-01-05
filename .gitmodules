@@ -5392,6 +5392,9 @@
 [submodule "cg/ue/rvr"]
 	path = cg/ue/rvr
 	url = .
+[submodule "cg/uj/azg"]
+	path = cg/uj/azg
+	url = .
 [submodule "cg/wd/cml"]
 	path = cg/wd/cml
 	url = .
