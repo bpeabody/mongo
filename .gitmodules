@@ -688,6 +688,9 @@
 [submodule "eh/ur/hiv"]
 	path = eh/ur/hiv
 	url = .
+[submodule "eh/xu/ojl"]
+	path = eh/xu/ojl
+	url = .
 [submodule "ei/ea/cyk"]
 	path = ei/ea/cyk
 	url = .
