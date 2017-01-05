@@ -5227,6 +5227,9 @@
 [submodule "cg/tv/nrk"]
 	path = cg/tv/nrk
 	url = .
+[submodule "cg/ue/rvr"]
+	path = cg/ue/rvr
+	url = .
 [submodule "cg/wd/cml"]
 	path = cg/wd/cml
 	url = .
