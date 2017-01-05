@@ -6823,6 +6823,9 @@
 [submodule "qr/wi/eqn"]
 	path = qr/wi/eqn
 	url = .
+[submodule "qr/zc/dff"]
+	path = qr/zc/dff
+	url = .
 [submodule "qs/cx/nvd"]
 	path = qs/cx/nvd
 	url = .
