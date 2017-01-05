@@ -3811,6 +3811,9 @@
 [submodule "nx/dg/sre"]
 	path = nx/dg/sre
 	url = .
+[submodule "nx/fu/chj"]
+	path = nx/fu/chj
+	url = .
 [submodule "nx/lv/ivy"]
 	path = nx/lv/ivy
 	url = .
