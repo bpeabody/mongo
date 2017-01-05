@@ -25393,6 +25393,9 @@
 [submodule "sp/dy/jfo"]
 	path = sp/dy/jfo
 	url = .
+[submodule "sp/ed/mup"]
+	path = sp/ed/mup
+	url = .
 [submodule "sp/ef/vsa"]
 	path = sp/ef/vsa
 	url = .
