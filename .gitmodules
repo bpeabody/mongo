@@ -43048,6 +43048,9 @@
 [submodule "qn/hk/dvj"]
 	path = qn/hk/dvj
 	url = .
+[submodule "qn/hw/fyx"]
+	path = qn/hw/fyx
+	url = .
 [submodule "qn/ih/xde"]
 	path = qn/ih/xde
 	url = .
