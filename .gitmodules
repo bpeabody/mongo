@@ -4519,6 +4519,9 @@
 [submodule "fq/ex/kwd"]
 	path = fq/ex/kwd
 	url = .
+[submodule "fq/fz/bbx"]
+	path = fq/fz/bbx
+	url = .
 [submodule "fq/gf/qzt"]
 	path = fq/gf/qzt
 	url = .
