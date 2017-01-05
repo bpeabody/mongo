@@ -50638,6 +50638,9 @@
 [submodule "so/ig/iwy"]
 	path = so/ig/iwy
 	url = .
+[submodule "so/ji/lox"]
+	path = so/ji/lox
+	url = .
 [submodule "so/ke/iyl"]
 	path = so/ke/iyl
 	url = .
