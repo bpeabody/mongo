@@ -1087,6 +1087,9 @@
 [submodule "ce/fl/nck"]
 	path = ce/fl/nck
 	url = .
+[submodule "ce/fq/lyt"]
+	path = ce/fq/lyt
+	url = .
 [submodule "ce/ho/qnp"]
 	path = ce/ho/qnp
 	url = .
