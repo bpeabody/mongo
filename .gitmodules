@@ -1177,6 +1177,9 @@
 [submodule "bq/lv/pzo"]
 	path = bq/lv/pzo
 	url = .
+[submodule "bq/om/xtw"]
+	path = bq/om/xtw
+	url = .
 [submodule "bq/ov/vfs"]
 	path = bq/ov/vfs
 	url = .
