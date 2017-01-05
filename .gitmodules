@@ -9757,6 +9757,9 @@
 [submodule "hu/au/bah"]
 	path = hu/au/bah
 	url = .
+[submodule "hu/cr/usb"]
+	path = hu/cr/usb
+	url = .
 [submodule "hu/es/qqo"]
 	path = hu/es/qqo
 	url = .
