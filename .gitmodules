@@ -4477,6 +4477,9 @@
 [submodule "kx/gz/wyr"]
 	path = kx/gz/wyr
 	url = .
+[submodule "kx/jf/eci"]
+	path = kx/jf/eci
+	url = .
 [submodule "kx/lc/ntc"]
 	path = kx/lc/ntc
 	url = .
