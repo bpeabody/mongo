@@ -3697,6 +3697,9 @@
 [submodule "ha/rp/lud"]
 	path = ha/rp/lud
 	url = .
+[submodule "ha/wg/fje"]
+	path = ha/wg/fje
+	url = .
 [submodule "ha/xt/ypw"]
 	path = ha/xt/ypw
 	url = .
