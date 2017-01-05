@@ -9097,6 +9097,9 @@
 [submodule "qv/tc/fof"]
 	path = qv/tc/fof
 	url = .
+[submodule "qv/up/egr"]
+	path = qv/up/egr
+	url = .
 [submodule "qv/vm/pgm"]
 	path = qv/vm/pgm
 	url = .
