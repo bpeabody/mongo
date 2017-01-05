@@ -10036,6 +10036,9 @@
 [submodule "hj/eh/lyj"]
 	path = hj/eh/lyj
 	url = .
+[submodule "hj/gf/ana"]
+	path = hj/gf/ana
+	url = .
 [submodule "hj/gk/dom"]
 	path = hj/gk/dom
 	url = .
