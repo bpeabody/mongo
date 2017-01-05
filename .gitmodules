@@ -21556,6 +21556,9 @@
 [submodule "im/oh/krf"]
 	path = im/oh/krf
 	url = .
+[submodule "im/oi/yuw"]
+	path = im/oi/yuw
+	url = .
 [submodule "im/oz/vzw"]
 	path = im/oz/vzw
 	url = .
