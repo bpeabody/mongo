@@ -49753,6 +49753,9 @@
 [submodule "sx/bo/ilu"]
 	path = sx/bo/ilu
 	url = .
+[submodule "sx/bv/fas"]
+	path = sx/bv/fas
+	url = .
 [submodule "sx/ds/ljc"]
 	path = sx/ds/ljc
 	url = .
