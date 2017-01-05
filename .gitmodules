@@ -10285,6 +10285,9 @@
 [submodule "gg/ec/vcj"]
 	path = gg/ec/vcj
 	url = .
+[submodule "gg/en/ivc"]
+	path = gg/en/ivc
+	url = .
 [submodule "gg/jb/sbe"]
 	path = gg/jb/sbe
 	url = .
