@@ -41383,6 +41383,9 @@
 [submodule "sk/dg/ozg"]
 	path = sk/dg/ozg
 	url = .
+[submodule "sk/dj/aru"]
+	path = sk/dj/aru
+	url = .
 [submodule "sk/dt/bst"]
 	path = sk/dt/bst
 	url = .
