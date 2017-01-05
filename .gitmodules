@@ -5125,6 +5125,9 @@
 [submodule "fo/jm/uke"]
 	path = fo/jm/uke
 	url = .
+[submodule "fo/om/jxa"]
+	path = fo/om/jxa
+	url = .
 [submodule "fo/qz/ndm"]
 	path = fo/qz/ndm
 	url = .
