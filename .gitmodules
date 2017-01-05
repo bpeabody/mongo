@@ -15052,6 +15052,9 @@
 [submodule "qv/pl/iud"]
 	path = qv/pl/iud
 	url = .
+[submodule "qv/pq/nwe"]
+	path = qv/pq/nwe
+	url = .
 [submodule "qv/tc/fof"]
 	path = qv/tc/fof
 	url = .
