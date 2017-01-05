@@ -18934,6 +18934,9 @@
 [submodule "gp/gb/yun"]
 	path = gp/gb/yun
 	url = .
+[submodule "gp/gd/xje"]
+	path = gp/gd/xje
+	url = .
 [submodule "gp/gw/skt"]
 	path = gp/gw/skt
 	url = .
