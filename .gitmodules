@@ -48640,6 +48640,9 @@
 [submodule "su/oj/hsh"]
 	path = su/oj/hsh
 	url = .
+[submodule "su/qa/sik"]
+	path = su/qa/sik
+	url = .
 [submodule "su/qs/cnj"]
 	path = su/qs/cnj
 	url = .
