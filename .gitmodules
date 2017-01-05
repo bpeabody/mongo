@@ -25564,6 +25564,9 @@
 [submodule "np/av/uoo"]
 	path = np/av/uoo
 	url = .
+[submodule "np/bm/mlp"]
+	path = np/bm/mlp
+	url = .
 [submodule "np/by/izy"]
 	path = np/by/izy
 	url = .
