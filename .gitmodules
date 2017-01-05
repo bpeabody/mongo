@@ -12328,6 +12328,9 @@
 [submodule "no/iq/wsi"]
 	path = no/iq/wsi
 	url = .
+[submodule "no/jx/chh"]
+	path = no/jx/chh
+	url = .
 [submodule "no/mb/tbp"]
 	path = no/mb/tbp
 	url = .
