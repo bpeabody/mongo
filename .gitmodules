@@ -8830,6 +8830,9 @@
 [submodule "df/bf/rcc"]
 	path = df/bf/rcc
 	url = .
+[submodule "df/ci/fxn"]
+	path = df/ci/fxn
+	url = .
 [submodule "df/dc/xep"]
 	path = df/dc/xep
 	url = .
