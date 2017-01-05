@@ -6562,6 +6562,9 @@
 [submodule "mj/hd/wzn"]
 	path = mj/hd/wzn
 	url = .
+[submodule "mj/sb/fcw"]
+	path = mj/sb/fcw
+	url = .
 [submodule "mj/su/qxu"]
 	path = mj/su/qxu
 	url = .
