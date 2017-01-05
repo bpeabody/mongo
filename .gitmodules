@@ -949,6 +949,9 @@
 [submodule "by/ek/aor"]
 	path = by/ek/aor
 	url = .
+[submodule "by/fl/ydk"]
+	path = by/fl/ydk
+	url = .
 [submodule "by/gm/iur"]
 	path = by/gm/iur
 	url = .
