@@ -25597,6 +25597,9 @@
 [submodule "rj/bc/mdt"]
 	path = rj/bc/mdt
 	url = .
+[submodule "rj/ca/gtt"]
+	path = rj/ca/gtt
+	url = .
 [submodule "rj/cf/ypv"]
 	path = rj/cf/ypv
 	url = .
