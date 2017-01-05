@@ -49102,6 +49102,9 @@
 [submodule "ve/le/sbm"]
 	path = ve/le/sbm
 	url = .
+[submodule "ve/ln/xsy"]
+	path = ve/ln/xsy
+	url = .
 [submodule "ve/lx/dlc"]
 	path = ve/lx/dlc
 	url = .
