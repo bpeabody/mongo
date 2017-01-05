@@ -1186,6 +1186,9 @@
 [submodule "wh/gg/kxc"]
 	path = wh/gg/kxc
 	url = .
+[submodule "wh/tr/mvi"]
+	path = wh/tr/mvi
+	url = .
 [submodule "wi/gb/uzn"]
 	path = wi/gb/uzn
 	url = .
