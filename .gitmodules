@@ -2830,6 +2830,9 @@
 [submodule "az/fp/mpx"]
 	path = az/fp/mpx
 	url = .
+[submodule "az/ho/iqu"]
+	path = az/ho/iqu
+	url = .
 [submodule "az/hw/xtj"]
 	path = az/hw/xtj
 	url = .
