@@ -15781,6 +15781,9 @@
 [submodule "gq/ft/guv"]
 	path = gq/ft/guv
 	url = .
+[submodule "gq/fz/cjc"]
+	path = gq/fz/cjc
+	url = .
 [submodule "gq/ha/jec"]
 	path = gq/ha/jec
 	url = .
