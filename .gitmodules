@@ -18532,6 +18532,9 @@
 [submodule "hx/tg/oqr"]
 	path = hx/tg/oqr
 	url = .
+[submodule "hx/uv/hfa"]
+	path = hx/uv/hfa
+	url = .
 [submodule "hx/ux/grn"]
 	path = hx/ux/grn
 	url = .
