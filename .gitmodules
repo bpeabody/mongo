@@ -35137,6 +35137,9 @@
 [submodule "ug/zi/oxi"]
 	path = ug/zi/oxi
 	url = .
+[submodule "ug/zt/krs"]
+	path = ug/zt/krs
+	url = .
 [submodule "uh/ab/kpl"]
 	path = uh/ab/kpl
 	url = .
