@@ -8035,6 +8035,9 @@
 [submodule "di/fa/kuj"]
 	path = di/fa/kuj
 	url = .
+[submodule "di/fk/riq"]
+	path = di/fk/riq
+	url = .
 [submodule "di/hs/eew"]
 	path = di/hs/eew
 	url = .
