@@ -3661,6 +3661,9 @@
 [submodule "ra/um/jno"]
 	path = ra/um/jno
 	url = .
+[submodule "rb/qe/ecs"]
+	path = rb/qe/ecs
+	url = .
 [submodule "rb/tl/heu"]
 	path = rb/tl/heu
 	url = .
