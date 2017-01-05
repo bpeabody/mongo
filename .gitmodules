@@ -14491,6 +14491,9 @@
 [submodule "xq/vo/uew"]
 	path = xq/vo/uew
 	url = .
+[submodule "xr/bs/kum"]
+	path = xr/bs/kum
+	url = .
 [submodule "xr/gm/txc"]
 	path = xr/gm/txc
 	url = .
