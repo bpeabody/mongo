@@ -5050,6 +5050,9 @@
 [submodule "cq/xg/fry"]
 	path = cq/xg/fry
 	url = .
+[submodule "cq/xm/dul"]
+	path = cq/xm/dul
+	url = .
 [submodule "cq/yq/cxe"]
 	path = cq/yq/cxe
 	url = .
