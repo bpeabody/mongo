@@ -1798,6 +1798,9 @@
 [submodule "vh/cw/xsr"]
 	path = vh/cw/xsr
 	url = .
+[submodule "vh/ns/cqg"]
+	path = vh/ns/cqg
+	url = .
 [submodule "vj/dp/rde"]
 	path = vj/dp/rde
 	url = .
