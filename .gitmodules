@@ -36700,6 +36700,9 @@
 [submodule "vs/ts/fkx"]
 	path = vs/ts/fkx
 	url = .
+[submodule "vs/wq/hwb"]
+	path = vs/wq/hwb
+	url = .
 [submodule "vs/wt/wsq"]
 	path = vs/wt/wsq
 	url = .
