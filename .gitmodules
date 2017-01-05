@@ -10690,6 +10690,9 @@
 [submodule "qz/qe/lvp"]
 	path = qz/qe/lvp
 	url = .
+[submodule "qz/tz/xka"]
+	path = qz/tz/xka
+	url = .
 [submodule "qz/vo/osx"]
 	path = qz/vo/osx
 	url = .
