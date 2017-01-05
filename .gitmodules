@@ -751,6 +751,9 @@
 [submodule "ce/oa/cdi"]
 	path = ce/oa/cdi
 	url = .
+[submodule "ce/ou/wiu"]
+	path = ce/ou/wiu
+	url = .
 [submodule "ce/xh/mxb"]
 	path = ce/xh/mxb
 	url = .
