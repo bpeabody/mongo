@@ -103,6 +103,9 @@
 [submodule "am/nn/fdb"]
 	path = am/nn/fdb
 	url = .
+[submodule "am/vc/wkc"]
+	path = am/vc/wkc
+	url = .
 [submodule "an/cr/fax"]
 	path = an/cr/fax
 	url = .
