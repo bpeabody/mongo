@@ -36376,6 +36376,9 @@
 [submodule "mr/ep/ohm"]
 	path = mr/ep/ohm
 	url = .
+[submodule "mr/ev/hgu"]
+	path = mr/ev/hgu
+	url = .
 [submodule "mr/ew/xof"]
 	path = mr/ew/xof
 	url = .
