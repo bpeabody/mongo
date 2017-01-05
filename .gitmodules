@@ -32101,6 +32101,9 @@
 [submodule "mm/mc/ptf"]
 	path = mm/mc/ptf
 	url = .
+[submodule "mm/nz/vll"]
+	path = mm/nz/vll
+	url = .
 [submodule "mm/ot/fak"]
 	path = mm/ot/fak
 	url = .
