@@ -5485,6 +5485,9 @@
 [submodule "bv/my/dzr"]
 	path = bv/my/dzr
 	url = .
+[submodule "bv/my/rhs"]
+	path = bv/my/rhs
+	url = .
 [submodule "bv/na/pxz"]
 	path = bv/na/pxz
 	url = .
