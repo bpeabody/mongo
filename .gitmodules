@@ -6121,6 +6121,9 @@
 [submodule "lv/vl/reg"]
 	path = lv/vl/reg
 	url = .
+[submodule "lv/wc/gsj"]
+	path = lv/wc/gsj
+	url = .
 [submodule "lv/wj/dxz"]
 	path = lv/wj/dxz
 	url = .
