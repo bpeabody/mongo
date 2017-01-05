@@ -51118,6 +51118,9 @@
 [submodule "uj/oa/smc"]
 	path = uj/oa/smc
 	url = .
+[submodule "uj/qu/iqh"]
+	path = uj/qu/iqh
+	url = .
 [submodule "uj/se/ggd"]
 	path = uj/se/ggd
 	url = .
