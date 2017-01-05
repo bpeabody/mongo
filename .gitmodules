@@ -13834,6 +13834,9 @@
 [submodule "oh/dp/nfj"]
 	path = oh/dp/nfj
 	url = .
+[submodule "oh/fi/rkn"]
+	path = oh/fi/rkn
+	url = .
 [submodule "oh/ih/fcp"]
 	path = oh/ih/fcp
 	url = .
