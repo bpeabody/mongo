@@ -8647,6 +8647,9 @@
 [submodule "gu/ge/ksi"]
 	path = gu/ge/ksi
 	url = .
+[submodule "gu/po/fuu"]
+	path = gu/po/fuu
+	url = .
 [submodule "gu/tn/fdw"]
 	path = gu/tn/fdw
 	url = .
