@@ -55084,6 +55084,9 @@
 [submodule "sv/dq/qsk"]
 	path = sv/dq/qsk
 	url = .
+[submodule "sv/dx/xku"]
+	path = sv/dx/xku
+	url = .
 [submodule "sv/fq/hvs"]
 	path = sv/fq/hvs
 	url = .
