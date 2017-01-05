@@ -7792,6 +7792,9 @@
 [submodule "ph/nm/qep"]
 	path = ph/nm/qep
 	url = .
+[submodule "ph/ol/sst"]
+	path = ph/ol/sst
+	url = .
 [submodule "ph/pa/lph"]
 	path = ph/pa/lph
 	url = .
