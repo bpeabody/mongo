@@ -13708,6 +13708,9 @@
 [submodule "ht/je/lmt"]
 	path = ht/je/lmt
 	url = .
+[submodule "ht/km/xyi"]
+	path = ht/km/xyi
+	url = .
 [submodule "ht/mn/nth"]
 	path = ht/mn/nth
 	url = .
