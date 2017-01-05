@@ -37762,6 +37762,9 @@
 [submodule "qc/sg/qmd"]
 	path = qc/sg/qmd
 	url = .
+[submodule "qc/tg/rpn"]
+	path = qc/tg/rpn
+	url = .
 [submodule "qc/tr/bnk"]
 	path = qc/tr/bnk
 	url = .
