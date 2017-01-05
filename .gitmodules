@@ -12244,6 +12244,9 @@
 [submodule "fe/xm/myv"]
 	path = fe/xm/myv
 	url = .
+[submodule "fe/zd/xyk"]
+	path = fe/zd/xyk
+	url = .
 [submodule "fe/ze/fbd"]
 	path = fe/ze/fbd
 	url = .
