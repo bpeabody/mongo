@@ -1969,6 +1969,9 @@
 [submodule "dl/hv/vmr"]
 	path = dl/hv/vmr
 	url = .
+[submodule "dl/la/sed"]
+	path = dl/la/sed
+	url = .
 [submodule "dl/pt/yqs"]
 	path = dl/pt/yqs
 	url = .
