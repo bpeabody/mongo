@@ -5320,6 +5320,9 @@
 [submodule "cv/xv/lwa"]
 	path = cv/xv/lwa
 	url = .
+[submodule "cv/yv/zdo"]
+	path = cv/yv/zdo
+	url = .
 [submodule "cw/cf/hsi"]
 	path = cw/cf/hsi
 	url = .
