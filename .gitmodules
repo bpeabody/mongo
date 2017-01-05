@@ -766,6 +766,9 @@
 [submodule "ak/va/qrx"]
 	path = ak/va/qrx
 	url = .
+[submodule "ak/wr/dsh"]
+	path = ak/wr/dsh
+	url = .
 [submodule "ak/xl/arn"]
 	path = ak/xl/arn
 	url = .
