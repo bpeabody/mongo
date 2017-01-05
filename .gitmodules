@@ -3247,6 +3247,9 @@
 [submodule "dk/yf/mse"]
 	path = dk/yf/mse
 	url = .
+[submodule "dk/yg/onu"]
+	path = dk/yg/onu
+	url = .
 [submodule "dk/yq/nof"]
 	path = dk/yq/nof
 	url = .
