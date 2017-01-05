@@ -262,6 +262,9 @@
 [submodule "bc/pg/ysc"]
 	path = bc/pg/ysc
 	url = .
+[submodule "bc/ss/hcf"]
+	path = bc/ss/hcf
+	url = .
 [submodule "bd/ap/een"]
 	path = bd/ap/een
 	url = .
