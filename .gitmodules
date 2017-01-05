@@ -7225,6 +7225,9 @@
 [submodule "dd/bx/bum"]
 	path = dd/bx/bum
 	url = .
+[submodule "dd/ca/lyr"]
+	path = dd/ca/lyr
+	url = .
 [submodule "dd/cv/slq"]
 	path = dd/cv/slq
 	url = .
