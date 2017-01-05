@@ -16819,6 +16819,9 @@
 [submodule "mq/dv/zub"]
 	path = mq/dv/zub
 	url = .
+[submodule "mq/gi/xhy"]
+	path = mq/gi/xhy
+	url = .
 [submodule "mq/gv/ics"]
 	path = mq/gv/ics
 	url = .
