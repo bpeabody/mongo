@@ -2269,6 +2269,9 @@
 [submodule "qa/ve/udk"]
 	path = qa/ve/udk
 	url = .
+[submodule "qa/vs/agi"]
+	path = qa/vs/agi
+	url = .
 [submodule "qb/cv/avo"]
 	path = qb/cv/avo
 	url = .
