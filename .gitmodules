@@ -24112,6 +24112,9 @@
 [submodule "os/kw/mni"]
 	path = os/kw/mni
 	url = .
+[submodule "os/li/yiu"]
+	path = os/li/yiu
+	url = .
 [submodule "os/ll/buy"]
 	path = os/ll/buy
 	url = .
