@@ -1351,6 +1351,9 @@
 [submodule "gw/rg/gwm"]
 	path = gw/rg/gwm
 	url = .
+[submodule "gx/vw/usw"]
+	path = gx/vw/usw
+	url = .
 [submodule "gy/dm/bqh"]
 	path = gy/dm/bqh
 	url = .
