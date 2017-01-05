@@ -4843,6 +4843,9 @@
 [submodule "bv/vn/hww"]
 	path = bv/vn/hww
 	url = .
+[submodule "bv/ww/vlk"]
+	path = bv/ww/vlk
+	url = .
 [submodule "bv/xn/ved"]
 	path = bv/xn/ved
 	url = .
