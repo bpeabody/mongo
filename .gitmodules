@@ -50866,6 +50866,9 @@
 [submodule "rj/nm/lqi"]
 	path = rj/nm/lqi
 	url = .
+[submodule "rj/oz/jfs"]
+	path = rj/oz/jfs
+	url = .
 [submodule "rj/pv/dyn"]
 	path = rj/pv/dyn
 	url = .
