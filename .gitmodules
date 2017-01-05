@@ -53020,6 +53020,9 @@
 [submodule "sw/ke/fqn"]
 	path = sw/ke/fqn
 	url = .
+[submodule "sw/kr/xqj"]
+	path = sw/kr/xqj
+	url = .
 [submodule "sw/kt/tki"]
 	path = sw/kt/tki
 	url = .
