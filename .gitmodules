@@ -16045,6 +16045,9 @@
 [submodule "ku/bl/nuw"]
 	path = ku/bl/nuw
 	url = .
+[submodule "ku/eb/erx"]
+	path = ku/eb/erx
+	url = .
 [submodule "ku/jg/web"]
 	path = ku/jg/web
 	url = .
