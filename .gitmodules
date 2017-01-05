@@ -13150,6 +13150,9 @@
 [submodule "sd/kg/wbs"]
 	path = sd/kg/wbs
 	url = .
+[submodule "sd/pr/nlb"]
+	path = sd/pr/nlb
+	url = .
 [submodule "sd/sf/nwl"]
 	path = sd/sf/nwl
 	url = .
