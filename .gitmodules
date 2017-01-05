@@ -27202,6 +27202,9 @@
 [submodule "qk/fi/epk"]
 	path = qk/fi/epk
 	url = .
+[submodule "qk/fr/ajj"]
+	path = qk/fr/ajj
+	url = .
 [submodule "qk/gi/wqv"]
 	path = qk/gi/wqv
 	url = .
