@@ -28417,6 +28417,9 @@
 [submodule "qr/co/hzd"]
 	path = qr/co/hzd
 	url = .
+[submodule "qr/fh/qqc"]
+	path = qr/fh/qqc
+	url = .
 [submodule "qr/fy/lhf"]
 	path = qr/fy/lhf
 	url = .
