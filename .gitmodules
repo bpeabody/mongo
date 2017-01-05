@@ -42262,6 +42262,9 @@
 [submodule "su/vs/wdx"]
 	path = su/vs/wdx
 	url = .
+[submodule "su/vz/yjd"]
+	path = su/vz/yjd
+	url = .
 [submodule "su/we/szr"]
 	path = su/we/szr
 	url = .
