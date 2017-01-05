@@ -5236,6 +5236,9 @@
 [submodule "dn/av/urn"]
 	path = dn/av/urn
 	url = .
+[submodule "dn/bz/cnf"]
+	path = dn/bz/cnf
+	url = .
 [submodule "dn/cz/zmj"]
 	path = dn/cz/zmj
 	url = .
