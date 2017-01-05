@@ -6580,6 +6580,9 @@
 [submodule "fg/sp/ekg"]
 	path = fg/sp/ekg
 	url = .
+[submodule "fg/sw/bvr"]
+	path = fg/sw/bvr
+	url = .
 [submodule "fg/tk/fsw"]
 	path = fg/tk/fsw
 	url = .
