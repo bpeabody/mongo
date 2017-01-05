@@ -67609,6 +67609,9 @@
 [submodule "wq/ij/sso"]
 	path = wq/ij/sso
 	url = .
+[submodule "wq/iv/sky"]
+	path = wq/iv/sky
+	url = .
 [submodule "wq/iy/egs"]
 	path = wq/iy/egs
 	url = .
