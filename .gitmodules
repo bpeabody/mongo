@@ -8650,6 +8650,9 @@
 [submodule "mw/nl/hft"]
 	path = mw/nl/hft
 	url = .
+[submodule "mw/qk/voy"]
+	path = mw/qk/voy
+	url = .
 [submodule "mw/tw/czo"]
 	path = mw/tw/czo
 	url = .
