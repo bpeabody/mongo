@@ -1072,6 +1072,9 @@
 [submodule "gg/xl/nng"]
 	path = gg/xl/nng
 	url = .
+[submodule "gh/hk/ehl"]
+	path = gh/hk/ehl
+	url = .
 [submodule "gi/gc/qhg"]
 	path = gi/gc/qhg
 	url = .
