@@ -55744,6 +55744,9 @@
 [submodule "ze/uw/ctd"]
 	path = ze/uw/ctd
 	url = .
+[submodule "ze/yj/vsr"]
+	path = ze/yj/vsr
+	url = .
 [submodule "ze/yw/ohk"]
 	path = ze/yw/ohk
 	url = .
