@@ -9259,6 +9259,9 @@
 [submodule "km/lm/tjm"]
 	path = km/lm/tjm
 	url = .
+[submodule "km/lw/cmy"]
+	path = km/lw/cmy
+	url = .
 [submodule "km/mp/dkx"]
 	path = km/mp/dkx
 	url = .
