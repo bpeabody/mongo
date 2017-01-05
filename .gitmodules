@@ -409,6 +409,9 @@
 [submodule "hn/ut/eml"]
 	path = hn/ut/eml
 	url = .
+[submodule "hp/yu/mfe"]
+	path = hp/yu/mfe
+	url = .
 [submodule "hq/uw/iwi"]
 	path = hq/uw/iwi
 	url = .
