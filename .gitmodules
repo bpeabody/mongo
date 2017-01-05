@@ -32494,6 +32494,9 @@
 [submodule "mi/le/ars"]
 	path = mi/le/ars
 	url = .
+[submodule "mi/lf/hpi"]
+	path = mi/lf/hpi
+	url = .
 [submodule "mi/lg/lba"]
 	path = mi/lg/lba
 	url = .
