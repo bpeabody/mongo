@@ -5335,6 +5335,9 @@
 [submodule "jw/vs/xin"]
 	path = jw/vs/xin
 	url = .
+[submodule "jw/vx/bxr"]
+	path = jw/vx/bxr
+	url = .
 [submodule "jw/xu/fap"]
 	path = jw/xu/fap
 	url = .
