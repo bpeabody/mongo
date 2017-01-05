@@ -16873,6 +16873,9 @@
 [submodule "po/ef/cqg"]
 	path = po/ef/cqg
 	url = .
+[submodule "po/eh/hxl"]
+	path = po/eh/hxl
+	url = .
 [submodule "po/me/ftk"]
 	path = po/me/ftk
 	url = .
