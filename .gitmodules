@@ -5890,6 +5890,9 @@
 [submodule "dz/ve/hai"]
 	path = dz/ve/hai
 	url = .
+[submodule "dz/vm/vcf"]
+	path = dz/vm/vcf
+	url = .
 [submodule "dz/xj/lxo"]
 	path = dz/xj/lxo
 	url = .
