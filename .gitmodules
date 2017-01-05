@@ -45394,6 +45394,9 @@
 [submodule "wg/kc/xgy"]
 	path = wg/kc/xgy
 	url = .
+[submodule "wg/ki/sfd"]
+	path = wg/ki/sfd
+	url = .
 [submodule "wg/la/vex"]
 	path = wg/la/vex
 	url = .
