@@ -2743,6 +2743,9 @@
 [submodule "gc/yo/nhs"]
 	path = gc/yo/nhs
 	url = .
+[submodule "gd/as/iog"]
+	path = gd/as/iog
+	url = .
 [submodule "gd/ek/rem"]
 	path = gd/ek/rem
 	url = .
