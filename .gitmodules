@@ -1318,6 +1318,9 @@
 [submodule "xq/qo/uhg"]
 	path = xq/qo/uhg
 	url = .
+[submodule "xr/gm/txc"]
+	path = xr/gm/txc
+	url = .
 [submodule "xw/jn/ivq"]
 	path = xw/jn/ivq
 	url = .
