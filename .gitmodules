@@ -36808,6 +36808,9 @@
 [submodule "wx/pp/kvi"]
 	path = wx/pp/kvi
 	url = .
+[submodule "wx/qg/cxh"]
+	path = wx/qg/cxh
+	url = .
 [submodule "wx/rt/mwk"]
 	path = wx/rt/mwk
 	url = .
