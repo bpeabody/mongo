@@ -30367,6 +30367,9 @@
 [submodule "mc/tk/csr"]
 	path = mc/tk/csr
 	url = .
+[submodule "mc/uk/ovm"]
+	path = mc/uk/ovm
+	url = .
 [submodule "mc/zb/blt"]
 	path = mc/zb/blt
 	url = .
