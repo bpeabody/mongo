@@ -1066,6 +1066,9 @@
 [submodule "gv/oi/sph"]
 	path = gv/oi/sph
 	url = .
+[submodule "gw/rg/gwm"]
+	path = gw/rg/gwm
+	url = .
 [submodule "gy/lv/cko"]
 	path = gy/lv/cko
 	url = .
