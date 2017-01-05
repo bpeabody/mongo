@@ -28171,6 +28171,9 @@
 [submodule "uz/bm/ieg"]
 	path = uz/bm/ieg
 	url = .
+[submodule "uz/cj/sid"]
+	path = uz/cj/sid
+	url = .
 [submodule "uz/ct/sbg"]
 	path = uz/ct/sbg
 	url = .
