@@ -4108,6 +4108,9 @@
 [submodule "do/mb/jkr"]
 	path = do/mb/jkr
 	url = .
+[submodule "do/oc/nmy"]
+	path = do/oc/nmy
+	url = .
 [submodule "do/ou/opr"]
 	path = do/ou/opr
 	url = .
