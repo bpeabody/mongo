@@ -1420,6 +1420,9 @@
 [submodule "ni/nw/ajn"]
 	path = ni/nw/ajn
 	url = .
+[submodule "ni/wa/hib"]
+	path = ni/wa/hib
+	url = .
 [submodule "nk/ag/vcr"]
 	path = nk/ag/vcr
 	url = .
