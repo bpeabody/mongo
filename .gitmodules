@@ -18466,6 +18466,9 @@
 [submodule "ha/ma/ofd"]
 	path = ha/ma/ofd
 	url = .
+[submodule "ha/nf/ewy"]
+	path = ha/nf/ewy
+	url = .
 [submodule "ha/nh/wsg"]
 	path = ha/nh/wsg
 	url = .
