@@ -7990,6 +7990,9 @@
 [submodule "ii/fe/rbq"]
 	path = ii/fe/rbq
 	url = .
+[submodule "ii/fg/vcm"]
+	path = ii/fg/vcm
+	url = .
 [submodule "ii/ir/kwa"]
 	path = ii/ir/kwa
 	url = .
