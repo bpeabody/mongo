@@ -52120,6 +52120,9 @@
 [submodule "tl/tf/jxc"]
 	path = tl/tf/jxc
 	url = .
+[submodule "tl/ua/gji"]
+	path = tl/ua/gji
+	url = .
 [submodule "tl/uc/ljo"]
 	path = tl/uc/ljo
 	url = .
