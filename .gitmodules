@@ -26722,6 +26722,9 @@
 [submodule "mp/fx/tus"]
 	path = mp/fx/tus
 	url = .
+[submodule "mp/gm/awr"]
+	path = mp/gm/awr
+	url = .
 [submodule "mp/hh/qcs"]
 	path = mp/hh/qcs
 	url = .
