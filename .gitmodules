@@ -16972,6 +16972,9 @@
 [submodule "xv/le/kdg"]
 	path = xv/le/kdg
 	url = .
+[submodule "xv/pq/neo"]
+	path = xv/pq/neo
+	url = .
 [submodule "xv/sb/khf"]
 	path = xv/sb/khf
 	url = .
