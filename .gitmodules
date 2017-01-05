@@ -26449,6 +26449,9 @@
 [submodule "kh/ae/lbv"]
 	path = kh/ae/lbv
 	url = .
+[submodule "kh/ai/ifg"]
+	path = kh/ai/ifg
+	url = .
 [submodule "kh/au/eot"]
 	path = kh/au/eot
 	url = .
