@@ -7549,6 +7549,9 @@
 [submodule "xc/ua/lzz"]
 	path = xc/ua/lzz
 	url = .
+[submodule "xc/vy/oie"]
+	path = xc/vy/oie
+	url = .
 [submodule "xc/wg/zwf"]
 	path = xc/wg/zwf
 	url = .
