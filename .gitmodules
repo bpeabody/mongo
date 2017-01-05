@@ -17608,6 +17608,9 @@
 [submodule "sh/sp/qaj"]
 	path = sh/sp/qaj
 	url = .
+[submodule "sh/ss/ahv"]
+	path = sh/ss/ahv
+	url = .
 [submodule "sh/tg/pwe"]
 	path = sh/tg/pwe
 	url = .
