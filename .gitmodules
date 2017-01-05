@@ -11752,6 +11752,9 @@
 [submodule "ua/ce/pxu"]
 	path = ua/ce/pxu
 	url = .
+[submodule "ua/eh/xgj"]
+	path = ua/eh/xgj
+	url = .
 [submodule "ua/ej/jiv"]
 	path = ua/ej/jiv
 	url = .
