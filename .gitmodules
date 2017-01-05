@@ -4351,6 +4351,9 @@
 [submodule "br/zw/mgr"]
 	path = br/zw/mgr
 	url = .
+[submodule "bs/ad/uyj"]
+	path = bs/ad/uyj
+	url = .
 [submodule "bs/aj/eid"]
 	path = bs/aj/eid
 	url = .
