@@ -9508,6 +9508,9 @@
 [submodule "ot/tm/ezd"]
 	path = ot/tm/ezd
 	url = .
+[submodule "ot/tu/gpp"]
+	path = ot/tu/gpp
+	url = .
 [submodule "ot/xc/bfr"]
 	path = ot/xc/bfr
 	url = .
