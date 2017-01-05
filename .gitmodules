@@ -25741,6 +25741,9 @@
 [submodule "wn/iy/zmd"]
 	path = wn/iy/zmd
 	url = .
+[submodule "wn/jo/ipy"]
+	path = wn/jo/ipy
+	url = .
 [submodule "wn/kd/ltn"]
 	path = wn/kd/ltn
 	url = .
