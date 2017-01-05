@@ -4789,6 +4789,9 @@
 [submodule "jw/di/atx"]
 	path = jw/di/atx
 	url = .
+[submodule "jw/gp/jld"]
+	path = jw/gp/jld
+	url = .
 [submodule "jw/gu/ivq"]
 	path = jw/gu/ivq
 	url = .
