@@ -20836,6 +20836,9 @@
 [submodule "uv/ed/vtk"]
 	path = uv/ed/vtk
 	url = .
+[submodule "uv/es/sex"]
+	path = uv/es/sex
+	url = .
 [submodule "uv/gl/cvu"]
 	path = uv/gl/cvu
 	url = .
