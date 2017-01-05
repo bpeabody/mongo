@@ -5893,6 +5893,9 @@
 [submodule "ea/mf/exn"]
 	path = ea/mf/exn
 	url = .
+[submodule "ea/nf/opj"]
+	path = ea/nf/opj
+	url = .
 [submodule "ea/od/kzw"]
 	path = ea/od/kzw
 	url = .
