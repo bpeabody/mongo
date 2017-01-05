@@ -55,6 +55,9 @@
 [submodule "ak/rj/zwu"]
 	path = ak/rj/zwu
 	url = .
+[submodule "ak/zg/rex"]
+	path = ak/zg/rex
+	url = .
 [submodule "am/nn/fdb"]
 	path = am/nn/fdb
 	url = .
