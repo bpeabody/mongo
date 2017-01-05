@@ -1405,6 +1405,9 @@
 [submodule "br/bz/nfg"]
 	path = br/bz/nfg
 	url = .
+[submodule "br/fo/rmv"]
+	path = br/fo/rmv
+	url = .
 [submodule "br/js/rec"]
 	path = br/js/rec
 	url = .
