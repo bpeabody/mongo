@@ -12190,6 +12190,9 @@
 [submodule "ho/pc/bfz"]
 	path = ho/pc/bfz
 	url = .
+[submodule "ho/pj/dpx"]
+	path = ho/pj/dpx
+	url = .
 [submodule "ho/sg/pwu"]
 	path = ho/sg/pwu
 	url = .
