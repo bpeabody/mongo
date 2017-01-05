@@ -7465,6 +7465,9 @@
 [submodule "gp/fb/vdy"]
 	path = gp/fb/vdy
 	url = .
+[submodule "gp/gw/skt"]
+	path = gp/gw/skt
+	url = .
 [submodule "gp/gy/tbl"]
 	path = gp/gy/tbl
 	url = .
