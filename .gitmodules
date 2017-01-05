@@ -12925,6 +12925,9 @@
 [submodule "rw/fw/kps"]
 	path = rw/fw/kps
 	url = .
+[submodule "rw/oq/pjw"]
+	path = rw/oq/pjw
+	url = .
 [submodule "rw/pa/udh"]
 	path = rw/pa/udh
 	url = .
