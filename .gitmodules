@@ -27340,6 +27340,9 @@
 [submodule "tr/mq/iks"]
 	path = tr/mq/iks
 	url = .
+[submodule "tr/qg/aub"]
+	path = tr/qg/aub
+	url = .
 [submodule "tr/si/smk"]
 	path = tr/si/smk
 	url = .
