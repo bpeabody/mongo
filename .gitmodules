@@ -19408,6 +19408,9 @@
 [submodule "sg/tx/nxv"]
 	path = sg/tx/nxv
 	url = .
+[submodule "sg/ud/aed"]
+	path = sg/ud/aed
+	url = .
 [submodule "sg/ux/kgs"]
 	path = sg/ux/kgs
 	url = .
