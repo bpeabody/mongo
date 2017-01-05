@@ -13933,6 +13933,9 @@
 [submodule "mu/dn/ghc"]
 	path = mu/dn/ghc
 	url = .
+[submodule "mu/dq/hzv"]
+	path = mu/dq/hzv
+	url = .
 [submodule "mu/ig/bwn"]
 	path = mu/ig/bwn
 	url = .
