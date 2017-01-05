@@ -9322,6 +9322,9 @@
 [submodule "fq/zh/bws"]
 	path = fq/zh/bws
 	url = .
+[submodule "fr/bx/rdu"]
+	path = fr/bx/rdu
+	url = .
 [submodule "fr/dk/tin"]
 	path = fr/dk/tin
 	url = .
