@@ -32398,6 +32398,9 @@
 [submodule "lw/ea/poo"]
 	path = lw/ea/poo
 	url = .
+[submodule "lw/ej/mje"]
+	path = lw/ej/mje
+	url = .
 [submodule "lw/fd/zaw"]
 	path = lw/fd/zaw
 	url = .
