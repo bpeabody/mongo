@@ -24424,6 +24424,9 @@
 [submodule "yn/ah/mnc"]
 	path = yn/ah/mnc
 	url = .
+[submodule "yn/di/izh"]
+	path = yn/di/izh
+	url = .
 [submodule "yn/hd/usn"]
 	path = yn/hd/usn
 	url = .
