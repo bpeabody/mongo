@@ -1930,6 +1930,9 @@
 [submodule "bx/pm/xxc"]
 	path = bx/pm/xxc
 	url = .
+[submodule "bx/pq/dcr"]
+	path = bx/pq/dcr
+	url = .
 [submodule "bx/tb/cbr"]
 	path = bx/tb/cbr
 	url = .
