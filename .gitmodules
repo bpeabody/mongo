@@ -3265,6 +3265,9 @@
 [submodule "sk/uv/ada"]
 	path = sk/uv/ada
 	url = .
+[submodule "sk/xo/eoz"]
+	path = sk/xo/eoz
+	url = .
 [submodule "sl/gl/dfv"]
 	path = sl/gl/dfv
 	url = .
