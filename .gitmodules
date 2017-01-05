@@ -16456,6 +16456,9 @@
 [submodule "gc/pi/pwb"]
 	path = gc/pi/pwb
 	url = .
+[submodule "gc/ri/wbq"]
+	path = gc/ri/wbq
+	url = .
 [submodule "gc/rj/kgc"]
 	path = gc/rj/kgc
 	url = .
