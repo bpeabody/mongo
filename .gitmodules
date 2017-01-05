@@ -3136,6 +3136,9 @@
 [submodule "gt/zo/zif"]
 	path = gt/zo/zif
 	url = .
+[submodule "gu/av/bmc"]
+	path = gu/av/bmc
+	url = .
 [submodule "gu/er/pon"]
 	path = gu/er/pon
 	url = .
