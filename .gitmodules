@@ -16744,6 +16744,9 @@
 [submodule "gx/sv/ldx"]
 	path = gx/sv/ldx
 	url = .
+[submodule "gx/sv/pgl"]
+	path = gx/sv/pgl
+	url = .
 [submodule "gx/ts/jyl"]
 	path = gx/ts/jyl
 	url = .
