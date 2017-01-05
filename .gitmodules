@@ -2023,6 +2023,9 @@
 [submodule "dk/cp/auy"]
 	path = dk/cp/auy
 	url = .
+[submodule "dk/da/hbb"]
+	path = dk/da/hbb
+	url = .
 [submodule "dk/ju/cav"]
 	path = dk/ju/cav
 	url = .
