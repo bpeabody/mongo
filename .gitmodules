@@ -4441,6 +4441,9 @@
 [submodule "tk/wv/rzb"]
 	path = tk/wv/rzb
 	url = .
+[submodule "tl/kp/pel"]
+	path = tl/kp/pel
+	url = .
 [submodule "tl/rn/gqg"]
 	path = tl/rn/gqg
 	url = .
