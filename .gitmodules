@@ -39634,6 +39634,9 @@
 [submodule "pm/dm/oqv"]
 	path = pm/dm/oqv
 	url = .
+[submodule "pm/dt/jsx"]
+	path = pm/dt/jsx
+	url = .
 [submodule "pm/ec/sql"]
 	path = pm/ec/sql
 	url = .
