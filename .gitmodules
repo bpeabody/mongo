@@ -17599,6 +17599,9 @@
 [submodule "io/js/yiu"]
 	path = io/js/yiu
 	url = .
+[submodule "io/lm/lnu"]
+	path = io/lm/lnu
+	url = .
 [submodule "io/lu/enf"]
 	path = io/lu/enf
 	url = .
