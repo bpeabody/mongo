@@ -4384,6 +4384,9 @@
 [submodule "il/st/gzi"]
 	path = il/st/gzi
 	url = .
+[submodule "il/va/vce"]
+	path = il/va/vce
+	url = .
 [submodule "im/cb/hrk"]
 	path = im/cb/hrk
 	url = .
