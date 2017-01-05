@@ -1627,6 +1627,9 @@
 [submodule "dk/uv/oba"]
 	path = dk/uv/oba
 	url = .
+[submodule "dk/vt/jmd"]
+	path = dk/vt/jmd
+	url = .
 [submodule "dk/vu/dzc"]
 	path = dk/vu/dzc
 	url = .
