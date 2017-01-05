@@ -1159,6 +1159,9 @@
 [submodule "vn/zf/ilc"]
 	path = vn/zf/ilc
 	url = .
+[submodule "vo/oe/xzo"]
+	path = vo/oe/xzo
+	url = .
 [submodule "vp/ww/gqd"]
 	path = vp/ww/gqd
 	url = .
