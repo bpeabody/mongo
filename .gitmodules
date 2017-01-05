@@ -28096,6 +28096,9 @@
 [submodule "mr/rd/ptn"]
 	path = mr/rd/ptn
 	url = .
+[submodule "mr/rg/ank"]
+	path = mr/rg/ank
+	url = .
 [submodule "mr/sh/qwk"]
 	path = mr/sh/qwk
 	url = .
