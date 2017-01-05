@@ -2494,6 +2494,9 @@
 [submodule "og/uj/mdn"]
 	path = og/uj/mdn
 	url = .
+[submodule "og/wu/nob"]
+	path = og/wu/nob
+	url = .
 [submodule "oh/ih/fcp"]
 	path = oh/ih/fcp
 	url = .
