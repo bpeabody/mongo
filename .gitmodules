@@ -8416,6 +8416,9 @@
 [submodule "ey/gd/gjj"]
 	path = ey/gd/gjj
 	url = .
+[submodule "ey/lu/ftz"]
+	path = ey/lu/ftz
+	url = .
 [submodule "ey/mk/ayv"]
 	path = ey/mk/ayv
 	url = .
