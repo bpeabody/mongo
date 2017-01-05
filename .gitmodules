@@ -15625,6 +15625,9 @@
 [submodule "rj/jx/hud"]
 	path = rj/jx/hud
 	url = .
+[submodule "rj/km/cwr"]
+	path = rj/km/cwr
+	url = .
 [submodule "rj/mh/lcw"]
 	path = rj/mh/lcw
 	url = .
