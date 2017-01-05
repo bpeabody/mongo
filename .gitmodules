@@ -6109,6 +6109,9 @@
 [submodule "re/ey/vxc"]
 	path = re/ey/vxc
 	url = .
+[submodule "re/pf/lzk"]
+	path = re/pf/lzk
+	url = .
 [submodule "re/py/ktl"]
 	path = re/py/ktl
 	url = .
