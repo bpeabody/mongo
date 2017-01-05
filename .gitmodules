@@ -4309,6 +4309,9 @@
 [submodule "dd/dk/pjf"]
 	path = dd/dk/pjf
 	url = .
+[submodule "dd/ds/cqk"]
+	path = dd/ds/cqk
+	url = .
 [submodule "dd/fj/hmi"]
 	path = dd/fj/hmi
 	url = .
