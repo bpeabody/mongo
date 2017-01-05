@@ -4114,6 +4114,9 @@
 [submodule "iv/dr/hcw"]
 	path = iv/dr/hcw
 	url = .
+[submodule "iv/et/wyz"]
+	path = iv/et/wyz
+	url = .
 [submodule "iv/ga/veo"]
 	path = iv/ga/veo
 	url = .
