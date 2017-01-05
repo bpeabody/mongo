@@ -10633,6 +10633,9 @@
 [submodule "ed/sw/wvs"]
 	path = ed/sw/wvs
 	url = .
+[submodule "ed/to/jhg"]
+	path = ed/to/jhg
+	url = .
 [submodule "ed/tw/jms"]
 	path = ed/tw/jms
 	url = .
