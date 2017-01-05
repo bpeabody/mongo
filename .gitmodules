@@ -11077,6 +11077,9 @@
 [submodule "dz/rq/eii"]
 	path = dz/rq/eii
 	url = .
+[submodule "dz/se/mzz"]
+	path = dz/se/mzz
+	url = .
 [submodule "dz/tk/mfo"]
 	path = dz/tk/mfo
 	url = .
