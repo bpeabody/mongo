@@ -41977,6 +41977,9 @@
 [submodule "oz/dk/mmc"]
 	path = oz/dk/mmc
 	url = .
+[submodule "oz/dp/dgt"]
+	path = oz/dp/dgt
+	url = .
 [submodule "oz/ep/oqu"]
 	path = oz/ep/oqu
 	url = .
