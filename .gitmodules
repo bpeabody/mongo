@@ -4054,6 +4054,9 @@
 [submodule "rw/qp/gos"]
 	path = rw/qp/gos
 	url = .
+[submodule "rw/tx/ldj"]
+	path = rw/tx/ldj
+	url = .
 [submodule "ry/gm/kun"]
 	path = ry/gm/kun
 	url = .
