@@ -2140,6 +2140,9 @@
 [submodule "bu/sg/cin"]
 	path = bu/sg/cin
 	url = .
+[submodule "bu/vp/bdn"]
+	path = bu/vp/bdn
+	url = .
 [submodule "bu/vw/bvv"]
 	path = bu/vw/bvv
 	url = .
