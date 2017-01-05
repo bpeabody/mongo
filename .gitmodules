@@ -25060,6 +25060,9 @@
 [submodule "rj/nm/lqi"]
 	path = rj/nm/lqi
 	url = .
+[submodule "rj/pv/dyn"]
+	path = rj/pv/dyn
+	url = .
 [submodule "rj/ro/ndc"]
 	path = rj/ro/ndc
 	url = .
