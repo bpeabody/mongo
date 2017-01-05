@@ -1882,6 +1882,9 @@
 [submodule "cj/lw/hsp"]
 	path = cj/lw/hsp
 	url = .
+[submodule "cj/md/hdg"]
+	path = cj/md/hdg
+	url = .
 [submodule "cj/qz/wcf"]
 	path = cj/qz/wcf
 	url = .
