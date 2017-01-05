@@ -5185,6 +5185,9 @@
 [submodule "cw/po/kda"]
 	path = cw/po/kda
 	url = .
+[submodule "cw/qe/lyk"]
+	path = cw/qe/lyk
+	url = .
 [submodule "cw/so/prm"]
 	path = cw/so/prm
 	url = .
