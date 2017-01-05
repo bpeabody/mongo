@@ -8785,6 +8785,9 @@
 [submodule "ei/jq/bcl"]
 	path = ei/jq/bcl
 	url = .
+[submodule "ei/jw/nli"]
+	path = ei/jw/nli
+	url = .
 [submodule "ei/kv/uas"]
 	path = ei/kv/uas
 	url = .
