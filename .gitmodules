@@ -29938,6 +29938,9 @@
 [submodule "jz/gk/gnq"]
 	path = jz/gk/gnq
 	url = .
+[submodule "jz/gp/qcd"]
+	path = jz/gp/qcd
+	url = .
 [submodule "jz/hb/uxd"]
 	path = jz/hb/uxd
 	url = .
