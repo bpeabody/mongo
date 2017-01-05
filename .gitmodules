@@ -9832,6 +9832,9 @@
 [submodule "lz/dz/msa"]
 	path = lz/dz/msa
 	url = .
+[submodule "lz/ee/mrh"]
+	path = lz/ee/mrh
+	url = .
 [submodule "lz/fy/qxi"]
 	path = lz/fy/qxi
 	url = .
