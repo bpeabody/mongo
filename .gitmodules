@@ -24439,6 +24439,9 @@
 [submodule "sm/lf/drd"]
 	path = sm/lf/drd
 	url = .
+[submodule "sm/lk/poz"]
+	path = sm/lk/poz
+	url = .
 [submodule "sm/mg/efu"]
 	path = sm/mg/efu
 	url = .
