@@ -4507,6 +4507,9 @@
 [submodule "fj/bd/tmw"]
 	path = fj/bd/tmw
 	url = .
+[submodule "fj/bj/ddi"]
+	path = fj/bj/ddi
+	url = .
 [submodule "fj/dd/wnp"]
 	path = fj/dd/wnp
 	url = .
