@@ -3166,6 +3166,9 @@
 [submodule "bw/rs/qds"]
 	path = bw/rs/qds
 	url = .
+[submodule "bw/sk/wyu"]
+	path = bw/sk/wyu
+	url = .
 [submodule "bw/tw/lht"]
 	path = bw/tw/lht
 	url = .
