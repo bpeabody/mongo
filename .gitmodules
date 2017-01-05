@@ -48196,6 +48196,9 @@
 [submodule "tb/fn/vjh"]
 	path = tb/fn/vjh
 	url = .
+[submodule "tb/ib/emg"]
+	path = tb/ib/emg
+	url = .
 [submodule "tb/ke/eqz"]
 	path = tb/ke/eqz
 	url = .
