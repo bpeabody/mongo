@@ -6472,6 +6472,9 @@
 [submodule "et/gx/xjh"]
 	path = et/gx/xjh
 	url = .
+[submodule "et/hk/csc"]
+	path = et/hk/csc
+	url = .
 [submodule "et/jd/edv"]
 	path = et/jd/edv
 	url = .
