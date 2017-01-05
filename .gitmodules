@@ -19063,6 +19063,9 @@
 [submodule "uc/ls/aiv"]
 	path = uc/ls/aiv
 	url = .
+[submodule "uc/nd/pcr"]
+	path = uc/nd/pcr
+	url = .
 [submodule "uc/nt/vpp"]
 	path = uc/nt/vpp
 	url = .
