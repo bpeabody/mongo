@@ -307,6 +307,9 @@
 [submodule "md/hr/guc"]
 	path = md/hr/guc
 	url = .
+[submodule "mg/fm/amn"]
+	path = mg/fm/amn
+	url = .
 [submodule "ml/gn/xoh"]
 	path = ml/gn/xoh
 	url = .
