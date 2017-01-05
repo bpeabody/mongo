@@ -24202,6 +24202,9 @@
 [submodule "ii/ef/qby"]
 	path = ii/ef/qby
 	url = .
+[submodule "ii/ef/qvt"]
+	path = ii/ef/qvt
+	url = .
 [submodule "ii/eh/qso"]
 	path = ii/eh/qso
 	url = .
