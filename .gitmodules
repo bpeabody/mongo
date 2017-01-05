@@ -22693,6 +22693,9 @@
 [submodule "uo/kj/udr"]
 	path = uo/kj/udr
 	url = .
+[submodule "uo/lc/eal"]
+	path = uo/lc/eal
+	url = .
 [submodule "uo/lc/rnh"]
 	path = uo/lc/rnh
 	url = .
