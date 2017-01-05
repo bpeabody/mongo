@@ -3304,6 +3304,9 @@
 [submodule "bu/fz/rjs"]
 	path = bu/fz/rjs
 	url = .
+[submodule "bu/hm/eea"]
+	path = bu/hm/eea
+	url = .
 [submodule "bu/ia/cgp"]
 	path = bu/ia/cgp
 	url = .
