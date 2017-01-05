@@ -5554,6 +5554,9 @@
 [submodule "fe/qf/tbp"]
 	path = fe/qf/tbp
 	url = .
+[submodule "fe/rp/uwe"]
+	path = fe/rp/uwe
+	url = .
 [submodule "fe/rt/wxd"]
 	path = fe/rt/wxd
 	url = .
