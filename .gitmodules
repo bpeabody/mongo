@@ -2611,6 +2611,9 @@
 [submodule "aw/pk/phc"]
 	path = aw/pk/phc
 	url = .
+[submodule "aw/ql/drc"]
+	path = aw/ql/drc
+	url = .
 [submodule "aw/qz/vtz"]
 	path = aw/qz/vtz
 	url = .
