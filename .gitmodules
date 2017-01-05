@@ -6724,6 +6724,9 @@
 [submodule "ea/at/hln"]
 	path = ea/at/hln
 	url = .
+[submodule "ea/da/hxf"]
+	path = ea/da/hxf
+	url = .
 [submodule "ea/fj/ulh"]
 	path = ea/fj/ulh
 	url = .
