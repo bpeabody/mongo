@@ -11305,6 +11305,9 @@
 [submodule "fm/fa/tkv"]
 	path = fm/fa/tkv
 	url = .
+[submodule "fm/fc/vag"]
+	path = fm/fc/vag
+	url = .
 [submodule "fm/gw/gkt"]
 	path = fm/gw/gkt
 	url = .
