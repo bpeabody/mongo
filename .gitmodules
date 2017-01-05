@@ -11437,6 +11437,9 @@
 [submodule "fc/tj/upz"]
 	path = fc/tj/upz
 	url = .
+[submodule "fc/uc/txr"]
+	path = fc/uc/txr
+	url = .
 [submodule "fc/vm/pnv"]
 	path = fc/vm/pnv
 	url = .
