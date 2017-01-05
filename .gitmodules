@@ -370,6 +370,9 @@
 [submodule "dd/zu/ikx"]
 	path = dd/zu/ikx
 	url = .
+[submodule "de/gc/fvk"]
+	path = de/gc/fvk
+	url = .
 [submodule "df/rd/cwg"]
 	path = df/rd/cwg
 	url = .
