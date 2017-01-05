@@ -38575,6 +38575,9 @@
 [submodule "ta/jb/lkm"]
 	path = ta/jb/lkm
 	url = .
+[submodule "ta/ju/kri"]
+	path = ta/ju/kri
+	url = .
 [submodule "ta/jx/veu"]
 	path = ta/jx/veu
 	url = .
