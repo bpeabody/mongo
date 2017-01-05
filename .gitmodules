@@ -787,6 +787,9 @@
 [submodule "fe/cq/ndn"]
 	path = fe/cq/ndn
 	url = .
+[submodule "fe/ff/cbs"]
+	path = fe/ff/cbs
+	url = .
 [submodule "ff/nk/ncz"]
 	path = ff/nk/ncz
 	url = .
