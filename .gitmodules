@@ -3208,6 +3208,9 @@
 [submodule "ca/vi/qwr"]
 	path = ca/vi/qwr
 	url = .
+[submodule "ca/vj/pvg"]
+	path = ca/vj/pvg
+	url = .
 [submodule "ca/we/xta"]
 	path = ca/we/xta
 	url = .
