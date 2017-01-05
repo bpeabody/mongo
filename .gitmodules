@@ -16936,6 +16936,9 @@
 [submodule "kq/jj/ybd"]
 	path = kq/jj/ybd
 	url = .
+[submodule "kq/kb/mca"]
+	path = kq/kb/mca
+	url = .
 [submodule "kq/kz/mrq"]
 	path = kq/kz/mrq
 	url = .
