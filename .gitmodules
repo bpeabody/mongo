@@ -15031,6 +15031,9 @@
 [submodule "fk/ja/hcq"]
 	path = fk/ja/hcq
 	url = .
+[submodule "fk/jd/krq"]
+	path = fk/jd/krq
+	url = .
 [submodule "fk/jk/mwq"]
 	path = fk/jk/mwq
 	url = .
