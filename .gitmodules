@@ -11071,6 +11071,9 @@
 [submodule "sm/ai/qfy"]
 	path = sm/ai/qfy
 	url = .
+[submodule "sm/mg/efu"]
+	path = sm/mg/efu
+	url = .
 [submodule "sm/rh/pgh"]
 	path = sm/rh/pgh
 	url = .
