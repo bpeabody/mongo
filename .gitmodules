@@ -3499,6 +3499,9 @@
 [submodule "dz/ex/yoq"]
 	path = dz/ex/yoq
 	url = .
+[submodule "dz/kr/orm"]
+	path = dz/kr/orm
+	url = .
 [submodule "dz/rq/eii"]
 	path = dz/rq/eii
 	url = .
