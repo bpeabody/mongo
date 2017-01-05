@@ -5041,6 +5041,9 @@
 [submodule "kc/lz/aoc"]
 	path = kc/lz/aoc
 	url = .
+[submodule "kc/ne/zzl"]
+	path = kc/ne/zzl
+	url = .
 [submodule "kc/nr/dus"]
 	path = kc/nr/dus
 	url = .
