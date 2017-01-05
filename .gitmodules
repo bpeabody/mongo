@@ -4495,6 +4495,9 @@
 [submodule "ec/cq/xdf"]
 	path = ec/cq/xdf
 	url = .
+[submodule "ec/ea/rxg"]
+	path = ec/ea/rxg
+	url = .
 [submodule "ec/ev/etz"]
 	path = ec/ev/etz
 	url = .
