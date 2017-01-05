@@ -46639,6 +46639,9 @@
 [submodule "tc/lf/fpk"]
 	path = tc/lf/fpk
 	url = .
+[submodule "tc/lt/ens"]
+	path = tc/lt/ens
+	url = .
 [submodule "tc/mi/app"]
 	path = tc/mi/app
 	url = .
