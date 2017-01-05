@@ -7882,6 +7882,9 @@
 [submodule "dm/xp/nrv"]
 	path = dm/xp/nrv
 	url = .
+[submodule "dm/yp/bdh"]
+	path = dm/yp/bdh
+	url = .
 [submodule "dm/zr/dyd"]
 	path = dm/zr/dyd
 	url = .
