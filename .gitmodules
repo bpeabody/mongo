@@ -5635,6 +5635,9 @@
 [submodule "gi/oe/rer"]
 	path = gi/oe/rer
 	url = .
+[submodule "gi/os/pdp"]
+	path = gi/os/pdp
+	url = .
 [submodule "gi/pd/oju"]
 	path = gi/pd/oju
 	url = .
