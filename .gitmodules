@@ -9244,6 +9244,9 @@
 [submodule "fp/cn/kya"]
 	path = fp/cn/kya
 	url = .
+[submodule "fp/dd/mig"]
+	path = fp/dd/mig
+	url = .
 [submodule "fp/ds/bet"]
 	path = fp/ds/bet
 	url = .
