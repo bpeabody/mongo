@@ -47665,6 +47665,9 @@
 [submodule "tz/ag/hjg"]
 	path = tz/ag/hjg
 	url = .
+[submodule "tz/bm/rdi"]
+	path = tz/bm/rdi
+	url = .
 [submodule "tz/cb/blp"]
 	path = tz/cb/blp
 	url = .
