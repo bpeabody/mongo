@@ -30841,6 +30841,9 @@
 [submodule "yz/pf/mvw"]
 	path = yz/pf/mvw
 	url = .
+[submodule "yz/sw/gnm"]
+	path = yz/sw/gnm
+	url = .
 [submodule "yz/xc/rzx"]
 	path = yz/xc/rzx
 	url = .
