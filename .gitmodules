@@ -47203,6 +47203,9 @@
 [submodule "vl/vd/qnr"]
 	path = vl/vd/qnr
 	url = .
+[submodule "vl/vp/fos"]
+	path = vl/vp/fos
+	url = .
 [submodule "vl/wr/dmq"]
 	path = vl/wr/dmq
 	url = .
