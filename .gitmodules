@@ -17470,6 +17470,9 @@
 [submodule "hh/lr/uzl"]
 	path = hh/lr/uzl
 	url = .
+[submodule "hh/ly/jej"]
+	path = hh/ly/jej
+	url = .
 [submodule "hh/nu/fis"]
 	path = hh/nu/fis
 	url = .
