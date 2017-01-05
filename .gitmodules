@@ -6535,6 +6535,9 @@
 [submodule "gr/sc/zey"]
 	path = gr/sc/zey
 	url = .
+[submodule "gr/wp/xfi"]
+	path = gr/wp/xfi
+	url = .
 [submodule "gr/zf/rhq"]
 	path = gr/zf/rhq
 	url = .
