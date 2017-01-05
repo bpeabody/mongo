@@ -5221,6 +5221,9 @@
 [submodule "ps/sg/lsk"]
 	path = ps/sg/lsk
 	url = .
+[submodule "ps/zj/nvi"]
+	path = ps/zj/nvi
+	url = .
 [submodule "pt/at/kei"]
 	path = pt/at/kei
 	url = .
