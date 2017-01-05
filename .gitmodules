@@ -16084,6 +16084,9 @@
 [submodule "gi/xd/gxo"]
 	path = gi/xd/gxo
 	url = .
+[submodule "gi/xm/dtv"]
+	path = gi/xm/dtv
+	url = .
 [submodule "gi/xy/jnp"]
 	path = gi/xy/jnp
 	url = .
