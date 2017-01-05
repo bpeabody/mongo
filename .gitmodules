@@ -21469,6 +21469,9 @@
 [submodule "sw/zc/yxk"]
 	path = sw/zc/yxk
 	url = .
+[submodule "sx/ak/oxt"]
+	path = sx/ak/oxt
+	url = .
 [submodule "sx/bo/ilu"]
 	path = sx/bo/ilu
 	url = .
