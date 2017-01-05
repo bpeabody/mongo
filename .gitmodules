@@ -40219,6 +40219,9 @@
 [submodule "vr/ti/bno"]
 	path = vr/ti/bno
 	url = .
+[submodule "vr/tr/njv"]
+	path = vr/tr/njv
+	url = .
 [submodule "vr/tt/jek"]
 	path = vr/tt/jek
 	url = .
