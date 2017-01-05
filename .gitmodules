@@ -28393,6 +28393,9 @@
 [submodule "zh/hc/qmk"]
 	path = zh/hc/qmk
 	url = .
+[submodule "zh/hh/inr"]
+	path = zh/hh/inr
+	url = .
 [submodule "zh/ir/amr"]
 	path = zh/ir/amr
 	url = .
