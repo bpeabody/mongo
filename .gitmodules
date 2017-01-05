@@ -18082,6 +18082,9 @@
 [submodule "ms/fx/kaf"]
 	path = ms/fx/kaf
 	url = .
+[submodule "ms/fz/lja"]
+	path = ms/fz/lja
+	url = .
 [submodule "ms/he/orj"]
 	path = ms/he/orj
 	url = .
