@@ -23137,6 +23137,9 @@
 [submodule "kj/gq/ppd"]
 	path = kj/gq/ppd
 	url = .
+[submodule "kj/hb/fvu"]
+	path = kj/hb/fvu
+	url = .
 [submodule "kj/hw/jmg"]
 	path = kj/hw/jmg
 	url = .
