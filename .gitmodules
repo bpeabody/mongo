@@ -7192,6 +7192,9 @@
 [submodule "cy/pl/cat"]
 	path = cy/pl/cat
 	url = .
+[submodule "cy/pr/tzx"]
+	path = cy/pr/tzx
+	url = .
 [submodule "cy/qx/box"]
 	path = cy/qx/box
 	url = .
