@@ -10843,6 +10843,9 @@
 [submodule "kz/fl/srz"]
 	path = kz/fl/srz
 	url = .
+[submodule "kz/gs/ews"]
+	path = kz/gs/ews
+	url = .
 [submodule "kz/ka/rnd"]
 	path = kz/ka/rnd
 	url = .
