@@ -11704,6 +11704,9 @@
 [submodule "wh/vt/ult"]
 	path = wh/vt/ult
 	url = .
+[submodule "wi/aq/zuc"]
+	path = wi/aq/zuc
+	url = .
 [submodule "wi/fm/cpy"]
 	path = wi/fm/cpy
 	url = .
