@@ -20368,6 +20368,9 @@
 [submodule "iz/kd/wen"]
 	path = iz/kd/wen
 	url = .
+[submodule "iz/kh/bpf"]
+	path = iz/kh/bpf
+	url = .
 [submodule "iz/kj/yeo"]
 	path = iz/kj/yeo
 	url = .
