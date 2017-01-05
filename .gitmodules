@@ -18766,6 +18766,9 @@
 [submodule "kq/at/equ"]
 	path = kq/at/equ
 	url = .
+[submodule "kq/at/sis"]
+	path = kq/at/sis
+	url = .
 [submodule "kq/bk/tbc"]
 	path = kq/bk/tbc
 	url = .
