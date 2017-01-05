@@ -739,6 +739,9 @@
 [submodule "af/vv/nsg"]
 	path = af/vv/nsg
 	url = .
+[submodule "af/vv/qwa"]
+	path = af/vv/qwa
+	url = .
 [submodule "af/vx/cwo"]
 	path = af/vx/cwo
 	url = .
