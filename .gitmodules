@@ -16117,6 +16117,9 @@
 [submodule "qq/sr/crf"]
 	path = qq/sr/crf
 	url = .
+[submodule "qq/tb/ibk"]
+	path = qq/tb/ibk
+	url = .
 [submodule "qq/ui/kyz"]
 	path = qq/ui/kyz
 	url = .
