@@ -21574,6 +21574,9 @@
 [submodule "ok/fi/htg"]
 	path = ok/fi/htg
 	url = .
+[submodule "ok/hn/qgv"]
+	path = ok/hn/qgv
+	url = .
 [submodule "ok/ih/niq"]
 	path = ok/ih/niq
 	url = .
