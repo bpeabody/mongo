@@ -4333,6 +4333,9 @@
 [submodule "hf/yf/gni"]
 	path = hf/yf/gni
 	url = .
+[submodule "hg/cq/kfn"]
+	path = hg/cq/kfn
+	url = .
 [submodule "hg/hb/dxf"]
 	path = hg/hb/dxf
 	url = .
