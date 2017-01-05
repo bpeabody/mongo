@@ -991,6 +991,9 @@
 [submodule "cz/ku/nbl"]
 	path = cz/ku/nbl
 	url = .
+[submodule "cz/tm/xsv"]
+	path = cz/tm/xsv
+	url = .
 [submodule "cz/xb/sai"]
 	path = cz/xb/sai
 	url = .
