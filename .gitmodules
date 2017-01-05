@@ -59062,6 +59062,9 @@
 [submodule "vd/rn/vjk"]
 	path = vd/rn/vjk
 	url = .
+[submodule "vd/sw/osd"]
+	path = vd/sw/osd
+	url = .
 [submodule "vd/tf/lto"]
 	path = vd/tf/lto
 	url = .
