@@ -595,6 +595,9 @@
 [submodule "gn/ij/ywb"]
 	path = gn/ij/ywb
 	url = .
+[submodule "gn/kw/wav"]
+	path = gn/kw/wav
+	url = .
 [submodule "go/gc/yhq"]
 	path = go/gc/yhq
 	url = .
