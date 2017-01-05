@@ -9280,6 +9280,9 @@
 [submodule "hv/nc/loh"]
 	path = hv/nc/loh
 	url = .
+[submodule "hv/pz/drj"]
+	path = hv/pz/drj
+	url = .
 [submodule "hv/qv/ovt"]
 	path = hv/qv/ovt
 	url = .
