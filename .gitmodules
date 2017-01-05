@@ -5800,6 +5800,9 @@
 [submodule "ce/fq/lyt"]
 	path = ce/fq/lyt
 	url = .
+[submodule "ce/gp/hxq"]
+	path = ce/gp/hxq
+	url = .
 [submodule "ce/gw/uyc"]
 	path = ce/gw/uyc
 	url = .
