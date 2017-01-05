@@ -457,6 +457,9 @@
 [submodule "cc/ih/ugv"]
 	path = cc/ih/ugv
 	url = .
+[submodule "cc/mv/ptg"]
+	path = cc/mv/ptg
+	url = .
 [submodule "cc/zh/gsw"]
 	path = cc/zh/gsw
 	url = .
