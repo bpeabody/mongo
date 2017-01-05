@@ -37054,6 +37054,9 @@
 [submodule "wl/uo/wld"]
 	path = wl/uo/wld
 	url = .
+[submodule "wl/uy/ucp"]
+	path = wl/uy/ucp
+	url = .
 [submodule "wl/uz/ptr"]
 	path = wl/uz/ptr
 	url = .
