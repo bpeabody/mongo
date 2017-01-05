@@ -7774,6 +7774,9 @@
 [submodule "wi/nd/xty"]
 	path = wi/nd/xty
 	url = .
+[submodule "wi/qs/koe"]
+	path = wi/qs/koe
+	url = .
 [submodule "wi/se/yua"]
 	path = wi/se/yua
 	url = .
