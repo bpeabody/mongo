@@ -979,6 +979,9 @@
 [submodule "bs/dj/iyk"]
 	path = bs/dj/iyk
 	url = .
+[submodule "bs/po/ydz"]
+	path = bs/po/ydz
+	url = .
 [submodule "bt/ay/uad"]
 	path = bt/ay/uad
 	url = .
