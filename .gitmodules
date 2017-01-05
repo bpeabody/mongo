@@ -5395,6 +5395,9 @@
 [submodule "dg/wv/tow"]
 	path = dg/wv/tow
 	url = .
+[submodule "dg/xb/jog"]
+	path = dg/xb/jog
+	url = .
 [submodule "dg/xp/ikm"]
 	path = dg/xp/ikm
 	url = .
