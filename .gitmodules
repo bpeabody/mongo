@@ -1027,6 +1027,9 @@
 [submodule "bj/ig/hye"]
 	path = bj/ig/hye
 	url = .
+[submodule "bj/mw/cha"]
+	path = bj/mw/cha
+	url = .
 [submodule "bj/qn/vtt"]
 	path = bj/qn/vtt
 	url = .
