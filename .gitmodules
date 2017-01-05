@@ -11479,6 +11479,9 @@
 [submodule "kb/yv/oxi"]
 	path = kb/yv/oxi
 	url = .
+[submodule "kc/ar/wnx"]
+	path = kc/ar/wnx
+	url = .
 [submodule "kc/az/dsp"]
 	path = kc/az/dsp
 	url = .
