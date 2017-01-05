@@ -13429,6 +13429,9 @@
 [submodule "sd/kg/wbs"]
 	path = sd/kg/wbs
 	url = .
+[submodule "sd/lr/awq"]
+	path = sd/lr/awq
+	url = .
 [submodule "sd/pr/nlb"]
 	path = sd/pr/nlb
 	url = .
