@@ -38797,6 +38797,9 @@
 [submodule "pk/rd/brg"]
 	path = pk/rd/brg
 	url = .
+[submodule "pk/ru/haj"]
+	path = pk/ru/haj
+	url = .
 [submodule "pk/su/fie"]
 	path = pk/su/fie
 	url = .
