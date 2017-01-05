@@ -5293,6 +5293,9 @@
 [submodule "cx/cw/wll"]
 	path = cx/cw/wll
 	url = .
+[submodule "cx/cy/ngi"]
+	path = cx/cy/ngi
+	url = .
 [submodule "cx/dd/pie"]
 	path = cx/dd/pie
 	url = .
