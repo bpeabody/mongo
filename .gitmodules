@@ -688,6 +688,9 @@
 [submodule "mz/lh/pzc"]
 	path = mz/lh/pzc
 	url = .
+[submodule "nc/fj/qtj"]
+	path = nc/fj/qtj
+	url = .
 [submodule "nc/od/vzu"]
 	path = nc/od/vzu
 	url = .
