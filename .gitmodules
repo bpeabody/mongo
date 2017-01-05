@@ -19393,6 +19393,9 @@
 [submodule "lp/df/bjt"]
 	path = lp/df/bjt
 	url = .
+[submodule "lp/dg/opi"]
+	path = lp/dg/opi
+	url = .
 [submodule "lp/fj/hsp"]
 	path = lp/fj/hsp
 	url = .
