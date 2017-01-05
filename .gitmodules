@@ -2119,6 +2119,9 @@
 [submodule "bv/oz/ugd"]
 	path = bv/oz/ugd
 	url = .
+[submodule "bv/pr/cuh"]
+	path = bv/pr/cuh
+	url = .
 [submodule "bv/qp/qyi"]
 	path = bv/qp/qyi
 	url = .
