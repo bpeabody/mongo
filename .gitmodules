@@ -6877,6 +6877,9 @@
 [submodule "df/qp/ghy"]
 	path = df/qp/ghy
 	url = .
+[submodule "df/qq/hxl"]
+	path = df/qq/hxl
+	url = .
 [submodule "df/qs/enf"]
 	path = df/qs/enf
 	url = .
