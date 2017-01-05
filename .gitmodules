@@ -28717,6 +28717,9 @@
 [submodule "jl/xn/mpy"]
 	path = jl/xn/mpy
 	url = .
+[submodule "jl/yg/mcn"]
+	path = jl/yg/mcn
+	url = .
 [submodule "jl/yp/cul"]
 	path = jl/yp/cul
 	url = .
