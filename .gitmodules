@@ -14044,6 +14044,9 @@
 [submodule "mv/sv/jjz"]
 	path = mv/sv/jjz
 	url = .
+[submodule "mv/yj/wzd"]
+	path = mv/yj/wzd
+	url = .
 [submodule "mv/zn/lfj"]
 	path = mv/zn/lfj
 	url = .
