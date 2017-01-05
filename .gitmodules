@@ -7924,6 +7924,9 @@
 [submodule "it/iw/dhd"]
 	path = it/iw/dhd
 	url = .
+[submodule "it/kc/sby"]
+	path = it/kc/sby
+	url = .
 [submodule "it/sm/etj"]
 	path = it/sm/etj
 	url = .
