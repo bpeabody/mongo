@@ -9379,6 +9379,9 @@
 [submodule "db/id/iuy"]
 	path = db/id/iuy
 	url = .
+[submodule "db/ii/kkn"]
+	path = db/ii/kkn
+	url = .
 [submodule "db/ji/elv"]
 	path = db/ji/elv
 	url = .
