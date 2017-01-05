@@ -8341,6 +8341,9 @@
 [submodule "dq/gk/fkf"]
 	path = dq/gk/fkf
 	url = .
+[submodule "dq/he/nrb"]
+	path = dq/he/nrb
+	url = .
 [submodule "dq/kd/njb"]
 	path = dq/kd/njb
 	url = .
