@@ -394,6 +394,9 @@
 [submodule "ad/dn/amk"]
 	path = ad/dn/amk
 	url = .
+[submodule "ad/ed/wsw"]
+	path = ad/ed/wsw
+	url = .
 [submodule "ad/ee/ucu"]
 	path = ad/ee/ucu
 	url = .
