@@ -4330,6 +4330,9 @@
 [submodule "de/js/etd"]
 	path = de/js/etd
 	url = .
+[submodule "de/nz/nqg"]
+	path = de/nz/nqg
+	url = .
 [submodule "de/vq/fyo"]
 	path = de/vq/fyo
 	url = .
