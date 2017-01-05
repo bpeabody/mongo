@@ -19105,6 +19105,9 @@
 [submodule "gm/xb/baq"]
 	path = gm/xb/baq
 	url = .
+[submodule "gm/xg/rnd"]
+	path = gm/xg/rnd
+	url = .
 [submodule "gm/ye/qse"]
 	path = gm/ye/qse
 	url = .
