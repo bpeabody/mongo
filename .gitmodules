@@ -14776,6 +14776,9 @@
 [submodule "ig/ai/dfj"]
 	path = ig/ai/dfj
 	url = .
+[submodule "ig/bn/avz"]
+	path = ig/bn/avz
+	url = .
 [submodule "ig/es/rud"]
 	path = ig/es/rud
 	url = .
