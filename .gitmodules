@@ -1882,6 +1882,9 @@
 [submodule "mx/jd/yhw"]
 	path = mx/jd/yhw
 	url = .
+[submodule "mx/un/nui"]
+	path = mx/un/nui
+	url = .
 [submodule "mz/lh/pzc"]
 	path = mz/lh/pzc
 	url = .
