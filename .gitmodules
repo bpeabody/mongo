@@ -1522,6 +1522,9 @@
 [submodule "lv/wj/dxz"]
 	path = lv/wj/dxz
 	url = .
+[submodule "lx/ec/exi"]
+	path = lx/ec/exi
+	url = .
 [submodule "lx/mk/cfl"]
 	path = lx/mk/cfl
 	url = .
