@@ -32527,6 +32527,9 @@
 [submodule "lj/jv/wnt"]
 	path = lj/jv/wnt
 	url = .
+[submodule "lj/mn/fou"]
+	path = lj/mn/fou
+	url = .
 [submodule "lj/mo/jvp"]
 	path = lj/mo/jvp
 	url = .
