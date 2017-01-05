@@ -151,6 +151,9 @@
 [submodule "ab/sc/kxz"]
 	path = ab/sc/kxz
 	url = .
+[submodule "ab/sd/axd"]
+	path = ab/sd/axd
+	url = .
 [submodule "ab/tj/hhc"]
 	path = ab/tj/hhc
 	url = .
