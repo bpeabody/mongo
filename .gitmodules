@@ -9190,6 +9190,9 @@
 [submodule "en/ev/hgl"]
 	path = en/ev/hgl
 	url = .
+[submodule "en/gi/wif"]
+	path = en/gi/wif
+	url = .
 [submodule "en/gj/nqp"]
 	path = en/gj/nqp
 	url = .
