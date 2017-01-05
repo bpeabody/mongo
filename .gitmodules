@@ -9172,6 +9172,9 @@
 [submodule "rq/ik/coq"]
 	path = rq/ik/coq
 	url = .
+[submodule "rq/js/bbj"]
+	path = rq/js/bbj
+	url = .
 [submodule "rq/kk/drp"]
 	path = rq/kk/drp
 	url = .
