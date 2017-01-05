@@ -7264,6 +7264,9 @@
 [submodule "tn/wk/cny"]
 	path = tn/wk/cny
 	url = .
+[submodule "tn/zj/rdo"]
+	path = tn/zj/rdo
+	url = .
 [submodule "tn/zz/psu"]
 	path = tn/zz/psu
 	url = .
