@@ -4171,6 +4171,9 @@
 [submodule "fy/ge/psh"]
 	path = fy/ge/psh
 	url = .
+[submodule "fy/lk/sso"]
+	path = fy/lk/sso
+	url = .
 [submodule "fy/or/xsj"]
 	path = fy/or/xsj
 	url = .
