@@ -50830,6 +50830,9 @@
 [submodule "qu/wj/eda"]
 	path = qu/wj/eda
 	url = .
+[submodule "qu/xc/flo"]
+	path = qu/xc/flo
+	url = .
 [submodule "qu/xo/mzc"]
 	path = qu/xo/mzc
 	url = .
