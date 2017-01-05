@@ -19,6 +19,9 @@
 [submodule "aa/dq/tdg"]
 	path = aa/dq/tdg
 	url = .
+[submodule "aa/ey/prl"]
+	path = aa/ey/prl
+	url = .
 [submodule "aa/gr/meu"]
 	path = aa/gr/meu
 	url = .
