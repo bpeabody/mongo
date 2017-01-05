@@ -28027,6 +28027,9 @@
 [submodule "jx/hc/onf"]
 	path = jx/hc/onf
 	url = .
+[submodule "jx/hi/sfo"]
+	path = jx/hi/sfo
+	url = .
 [submodule "jx/kc/tze"]
 	path = jx/kc/tze
 	url = .
