@@ -53200,6 +53200,9 @@
 [submodule "tn/xy/tcy"]
 	path = tn/xy/tcy
 	url = .
+[submodule "tn/xz/cvk"]
+	path = tn/xz/cvk
+	url = .
 [submodule "tn/za/ake"]
 	path = tn/za/ake
 	url = .
