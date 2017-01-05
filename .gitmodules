@@ -1960,6 +1960,9 @@
 [submodule "aw/yg/vls"]
 	path = aw/yg/vls
 	url = .
+[submodule "aw/ys/xvv"]
+	path = aw/ys/xvv
+	url = .
 [submodule "aw/zg/baz"]
 	path = aw/zg/baz
 	url = .
