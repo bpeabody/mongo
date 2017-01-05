@@ -1759,6 +1759,9 @@
 [submodule "at/vp/ozf"]
 	path = at/vp/ozf
 	url = .
+[submodule "at/vt/lob"]
+	path = at/vt/lob
+	url = .
 [submodule "at/wg/mdq"]
 	path = at/wg/mdq
 	url = .
