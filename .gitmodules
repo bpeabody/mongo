@@ -12229,6 +12229,9 @@
 [submodule "go/av/nqq"]
 	path = go/av/nqq
 	url = .
+[submodule "go/cl/ihs"]
+	path = go/cl/ihs
+	url = .
 [submodule "go/dh/alm"]
 	path = go/dh/alm
 	url = .
