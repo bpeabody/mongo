@@ -1171,6 +1171,9 @@
 [submodule "fl/yn/vzt"]
 	path = fl/yn/vzt
 	url = .
+[submodule "fm/ip/vnd"]
+	path = fm/ip/vnd
+	url = .
 [submodule "fm/ya/swu"]
 	path = fm/ya/swu
 	url = .
