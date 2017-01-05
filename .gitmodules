@@ -32989,6 +32989,9 @@
 [submodule "ss/mt/lkl"]
 	path = ss/mt/lkl
 	url = .
+[submodule "ss/nk/cev"]
+	path = ss/nk/cev
+	url = .
 [submodule "ss/ou/die"]
 	path = ss/ou/die
 	url = .
