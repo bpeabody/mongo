@@ -28822,6 +28822,9 @@
 [submodule "od/rq/knf"]
 	path = od/rq/knf
 	url = .
+[submodule "od/sb/cqi"]
+	path = od/sb/cqi
+	url = .
 [submodule "od/ub/bdz"]
 	path = od/ub/bdz
 	url = .
