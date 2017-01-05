@@ -18592,6 +18592,9 @@
 [submodule "rs/ho/bmk"]
 	path = rs/ho/bmk
 	url = .
+[submodule "rs/hq/uit"]
+	path = rs/hq/uit
+	url = .
 [submodule "rs/ia/zvx"]
 	path = rs/ia/zvx
 	url = .
