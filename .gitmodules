@@ -9238,6 +9238,9 @@
 [submodule "dw/wx/cno"]
 	path = dw/wx/cno
 	url = .
+[submodule "dw/xc/qhe"]
+	path = dw/xc/qhe
+	url = .
 [submodule "dw/xw/dvg"]
 	path = dw/xw/dvg
 	url = .
