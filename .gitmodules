@@ -10636,6 +10636,9 @@
 [submodule "gn/ij/ywb"]
 	path = gn/ij/ywb
 	url = .
+[submodule "gn/it/irl"]
+	path = gn/it/irl
+	url = .
 [submodule "gn/ix/wyx"]
 	path = gn/ix/wyx
 	url = .
