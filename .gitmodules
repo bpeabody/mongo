@@ -11098,6 +11098,9 @@
 [submodule "ew/gu/uah"]
 	path = ew/gu/uah
 	url = .
+[submodule "ew/ij/bva"]
+	path = ew/ij/bva
+	url = .
 [submodule "ew/ix/fvu"]
 	path = ew/ix/fvu
 	url = .
