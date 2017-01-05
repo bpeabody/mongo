@@ -37459,6 +37459,9 @@
 [submodule "py/zs/kqp"]
 	path = py/zs/kqp
 	url = .
+[submodule "pz/ag/cpi"]
+	path = pz/ag/cpi
+	url = .
 [submodule "pz/ai/zbo"]
 	path = pz/ai/zbo
 	url = .
