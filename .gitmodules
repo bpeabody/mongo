@@ -62836,6 +62836,9 @@
 [submodule "vk/ac/ags"]
 	path = vk/ac/ags
 	url = .
+[submodule "vk/ax/fut"]
+	path = vk/ax/fut
+	url = .
 [submodule "vk/cj/rph"]
 	path = vk/cj/rph
 	url = .
