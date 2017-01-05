@@ -16840,6 +16840,9 @@
 [submodule "oc/xl/sij"]
 	path = oc/xl/sij
 	url = .
+[submodule "oc/xp/wuj"]
+	path = oc/xp/wuj
+	url = .
 [submodule "od/bl/ppr"]
 	path = od/bl/ppr
 	url = .
