@@ -21760,6 +21760,9 @@
 [submodule "vl/va/roc"]
 	path = vl/va/roc
 	url = .
+[submodule "vl/wr/dmq"]
+	path = vl/wr/dmq
+	url = .
 [submodule "vl/xt/qbe"]
 	path = vl/xt/qbe
 	url = .
