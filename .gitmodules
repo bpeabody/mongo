@@ -11296,6 +11296,9 @@
 [submodule "ha/bo/vyo"]
 	path = ha/bo/vyo
 	url = .
+[submodule "ha/bv/wdq"]
+	path = ha/bv/wdq
+	url = .
 [submodule "ha/bz/oxm"]
 	path = ha/bz/oxm
 	url = .
