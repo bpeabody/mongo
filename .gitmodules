@@ -184,6 +184,9 @@
 [submodule "wn/sp/iaf"]
 	path = wn/sp/iaf
 	url = .
+[submodule "wq/ii/nrk"]
+	path = wq/ii/nrk
+	url = .
 [submodule "xd/xz/sum"]
 	path = xd/xz/sum
 	url = .
