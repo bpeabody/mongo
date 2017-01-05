@@ -34846,6 +34846,9 @@
 [submodule "nv/nj/gxz"]
 	path = nv/nj/gxz
 	url = .
+[submodule "nv/oj/gau"]
+	path = nv/oj/gau
+	url = .
 [submodule "nv/oo/fed"]
 	path = nv/oo/fed
 	url = .
