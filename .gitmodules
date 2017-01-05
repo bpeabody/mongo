@@ -18055,6 +18055,9 @@
 [submodule "ge/bp/bgl"]
 	path = ge/bp/bgl
 	url = .
+[submodule "ge/cv/kas"]
+	path = ge/cv/kas
+	url = .
 [submodule "ge/cv/som"]
 	path = ge/cv/som
 	url = .
