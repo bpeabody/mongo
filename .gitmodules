@@ -17623,6 +17623,9 @@
 [submodule "wt/do/nis"]
 	path = wt/do/nis
 	url = .
+[submodule "wt/ih/uxg"]
+	path = wt/ih/uxg
+	url = .
 [submodule "wt/ls/xzi"]
 	path = wt/ls/xzi
 	url = .
