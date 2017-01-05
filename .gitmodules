@@ -59128,6 +59128,9 @@
 [submodule "zx/jj/bdg"]
 	path = zx/jj/bdg
 	url = .
+[submodule "zx/kt/vpg"]
+	path = zx/kt/vpg
+	url = .
 [submodule "zx/kz/ido"]
 	path = zx/kz/ido
 	url = .
