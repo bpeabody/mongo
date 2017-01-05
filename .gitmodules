@@ -1108,6 +1108,9 @@
 [submodule "da/gr/rnd"]
 	path = da/gr/rnd
 	url = .
+[submodule "da/lf/kol"]
+	path = da/lf/kol
+	url = .
 [submodule "da/lj/vbj"]
 	path = da/lj/vbj
 	url = .
