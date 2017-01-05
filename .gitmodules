@@ -47671,6 +47671,9 @@
 [submodule "qj/mh/hnd"]
 	path = qj/mh/hnd
 	url = .
+[submodule "qj/mr/kgq"]
+	path = qj/mr/kgq
+	url = .
 [submodule "qj/mz/tox"]
 	path = qj/mz/tox
 	url = .
