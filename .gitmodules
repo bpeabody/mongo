@@ -40765,6 +40765,9 @@
 [submodule "zq/mr/ksg"]
 	path = zq/mr/ksg
 	url = .
+[submodule "zq/nd/ddb"]
+	path = zq/nd/ddb
+	url = .
 [submodule "zq/pw/gdf"]
 	path = zq/pw/gdf
 	url = .
