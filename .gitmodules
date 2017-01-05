@@ -4096,6 +4096,9 @@
 [submodule "bn/kg/fhi"]
 	path = bn/kg/fhi
 	url = .
+[submodule "bn/lz/qyx"]
+	path = bn/lz/qyx
+	url = .
 [submodule "bn/mb/vxr"]
 	path = bn/mb/vxr
 	url = .
