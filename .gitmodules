@@ -32110,6 +32110,9 @@
 [submodule "ru/kb/vmu"]
 	path = ru/kb/vmu
 	url = .
+[submodule "ru/mv/jvz"]
+	path = ru/mv/jvz
+	url = .
 [submodule "ru/qi/pdb"]
 	path = ru/qi/pdb
 	url = .
