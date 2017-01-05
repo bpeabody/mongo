@@ -54733,6 +54733,9 @@
 [submodule "vo/et/fgu"]
 	path = vo/et/fgu
 	url = .
+[submodule "vo/ez/flu"]
+	path = vo/ez/flu
+	url = .
 [submodule "vo/fa/obt"]
 	path = vo/fa/obt
 	url = .
