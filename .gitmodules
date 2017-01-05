@@ -4528,6 +4528,9 @@
 [submodule "jc/kp/sxa"]
 	path = jc/kp/sxa
 	url = .
+[submodule "jc/qf/ooa"]
+	path = jc/qf/ooa
+	url = .
 [submodule "jc/qq/ruo"]
 	path = jc/qq/ruo
 	url = .
