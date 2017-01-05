@@ -33094,6 +33094,9 @@
 [submodule "vm/fy/cel"]
 	path = vm/fy/cel
 	url = .
+[submodule "vm/ia/prj"]
+	path = vm/ia/prj
+	url = .
 [submodule "vm/md/djv"]
 	path = vm/md/djv
 	url = .
