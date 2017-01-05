@@ -26620,6 +26620,9 @@
 [submodule "ms/he/orj"]
 	path = ms/he/orj
 	url = .
+[submodule "ms/ii/cet"]
+	path = ms/ii/cet
+	url = .
 [submodule "ms/kc/jka"]
 	path = ms/kc/jka
 	url = .
