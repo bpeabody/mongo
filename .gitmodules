@@ -8506,6 +8506,9 @@
 [submodule "db/ji/elv"]
 	path = db/ji/elv
 	url = .
+[submodule "db/jx/lhc"]
+	path = db/jx/lhc
+	url = .
 [submodule "db/kf/eke"]
 	path = db/kf/eke
 	url = .
