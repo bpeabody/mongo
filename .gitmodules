@@ -21571,6 +21571,9 @@
 [submodule "hw/zw/pih"]
 	path = hw/zw/pih
 	url = .
+[submodule "hx/ak/jad"]
+	path = hx/ak/jad
+	url = .
 [submodule "hx/bf/pbk"]
 	path = hx/bf/pbk
 	url = .
