@@ -41785,6 +41785,9 @@
 [submodule "ph/qh/bjb"]
 	path = ph/qh/bjb
 	url = .
+[submodule "ph/qo/dfu"]
+	path = ph/qo/dfu
+	url = .
 [submodule "ph/rw/qyb"]
 	path = ph/rw/qyb
 	url = .
