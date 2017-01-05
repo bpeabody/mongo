@@ -4489,6 +4489,9 @@
 [submodule "ct/nn/cem"]
 	path = ct/nn/cem
 	url = .
+[submodule "ct/no/dob"]
+	path = ct/no/dob
+	url = .
 [submodule "ct/or/qdb"]
 	path = ct/or/qdb
 	url = .
