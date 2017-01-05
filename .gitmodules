@@ -6649,6 +6649,9 @@
 [submodule "kw/dn/nek"]
 	path = kw/dn/nek
 	url = .
+[submodule "kw/et/qtv"]
+	path = kw/et/qtv
+	url = .
 [submodule "kw/fb/twy"]
 	path = kw/fb/twy
 	url = .
