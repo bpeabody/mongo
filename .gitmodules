@@ -21001,6 +21001,9 @@
 [submodule "ia/ig/zts"]
 	path = ia/ig/zts
 	url = .
+[submodule "ia/ij/ama"]
+	path = ia/ij/ama
+	url = .
 [submodule "ia/im/yth"]
 	path = ia/im/yth
 	url = .
