@@ -34438,6 +34438,9 @@
 [submodule "ri/kc/nfh"]
 	path = ri/kc/nfh
 	url = .
+[submodule "ri/kh/klm"]
+	path = ri/kh/klm
+	url = .
 [submodule "ri/mv/hqf"]
 	path = ri/mv/hqf
 	url = .
