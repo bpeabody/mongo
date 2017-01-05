@@ -42088,6 +42088,9 @@
 [submodule "sf/ne/luj"]
 	path = sf/ne/luj
 	url = .
+[submodule "sf/ns/vbg"]
+	path = sf/ns/vbg
+	url = .
 [submodule "sf/nv/xwf"]
 	path = sf/nv/xwf
 	url = .
