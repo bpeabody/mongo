@@ -4834,6 +4834,9 @@
 [submodule "nr/ng/kpg"]
 	path = nr/ng/kpg
 	url = .
+[submodule "nr/wl/nxs"]
+	path = nr/wl/nxs
+	url = .
 [submodule "nr/ye/nlu"]
 	path = nr/ye/nlu
 	url = .
