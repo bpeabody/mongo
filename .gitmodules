@@ -32581,6 +32581,9 @@
 [submodule "va/na/lpn"]
 	path = va/na/lpn
 	url = .
+[submodule "va/pp/seg"]
+	path = va/pp/seg
+	url = .
 [submodule "va/qy/hgy"]
 	path = va/qy/hgy
 	url = .
