@@ -25273,6 +25273,9 @@
 [submodule "jx/pv/kll"]
 	path = jx/pv/kll
 	url = .
+[submodule "jx/qu/svz"]
+	path = jx/qu/svz
+	url = .
 [submodule "jx/sa/jlb"]
 	path = jx/sa/jlb
 	url = .
