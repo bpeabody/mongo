@@ -39544,6 +39544,9 @@
 [submodule "nu/le/dry"]
 	path = nu/le/dry
 	url = .
+[submodule "nu/li/pay"]
+	path = nu/li/pay
+	url = .
 [submodule "nu/ly/wmj"]
 	path = nu/ly/wmj
 	url = .
