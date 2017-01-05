@@ -72070,6 +72070,9 @@
 [submodule "yb/mn/hmj"]
 	path = yb/mn/hmj
 	url = .
+[submodule "yb/mo/wma"]
+	path = yb/mo/wma
+	url = .
 [submodule "yb/np/nbn"]
 	path = yb/np/nbn
 	url = .
