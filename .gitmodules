@@ -49327,6 +49327,9 @@
 [submodule "vd/bx/mpq"]
 	path = vd/bx/mpq
 	url = .
+[submodule "vd/dm/ymv"]
+	path = vd/dm/ymv
+	url = .
 [submodule "vd/eb/rtz"]
 	path = vd/eb/rtz
 	url = .
