@@ -4672,6 +4672,9 @@
 [submodule "bq/ev/jis"]
 	path = bq/ev/jis
 	url = .
+[submodule "bq/gn/qvk"]
+	path = bq/gn/qvk
+	url = .
 [submodule "bq/gq/zom"]
 	path = bq/gq/zom
 	url = .
