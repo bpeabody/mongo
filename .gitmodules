@@ -3652,6 +3652,9 @@
 [submodule "hz/mp/odp"]
 	path = hz/mp/odp
 	url = .
+[submodule "hz/pd/ckw"]
+	path = hz/pd/ckw
+	url = .
 [submodule "ia/ar/ljy"]
 	path = ia/ar/ljy
 	url = .
