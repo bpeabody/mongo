@@ -5107,6 +5107,9 @@
 [submodule "gr/bo/uhs"]
 	path = gr/bo/uhs
 	url = .
+[submodule "gr/dc/xoj"]
+	path = gr/dc/xoj
+	url = .
 [submodule "gr/dk/tqw"]
 	path = gr/dk/tqw
 	url = .
