@@ -10042,6 +10042,9 @@
 [submodule "sj/wj/nyy"]
 	path = sj/wj/nyy
 	url = .
+[submodule "sj/yr/sle"]
+	path = sj/yr/sle
+	url = .
 [submodule "sj/yu/yyi"]
 	path = sj/yu/yyi
 	url = .
