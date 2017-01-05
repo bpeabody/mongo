@@ -11185,6 +11185,9 @@
 [submodule "gx/cn/ztc"]
 	path = gx/cn/ztc
 	url = .
+[submodule "gx/hi/bma"]
+	path = gx/hi/bma
+	url = .
 [submodule "gx/iw/qnr"]
 	path = gx/iw/qnr
 	url = .
