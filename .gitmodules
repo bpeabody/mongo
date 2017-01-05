@@ -20056,6 +20056,9 @@
 [submodule "qc/br/lje"]
 	path = qc/br/lje
 	url = .
+[submodule "qc/ck/xvw"]
+	path = qc/ck/xvw
+	url = .
 [submodule "qc/ds/crp"]
 	path = qc/ds/crp
 	url = .
