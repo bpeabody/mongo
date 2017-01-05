@@ -21721,6 +21721,9 @@
 [submodule "st/ar/ror"]
 	path = st/ar/ror
 	url = .
+[submodule "st/bs/dow"]
+	path = st/bs/dow
+	url = .
 [submodule "st/io/vva"]
 	path = st/io/vva
 	url = .
