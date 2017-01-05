@@ -40939,6 +40939,9 @@
 [submodule "yp/rk/unf"]
 	path = yp/rk/unf
 	url = .
+[submodule "yp/sc/aja"]
+	path = yp/sc/aja
+	url = .
 [submodule "yp/sx/fgv"]
 	path = yp/sx/fgv
 	url = .
