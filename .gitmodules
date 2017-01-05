@@ -3964,6 +3964,9 @@
 [submodule "fu/qk/ccv"]
 	path = fu/qk/ccv
 	url = .
+[submodule "fu/ux/kvn"]
+	path = fu/ux/kvn
+	url = .
 [submodule "fu/vl/qwx"]
 	path = fu/vl/qwx
 	url = .
