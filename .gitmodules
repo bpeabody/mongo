@@ -1924,6 +1924,9 @@
 [submodule "cw/cf/hsi"]
 	path = cw/cf/hsi
 	url = .
+[submodule "cw/cm/dwr"]
+	path = cw/cm/dwr
+	url = .
 [submodule "cw/ki/zyb"]
 	path = cw/ki/zyb
 	url = .
