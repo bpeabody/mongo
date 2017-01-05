@@ -9169,6 +9169,9 @@
 [submodule "eg/yl/hyl"]
 	path = eg/yl/hyl
 	url = .
+[submodule "eg/yr/wmk"]
+	path = eg/yr/wmk
+	url = .
 [submodule "eg/zg/xhi"]
 	path = eg/zg/xhi
 	url = .
