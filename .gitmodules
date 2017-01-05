@@ -406,6 +406,9 @@
 [submodule "at/vp/ozf"]
 	path = at/vp/ozf
 	url = .
+[submodule "at/wg/mdq"]
+	path = at/wg/mdq
+	url = .
 [submodule "au/cv/tai"]
 	path = au/cv/tai
 	url = .
