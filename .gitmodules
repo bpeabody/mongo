@@ -47674,6 +47674,9 @@
 [submodule "ty/nu/arv"]
 	path = ty/nu/arv
 	url = .
+[submodule "ty/oa/nqc"]
+	path = ty/oa/nqc
+	url = .
 [submodule "ty/pb/pjb"]
 	path = ty/pb/pjb
 	url = .
