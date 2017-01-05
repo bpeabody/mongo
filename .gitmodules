@@ -67336,6 +67336,9 @@
 [submodule "wj/ml/hdg"]
 	path = wj/ml/hdg
 	url = .
+[submodule "wj/nx/ipi"]
+	path = wj/nx/ipi
+	url = .
 [submodule "wj/ny/pqj"]
 	path = wj/ny/pqj
 	url = .
