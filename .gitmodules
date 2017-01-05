@@ -3058,6 +3058,9 @@
 [submodule "dp/jc/qjw"]
 	path = dp/jc/qjw
 	url = .
+[submodule "dp/jl/akq"]
+	path = dp/jl/akq
+	url = .
 [submodule "dp/pz/qjf"]
 	path = dp/pz/qjf
 	url = .
