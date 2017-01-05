@@ -9871,6 +9871,9 @@
 [submodule "va/fw/fkt"]
 	path = va/fw/fkt
 	url = .
+[submodule "va/qy/hgy"]
+	path = va/qy/hgy
+	url = .
 [submodule "vb/ip/gty"]
 	path = vb/ip/gty
 	url = .
