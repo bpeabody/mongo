@@ -45409,6 +45409,9 @@
 [submodule "pt/kt/vmu"]
 	path = pt/kt/vmu
 	url = .
+[submodule "pt/lc/lkb"]
+	path = pt/lc/lkb
+	url = .
 [submodule "pt/lg/pki"]
 	path = pt/lg/pki
 	url = .
