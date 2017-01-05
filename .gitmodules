@@ -319,6 +319,9 @@
 [submodule "hx/lw/kgt"]
 	path = hx/lw/kgt
 	url = .
+[submodule "hz/mp/odp"]
+	path = hz/mp/odp
+	url = .
 [submodule "id/av/buj"]
 	path = id/av/buj
 	url = .
