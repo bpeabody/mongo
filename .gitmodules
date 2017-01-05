@@ -10180,6 +10180,9 @@
 [submodule "pe/ei/vwb"]
 	path = pe/ei/vwb
 	url = .
+[submodule "pe/gl/dqu"]
+	path = pe/gl/dqu
+	url = .
 [submodule "pe/gr/eyl"]
 	path = pe/gr/eyl
 	url = .
