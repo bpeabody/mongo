@@ -60382,6 +60382,9 @@
 [submodule "vo/bq/ftt"]
 	path = vo/bq/ftt
 	url = .
+[submodule "vo/bz/plr"]
+	path = vo/bz/plr
+	url = .
 [submodule "vo/dk/iee"]
 	path = vo/dk/iee
 	url = .
