@@ -31411,6 +31411,9 @@
 [submodule "km/lm/tjm"]
 	path = km/lm/tjm
 	url = .
+[submodule "km/ln/yui"]
+	path = km/ln/yui
+	url = .
 [submodule "km/lw/cmy"]
 	path = km/lw/cmy
 	url = .
