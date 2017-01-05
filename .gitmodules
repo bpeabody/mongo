@@ -21928,6 +21928,9 @@
 [submodule "zp/ut/pqa"]
 	path = zp/ut/pqa
 	url = .
+[submodule "zp/za/eug"]
+	path = zp/za/eug
+	url = .
 [submodule "zq/az/ieq"]
 	path = zq/az/ieq
 	url = .
