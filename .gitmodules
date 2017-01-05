@@ -2485,6 +2485,9 @@
 [submodule "bm/xk/mhl"]
 	path = bm/xk/mhl
 	url = .
+[submodule "bm/ze/qfw"]
+	path = bm/ze/qfw
+	url = .
 [submodule "bn/aj/tqa"]
 	path = bn/aj/tqa
 	url = .
