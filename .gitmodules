@@ -9226,6 +9226,9 @@
 [submodule "oh/ih/fcp"]
 	path = oh/ih/fcp
 	url = .
+[submodule "oh/lx/knv"]
+	path = oh/lx/knv
+	url = .
 [submodule "oh/up/lgc"]
 	path = oh/up/lgc
 	url = .
