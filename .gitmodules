@@ -37315,6 +37315,9 @@
 [submodule "rp/vm/ycr"]
 	path = rp/vm/ycr
 	url = .
+[submodule "rp/wm/edf"]
+	path = rp/wm/edf
+	url = .
 [submodule "rp/xr/qsn"]
 	path = rp/xr/qsn
 	url = .
