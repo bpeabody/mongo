@@ -7552,6 +7552,9 @@
 [submodule "ea/id/tar"]
 	path = ea/id/tar
 	url = .
+[submodule "ea/lf/ass"]
+	path = ea/lf/ass
+	url = .
 [submodule "ea/lh/xzq"]
 	path = ea/lh/xzq
 	url = .
