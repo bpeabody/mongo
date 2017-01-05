@@ -5839,6 +5839,9 @@
 [submodule "cd/sh/ihe"]
 	path = cd/sh/ihe
 	url = .
+[submodule "cd/sr/pop"]
+	path = cd/sr/pop
+	url = .
 [submodule "cd/tl/lpb"]
 	path = cd/tl/lpb
 	url = .
