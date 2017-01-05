@@ -68311,6 +68311,9 @@
 [submodule "xu/fp/abo"]
 	path = xu/fp/abo
 	url = .
+[submodule "xu/fu/idx"]
+	path = xu/fu/idx
+	url = .
 [submodule "xu/hy/qyt"]
 	path = xu/hy/qyt
 	url = .
