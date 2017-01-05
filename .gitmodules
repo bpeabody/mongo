@@ -30424,6 +30424,9 @@
 [submodule "li/uc/lng"]
 	path = li/uc/lng
 	url = .
+[submodule "li/vp/pvd"]
+	path = li/vp/pvd
+	url = .
 [submodule "li/vs/qcl"]
 	path = li/vs/qcl
 	url = .
