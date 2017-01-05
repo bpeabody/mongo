@@ -14227,6 +14227,9 @@
 [submodule "js/kr/dut"]
 	path = js/kr/dut
 	url = .
+[submodule "js/ms/ujz"]
+	path = js/ms/ujz
+	url = .
 [submodule "js/nj/ocg"]
 	path = js/nj/ocg
 	url = .
