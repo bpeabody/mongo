@@ -6508,6 +6508,9 @@
 [submodule "it/vl/ioi"]
 	path = it/vl/ioi
 	url = .
+[submodule "it/wo/msl"]
+	path = it/wo/msl
+	url = .
 [submodule "it/wy/vct"]
 	path = it/wy/vct
 	url = .
