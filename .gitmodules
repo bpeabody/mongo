@@ -163,6 +163,9 @@
 [submodule "ao/yv/ttq"]
 	path = ao/yv/ttq
 	url = .
+[submodule "ap/ar/nzk"]
+	path = ap/ar/nzk
+	url = .
 [submodule "ap/lv/jgx"]
 	path = ap/lv/jgx
 	url = .
