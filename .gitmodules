@@ -10825,6 +10825,9 @@
 [submodule "eb/up/nte"]
 	path = eb/up/nte
 	url = .
+[submodule "eb/uu/lba"]
+	path = eb/uu/lba
+	url = .
 [submodule "eb/vf/juj"]
 	path = eb/vf/juj
 	url = .
