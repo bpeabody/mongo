@@ -8677,6 +8677,9 @@
 [submodule "it/sm/etj"]
 	path = it/sm/etj
 	url = .
+[submodule "it/uo/dar"]
+	path = it/uo/dar
+	url = .
 [submodule "it/vl/ioi"]
 	path = it/vl/ioi
 	url = .
