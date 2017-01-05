@@ -3667,6 +3667,9 @@
 [submodule "ho/dr/jvn"]
 	path = ho/dr/jvn
 	url = .
+[submodule "ho/du/mrp"]
+	path = ho/du/mrp
+	url = .
 [submodule "ho/ef/yha"]
 	path = ho/ef/yha
 	url = .
