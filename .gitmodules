@@ -66265,6 +66265,9 @@
 [submodule "wb/jx/ijn"]
 	path = wb/jx/ijn
 	url = .
+[submodule "wb/mi/irn"]
+	path = wb/mi/irn
+	url = .
 [submodule "wb/nk/oqd"]
 	path = wb/nk/oqd
 	url = .
