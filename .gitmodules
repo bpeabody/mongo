@@ -4534,6 +4534,9 @@
 [submodule "jo/lc/jig"]
 	path = jo/lc/jig
 	url = .
+[submodule "jo/tz/shy"]
+	path = jo/tz/shy
+	url = .
 [submodule "jo/vp/sni"]
 	path = jo/vp/sni
 	url = .
