@@ -29092,6 +29092,9 @@
 [submodule "kc/qn/sbz"]
 	path = kc/qn/sbz
 	url = .
+[submodule "kc/qo/gvo"]
+	path = kc/qo/gvo
+	url = .
 [submodule "kc/qo/vub"]
 	path = kc/qo/vub
 	url = .
