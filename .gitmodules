@@ -11215,6 +11215,9 @@
 [submodule "gp/fb/vdy"]
 	path = gp/fb/vdy
 	url = .
+[submodule "gp/ff/bwe"]
+	path = gp/ff/bwe
+	url = .
 [submodule "gp/gw/skt"]
 	path = gp/gw/skt
 	url = .
