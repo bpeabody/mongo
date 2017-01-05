@@ -20347,6 +20347,9 @@
 [submodule "jv/uq/irk"]
 	path = jv/uq/irk
 	url = .
+[submodule "jv/ux/wky"]
+	path = jv/ux/wky
+	url = .
 [submodule "jv/xl/afz"]
 	path = jv/xl/afz
 	url = .
