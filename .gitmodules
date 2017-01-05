@@ -23755,6 +23755,9 @@
 [submodule "ln/qd/bfu"]
 	path = ln/qd/bfu
 	url = .
+[submodule "ln/so/isb"]
+	path = ln/so/isb
+	url = .
 [submodule "ln/tm/uzc"]
 	path = ln/tm/uzc
 	url = .
