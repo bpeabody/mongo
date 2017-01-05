@@ -46075,6 +46075,9 @@
 [submodule "qu/wf/ctw"]
 	path = qu/wf/ctw
 	url = .
+[submodule "qu/wg/jxp"]
+	path = qu/wg/jxp
+	url = .
 [submodule "qu/wi/vtu"]
 	path = qu/wi/vtu
 	url = .
