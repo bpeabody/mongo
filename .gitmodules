@@ -4987,6 +4987,9 @@
 [submodule "bv/na/pxz"]
 	path = bv/na/pxz
 	url = .
+[submodule "bv/nf/meb"]
+	path = bv/nf/meb
+	url = .
 [submodule "bv/nx/iac"]
 	path = bv/nx/iac
 	url = .
