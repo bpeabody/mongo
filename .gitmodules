@@ -8845,6 +8845,9 @@
 [submodule "yt/zq/uyh"]
 	path = yt/zq/uyh
 	url = .
+[submodule "yu/cd/pki"]
+	path = yu/cd/pki
+	url = .
 [submodule "yu/kg/wwm"]
 	path = yu/kg/wwm
 	url = .
