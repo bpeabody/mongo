@@ -6937,6 +6937,9 @@
 [submodule "ch/px/wrv"]
 	path = ch/px/wrv
 	url = .
+[submodule "ch/rd/lah"]
+	path = ch/rd/lah
+	url = .
 [submodule "ch/rm/kik"]
 	path = ch/rm/kik
 	url = .
