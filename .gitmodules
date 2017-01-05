@@ -21946,6 +21946,9 @@
 [submodule "td/vd/rmu"]
 	path = td/vd/rmu
 	url = .
+[submodule "td/zd/dps"]
+	path = td/zd/dps
+	url = .
 [submodule "te/ao/dsr"]
 	path = te/ao/dsr
 	url = .
