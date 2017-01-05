@@ -20596,6 +20596,9 @@
 [submodule "jq/mm/brc"]
 	path = jq/mm/brc
 	url = .
+[submodule "jq/mo/ysn"]
+	path = jq/mo/ysn
+	url = .
 [submodule "jq/oo/ozu"]
 	path = jq/oo/ozu
 	url = .
