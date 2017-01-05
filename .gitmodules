@@ -11260,6 +11260,9 @@
 [submodule "fz/pk/waw"]
 	path = fz/pk/waw
 	url = .
+[submodule "fz/pz/gbq"]
+	path = fz/pz/gbq
+	url = .
 [submodule "fz/qc/zff"]
 	path = fz/qc/zff
 	url = .
