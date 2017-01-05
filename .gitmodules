@@ -9331,6 +9331,9 @@
 [submodule "ox/ez/noy"]
 	path = ox/ez/noy
 	url = .
+[submodule "ox/fd/faj"]
+	path = ox/fd/faj
+	url = .
 [submodule "ox/lt/jst"]
 	path = ox/lt/jst
 	url = .
