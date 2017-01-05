@@ -18100,6 +18100,9 @@
 [submodule "ng/wz/pzc"]
 	path = ng/wz/pzc
 	url = .
+[submodule "ng/xr/ifr"]
+	path = ng/xr/ifr
+	url = .
 [submodule "ng/yd/qfq"]
 	path = ng/yd/qfq
 	url = .
