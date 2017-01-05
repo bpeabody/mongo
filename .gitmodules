@@ -781,6 +781,9 @@
 [submodule "ec/zb/kln"]
 	path = ec/zb/kln
 	url = .
+[submodule "ec/zb/upa"]
+	path = ec/zb/upa
+	url = .
 [submodule "ed/pb/pyq"]
 	path = ed/pb/pyq
 	url = .
