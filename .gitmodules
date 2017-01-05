@@ -24664,6 +24664,9 @@
 [submodule "jx/yg/zmd"]
 	path = jx/yg/zmd
 	url = .
+[submodule "jx/yn/cso"]
+	path = jx/yn/cso
+	url = .
 [submodule "jy/dq/slk"]
 	path = jy/dq/slk
 	url = .
