@@ -41824,6 +41824,9 @@
 [submodule "se/ed/kgb"]
 	path = se/ed/kgb
 	url = .
+[submodule "se/eh/hqc"]
+	path = se/eh/hqc
+	url = .
 [submodule "se/fb/lgi"]
 	path = se/fb/lgi
 	url = .
