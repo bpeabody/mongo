@@ -4429,6 +4429,9 @@
 [submodule "do/kb/jev"]
 	path = do/kb/jev
 	url = .
+[submodule "do/lx/brd"]
+	path = do/lx/brd
+	url = .
 [submodule "do/mb/jkr"]
 	path = do/mb/jkr
 	url = .
