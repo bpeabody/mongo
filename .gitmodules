@@ -53278,6 +53278,9 @@
 [submodule "te/jk/sbd"]
 	path = te/jk/sbd
 	url = .
+[submodule "te/jn/qef"]
+	path = te/jn/qef
+	url = .
 [submodule "te/jp/ztl"]
 	path = te/jp/ztl
 	url = .
