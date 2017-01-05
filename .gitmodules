@@ -10765,6 +10765,9 @@
 [submodule "vh/gl/lcb"]
 	path = vh/gl/lcb
 	url = .
+[submodule "vh/iz/wmr"]
+	path = vh/iz/wmr
+	url = .
 [submodule "vh/ns/cqg"]
 	path = vh/ns/cqg
 	url = .
