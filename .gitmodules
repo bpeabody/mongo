@@ -27184,6 +27184,9 @@
 [submodule "yx/yt/xak"]
 	path = yx/yt/xak
 	url = .
+[submodule "yx/zb/cui"]
+	path = yx/zb/cui
+	url = .
 [submodule "yy/af/ewj"]
 	path = yy/af/ewj
 	url = .
