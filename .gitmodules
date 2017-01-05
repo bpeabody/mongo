@@ -27340,6 +27340,9 @@
 [submodule "ua/ix/bdn"]
 	path = ua/ix/bdn
 	url = .
+[submodule "ua/jf/cim"]
+	path = ua/jf/cim
+	url = .
 [submodule "ua/jz/iti"]
 	path = ua/jz/iti
 	url = .
