@@ -8917,6 +8917,9 @@
 [submodule "wg/pi/hmt"]
 	path = wg/pi/hmt
 	url = .
+[submodule "wg/sm/gng"]
+	path = wg/sm/gng
+	url = .
 [submodule "wg/uq/pci"]
 	path = wg/uq/pci
 	url = .
