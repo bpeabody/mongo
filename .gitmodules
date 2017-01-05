@@ -406,6 +406,9 @@
 [submodule "au/po/jse"]
 	path = au/po/jse
 	url = .
+[submodule "au/ug/ygv"]
+	path = au/ug/ygv
+	url = .
 [submodule "au/wu/rxr"]
 	path = au/wu/rxr
 	url = .
