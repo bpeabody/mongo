@@ -5824,6 +5824,9 @@
 [submodule "ft/bz/pcx"]
 	path = ft/bz/pcx
 	url = .
+[submodule "ft/cm/nla"]
+	path = ft/cm/nla
+	url = .
 [submodule "ft/dd/pla"]
 	path = ft/dd/pla
 	url = .
