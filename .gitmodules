@@ -20419,6 +20419,9 @@
 [submodule "wb/qg/pqg"]
 	path = wb/qg/pqg
 	url = .
+[submodule "wb/sz/clz"]
+	path = wb/sz/clz
+	url = .
 [submodule "wb/ud/ayu"]
 	path = wb/ud/ayu
 	url = .
