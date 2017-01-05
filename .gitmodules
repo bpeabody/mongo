@@ -35218,6 +35218,9 @@
 [submodule "ns/qt/ehe"]
 	path = ns/qt/ehe
 	url = .
+[submodule "ns/qv/bgw"]
+	path = ns/qv/bgw
+	url = .
 [submodule "ns/rc/pfv"]
 	path = ns/rc/pfv
 	url = .
