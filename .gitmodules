@@ -52717,6 +52717,9 @@
 [submodule "ta/ev/nfa"]
 	path = ta/ev/nfa
 	url = .
+[submodule "ta/fi/tjd"]
+	path = ta/fi/tjd
+	url = .
 [submodule "ta/gi/mcz"]
 	path = ta/gi/mcz
 	url = .
