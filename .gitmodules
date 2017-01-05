@@ -47725,6 +47725,9 @@
 [submodule "sj/ur/art"]
 	path = sj/ur/art
 	url = .
+[submodule "sj/vc/jsn"]
+	path = sj/vc/jsn
+	url = .
 [submodule "sj/vd/bpa"]
 	path = sj/vd/bpa
 	url = .
