@@ -38452,6 +38452,9 @@
 [submodule "pz/yc/pcz"]
 	path = pz/yc/pcz
 	url = .
+[submodule "pz/zd/vrm"]
+	path = pz/zd/vrm
+	url = .
 [submodule "pz/zs/lzo"]
 	path = pz/zs/lzo
 	url = .
