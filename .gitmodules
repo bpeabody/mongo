@@ -55573,6 +55573,9 @@
 [submodule "vf/yd/xcp"]
 	path = vf/yd/xcp
 	url = .
+[submodule "vg/ap/rpx"]
+	path = vg/ap/rpx
+	url = .
 [submodule "vg/bo/aar"]
 	path = vg/bo/aar
 	url = .
