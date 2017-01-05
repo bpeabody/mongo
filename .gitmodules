@@ -22174,6 +22174,9 @@
 [submodule "je/uf/ish"]
 	path = je/uf/ish
 	url = .
+[submodule "je/ul/vja"]
+	path = je/ul/vja
+	url = .
 [submodule "je/vn/vft"]
 	path = je/vn/vft
 	url = .
