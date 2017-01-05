@@ -1102,6 +1102,9 @@
 [submodule "zu/os/whd"]
 	path = zu/os/whd
 	url = .
+[submodule "zw/xf/elp"]
+	path = zw/xf/elp
+	url = .
 [submodule "zx/ma/kmj"]
 	path = zx/ma/kmj
 	url = .
