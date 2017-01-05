@@ -14902,6 +14902,9 @@
 [submodule "kz/ka/rnd"]
 	path = kz/ka/rnd
 	url = .
+[submodule "kz/nd/bxm"]
+	path = kz/nd/bxm
+	url = .
 [submodule "kz/ow/xsh"]
 	path = kz/ow/xsh
 	url = .
