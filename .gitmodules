@@ -2770,6 +2770,9 @@
 [submodule "xb/di/hgl"]
 	path = xb/di/hgl
 	url = .
+[submodule "xb/na/alr"]
+	path = xb/na/alr
+	url = .
 [submodule "xc/cf/yku"]
 	path = xc/cf/yku
 	url = .
