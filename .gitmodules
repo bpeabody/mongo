@@ -325,6 +325,9 @@
 [submodule "bc/pg/ysc"]
 	path = bc/pg/ysc
 	url = .
+[submodule "bc/rc/txp"]
+	path = bc/rc/txp
+	url = .
 [submodule "bc/ss/hcf"]
 	path = bc/ss/hcf
 	url = .
