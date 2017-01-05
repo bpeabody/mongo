@@ -16222,6 +16222,9 @@
 [submodule "tf/bw/ene"]
 	path = tf/bw/ene
 	url = .
+[submodule "tf/by/egy"]
+	path = tf/by/egy
+	url = .
 [submodule "tf/dm/gyi"]
 	path = tf/dm/gyi
 	url = .
