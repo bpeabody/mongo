@@ -25420,6 +25420,9 @@
 [submodule "uu/md/avy"]
 	path = uu/md/avy
 	url = .
+[submodule "uu/pi/nxi"]
+	path = uu/pi/nxi
+	url = .
 [submodule "uu/sd/tcz"]
 	path = uu/sd/tcz
 	url = .
