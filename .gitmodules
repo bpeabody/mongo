@@ -66241,6 +66241,9 @@
 [submodule "wn/sp/iaf"]
 	path = wn/sp/iaf
 	url = .
+[submodule "wn/ta/aew"]
+	path = wn/ta/aew
+	url = .
 [submodule "wn/th/ian"]
 	path = wn/th/ian
 	url = .
