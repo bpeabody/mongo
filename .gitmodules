@@ -31750,6 +31750,9 @@
 [submodule "kx/mn/jhb"]
 	path = kx/mn/jhb
 	url = .
+[submodule "kx/mn/tei"]
+	path = kx/mn/tei
+	url = .
 [submodule "kx/mn/zwu"]
 	path = kx/mn/zwu
 	url = .
