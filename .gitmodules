@@ -18484,6 +18484,9 @@
 [submodule "nb/hj/wdq"]
 	path = nb/hj/wdq
 	url = .
+[submodule "nb/kc/qwn"]
+	path = nb/kc/qwn
+	url = .
 [submodule "nb/mr/ete"]
 	path = nb/mr/ete
 	url = .
