@@ -30511,6 +30511,9 @@
 [submodule "uj/ek/xtp"]
 	path = uj/ek/xtp
 	url = .
+[submodule "uj/il/etd"]
+	path = uj/il/etd
+	url = .
 [submodule "uj/ja/kzw"]
 	path = uj/ja/kzw
 	url = .
