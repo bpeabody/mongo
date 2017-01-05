@@ -38917,6 +38917,9 @@
 [submodule "xr/ks/kpd"]
 	path = xr/ks/kpd
 	url = .
+[submodule "xr/kt/qsx"]
+	path = xr/kt/qsx
+	url = .
 [submodule "xr/mq/kff"]
 	path = xr/mq/kff
 	url = .
