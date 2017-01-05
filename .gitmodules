@@ -334,6 +334,9 @@
 [submodule "cy/iy/uhj"]
 	path = cy/iy/uhj
 	url = .
+[submodule "cy/wn/eng"]
+	path = cy/wn/eng
+	url = .
 [submodule "cy/yz/gcj"]
 	path = cy/yz/gcj
 	url = .
