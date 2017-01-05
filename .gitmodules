@@ -3820,6 +3820,9 @@
 [submodule "bl/sv/xav"]
 	path = bl/sv/xav
 	url = .
+[submodule "bl/ts/rbg"]
+	path = bl/ts/rbg
+	url = .
 [submodule "bl/tx/toa"]
 	path = bl/tx/toa
 	url = .
