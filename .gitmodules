@@ -2440,6 +2440,9 @@
 [submodule "pc/ii/qei"]
 	path = pc/ii/qei
 	url = .
+[submodule "pc/yc/ycq"]
+	path = pc/yc/ycq
+	url = .
 [submodule "pd/iu/bkm"]
 	path = pd/iu/bkm
 	url = .
