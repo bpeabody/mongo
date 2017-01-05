@@ -37849,6 +37849,9 @@
 [submodule "yp/tx/slc"]
 	path = yp/tx/slc
 	url = .
+[submodule "yp/ve/sfw"]
+	path = yp/ve/sfw
+	url = .
 [submodule "yp/vq/iys"]
 	path = yp/vq/iys
 	url = .
