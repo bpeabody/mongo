@@ -19096,6 +19096,9 @@
 [submodule "lc/du/ixp"]
 	path = lc/du/ixp
 	url = .
+[submodule "lc/ed/uiu"]
+	path = lc/ed/uiu
+	url = .
 [submodule "lc/fy/qip"]
 	path = lc/fy/qip
 	url = .
