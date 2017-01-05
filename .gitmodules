@@ -34972,6 +34972,9 @@
 [submodule "lm/yl/lnq"]
 	path = lm/yl/lnq
 	url = .
+[submodule "lm/ys/xci"]
+	path = lm/ys/xci
+	url = .
 [submodule "lm/yw/iot"]
 	path = lm/yw/iot
 	url = .
