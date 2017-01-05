@@ -36124,6 +36124,9 @@
 [submodule "pu/bb/hdk"]
 	path = pu/bb/hdk
 	url = .
+[submodule "pu/bl/scu"]
+	path = pu/bl/scu
+	url = .
 [submodule "pu/bx/abu"]
 	path = pu/bx/abu
 	url = .
