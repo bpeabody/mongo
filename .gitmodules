@@ -8506,6 +8506,9 @@
 [submodule "hu/wh/kfv"]
 	path = hu/wh/kfv
 	url = .
+[submodule "hv/aa/tfv"]
+	path = hv/aa/tfv
+	url = .
 [submodule "hv/es/bcn"]
 	path = hv/es/bcn
 	url = .
