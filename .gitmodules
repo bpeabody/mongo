@@ -37069,6 +37069,9 @@
 [submodule "qt/hp/jqu"]
 	path = qt/hp/jqu
 	url = .
+[submodule "qt/hr/xks"]
+	path = qt/hr/xks
+	url = .
 [submodule "qt/ie/ntu"]
 	path = qt/ie/ntu
 	url = .
