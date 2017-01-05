@@ -22843,6 +22843,9 @@
 [submodule "ui/ni/wkz"]
 	path = ui/ni/wkz
 	url = .
+[submodule "ui/ny/eav"]
+	path = ui/ny/eav
+	url = .
 [submodule "ui/rn/peq"]
 	path = ui/rn/peq
 	url = .
