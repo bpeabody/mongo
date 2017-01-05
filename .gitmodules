@@ -3085,6 +3085,9 @@
 [submodule "qe/nj/vti"]
 	path = qe/nj/vti
 	url = .
+[submodule "qe/nx/jrv"]
+	path = qe/nx/jrv
+	url = .
 [submodule "qf/da/slc"]
 	path = qf/da/slc
 	url = .
