@@ -322,6 +322,9 @@
 [submodule "ap/fh/mga"]
 	path = ap/fh/mga
 	url = .
+[submodule "ap/iu/mau"]
+	path = ap/iu/mau
+	url = .
 [submodule "ap/lv/jgx"]
 	path = ap/lv/jgx
 	url = .
