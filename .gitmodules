@@ -51700,6 +51700,9 @@
 [submodule "sp/za/ikg"]
 	path = sp/za/ikg
 	url = .
+[submodule "sp/zi/hei"]
+	path = sp/zi/hei
+	url = .
 [submodule "sp/zy/owd"]
 	path = sp/zy/owd
 	url = .
