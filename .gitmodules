@@ -38488,6 +38488,9 @@
 [submodule "nm/bs/udo"]
 	path = nm/bs/udo
 	url = .
+[submodule "nm/dq/ewm"]
+	path = nm/dq/ewm
+	url = .
 [submodule "nm/ef/vgi"]
 	path = nm/ef/vgi
 	url = .
