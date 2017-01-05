@@ -7609,6 +7609,9 @@
 [submodule "jw/nk/pig"]
 	path = jw/nk/pig
 	url = .
+[submodule "jw/nr/guu"]
+	path = jw/nr/guu
+	url = .
 [submodule "jw/oh/pjo"]
 	path = jw/oh/pjo
 	url = .
