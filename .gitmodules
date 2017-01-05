@@ -853,6 +853,9 @@
 [submodule "aw/ey/psz"]
 	path = aw/ey/psz
 	url = .
+[submodule "aw/fr/oia"]
+	path = aw/fr/oia
+	url = .
 [submodule "aw/gi/osv"]
 	path = aw/gi/osv
 	url = .
