@@ -4504,6 +4504,9 @@
 [submodule "gj/xr/yfd"]
 	path = gj/xr/yfd
 	url = .
+[submodule "gk/ac/xtc"]
+	path = gk/ac/xtc
+	url = .
 [submodule "gk/ko/xlz"]
 	path = gk/ko/xlz
 	url = .
