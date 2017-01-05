@@ -31213,6 +31213,9 @@
 [submodule "km/xi/pav"]
 	path = km/xi/pav
 	url = .
+[submodule "km/xj/nko"]
+	path = km/xj/nko
+	url = .
 [submodule "km/xq/atr"]
 	path = km/xq/atr
 	url = .
