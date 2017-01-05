@@ -10111,6 +10111,9 @@
 [submodule "eq/vy/kof"]
 	path = eq/vy/kof
 	url = .
+[submodule "eq/wh/dut"]
+	path = eq/wh/dut
+	url = .
 [submodule "eq/wm/evv"]
 	path = eq/wm/evv
 	url = .
