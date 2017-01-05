@@ -1804,6 +1804,9 @@
 [submodule "dk/vx/tuk"]
 	path = dk/vx/tuk
 	url = .
+[submodule "dk/xt/dba"]
+	path = dk/xt/dba
+	url = .
 [submodule "dk/yf/mse"]
 	path = dk/yf/mse
 	url = .
