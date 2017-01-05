@@ -54748,6 +54748,9 @@
 [submodule "te/cz/hwe"]
 	path = te/cz/hwe
 	url = .
+[submodule "te/dj/ysc"]
+	path = te/dj/ysc
+	url = .
 [submodule "te/ei/fma"]
 	path = te/ei/fma
 	url = .
