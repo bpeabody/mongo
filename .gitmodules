@@ -8575,6 +8575,9 @@
 [submodule "mb/la/did"]
 	path = mb/la/did
 	url = .
+[submodule "mb/pa/vlu"]
+	path = mb/pa/vlu
+	url = .
 [submodule "mb/ql/emq"]
 	path = mb/ql/emq
 	url = .
