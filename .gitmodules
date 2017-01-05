@@ -31534,6 +31534,9 @@
 [submodule "zf/yq/yyb"]
 	path = zf/yq/yyb
 	url = .
+[submodule "zf/zq/sqs"]
+	path = zf/zq/sqs
+	url = .
 [submodule "zg/ap/bry"]
 	path = zg/ap/bry
 	url = .
