@@ -12886,6 +12886,9 @@
 [submodule "ef/xe/zef"]
 	path = ef/xe/zef
 	url = .
+[submodule "ef/xu/plo"]
+	path = ef/xu/plo
+	url = .
 [submodule "ef/xv/gsn"]
 	path = ef/xv/gsn
 	url = .
