@@ -13186,6 +13186,9 @@
 [submodule "ip/op/ajf"]
 	path = ip/op/ajf
 	url = .
+[submodule "ip/rm/eid"]
+	path = ip/rm/eid
+	url = .
 [submodule "ip/rt/kby"]
 	path = ip/rt/kby
 	url = .
