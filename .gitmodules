@@ -40480,6 +40480,9 @@
 [submodule "tx/vi/shs"]
 	path = tx/vi/shs
 	url = .
+[submodule "tx/wh/dkd"]
+	path = tx/wh/dkd
+	url = .
 [submodule "tx/xm/tyb"]
 	path = tx/xm/tyb
 	url = .
