@@ -6571,6 +6571,9 @@
 [submodule "fw/gb/fxt"]
 	path = fw/gb/fxt
 	url = .
+[submodule "fw/gq/ulp"]
+	path = fw/gq/ulp
+	url = .
 [submodule "fw/ia/jis"]
 	path = fw/ia/jis
 	url = .
