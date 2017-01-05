@@ -40387,6 +40387,9 @@
 [submodule "xr/ug/oom"]
 	path = xr/ug/oom
 	url = .
+[submodule "xr/wu/exi"]
+	path = xr/wu/exi
+	url = .
 [submodule "xr/xx/ehp"]
 	path = xr/xx/ehp
 	url = .
