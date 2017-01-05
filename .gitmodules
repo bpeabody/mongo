@@ -27382,6 +27382,9 @@
 [submodule "jm/ba/wuu"]
 	path = jm/ba/wuu
 	url = .
+[submodule "jm/bu/riu"]
+	path = jm/bu/riu
+	url = .
 [submodule "jm/cg/rrg"]
 	path = jm/cg/rrg
 	url = .
