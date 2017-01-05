@@ -2788,6 +2788,9 @@
 [submodule "pa/aj/nbe"]
 	path = pa/aj/nbe
 	url = .
+[submodule "pa/gs/het"]
+	path = pa/gs/het
+	url = .
 [submodule "pb/bd/rpx"]
 	path = pb/bd/rpx
 	url = .
