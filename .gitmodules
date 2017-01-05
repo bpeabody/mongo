@@ -820,6 +820,9 @@
 [submodule "bo/qt/tqj"]
 	path = bo/qt/tqj
 	url = .
+[submodule "bo/rq/nhm"]
+	path = bo/rq/nhm
+	url = .
 [submodule "bp/ab/khj"]
 	path = bp/ab/khj
 	url = .
