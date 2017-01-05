@@ -8926,6 +8926,9 @@
 [submodule "te/cm/vea"]
 	path = te/cm/vea
 	url = .
+[submodule "te/kr/egt"]
+	path = te/kr/egt
+	url = .
 [submodule "te/rf/uoo"]
 	path = te/rf/uoo
 	url = .
