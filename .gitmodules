@@ -22396,6 +22396,9 @@
 [submodule "ru/vq/mmk"]
 	path = ru/vq/mmk
 	url = .
+[submodule "ru/we/gzx"]
+	path = ru/we/gzx
+	url = .
 [submodule "ru/xb/kxf"]
 	path = ru/xb/kxf
 	url = .
