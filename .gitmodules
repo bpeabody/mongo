@@ -17602,6 +17602,9 @@
 [submodule "hm/kf/fof"]
 	path = hm/kf/fof
 	url = .
+[submodule "hm/kt/gfv"]
+	path = hm/kt/gfv
+	url = .
 [submodule "hm/lm/cel"]
 	path = hm/lm/cel
 	url = .
