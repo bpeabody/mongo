@@ -40477,6 +40477,9 @@
 [submodule "ue/qp/iht"]
 	path = ue/qp/iht
 	url = .
+[submodule "ue/sq/bix"]
+	path = ue/sq/bix
+	url = .
 [submodule "ue/st/yyv"]
 	path = ue/st/yyv
 	url = .
