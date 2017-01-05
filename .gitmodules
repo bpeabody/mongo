@@ -42739,6 +42739,9 @@
 [submodule "tk/pu/mwg"]
 	path = tk/pu/mwg
 	url = .
+[submodule "tk/qy/tkh"]
+	path = tk/qy/tkh
+	url = .
 [submodule "tk/rt/asr"]
 	path = tk/rt/asr
 	url = .
