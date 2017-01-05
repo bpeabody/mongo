@@ -4489,6 +4489,9 @@
 [submodule "cw/cm/dwr"]
 	path = cw/cm/dwr
 	url = .
+[submodule "cw/dk/puq"]
+	path = cw/dk/puq
+	url = .
 [submodule "cw/ex/zea"]
 	path = cw/ex/zea
 	url = .
