@@ -2245,6 +2245,9 @@
 [submodule "ay/sb/wgj"]
 	path = ay/sb/wgj
 	url = .
+[submodule "ay/tr/skc"]
+	path = ay/tr/skc
+	url = .
 [submodule "ay/wf/vai"]
 	path = ay/wf/vai
 	url = .
