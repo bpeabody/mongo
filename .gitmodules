@@ -12802,6 +12802,9 @@
 [submodule "fn/wy/nor"]
 	path = fn/wy/nor
 	url = .
+[submodule "fn/xd/etk"]
+	path = fn/xd/etk
+	url = .
 [submodule "fn/yd/rof"]
 	path = fn/yd/rof
 	url = .
