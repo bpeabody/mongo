@@ -16024,6 +16024,9 @@
 [submodule "ri/oi/ygy"]
 	path = ri/oi/ygy
 	url = .
+[submodule "ri/om/cqw"]
+	path = ri/om/cqw
+	url = .
 [submodule "ri/rp/cjx"]
 	path = ri/rp/cjx
 	url = .
