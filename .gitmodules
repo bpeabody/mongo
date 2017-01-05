@@ -44704,6 +44704,9 @@
 [submodule "va/na/lpn"]
 	path = va/na/lpn
 	url = .
+[submodule "va/pb/vqz"]
+	path = va/pb/vqz
+	url = .
 [submodule "va/pp/seg"]
 	path = va/pp/seg
 	url = .
