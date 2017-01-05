@@ -45700,6 +45700,9 @@
 [submodule "sl/ci/nmn"]
 	path = sl/ci/nmn
 	url = .
+[submodule "sl/cm/blp"]
+	path = sl/cm/blp
+	url = .
 [submodule "sl/de/lcq"]
 	path = sl/de/lcq
 	url = .
