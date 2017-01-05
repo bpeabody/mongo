@@ -36070,6 +36070,9 @@
 [submodule "uf/tr/ifs"]
 	path = uf/tr/ifs
 	url = .
+[submodule "uf/vp/uxg"]
+	path = uf/vp/uxg
+	url = .
 [submodule "uf/vp/zvj"]
 	path = uf/vp/zvj
 	url = .
