@@ -6493,6 +6493,9 @@
 [submodule "ch/zk/gxl"]
 	path = ch/zk/gxl
 	url = .
+[submodule "ci/an/jqu"]
+	path = ci/an/jqu
+	url = .
 [submodule "ci/av/gpk"]
 	path = ci/av/gpk
 	url = .
