@@ -62425,6 +62425,9 @@
 [submodule "vy/vi/bmm"]
 	path = vy/vi/bmm
 	url = .
+[submodule "vy/vs/dso"]
+	path = vy/vs/dso
+	url = .
 [submodule "vy/vz/uno"]
 	path = vy/vz/uno
 	url = .
