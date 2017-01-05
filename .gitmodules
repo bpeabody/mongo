@@ -14089,6 +14089,9 @@
 [submodule "le/sx/oco"]
 	path = le/sx/oco
 	url = .
+[submodule "le/ug/elg"]
+	path = le/ug/elg
+	url = .
 [submodule "le/vi/uzc"]
 	path = le/vi/uzc
 	url = .
