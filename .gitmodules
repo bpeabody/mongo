@@ -20845,6 +20845,9 @@
 [submodule "jk/hv/jlz"]
 	path = jk/hv/jlz
 	url = .
+[submodule "jk/ig/nja"]
+	path = jk/ig/nja
+	url = .
 [submodule "jk/jt/kzb"]
 	path = jk/jt/kzb
 	url = .
