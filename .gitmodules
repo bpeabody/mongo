@@ -20968,6 +20968,9 @@
 [submodule "kh/fn/gqp"]
 	path = kh/fn/gqp
 	url = .
+[submodule "kh/ge/ehu"]
+	path = kh/ge/ehu
+	url = .
 [submodule "kh/gk/hpp"]
 	path = kh/gk/hpp
 	url = .
