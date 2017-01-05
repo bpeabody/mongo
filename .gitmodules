@@ -3991,6 +3991,9 @@
 [submodule "ce/fq/lyt"]
 	path = ce/fq/lyt
 	url = .
+[submodule "ce/gw/uyc"]
+	path = ce/gw/uyc
+	url = .
 [submodule "ce/ho/qnp"]
 	path = ce/ho/qnp
 	url = .
