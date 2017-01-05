@@ -6766,6 +6766,9 @@
 [submodule "eg/ix/ryu"]
 	path = eg/ix/ryu
 	url = .
+[submodule "eg/kd/fdn"]
+	path = eg/kd/fdn
+	url = .
 [submodule "eg/mm/kfh"]
 	path = eg/mm/kfh
 	url = .
