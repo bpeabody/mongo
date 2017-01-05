@@ -16435,6 +16435,9 @@
 [submodule "rp/if/eca"]
 	path = rp/if/eca
 	url = .
+[submodule "rp/od/pai"]
+	path = rp/od/pai
+	url = .
 [submodule "rp/ro/lng"]
 	path = rp/ro/lng
 	url = .
