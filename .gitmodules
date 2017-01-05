@@ -23767,6 +23767,9 @@
 [submodule "ib/hc/whx"]
 	path = ib/hc/whx
 	url = .
+[submodule "ib/hs/opt"]
+	path = ib/hs/opt
+	url = .
 [submodule "ib/hv/xxm"]
 	path = ib/hv/xxm
 	url = .
