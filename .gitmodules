@@ -9151,6 +9151,9 @@
 [submodule "fk/xv/aju"]
 	path = fk/xv/aju
 	url = .
+[submodule "fk/yc/jsp"]
+	path = fk/yc/jsp
+	url = .
 [submodule "fk/yr/ngk"]
 	path = fk/yr/ngk
 	url = .
