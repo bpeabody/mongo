@@ -26434,6 +26434,9 @@
 [submodule "tx/sy/knt"]
 	path = tx/sy/knt
 	url = .
+[submodule "tx/uh/snv"]
+	path = tx/uh/snv
+	url = .
 [submodule "tx/va/tez"]
 	path = tx/va/tez
 	url = .
