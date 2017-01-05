@@ -15316,6 +15316,9 @@
 [submodule "hr/kl/mff"]
 	path = hr/kl/mff
 	url = .
+[submodule "hr/lr/fpc"]
+	path = hr/lr/fpc
+	url = .
 [submodule "hr/nx/kca"]
 	path = hr/nx/kca
 	url = .
