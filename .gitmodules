@@ -4279,6 +4279,9 @@
 [submodule "bu/cb/bmx"]
 	path = bu/cb/bmx
 	url = .
+[submodule "bu/de/slp"]
+	path = bu/de/slp
+	url = .
 [submodule "bu/fr/zpp"]
 	path = bu/fr/zpp
 	url = .
