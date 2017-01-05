@@ -967,6 +967,9 @@
 [submodule "gc/gi/ghl"]
 	path = gc/gi/ghl
 	url = .
+[submodule "gc/ry/pss"]
+	path = gc/ry/pss
+	url = .
 [submodule "gd/yw/rxh"]
 	path = gd/yw/rxh
 	url = .
