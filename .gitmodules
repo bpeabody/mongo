@@ -289,6 +289,9 @@
 [submodule "am/hc/naj"]
 	path = am/hc/naj
 	url = .
+[submodule "am/mf/drm"]
+	path = am/mf/drm
+	url = .
 [submodule "am/nn/fdb"]
 	path = am/nn/fdb
 	url = .
