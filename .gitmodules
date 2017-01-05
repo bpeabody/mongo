@@ -23860,6 +23860,9 @@
 [submodule "lx/mk/cfl"]
 	path = lx/mk/cfl
 	url = .
+[submodule "lx/mm/hnj"]
+	path = lx/mm/hnj
+	url = .
 [submodule "lx/mm/njp"]
 	path = lx/mm/njp
 	url = .
