@@ -13288,6 +13288,9 @@
 [submodule "em/qs/pfa"]
 	path = em/qs/pfa
 	url = .
+[submodule "em/sm/wfn"]
+	path = em/sm/wfn
+	url = .
 [submodule "em/tr/qpx"]
 	path = em/tr/qpx
 	url = .
