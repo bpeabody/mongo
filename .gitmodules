@@ -30730,6 +30730,9 @@
 [submodule "qb/yz/alg"]
 	path = qb/yz/alg
 	url = .
+[submodule "qb/zl/vut"]
+	path = qb/zl/vut
+	url = .
 [submodule "qb/zq/eak"]
 	path = qb/zq/eak
 	url = .
