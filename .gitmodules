@@ -3676,6 +3676,9 @@
 [submodule "gi/gc/qhg"]
 	path = gi/gc/qhg
 	url = .
+[submodule "gi/ha/yoo"]
+	path = gi/ha/yoo
+	url = .
 [submodule "gi/oe/rer"]
 	path = gi/oe/rer
 	url = .
