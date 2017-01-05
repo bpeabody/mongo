@@ -8734,6 +8734,9 @@
 [submodule "kx/ac/wqc"]
 	path = kx/ac/wqc
 	url = .
+[submodule "kx/ap/noo"]
+	path = kx/ap/noo
+	url = .
 [submodule "kx/as/zkk"]
 	path = kx/as/zkk
 	url = .
