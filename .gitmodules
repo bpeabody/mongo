@@ -7522,6 +7522,9 @@
 [submodule "ii/cj/leq"]
 	path = ii/cj/leq
 	url = .
+[submodule "ii/eh/qso"]
+	path = ii/eh/qso
+	url = .
 [submodule "ii/fe/rbq"]
 	path = ii/fe/rbq
 	url = .
