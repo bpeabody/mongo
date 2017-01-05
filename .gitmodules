@@ -7462,6 +7462,9 @@
 [submodule "kf/bk/bge"]
 	path = kf/bk/bge
 	url = .
+[submodule "kf/ry/eqq"]
+	path = kf/ry/eqq
+	url = .
 [submodule "kf/sv/bry"]
 	path = kf/sv/bry
 	url = .
