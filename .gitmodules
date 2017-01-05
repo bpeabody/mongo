@@ -5014,6 +5014,9 @@
 [submodule "jq/ci/gaz"]
 	path = jq/ci/gaz
 	url = .
+[submodule "jq/eb/zhh"]
+	path = jq/eb/zhh
+	url = .
 [submodule "jq/ew/ebn"]
 	path = jq/ew/ebn
 	url = .
