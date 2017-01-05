@@ -7345,6 +7345,9 @@
 [submodule "lu/ce/mdo"]
 	path = lu/ce/mdo
 	url = .
+[submodule "lu/kv/dsc"]
+	path = lu/kv/dsc
+	url = .
 [submodule "lu/va/obg"]
 	path = lu/va/obg
 	url = .
