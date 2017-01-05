@@ -26683,6 +26683,9 @@
 [submodule "vm/mn/kbq"]
 	path = vm/mn/kbq
 	url = .
+[submodule "vm/rv/rus"]
+	path = vm/rv/rus
+	url = .
 [submodule "vm/sa/iky"]
 	path = vm/sa/iky
 	url = .
