@@ -14392,6 +14392,9 @@
 [submodule "ku/ko/rty"]
 	path = ku/ko/rty
 	url = .
+[submodule "ku/lg/fpu"]
+	path = ku/lg/fpu
+	url = .
 [submodule "ku/rp/cxf"]
 	path = ku/rp/cxf
 	url = .
