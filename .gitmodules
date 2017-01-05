@@ -37516,6 +37516,9 @@
 [submodule "mn/gu/mvl"]
 	path = mn/gu/mvl
 	url = .
+[submodule "mn/he/jpk"]
+	path = mn/he/jpk
+	url = .
 [submodule "mn/ht/yvh"]
 	path = mn/ht/yvh
 	url = .
