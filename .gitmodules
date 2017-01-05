@@ -13945,6 +13945,9 @@
 [submodule "hu/mr/ilx"]
 	path = hu/mr/ilx
 	url = .
+[submodule "hu/nf/bwe"]
+	path = hu/nf/bwe
+	url = .
 [submodule "hu/nr/xtl"]
 	path = hu/nr/xtl
 	url = .
