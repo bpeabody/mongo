@@ -5446,6 +5446,9 @@
 [submodule "cf/nf/xdb"]
 	path = cf/nf/xdb
 	url = .
+[submodule "cf/ob/sch"]
+	path = cf/ob/sch
+	url = .
 [submodule "cf/ov/svw"]
 	path = cf/ov/svw
 	url = .
