@@ -24994,6 +24994,9 @@
 [submodule "rt/al/dnm"]
 	path = rt/al/dnm
 	url = .
+[submodule "rt/cg/qen"]
+	path = rt/cg/qen
+	url = .
 [submodule "rt/df/etm"]
 	path = rt/df/etm
 	url = .
