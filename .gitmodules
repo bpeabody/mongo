@@ -46255,6 +46255,9 @@
 [submodule "vw/ug/rru"]
 	path = vw/ug/rru
 	url = .
+[submodule "vw/ux/iqj"]
+	path = vw/ux/iqj
+	url = .
 [submodule "vw/xg/jbs"]
 	path = vw/xg/jbs
 	url = .
