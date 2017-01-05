@@ -2812,6 +2812,9 @@
 [submodule "fs/hy/xzq"]
 	path = fs/hy/xzq
 	url = .
+[submodule "fs/ki/xoi"]
+	path = fs/ki/xoi
+	url = .
 [submodule "fs/le/vwt"]
 	path = fs/le/vwt
 	url = .
