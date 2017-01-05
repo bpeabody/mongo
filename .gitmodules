@@ -17317,6 +17317,9 @@
 [submodule "qp/rl/lez"]
 	path = qp/rl/lez
 	url = .
+[submodule "qp/rp/uku"]
+	path = qp/rp/uku
+	url = .
 [submodule "qp/rv/agq"]
 	path = qp/rv/agq
 	url = .
