@@ -1177,6 +1177,9 @@
 [submodule "bw/iu/vbu"]
 	path = bw/iu/vbu
 	url = .
+[submodule "bw/lr/dla"]
+	path = bw/lr/dla
+	url = .
 [submodule "bw/mi/qjd"]
 	path = bw/mi/qjd
 	url = .
