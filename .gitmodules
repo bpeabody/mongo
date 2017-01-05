@@ -8653,6 +8653,9 @@
 [submodule "eg/pu/ovx"]
 	path = eg/pu/ovx
 	url = .
+[submodule "eg/qe/pii"]
+	path = eg/qe/pii
+	url = .
 [submodule "eg/rq/geg"]
 	path = eg/rq/geg
 	url = .
