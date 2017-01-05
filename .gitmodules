@@ -169,6 +169,9 @@
 [submodule "am/bn/bmr"]
 	path = am/bn/bmr
 	url = .
+[submodule "am/hc/naj"]
+	path = am/hc/naj
+	url = .
 [submodule "am/nn/fdb"]
 	path = am/nn/fdb
 	url = .
