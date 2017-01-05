@@ -14551,6 +14551,9 @@
 [submodule "lt/ai/tij"]
 	path = lt/ai/tij
 	url = .
+[submodule "lt/ay/bca"]
+	path = lt/ay/bca
+	url = .
 [submodule "lt/dd/gxj"]
 	path = lt/dd/gxj
 	url = .
