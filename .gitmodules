@@ -1165,6 +1165,9 @@
 [submodule "ar/xd/aqq"]
 	path = ar/xd/aqq
 	url = .
+[submodule "ar/xl/tuv"]
+	path = ar/xl/tuv
+	url = .
 [submodule "ar/xq/elf"]
 	path = ar/xq/elf
 	url = .
