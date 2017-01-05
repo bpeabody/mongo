@@ -34222,6 +34222,9 @@
 [submodule "pg/eb/wru"]
 	path = pg/eb/wru
 	url = .
+[submodule "pg/fc/nmg"]
+	path = pg/fc/nmg
+	url = .
 [submodule "pg/fp/bwt"]
 	path = pg/fp/bwt
 	url = .
