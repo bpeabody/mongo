@@ -65881,6 +65881,9 @@
 [submodule "wd/ed/gft"]
 	path = wd/ed/gft
 	url = .
+[submodule "wd/ex/kdm"]
+	path = wd/ex/kdm
+	url = .
 [submodule "wd/fa/myp"]
 	path = wd/fa/myp
 	url = .
