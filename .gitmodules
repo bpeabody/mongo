@@ -37936,6 +37936,9 @@
 [submodule "wc/ky/yiw"]
 	path = wc/ky/yiw
 	url = .
+[submodule "wc/lc/zwj"]
+	path = wc/lc/zwj
+	url = .
 [submodule "wc/rn/luf"]
 	path = wc/rn/luf
 	url = .
