@@ -2080,6 +2080,9 @@
 [submodule "fg/hj/pgd"]
 	path = fg/hj/pgd
 	url = .
+[submodule "fg/kn/yug"]
+	path = fg/kn/yug
+	url = .
 [submodule "fg/wj/sgm"]
 	path = fg/wj/sgm
 	url = .
