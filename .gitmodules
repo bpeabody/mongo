@@ -2860,6 +2860,9 @@
 [submodule "bq/ov/vfs"]
 	path = bq/ov/vfs
 	url = .
+[submodule "bq/px/kzl"]
+	path = bq/px/kzl
+	url = .
 [submodule "bq/rx/evb"]
 	path = bq/rx/evb
 	url = .
