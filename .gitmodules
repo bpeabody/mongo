@@ -18670,6 +18670,9 @@
 [submodule "ru/yt/eor"]
 	path = ru/yt/eor
 	url = .
+[submodule "rv/at/kqt"]
+	path = rv/at/kqt
+	url = .
 [submodule "rv/ch/etb"]
 	path = rv/ch/etb
 	url = .
