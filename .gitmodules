@@ -38896,6 +38896,9 @@
 [submodule "sy/me/jwf"]
 	path = sy/me/jwf
 	url = .
+[submodule "sy/mr/scd"]
+	path = sy/mr/scd
+	url = .
 [submodule "sy/oq/lny"]
 	path = sy/oq/lny
 	url = .
