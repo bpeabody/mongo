@@ -5506,6 +5506,9 @@
 [submodule "ef/uk/tfs"]
 	path = ef/uk/tfs
 	url = .
+[submodule "ef/xc/jlo"]
+	path = ef/xc/jlo
+	url = .
 [submodule "ef/yg/qaw"]
 	path = ef/yg/qaw
 	url = .
