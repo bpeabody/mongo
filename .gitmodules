@@ -5119,6 +5119,9 @@
 [submodule "ck/ra/lnf"]
 	path = ck/ra/lnf
 	url = .
+[submodule "ck/rb/fwn"]
+	path = ck/rb/fwn
+	url = .
 [submodule "ck/tn/wem"]
 	path = ck/tn/wem
 	url = .
