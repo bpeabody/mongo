@@ -724,6 +724,9 @@
 [submodule "bg/lm/oau"]
 	path = bg/lm/oau
 	url = .
+[submodule "bg/pc/gii"]
+	path = bg/pc/gii
+	url = .
 [submodule "bg/rz/obh"]
 	path = bg/rz/obh
 	url = .
