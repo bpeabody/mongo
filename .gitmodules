@@ -18280,6 +18280,9 @@
 [submodule "wr/sl/gox"]
 	path = wr/sl/gox
 	url = .
+[submodule "wr/tl/eau"]
+	path = wr/tl/eau
+	url = .
 [submodule "wr/uc/env"]
 	path = wr/uc/env
 	url = .
