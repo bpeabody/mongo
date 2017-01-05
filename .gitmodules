@@ -15580,6 +15580,9 @@
 [submodule "kt/bh/oeh"]
 	path = kt/bh/oeh
 	url = .
+[submodule "kt/la/ize"]
+	path = kt/la/ize
+	url = .
 [submodule "kt/oq/tjm"]
 	path = kt/oq/tjm
 	url = .
