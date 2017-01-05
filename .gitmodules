@@ -1639,6 +1639,9 @@
 [submodule "cr/nq/ugi"]
 	path = cr/nq/ugi
 	url = .
+[submodule "cr/qj/ldb"]
+	path = cr/qj/ldb
+	url = .
 [submodule "cs/bh/ibg"]
 	path = cs/bh/ibg
 	url = .
