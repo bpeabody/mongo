@@ -18745,6 +18745,9 @@
 [submodule "xf/pu/xbs"]
 	path = xf/pu/xbs
 	url = .
+[submodule "xf/rb/vje"]
+	path = xf/rb/vje
+	url = .
 [submodule "xg/bm/svd"]
 	path = xg/bm/svd
 	url = .
