@@ -274,6 +274,9 @@
 [submodule "tz/cc/juy"]
 	path = tz/cc/juy
 	url = .
+[submodule "uo/ca/jyg"]
+	path = uo/ca/jyg
+	url = .
 [submodule "ur/le/qqt"]
 	path = ur/le/qqt
 	url = .
