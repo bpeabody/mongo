@@ -1909,6 +1909,9 @@
 [submodule "au/hq/wjj"]
 	path = au/hq/wjj
 	url = .
+[submodule "au/it/scp"]
+	path = au/it/scp
+	url = .
 [submodule "au/jh/ghk"]
 	path = au/jh/ghk
 	url = .
