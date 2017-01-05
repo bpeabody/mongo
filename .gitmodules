@@ -26278,6 +26278,9 @@
 [submodule "tm/sg/uln"]
 	path = tm/sg/uln
 	url = .
+[submodule "tm/uf/qbr"]
+	path = tm/uf/qbr
+	url = .
 [submodule "tm/wt/pvw"]
 	path = tm/wt/pvw
 	url = .
