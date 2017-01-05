@@ -3442,6 +3442,9 @@
 [submodule "ce/qw/ufg"]
 	path = ce/qw/ufg
 	url = .
+[submodule "ce/rl/bbr"]
+	path = ce/rl/bbr
+	url = .
 [submodule "ce/td/jsg"]
 	path = ce/td/jsg
 	url = .
