@@ -6754,6 +6754,9 @@
 [submodule "fz/bi/sqs"]
 	path = fz/bi/sqs
 	url = .
+[submodule "fz/bl/hjt"]
+	path = fz/bl/hjt
+	url = .
 [submodule "fz/bw/vmo"]
 	path = fz/bw/vmo
 	url = .
