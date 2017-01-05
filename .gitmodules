@@ -11683,6 +11683,9 @@
 [submodule "gp/no/eud"]
 	path = gp/no/eud
 	url = .
+[submodule "gp/ov/juw"]
+	path = gp/ov/juw
+	url = .
 [submodule "gp/qr/rgm"]
 	path = gp/qr/rgm
 	url = .
