@@ -4810,6 +4810,9 @@
 [submodule "dk/ot/zwp"]
 	path = dk/ot/zwp
 	url = .
+[submodule "dk/pp/mex"]
+	path = dk/pp/mex
+	url = .
 [submodule "dk/pq/cuh"]
 	path = dk/pq/cuh
 	url = .
