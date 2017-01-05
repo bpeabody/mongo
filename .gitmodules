@@ -5449,6 +5449,9 @@
 [submodule "ci/wx/lkl"]
 	path = ci/wx/lkl
 	url = .
+[submodule "ci/xq/nvs"]
+	path = ci/xq/nvs
+	url = .
 [submodule "ci/xt/zdi"]
 	path = ci/xt/zdi
 	url = .
