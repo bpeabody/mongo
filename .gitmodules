@@ -25756,6 +25756,9 @@
 [submodule "vk/cj/rph"]
 	path = vk/cj/rph
 	url = .
+[submodule "vk/cn/nan"]
+	path = vk/cn/nan
+	url = .
 [submodule "vk/co/tkk"]
 	path = vk/co/tkk
 	url = .
