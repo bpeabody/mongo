@@ -19720,6 +19720,9 @@
 [submodule "tr/tl/tzu"]
 	path = tr/tl/tzu
 	url = .
+[submodule "tr/yk/pyo"]
+	path = tr/yk/pyo
+	url = .
 [submodule "tr/zh/zrl"]
 	path = tr/zh/zrl
 	url = .
