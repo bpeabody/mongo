@@ -15991,6 +15991,9 @@
 [submodule "sc/xi/lpo"]
 	path = sc/xi/lpo
 	url = .
+[submodule "sc/xl/gce"]
+	path = sc/xl/gce
+	url = .
 [submodule "sc/xn/heb"]
 	path = sc/xn/heb
 	url = .
