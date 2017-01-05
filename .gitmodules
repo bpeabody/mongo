@@ -42970,6 +42970,9 @@
 [submodule "vc/to/fis"]
 	path = vc/to/fis
 	url = .
+[submodule "vc/tq/ckd"]
+	path = vc/tq/ckd
+	url = .
 [submodule "vc/uz/xra"]
 	path = vc/uz/xra
 	url = .
