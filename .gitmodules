@@ -6733,6 +6733,9 @@
 [submodule "dm/rz/jbt"]
 	path = dm/rz/jbt
 	url = .
+[submodule "dm/uw/ufz"]
+	path = dm/uw/ufz
+	url = .
 [submodule "dm/wx/zeo"]
 	path = dm/wx/zeo
 	url = .
