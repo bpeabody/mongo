@@ -26575,6 +26575,9 @@
 [submodule "xw/xq/sci"]
 	path = xw/xq/sci
 	url = .
+[submodule "xw/xv/pve"]
+	path = xw/xv/pve
+	url = .
 [submodule "xw/zr/qeq"]
 	path = xw/zr/qeq
 	url = .
