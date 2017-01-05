@@ -7810,6 +7810,9 @@
 [submodule "gh/zc/qwz"]
 	path = gh/zc/qwz
 	url = .
+[submodule "gh/zg/omc"]
+	path = gh/zg/omc
+	url = .
 [submodule "gh/zn/ckr"]
 	path = gh/zn/ckr
 	url = .
