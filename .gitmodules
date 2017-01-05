@@ -35365,6 +35365,9 @@
 [submodule "qk/rm/hyl"]
 	path = qk/rm/hyl
 	url = .
+[submodule "qk/sc/smp"]
+	path = qk/sc/smp
+	url = .
 [submodule "qk/st/sqp"]
 	path = qk/st/sqp
 	url = .
