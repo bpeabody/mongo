@@ -7336,6 +7336,9 @@
 [submodule "lc/du/ixp"]
 	path = lc/du/ixp
 	url = .
+[submodule "lc/gc/fkv"]
+	path = lc/gc/fkv
+	url = .
 [submodule "lc/gy/nau"]
 	path = lc/gy/nau
 	url = .
