@@ -34330,6 +34330,9 @@
 [submodule "xs/oz/utu"]
 	path = xs/oz/utu
 	url = .
+[submodule "xs/pa/kra"]
+	path = xs/pa/kra
+	url = .
 [submodule "xs/qa/xxt"]
 	path = xs/qa/xxt
 	url = .
