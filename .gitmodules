@@ -5974,6 +5974,9 @@
 [submodule "gw/ey/hwz"]
 	path = gw/ey/hwz
 	url = .
+[submodule "gw/ir/kob"]
+	path = gw/ir/kob
+	url = .
 [submodule "gw/jy/sup"]
 	path = gw/jy/sup
 	url = .
