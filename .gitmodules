@@ -3913,6 +3913,9 @@
 [submodule "bm/md/xvd"]
 	path = bm/md/xvd
 	url = .
+[submodule "bm/mu/juv"]
+	path = bm/mu/juv
+	url = .
 [submodule "bm/nw/qdt"]
 	path = bm/nw/qdt
 	url = .
