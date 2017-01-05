@@ -43171,6 +43171,9 @@
 [submodule "qc/tv/tsq"]
 	path = qc/tv/tsq
 	url = .
+[submodule "qc/vh/xrd"]
+	path = qc/vh/xrd
+	url = .
 [submodule "qc/wu/iyh"]
 	path = qc/wu/iyh
 	url = .
