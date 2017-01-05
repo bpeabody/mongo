@@ -55675,6 +55675,9 @@
 [submodule "ud/bj/dxe"]
 	path = ud/bj/dxe
 	url = .
+[submodule "ud/bo/nlp"]
+	path = ud/bo/nlp
+	url = .
 [submodule "ud/ec/ova"]
 	path = ud/ec/ova
 	url = .
