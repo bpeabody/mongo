@@ -30076,6 +30076,9 @@
 [submodule "nu/np/zjv"]
 	path = nu/np/zjv
 	url = .
+[submodule "nu/ns/fzs"]
+	path = nu/ns/fzs
+	url = .
 [submodule "nu/oq/hle"]
 	path = nu/oq/hle
 	url = .
