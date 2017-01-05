@@ -142,6 +142,9 @@
 [submodule "jj/vc/pii"]
 	path = jj/vc/pii
 	url = .
+[submodule "jt/go/jbn"]
+	path = jt/go/jbn
+	url = .
 [submodule "jw/vs/xin"]
 	path = jw/vs/xin
 	url = .
