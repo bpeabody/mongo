@@ -7624,6 +7624,9 @@
 [submodule "pr/dt/ais"]
 	path = pr/dt/ais
 	url = .
+[submodule "pr/gq/bqg"]
+	path = pr/gq/bqg
+	url = .
 [submodule "pr/ko/jva"]
 	path = pr/ko/jva
 	url = .
