@@ -1861,6 +1861,9 @@
 [submodule "eo/hb/hnz"]
 	path = eo/hb/hnz
 	url = .
+[submodule "eo/oo/jdm"]
+	path = eo/oo/jdm
+	url = .
 [submodule "ep/af/pop"]
 	path = ep/af/pop
 	url = .
