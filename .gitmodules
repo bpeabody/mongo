@@ -694,6 +694,9 @@
 [submodule "gy/lv/cko"]
 	path = gy/lv/cko
 	url = .
+[submodule "gy/zz/lgq"]
+	path = gy/zz/lgq
+	url = .
 [submodule "ha/bo/vyo"]
 	path = ha/bo/vyo
 	url = .
