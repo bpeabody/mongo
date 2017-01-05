@@ -5641,6 +5641,9 @@
 [submodule "oe/me/agn"]
 	path = oe/me/agn
 	url = .
+[submodule "oe/mg/hrm"]
+	path = oe/mg/hrm
+	url = .
 [submodule "oe/pk/tub"]
 	path = oe/pk/tub
 	url = .
