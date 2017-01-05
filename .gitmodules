@@ -43816,6 +43816,9 @@
 [submodule "xn/fk/pel"]
 	path = xn/fk/pel
 	url = .
+[submodule "xn/fs/xbc"]
+	path = xn/fs/xbc
+	url = .
 [submodule "xn/fu/dot"]
 	path = xn/fu/dot
 	url = .
