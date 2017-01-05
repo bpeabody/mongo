@@ -1051,6 +1051,9 @@
 [submodule "fh/ha/ilo"]
 	path = fh/ha/ilo
 	url = .
+[submodule "fh/nt/hyw"]
+	path = fh/nt/hyw
+	url = .
 [submodule "fi/ie/mcq"]
 	path = fi/ie/mcq
 	url = .
