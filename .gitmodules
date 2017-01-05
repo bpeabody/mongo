@@ -43693,6 +43693,9 @@
 [submodule "ri/kh/klm"]
 	path = ri/kh/klm
 	url = .
+[submodule "ri/mb/qck"]
+	path = ri/mb/qck
+	url = .
 [submodule "ri/mv/hqf"]
 	path = ri/mv/hqf
 	url = .
