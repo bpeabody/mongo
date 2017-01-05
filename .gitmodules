@@ -14446,6 +14446,9 @@
 [submodule "jw/qb/kjx"]
 	path = jw/qb/kjx
 	url = .
+[submodule "jw/qf/wrp"]
+	path = jw/qf/wrp
+	url = .
 [submodule "jw/rb/jrj"]
 	path = jw/rb/jrj
 	url = .
