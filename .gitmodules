@@ -21823,6 +21823,9 @@
 [submodule "mq/zc/mxo"]
 	path = mq/zc/mxo
 	url = .
+[submodule "mq/zg/cql"]
+	path = mq/zg/cql
+	url = .
 [submodule "mr/bf/cnn"]
 	path = mr/bf/cnn
 	url = .
