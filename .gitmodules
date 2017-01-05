@@ -14560,6 +14560,9 @@
 [submodule "lc/sl/yco"]
 	path = lc/sl/yco
 	url = .
+[submodule "lc/tn/ryh"]
+	path = lc/tn/ryh
+	url = .
 [submodule "lc/ua/zzp"]
 	path = lc/ua/zzp
 	url = .
