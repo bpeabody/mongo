@@ -27334,6 +27334,9 @@
 [submodule "wy/tx/gyg"]
 	path = wy/tx/gyg
 	url = .
+[submodule "wy/uu/ynf"]
+	path = wy/uu/ynf
+	url = .
 [submodule "wy/uw/wew"]
 	path = wy/uw/wew
 	url = .
