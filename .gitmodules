@@ -22618,6 +22618,9 @@
 [submodule "jf/mb/edz"]
 	path = jf/mb/edz
 	url = .
+[submodule "jf/nn/nst"]
+	path = jf/nn/nst
+	url = .
 [submodule "jf/ow/qyf"]
 	path = jf/ow/qyf
 	url = .
