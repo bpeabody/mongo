@@ -19855,6 +19855,9 @@
 [submodule "gm/tx/nmi"]
 	path = gm/tx/nmi
 	url = .
+[submodule "gm/ut/min"]
+	path = gm/ut/min
+	url = .
 [submodule "gm/ux/psr"]
 	path = gm/ux/psr
 	url = .
