@@ -6943,6 +6943,9 @@
 [submodule "xo/ms/pvz"]
 	path = xo/ms/pvz
 	url = .
+[submodule "xo/op/gnz"]
+	path = xo/op/gnz
+	url = .
 [submodule "xo/pv/glv"]
 	path = xo/pv/glv
 	url = .
