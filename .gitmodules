@@ -5761,6 +5761,9 @@
 [submodule "rs/cv/xnp"]
 	path = rs/cv/xnp
 	url = .
+[submodule "rs/gm/txa"]
+	path = rs/gm/txa
+	url = .
 [submodule "rs/ho/bmk"]
 	path = rs/ho/bmk
 	url = .
