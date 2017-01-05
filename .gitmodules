@@ -11029,6 +11029,9 @@
 [submodule "do/qf/ueu"]
 	path = do/qf/ueu
 	url = .
+[submodule "do/rh/coi"]
+	path = do/rh/coi
+	url = .
 [submodule "do/rw/xag"]
 	path = do/rw/xag
 	url = .
