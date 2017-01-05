@@ -10795,6 +10795,9 @@
 [submodule "no/mb/tbp"]
 	path = no/mb/tbp
 	url = .
+[submodule "no/mv/jye"]
+	path = no/mv/jye
+	url = .
 [submodule "no/qw/oes"]
 	path = no/qw/oes
 	url = .
