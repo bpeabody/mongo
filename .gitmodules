@@ -15313,6 +15313,9 @@
 [submodule "kg/ya/sbl"]
 	path = kg/ya/sbl
 	url = .
+[submodule "kh/ae/lbv"]
+	path = kh/ae/lbv
+	url = .
 [submodule "kh/az/yuu"]
 	path = kh/az/yuu
 	url = .
