@@ -41620,6 +41620,9 @@
 [submodule "xk/pz/hwa"]
 	path = xk/pz/hwa
 	url = .
+[submodule "xk/tk/bzg"]
+	path = xk/tk/bzg
+	url = .
 [submodule "xk/tn/qko"]
 	path = xk/tn/qko
 	url = .
