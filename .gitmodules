@@ -51040,6 +51040,9 @@
 [submodule "rx/dy/bat"]
 	path = rx/dy/bat
 	url = .
+[submodule "rx/ge/fyy"]
+	path = rx/ge/fyy
+	url = .
 [submodule "rx/hi/kxz"]
 	path = rx/hi/kxz
 	url = .
