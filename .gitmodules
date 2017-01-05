@@ -53800,6 +53800,9 @@
 [submodule "ug/dp/gqt"]
 	path = ug/dp/gqt
 	url = .
+[submodule "ug/eu/wcj"]
+	path = ug/eu/wcj
+	url = .
 [submodule "ug/gu/zvl"]
 	path = ug/gu/zvl
 	url = .
