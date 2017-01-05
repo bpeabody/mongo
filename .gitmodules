@@ -8560,6 +8560,9 @@
 [submodule "cx/eo/ulm"]
 	path = cx/eo/ulm
 	url = .
+[submodule "cx/fi/wiw"]
+	path = cx/fi/wiw
+	url = .
 [submodule "cx/gi/rsv"]
 	path = cx/gi/rsv
 	url = .
