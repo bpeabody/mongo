@@ -37477,6 +37477,9 @@
 [submodule "sh/xq/xys"]
 	path = sh/xq/xys
 	url = .
+[submodule "sh/xs/nar"]
+	path = sh/xs/nar
+	url = .
 [submodule "sh/zc/ttj"]
 	path = sh/zc/ttj
 	url = .
