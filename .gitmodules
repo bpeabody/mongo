@@ -41758,6 +41758,9 @@
 [submodule "oz/je/mdl"]
 	path = oz/je/mdl
 	url = .
+[submodule "oz/jt/qqv"]
+	path = oz/jt/qqv
+	url = .
 [submodule "oz/kq/qun"]
 	path = oz/kq/qun
 	url = .
