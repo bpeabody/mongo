@@ -16150,6 +16150,9 @@
 [submodule "uv/gl/cvu"]
 	path = uv/gl/cvu
 	url = .
+[submodule "uv/gm/eip"]
+	path = uv/gm/eip
+	url = .
 [submodule "uv/if/hpx"]
 	path = uv/if/hpx
 	url = .
