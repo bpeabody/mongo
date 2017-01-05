@@ -19906,6 +19906,9 @@
 [submodule "hm/yx/vru"]
 	path = hm/yx/vru
 	url = .
+[submodule "hm/yy/xft"]
+	path = hm/yy/xft
+	url = .
 [submodule "hm/zg/dvw"]
 	path = hm/zg/dvw
 	url = .
