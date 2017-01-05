@@ -6559,6 +6559,9 @@
 [submodule "fc/cc/lab"]
 	path = fc/cc/lab
 	url = .
+[submodule "fc/ew/uvk"]
+	path = fc/ew/uvk
+	url = .
 [submodule "fc/fh/ihw"]
 	path = fc/fh/ihw
 	url = .
