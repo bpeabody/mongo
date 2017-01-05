@@ -5617,6 +5617,9 @@
 [submodule "gt/uk/rzl"]
 	path = gt/uk/rzl
 	url = .
+[submodule "gt/vl/pns"]
+	path = gt/vl/pns
+	url = .
 [submodule "gt/zo/zif"]
 	path = gt/zo/zif
 	url = .
