@@ -41410,6 +41410,9 @@
 [submodule "vx/di/kxi"]
 	path = vx/di/kxi
 	url = .
+[submodule "vx/fq/bzd"]
+	path = vx/fq/bzd
+	url = .
 [submodule "vx/fs/azq"]
 	path = vx/fs/azq
 	url = .
