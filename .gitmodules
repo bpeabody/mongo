@@ -48508,6 +48508,9 @@
 [submodule "yg/kq/iqu"]
 	path = yg/kq/iqu
 	url = .
+[submodule "yg/lq/faq"]
+	path = yg/lq/faq
+	url = .
 [submodule "yg/ne/gft"]
 	path = yg/ne/gft
 	url = .
