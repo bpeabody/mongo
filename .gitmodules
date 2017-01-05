@@ -3220,6 +3220,9 @@
 [submodule "dh/wm/ehs"]
 	path = dh/wm/ehs
 	url = .
+[submodule "dh/yi/jxd"]
+	path = dh/yi/jxd
+	url = .
 [submodule "di/dx/bgw"]
 	path = di/dx/bgw
 	url = .
