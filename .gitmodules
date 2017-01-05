@@ -4237,6 +4237,9 @@
 [submodule "eb/bv/pou"]
 	path = eb/bv/pou
 	url = .
+[submodule "eb/cm/rxb"]
+	path = eb/cm/rxb
+	url = .
 [submodule "eb/ei/cvx"]
 	path = eb/ei/cvx
 	url = .
