@@ -877,6 +877,9 @@
 [submodule "jd/un/htu"]
 	path = jd/un/htu
 	url = .
+[submodule "je/sl/bgk"]
+	path = je/sl/bgk
+	url = .
 [submodule "je/zz/xyw"]
 	path = je/zz/xyw
 	url = .
