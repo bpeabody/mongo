@@ -13915,6 +13915,9 @@
 [submodule "gk/ph/lws"]
 	path = gk/ph/lws
 	url = .
+[submodule "gk/pl/gon"]
+	path = gk/pl/gon
+	url = .
 [submodule "gk/pz/obj"]
 	path = gk/pz/obj
 	url = .
