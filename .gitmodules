@@ -14962,6 +14962,9 @@
 [submodule "fd/vl/ppz"]
 	path = fd/vl/ppz
 	url = .
+[submodule "fd/ww/eoe"]
+	path = fd/ww/eoe
+	url = .
 [submodule "fd/wx/vvg"]
 	path = fd/wx/vvg
 	url = .
