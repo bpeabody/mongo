@@ -1084,6 +1084,9 @@
 [submodule "on/xl/tjo"]
 	path = on/xl/tjo
 	url = .
+[submodule "oq/if/dip"]
+	path = oq/if/dip
+	url = .
 [submodule "oq/os/nsq"]
 	path = oq/os/nsq
 	url = .
