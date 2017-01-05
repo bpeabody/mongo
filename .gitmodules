@@ -8527,6 +8527,9 @@
 [submodule "hu/es/qqo"]
 	path = hu/es/qqo
 	url = .
+[submodule "hu/fi/vec"]
+	path = hu/fi/vec
+	url = .
 [submodule "hu/jw/orq"]
 	path = hu/jw/orq
 	url = .
