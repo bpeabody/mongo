@@ -36886,6 +36886,9 @@
 [submodule "ol/hs/sli"]
 	path = ol/hs/sli
 	url = .
+[submodule "ol/iz/hoq"]
+	path = ol/iz/hoq
+	url = .
 [submodule "ol/jg/ypd"]
 	path = ol/jg/ypd
 	url = .
