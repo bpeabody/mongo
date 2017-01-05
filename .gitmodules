@@ -16888,6 +16888,9 @@
 [submodule "sc/lz/txs"]
 	path = sc/lz/txs
 	url = .
+[submodule "sc/or/vuo"]
+	path = sc/or/vuo
+	url = .
 [submodule "sc/qh/yag"]
 	path = sc/qh/yag
 	url = .
