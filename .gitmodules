@@ -82,6 +82,9 @@
 [submodule "ar/xd/aqq"]
 	path = ar/xd/aqq
 	url = .
+[submodule "as/or/bgh"]
+	path = as/or/bgh
+	url = .
 [submodule "as/ps/ecd"]
 	path = as/ps/ecd
 	url = .
