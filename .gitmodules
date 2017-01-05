@@ -22615,6 +22615,9 @@
 [submodule "qv/fr/ogg"]
 	path = qv/fr/ogg
 	url = .
+[submodule "qv/fs/boz"]
+	path = qv/fs/boz
+	url = .
 [submodule "qv/hi/jbj"]
 	path = qv/hi/jbj
 	url = .
