@@ -26287,6 +26287,9 @@
 [submodule "ng/pc/kvl"]
 	path = ng/pc/kvl
 	url = .
+[submodule "ng/pp/xte"]
+	path = ng/pp/xte
+	url = .
 [submodule "ng/sn/ass"]
 	path = ng/sn/ass
 	url = .
