@@ -5611,6 +5611,9 @@
 [submodule "rx/dy/bat"]
 	path = rx/dy/bat
 	url = .
+[submodule "rx/yj/wes"]
+	path = rx/yj/wes
+	url = .
 [submodule "ry/dt/gck"]
 	path = ry/dt/gck
 	url = .
