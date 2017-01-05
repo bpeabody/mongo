@@ -32887,6 +32887,9 @@
 [submodule "mb/rh/nbb"]
 	path = mb/rh/nbb
 	url = .
+[submodule "mb/tp/jep"]
+	path = mb/tp/jep
+	url = .
 [submodule "mb/tr/ugz"]
 	path = mb/tr/ugz
 	url = .
