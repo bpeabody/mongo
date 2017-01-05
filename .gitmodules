@@ -1165,6 +1165,9 @@
 [submodule "ck/uo/kbl"]
 	path = ck/uo/kbl
 	url = .
+[submodule "ck/uz/ibn"]
+	path = ck/uz/ibn
+	url = .
 [submodule "ck/vn/dpb"]
 	path = ck/vn/dpb
 	url = .
