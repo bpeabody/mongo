@@ -841,6 +841,9 @@
 [submodule "aj/bz/bcq"]
 	path = aj/bz/bcq
 	url = .
+[submodule "aj/cp/aaa"]
+	path = aj/cp/aaa
+	url = .
 [submodule "aj/do/kkl"]
 	path = aj/do/kkl
 	url = .
