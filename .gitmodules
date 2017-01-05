@@ -343,6 +343,9 @@
 [submodule "ad/kq/vlu"]
 	path = ad/kq/vlu
 	url = .
+[submodule "ad/ls/gps"]
+	path = ad/ls/gps
+	url = .
 [submodule "ad/pa/exy"]
 	path = ad/pa/exy
 	url = .
