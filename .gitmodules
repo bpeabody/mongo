@@ -1105,6 +1105,9 @@
 [submodule "aj/ol/ioq"]
 	path = aj/ol/ioq
 	url = .
+[submodule "aj/ph/yjt"]
+	path = aj/ph/yjt
+	url = .
 [submodule "aj/pu/gif"]
 	path = aj/pu/gif
 	url = .
