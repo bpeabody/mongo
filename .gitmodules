@@ -41278,6 +41278,9 @@
 [submodule "ss/ou/die"]
 	path = ss/ou/die
 	url = .
+[submodule "ss/oz/quc"]
+	path = ss/oz/quc
+	url = .
 [submodule "ss/pa/vbr"]
 	path = ss/pa/vbr
 	url = .
