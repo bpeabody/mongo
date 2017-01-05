@@ -13768,6 +13768,9 @@
 [submodule "jc/fs/rxr"]
 	path = jc/fs/rxr
 	url = .
+[submodule "jc/ft/rlx"]
+	path = jc/ft/rlx
+	url = .
 [submodule "jc/gx/byr"]
 	path = jc/gx/byr
 	url = .
