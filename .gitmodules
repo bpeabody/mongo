@@ -54868,6 +54868,9 @@
 [submodule "sp/ka/zra"]
 	path = sp/ka/zra
 	url = .
+[submodule "sp/kv/ldd"]
+	path = sp/kv/ldd
+	url = .
 [submodule "sp/lc/ngv"]
 	path = sp/lc/ngv
 	url = .
