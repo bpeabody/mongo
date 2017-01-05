@@ -4063,6 +4063,9 @@
 [submodule "ci/vq/gje"]
 	path = ci/vq/gje
 	url = .
+[submodule "ci/wd/qpu"]
+	path = ci/wd/qpu
+	url = .
 [submodule "ci/wx/lkl"]
 	path = ci/wx/lkl
 	url = .
