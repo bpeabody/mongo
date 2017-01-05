@@ -25354,6 +25354,9 @@
 [submodule "yi/ma/bay"]
 	path = yi/ma/bay
 	url = .
+[submodule "yi/md/qab"]
+	path = yi/md/qab
+	url = .
 [submodule "yi/no/kpl"]
 	path = yi/no/kpl
 	url = .
