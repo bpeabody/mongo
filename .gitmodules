@@ -4987,6 +4987,9 @@
 [submodule "le/sx/oco"]
 	path = le/sx/oco
 	url = .
+[submodule "le/vi/uzc"]
+	path = le/vi/uzc
+	url = .
 [submodule "lf/fi/chy"]
 	path = lf/fi/chy
 	url = .
