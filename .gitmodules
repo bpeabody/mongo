@@ -877,6 +877,9 @@
 [submodule "ed/pb/pyq"]
 	path = ed/pb/pyq
 	url = .
+[submodule "ee/ju/vhv"]
+	path = ee/ju/vhv
+	url = .
 [submodule "ee/li/zdc"]
 	path = ee/li/zdc
 	url = .
