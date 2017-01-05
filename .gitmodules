@@ -265,6 +265,9 @@
 [submodule "ag/vz/lly"]
 	path = ag/vz/lly
 	url = .
+[submodule "ag/xc/cfk"]
+	path = ag/xc/cfk
+	url = .
 [submodule "ah/ap/ikp"]
 	path = ah/ap/ikp
 	url = .
