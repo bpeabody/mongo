@@ -9091,6 +9091,9 @@
 [submodule "em/ja/xvv"]
 	path = em/ja/xvv
 	url = .
+[submodule "em/ls/slu"]
+	path = em/ls/slu
+	url = .
 [submodule "em/me/irr"]
 	path = em/me/irr
 	url = .
