@@ -17326,6 +17326,9 @@
 [submodule "qg/ae/vas"]
 	path = qg/ae/vas
 	url = .
+[submodule "qg/fr/ujf"]
+	path = qg/fr/ujf
+	url = .
 [submodule "qg/hg/hyp"]
 	path = qg/hg/hyp
 	url = .
