@@ -91,6 +91,9 @@
 [submodule "ai/ll/mes"]
 	path = ai/ll/mes
 	url = .
+[submodule "aj/my/kip"]
+	path = aj/my/kip
+	url = .
 [submodule "aj/pu/gif"]
 	path = aj/pu/gif
 	url = .
