@@ -30601,6 +30601,9 @@
 [submodule "ko/th/xhu"]
 	path = ko/th/xhu
 	url = .
+[submodule "ko/tu/vbu"]
+	path = ko/tu/vbu
+	url = .
 [submodule "ko/uk/vwv"]
 	path = ko/uk/vwv
 	url = .
