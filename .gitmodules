@@ -2650,6 +2650,9 @@
 [submodule "wi/iw/wbd"]
 	path = wi/iw/wbd
 	url = .
+[submodule "wi/lb/rmf"]
+	path = wi/lb/rmf
+	url = .
 [submodule "wj/je/lff"]
 	path = wj/je/lff
 	url = .
