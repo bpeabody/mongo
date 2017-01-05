@@ -970,6 +970,9 @@
 [submodule "ak/xl/arn"]
 	path = ak/xl/arn
 	url = .
+[submodule "ak/zg/kgp"]
+	path = ak/zg/kgp
+	url = .
 [submodule "ak/zg/rex"]
 	path = ak/zg/rex
 	url = .
