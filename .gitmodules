@@ -6706,6 +6706,9 @@
 [submodule "jp/to/cmv"]
 	path = jp/to/cmv
 	url = .
+[submodule "jp/tw/nmy"]
+	path = jp/tw/nmy
+	url = .
 [submodule "jq/ci/gaz"]
 	path = jq/ci/gaz
 	url = .
