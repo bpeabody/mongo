@@ -3592,6 +3592,9 @@
 [submodule "fb/di/fqf"]
 	path = fb/di/fqf
 	url = .
+[submodule "fb/gz/fhc"]
+	path = fb/gz/fhc
+	url = .
 [submodule "fb/ji/hks"]
 	path = fb/ji/hks
 	url = .
