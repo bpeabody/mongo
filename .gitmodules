@@ -13711,6 +13711,9 @@
 [submodule "ot/tm/ezd"]
 	path = ot/tm/ezd
 	url = .
+[submodule "ot/tm/rcg"]
+	path = ot/tm/rcg
+	url = .
 [submodule "ot/tu/gpp"]
 	path = ot/tu/gpp
 	url = .
