@@ -53977,6 +53977,9 @@
 [submodule "tx/qk/rvr"]
 	path = tx/qk/rvr
 	url = .
+[submodule "tx/qs/xho"]
+	path = tx/qs/xho
+	url = .
 [submodule "tx/sb/rdp"]
 	path = tx/sb/rdp
 	url = .
