@@ -22930,6 +22930,9 @@
 [submodule "jk/fk/pty"]
 	path = jk/fk/pty
 	url = .
+[submodule "jk/fu/qwc"]
+	path = jk/fu/qwc
+	url = .
 [submodule "jk/gs/djo"]
 	path = jk/gs/djo
 	url = .
