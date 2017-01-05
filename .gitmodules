@@ -34969,6 +34969,9 @@
 [submodule "sd/pr/nlb"]
 	path = sd/pr/nlb
 	url = .
+[submodule "sd/qj/gkf"]
+	path = sd/qj/gkf
+	url = .
 [submodule "sd/ri/tpg"]
 	path = sd/ri/tpg
 	url = .
