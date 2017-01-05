@@ -3514,6 +3514,9 @@
 [submodule "rk/ul/ozg"]
 	path = rk/ul/ozg
 	url = .
+[submodule "rk/xj/byq"]
+	path = rk/xj/byq
+	url = .
 [submodule "rl/qi/yjo"]
 	path = rl/qi/yjo
 	url = .
