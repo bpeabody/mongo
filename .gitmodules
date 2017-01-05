@@ -1741,6 +1741,9 @@
 [submodule "ao/nz/klw"]
 	path = ao/nz/klw
 	url = .
+[submodule "ao/oa/bnk"]
+	path = ao/oa/bnk
+	url = .
 [submodule "ao/ob/dur"]
 	path = ao/ob/dur
 	url = .
