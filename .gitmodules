@@ -16810,6 +16810,9 @@
 [submodule "lc/sl/yco"]
 	path = lc/sl/yco
 	url = .
+[submodule "lc/ta/ekt"]
+	path = lc/ta/ekt
+	url = .
 [submodule "lc/tn/ryh"]
 	path = lc/tn/ryh
 	url = .
