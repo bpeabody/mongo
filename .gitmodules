@@ -613,6 +613,9 @@
 [submodule "ce/ex/mgx"]
 	path = ce/ex/mgx
 	url = .
+[submodule "ce/ld/rwv"]
+	path = ce/ld/rwv
+	url = .
 [submodule "ce/oa/cdi"]
 	path = ce/oa/cdi
 	url = .
