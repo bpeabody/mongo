@@ -19318,6 +19318,9 @@
 [submodule "ua/do/xli"]
 	path = ua/do/xli
 	url = .
+[submodule "ua/dw/rwr"]
+	path = ua/dw/rwr
+	url = .
 [submodule "ua/eh/xgj"]
 	path = ua/eh/xgj
 	url = .
