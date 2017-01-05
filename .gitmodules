@@ -18334,6 +18334,9 @@
 [submodule "tq/ic/urb"]
 	path = tq/ic/urb
 	url = .
+[submodule "tq/ix/tan"]
+	path = tq/ix/tan
+	url = .
 [submodule "tq/lg/kin"]
 	path = tq/lg/kin
 	url = .
