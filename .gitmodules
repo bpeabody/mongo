@@ -748,6 +748,9 @@
 [submodule "af/xw/gsw"]
 	path = af/xw/gsw
 	url = .
+[submodule "af/yp/pjm"]
+	path = af/yp/pjm
+	url = .
 [submodule "af/yw/bmq"]
 	path = af/yw/bmq
 	url = .
