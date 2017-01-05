@@ -4627,6 +4627,9 @@
 [submodule "kx/ac/wqc"]
 	path = kx/ac/wqc
 	url = .
+[submodule "kx/as/zkk"]
+	path = kx/as/zkk
+	url = .
 [submodule "kx/fk/syh"]
 	path = kx/fk/syh
 	url = .
