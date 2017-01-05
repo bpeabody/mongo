@@ -322,6 +322,9 @@
 [submodule "aq/fg/lrb"]
 	path = aq/fg/lrb
 	url = .
+[submodule "aq/qq/jvr"]
+	path = aq/qq/jvr
+	url = .
 [submodule "ar/hb/aqy"]
 	path = ar/hb/aqy
 	url = .
