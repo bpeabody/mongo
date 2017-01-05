@@ -24319,6 +24319,9 @@
 [submodule "iq/hq/fjt"]
 	path = iq/hq/fjt
 	url = .
+[submodule "iq/ib/lvh"]
+	path = iq/ib/lvh
+	url = .
 [submodule "iq/ja/spk"]
 	path = iq/ja/spk
 	url = .
