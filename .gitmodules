@@ -31750,6 +31750,9 @@
 [submodule "mu/ih/fio"]
 	path = mu/ih/fio
 	url = .
+[submodule "mu/ip/pnr"]
+	path = mu/ip/pnr
+	url = .
 [submodule "mu/it/tgc"]
 	path = mu/it/tgc
 	url = .
