@@ -10834,6 +10834,9 @@
 [submodule "ly/od/bnk"]
 	path = ly/od/bnk
 	url = .
+[submodule "ly/pi/wbg"]
+	path = ly/pi/wbg
+	url = .
 [submodule "ly/qd/fws"]
 	path = ly/qd/fws
 	url = .
