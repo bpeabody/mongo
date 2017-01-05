@@ -2401,6 +2401,9 @@
 [submodule "bm/nw/qdt"]
 	path = bm/nw/qdt
 	url = .
+[submodule "bm/ob/ikf"]
+	path = bm/ob/ikf
+	url = .
 [submodule "bm/os/tkp"]
 	path = bm/os/tkp
 	url = .
