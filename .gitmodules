@@ -38932,6 +38932,9 @@
 [submodule "ns/ws/rci"]
 	path = ns/ws/rci
 	url = .
+[submodule "ns/ww/ece"]
+	path = ns/ww/ece
+	url = .
 [submodule "ns/wx/mfg"]
 	path = ns/wx/mfg
 	url = .
