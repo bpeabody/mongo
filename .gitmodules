@@ -47941,6 +47941,9 @@
 [submodule "yj/cu/qpc"]
 	path = yj/cu/qpc
 	url = .
+[submodule "yj/de/elj"]
+	path = yj/de/elj
+	url = .
 [submodule "yj/ha/oah"]
 	path = yj/ha/oah
 	url = .
