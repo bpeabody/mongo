@@ -1555,6 +1555,9 @@
 [submodule "co/of/qoi"]
 	path = co/of/qoi
 	url = .
+[submodule "co/rc/bza"]
+	path = co/rc/bza
+	url = .
 [submodule "co/rm/exh"]
 	path = co/rm/exh
 	url = .
