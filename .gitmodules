@@ -676,6 +676,9 @@
 [submodule "di/yh/jpn"]
 	path = di/yh/jpn
 	url = .
+[submodule "dj/eq/gjk"]
+	path = dj/eq/gjk
+	url = .
 [submodule "dj/ix/zjk"]
 	path = dj/ix/zjk
 	url = .
