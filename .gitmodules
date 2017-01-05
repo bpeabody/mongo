@@ -40144,6 +40144,9 @@
 [submodule "qv/pq/nwe"]
 	path = qv/pq/nwe
 	url = .
+[submodule "qv/py/lwy"]
+	path = qv/py/lwy
+	url = .
 [submodule "qv/qz/xkm"]
 	path = qv/qz/xkm
 	url = .
