@@ -17986,6 +17986,9 @@
 [submodule "jq/oq/nsg"]
 	path = jq/oq/nsg
 	url = .
+[submodule "jq/oq/sht"]
+	path = jq/oq/sht
+	url = .
 [submodule "jq/pt/zcu"]
 	path = jq/pt/zcu
 	url = .
