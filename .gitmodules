@@ -36190,6 +36190,9 @@
 [submodule "vs/iu/bug"]
 	path = vs/iu/bug
 	url = .
+[submodule "vs/jq/hzn"]
+	path = vs/jq/hzn
+	url = .
 [submodule "vs/jr/nay"]
 	path = vs/jr/nay
 	url = .
