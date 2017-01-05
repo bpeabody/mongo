@@ -26803,6 +26803,9 @@
 [submodule "ja/bp/ecp"]
 	path = ja/bp/ecp
 	url = .
+[submodule "ja/bu/mdz"]
+	path = ja/bu/mdz
+	url = .
 [submodule "ja/bw/mvz"]
 	path = ja/bw/mvz
 	url = .
