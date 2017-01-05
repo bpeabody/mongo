@@ -35047,6 +35047,9 @@
 [submodule "rd/ad/xny"]
 	path = rd/ad/xny
 	url = .
+[submodule "rd/bs/djx"]
+	path = rd/bs/djx
+	url = .
 [submodule "rd/ca/bei"]
 	path = rd/ca/bei
 	url = .
