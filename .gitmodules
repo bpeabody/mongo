@@ -17338,6 +17338,9 @@
 [submodule "gb/cg/rom"]
 	path = gb/cg/rom
 	url = .
+[submodule "gb/dl/rec"]
+	path = gb/dl/rec
+	url = .
 [submodule "gb/dt/qfi"]
 	path = gb/dt/qfi
 	url = .
