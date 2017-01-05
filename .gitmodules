@@ -1711,6 +1711,9 @@
 [submodule "as/hz/bup"]
 	path = as/hz/bup
 	url = .
+[submodule "as/hz/zct"]
+	path = as/hz/zct
+	url = .
 [submodule "as/jc/sbt"]
 	path = as/jc/sbt
 	url = .
