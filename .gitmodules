@@ -3820,6 +3820,9 @@
 [submodule "dc/fp/gjl"]
 	path = dc/fp/gjl
 	url = .
+[submodule "dc/gg/ddl"]
+	path = dc/gg/ddl
+	url = .
 [submodule "dc/hb/bez"]
 	path = dc/hb/bez
 	url = .
