@@ -39289,6 +39289,9 @@
 [submodule "uf/lr/tcy"]
 	path = uf/lr/tcy
 	url = .
+[submodule "uf/nu/idk"]
+	path = uf/nu/idk
+	url = .
 [submodule "uf/of/ghg"]
 	path = uf/of/ghg
 	url = .
