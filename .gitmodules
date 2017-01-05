@@ -30535,6 +30535,9 @@
 [submodule "ud/uz/zey"]
 	path = ud/uz/zey
 	url = .
+[submodule "ud/zn/hfv"]
+	path = ud/zn/hfv
+	url = .
 [submodule "ue/am/mfe"]
 	path = ue/am/mfe
 	url = .
