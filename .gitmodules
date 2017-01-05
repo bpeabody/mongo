@@ -22720,6 +22720,9 @@
 [submodule "rh/su/cxq"]
 	path = rh/su/cxq
 	url = .
+[submodule "ri/aq/saf"]
+	path = ri/aq/saf
+	url = .
 [submodule "ri/bc/bkc"]
 	path = ri/bc/bkc
 	url = .
