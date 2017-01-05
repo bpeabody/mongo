@@ -55054,6 +55054,9 @@
 [submodule "vl/rf/nus"]
 	path = vl/rf/nus
 	url = .
+[submodule "vl/rv/wyd"]
+	path = vl/rv/wyd
+	url = .
 [submodule "vl/tg/lzf"]
 	path = vl/tg/lzf
 	url = .
