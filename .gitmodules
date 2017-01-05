@@ -220,6 +220,9 @@
 [submodule "oy/ae/our"]
 	path = oy/ae/our
 	url = .
+[submodule "oz/sm/jnu"]
+	path = oz/sm/jnu
+	url = .
 [submodule "oz/tu/dfv"]
 	path = oz/tu/dfv
 	url = .
