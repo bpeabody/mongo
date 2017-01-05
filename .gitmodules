@@ -45667,6 +45667,9 @@
 [submodule "rw/qa/jdw"]
 	path = rw/qa/jdw
 	url = .
+[submodule "rw/qg/bgb"]
+	path = rw/qg/bgb
+	url = .
 [submodule "rw/qo/gke"]
 	path = rw/qo/gke
 	url = .
