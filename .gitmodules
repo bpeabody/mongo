@@ -8728,6 +8728,9 @@
 [submodule "du/iw/qpq"]
 	path = du/iw/qpq
 	url = .
+[submodule "du/mb/ghb"]
+	path = du/mb/ghb
+	url = .
 [submodule "du/md/ric"]
 	path = du/md/ric
 	url = .
