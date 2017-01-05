@@ -47542,6 +47542,9 @@
 [submodule "rw/tx/ldj"]
 	path = rw/tx/ldj
 	url = .
+[submodule "rw/uj/isn"]
+	path = rw/uj/isn
+	url = .
 [submodule "rw/us/wjb"]
 	path = rw/us/wjb
 	url = .
