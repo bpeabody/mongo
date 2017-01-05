@@ -6088,6 +6088,9 @@
 [submodule "gg/yr/ckj"]
 	path = gg/yr/ckj
 	url = .
+[submodule "gg/zv/yjt"]
+	path = gg/zv/yjt
+	url = .
 [submodule "gh/hk/ehl"]
 	path = gh/hk/ehl
 	url = .
