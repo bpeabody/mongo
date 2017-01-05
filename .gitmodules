@@ -784,6 +784,9 @@
 [submodule "hi/nk/dht"]
 	path = hi/nk/dht
 	url = .
+[submodule "hi/qk/wcj"]
+	path = hi/qk/wcj
+	url = .
 [submodule "hi/xv/uit"]
 	path = hi/xv/uit
 	url = .
