@@ -22336,6 +22336,9 @@
 [submodule "ic/wa/yyu"]
 	path = ic/wa/yyu
 	url = .
+[submodule "ic/xj/kfl"]
+	path = ic/xj/kfl
+	url = .
 [submodule "ic/xr/aik"]
 	path = ic/xr/aik
 	url = .
