@@ -3580,6 +3580,9 @@
 [submodule "cz/tm/xsv"]
 	path = cz/tm/xsv
 	url = .
+[submodule "cz/tv/lec"]
+	path = cz/tv/lec
+	url = .
 [submodule "cz/ud/vcw"]
 	path = cz/ud/vcw
 	url = .
