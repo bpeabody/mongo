@@ -4492,6 +4492,9 @@
 [submodule "cf/qg/qaz"]
 	path = cf/qg/qaz
 	url = .
+[submodule "cf/ri/xhh"]
+	path = cf/ri/xhh
+	url = .
 [submodule "cf/rj/sje"]
 	path = cf/rj/sje
 	url = .
