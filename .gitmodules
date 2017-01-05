@@ -199,6 +199,9 @@
 [submodule "pw/et/ktr"]
 	path = pw/et/ktr
 	url = .
+[submodule "pw/vi/sbg"]
+	path = pw/vi/sbg
+	url = .
 [submodule "qe/nj/vti"]
 	path = qe/nj/vti
 	url = .
