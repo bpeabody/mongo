@@ -994,6 +994,9 @@
 [submodule "jh/st/tuj"]
 	path = jh/st/tuj
 	url = .
+[submodule "jh/xm/pnd"]
+	path = jh/xm/pnd
+	url = .
 [submodule "ji/rz/gzo"]
 	path = ji/rz/gzo
 	url = .
