@@ -4768,6 +4768,9 @@
 [submodule "ha/ea/nsr"]
 	path = ha/ea/nsr
 	url = .
+[submodule "ha/lj/lqm"]
+	path = ha/lj/lqm
+	url = .
 [submodule "ha/rp/lud"]
 	path = ha/rp/lud
 	url = .
