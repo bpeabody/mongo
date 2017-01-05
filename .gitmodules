@@ -35122,6 +35122,9 @@
 [submodule "nn/yt/yvx"]
 	path = nn/yt/yvx
 	url = .
+[submodule "no/bb/ncm"]
+	path = no/bb/ncm
+	url = .
 [submodule "no/bk/zya"]
 	path = no/bk/zya
 	url = .
