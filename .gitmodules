@@ -21151,6 +21151,9 @@
 [submodule "jg/sq/uyl"]
 	path = jg/sq/uyl
 	url = .
+[submodule "jg/tg/kbg"]
+	path = jg/tg/kbg
+	url = .
 [submodule "jg/tq/xzn"]
 	path = jg/tq/xzn
 	url = .
