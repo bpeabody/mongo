@@ -23944,6 +23944,9 @@
 [submodule "sb/wh/ovz"]
 	path = sb/wh/ovz
 	url = .
+[submodule "sb/wr/uay"]
+	path = sb/wr/uay
+	url = .
 [submodule "sb/xg/haw"]
 	path = sb/xg/haw
 	url = .
