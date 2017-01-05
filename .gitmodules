@@ -47164,6 +47164,9 @@
 [submodule "sl/bg/ory"]
 	path = sl/bg/ory
 	url = .
+[submodule "sl/bt/bol"]
+	path = sl/bt/bol
+	url = .
 [submodule "sl/ci/nmn"]
 	path = sl/ci/nmn
 	url = .
