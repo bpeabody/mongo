@@ -23932,6 +23932,9 @@
 [submodule "oy/ap/trg"]
 	path = oy/ap/trg
 	url = .
+[submodule "oy/ci/jxx"]
+	path = oy/ci/jxx
+	url = .
 [submodule "oy/cu/uuj"]
 	path = oy/cu/uuj
 	url = .
