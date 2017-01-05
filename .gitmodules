@@ -13741,6 +13741,9 @@
 [submodule "hg/ae/agr"]
 	path = hg/ae/agr
 	url = .
+[submodule "hg/cp/oig"]
+	path = hg/cp/oig
+	url = .
 [submodule "hg/cq/kfn"]
 	path = hg/cq/kfn
 	url = .
