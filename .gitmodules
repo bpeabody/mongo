@@ -2122,6 +2122,9 @@
 [submodule "bl/yg/lun"]
 	path = bl/yg/lun
 	url = .
+[submodule "bl/ym/jiv"]
+	path = bl/ym/jiv
+	url = .
 [submodule "bm/ba/hik"]
 	path = bm/ba/hik
 	url = .
