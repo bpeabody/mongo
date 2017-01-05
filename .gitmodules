@@ -19327,6 +19327,9 @@
 [submodule "nt/af/xbw"]
 	path = nt/af/xbw
 	url = .
+[submodule "nt/av/adj"]
+	path = nt/av/adj
+	url = .
 [submodule "nt/bd/eud"]
 	path = nt/bd/eud
 	url = .
