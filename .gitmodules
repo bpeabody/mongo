@@ -9505,6 +9505,9 @@
 [submodule "vu/ba/jql"]
 	path = vu/ba/jql
 	url = .
+[submodule "vu/bg/scd"]
+	path = vu/bg/scd
+	url = .
 [submodule "vu/gf/qty"]
 	path = vu/gf/qty
 	url = .
