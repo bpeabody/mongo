@@ -6052,6 +6052,9 @@
 [submodule "ds/vx/hxa"]
 	path = ds/vx/hxa
 	url = .
+[submodule "ds/yc/nih"]
+	path = ds/yc/nih
+	url = .
 [submodule "ds/yc/sla"]
 	path = ds/yc/sla
 	url = .
