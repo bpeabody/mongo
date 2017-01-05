@@ -14893,6 +14893,9 @@
 [submodule "sp/lj/pfl"]
 	path = sp/lj/pfl
 	url = .
+[submodule "sp/mp/qdr"]
+	path = sp/mp/qdr
+	url = .
 [submodule "sp/mv/wjo"]
 	path = sp/mv/wjo
 	url = .
