@@ -22336,6 +22336,9 @@
 [submodule "lo/jx/yke"]
 	path = lo/jx/yke
 	url = .
+[submodule "lo/kf/yee"]
+	path = lo/kf/yee
+	url = .
 [submodule "lo/lo/rpm"]
 	path = lo/lo/rpm
 	url = .
