@@ -44290,6 +44290,9 @@
 [submodule "ui/gu/sot"]
 	path = ui/gu/sot
 	url = .
+[submodule "ui/ha/oqp"]
+	path = ui/ha/oqp
+	url = .
 [submodule "ui/hj/rli"]
 	path = ui/hj/rli
 	url = .
