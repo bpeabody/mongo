@@ -14590,6 +14590,9 @@
 [submodule "ns/qb/slc"]
 	path = ns/qb/slc
 	url = .
+[submodule "ns/uq/dxn"]
+	path = ns/uq/dxn
+	url = .
 [submodule "ns/ws/rci"]
 	path = ns/ws/rci
 	url = .
