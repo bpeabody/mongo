@@ -18628,6 +18628,9 @@
 [submodule "yo/lz/ttw"]
 	path = yo/lz/ttw
 	url = .
+[submodule "yo/oh/wqc"]
+	path = yo/oh/wqc
+	url = .
 [submodule "yo/op/ayy"]
 	path = yo/op/ayy
 	url = .
