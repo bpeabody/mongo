@@ -11191,6 +11191,9 @@
 [submodule "vt/sz/loe"]
 	path = vt/sz/loe
 	url = .
+[submodule "vt/zv/sno"]
+	path = vt/zv/sno
+	url = .
 [submodule "vu/ba/jql"]
 	path = vu/ba/jql
 	url = .
