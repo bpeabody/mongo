@@ -1921,6 +1921,9 @@
 [submodule "wr/et/yux"]
 	path = wr/et/yux
 	url = .
+[submodule "wr/rx/gad"]
+	path = wr/rx/gad
+	url = .
 [submodule "wr/yc/sxp"]
 	path = wr/yc/sxp
 	url = .
