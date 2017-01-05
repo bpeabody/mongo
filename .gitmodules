@@ -12397,6 +12397,9 @@
 [submodule "nx/qt/itx"]
 	path = nx/qt/itx
 	url = .
+[submodule "nx/tc/aws"]
+	path = nx/tc/aws
+	url = .
 [submodule "nx/tz/dir"]
 	path = nx/tz/dir
 	url = .
