@@ -20317,6 +20317,9 @@
 [submodule "jo/sk/cbn"]
 	path = jo/sk/cbn
 	url = .
+[submodule "jo/sv/nps"]
+	path = jo/sv/nps
+	url = .
 [submodule "jo/te/wan"]
 	path = jo/te/wan
 	url = .
