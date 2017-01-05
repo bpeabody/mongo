@@ -44899,6 +44899,9 @@
 [submodule "xt/kh/yar"]
 	path = xt/kh/yar
 	url = .
+[submodule "xt/lc/ipe"]
+	path = xt/lc/ipe
+	url = .
 [submodule "xt/lc/mnz"]
 	path = xt/lc/mnz
 	url = .
