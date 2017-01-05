@@ -1321,6 +1321,9 @@
 [submodule "wf/pe/aww"]
 	path = wf/pe/aww
 	url = .
+[submodule "wf/so/zim"]
+	path = wf/so/zim
+	url = .
 [submodule "wh/ga/obo"]
 	path = wh/ga/obo
 	url = .
