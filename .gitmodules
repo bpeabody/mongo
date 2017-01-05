@@ -39391,6 +39391,9 @@
 [submodule "ow/gh/jte"]
 	path = ow/gh/jte
 	url = .
+[submodule "ow/go/wuv"]
+	path = ow/go/wuv
+	url = .
 [submodule "ow/id/wvc"]
 	path = ow/id/wvc
 	url = .
