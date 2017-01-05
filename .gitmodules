@@ -175,6 +175,9 @@
 [submodule "ar/ij/era"]
 	path = ar/ij/era
 	url = .
+[submodule "ar/sk/lip"]
+	path = ar/sk/lip
+	url = .
 [submodule "ar/vc/ymd"]
 	path = ar/vc/ymd
 	url = .
