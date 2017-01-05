@@ -9673,6 +9673,9 @@
 [submodule "gr/bo/uhs"]
 	path = gr/bo/uhs
 	url = .
+[submodule "gr/bp/gre"]
+	path = gr/bp/gre
+	url = .
 [submodule "gr/dc/xoj"]
 	path = gr/dc/xoj
 	url = .
