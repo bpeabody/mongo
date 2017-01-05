@@ -4441,6 +4441,9 @@
 [submodule "hn/pj/qha"]
 	path = hn/pj/qha
 	url = .
+[submodule "hn/re/bja"]
+	path = hn/re/bja
+	url = .
 [submodule "hn/ut/eml"]
 	path = hn/ut/eml
 	url = .
