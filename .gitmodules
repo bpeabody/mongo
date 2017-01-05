@@ -16333,6 +16333,9 @@
 [submodule "hf/hq/xbh"]
 	path = hf/hq/xbh
 	url = .
+[submodule "hf/hv/kuc"]
+	path = hf/hv/kuc
+	url = .
 [submodule "hf/ja/bui"]
 	path = hf/ja/bui
 	url = .
