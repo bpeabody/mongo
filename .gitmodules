@@ -6745,6 +6745,9 @@
 [submodule "jx/hc/onf"]
 	path = jx/hc/onf
 	url = .
+[submodule "jy/lo/tbs"]
+	path = jy/lo/tbs
+	url = .
 [submodule "jy/nz/dlk"]
 	path = jy/nz/dlk
 	url = .
