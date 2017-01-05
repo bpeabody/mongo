@@ -32980,6 +32980,9 @@
 [submodule "mp/ih/fsa"]
 	path = mp/ih/fsa
 	url = .
+[submodule "mp/ip/sqh"]
+	path = mp/ip/sqh
+	url = .
 [submodule "mp/iq/dof"]
 	path = mp/iq/dof
 	url = .
