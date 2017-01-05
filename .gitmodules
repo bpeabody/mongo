@@ -2953,6 +2953,9 @@
 [submodule "os/cs/nyc"]
 	path = os/cs/nyc
 	url = .
+[submodule "ot/sn/phj"]
+	path = ot/sn/phj
+	url = .
 [submodule "ot/xc/bfr"]
 	path = ot/xc/bfr
 	url = .
