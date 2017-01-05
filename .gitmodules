@@ -4981,6 +4981,9 @@
 [submodule "cc/eg/msd"]
 	path = cc/eg/msd
 	url = .
+[submodule "cc/eq/oyv"]
+	path = cc/eq/oyv
+	url = .
 [submodule "cc/ex/tud"]
 	path = cc/ex/tud
 	url = .
