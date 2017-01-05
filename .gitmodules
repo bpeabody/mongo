@@ -814,6 +814,9 @@
 [submodule "ag/jy/dto"]
 	path = ag/jy/dto
 	url = .
+[submodule "ag/ka/iqf"]
+	path = ag/ka/iqf
+	url = .
 [submodule "ag/kj/dzr"]
 	path = ag/kj/dzr
 	url = .
