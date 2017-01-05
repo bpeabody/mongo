@@ -12325,6 +12325,9 @@
 [submodule "mt/wu/cfa"]
 	path = mt/wu/cfa
 	url = .
+[submodule "mt/xc/lsi"]
+	path = mt/xc/lsi
+	url = .
 [submodule "mt/ye/lhe"]
 	path = mt/ye/lhe
 	url = .
