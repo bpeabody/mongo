@@ -23251,6 +23251,9 @@
 [submodule "sl/bc/lnc"]
 	path = sl/bc/lnc
 	url = .
+[submodule "sl/be/dym"]
+	path = sl/be/dym
+	url = .
 [submodule "sl/de/lcq"]
 	path = sl/de/lcq
 	url = .
