@@ -3670,6 +3670,9 @@
 [submodule "eu/zb/jpf"]
 	path = eu/zb/jpf
 	url = .
+[submodule "ev/ce/cys"]
+	path = ev/ce/cys
+	url = .
 [submodule "ev/co/nst"]
 	path = ev/co/nst
 	url = .
