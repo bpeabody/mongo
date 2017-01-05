@@ -24652,6 +24652,9 @@
 [submodule "jw/ql/tdy"]
 	path = jw/ql/tdy
 	url = .
+[submodule "jw/qq/hay"]
+	path = jw/qq/hay
+	url = .
 [submodule "jw/rb/jrj"]
 	path = jw/rb/jrj
 	url = .
