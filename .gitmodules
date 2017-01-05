@@ -17959,6 +17959,9 @@
 [submodule "mh/xi/skw"]
 	path = mh/xi/skw
 	url = .
+[submodule "mh/xs/eeg"]
+	path = mh/xs/eeg
+	url = .
 [submodule "mh/yd/iwx"]
 	path = mh/yd/iwx
 	url = .
