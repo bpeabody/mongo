@@ -202,6 +202,9 @@
 [submodule "ab/tp/iho"]
 	path = ab/tp/iho
 	url = .
+[submodule "ab/vb/awf"]
+	path = ab/vb/awf
+	url = .
 [submodule "ab/vh/pgv"]
 	path = ab/vh/pgv
 	url = .
