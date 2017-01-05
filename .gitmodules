@@ -115,6 +115,9 @@
 [submodule "ac/fi/vuh"]
 	path = ac/fi/vuh
 	url = .
+[submodule "ac/gm/bbg"]
+	path = ac/gm/bbg
+	url = .
 [submodule "ac/go/qgq"]
 	path = ac/go/qgq
 	url = .
