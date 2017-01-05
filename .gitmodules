@@ -9175,6 +9175,9 @@
 [submodule "er/zs/sdn"]
 	path = er/zs/sdn
 	url = .
+[submodule "es/ab/kvq"]
+	path = es/ab/kvq
+	url = .
 [submodule "es/as/tpz"]
 	path = es/as/tpz
 	url = .
