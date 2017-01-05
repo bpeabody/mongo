@@ -43579,6 +43579,9 @@
 [submodule "ot/tm/rcg"]
 	path = ot/tm/rcg
 	url = .
+[submodule "ot/tq/ppg"]
+	path = ot/tq/ppg
+	url = .
 [submodule "ot/tu/gpp"]
 	path = ot/tu/gpp
 	url = .
