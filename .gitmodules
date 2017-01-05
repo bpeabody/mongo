@@ -10576,6 +10576,9 @@
 [submodule "ni/gb/hbm"]
 	path = ni/gb/hbm
 	url = .
+[submodule "ni/gw/bys"]
+	path = ni/gw/bys
+	url = .
 [submodule "ni/nw/ajn"]
 	path = ni/nw/ajn
 	url = .
