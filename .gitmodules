@@ -67849,6 +67849,9 @@
 [submodule "yb/sg/vyw"]
 	path = yb/sg/vyw
 	url = .
+[submodule "yb/sy/noa"]
+	path = yb/sy/noa
+	url = .
 [submodule "yb/sy/tbv"]
 	path = yb/sy/tbv
 	url = .
