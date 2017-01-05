@@ -12991,6 +12991,9 @@
 [submodule "fo/ln/sfd"]
 	path = fo/ln/sfd
 	url = .
+[submodule "fo/og/vlu"]
+	path = fo/og/vlu
+	url = .
 [submodule "fo/om/jxa"]
 	path = fo/om/jxa
 	url = .
