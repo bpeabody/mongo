@@ -24688,6 +24688,9 @@
 [submodule "qx/iv/ewm"]
 	path = qx/iv/ewm
 	url = .
+[submodule "qx/mi/hbt"]
+	path = qx/mi/hbt
+	url = .
 [submodule "qx/ok/tmv"]
 	path = qx/ok/tmv
 	url = .
