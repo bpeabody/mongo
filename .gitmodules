@@ -5392,6 +5392,9 @@
 [submodule "ce/xh/mxb"]
 	path = ce/xh/mxb
 	url = .
+[submodule "cf/ai/mrx"]
+	path = cf/ai/mrx
+	url = .
 [submodule "cf/av/siw"]
 	path = cf/av/siw
 	url = .
