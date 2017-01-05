@@ -30610,6 +30610,9 @@
 [submodule "qb/yz/alg"]
 	path = qb/yz/alg
 	url = .
+[submodule "qb/zq/eak"]
+	path = qb/zq/eak
+	url = .
 [submodule "qb/zx/rwv"]
 	path = qb/zx/rwv
 	url = .
