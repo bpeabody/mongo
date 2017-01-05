@@ -2542,6 +2542,9 @@
 [submodule "gp/fb/vdy"]
 	path = gp/fb/vdy
 	url = .
+[submodule "gp/hh/lox"]
+	path = gp/hh/lox
+	url = .
 [submodule "gp/mr/mji"]
 	path = gp/mr/mji
 	url = .
