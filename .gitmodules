@@ -37411,6 +37411,9 @@
 [submodule "pa/sm/qwk"]
 	path = pa/sm/qwk
 	url = .
+[submodule "pa/sw/yqx"]
+	path = pa/sw/yqx
+	url = .
 [submodule "pa/uy/poi"]
 	path = pa/uy/poi
 	url = .
