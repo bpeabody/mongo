@@ -523,6 +523,9 @@
 [submodule "jt/xz/hfr"]
 	path = jt/xz/hfr
 	url = .
+[submodule "ju/xi/lkg"]
+	path = ju/xi/lkg
+	url = .
 [submodule "jw/vs/xin"]
 	path = jw/vs/xin
 	url = .
