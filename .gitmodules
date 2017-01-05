@@ -9022,6 +9022,9 @@
 [submodule "ng/sn/ass"]
 	path = ng/sn/ass
 	url = .
+[submodule "ng/uk/gaf"]
+	path = ng/uk/gaf
+	url = .
 [submodule "ng/wz/pzc"]
 	path = ng/wz/pzc
 	url = .
