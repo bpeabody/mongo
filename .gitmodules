@@ -31213,6 +31213,9 @@
 [submodule "vm/xp/adc"]
 	path = vm/xp/adc
 	url = .
+[submodule "vm/xv/lgf"]
+	path = vm/xv/lgf
+	url = .
 [submodule "vn/gd/jss"]
 	path = vn/gd/jss
 	url = .
