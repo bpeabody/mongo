@@ -45955,6 +45955,9 @@
 [submodule "wm/vh/wfb"]
 	path = wm/vh/wfb
 	url = .
+[submodule "wm/wb/gxi"]
+	path = wm/wb/gxi
+	url = .
 [submodule "wm/xu/zug"]
 	path = wm/xu/zug
 	url = .
