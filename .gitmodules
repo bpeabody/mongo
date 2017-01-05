@@ -6931,6 +6931,9 @@
 [submodule "ed/xk/iku"]
 	path = ed/xk/iku
 	url = .
+[submodule "ed/yw/rxt"]
+	path = ed/yw/rxt
+	url = .
 [submodule "ed/yx/xqc"]
 	path = ed/yx/xqc
 	url = .
