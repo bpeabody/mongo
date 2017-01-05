@@ -250,6 +250,9 @@
 [submodule "ao/qf/zsv"]
 	path = ao/qf/zsv
 	url = .
+[submodule "ao/qg/moo"]
+	path = ao/qg/moo
+	url = .
 [submodule "ao/tn/caf"]
 	path = ao/tn/caf
 	url = .
