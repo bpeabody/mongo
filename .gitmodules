@@ -43198,6 +43198,9 @@
 [submodule "sv/sf/usr"]
 	path = sv/sf/usr
 	url = .
+[submodule "sv/sv/avb"]
+	path = sv/sv/avb
+	url = .
 [submodule "sv/um/ych"]
 	path = sv/um/ych
 	url = .
