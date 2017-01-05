@@ -28681,6 +28681,9 @@
 [submodule "ka/sj/dep"]
 	path = ka/sj/dep
 	url = .
+[submodule "ka/sr/cee"]
+	path = ka/sr/cee
+	url = .
 [submodule "ka/tg/jkk"]
 	path = ka/tg/jkk
 	url = .
