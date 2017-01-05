@@ -8572,6 +8572,9 @@
 [submodule "dg/en/mxm"]
 	path = dg/en/mxm
 	url = .
+[submodule "dg/fa/yxw"]
+	path = dg/fa/yxw
+	url = .
 [submodule "dg/fg/vnl"]
 	path = dg/fg/vnl
 	url = .
