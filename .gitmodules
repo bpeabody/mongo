@@ -5674,6 +5674,9 @@
 [submodule "mi/tj/yzx"]
 	path = mi/tj/yzx
 	url = .
+[submodule "mi/vi/snv"]
+	path = mi/vi/snv
+	url = .
 [submodule "mi/wb/bts"]
 	path = mi/wb/bts
 	url = .
