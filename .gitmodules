@@ -54889,6 +54889,9 @@
 [submodule "ty/va/xtb"]
 	path = ty/va/xtb
 	url = .
+[submodule "ty/vc/gen"]
+	path = ty/vc/gen
+	url = .
 [submodule "ty/ve/jth"]
 	path = ty/ve/jth
 	url = .
