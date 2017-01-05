@@ -29980,6 +29980,9 @@
 [submodule "sf/uo/trn"]
 	path = sf/uo/trn
 	url = .
+[submodule "sf/xs/tez"]
+	path = sf/xs/tez
+	url = .
 [submodule "sf/xv/mdj"]
 	path = sf/xv/mdj
 	url = .
