@@ -17449,6 +17449,9 @@
 [submodule "ng/fx/zvd"]
 	path = ng/fx/zvd
 	url = .
+[submodule "ng/hs/bne"]
+	path = ng/hs/bne
+	url = .
 [submodule "ng/hz/sdd"]
 	path = ng/hz/sdd
 	url = .
