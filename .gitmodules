@@ -7285,6 +7285,9 @@
 [submodule "em/em/mwa"]
 	path = em/em/mwa
 	url = .
+[submodule "em/er/lzr"]
+	path = em/er/lzr
+	url = .
 [submodule "em/fj/fko"]
 	path = em/fj/fko
 	url = .
