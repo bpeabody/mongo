@@ -4258,6 +4258,9 @@
 [submodule "rk/fc/smz"]
 	path = rk/fc/smz
 	url = .
+[submodule "rk/fm/kiz"]
+	path = rk/fm/kiz
+	url = .
 [submodule "rk/hi/qlb"]
 	path = rk/hi/qlb
 	url = .
