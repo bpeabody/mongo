@@ -24229,6 +24229,9 @@
 [submodule "mm/hi/mdl"]
 	path = mm/hi/mdl
 	url = .
+[submodule "mm/hm/umw"]
+	path = mm/hm/umw
+	url = .
 [submodule "mm/jl/dfe"]
 	path = mm/jl/dfe
 	url = .
