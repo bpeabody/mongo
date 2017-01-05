@@ -10081,6 +10081,9 @@
 [submodule "tk/wh/hus"]
 	path = tk/wh/hus
 	url = .
+[submodule "tk/wn/xor"]
+	path = tk/wn/xor
+	url = .
 [submodule "tk/wv/rzb"]
 	path = tk/wv/rzb
 	url = .
