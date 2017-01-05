@@ -8653,6 +8653,9 @@
 [submodule "dc/qm/qwj"]
 	path = dc/qm/qwj
 	url = .
+[submodule "dc/qm/vak"]
+	path = dc/qm/vak
+	url = .
 [submodule "dc/qz/vyk"]
 	path = dc/qz/vyk
 	url = .
