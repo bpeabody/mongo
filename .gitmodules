@@ -3403,6 +3403,9 @@
 [submodule "ha/xt/ypw"]
 	path = ha/xt/ypw
 	url = .
+[submodule "hb/co/cbv"]
+	path = hb/co/cbv
+	url = .
 [submodule "hb/eg/ksr"]
 	path = hb/eg/ksr
 	url = .
