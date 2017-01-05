@@ -14971,6 +14971,9 @@
 [submodule "ki/hx/keg"]
 	path = ki/hx/keg
 	url = .
+[submodule "ki/it/zkm"]
+	path = ki/it/zkm
+	url = .
 [submodule "ki/kj/urg"]
 	path = ki/kj/urg
 	url = .
