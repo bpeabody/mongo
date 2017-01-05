@@ -47659,6 +47659,9 @@
 [submodule "xv/sb/khf"]
 	path = xv/sb/khf
 	url = .
+[submodule "xv/sm/aee"]
+	path = xv/sm/aee
+	url = .
 [submodule "xv/ud/gqt"]
 	path = xv/ud/gqt
 	url = .
