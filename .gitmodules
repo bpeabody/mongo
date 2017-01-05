@@ -7576,6 +7576,9 @@
 [submodule "ij/nj/mue"]
 	path = ij/nj/mue
 	url = .
+[submodule "ij/ov/xob"]
+	path = ij/ov/xob
+	url = .
 [submodule "ij/pc/baa"]
 	path = ij/pc/baa
 	url = .
