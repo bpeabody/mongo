@@ -2329,6 +2329,9 @@
 [submodule "lt/iv/wyq"]
 	path = lt/iv/wyq
 	url = .
+[submodule "lt/ps/spp"]
+	path = lt/ps/spp
+	url = .
 [submodule "lv/ja/art"]
 	path = lv/ja/art
 	url = .
