@@ -19159,6 +19159,9 @@
 [submodule "jn/is/tad"]
 	path = jn/is/tad
 	url = .
+[submodule "jn/iz/gdk"]
+	path = jn/iz/gdk
+	url = .
 [submodule "jn/kl/dho"]
 	path = jn/kl/dho
 	url = .
