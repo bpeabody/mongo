@@ -9370,6 +9370,9 @@
 [submodule "ws/xt/rpc"]
 	path = ws/xt/rpc
 	url = .
+[submodule "wt/cg/ger"]
+	path = wt/cg/ger
+	url = .
 [submodule "wt/cw/eeb"]
 	path = wt/cw/eeb
 	url = .
