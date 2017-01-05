@@ -5773,6 +5773,9 @@
 [submodule "gq/fo/eic"]
 	path = gq/fo/eic
 	url = .
+[submodule "gq/ft/guv"]
+	path = gq/ft/guv
+	url = .
 [submodule "gq/jw/mhv"]
 	path = gq/jw/mhv
 	url = .
