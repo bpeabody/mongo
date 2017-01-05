@@ -7030,6 +7030,9 @@
 [submodule "cy/qx/box"]
 	path = cy/qx/box
 	url = .
+[submodule "cy/rb/cdp"]
+	path = cy/rb/cdp
+	url = .
 [submodule "cy/rc/rvs"]
 	path = cy/rc/rvs
 	url = .
