@@ -40024,6 +40024,9 @@
 [submodule "sy/mr/scd"]
 	path = sy/mr/scd
 	url = .
+[submodule "sy/ny/cbs"]
+	path = sy/ny/cbs
+	url = .
 [submodule "sy/oq/lny"]
 	path = sy/oq/lny
 	url = .
