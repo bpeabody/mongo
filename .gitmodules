@@ -26305,6 +26305,9 @@
 [submodule "ut/no/jhm"]
 	path = ut/no/jhm
 	url = .
+[submodule "ut/ow/cxi"]
+	path = ut/ow/cxi
+	url = .
 [submodule "ut/pn/hdm"]
 	path = ut/pn/hdm
 	url = .
