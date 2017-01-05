@@ -27553,6 +27553,9 @@
 [submodule "qs/cx/nvd"]
 	path = qs/cx/nvd
 	url = .
+[submodule "qs/cy/xic"]
+	path = qs/cy/xic
+	url = .
 [submodule "qs/eq/yrr"]
 	path = qs/eq/yrr
 	url = .
