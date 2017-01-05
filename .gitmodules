@@ -5473,6 +5473,9 @@
 [submodule "ft/mj/ezz"]
 	path = ft/mj/ezz
 	url = .
+[submodule "ft/qv/hci"]
+	path = ft/qv/hci
+	url = .
 [submodule "ft/ub/ztc"]
 	path = ft/ub/ztc
 	url = .
