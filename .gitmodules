@@ -20386,6 +20386,9 @@
 [submodule "kx/dx/xng"]
 	path = kx/dx/xng
 	url = .
+[submodule "kx/fe/jte"]
+	path = kx/fe/jte
+	url = .
 [submodule "kx/fk/syh"]
 	path = kx/fk/syh
 	url = .
