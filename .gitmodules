@@ -8107,6 +8107,9 @@
 [submodule "hy/pe/psp"]
 	path = hy/pe/psp
 	url = .
+[submodule "hy/ps/eub"]
+	path = hy/ps/eub
+	url = .
 [submodule "hy/qj/fia"]
 	path = hy/qj/fia
 	url = .
