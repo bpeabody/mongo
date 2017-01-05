@@ -24472,6 +24472,9 @@
 [submodule "mg/vm/mej"]
 	path = mg/vm/mej
 	url = .
+[submodule "mg/wo/qpd"]
+	path = mg/wo/qpd
+	url = .
 [submodule "mg/xp/cic"]
 	path = mg/xp/cic
 	url = .
