@@ -103,6 +103,9 @@
 [submodule "cp/se/xsv"]
 	path = cp/se/xsv
 	url = .
+[submodule "cr/ai/pmf"]
+	path = cr/ai/pmf
+	url = .
 [submodule "cr/me/kja"]
 	path = cr/me/kja
 	url = .
