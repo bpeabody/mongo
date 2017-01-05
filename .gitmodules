@@ -19360,6 +19360,9 @@
 [submodule "tt/rj/yjf"]
 	path = tt/rj/yjf
 	url = .
+[submodule "tt/sg/lpj"]
+	path = tt/sg/lpj
+	url = .
 [submodule "tt/wd/dgu"]
 	path = tt/wd/dgu
 	url = .
