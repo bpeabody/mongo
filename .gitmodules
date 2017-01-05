@@ -10228,6 +10228,9 @@
 [submodule "js/jz/siv"]
 	path = js/jz/siv
 	url = .
+[submodule "js/kp/tow"]
+	path = js/kp/tow
+	url = .
 [submodule "js/kr/dut"]
 	path = js/kr/dut
 	url = .
