@@ -48445,6 +48445,9 @@
 [submodule "sg/sw/fgt"]
 	path = sg/sw/fgt
 	url = .
+[submodule "sg/tl/kcx"]
+	path = sg/tl/kcx
+	url = .
 [submodule "sg/tx/nxv"]
 	path = sg/tx/nxv
 	url = .
