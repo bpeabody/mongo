@@ -8419,6 +8419,9 @@
 [submodule "cw/jw/aeh"]
 	path = cw/jw/aeh
 	url = .
+[submodule "cw/kg/mcc"]
+	path = cw/kg/mcc
+	url = .
 [submodule "cw/ki/zyb"]
 	path = cw/ki/zyb
 	url = .
