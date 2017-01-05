@@ -37060,6 +37060,9 @@
 [submodule "yq/hq/fvd"]
 	path = yq/hq/fvd
 	url = .
+[submodule "yq/hs/wga"]
+	path = yq/hs/wga
+	url = .
 [submodule "yq/ix/tdc"]
 	path = yq/ix/tdc
 	url = .
