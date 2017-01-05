@@ -8722,6 +8722,9 @@
 [submodule "vx/qr/pxd"]
 	path = vx/qr/pxd
 	url = .
+[submodule "vx/sj/gqk"]
+	path = vx/sj/gqk
+	url = .
 [submodule "vy/ez/zec"]
 	path = vy/ez/zec
 	url = .
