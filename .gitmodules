@@ -892,6 +892,9 @@
 [submodule "ar/wn/eex"]
 	path = ar/wn/eex
 	url = .
+[submodule "ar/wo/mhx"]
+	path = ar/wo/mhx
+	url = .
 [submodule "ar/xd/aqq"]
 	path = ar/xd/aqq
 	url = .
