@@ -9856,6 +9856,9 @@
 [submodule "de/pc/aac"]
 	path = de/pc/aac
 	url = .
+[submodule "de/pj/gyk"]
+	path = de/pj/gyk
+	url = .
 [submodule "de/sc/tvc"]
 	path = de/sc/tvc
 	url = .
