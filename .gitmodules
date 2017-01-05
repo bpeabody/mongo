@@ -2329,6 +2329,9 @@
 [submodule "bf/xx/txy"]
 	path = bf/xx/txy
 	url = .
+[submodule "bf/yf/brv"]
+	path = bf/yf/brv
+	url = .
 [submodule "bf/yn/bva"]
 	path = bf/yn/bva
 	url = .
