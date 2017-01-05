@@ -26824,6 +26824,9 @@
 [submodule "wn/nw/xkv"]
 	path = wn/nw/xkv
 	url = .
+[submodule "wn/qg/cxx"]
+	path = wn/qg/cxx
+	url = .
 [submodule "wn/sp/iaf"]
 	path = wn/sp/iaf
 	url = .
