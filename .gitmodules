@@ -10432,6 +10432,9 @@
 [submodule "rc/vf/xgg"]
 	path = rc/vf/xgg
 	url = .
+[submodule "rc/xc/thu"]
+	path = rc/xc/thu
+	url = .
 [submodule "rc/xx/axj"]
 	path = rc/xx/axj
 	url = .
