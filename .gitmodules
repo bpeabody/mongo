@@ -42982,6 +42982,9 @@
 [submodule "qr/df/iap"]
 	path = qr/df/iap
 	url = .
+[submodule "qr/dn/hmb"]
+	path = qr/dn/hmb
+	url = .
 [submodule "qr/fh/qqc"]
 	path = qr/fh/qqc
 	url = .
