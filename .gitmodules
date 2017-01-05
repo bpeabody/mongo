@@ -3997,6 +3997,9 @@
 [submodule "dr/ad/bei"]
 	path = dr/ad/bei
 	url = .
+[submodule "dr/af/sdf"]
+	path = dr/af/sdf
+	url = .
 [submodule "dr/ao/csn"]
 	path = dr/ao/csn
 	url = .
