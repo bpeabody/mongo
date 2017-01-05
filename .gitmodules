@@ -12757,6 +12757,9 @@
 [submodule "fw/sf/ipq"]
 	path = fw/sf/ipq
 	url = .
+[submodule "fw/sp/rhb"]
+	path = fw/sp/rhb
+	url = .
 [submodule "fw/tq/hnm"]
 	path = fw/tq/hnm
 	url = .
