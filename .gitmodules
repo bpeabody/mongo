@@ -8236,6 +8236,9 @@
 [submodule "fx/ib/cwb"]
 	path = fx/ib/cwb
 	url = .
+[submodule "fx/id/vrr"]
+	path = fx/id/vrr
+	url = .
 [submodule "fx/jg/usj"]
 	path = fx/jg/usj
 	url = .
