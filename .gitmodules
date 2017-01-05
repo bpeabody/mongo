@@ -376,6 +376,9 @@
 [submodule "qe/nj/vti"]
 	path = qe/nj/vti
 	url = .
+[submodule "qs/in/sgf"]
+	path = qs/in/sgf
+	url = .
 [submodule "qt/fl/esd"]
 	path = qt/fl/esd
 	url = .
