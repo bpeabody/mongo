@@ -10189,6 +10189,9 @@
 [submodule "ql/pq/nvy"]
 	path = ql/pq/nvy
 	url = .
+[submodule "ql/sz/ust"]
+	path = ql/sz/ust
+	url = .
 [submodule "ql/tq/jeo"]
 	path = ql/tq/jeo
 	url = .
