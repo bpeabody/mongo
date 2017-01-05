@@ -5398,6 +5398,9 @@
 [submodule "ci/ue/jjx"]
 	path = ci/ue/jjx
 	url = .
+[submodule "ci/vl/wtm"]
+	path = ci/vl/wtm
+	url = .
 [submodule "ci/vm/jyt"]
 	path = ci/vm/jyt
 	url = .
