@@ -2140,6 +2140,9 @@
 [submodule "cf/zx/uaj"]
 	path = cf/zx/uaj
 	url = .
+[submodule "cg/aw/hyc"]
+	path = cg/aw/hyc
+	url = .
 [submodule "cg/dd/ytz"]
 	path = cg/dd/ytz
 	url = .
