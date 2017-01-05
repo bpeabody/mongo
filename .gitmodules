@@ -7822,6 +7822,9 @@
 [submodule "kv/wq/msi"]
 	path = kv/wq/msi
 	url = .
+[submodule "kw/bm/yjg"]
+	path = kw/bm/yjg
+	url = .
 [submodule "kw/dh/tnh"]
 	path = kw/dh/tnh
 	url = .
