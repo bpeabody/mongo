@@ -1573,6 +1573,9 @@
 [submodule "br/bz/nfg"]
 	path = br/bz/nfg
 	url = .
+[submodule "br/ey/ots"]
+	path = br/ey/ots
+	url = .
 [submodule "br/fo/rmv"]
 	path = br/fo/rmv
 	url = .
