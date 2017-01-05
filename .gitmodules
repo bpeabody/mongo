@@ -1660,6 +1660,9 @@
 [submodule "ua/bh/tmn"]
 	path = ua/bh/tmn
 	url = .
+[submodule "uc/nt/vpp"]
+	path = uc/nt/vpp
+	url = .
 [submodule "ue/qp/iht"]
 	path = ue/qp/iht
 	url = .
