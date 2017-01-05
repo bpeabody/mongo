@@ -15172,6 +15172,9 @@
 [submodule "sy/ce/hfj"]
 	path = sy/ce/hfj
 	url = .
+[submodule "sy/fj/ryo"]
+	path = sy/fj/ryo
+	url = .
 [submodule "sy/hl/xnz"]
 	path = sy/hl/xnz
 	url = .
