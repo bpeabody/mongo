@@ -1654,6 +1654,9 @@
 [submodule "dg/dn/ixg"]
 	path = dg/dn/ixg
 	url = .
+[submodule "dg/in/ups"]
+	path = dg/in/ups
+	url = .
 [submodule "dg/je/noh"]
 	path = dg/je/noh
 	url = .
