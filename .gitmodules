@@ -955,6 +955,9 @@
 [submodule "jr/ci/xvx"]
 	path = jr/ci/xvx
 	url = .
+[submodule "jr/yh/uka"]
+	path = jr/yh/uka
+	url = .
 [submodule "js/pc/iks"]
 	path = js/pc/iks
 	url = .
