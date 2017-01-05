@@ -1195,6 +1195,9 @@
 [submodule "pt/kl/uvu"]
 	path = pt/kl/uvu
 	url = .
+[submodule "pt/vs/goo"]
+	path = pt/vs/goo
+	url = .
 [submodule "pu/bb/hdk"]
 	path = pu/bb/hdk
 	url = .
