@@ -19186,6 +19186,9 @@
 [submodule "ul/dm/fsl"]
 	path = ul/dm/fsl
 	url = .
+[submodule "ul/fc/mcg"]
+	path = ul/fc/mcg
+	url = .
 [submodule "ul/fz/ivu"]
 	path = ul/fz/ivu
 	url = .
