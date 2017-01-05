@@ -8731,6 +8731,9 @@
 [submodule "jo/vp/sni"]
 	path = jo/vp/sni
 	url = .
+[submodule "jo/wc/hfe"]
+	path = jo/wc/hfe
+	url = .
 [submodule "jo/wc/wgy"]
 	path = jo/wc/wgy
 	url = .
