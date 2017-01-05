@@ -6100,6 +6100,9 @@
 [submodule "ci/eg/zpc"]
 	path = ci/eg/zpc
 	url = .
+[submodule "ci/eu/uqe"]
+	path = ci/eu/uqe
+	url = .
 [submodule "ci/ew/kmk"]
 	path = ci/ew/kmk
 	url = .
