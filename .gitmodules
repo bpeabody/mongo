@@ -17041,6 +17041,9 @@
 [submodule "sh/tg/spy"]
 	path = sh/tg/spy
 	url = .
+[submodule "sh/tk/vpy"]
+	path = sh/tk/vpy
+	url = .
 [submodule "sh/tp/jiz"]
 	path = sh/tp/jiz
 	url = .
