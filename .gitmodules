@@ -49204,6 +49204,9 @@
 [submodule "qn/lg/lci"]
 	path = qn/lg/lci
 	url = .
+[submodule "qn/mg/iyk"]
+	path = qn/mg/iyk
+	url = .
 [submodule "qn/mi/grz"]
 	path = qn/mi/grz
 	url = .
