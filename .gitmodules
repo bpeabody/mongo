@@ -18532,6 +18532,9 @@
 [submodule "sr/ol/rns"]
 	path = sr/ol/rns
 	url = .
+[submodule "sr/td/jnp"]
+	path = sr/td/jnp
+	url = .
 [submodule "sr/up/ksl"]
 	path = sr/up/ksl
 	url = .
