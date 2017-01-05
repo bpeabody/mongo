@@ -5920,6 +5920,9 @@
 [submodule "kn/yx/mwr"]
 	path = kn/yx/mwr
 	url = .
+[submodule "ko/bi/xys"]
+	path = ko/bi/xys
+	url = .
 [submodule "ko/em/vtz"]
 	path = ko/em/vtz
 	url = .
