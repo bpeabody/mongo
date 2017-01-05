@@ -5692,6 +5692,9 @@
 [submodule "cg/ww/sri"]
 	path = cg/ww/sri
 	url = .
+[submodule "cg/xq/oku"]
+	path = cg/xq/oku
+	url = .
 [submodule "cg/ze/hsp"]
 	path = cg/ze/hsp
 	url = .
