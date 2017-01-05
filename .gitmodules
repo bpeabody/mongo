@@ -24460,6 +24460,9 @@
 [submodule "kc/wa/sco"]
 	path = kc/wa/sco
 	url = .
+[submodule "kc/wi/cgr"]
+	path = kc/wi/cgr
+	url = .
 [submodule "kc/wj/lfo"]
 	path = kc/wj/lfo
 	url = .
