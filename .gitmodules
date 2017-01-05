@@ -15658,6 +15658,9 @@
 [submodule "js/gk/nvf"]
 	path = js/gk/nvf
 	url = .
+[submodule "js/gl/qdp"]
+	path = js/gl/qdp
+	url = .
 [submodule "js/gr/zpq"]
 	path = js/gr/zpq
 	url = .
