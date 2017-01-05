@@ -7642,6 +7642,9 @@
 [submodule "cy/rc/rvs"]
 	path = cy/rc/rvs
 	url = .
+[submodule "cy/ro/zkb"]
+	path = cy/ro/zkb
+	url = .
 [submodule "cy/rw/czf"]
 	path = cy/rw/czf
 	url = .
