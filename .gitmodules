@@ -23242,6 +23242,9 @@
 [submodule "ns/ws/rci"]
 	path = ns/ws/rci
 	url = .
+[submodule "ns/wx/mfg"]
+	path = ns/wx/mfg
+	url = .
 [submodule "ns/xq/iko"]
 	path = ns/xq/iko
 	url = .
