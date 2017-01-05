@@ -31513,6 +31513,9 @@
 [submodule "nh/dy/wga"]
 	path = nh/dy/wga
 	url = .
+[submodule "nh/ed/hku"]
+	path = nh/ed/hku
+	url = .
 [submodule "nh/ev/ity"]
 	path = nh/ev/ity
 	url = .
