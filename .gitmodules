@@ -10957,6 +10957,9 @@
 [submodule "hn/bz/afw"]
 	path = hn/bz/afw
 	url = .
+[submodule "hn/dk/niw"]
+	path = hn/dk/niw
+	url = .
 [submodule "hn/es/hhq"]
 	path = hn/es/hhq
 	url = .
