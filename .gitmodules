@@ -16927,6 +16927,9 @@
 [submodule "hl/gk/fkp"]
 	path = hl/gk/fkp
 	url = .
+[submodule "hl/ik/jnf"]
+	path = hl/ik/jnf
+	url = .
 [submodule "hl/ir/bfs"]
 	path = hl/ir/bfs
 	url = .
