@@ -976,6 +976,9 @@
 [submodule "cz/fr/tlp"]
 	path = cz/fr/tlp
 	url = .
+[submodule "cz/ku/nbl"]
+	path = cz/ku/nbl
+	url = .
 [submodule "cz/xb/sai"]
 	path = cz/xb/sai
 	url = .
