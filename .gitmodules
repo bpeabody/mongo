@@ -3340,6 +3340,9 @@
 [submodule "fs/bj/zmw"]
 	path = fs/bj/zmw
 	url = .
+[submodule "fs/ec/vbq"]
+	path = fs/ec/vbq
+	url = .
 [submodule "fs/ht/owt"]
 	path = fs/ht/owt
 	url = .
