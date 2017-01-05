@@ -1384,6 +1384,9 @@
 [submodule "mq/lw/jau"]
 	path = mq/lw/jau
 	url = .
+[submodule "mq/yz/dzb"]
+	path = mq/yz/dzb
+	url = .
 [submodule "mr/bi/wkw"]
 	path = mr/bi/wkw
 	url = .
