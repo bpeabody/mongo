@@ -5032,6 +5032,9 @@
 [submodule "qb/ub/tou"]
 	path = qb/ub/tou
 	url = .
+[submodule "qc/br/lje"]
+	path = qc/br/lje
+	url = .
 [submodule "qc/ii/ngz"]
 	path = qc/ii/ngz
 	url = .
