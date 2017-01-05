@@ -22174,6 +22174,9 @@
 [submodule "it/ur/aoe"]
 	path = it/ur/aoe
 	url = .
+[submodule "it/ve/bsh"]
+	path = it/ve/bsh
+	url = .
 [submodule "it/vf/ptp"]
 	path = it/vf/ptp
 	url = .
