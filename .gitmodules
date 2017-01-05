@@ -9784,6 +9784,9 @@
 [submodule "io/vk/eqf"]
 	path = io/vk/eqf
 	url = .
+[submodule "io/wz/ibg"]
+	path = io/wz/ibg
+	url = .
 [submodule "io/yt/zfb"]
 	path = io/yt/zfb
 	url = .
