@@ -3388,6 +3388,9 @@
 [submodule "co/eu/wdh"]
 	path = co/eu/wdh
 	url = .
+[submodule "co/gt/xyn"]
+	path = co/gt/xyn
+	url = .
 [submodule "co/gz/tri"]
 	path = co/gz/tri
 	url = .
