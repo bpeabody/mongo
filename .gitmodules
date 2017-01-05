@@ -21658,6 +21658,9 @@
 [submodule "mg/ns/cnq"]
 	path = mg/ns/cnq
 	url = .
+[submodule "mg/nu/dxd"]
+	path = mg/nu/dxd
+	url = .
 [submodule "mg/qs/pvi"]
 	path = mg/qs/pvi
 	url = .
