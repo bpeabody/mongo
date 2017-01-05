@@ -1960,6 +1960,9 @@
 [submodule "bh/qt/sjq"]
 	path = bh/qt/sjq
 	url = .
+[submodule "bh/qz/fmt"]
+	path = bh/qz/fmt
+	url = .
 [submodule "bh/rl/pjh"]
 	path = bh/rl/pjh
 	url = .
