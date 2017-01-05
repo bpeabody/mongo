@@ -529,6 +529,9 @@
 [submodule "af/hy/zrb"]
 	path = af/hy/zrb
 	url = .
+[submodule "af/iz/fbk"]
+	path = af/iz/fbk
+	url = .
 [submodule "af/ja/yfm"]
 	path = af/ja/yfm
 	url = .
