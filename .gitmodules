@@ -1339,6 +1339,9 @@
 [submodule "er/ih/nrk"]
 	path = er/ih/nrk
 	url = .
+[submodule "er/jm/ads"]
+	path = er/jm/ads
+	url = .
 [submodule "er/jn/znw"]
 	path = er/jn/znw
 	url = .
