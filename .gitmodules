@@ -901,6 +901,9 @@
 [submodule "lb/bx/eqm"]
 	path = lb/bx/eqm
 	url = .
+[submodule "lc/rh/gbx"]
+	path = lc/rh/gbx
+	url = .
 [submodule "ld/by/oxx"]
 	path = ld/by/oxx
 	url = .
