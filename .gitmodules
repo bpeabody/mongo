@@ -379,6 +379,9 @@
 [submodule "dx/uz/mhf"]
 	path = dx/uz/mhf
 	url = .
+[submodule "ea/id/tar"]
+	path = ea/id/tar
+	url = .
 [submodule "ea/lu/hnu"]
 	path = ea/lu/hnu
 	url = .
