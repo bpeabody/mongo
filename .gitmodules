@@ -13471,6 +13471,9 @@
 [submodule "nm/aq/arp"]
 	path = nm/aq/arp
 	url = .
+[submodule "nm/aw/xtt"]
+	path = nm/aw/xtt
+	url = .
 [submodule "nm/bk/vci"]
 	path = nm/bk/vci
 	url = .
