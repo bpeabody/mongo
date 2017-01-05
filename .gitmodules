@@ -21067,6 +21067,9 @@
 [submodule "tz/si/riv"]
 	path = tz/si/riv
 	url = .
+[submodule "tz/tk/cut"]
+	path = tz/tk/cut
+	url = .
 [submodule "tz/uf/uvv"]
 	path = tz/uf/uvv
 	url = .
