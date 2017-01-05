@@ -12340,6 +12340,9 @@
 [submodule "ia/sk/tej"]
 	path = ia/sk/tej
 	url = .
+[submodule "ia/wb/kyy"]
+	path = ia/wb/kyy
+	url = .
 [submodule "ib/cc/xzi"]
 	path = ib/cc/xzi
 	url = .
