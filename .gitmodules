@@ -5719,6 +5719,9 @@
 [submodule "of/vd/bhw"]
 	path = of/vd/bhw
 	url = .
+[submodule "og/lr/pdf"]
+	path = og/lr/pdf
+	url = .
 [submodule "og/ol/xsl"]
 	path = og/ol/xsl
 	url = .
