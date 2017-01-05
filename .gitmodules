@@ -10912,6 +10912,9 @@
 [submodule "io/zj/vjo"]
 	path = io/zj/vjo
 	url = .
+[submodule "ip/aj/hsp"]
+	path = ip/aj/hsp
+	url = .
 [submodule "ip/al/aal"]
 	path = ip/al/aal
 	url = .
