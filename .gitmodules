@@ -39388,6 +39388,9 @@
 [submodule "nb/vq/wkn"]
 	path = nb/vq/wkn
 	url = .
+[submodule "nb/wa/tyv"]
+	path = nb/wa/tyv
+	url = .
 [submodule "nb/wt/luf"]
 	path = nb/wt/luf
 	url = .
