@@ -3058,6 +3058,9 @@
 [submodule "ek/bh/rli"]
 	path = ek/bh/rli
 	url = .
+[submodule "ek/hj/dga"]
+	path = ek/hj/dga
+	url = .
 [submodule "ek/hu/cad"]
 	path = ek/hu/cad
 	url = .
