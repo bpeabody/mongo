@@ -50254,6 +50254,9 @@
 [submodule "yz/ft/bui"]
 	path = yz/ft/bui
 	url = .
+[submodule "yz/gg/yml"]
+	path = yz/gg/yml
+	url = .
 [submodule "yz/gr/sal"]
 	path = yz/gr/sal
 	url = .
