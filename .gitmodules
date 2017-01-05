@@ -17788,6 +17788,9 @@
 [submodule "hc/if/nls"]
 	path = hc/if/nls
 	url = .
+[submodule "hc/in/jbp"]
+	path = hc/in/jbp
+	url = .
 [submodule "hc/jc/kuk"]
 	path = hc/jc/kuk
 	url = .
