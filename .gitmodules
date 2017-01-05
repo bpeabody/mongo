@@ -994,6 +994,9 @@
 [submodule "wq/sk/yph"]
 	path = wq/sk/yph
 	url = .
+[submodule "wr/et/yux"]
+	path = wr/et/yux
+	url = .
 [submodule "wt/ma/sch"]
 	path = wt/ma/sch
 	url = .
