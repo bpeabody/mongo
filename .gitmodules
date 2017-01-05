@@ -7801,6 +7801,9 @@
 [submodule "iz/qc/sno"]
 	path = iz/qc/sno
 	url = .
+[submodule "iz/qn/jbx"]
+	path = iz/qn/jbx
+	url = .
 [submodule "iz/tj/kak"]
 	path = iz/tj/kak
 	url = .
