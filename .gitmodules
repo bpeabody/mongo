@@ -1243,6 +1243,9 @@
 [submodule "aw/ey/psz"]
 	path = aw/ey/psz
 	url = .
+[submodule "aw/fj/pck"]
+	path = aw/fj/pck
+	url = .
 [submodule "aw/fr/oia"]
 	path = aw/fr/oia
 	url = .
