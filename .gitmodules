@@ -8482,6 +8482,9 @@
 [submodule "oh/ih/fcp"]
 	path = oh/ih/fcp
 	url = .
+[submodule "oh/up/lgc"]
+	path = oh/up/lgc
+	url = .
 [submodule "oh/xb/ewi"]
 	path = oh/xb/ewi
 	url = .
