@@ -10843,6 +10843,9 @@
 [submodule "eo/hp/nfg"]
 	path = eo/hp/nfg
 	url = .
+[submodule "eo/hz/hdo"]
+	path = eo/hz/hdo
+	url = .
 [submodule "eo/ig/djo"]
 	path = eo/ig/djo
 	url = .
