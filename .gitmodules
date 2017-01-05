@@ -1933,6 +1933,9 @@
 [submodule "no/rk/ipe"]
 	path = no/rk/ipe
 	url = .
+[submodule "no/rs/krw"]
+	path = no/rs/krw
+	url = .
 [submodule "no/wo/sxg"]
 	path = no/wo/sxg
 	url = .
