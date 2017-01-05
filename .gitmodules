@@ -18832,6 +18832,9 @@
 [submodule "gh/xg/pmi"]
 	path = gh/xg/pmi
 	url = .
+[submodule "gh/xv/nvs"]
+	path = gh/xv/nvs
+	url = .
 [submodule "gh/xy/rgz"]
 	path = gh/xy/rgz
 	url = .
