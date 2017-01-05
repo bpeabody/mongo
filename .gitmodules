@@ -14245,6 +14245,9 @@
 [submodule "su/qs/cnj"]
 	path = su/qs/cnj
 	url = .
+[submodule "su/sz/rej"]
+	path = su/sz/rej
+	url = .
 [submodule "su/we/szr"]
 	path = su/we/szr
 	url = .
