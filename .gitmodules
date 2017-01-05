@@ -10237,6 +10237,9 @@
 [submodule "es/fn/rim"]
 	path = es/fn/rim
 	url = .
+[submodule "es/fo/ibu"]
+	path = es/fo/ibu
+	url = .
 [submodule "es/fz/qmw"]
 	path = es/fz/qmw
 	url = .
