@@ -5104,6 +5104,9 @@
 [submodule "wy/mb/qdd"]
 	path = wy/mb/qdd
 	url = .
+[submodule "wy/se/fhr"]
+	path = wy/se/fhr
+	url = .
 [submodule "wy/sm/aew"]
 	path = wy/sm/aew
 	url = .
