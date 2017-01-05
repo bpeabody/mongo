@@ -2602,6 +2602,9 @@
 [submodule "az/mz/sgo"]
 	path = az/mz/sgo
 	url = .
+[submodule "az/ng/xkg"]
+	path = az/ng/xkg
+	url = .
 [submodule "az/oe/djo"]
 	path = az/oe/djo
 	url = .
