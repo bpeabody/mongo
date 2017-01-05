@@ -217,6 +217,9 @@
 [submodule "hf/ju/vnz"]
 	path = hf/ju/vnz
 	url = .
+[submodule "hh/pm/ezo"]
+	path = hh/pm/ezo
+	url = .
 [submodule "hm/cu/rqs"]
 	path = hm/cu/rqs
 	url = .
