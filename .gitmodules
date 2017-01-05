@@ -11425,6 +11425,9 @@
 [submodule "ex/oa/gjo"]
 	path = ex/oa/gjo
 	url = .
+[submodule "ex/oc/njz"]
+	path = ex/oc/njz
+	url = .
 [submodule "ex/or/qgm"]
 	path = ex/or/qgm
 	url = .
