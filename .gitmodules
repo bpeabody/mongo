@@ -14740,6 +14740,9 @@
 [submodule "ew/yd/dfu"]
 	path = ew/yd/dfu
 	url = .
+[submodule "ew/zm/ptr"]
+	path = ew/zm/ptr
+	url = .
 [submodule "ex/ag/sqh"]
 	path = ex/ag/sqh
 	url = .
