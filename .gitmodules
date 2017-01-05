@@ -15391,6 +15391,9 @@
 [submodule "lj/rh/tju"]
 	path = lj/rh/tju
 	url = .
+[submodule "lj/rr/vng"]
+	path = lj/rr/vng
+	url = .
 [submodule "lj/yj/cmy"]
 	path = lj/yj/cmy
 	url = .
