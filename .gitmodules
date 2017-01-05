@@ -1528,6 +1528,9 @@
 [submodule "bo/hw/uvh"]
 	path = bo/hw/uvh
 	url = .
+[submodule "bo/ji/buo"]
+	path = bo/ji/buo
+	url = .
 [submodule "bo/lj/dzs"]
 	path = bo/lj/dzs
 	url = .
