@@ -11017,6 +11017,9 @@
 [submodule "gv/mw/qwz"]
 	path = gv/mw/qwz
 	url = .
+[submodule "gv/nl/nol"]
+	path = gv/nl/nol
+	url = .
 [submodule "gv/oi/sph"]
 	path = gv/oi/sph
 	url = .
