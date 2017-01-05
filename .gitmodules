@@ -556,6 +556,9 @@
 [submodule "az/yx/gdm"]
 	path = az/yx/gdm
 	url = .
+[submodule "az/yz/qgf"]
+	path = az/yz/qgf
+	url = .
 [submodule "ba/ch/clt"]
 	path = ba/ch/clt
 	url = .
