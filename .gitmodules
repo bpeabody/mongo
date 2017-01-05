@@ -9457,6 +9457,9 @@
 [submodule "hf/al/ksf"]
 	path = hf/al/ksf
 	url = .
+[submodule "hf/ay/yvt"]
+	path = hf/ay/yvt
+	url = .
 [submodule "hf/dx/yao"]
 	path = hf/dx/yao
 	url = .
