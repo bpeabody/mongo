@@ -7048,6 +7048,9 @@
 [submodule "ch/ls/akr"]
 	path = ch/ls/akr
 	url = .
+[submodule "ch/md/qgw"]
+	path = ch/md/qgw
+	url = .
 [submodule "ch/mq/sja"]
 	path = ch/mq/sja
 	url = .
