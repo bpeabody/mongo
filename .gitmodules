@@ -18502,6 +18502,9 @@
 [submodule "jm/hz/oyk"]
 	path = jm/hz/oyk
 	url = .
+[submodule "jm/lh/vmr"]
+	path = jm/lh/vmr
+	url = .
 [submodule "jm/mg/bdw"]
 	path = jm/mg/bdw
 	url = .
