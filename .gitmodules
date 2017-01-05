@@ -11104,6 +11104,9 @@
 [submodule "gv/ii/mlm"]
 	path = gv/ii/mlm
 	url = .
+[submodule "gv/kk/gmo"]
+	path = gv/kk/gmo
+	url = .
 [submodule "gv/kk/urd"]
 	path = gv/kk/urd
 	url = .
