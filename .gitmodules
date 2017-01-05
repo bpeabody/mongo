@@ -29545,6 +29545,9 @@
 [submodule "yj/ka/xwj"]
 	path = yj/ka/xwj
 	url = .
+[submodule "yj/ke/ucd"]
+	path = yj/ke/ucd
+	url = .
 [submodule "yj/ld/lfd"]
 	path = yj/ld/lfd
 	url = .
