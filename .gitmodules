@@ -20758,6 +20758,9 @@
 [submodule "gz/ko/quv"]
 	path = gz/ko/quv
 	url = .
+[submodule "gz/kp/otj"]
+	path = gz/kp/otj
+	url = .
 [submodule "gz/ng/awe"]
 	path = gz/ng/awe
 	url = .
