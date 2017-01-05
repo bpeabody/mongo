@@ -5110,6 +5110,9 @@
 [submodule "jt/go/jbn"]
 	path = jt/go/jbn
 	url = .
+[submodule "jt/hb/gsk"]
+	path = jt/hb/gsk
+	url = .
 [submodule "jt/kv/bgj"]
 	path = jt/kv/bgj
 	url = .
