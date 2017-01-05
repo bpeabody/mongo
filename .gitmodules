@@ -16312,6 +16312,9 @@
 [submodule "ij/tg/jey"]
 	path = ij/tg/jey
 	url = .
+[submodule "ij/ts/vlb"]
+	path = ij/ts/vlb
+	url = .
 [submodule "ij/wk/esa"]
 	path = ij/wk/esa
 	url = .
