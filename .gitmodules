@@ -22675,6 +22675,9 @@
 [submodule "rv/cv/kkk"]
 	path = rv/cv/kkk
 	url = .
+[submodule "rv/dg/pvn"]
+	path = rv/dg/pvn
+	url = .
 [submodule "rv/di/jcx"]
 	path = rv/di/jcx
 	url = .
