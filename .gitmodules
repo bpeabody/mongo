@@ -2164,6 +2164,9 @@
 [submodule "ca/js/fsp"]
 	path = ca/js/fsp
 	url = .
+[submodule "ca/ls/xbr"]
+	path = ca/ls/xbr
+	url = .
 [submodule "ca/mm/kew"]
 	path = ca/mm/kew
 	url = .
