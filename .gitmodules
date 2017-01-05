@@ -29272,6 +29272,9 @@
 [submodule "sv/cm/kyj"]
 	path = sv/cm/kyj
 	url = .
+[submodule "sv/dq/qsk"]
+	path = sv/dq/qsk
+	url = .
 [submodule "sv/fq/hvs"]
 	path = sv/fq/hvs
 	url = .
