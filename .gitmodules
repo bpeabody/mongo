@@ -43759,6 +43759,9 @@
 [submodule "ua/ro/qgn"]
 	path = ua/ro/qgn
 	url = .
+[submodule "ua/sq/fqm"]
+	path = ua/sq/fqm
+	url = .
 [submodule "ua/sx/dnr"]
 	path = ua/sx/dnr
 	url = .
