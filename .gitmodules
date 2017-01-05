@@ -49051,6 +49051,9 @@
 [submodule "tn/ip/agb"]
 	path = tn/ip/agb
 	url = .
+[submodule "tn/ja/riy"]
+	path = tn/ja/riy
+	url = .
 [submodule "tn/ju/uey"]
 	path = tn/ju/uey
 	url = .
