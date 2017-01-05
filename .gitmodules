@@ -3778,6 +3778,9 @@
 [submodule "tq/db/axt"]
 	path = tq/db/axt
 	url = .
+[submodule "tq/dl/deh"]
+	path = tq/dl/deh
+	url = .
 [submodule "tq/em/foy"]
 	path = tq/em/foy
 	url = .
