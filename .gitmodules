@@ -47068,6 +47068,9 @@
 [submodule "su/ve/uub"]
 	path = su/ve/uub
 	url = .
+[submodule "su/vp/hgw"]
+	path = su/vp/hgw
+	url = .
 [submodule "su/vs/wdx"]
 	path = su/vs/wdx
 	url = .
