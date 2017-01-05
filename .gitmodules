@@ -60301,6 +60301,9 @@
 [submodule "xz/no/ocp"]
 	path = xz/no/ocp
 	url = .
+[submodule "xz/nx/haq"]
+	path = xz/nx/haq
+	url = .
 [submodule "xz/oq/epw"]
 	path = xz/oq/epw
 	url = .
