@@ -57979,6 +57979,9 @@
 [submodule "vk/eg/dkf"]
 	path = vk/eg/dkf
 	url = .
+[submodule "vk/eg/tba"]
+	path = vk/eg/tba
+	url = .
 [submodule "vk/fb/aum"]
 	path = vk/fb/aum
 	url = .
