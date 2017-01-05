@@ -9298,6 +9298,9 @@
 [submodule "rh/fj/dfn"]
 	path = rh/fj/dfn
 	url = .
+[submodule "rh/kc/dib"]
+	path = rh/kc/dib
+	url = .
 [submodule "rh/pz/rpw"]
 	path = rh/pz/rpw
 	url = .
