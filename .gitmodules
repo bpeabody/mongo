@@ -196,6 +196,9 @@
 [submodule "ex/hx/jks"]
 	path = ex/hx/jks
 	url = .
+[submodule "fb/ji/hks"]
+	path = fb/ji/hks
+	url = .
 [submodule "ff/qz/mcj"]
 	path = ff/qz/mcj
 	url = .
