@@ -4042,6 +4042,9 @@
 [submodule "jf/ke/kzu"]
 	path = jf/ke/kzu
 	url = .
+[submodule "jf/ma/bst"]
+	path = jf/ma/bst
+	url = .
 [submodule "jf/vd/kkc"]
 	path = jf/vd/kkc
 	url = .
