@@ -256,6 +256,9 @@
 [submodule "wt/ma/sch"]
 	path = wt/ma/sch
 	url = .
+[submodule "wt/ns/qgx"]
+	path = wt/ns/qgx
+	url = .
 [submodule "wy/uy/gtt"]
 	path = wy/uy/gtt
 	url = .
