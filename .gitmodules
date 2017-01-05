@@ -43288,6 +43288,9 @@
 [submodule "qq/jf/mgf"]
 	path = qq/jf/mgf
 	url = .
+[submodule "qq/jp/ggf"]
+	path = qq/jp/ggf
+	url = .
 [submodule "qq/jw/onx"]
 	path = qq/jw/onx
 	url = .
