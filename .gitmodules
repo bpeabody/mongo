@@ -20584,6 +20584,9 @@
 [submodule "tf/pz/zsc"]
 	path = tf/pz/zsc
 	url = .
+[submodule "tf/qc/edw"]
+	path = tf/qc/edw
+	url = .
 [submodule "tf/vg/uhu"]
 	path = tf/vg/uhu
 	url = .
