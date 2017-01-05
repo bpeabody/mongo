@@ -367,6 +367,9 @@
 [submodule "ad/uf/jnh"]
 	path = ad/uf/jnh
 	url = .
+[submodule "ad/uq/cmm"]
+	path = ad/uq/cmm
+	url = .
 [submodule "ad/vs/pcs"]
 	path = ad/vs/pcs
 	url = .
