@@ -1999,6 +1999,9 @@
 [submodule "lj/bn/png"]
 	path = lj/bn/png
 	url = .
+[submodule "lj/cy/hsq"]
+	path = lj/cy/hsq
+	url = .
 [submodule "lj/yu/yfo"]
 	path = lj/yu/yfo
 	url = .
