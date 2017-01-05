@@ -17011,6 +17011,9 @@
 [submodule "vd/eu/zuo"]
 	path = vd/eu/zuo
 	url = .
+[submodule "vd/ja/aqp"]
+	path = vd/ja/aqp
+	url = .
 [submodule "vd/jp/duc"]
 	path = vd/jp/duc
 	url = .
