@@ -6127,6 +6127,9 @@
 [submodule "fg/tk/fsw"]
 	path = fg/tk/fsw
 	url = .
+[submodule "fg/uu/nim"]
+	path = fg/uu/nim
+	url = .
 [submodule "fg/wj/sgm"]
 	path = fg/wj/sgm
 	url = .
