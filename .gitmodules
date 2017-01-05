@@ -64,6 +64,9 @@
 [submodule "bx/tb/cbr"]
 	path = bx/tb/cbr
 	url = .
+[submodule "bz/jf/mvk"]
+	path = bz/jf/mvk
+	url = .
 [submodule "cb/yj/osl"]
 	path = cb/yj/osl
 	url = .
