@@ -54547,6 +54547,9 @@
 [submodule "tm/fw/red"]
 	path = tm/fw/red
 	url = .
+[submodule "tm/hs/efw"]
+	path = tm/hs/efw
+	url = .
 [submodule "tm/ir/hfk"]
 	path = tm/ir/hfk
 	url = .
