@@ -20605,6 +20605,9 @@
 [submodule "kg/kd/nvg"]
 	path = kg/kd/nvg
 	url = .
+[submodule "kg/mb/irz"]
+	path = kg/mb/irz
+	url = .
 [submodule "kg/mx/yjo"]
 	path = kg/mx/yjo
 	url = .
