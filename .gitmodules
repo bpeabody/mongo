@@ -24193,6 +24193,9 @@
 [submodule "ms/yu/col"]
 	path = ms/yu/col
 	url = .
+[submodule "ms/yu/oxr"]
+	path = ms/yu/oxr
+	url = .
 [submodule "ms/zc/kdx"]
 	path = ms/zc/kdx
 	url = .
