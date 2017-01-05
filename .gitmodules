@@ -1003,6 +1003,9 @@
 [submodule "fw/rb/rqe"]
 	path = fw/rb/rqe
 	url = .
+[submodule "fw/sf/ipq"]
+	path = fw/sf/ipq
+	url = .
 [submodule "fw/vz/wll"]
 	path = fw/vz/wll
 	url = .
