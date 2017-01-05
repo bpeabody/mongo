@@ -14941,6 +14941,9 @@
 [submodule "pk/xg/ohy"]
 	path = pk/xg/ohy
 	url = .
+[submodule "pk/yy/oag"]
+	path = pk/yy/oag
+	url = .
 [submodule "pl/mt/dgj"]
 	path = pl/mt/dgj
 	url = .
