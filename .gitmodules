@@ -24133,6 +24133,9 @@
 [submodule "yn/ah/mnc"]
 	path = yn/ah/mnc
 	url = .
+[submodule "yn/hd/usn"]
+	path = yn/hd/usn
+	url = .
 [submodule "yn/hz/mkq"]
 	path = yn/hz/mkq
 	url = .
