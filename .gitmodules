@@ -10042,6 +10042,9 @@
 [submodule "no/bk/zya"]
 	path = no/bk/zya
 	url = .
+[submodule "no/em/kil"]
+	path = no/em/kil
+	url = .
 [submodule "no/ie/dvh"]
 	path = no/ie/dvh
 	url = .
