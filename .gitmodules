@@ -2548,6 +2548,9 @@
 [submodule "ch/ba/fzm"]
 	path = ch/ba/fzm
 	url = .
+[submodule "ch/bm/baj"]
+	path = ch/bm/baj
+	url = .
 [submodule "ch/cc/smn"]
 	path = ch/cc/smn
 	url = .
