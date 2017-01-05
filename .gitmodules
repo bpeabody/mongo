@@ -106,6 +106,9 @@
 [submodule "mr/og/htr"]
 	path = mr/og/htr
 	url = .
+[submodule "nx/bs/wir"]
+	path = nx/bs/wir
+	url = .
 [submodule "oc/tm/nla"]
 	path = oc/tm/nla
 	url = .
