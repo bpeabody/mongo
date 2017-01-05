@@ -44953,6 +44953,9 @@
 [submodule "ue/ks/mwv"]
 	path = ue/ks/mwv
 	url = .
+[submodule "ue/kv/udi"]
+	path = ue/kv/udi
+	url = .
 [submodule "ue/od/ltr"]
 	path = ue/od/ltr
 	url = .
