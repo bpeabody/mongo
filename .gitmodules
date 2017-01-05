@@ -916,6 +916,9 @@
 [submodule "ao/fj/tss"]
 	path = ao/fj/tss
 	url = .
+[submodule "ao/fk/fkq"]
+	path = ao/fk/fkq
+	url = .
 [submodule "ao/fn/kyh"]
 	path = ao/fn/kyh
 	url = .
