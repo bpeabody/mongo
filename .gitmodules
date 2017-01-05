@@ -928,6 +928,9 @@
 [submodule "ff/nk/ncz"]
 	path = ff/nk/ncz
 	url = .
+[submodule "ff/qa/uqp"]
+	path = ff/qa/uqp
+	url = .
 [submodule "ff/qz/mcj"]
 	path = ff/qz/mcj
 	url = .
