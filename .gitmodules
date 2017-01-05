@@ -8008,6 +8008,9 @@
 [submodule "hh/hv/xsw"]
 	path = hh/hv/xsw
 	url = .
+[submodule "hh/ie/pkb"]
+	path = hh/ie/pkb
+	url = .
 [submodule "hh/im/eqw"]
 	path = hh/im/eqw
 	url = .
