@@ -25057,6 +25057,9 @@
 [submodule "ld/ue/ltq"]
 	path = ld/ue/ltq
 	url = .
+[submodule "ld/vs/wqr"]
+	path = ld/vs/wqr
+	url = .
 [submodule "ld/wd/emt"]
 	path = ld/wd/emt
 	url = .
