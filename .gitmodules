@@ -17959,6 +17959,9 @@
 [submodule "lu/ec/zgc"]
 	path = lu/ec/zgc
 	url = .
+[submodule "lu/ep/qrp"]
+	path = lu/ep/qrp
+	url = .
 [submodule "lu/ey/bod"]
 	path = lu/ey/bod
 	url = .
