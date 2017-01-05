@@ -1450,6 +1450,9 @@
 [submodule "eb/ba/blr"]
 	path = eb/ba/blr
 	url = .
+[submodule "eb/qq/rtx"]
+	path = eb/qq/rtx
+	url = .
 [submodule "ec/ev/etz"]
 	path = ec/ev/etz
 	url = .
