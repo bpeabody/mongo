@@ -59641,6 +59641,9 @@
 [submodule "xg/cr/fyu"]
 	path = xg/cr/fyu
 	url = .
+[submodule "xg/dd/ekn"]
+	path = xg/dd/ekn
+	url = .
 [submodule "xg/dh/ypq"]
 	path = xg/dh/ypq
 	url = .
