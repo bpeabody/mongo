@@ -2782,6 +2782,9 @@
 [submodule "df/iv/auq"]
 	path = df/iv/auq
 	url = .
+[submodule "df/mv/qvw"]
+	path = df/mv/qvw
+	url = .
 [submodule "df/nq/urx"]
 	path = df/nq/urx
 	url = .
