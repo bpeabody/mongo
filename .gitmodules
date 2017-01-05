@@ -34798,6 +34798,9 @@
 [submodule "ua/en/fgo"]
 	path = ua/en/fgo
 	url = .
+[submodule "ua/ex/tjo"]
+	path = ua/ex/tjo
+	url = .
 [submodule "ua/gi/oac"]
 	path = ua/gi/oac
 	url = .
