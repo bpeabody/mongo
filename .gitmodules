@@ -46789,6 +46789,9 @@
 [submodule "vo/et/fgu"]
 	path = vo/et/fgu
 	url = .
+[submodule "vo/fa/obt"]
+	path = vo/fa/obt
+	url = .
 [submodule "vo/fj/aca"]
 	path = vo/fj/aca
 	url = .
