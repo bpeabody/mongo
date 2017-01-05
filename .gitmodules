@@ -238,6 +238,9 @@
 [submodule "ae/iz/cjt"]
 	path = ae/iz/cjt
 	url = .
+[submodule "ae/jc/bxq"]
+	path = ae/jc/bxq
+	url = .
 [submodule "ae/pk/ket"]
 	path = ae/pk/ket
 	url = .
