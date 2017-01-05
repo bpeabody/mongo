@@ -7468,6 +7468,9 @@
 [submodule "os/ij/yiw"]
 	path = os/ij/yiw
 	url = .
+[submodule "os/kw/mni"]
+	path = os/kw/mni
+	url = .
 [submodule "os/qa/vkm"]
 	path = os/qa/vkm
 	url = .
