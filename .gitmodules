@@ -17329,6 +17329,9 @@
 [submodule "ka/ed/pfv"]
 	path = ka/ed/pfv
 	url = .
+[submodule "ka/eq/okf"]
+	path = ka/eq/okf
+	url = .
 [submodule "ka/et/dkf"]
 	path = ka/et/dkf
 	url = .
