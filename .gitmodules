@@ -21667,6 +21667,9 @@
 [submodule "zj/cd/hkm"]
 	path = zj/cd/hkm
 	url = .
+[submodule "zj/cz/svq"]
+	path = zj/cz/svq
+	url = .
 [submodule "zj/fw/emf"]
 	path = zj/fw/emf
 	url = .
