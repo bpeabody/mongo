@@ -25324,6 +25324,9 @@
 [submodule "is/cv/trd"]
 	path = is/cv/trd
 	url = .
+[submodule "is/dk/inr"]
+	path = is/dk/inr
+	url = .
 [submodule "is/dt/occ"]
 	path = is/dt/occ
 	url = .
