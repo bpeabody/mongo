@@ -26017,6 +26017,9 @@
 [submodule "ol/zz/eqo"]
 	path = ol/zz/eqo
 	url = .
+[submodule "om/ap/kml"]
+	path = om/ap/kml
+	url = .
 [submodule "om/bf/swx"]
 	path = om/bf/swx
 	url = .
