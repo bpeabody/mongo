@@ -5137,6 +5137,9 @@
 [submodule "tq/nn/ezv"]
 	path = tq/nn/ezv
 	url = .
+[submodule "tq/pw/wqg"]
+	path = tq/pw/wqg
+	url = .
 [submodule "tq/sc/noa"]
 	path = tq/sc/noa
 	url = .
