@@ -4432,6 +4432,9 @@
 [submodule "xc/ua/lzz"]
 	path = xc/ua/lzz
 	url = .
+[submodule "xd/ki/etr"]
+	path = xd/ki/etr
+	url = .
 [submodule "xd/sr/znc"]
 	path = xd/sr/znc
 	url = .
