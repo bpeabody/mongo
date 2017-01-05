@@ -6865,6 +6865,9 @@
 [submodule "cm/sv/xvq"]
 	path = cm/sv/xvq
 	url = .
+[submodule "cm/th/odu"]
+	path = cm/th/odu
+	url = .
 [submodule "cm/tj/qav"]
 	path = cm/tj/qav
 	url = .
