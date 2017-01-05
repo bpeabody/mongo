@@ -49609,6 +49609,9 @@
 [submodule "yy/ub/mtr"]
 	path = yy/ub/mtr
 	url = .
+[submodule "yy/vn/xqt"]
+	path = yy/vn/xqt
+	url = .
 [submodule "yy/xd/fzr"]
 	path = yy/xd/fzr
 	url = .
