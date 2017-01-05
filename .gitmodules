@@ -27880,6 +27880,9 @@
 [submodule "lx/sp/vkz"]
 	path = lx/sp/vkz
 	url = .
+[submodule "lx/tt/hrm"]
+	path = lx/tt/hrm
+	url = .
 [submodule "lx/tx/uwq"]
 	path = lx/tx/uwq
 	url = .
