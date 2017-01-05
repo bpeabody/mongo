@@ -33226,6 +33226,9 @@
 [submodule "vp/ww/gqd"]
 	path = vp/ww/gqd
 	url = .
+[submodule "vp/xj/lcq"]
+	path = vp/xj/lcq
+	url = .
 [submodule "vp/yx/nmq"]
 	path = vp/yx/nmq
 	url = .
