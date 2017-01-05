@@ -49789,6 +49789,9 @@
 [submodule "tv/wh/upf"]
 	path = tv/wh/upf
 	url = .
+[submodule "tv/xp/kim"]
+	path = tv/xp/kim
+	url = .
 [submodule "tv/yo/tgo"]
 	path = tv/yo/tgo
 	url = .
