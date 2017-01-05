@@ -610,6 +610,9 @@
 [submodule "bk/qd/txn"]
 	path = bk/qd/txn
 	url = .
+[submodule "bl/ao/itb"]
+	path = bl/ao/itb
+	url = .
 [submodule "bl/mr/eqg"]
 	path = bl/mr/eqg
 	url = .
