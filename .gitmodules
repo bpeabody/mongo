@@ -73,6 +73,9 @@
 [submodule "ah/qy/stj"]
 	path = ah/qy/stj
 	url = .
+[submodule "ai/ll/mes"]
+	path = ai/ll/mes
+	url = .
 [submodule "aj/pu/gif"]
 	path = aj/pu/gif
 	url = .
