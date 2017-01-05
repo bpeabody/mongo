@@ -56644,6 +56644,9 @@
 [submodule "wn/nw/xkv"]
 	path = wn/nw/xkv
 	url = .
+[submodule "wn/pd/cez"]
+	path = wn/pd/cez
+	url = .
 [submodule "wn/qg/cxx"]
 	path = wn/qg/cxx
 	url = .
