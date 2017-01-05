@@ -334,6 +334,9 @@
 [submodule "dp/et/pli"]
 	path = dp/et/pli
 	url = .
+[submodule "dp/se/teo"]
+	path = dp/se/teo
+	url = .
 [submodule "dr/ad/bei"]
 	path = dr/ad/bei
 	url = .
