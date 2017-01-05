@@ -1672,6 +1672,9 @@
 [submodule "dg/je/noh"]
 	path = dg/je/noh
 	url = .
+[submodule "dg/tv/sey"]
+	path = dg/tv/sey
+	url = .
 [submodule "dg/zx/kqa"]
 	path = dg/zx/kqa
 	url = .
