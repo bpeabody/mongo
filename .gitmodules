@@ -41236,6 +41236,9 @@
 [submodule "vg/px/ksh"]
 	path = vg/px/ksh
 	url = .
+[submodule "vg/qd/qtt"]
+	path = vg/qd/qtt
+	url = .
 [submodule "vg/ql/gcx"]
 	path = vg/ql/gcx
 	url = .
