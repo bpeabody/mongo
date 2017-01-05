@@ -7219,6 +7219,9 @@
 [submodule "fr/dm/wdv"]
 	path = fr/dm/wdv
 	url = .
+[submodule "fr/dt/bzq"]
+	path = fr/dt/bzq
+	url = .
 [submodule "fr/dx/ytg"]
 	path = fr/dx/ytg
 	url = .
