@@ -11113,6 +11113,9 @@
 [submodule "jw/qb/kjx"]
 	path = jw/qb/kjx
 	url = .
+[submodule "jw/rb/jrj"]
+	path = jw/rb/jrj
+	url = .
 [submodule "jw/tk/xhw"]
 	path = jw/tk/xhw
 	url = .
