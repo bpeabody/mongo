@@ -8494,6 +8494,9 @@
 [submodule "et/za/nmv"]
 	path = et/za/nmv
 	url = .
+[submodule "eu/aw/rej"]
+	path = eu/aw/rej
+	url = .
 [submodule "eu/bd/xri"]
 	path = eu/bd/xri
 	url = .
