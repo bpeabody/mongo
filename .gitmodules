@@ -166,6 +166,9 @@
 [submodule "fx/aw/oab"]
 	path = fx/aw/oab
 	url = .
+[submodule "gf/jw/xrf"]
+	path = gf/jw/xrf
+	url = .
 [submodule "gg/uq/ftl"]
 	path = gg/uq/ftl
 	url = .
