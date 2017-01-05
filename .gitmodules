@@ -304,6 +304,9 @@
 [submodule "cb/pj/kju"]
 	path = cb/pj/kju
 	url = .
+[submodule "cb/qu/qzw"]
+	path = cb/qu/qzw
+	url = .
 [submodule "cb/yj/osl"]
 	path = cb/yj/osl
 	url = .
