@@ -8041,6 +8041,9 @@
 [submodule "gh/uh/edi"]
 	path = gh/uh/edi
 	url = .
+[submodule "gh/wa/xtc"]
+	path = gh/wa/xtc
+	url = .
 [submodule "gh/xg/pmi"]
 	path = gh/xg/pmi
 	url = .
