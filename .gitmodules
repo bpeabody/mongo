@@ -15397,6 +15397,9 @@
 [submodule "vf/gp/dbx"]
 	path = vf/gp/dbx
 	url = .
+[submodule "vf/ip/usu"]
+	path = vf/ip/usu
+	url = .
 [submodule "vf/is/fwc"]
 	path = vf/is/fwc
 	url = .
