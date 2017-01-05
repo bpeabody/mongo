@@ -13027,6 +13027,9 @@
 [submodule "xk/lc/pux"]
 	path = xk/lc/pux
 	url = .
+[submodule "xk/nl/vfo"]
+	path = xk/nl/vfo
+	url = .
 [submodule "xk/nr/dgx"]
 	path = xk/nr/dgx
 	url = .
