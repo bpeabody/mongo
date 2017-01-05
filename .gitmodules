@@ -5083,6 +5083,9 @@
 [submodule "eb/lg/bux"]
 	path = eb/lg/bux
 	url = .
+[submodule "eb/md/mcl"]
+	path = eb/md/mcl
+	url = .
 [submodule "eb/nv/tni"]
 	path = eb/nv/tni
 	url = .
