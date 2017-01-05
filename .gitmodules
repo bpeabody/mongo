@@ -1882,6 +1882,9 @@
 [submodule "dc/ls/ojq"]
 	path = dc/ls/ojq
 	url = .
+[submodule "dc/vm/ltf"]
+	path = dc/vm/ltf
+	url = .
 [submodule "dc/vq/jbi"]
 	path = dc/vq/jbi
 	url = .
