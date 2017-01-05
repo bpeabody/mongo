@@ -1900,6 +1900,9 @@
 [submodule "us/qf/naf"]
 	path = us/qf/naf
 	url = .
+[submodule "us/un/jjr"]
+	path = us/un/jjr
+	url = .
 [submodule "ut/yn/vdx"]
 	path = ut/yn/vdx
 	url = .
