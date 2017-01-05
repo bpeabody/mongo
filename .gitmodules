@@ -9292,6 +9292,9 @@
 [submodule "gz/rm/ibt"]
 	path = gz/rm/ibt
 	url = .
+[submodule "gz/sf/bna"]
+	path = gz/sf/bna
+	url = .
 [submodule "gz/ux/krc"]
 	path = gz/ux/krc
 	url = .
