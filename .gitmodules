@@ -19576,6 +19576,9 @@
 [submodule "kp/ni/yvb"]
 	path = kp/ni/yvb
 	url = .
+[submodule "kp/on/esi"]
+	path = kp/on/esi
+	url = .
 [submodule "kp/or/npo"]
 	path = kp/or/npo
 	url = .
