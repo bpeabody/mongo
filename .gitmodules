@@ -11986,6 +11986,9 @@
 [submodule "hd/vz/ghz"]
 	path = hd/vz/ghz
 	url = .
+[submodule "hd/wb/ril"]
+	path = hd/wb/ril
+	url = .
 [submodule "hd/wl/czb"]
 	path = hd/wl/czb
 	url = .
