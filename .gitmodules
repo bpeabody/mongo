@@ -8620,6 +8620,9 @@
 [submodule "kl/qc/qqa"]
 	path = kl/qc/qqa
 	url = .
+[submodule "kl/ue/dwr"]
+	path = kl/ue/dwr
+	url = .
 [submodule "kl/vu/aml"]
 	path = kl/vu/aml
 	url = .
