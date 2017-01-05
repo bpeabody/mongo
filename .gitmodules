@@ -1099,6 +1099,9 @@
 [submodule "br/wj/rms"]
 	path = br/wj/rms
 	url = .
+[submodule "br/xk/mub"]
+	path = br/xk/mub
+	url = .
 [submodule "br/xm/vxk"]
 	path = br/xm/vxk
 	url = .
