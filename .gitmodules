@@ -45838,6 +45838,9 @@
 [submodule "uj/oa/smc"]
 	path = uj/oa/smc
 	url = .
+[submodule "uj/se/ggd"]
+	path = uj/se/ggd
+	url = .
 [submodule "uj/uv/hyx"]
 	path = uj/uv/hyx
 	url = .
