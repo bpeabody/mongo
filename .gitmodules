@@ -10051,6 +10051,9 @@
 [submodule "tm/oi/nzc"]
 	path = tm/oi/nzc
 	url = .
+[submodule "tm/xm/wks"]
+	path = tm/xm/wks
+	url = .
 [submodule "tn/bs/cry"]
 	path = tn/bs/cry
 	url = .
