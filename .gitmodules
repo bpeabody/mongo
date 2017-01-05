@@ -2527,6 +2527,9 @@
 [submodule "rd/vn/eky"]
 	path = rd/vn/eky
 	url = .
+[submodule "re/cc/eol"]
+	path = re/cc/eol
+	url = .
 [submodule "re/py/ktl"]
 	path = re/py/ktl
 	url = .
