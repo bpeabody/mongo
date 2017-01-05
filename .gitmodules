@@ -37924,6 +37924,9 @@
 [submodule "np/kw/aoz"]
 	path = np/kw/aoz
 	url = .
+[submodule "np/lj/cmb"]
+	path = np/lj/cmb
+	url = .
 [submodule "np/lr/dsy"]
 	path = np/lr/dsy
 	url = .
