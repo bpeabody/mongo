@@ -6607,6 +6607,9 @@
 [submodule "co/da/frz"]
 	path = co/da/frz
 	url = .
+[submodule "co/dr/gof"]
+	path = co/dr/gof
+	url = .
 [submodule "co/dt/zxv"]
 	path = co/dt/zxv
 	url = .
