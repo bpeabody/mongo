@@ -8815,6 +8815,9 @@
 [submodule "ed/vv/ych"]
 	path = ed/vv/ych
 	url = .
+[submodule "ed/wi/qra"]
+	path = ed/wi/qra
+	url = .
 [submodule "ed/xk/iku"]
 	path = ed/xk/iku
 	url = .
