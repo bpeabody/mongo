@@ -11911,6 +11911,9 @@
 [submodule "lf/rl/rlp"]
 	path = lf/rl/rlp
 	url = .
+[submodule "lf/ry/hfi"]
+	path = lf/ry/hfi
+	url = .
 [submodule "lf/sl/mmq"]
 	path = lf/sl/mmq
 	url = .
