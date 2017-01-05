@@ -418,6 +418,9 @@
 [submodule "df/rd/cwg"]
 	path = df/rd/cwg
 	url = .
+[submodule "df/xy/ssq"]
+	path = df/xy/ssq
+	url = .
 [submodule "dg/dn/ixg"]
 	path = dg/dn/ixg
 	url = .
