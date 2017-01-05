@@ -40234,6 +40234,9 @@
 [submodule "nv/gk/dwt"]
 	path = nv/gk/dwt
 	url = .
+[submodule "nv/hl/gbm"]
+	path = nv/hl/gbm
+	url = .
 [submodule "nv/ia/oef"]
 	path = nv/ia/oef
 	url = .
