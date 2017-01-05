@@ -25393,6 +25393,9 @@
 [submodule "rr/qn/esv"]
 	path = rr/qn/esv
 	url = .
+[submodule "rr/qq/bab"]
+	path = rr/qq/bab
+	url = .
 [submodule "rr/xv/tfm"]
 	path = rr/xv/tfm
 	url = .
