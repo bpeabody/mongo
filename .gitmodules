@@ -12505,6 +12505,9 @@
 [submodule "kb/tw/fla"]
 	path = kb/tw/fla
 	url = .
+[submodule "kb/uc/fkk"]
+	path = kb/uc/fkk
+	url = .
 [submodule "kb/wb/onr"]
 	path = kb/wb/onr
 	url = .
