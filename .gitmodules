@@ -11674,6 +11674,9 @@
 [submodule "ui/sz/htx"]
 	path = ui/sz/htx
 	url = .
+[submodule "ui/xd/iqv"]
+	path = ui/xd/iqv
+	url = .
 [submodule "ui/zy/sxi"]
 	path = ui/zy/sxi
 	url = .
