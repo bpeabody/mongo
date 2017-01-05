@@ -1810,6 +1810,9 @@
 [submodule "jo/ic/xtu"]
 	path = jo/ic/xtu
 	url = .
+[submodule "jo/lc/jig"]
+	path = jo/lc/jig
+	url = .
 [submodule "jo/vp/sni"]
 	path = jo/vp/sni
 	url = .
