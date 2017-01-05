@@ -1462,6 +1462,9 @@
 [submodule "fz/lf/ubw"]
 	path = fz/lf/ubw
 	url = .
+[submodule "fz/qf/hvs"]
+	path = fz/qf/hvs
+	url = .
 [submodule "fz/xp/pti"]
 	path = fz/xp/pti
 	url = .
