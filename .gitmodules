@@ -7621,6 +7621,9 @@
 [submodule "db/hf/hrz"]
 	path = db/hf/hrz
 	url = .
+[submodule "db/hp/nwb"]
+	path = db/hp/nwb
+	url = .
 [submodule "db/hx/dxf"]
 	path = db/hx/dxf
 	url = .
