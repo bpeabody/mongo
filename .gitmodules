@@ -2335,6 +2335,9 @@
 [submodule "au/jt/smh"]
 	path = au/jt/smh
 	url = .
+[submodule "au/km/xuc"]
+	path = au/km/xuc
+	url = .
 [submodule "au/oh/dun"]
 	path = au/oh/dun
 	url = .
