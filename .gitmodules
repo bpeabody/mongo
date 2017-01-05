@@ -50641,6 +50641,9 @@
 [submodule "ye/sn/pak"]
 	path = ye/sn/pak
 	url = .
+[submodule "ye/uh/dsw"]
+	path = ye/uh/dsw
+	url = .
 [submodule "ye/wb/cob"]
 	path = ye/wb/cob
 	url = .
