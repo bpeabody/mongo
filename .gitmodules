@@ -9856,6 +9856,9 @@
 [submodule "sy/yd/nyt"]
 	path = sy/yd/nyt
 	url = .
+[submodule "sz/bt/evm"]
+	path = sz/bt/evm
+	url = .
 [submodule "sz/dv/skx"]
 	path = sz/dv/skx
 	url = .
