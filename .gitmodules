@@ -54616,6 +54616,9 @@
 [submodule "sg/ql/xrk"]
 	path = sg/ql/xrk
 	url = .
+[submodule "sg/qw/vsx"]
+	path = sg/qw/vsx
+	url = .
 [submodule "sg/rc/pgb"]
 	path = sg/rc/pgb
 	url = .
