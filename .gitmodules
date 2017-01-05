@@ -9970,6 +9970,9 @@
 [submodule "re/pf/lzk"]
 	path = re/pf/lzk
 	url = .
+[submodule "re/po/hir"]
+	path = re/po/hir
+	url = .
 [submodule "re/py/ktl"]
 	path = re/py/ktl
 	url = .
