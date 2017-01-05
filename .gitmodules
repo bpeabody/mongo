@@ -47524,6 +47524,9 @@
 [submodule "sw/bz/rzh"]
 	path = sw/bz/rzh
 	url = .
+[submodule "sw/dg/nqx"]
+	path = sw/dg/nqx
+	url = .
 [submodule "sw/ee/qjs"]
 	path = sw/ee/qjs
 	url = .
