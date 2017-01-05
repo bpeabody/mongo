@@ -26470,6 +26470,9 @@
 [submodule "nx/bs/wir"]
 	path = nx/bs/wir
 	url = .
+[submodule "nx/dc/gsa"]
+	path = nx/dc/gsa
+	url = .
 [submodule "nx/dg/sre"]
 	path = nx/dg/sre
 	url = .
