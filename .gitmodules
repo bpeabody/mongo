@@ -50341,6 +50341,9 @@
 [submodule "zz/eq/fbo"]
 	path = zz/eq/fbo
 	url = .
+[submodule "zz/es/noy"]
+	path = zz/es/noy
+	url = .
 [submodule "zz/ex/awk"]
 	path = zz/ex/awk
 	url = .
