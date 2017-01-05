@@ -16987,6 +16987,9 @@
 [submodule "jh/le/vpd"]
 	path = jh/le/vpd
 	url = .
+[submodule "jh/mb/hnf"]
+	path = jh/mb/hnf
+	url = .
 [submodule "jh/mp/obw"]
 	path = jh/mp/obw
 	url = .
