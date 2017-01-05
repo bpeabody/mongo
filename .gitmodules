@@ -11401,6 +11401,9 @@
 [submodule "qo/gs/wlq"]
 	path = qo/gs/wlq
 	url = .
+[submodule "qo/lz/jwb"]
+	path = qo/lz/jwb
+	url = .
 [submodule "qo/rt/fir"]
 	path = qo/rt/fir
 	url = .
