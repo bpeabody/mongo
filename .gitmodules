@@ -700,6 +700,9 @@
 [submodule "as/vf/uja"]
 	path = as/vf/uja
 	url = .
+[submodule "as/wa/cnl"]
+	path = as/wa/cnl
+	url = .
 [submodule "as/xx/rcw"]
 	path = as/xx/rcw
 	url = .
