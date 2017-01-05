@@ -45898,6 +45898,9 @@
 [submodule "ww/ln/bpd"]
 	path = ww/ln/bpd
 	url = .
+[submodule "ww/lp/rcg"]
+	path = ww/lp/rcg
+	url = .
 [submodule "ww/mk/wbt"]
 	path = ww/mk/wbt
 	url = .
