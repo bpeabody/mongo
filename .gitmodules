@@ -5173,6 +5173,9 @@
 [submodule "fp/cn/kya"]
 	path = fp/cn/kya
 	url = .
+[submodule "fp/ds/bet"]
+	path = fp/ds/bet
+	url = .
 [submodule "fp/ha/ijx"]
 	path = fp/ha/ijx
 	url = .
