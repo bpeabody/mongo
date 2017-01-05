@@ -5404,6 +5404,9 @@
 [submodule "by/oe/pby"]
 	path = by/oe/pby
 	url = .
+[submodule "by/oo/vfl"]
+	path = by/oo/vfl
+	url = .
 [submodule "by/ou/gsg"]
 	path = by/ou/gsg
 	url = .
