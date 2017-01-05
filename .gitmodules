@@ -45169,6 +45169,9 @@
 [submodule "vy/kp/zta"]
 	path = vy/kp/zta
 	url = .
+[submodule "vy/ld/keg"]
+	path = vy/ld/keg
+	url = .
 [submodule "vy/lr/dpn"]
 	path = vy/lr/dpn
 	url = .
