@@ -22177,6 +22177,9 @@
 [submodule "ui/lp/oky"]
 	path = ui/lp/oky
 	url = .
+[submodule "ui/lp/vpd"]
+	path = ui/lp/vpd
+	url = .
 [submodule "ui/mn/ngw"]
 	path = ui/mn/ngw
 	url = .
