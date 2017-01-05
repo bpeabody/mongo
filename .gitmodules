@@ -39100,6 +39100,9 @@
 [submodule "oj/fr/veg"]
 	path = oj/fr/veg
 	url = .
+[submodule "oj/gf/mqu"]
+	path = oj/gf/mqu
+	url = .
 [submodule "oj/gj/cmh"]
 	path = oj/gj/cmh
 	url = .
