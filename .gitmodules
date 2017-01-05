@@ -19813,6 +19813,9 @@
 [submodule "hz/da/qrd"]
 	path = hz/da/qrd
 	url = .
+[submodule "hz/es/lsg"]
+	path = hz/es/lsg
+	url = .
 [submodule "hz/ew/ctm"]
 	path = hz/ew/ctm
 	url = .
