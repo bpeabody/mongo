@@ -2614,6 +2614,9 @@
 [submodule "cz/tm/xsv"]
 	path = cz/tm/xsv
 	url = .
+[submodule "cz/ud/vcw"]
+	path = cz/ud/vcw
+	url = .
 [submodule "cz/uw/ltu"]
 	path = cz/uw/ltu
 	url = .
