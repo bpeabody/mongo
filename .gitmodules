@@ -3469,6 +3469,9 @@
 [submodule "ol/ju/fxe"]
 	path = ol/ju/fxe
 	url = .
+[submodule "om/dr/sku"]
+	path = om/dr/sku
+	url = .
 [submodule "om/ey/hib"]
 	path = om/ey/hib
 	url = .
