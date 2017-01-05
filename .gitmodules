@@ -6835,6 +6835,9 @@
 [submodule "jf/xi/nas"]
 	path = jf/xi/nas
 	url = .
+[submodule "jf/yh/gqi"]
+	path = jf/yh/gqi
+	url = .
 [submodule "jg/bd/nut"]
 	path = jg/bd/nut
 	url = .
