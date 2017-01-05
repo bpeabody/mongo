@@ -49393,6 +49393,9 @@
 [submodule "xp/kn/nad"]
 	path = xp/kn/nad
 	url = .
+[submodule "xp/kz/qkx"]
+	path = xp/kz/qkx
+	url = .
 [submodule "xp/mp/sxn"]
 	path = xp/mp/sxn
 	url = .
