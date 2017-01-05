@@ -6817,6 +6817,9 @@
 [submodule "dl/cf/mzz"]
 	path = dl/cf/mzz
 	url = .
+[submodule "dl/ck/xzb"]
+	path = dl/ck/xzb
+	url = .
 [submodule "dl/cu/lnn"]
 	path = dl/cu/lnn
 	url = .
