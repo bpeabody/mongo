@@ -7399,6 +7399,9 @@
 [submodule "ly/ht/fde"]
 	path = ly/ht/fde
 	url = .
+[submodule "ly/ix/wbm"]
+	path = ly/ix/wbm
+	url = .
 [submodule "ly/od/bnk"]
 	path = ly/od/bnk
 	url = .
