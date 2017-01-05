@@ -18235,6 +18235,9 @@
 [submodule "hj/by/kyp"]
 	path = hj/by/kyp
 	url = .
+[submodule "hj/ck/pkb"]
+	path = hj/ck/pkb
+	url = .
 [submodule "hj/cn/kip"]
 	path = hj/cn/kip
 	url = .
