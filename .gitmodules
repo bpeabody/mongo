@@ -14644,6 +14644,9 @@
 [submodule "gw/nj/gwd"]
 	path = gw/nj/gwd
 	url = .
+[submodule "gw/qi/blu"]
+	path = gw/qi/blu
+	url = .
 [submodule "gw/qt/mdl"]
 	path = gw/qt/mdl
 	url = .
