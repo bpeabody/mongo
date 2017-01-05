@@ -17059,6 +17059,9 @@
 [submodule "yj/ip/frd"]
 	path = yj/ip/frd
 	url = .
+[submodule "yj/ka/xwj"]
+	path = yj/ka/xwj
+	url = .
 [submodule "yj/ld/lfd"]
 	path = yj/ld/lfd
 	url = .
