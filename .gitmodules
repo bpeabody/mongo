@@ -5329,6 +5329,9 @@
 [submodule "cb/bp/vpx"]
 	path = cb/bp/vpx
 	url = .
+[submodule "cb/db/jxv"]
+	path = cb/db/jxv
+	url = .
 [submodule "cb/dr/mpo"]
 	path = cb/dr/mpo
 	url = .
