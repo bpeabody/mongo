@@ -8653,6 +8653,9 @@
 [submodule "vo/jq/ker"]
 	path = vo/jq/ker
 	url = .
+[submodule "vo/jv/lnt"]
+	path = vo/jv/lnt
+	url = .
 [submodule "vo/kv/rzy"]
 	path = vo/kv/rzy
 	url = .
