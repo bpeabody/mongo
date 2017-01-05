@@ -33280,6 +33280,9 @@
 [submodule "pr/ij/ktk"]
 	path = pr/ij/ktk
 	url = .
+[submodule "pr/ij/wcq"]
+	path = pr/ij/wcq
+	url = .
 [submodule "pr/iv/wfy"]
 	path = pr/iv/wfy
 	url = .
