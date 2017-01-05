@@ -346,6 +346,9 @@
 [submodule "ah/hv/qfy"]
 	path = ah/hv/qfy
 	url = .
+[submodule "ah/nc/nuh"]
+	path = ah/nc/nuh
+	url = .
 [submodule "ah/qx/dwi"]
 	path = ah/qx/dwi
 	url = .
