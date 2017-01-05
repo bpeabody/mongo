@@ -11680,6 +11680,9 @@
 [submodule "jf/bu/crl"]
 	path = jf/bu/crl
 	url = .
+[submodule "jf/cf/yym"]
+	path = jf/cf/yym
+	url = .
 [submodule "jf/dc/bus"]
 	path = jf/dc/bus
 	url = .
