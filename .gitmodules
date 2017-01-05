@@ -17881,6 +17881,9 @@
 [submodule "go/jj/tlf"]
 	path = go/jj/tlf
 	url = .
+[submodule "go/jx/fnh"]
+	path = go/jx/fnh
+	url = .
 [submodule "go/kf/reg"]
 	path = go/kf/reg
 	url = .
