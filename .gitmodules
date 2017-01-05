@@ -778,6 +778,9 @@
 [submodule "ap/lv/jgx"]
 	path = ap/lv/jgx
 	url = .
+[submodule "ap/ov/ebi"]
+	path = ap/ov/ebi
+	url = .
 [submodule "ap/ua/qtm"]
 	path = ap/ua/qtm
 	url = .
