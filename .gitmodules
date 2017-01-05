@@ -18439,6 +18439,9 @@
 [submodule "tz/hg/kgf"]
 	path = tz/hg/kgf
 	url = .
+[submodule "tz/kq/qfr"]
+	path = tz/kq/qfr
+	url = .
 [submodule "tz/lr/dyn"]
 	path = tz/lr/dyn
 	url = .
