@@ -29311,6 +29311,9 @@
 [submodule "nj/po/kft"]
 	path = nj/po/kft
 	url = .
+[submodule "nj/pq/cap"]
+	path = nj/pq/cap
+	url = .
 [submodule "nj/pu/amu"]
 	path = nj/pu/amu
 	url = .
