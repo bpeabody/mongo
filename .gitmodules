@@ -691,6 +691,9 @@
 [submodule "qa/ve/udk"]
 	path = qa/ve/udk
 	url = .
+[submodule "qb/ub/tou"]
+	path = qb/ub/tou
+	url = .
 [submodule "qd/mt/xxp"]
 	path = qd/mt/xxp
 	url = .
