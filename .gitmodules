@@ -46555,6 +46555,9 @@
 [submodule "vm/sv/bvw"]
 	path = vm/sv/bvw
 	url = .
+[submodule "vm/tl/ceu"]
+	path = vm/tl/ceu
+	url = .
 [submodule "vm/uh/kki"]
 	path = vm/uh/kki
 	url = .
