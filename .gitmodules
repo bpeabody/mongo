@@ -7873,6 +7873,9 @@
 [submodule "ee/tw/brr"]
 	path = ee/tw/brr
 	url = .
+[submodule "ee/uo/oxd"]
+	path = ee/uo/oxd
+	url = .
 [submodule "ee/vq/dan"]
 	path = ee/vq/dan
 	url = .
