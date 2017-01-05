@@ -21532,6 +21532,9 @@
 [submodule "rq/kk/drp"]
 	path = rq/kk/drp
 	url = .
+[submodule "rq/kk/yba"]
+	path = rq/kk/yba
+	url = .
 [submodule "rq/mm/lxx"]
 	path = rq/mm/lxx
 	url = .
