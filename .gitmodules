@@ -59893,6 +59893,9 @@
 [submodule "vk/qe/ads"]
 	path = vk/qe/ads
 	url = .
+[submodule "vk/qq/xzb"]
+	path = vk/qq/xzb
+	url = .
 [submodule "vk/rh/ebf"]
 	path = vk/rh/ebf
 	url = .
