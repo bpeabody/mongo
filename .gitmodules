@@ -31288,6 +31288,9 @@
 [submodule "nk/mm/gkd"]
 	path = nk/mm/gkd
 	url = .
+[submodule "nk/pe/dwj"]
+	path = nk/pe/dwj
+	url = .
 [submodule "nk/pr/pmc"]
 	path = nk/pr/pmc
 	url = .
