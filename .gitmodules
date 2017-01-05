@@ -15550,6 +15550,9 @@
 [submodule "hz/mm/rhk"]
 	path = hz/mm/rhk
 	url = .
+[submodule "hz/mn/xdq"]
+	path = hz/mn/xdq
+	url = .
 [submodule "hz/mp/odp"]
 	path = hz/mp/odp
 	url = .
