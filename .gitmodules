@@ -12706,6 +12706,9 @@
 [submodule "ju/am/hop"]
 	path = ju/am/hop
 	url = .
+[submodule "ju/cg/esx"]
+	path = ju/cg/esx
+	url = .
 [submodule "ju/lr/ldz"]
 	path = ju/lr/ldz
 	url = .
