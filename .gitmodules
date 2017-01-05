@@ -6019,6 +6019,9 @@
 [submodule "cx/nt/qvg"]
 	path = cx/nt/qvg
 	url = .
+[submodule "cx/qv/vlj"]
+	path = cx/qv/vlj
+	url = .
 [submodule "cx/rr/dky"]
 	path = cx/rr/dky
 	url = .
