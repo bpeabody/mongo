@@ -26935,6 +26935,9 @@
 [submodule "mq/lw/jau"]
 	path = mq/lw/jau
 	url = .
+[submodule "mq/ri/nzu"]
+	path = mq/ri/nzu
+	url = .
 [submodule "mq/st/agr"]
 	path = mq/st/agr
 	url = .
