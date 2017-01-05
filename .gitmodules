@@ -23851,6 +23851,9 @@
 [submodule "vm/md/djv"]
 	path = vm/md/djv
 	url = .
+[submodule "vm/mn/kbq"]
+	path = vm/mn/kbq
+	url = .
 [submodule "vm/sa/iky"]
 	path = vm/sa/iky
 	url = .
