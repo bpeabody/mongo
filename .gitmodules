@@ -100,6 +100,9 @@
 [submodule "ai/pb/cpa"]
 	path = ai/pb/cpa
 	url = .
+[submodule "aj/hz/jmh"]
+	path = aj/hz/jmh
+	url = .
 [submodule "aj/my/kip"]
 	path = aj/my/kip
 	url = .
