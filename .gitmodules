@@ -6166,6 +6166,9 @@
 [submodule "gp/hh/lox"]
 	path = gp/hh/lox
 	url = .
+[submodule "gp/jv/pai"]
+	path = gp/jv/pai
+	url = .
 [submodule "gp/jw/tem"]
 	path = gp/jw/tem
 	url = .
