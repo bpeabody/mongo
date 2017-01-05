@@ -1168,6 +1168,9 @@
 [submodule "dw/fe/qca"]
 	path = dw/fe/qca
 	url = .
+[submodule "dw/lb/lcm"]
+	path = dw/lb/lcm
+	url = .
 [submodule "dw/po/tuv"]
 	path = dw/po/tuv
 	url = .
