@@ -12124,6 +12124,9 @@
 [submodule "mg/ns/cnq"]
 	path = mg/ns/cnq
 	url = .
+[submodule "mg/ti/aoq"]
+	path = mg/ti/aoq
+	url = .
 [submodule "mg/uh/srd"]
 	path = mg/uh/srd
 	url = .
