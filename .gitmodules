@@ -6430,6 +6430,9 @@
 [submodule "xl/qk/hzq"]
 	path = xl/qk/hzq
 	url = .
+[submodule "xl/qn/blk"]
+	path = xl/qn/blk
+	url = .
 [submodule "xm/cr/qsh"]
 	path = xm/cr/qsh
 	url = .
