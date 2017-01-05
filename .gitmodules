@@ -4657,6 +4657,9 @@
 [submodule "ej/ln/zgt"]
 	path = ej/ln/zgt
 	url = .
+[submodule "ej/lo/nam"]
+	path = ej/lo/nam
+	url = .
 [submodule "ej/lz/tfw"]
 	path = ej/lz/tfw
 	url = .
