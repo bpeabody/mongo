@@ -23551,6 +23551,9 @@
 [submodule "lj/cy/hsq"]
 	path = lj/cy/hsq
 	url = .
+[submodule "lj/hg/kwq"]
+	path = lj/hg/kwq
+	url = .
 [submodule "lj/ht/jqh"]
 	path = lj/ht/jqh
 	url = .
