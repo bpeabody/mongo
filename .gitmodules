@@ -20662,6 +20662,9 @@
 [submodule "ko/vi/lar"]
 	path = ko/vi/lar
 	url = .
+[submodule "ko/vq/ltj"]
+	path = ko/vq/ltj
+	url = .
 [submodule "ko/vy/lxp"]
 	path = ko/vy/lxp
 	url = .
