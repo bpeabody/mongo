@@ -4516,6 +4516,9 @@
 [submodule "zi/gw/pdy"]
 	path = zi/gw/pdy
 	url = .
+[submodule "zi/je/ris"]
+	path = zi/je/ris
+	url = .
 [submodule "zj/fw/emf"]
 	path = zj/fw/emf
 	url = .
