@@ -47593,6 +47593,9 @@
 [submodule "tf/gh/dkg"]
 	path = tf/gh/dkg
 	url = .
+[submodule "tf/gq/akq"]
+	path = tf/gq/akq
+	url = .
 [submodule "tf/hf/dmg"]
 	path = tf/hf/dmg
 	url = .
