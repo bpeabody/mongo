@@ -22,6 +22,9 @@
 [submodule "cl/vj/yrf"]
 	path = cl/vj/yrf
 	url = .
+[submodule "cn/ee/jzo"]
+	path = cn/ee/jzo
+	url = .
 [submodule "cp/lx/gql"]
 	path = cp/lx/gql
 	url = .
