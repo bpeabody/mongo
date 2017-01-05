@@ -1105,6 +1105,9 @@
 [submodule "bn/xe/ddi"]
 	path = bn/xe/ddi
 	url = .
+[submodule "bo/au/zsj"]
+	path = bo/au/zsj
+	url = .
 [submodule "bo/dv/wig"]
 	path = bo/dv/wig
 	url = .
