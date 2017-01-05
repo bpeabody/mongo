@@ -21949,6 +21949,9 @@
 [submodule "st/bs/dow"]
 	path = st/bs/dow
 	url = .
+[submodule "st/dn/bvn"]
+	path = st/dn/bvn
+	url = .
 [submodule "st/io/vva"]
 	path = st/io/vva
 	url = .
