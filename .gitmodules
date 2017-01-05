@@ -1453,6 +1453,9 @@
 [submodule "ar/my/msa"]
 	path = ar/my/msa
 	url = .
+[submodule "ar/qt/mrb"]
+	path = ar/qt/mrb
+	url = .
 [submodule "ar/rg/exu"]
 	path = ar/rg/exu
 	url = .
