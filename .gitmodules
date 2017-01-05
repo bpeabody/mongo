@@ -121,6 +121,9 @@
 [submodule "ab/da/ajg"]
 	path = ab/da/ajg
 	url = .
+[submodule "ab/eo/zdy"]
+	path = ab/eo/zdy
+	url = .
 [submodule "ab/fm/ixn"]
 	path = ab/fm/ixn
 	url = .
