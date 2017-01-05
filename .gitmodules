@@ -349,6 +349,9 @@
 [submodule "ad/ee/ucu"]
 	path = ad/ee/ucu
 	url = .
+[submodule "ad/gw/rev"]
+	path = ad/gw/rev
+	url = .
 [submodule "ad/hj/sbc"]
 	path = ad/hj/sbc
 	url = .
