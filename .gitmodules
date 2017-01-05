@@ -65827,6 +65827,9 @@
 [submodule "xc/ld/etx"]
 	path = xc/ld/etx
 	url = .
+[submodule "xc/ld/mmd"]
+	path = xc/ld/mmd
+	url = .
 [submodule "xc/lw/sca"]
 	path = xc/lw/sca
 	url = .
