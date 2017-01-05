@@ -34204,6 +34204,9 @@
 [submodule "px/ht/amp"]
 	path = px/ht/amp
 	url = .
+[submodule "px/ib/vpi"]
+	path = px/ib/vpi
+	url = .
 [submodule "px/ix/xlh"]
 	path = px/ix/xlh
 	url = .
