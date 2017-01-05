@@ -65335,6 +65335,9 @@
 [submodule "wy/lg/ice"]
 	path = wy/lg/ice
 	url = .
+[submodule "wy/lg/ift"]
+	path = wy/lg/ift
+	url = .
 [submodule "wy/mb/qdd"]
 	path = wy/mb/qdd
 	url = .
