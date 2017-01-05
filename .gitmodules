@@ -34267,6 +34267,9 @@
 [submodule "ly/ix/wbm"]
 	path = ly/ix/wbm
 	url = .
+[submodule "ly/jp/pbn"]
+	path = ly/jp/pbn
+	url = .
 [submodule "ly/kf/orx"]
 	path = ly/kf/orx
 	url = .
