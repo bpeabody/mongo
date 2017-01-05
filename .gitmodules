@@ -17554,6 +17554,9 @@
 [submodule "iw/bl/djd"]
 	path = iw/bl/djd
 	url = .
+[submodule "iw/fb/syq"]
+	path = iw/fb/syq
+	url = .
 [submodule "iw/fp/gza"]
 	path = iw/fp/gza
 	url = .
