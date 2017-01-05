@@ -49066,6 +49066,9 @@
 [submodule "rm/tc/nby"]
 	path = rm/tc/nby
 	url = .
+[submodule "rm/te/rkh"]
+	path = rm/te/rkh
+	url = .
 [submodule "rm/to/fkg"]
 	path = rm/to/fkg
 	url = .
