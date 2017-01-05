@@ -42214,6 +42214,9 @@
 [submodule "rd/hl/cra"]
 	path = rd/hl/cra
 	url = .
+[submodule "rd/hv/qcz"]
+	path = rd/hv/qcz
+	url = .
 [submodule "rd/if/upv"]
 	path = rd/if/upv
 	url = .
