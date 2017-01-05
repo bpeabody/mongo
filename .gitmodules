@@ -54811,6 +54811,9 @@
 [submodule "vt/cr/bsj"]
 	path = vt/cr/bsj
 	url = .
+[submodule "vt/cz/qdk"]
+	path = vt/cz/qdk
+	url = .
 [submodule "vt/dr/xqr"]
 	path = vt/dr/xqr
 	url = .
