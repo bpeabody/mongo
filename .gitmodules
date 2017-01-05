@@ -44128,6 +44128,9 @@
 [submodule "sw/bz/guc"]
 	path = sw/bz/guc
 	url = .
+[submodule "sw/bz/rzh"]
+	path = sw/bz/rzh
+	url = .
 [submodule "sw/ee/qjs"]
 	path = sw/ee/qjs
 	url = .
