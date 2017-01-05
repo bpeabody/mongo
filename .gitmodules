@@ -14278,6 +14278,9 @@
 [submodule "iy/pf/qsb"]
 	path = iy/pf/qsb
 	url = .
+[submodule "iy/qb/gan"]
+	path = iy/qb/gan
+	url = .
 [submodule "iy/qt/xvg"]
 	path = iy/qt/xvg
 	url = .
