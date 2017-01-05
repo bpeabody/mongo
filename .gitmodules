@@ -29791,6 +29791,9 @@
 [submodule "jt/ut/wal"]
 	path = jt/ut/wal
 	url = .
+[submodule "jt/uu/vfz"]
+	path = jt/uu/vfz
+	url = .
 [submodule "jt/xz/hfr"]
 	path = jt/xz/hfr
 	url = .
