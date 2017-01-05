@@ -4879,6 +4879,9 @@
 [submodule "bw/uz/lmc"]
 	path = bw/uz/lmc
 	url = .
+[submodule "bw/vt/wdw"]
+	path = bw/vt/wdw
+	url = .
 [submodule "bw/wb/ioi"]
 	path = bw/wb/ioi
 	url = .
