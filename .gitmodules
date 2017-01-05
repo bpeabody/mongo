@@ -66280,6 +66280,9 @@
 [submodule "yj/nz/jic"]
 	path = yj/nz/jic
 	url = .
+[submodule "yj/pn/nmp"]
+	path = yj/pn/nmp
+	url = .
 [submodule "yj/py/yac"]
 	path = yj/py/yac
 	url = .
