@@ -15217,6 +15217,9 @@
 [submodule "fx/fx/tpd"]
 	path = fx/fx/tpd
 	url = .
+[submodule "fx/gc/lnb"]
+	path = fx/gc/lnb
+	url = .
 [submodule "fx/gc/mjn"]
 	path = fx/gc/mjn
 	url = .
