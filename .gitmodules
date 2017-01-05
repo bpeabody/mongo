@@ -6262,6 +6262,9 @@
 [submodule "kf/vv/scg"]
 	path = kf/vv/scg
 	url = .
+[submodule "kf/xq/xie"]
+	path = kf/xq/xie
+	url = .
 [submodule "kf/zj/pud"]
 	path = kf/zj/pud
 	url = .
