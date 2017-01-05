@@ -370,6 +370,9 @@
 [submodule "af/hy/zrb"]
 	path = af/hy/zrb
 	url = .
+[submodule "af/ja/yfm"]
+	path = af/ja/yfm
+	url = .
 [submodule "af/kp/mtk"]
 	path = af/kp/mtk
 	url = .
