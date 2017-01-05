@@ -13882,6 +13882,9 @@
 [submodule "wm/oq/jaa"]
 	path = wm/oq/jaa
 	url = .
+[submodule "wm/ro/eeo"]
+	path = wm/ro/eeo
+	url = .
 [submodule "wm/xu/zug"]
 	path = wm/xu/zug
 	url = .
