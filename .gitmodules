@@ -20383,6 +20383,9 @@
 [submodule "uw/mv/ezi"]
 	path = uw/mv/ezi
 	url = .
+[submodule "uw/ny/pvw"]
+	path = uw/ny/pvw
+	url = .
 [submodule "uw/pv/daq"]
 	path = uw/pv/daq
 	url = .
