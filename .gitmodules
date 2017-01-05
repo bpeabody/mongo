@@ -23434,6 +23434,9 @@
 [submodule "kb/rr/edu"]
 	path = kb/rr/edu
 	url = .
+[submodule "kb/se/mgd"]
+	path = kb/se/mgd
+	url = .
 [submodule "kb/sj/ays"]
 	path = kb/sj/ays
 	url = .
