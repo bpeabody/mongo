@@ -22876,6 +22876,9 @@
 [submodule "la/zv/ely"]
 	path = la/zv/ely
 	url = .
+[submodule "lb/bk/vep"]
+	path = lb/bk/vep
+	url = .
 [submodule "lb/bx/eqm"]
 	path = lb/bx/eqm
 	url = .
