@@ -47584,6 +47584,9 @@
 [submodule "te/um/nde"]
 	path = te/um/nde
 	url = .
+[submodule "te/uv/ica"]
+	path = te/uv/ica
+	url = .
 [submodule "te/vm/ewd"]
 	path = te/vm/ewd
 	url = .
