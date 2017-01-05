@@ -871,6 +871,9 @@
 [submodule "bb/sk/ize"]
 	path = bb/sk/ize
 	url = .
+[submodule "bb/tq/ajm"]
+	path = bb/tq/ajm
+	url = .
 [submodule "bb/ug/yiq"]
 	path = bb/ug/yiq
 	url = .
