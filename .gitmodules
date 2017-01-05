@@ -49231,6 +49231,9 @@
 [submodule "se/gv/jbf"]
 	path = se/gv/jbf
 	url = .
+[submodule "se/kn/jcn"]
+	path = se/kn/jcn
+	url = .
 [submodule "se/lr/sqo"]
 	path = se/lr/sqo
 	url = .
