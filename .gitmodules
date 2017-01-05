@@ -5914,6 +5914,9 @@
 [submodule "gd/fd/oro"]
 	path = gd/fd/oro
 	url = .
+[submodule "gd/iv/lfc"]
+	path = gd/iv/lfc
+	url = .
 [submodule "gd/kz/yne"]
 	path = gd/kz/yne
 	url = .
