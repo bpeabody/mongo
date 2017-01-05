@@ -8806,6 +8806,9 @@
 [submodule "du/gy/mud"]
 	path = du/gy/mud
 	url = .
+[submodule "du/hg/ajx"]
+	path = du/hg/ajx
+	url = .
 [submodule "du/iw/qpq"]
 	path = du/iw/qpq
 	url = .
