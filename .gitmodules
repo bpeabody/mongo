@@ -2395,6 +2395,9 @@
 [submodule "xa/at/rhu"]
 	path = xa/at/rhu
 	url = .
+[submodule "xb/di/hgl"]
+	path = xb/di/hgl
+	url = .
 [submodule "xc/cf/yku"]
 	path = xc/cf/yku
 	url = .
