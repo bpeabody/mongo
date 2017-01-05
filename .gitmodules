@@ -2992,6 +2992,9 @@
 [submodule "yw/df/nep"]
 	path = yw/df/nep
 	url = .
+[submodule "yw/vr/cad"]
+	path = yw/vr/cad
+	url = .
 [submodule "yx/dl/dmn"]
 	path = yx/dl/dmn
 	url = .
