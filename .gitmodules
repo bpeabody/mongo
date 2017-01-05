@@ -1663,6 +1663,9 @@
 [submodule "se/qx/wac"]
 	path = se/qx/wac
 	url = .
+[submodule "se/sc/hye"]
+	path = se/sc/hye
+	url = .
 [submodule "se/vt/wnl"]
 	path = se/vt/wnl
 	url = .
