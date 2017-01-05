@@ -13231,6 +13231,9 @@
 [submodule "nz/dy/kzr"]
 	path = nz/dy/kzr
 	url = .
+[submodule "nz/eg/hwy"]
+	path = nz/eg/hwy
+	url = .
 [submodule "nz/gc/kah"]
 	path = nz/gc/kah
 	url = .
