@@ -103,6 +103,9 @@
 [submodule "bp/po/rhp"]
 	path = bp/po/rhp
 	url = .
+[submodule "bq/un/rpi"]
+	path = bq/un/rpi
+	url = .
 [submodule "bq/xi/fte"]
 	path = bq/xi/fte
 	url = .
