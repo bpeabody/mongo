@@ -45175,6 +45175,9 @@
 [submodule "uf/qe/tei"]
 	path = uf/qe/tei
 	url = .
+[submodule "uf/qy/gfv"]
+	path = uf/qy/gfv
+	url = .
 [submodule "uf/rx/phf"]
 	path = uf/rx/phf
 	url = .
