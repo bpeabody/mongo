@@ -12112,6 +12112,9 @@
 [submodule "ut/jh/zie"]
 	path = ut/jh/zie
 	url = .
+[submodule "ut/tj/jxd"]
+	path = ut/tj/jxd
+	url = .
 [submodule "ut/wf/urp"]
 	path = ut/wf/urp
 	url = .
