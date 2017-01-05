@@ -991,6 +991,9 @@
 [submodule "ch/fb/cia"]
 	path = ch/fb/cia
 	url = .
+[submodule "ch/hv/dzh"]
+	path = ch/hv/dzh
+	url = .
 [submodule "ch/jt/gtw"]
 	path = ch/jt/gtw
 	url = .
