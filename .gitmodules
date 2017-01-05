@@ -448,6 +448,9 @@
 [submodule "es/cy/txn"]
 	path = es/cy/txn
 	url = .
+[submodule "et/fy/kpp"]
+	path = et/fy/kpp
+	url = .
 [submodule "et/ql/vhx"]
 	path = et/ql/vhx
 	url = .
