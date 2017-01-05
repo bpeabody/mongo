@@ -8317,6 +8317,9 @@
 [submodule "ws/je/qea"]
 	path = ws/je/qea
 	url = .
+[submodule "ws/ni/con"]
+	path = ws/ni/con
+	url = .
 [submodule "ws/xt/rpc"]
 	path = ws/xt/rpc
 	url = .
