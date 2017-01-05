@@ -94,6 +94,9 @@
 [submodule "hn/be/klz"]
 	path = hn/be/klz
 	url = .
+[submodule "hq/uw/iwi"]
+	path = hq/uw/iwi
+	url = .
 [submodule "hr/nx/kca"]
 	path = hr/nx/kca
 	url = .
