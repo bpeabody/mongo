@@ -8821,6 +8821,9 @@
 [submodule "li/sx/rtz"]
 	path = li/sx/rtz
 	url = .
+[submodule "li/wm/sxk"]
+	path = li/wm/sxk
+	url = .
 [submodule "li/xi/iiz"]
 	path = li/xi/iiz
 	url = .
