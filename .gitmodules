@@ -7984,6 +7984,9 @@
 [submodule "ea/pu/vhi"]
 	path = ea/pu/vhi
 	url = .
+[submodule "ea/qy/yyz"]
+	path = ea/qy/yyz
+	url = .
 [submodule "ea/ro/mbk"]
 	path = ea/ro/mbk
 	url = .
