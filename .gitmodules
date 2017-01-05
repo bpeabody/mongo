@@ -4915,6 +4915,9 @@
 [submodule "pq/wi/uyt"]
 	path = pq/wi/uyt
 	url = .
+[submodule "pr/dt/ais"]
+	path = pr/dt/ais
+	url = .
 [submodule "pr/od/nld"]
 	path = pr/od/nld
 	url = .
