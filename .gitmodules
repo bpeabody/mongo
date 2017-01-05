@@ -7336,6 +7336,9 @@
 [submodule "gf/nb/jyr"]
 	path = gf/nb/jyr
 	url = .
+[submodule "gf/oa/dlc"]
+	path = gf/oa/dlc
+	url = .
 [submodule "gf/pr/kmp"]
 	path = gf/pr/kmp
 	url = .
