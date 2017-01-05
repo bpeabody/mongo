@@ -14020,6 +14020,9 @@
 [submodule "gj/nw/qvk"]
 	path = gj/nw/qvk
 	url = .
+[submodule "gj/pe/jdo"]
+	path = gj/pe/jdo
+	url = .
 [submodule "gj/qc/exb"]
 	path = gj/qc/exb
 	url = .
