@@ -3616,6 +3616,9 @@
 [submodule "jt/kx/nyq"]
 	path = jt/kx/nyq
 	url = .
+[submodule "jt/tb/ioi"]
+	path = jt/tb/ioi
+	url = .
 [submodule "jt/xz/hfr"]
 	path = jt/xz/hfr
 	url = .
