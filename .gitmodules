@@ -7669,6 +7669,9 @@
 [submodule "mf/pw/sbx"]
 	path = mf/pw/sbx
 	url = .
+[submodule "mf/ur/qbt"]
+	path = mf/ur/qbt
+	url = .
 [submodule "mf/xl/yqg"]
 	path = mf/xl/yqg
 	url = .
