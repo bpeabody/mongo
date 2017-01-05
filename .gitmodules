@@ -44266,6 +44266,9 @@
 [submodule "vm/na/boz"]
 	path = vm/na/boz
 	url = .
+[submodule "vm/nj/zfb"]
+	path = vm/nj/zfb
+	url = .
 [submodule "vm/rv/rus"]
 	path = vm/rv/rus
 	url = .
