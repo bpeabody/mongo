@@ -26224,6 +26224,9 @@
 [submodule "qn/xn/jmd"]
 	path = qn/xn/jmd
 	url = .
+[submodule "qn/zh/bvv"]
+	path = qn/zh/bvv
+	url = .
 [submodule "qn/zk/lni"]
 	path = qn/zk/lni
 	url = .
