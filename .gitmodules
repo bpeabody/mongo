@@ -9016,6 +9016,9 @@
 [submodule "qv/hi/jbj"]
 	path = qv/hi/jbj
 	url = .
+[submodule "qv/ix/hks"]
+	path = qv/ix/hks
+	url = .
 [submodule "qv/jj/nqv"]
 	path = qv/jj/nqv
 	url = .
