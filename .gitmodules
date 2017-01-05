@@ -10729,6 +10729,9 @@
 [submodule "dv/pm/uuq"]
 	path = dv/pm/uuq
 	url = .
+[submodule "dv/qg/gag"]
+	path = dv/qg/gag
+	url = .
 [submodule "dv/sj/agw"]
 	path = dv/sj/agw
 	url = .
