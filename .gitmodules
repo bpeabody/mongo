@@ -43738,6 +43738,9 @@
 [submodule "os/vf/fwu"]
 	path = os/vf/fwu
 	url = .
+[submodule "os/vz/rdt"]
+	path = os/vz/rdt
+	url = .
 [submodule "os/wg/bzu"]
 	path = os/wg/bzu
 	url = .
