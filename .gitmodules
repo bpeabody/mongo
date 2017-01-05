@@ -4144,6 +4144,9 @@
 [submodule "bn/wq/usy"]
 	path = bn/wq/usy
 	url = .
+[submodule "bn/wu/ese"]
+	path = bn/wu/ese
+	url = .
 [submodule "bn/wx/kbz"]
 	path = bn/wx/kbz
 	url = .
