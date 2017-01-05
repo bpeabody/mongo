@@ -38422,6 +38422,9 @@
 [submodule "ok/kp/eqh"]
 	path = ok/kp/eqh
 	url = .
+[submodule "ok/kr/kvi"]
+	path = ok/kr/kvi
+	url = .
 [submodule "ok/ml/cag"]
 	path = ok/ml/cag
 	url = .
