@@ -2893,6 +2893,9 @@
 [submodule "hp/kh/wul"]
 	path = hp/kh/wul
 	url = .
+[submodule "hp/pm/bcp"]
+	path = hp/pm/bcp
+	url = .
 [submodule "hp/yu/mfe"]
 	path = hp/yu/mfe
 	url = .
