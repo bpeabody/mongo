@@ -1816,6 +1816,9 @@
 [submodule "iu/if/eeb"]
 	path = iu/if/eeb
 	url = .
+[submodule "iu/je/eoh"]
+	path = iu/je/eoh
+	url = .
 [submodule "iu/kw/bwh"]
 	path = iu/kw/bwh
 	url = .
