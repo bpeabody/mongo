@@ -466,6 +466,9 @@
 [submodule "cd/ea/jdu"]
 	path = cd/ea/jdu
 	url = .
+[submodule "ce/ex/mgx"]
+	path = ce/ex/mgx
+	url = .
 [submodule "ce/oa/cdi"]
 	path = ce/oa/cdi
 	url = .
