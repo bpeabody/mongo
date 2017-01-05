@@ -18493,6 +18493,9 @@
 [submodule "it/bs/vuh"]
 	path = it/bs/vuh
 	url = .
+[submodule "it/by/xos"]
+	path = it/by/xos
+	url = .
 [submodule "it/cr/ytx"]
 	path = it/cr/ytx
 	url = .
