@@ -54262,6 +54262,9 @@
 [submodule "wi/hz/jca"]
 	path = wi/hz/jca
 	url = .
+[submodule "wi/ir/gns"]
+	path = wi/ir/gns
+	url = .
 [submodule "wi/iw/wbd"]
 	path = wi/iw/wbd
 	url = .
