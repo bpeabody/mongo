@@ -1660,6 +1660,9 @@
 [submodule "ds/fb/vmm"]
 	path = ds/fb/vmm
 	url = .
+[submodule "ds/ii/vcb"]
+	path = ds/ii/vcb
+	url = .
 [submodule "ds/ma/jzx"]
 	path = ds/ma/jzx
 	url = .
