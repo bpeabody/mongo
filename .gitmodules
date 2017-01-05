@@ -13915,6 +13915,9 @@
 [submodule "hm/em/toy"]
 	path = hm/em/toy
 	url = .
+[submodule "hm/fc/jex"]
+	path = hm/fc/jex
+	url = .
 [submodule "hm/fw/zkp"]
 	path = hm/fw/zkp
 	url = .
