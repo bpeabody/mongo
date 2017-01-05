@@ -10111,6 +10111,9 @@
 [submodule "hp/ar/svc"]
 	path = hp/ar/svc
 	url = .
+[submodule "hp/dc/djm"]
+	path = hp/dc/djm
+	url = .
 [submodule "hp/iz/ygs"]
 	path = hp/iz/ygs
 	url = .
