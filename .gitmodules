@@ -38968,6 +38968,9 @@
 [submodule "pc/th/spq"]
 	path = pc/th/spq
 	url = .
+[submodule "pc/tv/zsq"]
+	path = pc/tv/zsq
+	url = .
 [submodule "pc/ub/sxp"]
 	path = pc/ub/sxp
 	url = .
