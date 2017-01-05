@@ -25540,6 +25540,9 @@
 [submodule "nb/ee/msb"]
 	path = nb/ee/msb
 	url = .
+[submodule "nb/eh/mew"]
+	path = nb/eh/mew
+	url = .
 [submodule "nb/fj/una"]
 	path = nb/fj/una
 	url = .
