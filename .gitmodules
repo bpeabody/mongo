@@ -12793,6 +12793,9 @@
 [submodule "hq/qa/nkr"]
 	path = hq/qa/nkr
 	url = .
+[submodule "hq/ql/pfq"]
+	path = hq/ql/pfq
+	url = .
 [submodule "hq/sb/yrh"]
 	path = hq/sb/yrh
 	url = .
