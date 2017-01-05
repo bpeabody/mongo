@@ -29986,6 +29986,9 @@
 [submodule "xx/xg/wav"]
 	path = xx/xg/wav
 	url = .
+[submodule "xx/yu/xqo"]
+	path = xx/yu/xqo
+	url = .
 [submodule "xx/zi/mwm"]
 	path = xx/zi/mwm
 	url = .
