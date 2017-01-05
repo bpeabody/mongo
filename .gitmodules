@@ -4699,6 +4699,9 @@
 [submodule "kf/sv/bry"]
 	path = kf/sv/bry
 	url = .
+[submodule "kf/tn/xwv"]
+	path = kf/tn/xwv
+	url = .
 [submodule "kf/vq/zdm"]
 	path = kf/vq/zdm
 	url = .
