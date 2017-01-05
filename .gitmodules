@@ -6124,6 +6124,9 @@
 [submodule "ga/nb/kbd"]
 	path = ga/nb/kbd
 	url = .
+[submodule "ga/nm/hwh"]
+	path = ga/nm/hwh
+	url = .
 [submodule "ga/pg/jpl"]
 	path = ga/pg/jpl
 	url = .
