@@ -29560,6 +29560,9 @@
 [submodule "sh/gb/xyr"]
 	path = sh/gb/xyr
 	url = .
+[submodule "sh/gk/xut"]
+	path = sh/gk/xut
+	url = .
 [submodule "sh/gu/agc"]
 	path = sh/gu/agc
 	url = .
