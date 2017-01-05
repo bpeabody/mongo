@@ -14884,6 +14884,9 @@
 [submodule "pe/oq/xru"]
 	path = pe/oq/xru
 	url = .
+[submodule "pe/pm/ihr"]
+	path = pe/pm/ihr
+	url = .
 [submodule "pe/pt/gxl"]
 	path = pe/pt/gxl
 	url = .
