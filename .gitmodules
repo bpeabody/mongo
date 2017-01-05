@@ -27112,6 +27112,9 @@
 [submodule "xa/cu/idg"]
 	path = xa/cu/idg
 	url = .
+[submodule "xa/dx/fau"]
+	path = xa/dx/fau
+	url = .
 [submodule "xa/dx/zgu"]
 	path = xa/dx/zgu
 	url = .
