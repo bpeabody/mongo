@@ -26101,6 +26101,9 @@
 [submodule "ns/nt/rlf"]
 	path = ns/nt/rlf
 	url = .
+[submodule "ns/pc/fut"]
+	path = ns/pc/fut
+	url = .
 [submodule "ns/qb/slc"]
 	path = ns/qb/slc
 	url = .
