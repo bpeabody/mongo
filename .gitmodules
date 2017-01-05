@@ -4996,6 +4996,9 @@
 [submodule "pj/mu/hez"]
 	path = pj/mu/hez
 	url = .
+[submodule "pk/qa/udr"]
+	path = pk/qa/udr
+	url = .
 [submodule "pk/rd/brg"]
 	path = pk/rd/brg
 	url = .
