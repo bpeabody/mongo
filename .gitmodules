@@ -8866,6 +8866,9 @@
 [submodule "ek/rz/yub"]
 	path = ek/rz/yub
 	url = .
+[submodule "ek/uh/vdu"]
+	path = ek/uh/vdu
+	url = .
 [submodule "ek/vr/few"]
 	path = ek/vr/few
 	url = .
