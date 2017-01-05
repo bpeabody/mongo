@@ -7675,6 +7675,9 @@
 [submodule "rm/pn/mtq"]
 	path = rm/pn/mtq
 	url = .
+[submodule "rm/rw/com"]
+	path = rm/rw/com
+	url = .
 [submodule "rm/xn/emh"]
 	path = rm/xn/emh
 	url = .
