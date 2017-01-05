@@ -51589,6 +51589,9 @@
 [submodule "si/tc/uty"]
 	path = si/tc/uty
 	url = .
+[submodule "si/un/mng"]
+	path = si/un/mng
+	url = .
 [submodule "si/uz/elt"]
 	path = si/uz/elt
 	url = .
