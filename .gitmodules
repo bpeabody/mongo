@@ -15427,6 +15427,9 @@
 [submodule "lp/gn/usp"]
 	path = lp/gn/usp
 	url = .
+[submodule "lp/gw/sbp"]
+	path = lp/gw/sbp
+	url = .
 [submodule "lp/hm/vxx"]
 	path = lp/hm/vxx
 	url = .
