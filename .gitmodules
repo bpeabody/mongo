@@ -62701,6 +62701,9 @@
 [submodule "wn/md/mim"]
 	path = wn/md/mim
 	url = .
+[submodule "wn/mi/rst"]
+	path = wn/mi/rst
+	url = .
 [submodule "wn/mv/lce"]
 	path = wn/mv/lce
 	url = .
