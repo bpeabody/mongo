@@ -28588,6 +28588,9 @@
 [submodule "uy/di/sdf"]
 	path = uy/di/sdf
 	url = .
+[submodule "uy/eg/xeg"]
+	path = uy/eg/xeg
+	url = .
 [submodule "uy/fb/lez"]
 	path = uy/fb/lez
 	url = .
