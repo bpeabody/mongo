@@ -13930,6 +13930,9 @@
 [submodule "ql/xw/sdo"]
 	path = ql/xw/sdo
 	url = .
+[submodule "ql/xy/nyo"]
+	path = ql/xy/nyo
+	url = .
 [submodule "qm/fl/xks"]
 	path = qm/fl/xks
 	url = .
