@@ -7753,6 +7753,9 @@
 [submodule "dk/xt/dba"]
 	path = dk/xt/dba
 	url = .
+[submodule "dk/ya/abe"]
+	path = dk/ya/abe
+	url = .
 [submodule "dk/yf/mse"]
 	path = dk/yf/mse
 	url = .
