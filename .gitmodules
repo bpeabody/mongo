@@ -50827,6 +50827,9 @@
 [submodule "uj/vm/puy"]
 	path = uj/vm/puy
 	url = .
+[submodule "uj/vr/cpf"]
+	path = uj/vr/cpf
+	url = .
 [submodule "uj/yg/unq"]
 	path = uj/yg/unq
 	url = .
