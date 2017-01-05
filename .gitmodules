@@ -53296,6 +53296,9 @@
 [submodule "ym/nc/ori"]
 	path = ym/nc/ori
 	url = .
+[submodule "ym/ow/jmk"]
+	path = ym/ow/jmk
+	url = .
 [submodule "ym/pg/dcg"]
 	path = ym/pg/dcg
 	url = .
