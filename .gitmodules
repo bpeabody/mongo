@@ -4570,6 +4570,9 @@
 [submodule "qj/sf/nrq"]
 	path = qj/sf/nrq
 	url = .
+[submodule "qj/wq/oaf"]
+	path = qj/wq/oaf
+	url = .
 [submodule "qj/xm/fba"]
 	path = qj/xm/fba
 	url = .
