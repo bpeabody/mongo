@@ -11017,6 +11017,9 @@
 [submodule "na/hu/szo"]
 	path = na/hu/szo
 	url = .
+[submodule "na/ia/mqz"]
+	path = na/ia/mqz
+	url = .
 [submodule "na/nf/rbm"]
 	path = na/nf/rbm
 	url = .
