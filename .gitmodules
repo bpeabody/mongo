@@ -8227,6 +8227,9 @@
 [submodule "ip/ft/fim"]
 	path = ip/ft/fim
 	url = .
+[submodule "ip/hu/qzv"]
+	path = ip/hu/qzv
+	url = .
 [submodule "ip/jy/zrf"]
 	path = ip/jy/zrf
 	url = .
