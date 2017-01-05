@@ -11236,6 +11236,9 @@
 [submodule "fc/cc/lab"]
 	path = fc/cc/lab
 	url = .
+[submodule "fc/et/gci"]
+	path = fc/et/gci
+	url = .
 [submodule "fc/ew/uvk"]
 	path = fc/ew/uvk
 	url = .
