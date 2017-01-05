@@ -51412,6 +51412,9 @@
 [submodule "rq/hu/fto"]
 	path = rq/hu/fto
 	url = .
+[submodule "rq/hy/xmi"]
+	path = rq/hy/xmi
+	url = .
 [submodule "rq/if/vsy"]
 	path = rq/if/vsy
 	url = .
