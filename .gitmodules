@@ -7009,6 +7009,9 @@
 [submodule "fx/aw/oab"]
 	path = fx/aw/oab
 	url = .
+[submodule "fx/bd/avi"]
+	path = fx/bd/avi
+	url = .
 [submodule "fx/bf/jqm"]
 	path = fx/bf/jqm
 	url = .
