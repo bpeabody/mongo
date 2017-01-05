@@ -3988,6 +3988,9 @@
 [submodule "sa/ur/xvt"]
 	path = sa/ur/xvt
 	url = .
+[submodule "sb/or/ceo"]
+	path = sb/or/ceo
+	url = .
 [submodule "sb/wh/ovz"]
 	path = sb/wh/ovz
 	url = .
