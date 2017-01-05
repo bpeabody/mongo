@@ -9904,6 +9904,9 @@
 [submodule "hx/bo/enr"]
 	path = hx/bo/enr
 	url = .
+[submodule "hx/db/jyo"]
+	path = hx/db/jyo
+	url = .
 [submodule "hx/el/gge"]
 	path = hx/el/gge
 	url = .
