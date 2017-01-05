@@ -44269,6 +44269,9 @@
 [submodule "vc/lc/nez"]
 	path = vc/lc/nez
 	url = .
+[submodule "vc/lu/aoe"]
+	path = vc/lu/aoe
+	url = .
 [submodule "vc/nc/ngc"]
 	path = vc/nc/ngc
 	url = .
