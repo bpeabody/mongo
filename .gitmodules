@@ -25408,6 +25408,9 @@
 [submodule "ij/gm/szn"]
 	path = ij/gm/szn
 	url = .
+[submodule "ij/jd/bzu"]
+	path = ij/jd/bzu
+	url = .
 [submodule "ij/ji/xor"]
 	path = ij/ji/xor
 	url = .
