@@ -1171,6 +1171,9 @@
 [submodule "au/zg/cdi"]
 	path = au/zg/cdi
 	url = .
+[submodule "au/zn/sro"]
+	path = au/zn/sro
+	url = .
 [submodule "av/ai/vvo"]
 	path = av/ai/vvo
 	url = .
