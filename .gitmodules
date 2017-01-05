@@ -38329,6 +38329,9 @@
 [submodule "qr/ws/drf"]
 	path = qr/ws/drf
 	url = .
+[submodule "qr/xs/vks"]
+	path = qr/xs/vks
+	url = .
 [submodule "qr/zc/dff"]
 	path = qr/zc/dff
 	url = .
