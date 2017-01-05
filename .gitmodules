@@ -5221,6 +5221,9 @@
 [submodule "oe/bg/gct"]
 	path = oe/bg/gct
 	url = .
+[submodule "oe/fq/oxk"]
+	path = oe/fq/oxk
+	url = .
 [submodule "oe/me/agn"]
 	path = oe/me/agn
 	url = .
