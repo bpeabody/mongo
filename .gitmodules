@@ -20572,6 +20572,9 @@
 [submodule "sx/qm/ljh"]
 	path = sx/qm/ljh
 	url = .
+[submodule "sx/wk/ibm"]
+	path = sx/wk/ibm
+	url = .
 [submodule "sx/xb/rxg"]
 	path = sx/xb/rxg
 	url = .
