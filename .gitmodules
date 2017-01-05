@@ -30901,6 +30901,9 @@
 [submodule "kf/qn/cvx"]
 	path = kf/qn/cvx
 	url = .
+[submodule "kf/qv/piq"]
+	path = kf/qv/piq
+	url = .
 [submodule "kf/qz/vqu"]
 	path = kf/qz/vqu
 	url = .
