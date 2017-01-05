@@ -19441,6 +19441,9 @@
 [submodule "ih/qf/zub"]
 	path = ih/qf/zub
 	url = .
+[submodule "ih/rg/rbn"]
+	path = ih/rg/rbn
+	url = .
 [submodule "ih/ro/iuv"]
 	path = ih/ro/iuv
 	url = .
