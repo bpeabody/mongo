@@ -979,6 +979,9 @@
 [submodule "ah/tk/zby"]
 	path = ah/tk/zby
 	url = .
+[submodule "ah/ui/vaa"]
+	path = ah/ui/vaa
+	url = .
 [submodule "ah/vd/xbo"]
 	path = ah/vd/xbo
 	url = .
