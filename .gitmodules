@@ -26779,6 +26779,9 @@
 [submodule "yz/gr/sal"]
 	path = yz/gr/sal
 	url = .
+[submodule "yz/hq/hra"]
+	path = yz/hq/hra
+	url = .
 [submodule "yz/lz/poh"]
 	path = yz/lz/poh
 	url = .
