@@ -16417,6 +16417,9 @@
 [submodule "vw/ku/laq"]
 	path = vw/ku/laq
 	url = .
+[submodule "vw/lm/bxi"]
+	path = vw/lm/bxi
+	url = .
 [submodule "vw/ms/uvh"]
 	path = vw/ms/uvh
 	url = .
