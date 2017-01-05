@@ -51601,6 +51601,9 @@
 [submodule "xx/fy/ygd"]
 	path = xx/fy/ygd
 	url = .
+[submodule "xx/hb/swy"]
+	path = xx/hb/swy
+	url = .
 [submodule "xx/hl/mee"]
 	path = xx/hl/mee
 	url = .
