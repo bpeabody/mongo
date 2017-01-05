@@ -5503,6 +5503,9 @@
 [submodule "vp/do/jvf"]
 	path = vp/do/jvf
 	url = .
+[submodule "vp/hq/gqa"]
+	path = vp/hq/gqa
+	url = .
 [submodule "vp/ww/gqd"]
 	path = vp/ww/gqd
 	url = .
