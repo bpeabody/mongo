@@ -1120,6 +1120,9 @@
 [submodule "bt/og/clt"]
 	path = bt/og/clt
 	url = .
+[submodule "bt/xc/bcj"]
+	path = bt/xc/bcj
+	url = .
 [submodule "bt/yi/mpy"]
 	path = bt/yi/mpy
 	url = .
