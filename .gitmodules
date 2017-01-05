@@ -11014,6 +11014,9 @@
 [submodule "ha/ga/llv"]
 	path = ha/ga/llv
 	url = .
+[submodule "ha/gk/mbh"]
+	path = ha/gk/mbh
+	url = .
 [submodule "ha/id/hvh"]
 	path = ha/id/hvh
 	url = .
