@@ -15622,6 +15622,9 @@
 [submodule "kh/fg/qvt"]
 	path = kh/fg/qvt
 	url = .
+[submodule "kh/fn/gqp"]
+	path = kh/fn/gqp
+	url = .
 [submodule "kh/gk/hpp"]
 	path = kh/gk/hpp
 	url = .
