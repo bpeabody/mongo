@@ -36475,6 +36475,9 @@
 [submodule "qk/vd/red"]
 	path = qk/vd/red
 	url = .
+[submodule "qk/wh/tty"]
+	path = qk/wh/tty
+	url = .
 [submodule "qk/yd/pxb"]
 	path = qk/yd/pxb
 	url = .
