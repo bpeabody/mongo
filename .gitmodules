@@ -8002,6 +8002,9 @@
 [submodule "dn/ih/nnb"]
 	path = dn/ih/nnb
 	url = .
+[submodule "dn/ko/xlr"]
+	path = dn/ko/xlr
+	url = .
 [submodule "dn/mk/bnb"]
 	path = dn/mk/bnb
 	url = .
