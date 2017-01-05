@@ -9841,6 +9841,9 @@
 [submodule "rf/or/nyj"]
 	path = rf/or/nyj
 	url = .
+[submodule "rf/py/kcl"]
+	path = rf/py/kcl
+	url = .
 [submodule "rf/sa/jms"]
 	path = rf/sa/jms
 	url = .
