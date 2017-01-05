@@ -1210,6 +1210,9 @@
 [submodule "ar/cy/pfi"]
 	path = ar/cy/pfi
 	url = .
+[submodule "ar/dd/rds"]
+	path = ar/dd/rds
+	url = .
 [submodule "ar/hb/aqy"]
 	path = ar/hb/aqy
 	url = .
