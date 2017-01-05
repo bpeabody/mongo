@@ -15553,6 +15553,9 @@
 [submodule "jm/qt/ejn"]
 	path = jm/qt/ejn
 	url = .
+[submodule "jm/rf/vwx"]
+	path = jm/rf/vwx
+	url = .
 [submodule "jm/vi/tro"]
 	path = jm/vi/tro
 	url = .
