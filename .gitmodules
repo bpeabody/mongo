@@ -3703,6 +3703,9 @@
 [submodule "ck/ra/lnf"]
 	path = ck/ra/lnf
 	url = .
+[submodule "ck/tn/wem"]
+	path = ck/tn/wem
+	url = .
 [submodule "ck/ub/pfp"]
 	path = ck/ub/pfp
 	url = .
