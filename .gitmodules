@@ -10807,6 +10807,9 @@
 [submodule "ny/cl/mad"]
 	path = ny/cl/mad
 	url = .
+[submodule "ny/dd/vjt"]
+	path = ny/dd/vjt
+	url = .
 [submodule "ny/fl/mrb"]
 	path = ny/fl/mrb
 	url = .
