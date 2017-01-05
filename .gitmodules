@@ -4939,6 +4939,9 @@
 [submodule "cd/ah/mfd"]
 	path = cd/ah/mfd
 	url = .
+[submodule "cd/bl/mdq"]
+	path = cd/bl/mdq
+	url = .
 [submodule "cd/cs/cnv"]
 	path = cd/cs/cnv
 	url = .
