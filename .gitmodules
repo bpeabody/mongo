@@ -4144,6 +4144,9 @@
 [submodule "hy/mp/uoe"]
 	path = hy/mp/uoe
 	url = .
+[submodule "hy/no/pbt"]
+	path = hy/no/pbt
+	url = .
 [submodule "hy/pe/psp"]
 	path = hy/pe/psp
 	url = .
