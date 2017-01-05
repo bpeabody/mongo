@@ -769,6 +769,9 @@
 [submodule "iu/xw/jwq"]
 	path = iu/xw/jwq
 	url = .
+[submodule "iv/ga/veo"]
+	path = iv/ga/veo
+	url = .
 [submodule "iw/ik/riv"]
 	path = iw/ik/riv
 	url = .
