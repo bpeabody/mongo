@@ -34450,6 +34450,9 @@
 [submodule "pw/et/ktr"]
 	path = pw/et/ktr
 	url = .
+[submodule "pw/ez/aji"]
+	path = pw/ez/aji
+	url = .
 [submodule "pw/fi/wdb"]
 	path = pw/fi/wdb
 	url = .
