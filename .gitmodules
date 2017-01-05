@@ -35728,6 +35728,9 @@
 [submodule "mn/lv/nni"]
 	path = mn/lv/nni
 	url = .
+[submodule "mn/ly/zsp"]
+	path = mn/ly/zsp
+	url = .
 [submodule "mn/ni/uvh"]
 	path = mn/ni/uvh
 	url = .
