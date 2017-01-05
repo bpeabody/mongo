@@ -13801,6 +13801,9 @@
 [submodule "es/re/wkw"]
 	path = es/re/wkw
 	url = .
+[submodule "es/sb/kel"]
+	path = es/sb/kel
+	url = .
 [submodule "es/se/dak"]
 	path = es/se/dak
 	url = .
