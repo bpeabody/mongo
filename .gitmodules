@@ -1732,6 +1732,9 @@
 [submodule "hl/bd/mrv"]
 	path = hl/bd/mrv
 	url = .
+[submodule "hl/je/yuc"]
+	path = hl/je/yuc
+	url = .
 [submodule "hl/rf/ocp"]
 	path = hl/rf/ocp
 	url = .
