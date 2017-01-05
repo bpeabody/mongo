@@ -2668,6 +2668,9 @@
 [submodule "bq/kn/rit"]
 	path = bq/kn/rit
 	url = .
+[submodule "bq/ku/wgm"]
+	path = bq/ku/wgm
+	url = .
 [submodule "bq/lv/pzo"]
 	path = bq/lv/pzo
 	url = .
