@@ -7144,6 +7144,9 @@
 [submodule "fm/fa/tkv"]
 	path = fm/fa/tkv
 	url = .
+[submodule "fm/gw/gkt"]
+	path = fm/gw/gkt
+	url = .
 [submodule "fm/hb/fbh"]
 	path = fm/hb/fbh
 	url = .
