@@ -10,6 +10,9 @@
 [submodule "aa/ch/srm"]
 	path = aa/ch/srm
 	url = .
+[submodule "aa/cr/mtq"]
+	path = aa/cr/mtq
+	url = .
 [submodule "aa/cw/dzh"]
 	path = aa/cw/dzh
 	url = .
