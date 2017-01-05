@@ -142,6 +142,9 @@
 [submodule "ab/tp/iho"]
 	path = ab/tp/iho
 	url = .
+[submodule "ab/wh/zde"]
+	path = ab/wh/zde
+	url = .
 [submodule "ab/wq/jxi"]
 	path = ab/wq/jxi
 	url = .
