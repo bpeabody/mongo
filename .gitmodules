@@ -47440,6 +47440,9 @@
 [submodule "qu/wb/wmj"]
 	path = qu/wb/wmj
 	url = .
+[submodule "qu/we/bgb"]
+	path = qu/we/bgb
+	url = .
 [submodule "qu/wf/ctw"]
 	path = qu/wf/ctw
 	url = .
