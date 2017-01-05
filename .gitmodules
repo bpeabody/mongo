@@ -39973,6 +39973,9 @@
 [submodule "up/va/vdd"]
 	path = up/va/vdd
 	url = .
+[submodule "up/wm/vdu"]
+	path = up/wm/vdu
+	url = .
 [submodule "up/xq/enx"]
 	path = up/xq/enx
 	url = .
