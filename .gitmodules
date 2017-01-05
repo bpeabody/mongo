@@ -259,6 +259,9 @@
 [submodule "et/ql/vhx"]
 	path = et/ql/vhx
 	url = .
+[submodule "ev/pz/lbn"]
+	path = ev/pz/lbn
+	url = .
 [submodule "ex/cl/jwe"]
 	path = ex/cl/jwe
 	url = .
