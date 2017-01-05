@@ -6514,6 +6514,9 @@
 [submodule "io/aw/fgo"]
 	path = io/aw/fgo
 	url = .
+[submodule "io/aw/skk"]
+	path = io/aw/skk
+	url = .
 [submodule "io/dl/euh"]
 	path = io/dl/euh
 	url = .
