@@ -31114,6 +31114,9 @@
 [submodule "lg/ne/tip"]
 	path = lg/ne/tip
 	url = .
+[submodule "lg/nu/nuc"]
+	path = lg/nu/nuc
+	url = .
 [submodule "lg/of/gmu"]
 	path = lg/of/gmu
 	url = .
