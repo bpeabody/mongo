@@ -1600,6 +1600,9 @@
 [submodule "ao/ih/cai"]
 	path = ao/ih/cai
 	url = .
+[submodule "ao/iq/qql"]
+	path = ao/iq/qql
+	url = .
 [submodule "ao/kf/pam"]
 	path = ao/kf/pam
 	url = .
