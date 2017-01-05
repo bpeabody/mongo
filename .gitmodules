@@ -25126,6 +25126,9 @@
 [submodule "ih/sv/zki"]
 	path = ih/sv/zki
 	url = .
+[submodule "ih/sy/cqy"]
+	path = ih/sy/cqy
+	url = .
 [submodule "ih/tc/kdm"]
 	path = ih/tc/kdm
 	url = .
