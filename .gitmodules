@@ -23521,6 +23521,9 @@
 [submodule "ug/rg/nwg"]
 	path = ug/rg/nwg
 	url = .
+[submodule "ug/uj/jum"]
+	path = ug/uj/jum
+	url = .
 [submodule "ug/uv/ktq"]
 	path = ug/uv/ktq
 	url = .
