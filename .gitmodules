@@ -3358,6 +3358,9 @@
 [submodule "fn/ux/cpt"]
 	path = fn/ux/cpt
 	url = .
+[submodule "fn/wy/nor"]
+	path = fn/wy/nor
+	url = .
 [submodule "fn/yd/sri"]
 	path = fn/yd/sri
 	url = .
