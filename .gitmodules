@@ -10972,6 +10972,9 @@
 [submodule "fj/gj/emx"]
 	path = fj/gj/emx
 	url = .
+[submodule "fj/gs/clz"]
+	path = fj/gs/clz
+	url = .
 [submodule "fj/ir/fce"]
 	path = fj/ir/fce
 	url = .
