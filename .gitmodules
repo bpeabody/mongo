@@ -50365,6 +50365,9 @@
 [submodule "sf/oh/rfm"]
 	path = sf/oh/rfm
 	url = .
+[submodule "sf/rf/syn"]
+	path = sf/rf/syn
+	url = .
 [submodule "sf/rq/few"]
 	path = sf/rq/few
 	url = .
