@@ -42592,6 +42592,9 @@
 [submodule "vc/nc/ngc"]
 	path = vc/nc/ngc
 	url = .
+[submodule "vc/on/qkd"]
+	path = vc/on/qkd
+	url = .
 [submodule "vc/oo/ojz"]
 	path = vc/oo/ojz
 	url = .
