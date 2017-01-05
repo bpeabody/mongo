@@ -4303,6 +4303,9 @@
 [submodule "em/ck/sxc"]
 	path = em/ck/sxc
 	url = .
+[submodule "em/em/mwa"]
+	path = em/em/mwa
+	url = .
 [submodule "em/fj/fko"]
 	path = em/fj/fko
 	url = .
