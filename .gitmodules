@@ -5389,6 +5389,9 @@
 [submodule "ke/yd/ldb"]
 	path = ke/yd/ldb
 	url = .
+[submodule "ke/zw/gzj"]
+	path = ke/zw/gzj
+	url = .
 [submodule "kf/sv/bry"]
 	path = kf/sv/bry
 	url = .
