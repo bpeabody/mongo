@@ -7264,6 +7264,9 @@
 [submodule "ct/no/dob"]
 	path = ct/no/dob
 	url = .
+[submodule "ct/ok/cqv"]
+	path = ct/ok/cqv
+	url = .
 [submodule "ct/or/qdb"]
 	path = ct/or/qdb
 	url = .
