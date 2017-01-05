@@ -16597,6 +16597,9 @@
 [submodule "ir/oa/psl"]
 	path = ir/oa/psl
 	url = .
+[submodule "ir/pe/zly"]
+	path = ir/pe/zly
+	url = .
 [submodule "ir/qs/rth"]
 	path = ir/qs/rth
 	url = .
