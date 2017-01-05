@@ -9175,6 +9175,9 @@
 [submodule "gw/jy/sup"]
 	path = gw/jy/sup
 	url = .
+[submodule "gw/kq/nha"]
+	path = gw/kq/nha
+	url = .
 [submodule "gw/nj/gwd"]
 	path = gw/nj/gwd
 	url = .
