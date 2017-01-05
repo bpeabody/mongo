@@ -12139,6 +12139,9 @@
 [submodule "fe/ib/rhb"]
 	path = fe/ib/rhb
 	url = .
+[submodule "fe/je/uzu"]
+	path = fe/je/uzu
+	url = .
 [submodule "fe/jn/uav"]
 	path = fe/jn/uav
 	url = .
