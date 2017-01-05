@@ -6832,6 +6832,9 @@
 [submodule "mv/bc/fyv"]
 	path = mv/bc/fyv
 	url = .
+[submodule "mv/de/ufm"]
+	path = mv/de/ufm
+	url = .
 [submodule "mv/dz/sdg"]
 	path = mv/dz/sdg
 	url = .
