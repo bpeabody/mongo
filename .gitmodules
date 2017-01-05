@@ -14038,6 +14038,9 @@
 [submodule "we/nw/jgn"]
 	path = we/nw/jgn
 	url = .
+[submodule "we/ss/hlq"]
+	path = we/ss/hlq
+	url = .
 [submodule "we/tb/bkd"]
 	path = we/tb/bkd
 	url = .
