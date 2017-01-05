@@ -22111,6 +22111,9 @@
 [submodule "tv/ky/xfb"]
 	path = tv/ky/xfb
 	url = .
+[submodule "tv/mu/swr"]
+	path = tv/mu/swr
+	url = .
 [submodule "tv/qh/fys"]
 	path = tv/qh/fys
 	url = .
