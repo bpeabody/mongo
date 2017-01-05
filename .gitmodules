@@ -17428,6 +17428,9 @@
 [submodule "pd/iu/bkm"]
 	path = pd/iu/bkm
 	url = .
+[submodule "pd/ki/rvx"]
+	path = pd/ki/rvx
+	url = .
 [submodule "pd/ml/fft"]
 	path = pd/ml/fft
 	url = .
