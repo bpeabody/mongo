@@ -6625,6 +6625,9 @@
 [submodule "pf/gz/bcb"]
 	path = pf/gz/bcb
 	url = .
+[submodule "pf/iw/zxd"]
+	path = pf/iw/zxd
+	url = .
 [submodule "pf/ob/psu"]
 	path = pf/ob/psu
 	url = .
