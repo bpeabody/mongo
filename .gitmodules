@@ -16756,6 +16756,9 @@
 [submodule "gt/ft/vfx"]
 	path = gt/ft/vfx
 	url = .
+[submodule "gt/ge/abu"]
+	path = gt/ge/abu
+	url = .
 [submodule "gt/gq/qxh"]
 	path = gt/gq/qxh
 	url = .
