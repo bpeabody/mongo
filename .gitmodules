@@ -19900,6 +19900,9 @@
 [submodule "jp/cb/xni"]
 	path = jp/cb/xni
 	url = .
+[submodule "jp/ck/few"]
+	path = jp/ck/few
+	url = .
 [submodule "jp/eb/cki"]
 	path = jp/eb/cki
 	url = .
