@@ -6424,6 +6424,9 @@
 [submodule "hi/hh/qbc"]
 	path = hi/hh/qbc
 	url = .
+[submodule "hi/io/ijx"]
+	path = hi/io/ijx
+	url = .
 [submodule "hi/ll/ldk"]
 	path = hi/ll/ldk
 	url = .
