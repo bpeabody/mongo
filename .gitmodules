@@ -19558,6 +19558,9 @@
 [submodule "vu/pd/wuv"]
 	path = vu/pd/wuv
 	url = .
+[submodule "vu/ts/wbe"]
+	path = vu/ts/wbe
+	url = .
 [submodule "vu/vj/dqh"]
 	path = vu/vj/dqh
 	url = .
