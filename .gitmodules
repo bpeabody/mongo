@@ -5116,6 +5116,9 @@
 [submodule "bs/qc/apl"]
 	path = bs/qc/apl
 	url = .
+[submodule "bs/ri/fkt"]
+	path = bs/ri/fkt
+	url = .
 [submodule "bs/rx/idn"]
 	path = bs/rx/idn
 	url = .
