@@ -7657,6 +7657,9 @@
 [submodule "di/ad/vrt"]
 	path = di/ad/vrt
 	url = .
+[submodule "di/by/hbc"]
+	path = di/by/hbc
+	url = .
 [submodule "di/ct/afu"]
 	path = di/ct/afu
 	url = .
