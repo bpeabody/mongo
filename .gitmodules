@@ -2305,6 +2305,9 @@
 [submodule "hx/mw/erh"]
 	path = hx/mw/erh
 	url = .
+[submodule "hx/ta/akr"]
+	path = hx/ta/akr
+	url = .
 [submodule "hy/ev/mgw"]
 	path = hy/ev/mgw
 	url = .
