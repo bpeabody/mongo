@@ -4132,6 +4132,9 @@
 [submodule "wl/uo/wld"]
 	path = wl/uo/wld
 	url = .
+[submodule "wm/xu/zug"]
+	path = wm/xu/zug
+	url = .
 [submodule "wn/nq/yug"]
 	path = wn/nq/yug
 	url = .
