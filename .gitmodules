@@ -15883,6 +15883,9 @@
 [submodule "jg/bd/nut"]
 	path = jg/bd/nut
 	url = .
+[submodule "jg/cd/aqt"]
+	path = jg/cd/aqt
+	url = .
 [submodule "jg/cn/qfa"]
 	path = jg/cn/qfa
 	url = .
