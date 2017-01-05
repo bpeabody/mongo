@@ -3229,6 +3229,9 @@
 [submodule "lu/zr/czy"]
 	path = lu/zr/czy
 	url = .
+[submodule "lv/db/roe"]
+	path = lv/db/roe
+	url = .
 [submodule "lv/ja/art"]
 	path = lv/ja/art
 	url = .
