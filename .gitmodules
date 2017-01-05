@@ -28984,6 +28984,9 @@
 [submodule "ng/mk/akb"]
 	path = ng/mk/akb
 	url = .
+[submodule "ng/mt/uxm"]
+	path = ng/mt/uxm
+	url = .
 [submodule "ng/om/ygd"]
 	path = ng/om/ygd
 	url = .
