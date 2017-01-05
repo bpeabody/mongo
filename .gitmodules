@@ -3547,6 +3547,9 @@
 [submodule "dm/bl/qpn"]
 	path = dm/bl/qpn
 	url = .
+[submodule "dm/ee/vxq"]
+	path = dm/ee/vxq
+	url = .
 [submodule "dm/ex/ixc"]
 	path = dm/ex/ixc
 	url = .
