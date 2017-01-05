@@ -42280,6 +42280,9 @@
 [submodule "yw/ic/mql"]
 	path = yw/ic/mql
 	url = .
+[submodule "yw/ir/wmc"]
+	path = yw/ir/wmc
+	url = .
 [submodule "yw/lt/xxa"]
 	path = yw/lt/xxa
 	url = .
