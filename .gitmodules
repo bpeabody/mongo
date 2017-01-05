@@ -7807,6 +7807,9 @@
 [submodule "ro/pp/eok"]
 	path = ro/pp/eok
 	url = .
+[submodule "ro/tw/exo"]
+	path = ro/tw/exo
+	url = .
 [submodule "ro/vy/pqb"]
 	path = ro/vy/pqb
 	url = .
