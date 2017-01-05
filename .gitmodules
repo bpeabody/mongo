@@ -44230,6 +44230,9 @@
 [submodule "qb/pm/gmj"]
 	path = qb/pm/gmj
 	url = .
+[submodule "qb/py/qki"]
+	path = qb/py/qki
+	url = .
 [submodule "qb/qi/fke"]
 	path = qb/qi/fke
 	url = .
