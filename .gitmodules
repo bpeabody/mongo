@@ -9613,6 +9613,9 @@
 [submodule "mg/vm/mej"]
 	path = mg/vm/mej
 	url = .
+[submodule "mg/xp/cic"]
+	path = mg/xp/cic
+	url = .
 [submodule "mg/zd/wqj"]
 	path = mg/zd/wqj
 	url = .
