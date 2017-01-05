@@ -2287,6 +2287,9 @@
 [submodule "dp/qh/naf"]
 	path = dp/qh/naf
 	url = .
+[submodule "dp/sa/wyk"]
+	path = dp/sa/wyk
+	url = .
 [submodule "dp/se/teo"]
 	path = dp/se/teo
 	url = .
