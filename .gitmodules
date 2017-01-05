@@ -64981,6 +64981,9 @@
 [submodule "yo/ai/fdr"]
 	path = yo/ai/fdr
 	url = .
+[submodule "yo/ak/akg"]
+	path = yo/ak/akg
+	url = .
 [submodule "yo/ap/vdn"]
 	path = yo/ap/vdn
 	url = .
