@@ -1960,6 +1960,9 @@
 [submodule "sd/vb/gsg"]
 	path = sd/vb/gsg
 	url = .
+[submodule "se/fp/sbv"]
+	path = se/fp/sbv
+	url = .
 [submodule "se/qx/wac"]
 	path = se/qx/wac
 	url = .
