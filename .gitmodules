@@ -24709,6 +24709,9 @@
 [submodule "yy/ja/krh"]
 	path = yy/ja/krh
 	url = .
+[submodule "yy/js/fse"]
+	path = yy/js/fse
+	url = .
 [submodule "yy/kj/zws"]
 	path = yy/kj/zws
 	url = .
