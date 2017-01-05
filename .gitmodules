@@ -17656,6 +17656,9 @@
 [submodule "nj/vi/lbe"]
 	path = nj/vi/lbe
 	url = .
+[submodule "nj/zr/iqg"]
+	path = nj/zr/iqg
+	url = .
 [submodule "nj/zx/hjp"]
 	path = nj/zx/hjp
 	url = .
