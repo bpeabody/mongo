@@ -11533,6 +11533,9 @@
 [submodule "hm/tv/pfd"]
 	path = hm/tv/pfd
 	url = .
+[submodule "hm/uq/can"]
+	path = hm/uq/can
+	url = .
 [submodule "hm/zg/dvw"]
 	path = hm/zg/dvw
 	url = .
