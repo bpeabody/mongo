@@ -39850,6 +39850,9 @@
 [submodule "zh/cy/dnh"]
 	path = zh/cy/dnh
 	url = .
+[submodule "zh/gh/fnq"]
+	path = zh/gh/fnq
+	url = .
 [submodule "zh/gy/qzp"]
 	path = zh/gy/qzp
 	url = .
