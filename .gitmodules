@@ -1174,6 +1174,9 @@
 [submodule "al/ll/qxy"]
 	path = al/ll/qxy
 	url = .
+[submodule "al/lv/yde"]
+	path = al/lv/yde
+	url = .
 [submodule "al/mj/iwf"]
 	path = al/mj/iwf
 	url = .
