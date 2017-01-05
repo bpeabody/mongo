@@ -1744,6 +1744,9 @@
 [submodule "cl/co/mmh"]
 	path = cl/co/mmh
 	url = .
+[submodule "cl/jl/kid"]
+	path = cl/jl/kid
+	url = .
 [submodule "cl/ld/usb"]
 	path = cl/ld/usb
 	url = .
