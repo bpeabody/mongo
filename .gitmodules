@@ -14626,6 +14626,9 @@
 [submodule "li/sx/rtz"]
 	path = li/sx/rtz
 	url = .
+[submodule "li/th/mpo"]
+	path = li/th/mpo
+	url = .
 [submodule "li/wm/sxk"]
 	path = li/wm/sxk
 	url = .
