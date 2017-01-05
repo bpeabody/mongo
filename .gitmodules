@@ -5512,6 +5512,9 @@
 [submodule "ez/tk/eit"]
 	path = ez/tk/eit
 	url = .
+[submodule "ez/to/mjj"]
+	path = ez/to/mjj
+	url = .
 [submodule "ez/yd/ouv"]
 	path = ez/yd/ouv
 	url = .
