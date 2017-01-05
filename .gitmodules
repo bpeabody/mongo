@@ -18100,6 +18100,9 @@
 [submodule "nr/qx/smm"]
 	path = nr/qx/smm
 	url = .
+[submodule "nr/rd/lpi"]
+	path = nr/rd/lpi
+	url = .
 [submodule "nr/sp/hoe"]
 	path = nr/sp/hoe
 	url = .
