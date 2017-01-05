@@ -34468,6 +34468,9 @@
 [submodule "sw/sa/oal"]
 	path = sw/sa/oal
 	url = .
+[submodule "sw/su/jej"]
+	path = sw/su/jej
+	url = .
 [submodule "sw/tf/iox"]
 	path = sw/tf/iox
 	url = .
