@@ -30358,6 +30358,9 @@
 [submodule "qi/lt/ssa"]
 	path = qi/lt/ssa
 	url = .
+[submodule "qi/lw/hxm"]
+	path = qi/lw/hxm
+	url = .
 [submodule "qi/ps/uzf"]
 	path = qi/ps/uzf
 	url = .
