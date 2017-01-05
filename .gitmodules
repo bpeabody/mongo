@@ -21184,6 +21184,9 @@
 [submodule "sp/lj/pfl"]
 	path = sp/lj/pfl
 	url = .
+[submodule "sp/mj/lyb"]
+	path = sp/mj/lyb
+	url = .
 [submodule "sp/mp/qdr"]
 	path = sp/mp/qdr
 	url = .
