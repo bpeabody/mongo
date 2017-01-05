@@ -7687,6 +7687,9 @@
 [submodule "ik/xz/rhs"]
 	path = ik/xz/rhs
 	url = .
+[submodule "il/ee/ioo"]
+	path = il/ee/ioo
+	url = .
 [submodule "il/jz/epl"]
 	path = il/jz/epl
 	url = .
