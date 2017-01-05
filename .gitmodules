@@ -19915,6 +19915,9 @@
 [submodule "sg/vx/yus"]
 	path = sg/vx/yus
 	url = .
+[submodule "sg/wf/ujs"]
+	path = sg/wf/ujs
+	url = .
 [submodule "sg/yj/qob"]
 	path = sg/yj/qob
 	url = .
