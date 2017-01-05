@@ -5905,6 +5905,9 @@
 [submodule "ov/rv/mmv"]
 	path = ov/rv/mmv
 	url = .
+[submodule "ov/wo/ujp"]
+	path = ov/wo/ujp
+	url = .
 [submodule "ov/xz/kga"]
 	path = ov/xz/kga
 	url = .
