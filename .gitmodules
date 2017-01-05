@@ -5449,6 +5449,9 @@
 [submodule "tz/fw/biu"]
 	path = tz/fw/biu
 	url = .
+[submodule "tz/hg/kgf"]
+	path = tz/hg/kgf
+	url = .
 [submodule "tz/ma/kzz"]
 	path = tz/ma/kzz
 	url = .
