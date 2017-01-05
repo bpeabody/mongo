@@ -2839,6 +2839,9 @@
 [submodule "br/qx/mcp"]
 	path = br/qx/mcp
 	url = .
+[submodule "br/se/wap"]
+	path = br/se/wap
+	url = .
 [submodule "br/ve/jvg"]
 	path = br/ve/jvg
 	url = .
