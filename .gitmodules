@@ -24664,6 +24664,9 @@
 [submodule "id/gi/ijc"]
 	path = id/gi/ijc
 	url = .
+[submodule "id/gm/qrr"]
+	path = id/gm/qrr
+	url = .
 [submodule "id/gz/oth"]
 	path = id/gz/oth
 	url = .
