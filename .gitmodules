@@ -39994,6 +39994,9 @@
 [submodule "wl/sy/lxy"]
 	path = wl/sy/lxy
 	url = .
+[submodule "wl/te/zsk"]
+	path = wl/te/zsk
+	url = .
 [submodule "wl/tj/tnn"]
 	path = wl/tj/tnn
 	url = .
