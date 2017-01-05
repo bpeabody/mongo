@@ -16621,6 +16621,9 @@
 [submodule "uz/nt/atf"]
 	path = uz/nt/atf
 	url = .
+[submodule "uz/ol/enb"]
+	path = uz/ol/enb
+	url = .
 [submodule "uz/pz/tnx"]
 	path = uz/pz/tnx
 	url = .
