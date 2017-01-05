@@ -1072,6 +1072,9 @@
 [submodule "ow/cq/acm"]
 	path = ow/cq/acm
 	url = .
+[submodule "ow/qo/jfn"]
+	path = ow/qo/jfn
+	url = .
 [submodule "ow/vl/hsz"]
 	path = ow/vl/hsz
 	url = .
