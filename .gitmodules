@@ -23500,6 +23500,9 @@
 [submodule "sb/fd/vwl"]
 	path = sb/fd/vwl
 	url = .
+[submodule "sb/gz/sdc"]
+	path = sb/gz/sdc
+	url = .
 [submodule "sb/na/neo"]
 	path = sb/na/neo
 	url = .
