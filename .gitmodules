@@ -15169,6 +15169,9 @@
 [submodule "zz/eq/fbo"]
 	path = zz/eq/fbo
 	url = .
+[submodule "zz/ex/awk"]
+	path = zz/ex/awk
+	url = .
 [submodule "zz/pk/mqm"]
 	path = zz/pk/mqm
 	url = .
