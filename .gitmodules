@@ -32431,6 +32431,9 @@
 [submodule "vs/ps/cyn"]
 	path = vs/ps/cyn
 	url = .
+[submodule "vs/ry/yij"]
+	path = vs/ry/yij
+	url = .
 [submodule "vs/sy/zwz"]
 	path = vs/sy/zwz
 	url = .
