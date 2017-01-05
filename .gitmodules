@@ -14821,6 +14821,9 @@
 [submodule "qu/sy/mvp"]
 	path = qu/sy/mvp
 	url = .
+[submodule "qu/to/lqv"]
+	path = qu/to/lqv
+	url = .
 [submodule "qu/vf/dgg"]
 	path = qu/vf/dgg
 	url = .
