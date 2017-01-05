@@ -21709,6 +21709,9 @@
 [submodule "iy/dh/qsl"]
 	path = iy/dh/qsl
 	url = .
+[submodule "iy/er/fdu"]
+	path = iy/er/fdu
+	url = .
 [submodule "iy/ey/zau"]
 	path = iy/ey/zau
 	url = .
