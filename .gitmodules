@@ -5905,6 +5905,9 @@
 [submodule "fi/rc/gox"]
 	path = fi/rc/gox
 	url = .
+[submodule "fi/uc/fkh"]
+	path = fi/uc/fkh
+	url = .
 [submodule "fi/vb/mwu"]
 	path = fi/vb/mwu
 	url = .
