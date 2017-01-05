@@ -20923,6 +20923,9 @@
 [submodule "kt/pv/gck"]
 	path = kt/pv/gck
 	url = .
+[submodule "kt/sa/jeb"]
+	path = kt/sa/jeb
+	url = .
 [submodule "kt/sx/ehs"]
 	path = kt/sx/ehs
 	url = .
