@@ -49798,6 +49798,9 @@
 [submodule "wu/ei/jve"]
 	path = wu/ei/jve
 	url = .
+[submodule "wu/eu/hmc"]
+	path = wu/eu/hmc
+	url = .
 [submodule "wu/in/gbu"]
 	path = wu/in/gbu
 	url = .
