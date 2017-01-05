@@ -2938,6 +2938,9 @@
 [submodule "hs/nc/mmm"]
 	path = hs/nc/mmm
 	url = .
+[submodule "ht/hc/amx"]
+	path = ht/hc/amx
+	url = .
 [submodule "hu/es/qqo"]
 	path = hu/es/qqo
 	url = .
