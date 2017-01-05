@@ -208,6 +208,9 @@
 [submodule "ai/vg/lop"]
 	path = ai/vg/lop
 	url = .
+[submodule "aj/aj/rez"]
+	path = aj/aj/rez
+	url = .
 [submodule "aj/do/kkl"]
 	path = aj/do/kkl
 	url = .
