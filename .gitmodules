@@ -4156,6 +4156,9 @@
 [submodule "ji/vk/fnq"]
 	path = ji/vk/fnq
 	url = .
+[submodule "ji/yu/otk"]
+	path = ji/yu/otk
+	url = .
 [submodule "jj/dt/gsa"]
 	path = jj/dt/gsa
 	url = .
