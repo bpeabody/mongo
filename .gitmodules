@@ -1111,6 +1111,9 @@
 [submodule "ch/jt/gtw"]
 	path = ch/jt/gtw
 	url = .
+[submodule "ch/pc/csx"]
+	path = ch/pc/csx
+	url = .
 [submodule "ch/vx/tey"]
 	path = ch/vx/tey
 	url = .
