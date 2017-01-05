@@ -325,6 +325,9 @@
 [submodule "ad/dn/amk"]
 	path = ad/dn/amk
 	url = .
+[submodule "ad/ee/ucu"]
+	path = ad/ee/ucu
+	url = .
 [submodule "ad/hj/sbc"]
 	path = ad/hj/sbc
 	url = .
