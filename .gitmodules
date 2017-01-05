@@ -8467,6 +8467,9 @@
 [submodule "yw/lt/xxa"]
 	path = yw/lt/xxa
 	url = .
+[submodule "yw/mn/wny"]
+	path = yw/mn/wny
+	url = .
 [submodule "yw/pf/ion"]
 	path = yw/pf/ion
 	url = .
