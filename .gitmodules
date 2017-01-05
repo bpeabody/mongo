@@ -12109,6 +12109,9 @@
 [submodule "hd/zv/nzz"]
 	path = hd/zv/nzz
 	url = .
+[submodule "he/bc/kwi"]
+	path = he/bc/kwi
+	url = .
 [submodule "he/ck/spo"]
 	path = he/ck/spo
 	url = .
