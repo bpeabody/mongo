@@ -7978,6 +7978,9 @@
 [submodule "cr/or/ean"]
 	path = cr/or/ean
 	url = .
+[submodule "cr/pt/hqt"]
+	path = cr/pt/hqt
+	url = .
 [submodule "cr/qj/ldb"]
 	path = cr/qj/ldb
 	url = .
