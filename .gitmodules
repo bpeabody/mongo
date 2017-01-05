@@ -11956,6 +11956,9 @@
 [submodule "ot/wu/nwk"]
 	path = ot/wu/nwk
 	url = .
+[submodule "ot/wx/kcf"]
+	path = ot/wx/kcf
+	url = .
 [submodule "ot/xc/bfr"]
 	path = ot/xc/bfr
 	url = .
