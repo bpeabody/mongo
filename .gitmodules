@@ -7681,6 +7681,9 @@
 [submodule "dc/tm/ubq"]
 	path = dc/tm/ubq
 	url = .
+[submodule "dc/tp/snc"]
+	path = dc/tp/snc
+	url = .
 [submodule "dc/ve/xmt"]
 	path = dc/ve/xmt
 	url = .
