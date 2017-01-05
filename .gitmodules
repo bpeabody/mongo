@@ -7480,6 +7480,9 @@
 [submodule "pe/wd/tuv"]
 	path = pe/wd/tuv
 	url = .
+[submodule "pe/zf/rkm"]
+	path = pe/zf/rkm
+	url = .
 [submodule "pe/zp/spl"]
 	path = pe/zp/spl
 	url = .
