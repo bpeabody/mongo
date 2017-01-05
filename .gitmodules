@@ -61018,6 +61018,9 @@
 [submodule "ue/wj/xgb"]
 	path = ue/wj/xgb
 	url = .
+[submodule "ue/xb/ecb"]
+	path = ue/xb/ecb
+	url = .
 [submodule "ue/yf/rar"]
 	path = ue/yf/rar
 	url = .
