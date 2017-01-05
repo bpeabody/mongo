@@ -3538,6 +3538,9 @@
 [submodule "pw/uj/mfr"]
 	path = pw/uj/mfr
 	url = .
+[submodule "pw/um/vjy"]
+	path = pw/um/vjy
+	url = .
 [submodule "pw/vi/sbg"]
 	path = pw/vi/sbg
 	url = .
