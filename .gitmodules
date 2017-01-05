@@ -883,6 +883,9 @@
 [submodule "aj/jm/kgw"]
 	path = aj/jm/kgw
 	url = .
+[submodule "aj/jn/lie"]
+	path = aj/jn/lie
+	url = .
 [submodule "aj/my/kip"]
 	path = aj/my/kip
 	url = .
