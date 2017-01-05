@@ -15751,6 +15751,9 @@
 [submodule "sg/vx/yus"]
 	path = sg/vx/yus
 	url = .
+[submodule "sg/yj/qob"]
+	path = sg/yj/qob
+	url = .
 [submodule "sh/dh/dyt"]
 	path = sh/dh/dyt
 	url = .
