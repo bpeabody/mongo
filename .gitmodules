@@ -7072,6 +7072,9 @@
 [submodule "zf/lh/rdm"]
 	path = zf/lh/rdm
 	url = .
+[submodule "zf/ng/zqk"]
+	path = zf/ng/zqk
+	url = .
 [submodule "zg/fq/jyr"]
 	path = zg/fq/jyr
 	url = .
