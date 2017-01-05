@@ -34108,6 +34108,9 @@
 [submodule "qb/nk/yfe"]
 	path = qb/nk/yfe
 	url = .
+[submodule "qb/ou/kti"]
+	path = qb/ou/kti
+	url = .
 [submodule "qb/pm/gmj"]
 	path = qb/pm/gmj
 	url = .
