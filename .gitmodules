@@ -28903,6 +28903,9 @@
 [submodule "ql/iw/oir"]
 	path = ql/iw/oir
 	url = .
+[submodule "ql/jb/mde"]
+	path = ql/jb/mde
+	url = .
 [submodule "ql/oq/jdm"]
 	path = ql/oq/jdm
 	url = .
