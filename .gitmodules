@@ -19267,6 +19267,9 @@
 [submodule "hq/dd/ksu"]
 	path = hq/dd/ksu
 	url = .
+[submodule "hq/ej/omq"]
+	path = hq/ej/omq
+	url = .
 [submodule "hq/fl/ehd"]
 	path = hq/fl/ehd
 	url = .
