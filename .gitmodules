@@ -25330,6 +25330,9 @@
 [submodule "jq/hp/uzt"]
 	path = jq/hp/uzt
 	url = .
+[submodule "jq/hq/edk"]
+	path = jq/hq/edk
+	url = .
 [submodule "jq/ij/wgs"]
 	path = jq/ij/wgs
 	url = .
