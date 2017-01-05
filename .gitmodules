@@ -12964,6 +12964,9 @@
 [submodule "yf/vs/nbu"]
 	path = yf/vs/nbu
 	url = .
+[submodule "yg/bt/mqf"]
+	path = yg/bt/mqf
+	url = .
 [submodule "yg/fm/kqy"]
 	path = yg/fm/kqy
 	url = .
