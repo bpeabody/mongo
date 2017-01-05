@@ -38002,6 +38002,9 @@
 [submodule "py/le/vyb"]
 	path = py/le/vyb
 	url = .
+[submodule "py/li/kgi"]
+	path = py/li/kgi
+	url = .
 [submodule "py/lv/dgw"]
 	path = py/lv/dgw
 	url = .
