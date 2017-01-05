@@ -7045,6 +7045,9 @@
 [submodule "da/gr/rnd"]
 	path = da/gr/rnd
 	url = .
+[submodule "da/hk/uip"]
+	path = da/hk/uip
+	url = .
 [submodule "da/ji/loh"]
 	path = da/ji/loh
 	url = .
