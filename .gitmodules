@@ -13360,6 +13360,9 @@
 [submodule "fx/dm/ntt"]
 	path = fx/dm/ntt
 	url = .
+[submodule "fx/ej/kcu"]
+	path = fx/ej/kcu
+	url = .
 [submodule "fx/fx/tpd"]
 	path = fx/fx/tpd
 	url = .
