@@ -16432,6 +16432,9 @@
 [submodule "hl/yh/chr"]
 	path = hl/yh/chr
 	url = .
+[submodule "hl/yk/sat"]
+	path = hl/yk/sat
+	url = .
 [submodule "hl/zb/kwi"]
 	path = hl/zb/kwi
 	url = .
