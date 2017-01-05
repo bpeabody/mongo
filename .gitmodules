@@ -15322,6 +15322,9 @@
 [submodule "hl/pw/rny"]
 	path = hl/pw/rny
 	url = .
+[submodule "hl/qf/xii"]
+	path = hl/qf/xii
+	url = .
 [submodule "hl/qo/fse"]
 	path = hl/qo/fse
 	url = .
