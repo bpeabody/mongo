@@ -62608,6 +62608,9 @@
 [submodule "xk/fa/tvt"]
 	path = xk/fa/tvt
 	url = .
+[submodule "xk/fm/suk"]
+	path = xk/fm/suk
+	url = .
 [submodule "xk/ga/lyr"]
 	path = xk/ga/lyr
 	url = .
