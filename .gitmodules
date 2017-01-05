@@ -28108,6 +28108,9 @@
 [submodule "jw/tk/xhw"]
 	path = jw/tk/xhw
 	url = .
+[submodule "jw/ua/slh"]
+	path = jw/ua/slh
+	url = .
 [submodule "jw/ut/pql"]
 	path = jw/ut/pql
 	url = .
