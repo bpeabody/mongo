@@ -5686,6 +5686,9 @@
 [submodule "er/mk/ppu"]
 	path = er/mk/ppu
 	url = .
+[submodule "er/ow/cya"]
+	path = er/ow/cya
+	url = .
 [submodule "er/pl/ybq"]
 	path = er/pl/ybq
 	url = .
