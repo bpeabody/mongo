@@ -10012,6 +10012,9 @@
 [submodule "kh/dy/lne"]
 	path = kh/dy/lne
 	url = .
+[submodule "kh/el/luy"]
+	path = kh/el/luy
+	url = .
 [submodule "kh/fg/qvt"]
 	path = kh/fg/qvt
 	url = .
