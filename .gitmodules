@@ -6220,6 +6220,9 @@
 [submodule "cq/ue/fud"]
 	path = cq/ue/fud
 	url = .
+[submodule "cq/uv/jsl"]
+	path = cq/uv/jsl
+	url = .
 [submodule "cq/wb/uro"]
 	path = cq/wb/uro
 	url = .
