@@ -37717,6 +37717,9 @@
 [submodule "nd/rs/szs"]
 	path = nd/rs/szs
 	url = .
+[submodule "nd/sh/lpg"]
+	path = nd/sh/lpg
+	url = .
 [submodule "nd/tn/igi"]
 	path = nd/tn/igi
 	url = .
