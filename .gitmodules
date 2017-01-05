@@ -3802,6 +3802,9 @@
 [submodule "zg/hd/fge"]
 	path = zg/hd/fge
 	url = .
+[submodule "zg/pn/pki"]
+	path = zg/pn/pki
+	url = .
 [submodule "zg/yz/dtx"]
 	path = zg/yz/dtx
 	url = .
