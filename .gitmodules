@@ -1510,6 +1510,9 @@
 [submodule "da/lj/vbj"]
 	path = da/lj/vbj
 	url = .
+[submodule "da/os/aml"]
+	path = da/os/aml
+	url = .
 [submodule "da/rt/aaa"]
 	path = da/rt/aaa
 	url = .
