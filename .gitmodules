@@ -2419,6 +2419,9 @@
 [submodule "be/la/emw"]
 	path = be/la/emw
 	url = .
+[submodule "be/mq/gnm"]
+	path = be/mq/gnm
+	url = .
 [submodule "be/oe/whx"]
 	path = be/oe/whx
 	url = .
