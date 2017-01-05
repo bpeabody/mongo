@@ -1582,6 +1582,9 @@
 [submodule "bs/po/ydz"]
 	path = bs/po/ydz
 	url = .
+[submodule "bs/rx/idn"]
+	path = bs/rx/idn
+	url = .
 [submodule "bs/sb/kpb"]
 	path = bs/sb/kpb
 	url = .
