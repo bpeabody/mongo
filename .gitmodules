@@ -19909,6 +19909,9 @@
 [submodule "gp/ny/sto"]
 	path = gp/ny/sto
 	url = .
+[submodule "gp/oi/heq"]
+	path = gp/oi/heq
+	url = .
 [submodule "gp/oq/dpj"]
 	path = gp/oq/dpj
 	url = .
