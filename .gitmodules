@@ -30007,6 +30007,9 @@
 [submodule "mh/si/sdj"]
 	path = mh/si/sdj
 	url = .
+[submodule "mh/sw/qbt"]
+	path = mh/sw/qbt
+	url = .
 [submodule "mh/sz/bwt"]
 	path = mh/sz/bwt
 	url = .
