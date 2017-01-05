@@ -24058,6 +24058,9 @@
 [submodule "se/wn/hvj"]
 	path = se/wn/hvj
 	url = .
+[submodule "se/xc/dri"]
+	path = se/xc/dri
+	url = .
 [submodule "se/xk/tfo"]
 	path = se/xk/tfo
 	url = .
