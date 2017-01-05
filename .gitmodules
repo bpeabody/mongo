@@ -9067,6 +9067,9 @@
 [submodule "xw/tq/wfq"]
 	path = xw/tq/wfq
 	url = .
+[submodule "xw/vi/wde"]
+	path = xw/vi/wde
+	url = .
 [submodule "xw/xq/sci"]
 	path = xw/xq/sci
 	url = .
