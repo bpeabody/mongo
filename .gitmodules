@@ -4207,6 +4207,9 @@
 [submodule "up/cc/pds"]
 	path = up/cc/pds
 	url = .
+[submodule "up/fw/xud"]
+	path = up/fw/xud
+	url = .
 [submodule "up/mw/jeg"]
 	path = up/mw/jeg
 	url = .
