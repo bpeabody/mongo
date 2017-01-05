@@ -715,6 +715,9 @@
 [submodule "ag/ac/wto"]
 	path = ag/ac/wto
 	url = .
+[submodule "ag/ad/jvn"]
+	path = ag/ad/jvn
+	url = .
 [submodule "ag/ah/quq"]
 	path = ag/ah/quq
 	url = .
