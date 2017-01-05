@@ -55312,6 +55312,9 @@
 [submodule "wb/il/pku"]
 	path = wb/il/pku
 	url = .
+[submodule "wb/ir/ojo"]
+	path = wb/ir/ojo
+	url = .
 [submodule "wb/it/plu"]
 	path = wb/it/plu
 	url = .
