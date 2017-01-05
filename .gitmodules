@@ -7879,6 +7879,9 @@
 [submodule "fs/fj/fib"]
 	path = fs/fj/fib
 	url = .
+[submodule "fs/fv/gqc"]
+	path = fs/fv/gqc
+	url = .
 [submodule "fs/ht/owt"]
 	path = fs/ht/owt
 	url = .
