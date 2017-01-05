@@ -17812,6 +17812,9 @@
 [submodule "hc/sq/gyr"]
 	path = hc/sq/gyr
 	url = .
+[submodule "hc/uc/ppm"]
+	path = hc/uc/ppm
+	url = .
 [submodule "hc/uy/svm"]
 	path = hc/uy/svm
 	url = .
