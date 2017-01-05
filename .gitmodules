@@ -29386,6 +29386,9 @@
 [submodule "mj/mo/eii"]
 	path = mj/mo/eii
 	url = .
+[submodule "mj/pb/iqe"]
+	path = mj/pb/iqe
+	url = .
 [submodule "mj/qc/bkp"]
 	path = mj/qc/bkp
 	url = .
