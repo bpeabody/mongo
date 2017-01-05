@@ -3121,6 +3121,9 @@
 [submodule "en/ia/fos"]
 	path = en/ia/fos
 	url = .
+[submodule "en/ig/khr"]
+	path = en/ig/khr
+	url = .
 [submodule "en/ke/iix"]
 	path = en/ke/iix
 	url = .
