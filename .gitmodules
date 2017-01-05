@@ -18229,6 +18229,9 @@
 [submodule "hm/md/uig"]
 	path = hm/md/uig
 	url = .
+[submodule "hm/mj/uid"]
+	path = hm/mj/uid
+	url = .
 [submodule "hm/mz/hrr"]
 	path = hm/mz/hrr
 	url = .
