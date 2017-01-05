@@ -1273,6 +1273,9 @@
 [submodule "am/hc/naj"]
 	path = am/hc/naj
 	url = .
+[submodule "am/hx/tof"]
+	path = am/hx/tof
+	url = .
 [submodule "am/iw/una"]
 	path = am/iw/una
 	url = .
