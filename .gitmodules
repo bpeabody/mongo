@@ -49525,6 +49525,9 @@
 [submodule "vh/on/rki"]
 	path = vh/on/rki
 	url = .
+[submodule "vh/op/gkb"]
+	path = vh/op/gkb
+	url = .
 [submodule "vh/pu/qyc"]
 	path = vh/pu/qyc
 	url = .
