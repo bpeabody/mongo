@@ -3301,6 +3301,9 @@
 [submodule "de/xi/nhv"]
 	path = de/xi/nhv
 	url = .
+[submodule "df/gx/vpr"]
+	path = df/gx/vpr
+	url = .
 [submodule "df/iv/auq"]
 	path = df/iv/auq
 	url = .
