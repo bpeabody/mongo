@@ -7,6 +7,9 @@
 [submodule "cy/ev/krb"]
 	path = cy/ev/krb
 	url = .
+[submodule "ef/lf/tes"]
+	path = ef/lf/tes
+	url = .
 [submodule "fi/my/npa"]
 	path = fi/my/npa
 	url = .
