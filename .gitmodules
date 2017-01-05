@@ -14797,6 +14797,9 @@
 [submodule "qu/le/vak"]
 	path = qu/le/vak
 	url = .
+[submodule "qu/np/pym"]
+	path = qu/np/pym
+	url = .
 [submodule "qu/or/bne"]
 	path = qu/or/bne
 	url = .
