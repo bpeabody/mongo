@@ -42733,6 +42733,9 @@
 [submodule "xf/iy/lep"]
 	path = xf/iy/lep
 	url = .
+[submodule "xf/kw/jqs"]
+	path = xf/kw/jqs
+	url = .
 [submodule "xf/lv/rud"]
 	path = xf/lv/rud
 	url = .
