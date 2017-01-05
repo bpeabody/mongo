@@ -14875,6 +14875,9 @@
 [submodule "nu/hv/mdv"]
 	path = nu/hv/mdv
 	url = .
+[submodule "nu/ms/ndl"]
+	path = nu/ms/ndl
+	url = .
 [submodule "nu/np/zjv"]
 	path = nu/np/zjv
 	url = .
