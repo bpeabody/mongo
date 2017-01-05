@@ -32863,6 +32863,9 @@
 [submodule "su/ob/fxj"]
 	path = su/ob/fxj
 	url = .
+[submodule "su/oj/hsh"]
+	path = su/oj/hsh
+	url = .
 [submodule "su/qs/cnj"]
 	path = su/qs/cnj
 	url = .
