@@ -2101,6 +2101,9 @@
 [submodule "au/jl/izv"]
 	path = au/jl/izv
 	url = .
+[submodule "au/jr/nku"]
+	path = au/jr/nku
+	url = .
 [submodule "au/jt/smh"]
 	path = au/jt/smh
 	url = .
