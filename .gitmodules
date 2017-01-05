@@ -13453,6 +13453,9 @@
 [submodule "wm/lv/vnt"]
 	path = wm/lv/vnt
 	url = .
+[submodule "wm/oq/jaa"]
+	path = wm/oq/jaa
+	url = .
 [submodule "wm/xu/zug"]
 	path = wm/xu/zug
 	url = .
