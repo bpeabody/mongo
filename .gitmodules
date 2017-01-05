@@ -27289,6 +27289,9 @@
 [submodule "sl/xk/ryu"]
 	path = sl/xk/ryu
 	url = .
+[submodule "sl/ym/uem"]
+	path = sl/ym/uem
+	url = .
 [submodule "sl/yz/gas"]
 	path = sl/yz/gas
 	url = .
