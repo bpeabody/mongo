@@ -724,6 +724,9 @@
 [submodule "ar/my/msa"]
 	path = ar/my/msa
 	url = .
+[submodule "ar/rg/exu"]
+	path = ar/rg/exu
+	url = .
 [submodule "ar/sk/lip"]
 	path = ar/sk/lip
 	url = .
