@@ -3661,6 +3661,9 @@
 [submodule "lf/fi/chy"]
 	path = lf/fi/chy
 	url = .
+[submodule "lf/gd/qdt"]
+	path = lf/gd/qdt
+	url = .
 [submodule "lf/mw/itq"]
 	path = lf/mw/itq
 	url = .
