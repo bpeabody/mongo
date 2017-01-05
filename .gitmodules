@@ -9463,6 +9463,9 @@
 [submodule "ld/jo/plu"]
 	path = ld/jo/plu
 	url = .
+[submodule "ld/ot/vkc"]
+	path = ld/ot/vkc
+	url = .
 [submodule "ld/rc/eqv"]
 	path = ld/rc/eqv
 	url = .
