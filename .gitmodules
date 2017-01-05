@@ -15664,6 +15664,9 @@
 [submodule "qa/hz/ffg"]
 	path = qa/hz/ffg
 	url = .
+[submodule "qa/jq/nub"]
+	path = qa/jq/nub
+	url = .
 [submodule "qa/lb/prn"]
 	path = qa/lb/prn
 	url = .
