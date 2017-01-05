@@ -21364,6 +21364,9 @@
 [submodule "jz/lx/bup"]
 	path = jz/lx/bup
 	url = .
+[submodule "jz/nw/umk"]
+	path = jz/nw/umk
+	url = .
 [submodule "jz/nz/hcy"]
 	path = jz/nz/hcy
 	url = .
