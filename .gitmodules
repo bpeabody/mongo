@@ -21952,6 +21952,9 @@
 [submodule "op/oa/hdk"]
 	path = op/oa/hdk
 	url = .
+[submodule "op/ov/ryv"]
+	path = op/ov/ryv
+	url = .
 [submodule "op/pc/zhh"]
 	path = op/pc/zhh
 	url = .
