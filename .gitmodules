@@ -13558,6 +13558,9 @@
 [submodule "lg/un/szw"]
 	path = lg/un/szw
 	url = .
+[submodule "lg/wc/vnc"]
+	path = lg/wc/vnc
+	url = .
 [submodule "lg/xi/wpf"]
 	path = lg/xi/wpf
 	url = .
