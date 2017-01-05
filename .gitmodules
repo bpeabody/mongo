@@ -8908,6 +8908,9 @@
 [submodule "je/qt/xwc"]
 	path = je/qt/xwc
 	url = .
+[submodule "je/sc/dwe"]
+	path = je/sc/dwe
+	url = .
 [submodule "je/sl/bgk"]
 	path = je/sl/bgk
 	url = .
