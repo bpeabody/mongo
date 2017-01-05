@@ -9376,6 +9376,9 @@
 [submodule "sg/vn/oaf"]
 	path = sg/vn/oaf
 	url = .
+[submodule "sh/dh/dyt"]
+	path = sh/dh/dyt
+	url = .
 [submodule "sh/gu/agc"]
 	path = sh/gu/agc
 	url = .
