@@ -2260,6 +2260,9 @@
 [submodule "el/qn/gju"]
 	path = el/qn/gju
 	url = .
+[submodule "el/yk/fzn"]
+	path = el/yk/fzn
+	url = .
 [submodule "em/ck/sxc"]
 	path = em/ck/sxc
 	url = .
