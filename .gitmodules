@@ -66967,6 +66967,9 @@
 [submodule "xm/cr/qsh"]
 	path = xm/cr/qsh
 	url = .
+[submodule "xm/cr/wgh"]
+	path = xm/cr/wgh
+	url = .
 [submodule "xm/ct/jiv"]
 	path = xm/ct/jiv
 	url = .
