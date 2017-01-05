@@ -31021,6 +31021,9 @@
 [submodule "pm/ou/nwk"]
 	path = pm/ou/nwk
 	url = .
+[submodule "pm/oy/xgf"]
+	path = pm/oy/xgf
+	url = .
 [submodule "pm/pg/hta"]
 	path = pm/pg/hta
 	url = .
