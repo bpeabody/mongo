@@ -2221,6 +2221,9 @@
 [submodule "be/ha/ker"]
 	path = be/ha/ker
 	url = .
+[submodule "be/hg/meu"]
+	path = be/hg/meu
+	url = .
 [submodule "be/ho/wnk"]
 	path = be/ho/wnk
 	url = .
