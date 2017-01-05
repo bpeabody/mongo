@@ -1375,6 +1375,9 @@
 [submodule "gf/lt/prh"]
 	path = gf/lt/prh
 	url = .
+[submodule "gf/nb/jyr"]
+	path = gf/nb/jyr
+	url = .
 [submodule "gf/pr/kmp"]
 	path = gf/pr/kmp
 	url = .
