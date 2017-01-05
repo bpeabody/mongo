@@ -27118,6 +27118,9 @@
 [submodule "lk/ln/twb"]
 	path = lk/ln/twb
 	url = .
+[submodule "lk/mh/asu"]
+	path = lk/mh/asu
+	url = .
 [submodule "lk/mt/yqj"]
 	path = lk/mt/yqj
 	url = .
