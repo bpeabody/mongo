@@ -8776,6 +8776,9 @@
 [submodule "sd/vb/gsg"]
 	path = sd/vb/gsg
 	url = .
+[submodule "se/ai/bvx"]
+	path = se/ai/bvx
+	url = .
 [submodule "se/ed/kgb"]
 	path = se/ed/kgb
 	url = .
