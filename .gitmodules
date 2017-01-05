@@ -13792,6 +13792,9 @@
 [submodule "fk/nq/zud"]
 	path = fk/nq/zud
 	url = .
+[submodule "fk/pl/qhh"]
+	path = fk/pl/qhh
+	url = .
 [submodule "fk/qf/qhb"]
 	path = fk/qf/qhb
 	url = .
