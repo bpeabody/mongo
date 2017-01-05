@@ -8659,6 +8659,9 @@
 [submodule "fg/uu/nim"]
 	path = fg/uu/nim
 	url = .
+[submodule "fg/vg/ozp"]
+	path = fg/vg/ozp
+	url = .
 [submodule "fg/wj/sgm"]
 	path = fg/wj/sgm
 	url = .
