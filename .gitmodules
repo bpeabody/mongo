@@ -14365,6 +14365,9 @@
 [submodule "md/mw/quv"]
 	path = md/mw/quv
 	url = .
+[submodule "md/pv/hgu"]
+	path = md/pv/hgu
+	url = .
 [submodule "md/qx/qnh"]
 	path = md/qx/qnh
 	url = .
