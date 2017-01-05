@@ -4129,6 +4129,9 @@
 [submodule "cw/pd/tij"]
 	path = cw/pd/tij
 	url = .
+[submodule "cw/po/kda"]
+	path = cw/po/kda
+	url = .
 [submodule "cw/so/prm"]
 	path = cw/so/prm
 	url = .
