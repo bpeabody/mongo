@@ -25297,6 +25297,9 @@
 [submodule "wt/ih/uxg"]
 	path = wt/ih/uxg
 	url = .
+[submodule "wt/ln/drd"]
+	path = wt/ln/drd
+	url = .
 [submodule "wt/ls/xzi"]
 	path = wt/ls/xzi
 	url = .
