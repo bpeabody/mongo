@@ -106,6 +106,9 @@
 [submodule "gp/mr/mji"]
 	path = gp/mr/mji
 	url = .
+[submodule "gs/tv/wqq"]
+	path = gs/tv/wqq
+	url = .
 [submodule "gv/oi/sph"]
 	path = gv/oi/sph
 	url = .
