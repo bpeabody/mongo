@@ -23953,6 +23953,9 @@
 [submodule "qf/aq/kwp"]
 	path = qf/aq/kwp
 	url = .
+[submodule "qf/cq/khg"]
+	path = qf/cq/khg
+	url = .
 [submodule "qf/da/slc"]
 	path = qf/da/slc
 	url = .
