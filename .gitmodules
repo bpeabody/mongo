@@ -17176,6 +17176,9 @@
 [submodule "iq/wx/bbg"]
 	path = iq/wx/bbg
 	url = .
+[submodule "iq/xi/jhx"]
+	path = iq/xi/jhx
+	url = .
 [submodule "iq/xx/fbv"]
 	path = iq/xx/fbv
 	url = .
