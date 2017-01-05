@@ -6037,6 +6037,9 @@
 [submodule "go/nl/gqh"]
 	path = go/nl/gqh
 	url = .
+[submodule "go/uu/qdj"]
+	path = go/uu/qdj
+	url = .
 [submodule "go/xl/lqm"]
 	path = go/xl/lqm
 	url = .
