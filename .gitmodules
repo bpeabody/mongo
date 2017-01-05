@@ -63571,6 +63571,9 @@
 [submodule "ym/nc/ori"]
 	path = ym/nc/ori
 	url = .
+[submodule "ym/nt/uto"]
+	path = ym/nt/uto
+	url = .
 [submodule "ym/ow/jmk"]
 	path = ym/ow/jmk
 	url = .
