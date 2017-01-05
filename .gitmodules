@@ -27352,6 +27352,9 @@
 [submodule "uy/go/gmo"]
 	path = uy/go/gmo
 	url = .
+[submodule "uy/ho/cxp"]
+	path = uy/ho/cxp
+	url = .
 [submodule "uy/hz/mtr"]
 	path = uy/hz/mtr
 	url = .
