@@ -7396,6 +7396,9 @@
 [submodule "ct/sz/zbm"]
 	path = ct/sz/zbm
 	url = .
+[submodule "ct/tl/zql"]
+	path = ct/tl/zql
+	url = .
 [submodule "ct/va/ygl"]
 	path = ct/va/ygl
 	url = .
