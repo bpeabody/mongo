@@ -14875,6 +14875,9 @@
 [submodule "lc/wd/mjq"]
 	path = lc/wd/mjq
 	url = .
+[submodule "lc/ww/gyg"]
+	path = lc/ww/gyg
+	url = .
 [submodule "lc/xs/gxt"]
 	path = lc/xs/gxt
 	url = .
