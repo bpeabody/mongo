@@ -39166,6 +39166,9 @@
 [submodule "pg/yn/edl"]
 	path = pg/yn/edl
 	url = .
+[submodule "pg/yp/lxe"]
+	path = pg/yp/lxe
+	url = .
 [submodule "pg/zo/qrw"]
 	path = pg/zo/qrw
 	url = .
