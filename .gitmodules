@@ -10180,6 +10180,9 @@
 [submodule "iw/xl/osz"]
 	path = iw/xl/osz
 	url = .
+[submodule "iw/yz/lir"]
+	path = iw/yz/lir
+	url = .
 [submodule "ix/dj/ozw"]
 	path = ix/dj/ozw
 	url = .
