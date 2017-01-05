@@ -5521,6 +5521,9 @@
 [submodule "dq/xp/tyy"]
 	path = dq/xp/tyy
 	url = .
+[submodule "dq/yo/cri"]
+	path = dq/yo/cri
+	url = .
 [submodule "dr/ad/bei"]
 	path = dr/ad/bei
 	url = .
