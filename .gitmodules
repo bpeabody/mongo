@@ -19,6 +19,9 @@
 [submodule "ad/zw/qbx"]
 	path = ad/zw/qbx
 	url = .
+[submodule "ae/rb/glq"]
+	path = ae/rb/glq
+	url = .
 [submodule "af/so/yoz"]
 	path = af/so/yoz
 	url = .
