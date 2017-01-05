@@ -8053,6 +8053,9 @@
 [submodule "ni/nw/ajn"]
 	path = ni/nw/ajn
 	url = .
+[submodule "ni/vh/dbd"]
+	path = ni/vh/dbd
+	url = .
 [submodule "ni/vo/oof"]
 	path = ni/vo/oof
 	url = .
