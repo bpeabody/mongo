@@ -3886,6 +3886,9 @@
 [submodule "rk/hi/qlb"]
 	path = rk/hi/qlb
 	url = .
+[submodule "rk/hp/xve"]
+	path = rk/hp/xve
+	url = .
 [submodule "rk/sm/uba"]
 	path = rk/sm/uba
 	url = .
