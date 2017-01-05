@@ -3385,6 +3385,9 @@
 [submodule "by/ek/aor"]
 	path = by/ek/aor
 	url = .
+[submodule "by/et/nml"]
+	path = by/et/nml
+	url = .
 [submodule "by/fl/ydk"]
 	path = by/fl/ydk
 	url = .
