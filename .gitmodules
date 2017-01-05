@@ -68995,6 +68995,9 @@
 [submodule "yw/vg/hse"]
 	path = yw/vg/hse
 	url = .
+[submodule "yw/vl/hqm"]
+	path = yw/vl/hqm
+	url = .
 [submodule "yw/vr/cad"]
 	path = yw/vr/cad
 	url = .
