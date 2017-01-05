@@ -15400,6 +15400,9 @@
 [submodule "ix/uq/pak"]
 	path = ix/uq/pak
 	url = .
+[submodule "ix/ux/wpl"]
+	path = ix/ux/wpl
+	url = .
 [submodule "ix/vf/qjr"]
 	path = ix/vf/qjr
 	url = .
