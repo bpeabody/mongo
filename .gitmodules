@@ -8575,6 +8575,9 @@
 [submodule "fi/rc/gox"]
 	path = fi/rc/gox
 	url = .
+[submodule "fi/rn/hre"]
+	path = fi/rn/hre
+	url = .
 [submodule "fi/uc/fkh"]
 	path = fi/uc/fkh
 	url = .
