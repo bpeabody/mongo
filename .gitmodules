@@ -1519,6 +1519,9 @@
 [submodule "at/wg/mdq"]
 	path = at/wg/mdq
 	url = .
+[submodule "at/wj/dwl"]
+	path = at/wj/dwl
+	url = .
 [submodule "at/xc/bad"]
 	path = at/xc/bad
 	url = .
