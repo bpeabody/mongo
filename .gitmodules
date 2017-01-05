@@ -3907,6 +3907,9 @@
 [submodule "cm/qk/fra"]
 	path = cm/qk/fra
 	url = .
+[submodule "cm/rq/urg"]
+	path = cm/rq/urg
+	url = .
 [submodule "cm/sf/mpp"]
 	path = cm/sf/mpp
 	url = .
