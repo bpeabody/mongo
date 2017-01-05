@@ -43129,6 +43129,9 @@
 [submodule "vh/la/exq"]
 	path = vh/la/exq
 	url = .
+[submodule "vh/my/xpj"]
+	path = vh/my/xpj
+	url = .
 [submodule "vh/ns/cqg"]
 	path = vh/ns/cqg
 	url = .
