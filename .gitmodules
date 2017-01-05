@@ -25717,6 +25717,9 @@
 [submodule "pc/fh/caj"]
 	path = pc/fh/caj
 	url = .
+[submodule "pc/fk/vpf"]
+	path = pc/fk/vpf
+	url = .
 [submodule "pc/ih/fja"]
 	path = pc/ih/fja
 	url = .
