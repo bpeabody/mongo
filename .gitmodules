@@ -20461,6 +20461,9 @@
 [submodule "yg/oc/uoa"]
 	path = yg/oc/uoa
 	url = .
+[submodule "yg/qe/vug"]
+	path = yg/qe/vug
+	url = .
 [submodule "yg/sf/hne"]
 	path = yg/sf/hne
 	url = .
