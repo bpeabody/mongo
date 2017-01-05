@@ -21382,6 +21382,9 @@
 [submodule "ly/bn/bho"]
 	path = ly/bn/bho
 	url = .
+[submodule "ly/dc/avx"]
+	path = ly/dc/avx
+	url = .
 [submodule "ly/dp/vsf"]
 	path = ly/dp/vsf
 	url = .
