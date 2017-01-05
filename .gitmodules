@@ -1486,6 +1486,9 @@
 [submodule "az/zc/pmu"]
 	path = az/zc/pmu
 	url = .
+[submodule "az/zi/ois"]
+	path = az/zi/ois
+	url = .
 [submodule "ba/ch/clt"]
 	path = ba/ch/clt
 	url = .
