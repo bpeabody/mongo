@@ -17506,6 +17506,9 @@
 [submodule "gk/pl/gon"]
 	path = gk/pl/gon
 	url = .
+[submodule "gk/pq/wpd"]
+	path = gk/pq/wpd
+	url = .
 [submodule "gk/pz/obj"]
 	path = gk/pz/obj
 	url = .
