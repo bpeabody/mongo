@@ -2503,6 +2503,9 @@
 [submodule "ba/ns/kap"]
 	path = ba/ns/kap
 	url = .
+[submodule "ba/os/zsc"]
+	path = ba/os/zsc
+	url = .
 [submodule "ba/oy/aca"]
 	path = ba/oy/aca
 	url = .
