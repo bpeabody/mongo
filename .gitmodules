@@ -4306,6 +4306,9 @@
 [submodule "bn/mx/csw"]
 	path = bn/mx/csw
 	url = .
+[submodule "bn/nv/doc"]
+	path = bn/nv/doc
+	url = .
 [submodule "bn/oj/jsi"]
 	path = bn/oj/jsi
 	url = .
