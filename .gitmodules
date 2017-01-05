@@ -64159,6 +64159,9 @@
 [submodule "wa/qi/ubf"]
 	path = wa/qi/ubf
 	url = .
+[submodule "wa/qw/adp"]
+	path = wa/qw/adp
+	url = .
 [submodule "wa/rp/ppt"]
 	path = wa/rp/ppt
 	url = .
