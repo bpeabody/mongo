@@ -18187,6 +18187,9 @@
 [submodule "ga/vd/sdp"]
 	path = ga/vd/sdp
 	url = .
+[submodule "ga/vq/quh"]
+	path = ga/vq/quh
+	url = .
 [submodule "ga/vu/gcp"]
 	path = ga/vu/gcp
 	url = .
