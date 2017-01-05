@@ -40153,6 +40153,9 @@
 [submodule "rx/uj/cql"]
 	path = rx/uj/cql
 	url = .
+[submodule "rx/vm/vzm"]
+	path = rx/vm/vzm
+	url = .
 [submodule "rx/vx/def"]
 	path = rx/vx/def
 	url = .
