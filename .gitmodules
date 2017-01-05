@@ -10936,6 +10936,9 @@
 [submodule "jt/lj/upn"]
 	path = jt/lj/upn
 	url = .
+[submodule "jt/ni/fpn"]
+	path = jt/ni/fpn
+	url = .
 [submodule "jt/rr/bvr"]
 	path = jt/rr/bvr
 	url = .
