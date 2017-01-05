@@ -406,6 +406,9 @@
 [submodule "ad/pl/tqg"]
 	path = ad/pl/tqg
 	url = .
+[submodule "ad/pu/esw"]
+	path = ad/pu/esw
+	url = .
 [submodule "ad/qc/acu"]
 	path = ad/qc/acu
 	url = .
