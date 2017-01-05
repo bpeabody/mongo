@@ -19744,6 +19744,9 @@
 [submodule "yt/cb/rof"]
 	path = yt/cb/rof
 	url = .
+[submodule "yt/ft/rus"]
+	path = yt/ft/rus
+	url = .
 [submodule "yt/ie/saq"]
 	path = yt/ie/saq
 	url = .
