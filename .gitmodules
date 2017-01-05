@@ -35086,6 +35086,9 @@
 [submodule "ux/qp/mum"]
 	path = ux/qp/mum
 	url = .
+[submodule "ux/qw/qgc"]
+	path = ux/qw/qgc
+	url = .
 [submodule "ux/rf/kzi"]
 	path = ux/rf/kzi
 	url = .
