@@ -580,6 +580,9 @@
 [submodule "jh/st/tuj"]
 	path = jh/st/tuj
 	url = .
+[submodule "ji/rz/gzo"]
+	path = ji/rz/gzo
+	url = .
 [submodule "ji/vk/fnq"]
 	path = ji/vk/fnq
 	url = .
