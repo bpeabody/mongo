@@ -24979,6 +24979,9 @@
 [submodule "pb/tx/aut"]
 	path = pb/tx/aut
 	url = .
+[submodule "pb/us/byx"]
+	path = pb/us/byx
+	url = .
 [submodule "pb/vi/gpr"]
 	path = pb/vi/gpr
 	url = .
