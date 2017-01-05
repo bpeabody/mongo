@@ -1267,6 +1267,9 @@
 [submodule "al/ah/btw"]
 	path = al/ah/btw
 	url = .
+[submodule "al/bm/mzd"]
+	path = al/bm/mzd
+	url = .
 [submodule "al/dh/cxi"]
 	path = al/dh/cxi
 	url = .
