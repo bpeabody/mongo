@@ -9223,6 +9223,9 @@
 [submodule "ln/qd/bfu"]
 	path = ln/qd/bfu
 	url = .
+[submodule "ln/tm/uzc"]
+	path = ln/tm/uzc
+	url = .
 [submodule "lo/ak/wpv"]
 	path = lo/ak/wpv
 	url = .
