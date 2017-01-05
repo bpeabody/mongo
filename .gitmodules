@@ -45739,6 +45739,9 @@
 [submodule "tx/gb/nbd"]
 	path = tx/gb/nbd
 	url = .
+[submodule "tx/gc/dgn"]
+	path = tx/gc/dgn
+	url = .
 [submodule "tx/il/xze"]
 	path = tx/il/xze
 	url = .
