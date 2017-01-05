@@ -1837,6 +1837,9 @@
 [submodule "cb/yj/osl"]
 	path = cb/yj/osl
 	url = .
+[submodule "cb/zo/lur"]
+	path = cb/zo/lur
+	url = .
 [submodule "cc/bx/wsy"]
 	path = cc/bx/wsy
 	url = .
