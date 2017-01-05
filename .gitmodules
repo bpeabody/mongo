@@ -5623,6 +5623,9 @@
 [submodule "dc/gg/ddl"]
 	path = dc/gg/ddl
 	url = .
+[submodule "dc/gm/aut"]
+	path = dc/gm/aut
+	url = .
 [submodule "dc/hb/bez"]
 	path = dc/hb/bez
 	url = .
