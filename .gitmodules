@@ -2830,6 +2830,9 @@
 [submodule "dl/ud/bue"]
 	path = dl/ud/bue
 	url = .
+[submodule "dl/vc/ica"]
+	path = dl/vc/ica
+	url = .
 [submodule "dl/yk/lun"]
 	path = dl/yk/lun
 	url = .
