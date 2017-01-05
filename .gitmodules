@@ -1876,6 +1876,9 @@
 [submodule "au/pv/iau"]
 	path = au/pv/iau
 	url = .
+[submodule "au/qa/wfc"]
+	path = au/qa/wfc
+	url = .
 [submodule "au/qo/pmf"]
 	path = au/qo/pmf
 	url = .
