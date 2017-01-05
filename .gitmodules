@@ -4063,6 +4063,9 @@
 [submodule "om/ey/hib"]
 	path = om/ey/hib
 	url = .
+[submodule "om/if/kau"]
+	path = om/if/kau
+	url = .
 [submodule "om/pv/ryx"]
 	path = om/pv/ryx
 	url = .
