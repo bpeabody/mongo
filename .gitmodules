@@ -5320,6 +5320,9 @@
 [submodule "fd/jc/dzj"]
 	path = fd/jc/dzj
 	url = .
+[submodule "fd/nz/ugu"]
+	path = fd/nz/ugu
+	url = .
 [submodule "fd/sm/msd"]
 	path = fd/sm/msd
 	url = .
