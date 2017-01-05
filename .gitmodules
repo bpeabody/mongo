@@ -21010,6 +21010,9 @@
 [submodule "qb/yl/ewb"]
 	path = qb/yl/ewb
 	url = .
+[submodule "qb/yo/edq"]
+	path = qb/yo/edq
+	url = .
 [submodule "qb/zx/rwv"]
 	path = qb/zx/rwv
 	url = .
