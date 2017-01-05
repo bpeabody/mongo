@@ -12535,6 +12535,9 @@
 [submodule "tr/lf/lzu"]
 	path = tr/lf/lzu
 	url = .
+[submodule "tr/mq/iks"]
+	path = tr/mq/iks
+	url = .
 [submodule "tr/zh/zrl"]
 	path = tr/zh/zrl
 	url = .
