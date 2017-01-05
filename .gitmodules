@@ -11818,6 +11818,9 @@
 [submodule "hg/lt/spy"]
 	path = hg/lt/spy
 	url = .
+[submodule "hg/mf/lpm"]
+	path = hg/mf/lpm
+	url = .
 [submodule "hg/mu/ezc"]
 	path = hg/mu/ezc
 	url = .
