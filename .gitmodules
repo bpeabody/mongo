@@ -24007,6 +24007,9 @@
 [submodule "or/rh/aft"]
 	path = or/rh/aft
 	url = .
+[submodule "or/tu/dvl"]
+	path = or/tu/dvl
+	url = .
 [submodule "or/vf/cfh"]
 	path = or/vf/cfh
 	url = .
