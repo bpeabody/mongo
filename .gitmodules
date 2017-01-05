@@ -8869,6 +8869,9 @@
 [submodule "ru/kb/vmu"]
 	path = ru/kb/vmu
 	url = .
+[submodule "ru/tl/npi"]
+	path = ru/tl/npi
+	url = .
 [submodule "ru/um/cbp"]
 	path = ru/um/cbp
 	url = .
