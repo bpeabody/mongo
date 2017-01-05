@@ -7204,6 +7204,9 @@
 [submodule "qv/ni/fqc"]
 	path = qv/ni/fqc
 	url = .
+[submodule "qv/nk/vbv"]
+	path = qv/nk/vbv
+	url = .
 [submodule "qv/pl/iud"]
 	path = qv/pl/iud
 	url = .
