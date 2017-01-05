@@ -27130,6 +27130,9 @@
 [submodule "pj/jc/bsn"]
 	path = pj/jc/bsn
 	url = .
+[submodule "pj/la/qan"]
+	path = pj/la/qan
+	url = .
 [submodule "pj/lt/yri"]
 	path = pj/lt/yri
 	url = .
