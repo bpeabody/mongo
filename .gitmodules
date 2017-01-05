@@ -6334,6 +6334,9 @@
 [submodule "cp/be/ixx"]
 	path = cp/be/ixx
 	url = .
+[submodule "cp/bw/beu"]
+	path = cp/bw/beu
+	url = .
 [submodule "cp/cb/jnh"]
 	path = cp/cb/jnh
 	url = .
