@@ -2365,6 +2365,9 @@
 [submodule "df/iv/auq"]
 	path = df/iv/auq
 	url = .
+[submodule "df/qs/enf"]
+	path = df/qs/enf
+	url = .
 [submodule "df/rd/cwg"]
 	path = df/rd/cwg
 	url = .
