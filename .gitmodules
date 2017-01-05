@@ -4876,6 +4876,9 @@
 [submodule "lh/jz/qip"]
 	path = lh/jz/qip
 	url = .
+[submodule "lh/na/bqn"]
+	path = lh/na/bqn
+	url = .
 [submodule "lh/oq/gft"]
 	path = lh/oq/gft
 	url = .
