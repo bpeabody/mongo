@@ -7876,6 +7876,9 @@
 [submodule "fq/ys/jrf"]
 	path = fq/ys/jrf
 	url = .
+[submodule "fr/dk/tin"]
+	path = fr/dk/tin
+	url = .
 [submodule "fr/dm/wdv"]
 	path = fr/dm/wdv
 	url = .
