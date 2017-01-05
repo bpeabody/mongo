@@ -30979,6 +30979,9 @@
 [submodule "qv/dl/emu"]
 	path = qv/dl/emu
 	url = .
+[submodule "qv/do/vpz"]
+	path = qv/do/vpz
+	url = .
 [submodule "qv/ec/afk"]
 	path = qv/ec/afk
 	url = .
