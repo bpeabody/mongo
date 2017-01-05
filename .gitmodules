@@ -2395,6 +2395,9 @@
 [submodule "fv/hs/rja"]
 	path = fv/hs/rja
 	url = .
+[submodule "fv/jq/hnv"]
+	path = fv/jq/hnv
+	url = .
 [submodule "fv/pk/loc"]
 	path = fv/pk/loc
 	url = .
