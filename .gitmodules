@@ -17956,6 +17956,9 @@
 [submodule "pr/ko/jva"]
 	path = pr/ko/jva
 	url = .
+[submodule "pr/ml/nde"]
+	path = pr/ml/nde
+	url = .
 [submodule "pr/nl/bxm"]
 	path = pr/nl/bxm
 	url = .
