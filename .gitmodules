@@ -7441,6 +7441,9 @@
 [submodule "lf/zf/zdy"]
 	path = lf/zf/zdy
 	url = .
+[submodule "lg/ao/tvk"]
+	path = lg/ao/tvk
+	url = .
 [submodule "lg/aw/oqg"]
 	path = lg/aw/oqg
 	url = .
