@@ -45868,6 +45868,9 @@
 [submodule "sm/ki/qon"]
 	path = sm/ki/qon
 	url = .
+[submodule "sm/ks/csz"]
+	path = sm/ks/csz
+	url = .
 [submodule "sm/lf/drd"]
 	path = sm/lf/drd
 	url = .
