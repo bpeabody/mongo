@@ -826,6 +826,9 @@
 [submodule "bf/lo/tsg"]
 	path = bf/lo/tsg
 	url = .
+[submodule "bf/lw/cxc"]
+	path = bf/lw/cxc
+	url = .
 [submodule "bf/nd/kou"]
 	path = bf/nd/kou
 	url = .
