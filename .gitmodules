@@ -3934,6 +3934,9 @@
 [submodule "bo/lj/dzs"]
 	path = bo/lj/dzs
 	url = .
+[submodule "bo/lj/twz"]
+	path = bo/lj/twz
+	url = .
 [submodule "bo/lm/lrw"]
 	path = bo/lm/lrw
 	url = .
