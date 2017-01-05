@@ -700,6 +700,9 @@
 [submodule "bc/ss/hcf"]
 	path = bc/ss/hcf
 	url = .
+[submodule "bc/vc/qpu"]
+	path = bc/vc/qpu
+	url = .
 [submodule "bc/vp/fyh"]
 	path = bc/vp/fyh
 	url = .
