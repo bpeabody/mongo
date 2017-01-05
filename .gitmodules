@@ -59542,6 +59542,9 @@
 [submodule "vv/ry/sgv"]
 	path = vv/ry/sgv
 	url = .
+[submodule "vv/sd/jll"]
+	path = vv/sd/jll
+	url = .
 [submodule "vv/tw/jux"]
 	path = vv/tw/jux
 	url = .
