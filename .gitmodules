@@ -17590,6 +17590,9 @@
 [submodule "qo/bv/gva"]
 	path = qo/bv/gva
 	url = .
+[submodule "qo/dv/kqu"]
+	path = qo/dv/kqu
+	url = .
 [submodule "qo/fb/wzl"]
 	path = qo/fb/wzl
 	url = .
