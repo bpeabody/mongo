@@ -49969,6 +49969,9 @@
 [submodule "tr/kr/bpo"]
 	path = tr/kr/bpo
 	url = .
+[submodule "tr/ld/wlu"]
+	path = tr/ld/wlu
+	url = .
 [submodule "tr/lf/lzu"]
 	path = tr/lf/lzu
 	url = .
