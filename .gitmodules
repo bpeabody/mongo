@@ -1636,6 +1636,9 @@
 [submodule "az/eq/xkj"]
 	path = az/eq/xkj
 	url = .
+[submodule "az/ex/isv"]
+	path = az/ex/isv
+	url = .
 [submodule "az/ez/lwh"]
 	path = az/ez/lwh
 	url = .
