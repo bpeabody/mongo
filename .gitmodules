@@ -14293,6 +14293,9 @@
 [submodule "hb/rw/dln"]
 	path = hb/rw/dln
 	url = .
+[submodule "hb/sp/tri"]
+	path = hb/sp/tri
+	url = .
 [submodule "hb/ve/sxu"]
 	path = hb/ve/sxu
 	url = .
