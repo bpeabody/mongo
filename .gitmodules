@@ -30166,6 +30166,9 @@
 [submodule "sk/ar/irb"]
 	path = sk/ar/irb
 	url = .
+[submodule "sk/az/ozj"]
+	path = sk/az/ozj
+	url = .
 [submodule "sk/bc/kia"]
 	path = sk/bc/kia
 	url = .
