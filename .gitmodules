@@ -4231,6 +4231,9 @@
 [submodule "ip/xy/zij"]
 	path = ip/xy/zij
 	url = .
+[submodule "ip/yk/vom"]
+	path = ip/yk/vom
+	url = .
 [submodule "iq/fa/wgu"]
 	path = iq/fa/wgu
 	url = .
