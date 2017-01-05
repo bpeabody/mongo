@@ -32401,6 +32401,9 @@
 [submodule "wl/fq/ose"]
 	path = wl/fq/ose
 	url = .
+[submodule "wl/fv/snd"]
+	path = wl/fv/snd
+	url = .
 [submodule "wl/ig/bek"]
 	path = wl/ig/bek
 	url = .
