@@ -3307,6 +3307,9 @@
 [submodule "gc/gm/vny"]
 	path = gc/gm/vny
 	url = .
+[submodule "gc/jx/ota"]
+	path = gc/jx/ota
+	url = .
 [submodule "gc/ry/pss"]
 	path = gc/ry/pss
 	url = .
