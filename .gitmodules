@@ -16975,6 +16975,9 @@
 [submodule "ny/uv/jek"]
 	path = ny/uv/jek
 	url = .
+[submodule "ny/vi/yjy"]
+	path = ny/vi/yjy
+	url = .
 [submodule "ny/wj/mrz"]
 	path = ny/wj/mrz
 	url = .
