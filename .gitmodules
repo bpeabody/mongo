@@ -19639,6 +19639,9 @@
 [submodule "ig/zr/amz"]
 	path = ig/zr/amz
 	url = .
+[submodule "ih/bx/nnp"]
+	path = ih/bx/nnp
+	url = .
 [submodule "ih/cs/jme"]
 	path = ih/cs/jme
 	url = .
