@@ -17233,6 +17233,9 @@
 [submodule "gu/hb/gmv"]
 	path = gu/hb/gmv
 	url = .
+[submodule "gu/ii/ysc"]
+	path = gu/ii/ysc
+	url = .
 [submodule "gu/im/qhk"]
 	path = gu/im/qhk
 	url = .
