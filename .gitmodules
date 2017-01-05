@@ -18520,6 +18520,9 @@
 [submodule "qg/ae/vas"]
 	path = qg/ae/vas
 	url = .
+[submodule "qg/du/lpb"]
+	path = qg/du/lpb
+	url = .
 [submodule "qg/fr/ujf"]
 	path = qg/fr/ujf
 	url = .
