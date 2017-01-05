@@ -4288,6 +4288,9 @@
 [submodule "cy/rw/czf"]
 	path = cy/rw/czf
 	url = .
+[submodule "cy/rx/hdy"]
+	path = cy/rx/hdy
+	url = .
 [submodule "cy/sc/ewx"]
 	path = cy/sc/ewx
 	url = .
