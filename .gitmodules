@@ -17323,6 +17323,9 @@
 [submodule "ft/nz/lrw"]
 	path = ft/nz/lrw
 	url = .
+[submodule "ft/qg/gvp"]
+	path = ft/qg/gvp
+	url = .
 [submodule "ft/qv/hci"]
 	path = ft/qv/hci
 	url = .
