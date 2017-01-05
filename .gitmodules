@@ -202,6 +202,9 @@
 [submodule "ba/wp/uup"]
 	path = ba/wp/uup
 	url = .
+[submodule "bb/mn/nvt"]
+	path = bb/mn/nvt
+	url = .
 [submodule "bb/nw/pno"]
 	path = bb/nw/pno
 	url = .
