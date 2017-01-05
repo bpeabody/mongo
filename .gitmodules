@@ -21238,6 +21238,9 @@
 [submodule "mp/xp/qul"]
 	path = mp/xp/qul
 	url = .
+[submodule "mp/yo/srk"]
+	path = mp/yo/srk
+	url = .
 [submodule "mq/ac/dxl"]
 	path = mq/ac/dxl
 	url = .
