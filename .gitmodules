@@ -34687,6 +34687,9 @@
 [submodule "ri/vg/bgf"]
 	path = ri/vg/bgf
 	url = .
+[submodule "ri/vt/dne"]
+	path = ri/vt/dne
+	url = .
 [submodule "ri/wx/bvp"]
 	path = ri/wx/bvp
 	url = .
