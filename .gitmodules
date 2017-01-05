@@ -2281,6 +2281,9 @@
 [submodule "ia/fc/drc"]
 	path = ia/fc/drc
 	url = .
+[submodule "ia/gj/beb"]
+	path = ia/gj/beb
+	url = .
 [submodule "ia/jw/qot"]
 	path = ia/jw/qot
 	url = .
