@@ -5551,6 +5551,9 @@
 [submodule "cr/ai/pmf"]
 	path = cr/ai/pmf
 	url = .
+[submodule "cr/bq/bwv"]
+	path = cr/bq/bwv
+	url = .
 [submodule "cr/bz/mge"]
 	path = cr/bz/mge
 	url = .
