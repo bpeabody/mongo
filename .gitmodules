@@ -8881,6 +8881,9 @@
 [submodule "jt/tb/ioi"]
 	path = jt/tb/ioi
 	url = .
+[submodule "jt/tn/kyq"]
+	path = jt/tn/kyq
+	url = .
 [submodule "jt/xz/hfr"]
 	path = jt/xz/hfr
 	url = .
