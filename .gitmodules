@@ -127,6 +127,9 @@
 [submodule "pm/as/afv"]
 	path = pm/as/afv
 	url = .
+[submodule "pr/od/nld"]
+	path = pr/od/nld
+	url = .
 [submodule "pw/df/mqn"]
 	path = pw/df/mqn
 	url = .
