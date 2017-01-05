@@ -3193,6 +3193,9 @@
 [submodule "fw/rb/rqe"]
 	path = fw/rb/rqe
 	url = .
+[submodule "fw/sb/eep"]
+	path = fw/sb/eep
+	url = .
 [submodule "fw/sf/ipq"]
 	path = fw/sf/ipq
 	url = .
