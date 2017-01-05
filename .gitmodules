@@ -3286,6 +3286,9 @@
 [submodule "dp/se/teo"]
 	path = dp/se/teo
 	url = .
+[submodule "dp/xs/kjo"]
+	path = dp/xs/kjo
+	url = .
 [submodule "dp/xx/mfe"]
 	path = dp/xx/mfe
 	url = .
