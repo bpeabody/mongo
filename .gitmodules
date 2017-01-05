@@ -32668,6 +32668,9 @@
 [submodule "qy/cq/obg"]
 	path = qy/cq/obg
 	url = .
+[submodule "qy/cu/yct"]
+	path = qy/cu/yct
+	url = .
 [submodule "qy/dh/mas"]
 	path = qy/dh/mas
 	url = .
