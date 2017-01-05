@@ -63469,6 +63469,9 @@
 [submodule "vm/ia/prj"]
 	path = vm/ia/prj
 	url = .
+[submodule "vm/ib/wcl"]
+	path = vm/ib/wcl
+	url = .
 [submodule "vm/iq/fut"]
 	path = vm/iq/fut
 	url = .
