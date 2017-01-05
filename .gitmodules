@@ -3901,6 +3901,9 @@
 [submodule "cs/ks/psh"]
 	path = cs/ks/psh
 	url = .
+[submodule "cs/mg/zqn"]
+	path = cs/mg/zqn
+	url = .
 [submodule "cs/mh/hgh"]
 	path = cs/mh/hgh
 	url = .
