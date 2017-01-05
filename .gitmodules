@@ -25792,6 +25792,9 @@
 [submodule "jo/ja/ctf"]
 	path = jo/ja/ctf
 	url = .
+[submodule "jo/kd/mdk"]
+	path = jo/kd/mdk
+	url = .
 [submodule "jo/kr/gdd"]
 	path = jo/kr/gdd
 	url = .
