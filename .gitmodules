@@ -814,6 +814,9 @@
 [submodule "ak/ki/psd"]
 	path = ak/ki/psd
 	url = .
+[submodule "ak/lz/exh"]
+	path = ak/lz/exh
+	url = .
 [submodule "ak/rj/zwu"]
 	path = ak/rj/zwu
 	url = .
