@@ -3172,6 +3172,9 @@
 [submodule "bi/ya/zbk"]
 	path = bi/ya/zbk
 	url = .
+[submodule "bi/zc/lra"]
+	path = bi/zc/lra
+	url = .
 [submodule "bi/zi/uug"]
 	path = bi/zi/uug
 	url = .
