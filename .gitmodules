@@ -62908,6 +62908,9 @@
 [submodule "vk/oa/wdc"]
 	path = vk/oa/wdc
 	url = .
+[submodule "vk/on/cxi"]
+	path = vk/on/cxi
+	url = .
 [submodule "vk/ov/tfk"]
 	path = vk/ov/tfk
 	url = .
