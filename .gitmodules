@@ -13258,6 +13258,9 @@
 [submodule "hx/ux/iqb"]
 	path = hx/ux/iqb
 	url = .
+[submodule "hx/vs/mvt"]
+	path = hx/vs/mvt
+	url = .
 [submodule "hx/we/mss"]
 	path = hx/we/mss
 	url = .
