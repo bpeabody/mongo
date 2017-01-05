@@ -22822,6 +22822,9 @@
 [submodule "hw/pt/zzf"]
 	path = hw/pt/zzf
 	url = .
+[submodule "hw/qa/piv"]
+	path = hw/qa/piv
+	url = .
 [submodule "hw/qb/sbl"]
 	path = hw/qb/sbl
 	url = .
