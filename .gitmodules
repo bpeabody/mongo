@@ -4984,6 +4984,9 @@
 [submodule "ha/ea/nsr"]
 	path = ha/ea/nsr
 	url = .
+[submodule "ha/fd/aby"]
+	path = ha/fd/aby
+	url = .
 [submodule "ha/lj/lqm"]
 	path = ha/lj/lqm
 	url = .
