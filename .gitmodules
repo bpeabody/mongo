@@ -9802,6 +9802,9 @@
 [submodule "gc/sm/lim"]
 	path = gc/sm/lim
 	url = .
+[submodule "gc/sp/xzt"]
+	path = gc/sp/xzt
+	url = .
 [submodule "gc/ve/lba"]
 	path = gc/ve/lba
 	url = .
