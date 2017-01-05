@@ -1117,6 +1117,9 @@
 [submodule "jj/nc/xek"]
 	path = jj/nc/xek
 	url = .
+[submodule "jj/uz/swu"]
+	path = jj/uz/swu
+	url = .
 [submodule "jj/vc/pii"]
 	path = jj/vc/pii
 	url = .
