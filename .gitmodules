@@ -4423,6 +4423,9 @@
 [submodule "ui/sz/htx"]
 	path = ui/sz/htx
 	url = .
+[submodule "ui/zy/sxi"]
+	path = ui/zy/sxi
+	url = .
 [submodule "uj/oa/smc"]
 	path = uj/oa/smc
 	url = .
