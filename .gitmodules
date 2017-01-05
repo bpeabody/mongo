@@ -10045,6 +10045,9 @@
 [submodule "ru/jd/eax"]
 	path = ru/jd/eax
 	url = .
+[submodule "ru/je/qom"]
+	path = ru/je/qom
+	url = .
 [submodule "ru/kb/vmu"]
 	path = ru/kb/vmu
 	url = .
