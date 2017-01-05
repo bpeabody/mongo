@@ -3370,6 +3370,9 @@
 [submodule "ip/lj/hii"]
 	path = ip/lj/hii
 	url = .
+[submodule "ip/lq/zuo"]
+	path = ip/lq/zuo
+	url = .
 [submodule "ip/op/ajf"]
 	path = ip/op/ajf
 	url = .
