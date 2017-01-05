@@ -361,6 +361,9 @@
 [submodule "cx/rr/dky"]
 	path = cx/rr/dky
 	url = .
+[submodule "cy/ds/mhi"]
+	path = cy/ds/mhi
+	url = .
 [submodule "cy/ev/krb"]
 	path = cy/ev/krb
 	url = .
