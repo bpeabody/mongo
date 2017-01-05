@@ -22024,6 +22024,9 @@
 [submodule "hw/mi/ijy"]
 	path = hw/mi/ijy
 	url = .
+[submodule "hw/ng/bjw"]
+	path = hw/ng/bjw
+	url = .
 [submodule "hw/pb/oev"]
 	path = hw/pb/oev
 	url = .
