@@ -787,6 +787,9 @@
 [submodule "fb/ji/hks"]
 	path = fb/ji/hks
 	url = .
+[submodule "fb/qh/ysb"]
+	path = fb/qh/ysb
+	url = .
 [submodule "fc/hz/szw"]
 	path = fc/hz/szw
 	url = .
