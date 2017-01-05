@@ -5284,6 +5284,9 @@
 [submodule "du/as/jfh"]
 	path = du/as/jfh
 	url = .
+[submodule "du/bg/vfy"]
+	path = du/bg/vfy
+	url = .
 [submodule "du/ds/hbf"]
 	path = du/ds/hbf
 	url = .
