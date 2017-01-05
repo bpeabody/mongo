@@ -26548,6 +26548,9 @@
 [submodule "nk/rx/hir"]
 	path = nk/rx/hir
 	url = .
+[submodule "nk/sa/lze"]
+	path = nk/sa/lze
+	url = .
 [submodule "nk/tc/bch"]
 	path = nk/tc/bch
 	url = .
