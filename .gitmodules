@@ -43255,6 +43255,9 @@
 [submodule "pb/vi/gpr"]
 	path = pb/vi/gpr
 	url = .
+[submodule "pb/we/qeq"]
+	path = pb/we/qeq
+	url = .
 [submodule "pb/xn/tbm"]
 	path = pb/xn/tbm
 	url = .
