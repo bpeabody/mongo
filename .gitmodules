@@ -37549,6 +37549,9 @@
 [submodule "tv/qh/fys"]
 	path = tv/qh/fys
 	url = .
+[submodule "tv/qk/jfk"]
+	path = tv/qk/jfk
+	url = .
 [submodule "tv/ro/fue"]
 	path = tv/ro/fue
 	url = .
