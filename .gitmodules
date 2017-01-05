@@ -2986,6 +2986,9 @@
 [submodule "es/sh/ukg"]
 	path = es/sh/ukg
 	url = .
+[submodule "es/ux/cum"]
+	path = es/ux/cum
+	url = .
 [submodule "es/uy/xwc"]
 	path = es/uy/xwc
 	url = .
