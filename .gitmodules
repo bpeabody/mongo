@@ -769,6 +769,9 @@
 [submodule "fx/wj/mlr"]
 	path = fx/wj/mlr
 	url = .
+[submodule "fy/de/duj"]
+	path = fy/de/duj
+	url = .
 [submodule "fz/lf/ubw"]
 	path = fz/lf/ubw
 	url = .
