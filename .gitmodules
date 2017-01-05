@@ -571,6 +571,9 @@
 [submodule "ar/yl/xyd"]
 	path = ar/yl/xyd
 	url = .
+[submodule "as/hs/emb"]
+	path = as/hs/emb
+	url = .
 [submodule "as/jk/tvw"]
 	path = as/jk/tvw
 	url = .
