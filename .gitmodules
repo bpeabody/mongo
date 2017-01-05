@@ -8557,6 +8557,9 @@
 [submodule "io/hl/yjf"]
 	path = io/hl/yjf
 	url = .
+[submodule "io/js/yiu"]
+	path = io/js/yiu
+	url = .
 [submodule "io/lu/enf"]
 	path = io/lu/enf
 	url = .
