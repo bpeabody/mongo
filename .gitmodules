@@ -5461,6 +5461,9 @@
 [submodule "xf/ou/lup"]
 	path = xf/ou/lup
 	url = .
+[submodule "xf/pu/xbs"]
+	path = xf/pu/xbs
+	url = .
 [submodule "xg/bm/svd"]
 	path = xg/bm/svd
 	url = .
