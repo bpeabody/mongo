@@ -27319,6 +27319,9 @@
 [submodule "nx/vl/xvv"]
 	path = nx/vl/xvv
 	url = .
+[submodule "nx/wd/fqj"]
+	path = nx/wd/fqj
+	url = .
 [submodule "ny/aq/uyn"]
 	path = ny/aq/uyn
 	url = .
