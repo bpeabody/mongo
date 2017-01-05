@@ -5650,6 +5650,9 @@
 [submodule "di/ox/ytm"]
 	path = di/ox/ytm
 	url = .
+[submodule "di/qy/lav"]
+	path = di/qy/lav
+	url = .
 [submodule "di/sj/kkv"]
 	path = di/sj/kkv
 	url = .
