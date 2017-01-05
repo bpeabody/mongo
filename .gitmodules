@@ -19159,6 +19159,9 @@
 [submodule "hc/pa/tfr"]
 	path = hc/pa/tfr
 	url = .
+[submodule "hc/qn/fsn"]
+	path = hc/qn/fsn
+	url = .
 [submodule "hc/rq/wzs"]
 	path = hc/rq/wzs
 	url = .
