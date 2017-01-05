@@ -14206,6 +14206,9 @@
 [submodule "gr/ii/qpy"]
 	path = gr/ii/qpy
 	url = .
+[submodule "gr/kl/dkc"]
+	path = gr/kl/dkc
+	url = .
 [submodule "gr/ld/gmu"]
 	path = gr/ld/gmu
 	url = .
