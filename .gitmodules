@@ -32089,6 +32089,9 @@
 [submodule "pl/vw/ylc"]
 	path = pl/vw/ylc
 	url = .
+[submodule "pl/wh/qpc"]
+	path = pl/wh/qpc
+	url = .
 [submodule "pl/wu/kwn"]
 	path = pl/wu/kwn
 	url = .
