@@ -20119,6 +20119,9 @@
 [submodule "gv/wl/ymk"]
 	path = gv/wl/ymk
 	url = .
+[submodule "gv/wn/mjd"]
+	path = gv/wn/mjd
+	url = .
 [submodule "gv/wo/qhz"]
 	path = gv/wo/qhz
 	url = .
