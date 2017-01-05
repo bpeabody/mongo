@@ -5173,6 +5173,9 @@
 [submodule "mf/id/mbk"]
 	path = mf/id/mbk
 	url = .
+[submodule "mf/nq/vze"]
+	path = mf/nq/vze
+	url = .
 [submodule "mf/pw/sbx"]
 	path = mf/pw/sbx
 	url = .
