@@ -36532,6 +36532,9 @@
 [submodule "qk/fr/ajj"]
 	path = qk/fr/ajj
 	url = .
+[submodule "qk/gh/nkl"]
+	path = qk/gh/nkl
+	url = .
 [submodule "qk/gi/wqv"]
 	path = qk/gi/wqv
 	url = .
