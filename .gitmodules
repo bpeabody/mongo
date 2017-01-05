@@ -7003,6 +7003,9 @@
 [submodule "ka/dj/spy"]
 	path = ka/dj/spy
 	url = .
+[submodule "ka/ed/pfv"]
+	path = ka/ed/pfv
+	url = .
 [submodule "ka/ia/wgs"]
 	path = ka/ia/wgs
 	url = .
