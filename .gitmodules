@@ -66754,6 +66754,9 @@
 [submodule "yb/fe/vgq"]
 	path = yb/fe/vgq
 	url = .
+[submodule "yb/gb/tzl"]
+	path = yb/gb/tzl
+	url = .
 [submodule "yb/iq/lmr"]
 	path = yb/iq/lmr
 	url = .
