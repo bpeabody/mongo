@@ -64858,6 +64858,9 @@
 [submodule "vr/sl/xfi"]
 	path = vr/sl/xfi
 	url = .
+[submodule "vr/sy/qcv"]
+	path = vr/sy/qcv
+	url = .
 [submodule "vr/ti/bno"]
 	path = vr/ti/bno
 	url = .
