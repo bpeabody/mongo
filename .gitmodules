@@ -1177,6 +1177,9 @@
 [submodule "hx/mw/erh"]
 	path = hx/mw/erh
 	url = .
+[submodule "hy/ev/mgw"]
+	path = hy/ev/mgw
+	url = .
 [submodule "hy/sz/fsm"]
 	path = hy/sz/fsm
 	url = .
