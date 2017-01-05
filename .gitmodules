@@ -26671,6 +26671,9 @@
 [submodule "kd/qf/hyb"]
 	path = kd/qf/hyb
 	url = .
+[submodule "kd/qf/psq"]
+	path = kd/qf/psq
+	url = .
 [submodule "kd/sc/ybz"]
 	path = kd/sc/ybz
 	url = .
