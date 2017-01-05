@@ -6916,6 +6916,9 @@
 [submodule "ly/as/idb"]
 	path = ly/as/idb
 	url = .
+[submodule "ly/dp/vsf"]
+	path = ly/dp/vsf
+	url = .
 [submodule "ly/ht/fde"]
 	path = ly/ht/fde
 	url = .
