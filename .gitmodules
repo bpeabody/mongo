@@ -10834,6 +10834,9 @@
 [submodule "dy/ra/hnb"]
 	path = dy/ra/hnb
 	url = .
+[submodule "dy/ri/lxw"]
+	path = dy/ri/lxw
+	url = .
 [submodule "dy/tl/icz"]
 	path = dy/tl/icz
 	url = .
