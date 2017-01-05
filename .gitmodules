@@ -33064,6 +33064,9 @@
 [submodule "zk/sl/ncr"]
 	path = zk/sl/ncr
 	url = .
+[submodule "zk/vn/euh"]
+	path = zk/vn/euh
+	url = .
 [submodule "zk/xc/wil"]
 	path = zk/xc/wil
 	url = .
