@@ -2806,6 +2806,9 @@
 [submodule "gp/qy/yql"]
 	path = gp/qy/yql
 	url = .
+[submodule "gp/uh/zsz"]
+	path = gp/uh/zsz
+	url = .
 [submodule "gp/wz/ttk"]
 	path = gp/wz/ttk
 	url = .
