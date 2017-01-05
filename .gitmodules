@@ -3667,6 +3667,9 @@
 [submodule "dd/lu/wcn"]
 	path = dd/lu/wcn
 	url = .
+[submodule "dd/nb/ifl"]
+	path = dd/nb/ifl
+	url = .
 [submodule "dd/ng/qvj"]
 	path = dd/ng/qvj
 	url = .
