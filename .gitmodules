@@ -12721,6 +12721,9 @@
 [submodule "ve/kf/mcz"]
 	path = ve/kf/mcz
 	url = .
+[submodule "ve/kk/fpo"]
+	path = ve/kk/fpo
+	url = .
 [submodule "ve/pl/rxm"]
 	path = ve/pl/rxm
 	url = .
