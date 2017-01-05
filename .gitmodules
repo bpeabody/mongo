@@ -1444,6 +1444,9 @@
 [submodule "ra/um/jno"]
 	path = ra/um/jno
 	url = .
+[submodule "rc/ef/cuy"]
+	path = rc/ef/cuy
+	url = .
 [submodule "rc/rv/exs"]
 	path = rc/rv/exs
 	url = .
