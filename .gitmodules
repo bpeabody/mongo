@@ -67342,6 +67342,9 @@
 [submodule "yy/rl/glp"]
 	path = yy/rl/glp
 	url = .
+[submodule "yy/sy/mtp"]
+	path = yy/sy/mtp
+	url = .
 [submodule "yy/th/shu"]
 	path = yy/th/shu
 	url = .
