@@ -14062,6 +14062,9 @@
 [submodule "ex/oy/egv"]
 	path = ex/oy/egv
 	url = .
+[submodule "ex/pg/kpy"]
+	path = ex/pg/kpy
+	url = .
 [submodule "ex/pt/bkk"]
 	path = ex/pt/bkk
 	url = .
