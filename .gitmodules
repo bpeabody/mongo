@@ -6373,6 +6373,9 @@
 [submodule "ed/vv/ych"]
 	path = ed/vv/ych
 	url = .
+[submodule "ed/xk/iku"]
+	path = ed/xk/iku
+	url = .
 [submodule "ed/yx/xqc"]
 	path = ed/yx/xqc
 	url = .
