@@ -34528,6 +34528,9 @@
 [submodule "pt/tx/gbk"]
 	path = pt/tx/gbk
 	url = .
+[submodule "pt/ug/dgo"]
+	path = pt/ug/dgo
+	url = .
 [submodule "pt/vs/goo"]
 	path = pt/vs/goo
 	url = .
