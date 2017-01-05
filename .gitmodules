@@ -44335,6 +44335,9 @@
 [submodule "yt/cb/rof"]
 	path = yt/cb/rof
 	url = .
+[submodule "yt/cg/nmw"]
+	path = yt/cg/nmw
+	url = .
 [submodule "yt/de/gqj"]
 	path = yt/de/gqj
 	url = .
