@@ -10009,6 +10009,9 @@
 [submodule "kf/bk/bge"]
 	path = kf/bk/bge
 	url = .
+[submodule "kf/qa/azn"]
+	path = kf/qa/azn
+	url = .
 [submodule "kf/qn/cvx"]
 	path = kf/qn/cvx
 	url = .
