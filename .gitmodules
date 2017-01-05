@@ -10066,6 +10066,9 @@
 [submodule "hs/fi/eyo"]
 	path = hs/fi/eyo
 	url = .
+[submodule "hs/fx/osn"]
+	path = hs/fx/osn
+	url = .
 [submodule "hs/gv/jsn"]
 	path = hs/gv/jsn
 	url = .
