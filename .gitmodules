@@ -9028,6 +9028,9 @@
 [submodule "ls/mc/huk"]
 	path = ls/mc/huk
 	url = .
+[submodule "ls/nm/zco"]
+	path = ls/nm/zco
+	url = .
 [submodule "ls/om/cxf"]
 	path = ls/om/cxf
 	url = .
