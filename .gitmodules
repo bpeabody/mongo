@@ -9505,6 +9505,9 @@
 [submodule "iw/ik/riv"]
 	path = iw/ik/riv
 	url = .
+[submodule "iw/iv/ngk"]
+	path = iw/iv/ngk
+	url = .
 [submodule "iw/jt/rsw"]
 	path = iw/jt/rsw
 	url = .
