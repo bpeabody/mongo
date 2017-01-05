@@ -9184,6 +9184,9 @@
 [submodule "xj/xc/qhe"]
 	path = xj/xc/qhe
 	url = .
+[submodule "xj/yr/egf"]
+	path = xj/yr/egf
+	url = .
 [submodule "xk/ct/set"]
 	path = xk/ct/set
 	url = .
