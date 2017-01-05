@@ -529,6 +529,9 @@
 [submodule "cn/sw/gng"]
 	path = cn/sw/gng
 	url = .
+[submodule "co/gz/tri"]
+	path = co/gz/tri
+	url = .
 [submodule "co/of/qoi"]
 	path = co/of/qoi
 	url = .
