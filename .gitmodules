@@ -48955,6 +48955,9 @@
 [submodule "sc/gr/udk"]
 	path = sc/gr/udk
 	url = .
+[submodule "sc/hc/fym"]
+	path = sc/hc/fym
+	url = .
 [submodule "sc/hi/dki"]
 	path = sc/hi/dki
 	url = .
