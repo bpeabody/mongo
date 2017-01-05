@@ -15712,6 +15712,9 @@
 [submodule "ly/as/idb"]
 	path = ly/as/idb
 	url = .
+[submodule "ly/bn/bho"]
+	path = ly/bn/bho
+	url = .
 [submodule "ly/dp/vsf"]
 	path = ly/dp/vsf
 	url = .
