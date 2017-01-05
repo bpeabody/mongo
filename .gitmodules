@@ -103,6 +103,9 @@
 [submodule "ad/kq/vlu"]
 	path = ad/kq/vlu
 	url = .
+[submodule "ad/qc/acu"]
+	path = ad/qc/acu
+	url = .
 [submodule "ad/rv/tfg"]
 	path = ad/rv/tfg
 	url = .
