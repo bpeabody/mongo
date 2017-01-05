@@ -37828,6 +37828,9 @@
 [submodule "mt/gp/lvn"]
 	path = mt/gp/lvn
 	url = .
+[submodule "mt/ix/jjr"]
+	path = mt/ix/jjr
+	url = .
 [submodule "mt/jo/nft"]
 	path = mt/jo/nft
 	url = .
