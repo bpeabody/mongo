@@ -5542,6 +5542,9 @@
 [submodule "bz/hf/afv"]
 	path = bz/hf/afv
 	url = .
+[submodule "bz/ix/uem"]
+	path = bz/ix/uem
+	url = .
 [submodule "bz/jf/mvk"]
 	path = bz/jf/mvk
 	url = .
