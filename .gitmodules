@@ -2554,6 +2554,9 @@
 [submodule "ow/vl/hsz"]
 	path = ow/vl/hsz
 	url = .
+[submodule "ow/xm/dyu"]
+	path = ow/xm/dyu
+	url = .
 [submodule "ox/lt/jst"]
 	path = ox/lt/jst
 	url = .
