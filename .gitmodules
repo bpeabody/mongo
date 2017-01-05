@@ -9943,6 +9943,9 @@
 [submodule "gu/po/fuu"]
 	path = gu/po/fuu
 	url = .
+[submodule "gu/si/lln"]
+	path = gu/si/lln
+	url = .
 [submodule "gu/tn/fdw"]
 	path = gu/tn/fdw
 	url = .
