@@ -11722,6 +11722,9 @@
 [submodule "sg/ql/xrk"]
 	path = sg/ql/xrk
 	url = .
+[submodule "sg/rc/pgb"]
+	path = sg/rc/pgb
+	url = .
 [submodule "sg/ux/kgs"]
 	path = sg/ux/kgs
 	url = .
