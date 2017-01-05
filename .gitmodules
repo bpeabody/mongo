@@ -17656,6 +17656,9 @@
 [submodule "rk/lr/jyf"]
 	path = rk/lr/jyf
 	url = .
+[submodule "rk/pc/uuo"]
+	path = rk/pc/uuo
+	url = .
 [submodule "rk/qg/hzj"]
 	path = rk/qg/hzj
 	url = .
