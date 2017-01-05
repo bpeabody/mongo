@@ -13684,6 +13684,9 @@
 [submodule "ie/ml/cpn"]
 	path = ie/ml/cpn
 	url = .
+[submodule "ie/mq/uta"]
+	path = ie/mq/uta
+	url = .
 [submodule "ie/qf/mqp"]
 	path = ie/qf/mqp
 	url = .
