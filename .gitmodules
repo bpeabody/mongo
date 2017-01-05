@@ -11926,6 +11926,9 @@
 [submodule "gc/gm/vny"]
 	path = gc/gm/vny
 	url = .
+[submodule "gc/gs/sbk"]
+	path = gc/gs/sbk
+	url = .
 [submodule "gc/hx/gkg"]
 	path = gc/hx/gkg
 	url = .
