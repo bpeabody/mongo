@@ -14737,6 +14737,9 @@
 [submodule "lu/ey/bod"]
 	path = lu/ey/bod
 	url = .
+[submodule "lu/gu/xro"]
+	path = lu/gu/xro
+	url = .
 [submodule "lu/kv/dsc"]
 	path = lu/kv/dsc
 	url = .
