@@ -2950,6 +2950,9 @@
 [submodule "bv/hx/ryf"]
 	path = bv/hx/ryf
 	url = .
+[submodule "bv/hz/uiy"]
+	path = bv/hz/uiy
+	url = .
 [submodule "bv/jk/plg"]
 	path = bv/jk/plg
 	url = .
