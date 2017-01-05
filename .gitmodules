@@ -3460,6 +3460,9 @@
 [submodule "gv/oi/sph"]
 	path = gv/oi/sph
 	url = .
+[submodule "gv/pv/ege"]
+	path = gv/pv/ege
+	url = .
 [submodule "gv/wl/ymk"]
 	path = gv/wl/ymk
 	url = .
