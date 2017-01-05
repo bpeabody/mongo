@@ -319,6 +319,9 @@
 [submodule "cx/gi/rsv"]
 	path = cx/gi/rsv
 	url = .
+[submodule "cx/nt/qvg"]
+	path = cx/nt/qvg
+	url = .
 [submodule "cx/rr/dky"]
 	path = cx/rr/dky
 	url = .
