@@ -13303,6 +13303,9 @@
 [submodule "yc/my/sgn"]
 	path = yc/my/sgn
 	url = .
+[submodule "yc/ny/xsm"]
+	path = yc/ny/xsm
+	url = .
 [submodule "yc/rd/zcn"]
 	path = yc/rd/zcn
 	url = .
