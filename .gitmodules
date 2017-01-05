@@ -46324,6 +46324,9 @@
 [submodule "pq/pp/wgy"]
 	path = pq/pp/wgy
 	url = .
+[submodule "pq/qb/euw"]
+	path = pq/qb/euw
+	url = .
 [submodule "pq/qs/zkc"]
 	path = pq/qs/zkc
 	url = .
