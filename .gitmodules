@@ -10366,6 +10366,9 @@
 [submodule "sx/bo/ilu"]
 	path = sx/bo/ilu
 	url = .
+[submodule "sx/eo/lim"]
+	path = sx/eo/lim
+	url = .
 [submodule "sx/hy/odo"]
 	path = sx/hy/odo
 	url = .
