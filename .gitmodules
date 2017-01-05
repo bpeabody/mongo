@@ -27787,6 +27787,9 @@
 [submodule "xv/pq/neo"]
 	path = xv/pq/neo
 	url = .
+[submodule "xv/qm/zim"]
+	path = xv/qm/zim
+	url = .
 [submodule "xv/sb/khf"]
 	path = xv/sb/khf
 	url = .
