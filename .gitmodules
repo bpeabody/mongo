@@ -1627,6 +1627,9 @@
 [submodule "bh/ny/vzd"]
 	path = bh/ny/vzd
 	url = .
+[submodule "bh/qt/sjq"]
+	path = bh/qt/sjq
+	url = .
 [submodule "bh/rl/pjh"]
 	path = bh/rl/pjh
 	url = .
