@@ -22387,6 +22387,9 @@
 [submodule "ko/gy/bkl"]
 	path = ko/gy/bkl
 	url = .
+[submodule "ko/gz/lwe"]
+	path = ko/gz/lwe
+	url = .
 [submodule "ko/ih/cgj"]
 	path = ko/ih/cgj
 	url = .
