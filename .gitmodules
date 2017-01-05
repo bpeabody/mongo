@@ -45682,6 +45682,9 @@
 [submodule "rd/cg/eon"]
 	path = rd/cg/eon
 	url = .
+[submodule "rd/da/wkt"]
+	path = rd/da/wkt
+	url = .
 [submodule "rd/dm/xuu"]
 	path = rd/dm/xuu
 	url = .
