@@ -14641,6 +14641,9 @@
 [submodule "np/av/uoo"]
 	path = np/av/uoo
 	url = .
+[submodule "np/by/izy"]
+	path = np/by/izy
+	url = .
 [submodule "np/cs/vsu"]
 	path = np/cs/vsu
 	url = .
