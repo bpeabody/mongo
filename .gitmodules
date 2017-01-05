@@ -11833,6 +11833,9 @@
 [submodule "lw/po/gxq"]
 	path = lw/po/gxq
 	url = .
+[submodule "lw/sc/ewj"]
+	path = lw/sc/ewj
+	url = .
 [submodule "lx/ba/acs"]
 	path = lx/ba/acs
 	url = .
