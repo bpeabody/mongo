@@ -5296,6 +5296,9 @@
 [submodule "hd/iy/sgr"]
 	path = hd/iy/sgr
 	url = .
+[submodule "hd/kc/ihu"]
+	path = hd/kc/ihu
+	url = .
 [submodule "hd/mf/hkb"]
 	path = hd/mf/hkb
 	url = .
