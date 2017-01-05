@@ -5509,6 +5509,9 @@
 [submodule "hg/il/oiu"]
 	path = hg/il/oiu
 	url = .
+[submodule "hg/lt/spy"]
+	path = hg/lt/spy
+	url = .
 [submodule "hg/wr/cps"]
 	path = hg/wr/cps
 	url = .
