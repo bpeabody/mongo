@@ -3568,6 +3568,9 @@
 [submodule "ch/hv/dzh"]
 	path = ch/hv/dzh
 	url = .
+[submodule "ch/ia/uep"]
+	path = ch/ia/uep
+	url = .
 [submodule "ch/jt/gtw"]
 	path = ch/jt/gtw
 	url = .
