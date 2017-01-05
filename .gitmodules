@@ -6424,6 +6424,9 @@
 [submodule "eb/lg/bux"]
 	path = eb/lg/bux
 	url = .
+[submodule "eb/lx/nha"]
+	path = eb/lx/nha
+	url = .
 [submodule "eb/md/mcl"]
 	path = eb/md/mcl
 	url = .
