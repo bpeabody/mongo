@@ -8836,6 +8836,9 @@
 [submodule "hh/el/coa"]
 	path = hh/el/coa
 	url = .
+[submodule "hh/et/cxn"]
+	path = hh/et/cxn
+	url = .
 [submodule "hh/et/pcv"]
 	path = hh/et/pcv
 	url = .
