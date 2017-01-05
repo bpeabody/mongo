@@ -47923,6 +47923,9 @@
 [submodule "qf/up/irt"]
 	path = qf/up/irt
 	url = .
+[submodule "qf/ux/bna"]
+	path = qf/ux/bna
+	url = .
 [submodule "qf/vv/icj"]
 	path = qf/vv/icj
 	url = .
