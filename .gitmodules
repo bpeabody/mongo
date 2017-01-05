@@ -7492,6 +7492,9 @@
 [submodule "sr/vj/lwz"]
 	path = sr/vj/lwz
 	url = .
+[submodule "sr/zo/nbo"]
+	path = sr/zo/nbo
+	url = .
 [submodule "ss/do/dwh"]
 	path = ss/do/dwh
 	url = .
