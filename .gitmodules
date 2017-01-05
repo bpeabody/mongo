@@ -6394,6 +6394,9 @@
 [submodule "wu/eg/jnl"]
 	path = wu/eg/jnl
 	url = .
+[submodule "wu/ei/jve"]
+	path = wu/ei/jve
+	url = .
 [submodule "wu/ka/tgj"]
 	path = wu/ka/tgj
 	url = .
