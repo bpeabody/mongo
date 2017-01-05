@@ -8443,6 +8443,9 @@
 [submodule "dv/md/nro"]
 	path = dv/md/nro
 	url = .
+[submodule "dv/mk/uyo"]
+	path = dv/mk/uyo
+	url = .
 [submodule "dv/ng/jsc"]
 	path = dv/ng/jsc
 	url = .
