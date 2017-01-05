@@ -6925,6 +6925,9 @@
 [submodule "nd/qb/ija"]
 	path = nd/qb/ija
 	url = .
+[submodule "nd/rj/ebv"]
+	path = nd/rj/ebv
+	url = .
 [submodule "nd/vm/umb"]
 	path = nd/vm/umb
 	url = .
