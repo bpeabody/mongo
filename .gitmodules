@@ -6424,6 +6424,9 @@
 [submodule "np/mp/dgs"]
 	path = np/mp/dgs
 	url = .
+[submodule "np/nl/sqz"]
+	path = np/nl/sqz
+	url = .
 [submodule "np/rp/mdl"]
 	path = np/rp/mdl
 	url = .
