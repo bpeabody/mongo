@@ -25639,6 +25639,9 @@
 [submodule "pv/xz/jas"]
 	path = pv/xz/jas
 	url = .
+[submodule "pv/ys/nxj"]
+	path = pv/ys/nxj
+	url = .
 [submodule "pv/zx/rjx"]
 	path = pv/zx/rjx
 	url = .
