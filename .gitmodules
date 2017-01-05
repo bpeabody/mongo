@@ -39604,6 +39604,9 @@
 [submodule "tu/vf/yfc"]
 	path = tu/vf/yfc
 	url = .
+[submodule "tu/vi/iak"]
+	path = tu/vi/iak
+	url = .
 [submodule "tu/yi/xsa"]
 	path = tu/yi/xsa
 	url = .
