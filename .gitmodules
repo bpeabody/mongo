@@ -1828,6 +1828,9 @@
 [submodule "ap/fo/leq"]
 	path = ap/fo/leq
 	url = .
+[submodule "ap/fu/emd"]
+	path = ap/fu/emd
+	url = .
 [submodule "ap/fy/zem"]
 	path = ap/fy/zem
 	url = .
