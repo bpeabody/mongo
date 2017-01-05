@@ -793,6 +793,9 @@
 [submodule "bk/qd/txn"]
 	path = bk/qd/txn
 	url = .
+[submodule "bk/yi/rcs"]
+	path = bk/yi/rcs
+	url = .
 [submodule "bk/zw/edj"]
 	path = bk/zw/edj
 	url = .
