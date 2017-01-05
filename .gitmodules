@@ -3034,6 +3034,9 @@
 [submodule "ef/lf/tes"]
 	path = ef/lf/tes
 	url = .
+[submodule "ef/qd/qvb"]
+	path = ef/qd/qvb
+	url = .
 [submodule "ef/sg/yqc"]
 	path = ef/sg/yqc
 	url = .
