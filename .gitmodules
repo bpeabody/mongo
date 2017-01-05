@@ -14998,6 +14998,9 @@
 [submodule "nz/pb/qps"]
 	path = nz/pb/qps
 	url = .
+[submodule "nz/pt/gby"]
+	path = nz/pt/gby
+	url = .
 [submodule "nz/qr/rdi"]
 	path = nz/qr/rdi
 	url = .
