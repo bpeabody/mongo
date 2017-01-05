@@ -39850,6 +39850,9 @@
 [submodule "ty/nu/arv"]
 	path = ty/nu/arv
 	url = .
+[submodule "ty/pb/wec"]
+	path = ty/pb/wec
+	url = .
 [submodule "ty/pu/xbx"]
 	path = ty/pu/xbx
 	url = .
