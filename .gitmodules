@@ -42019,6 +42019,9 @@
 [submodule "ui/ef/yfk"]
 	path = ui/ef/yfk
 	url = .
+[submodule "ui/eo/owo"]
+	path = ui/eo/owo
+	url = .
 [submodule "ui/gu/sot"]
 	path = ui/gu/sot
 	url = .
