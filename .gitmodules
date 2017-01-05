@@ -64405,6 +64405,9 @@
 [submodule "vm/pj/mbe"]
 	path = vm/pj/mbe
 	url = .
+[submodule "vm/qg/rhw"]
+	path = vm/qg/rhw
+	url = .
 [submodule "vm/rv/rus"]
 	path = vm/rv/rus
 	url = .
