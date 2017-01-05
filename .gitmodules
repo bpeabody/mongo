@@ -6055,6 +6055,9 @@
 [submodule "jr/lk/chy"]
 	path = jr/lk/chy
 	url = .
+[submodule "jr/lp/iif"]
+	path = jr/lp/iif
+	url = .
 [submodule "jr/mm/wap"]
 	path = jr/mm/wap
 	url = .
