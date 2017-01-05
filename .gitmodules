@@ -56980,6 +56980,9 @@
 [submodule "yq/pq/weo"]
 	path = yq/pq/weo
 	url = .
+[submodule "yq/pw/eld"]
+	path = yq/pw/eld
+	url = .
 [submodule "yq/sc/drd"]
 	path = yq/sc/drd
 	url = .
