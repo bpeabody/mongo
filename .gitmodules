@@ -3385,6 +3385,9 @@
 [submodule "vw/ms/uvh"]
 	path = vw/ms/uvh
 	url = .
+[submodule "vw/nz/dht"]
+	path = vw/nz/dht
+	url = .
 [submodule "vw/og/xyj"]
 	path = vw/og/xyj
 	url = .
