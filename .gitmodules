@@ -2329,6 +2329,9 @@
 [submodule "ee/zg/owd"]
 	path = ee/zg/owd
 	url = .
+[submodule "ef/gb/xjc"]
+	path = ef/gb/xjc
+	url = .
 [submodule "ef/lf/tes"]
 	path = ef/lf/tes
 	url = .
