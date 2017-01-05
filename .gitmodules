@@ -8263,6 +8263,9 @@
 [submodule "ex/gx/brr"]
 	path = ex/gx/brr
 	url = .
+[submodule "ex/hu/hzn"]
+	path = ex/hu/hzn
+	url = .
 [submodule "ex/hx/jks"]
 	path = ex/hx/jks
 	url = .
