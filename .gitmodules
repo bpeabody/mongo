@@ -2512,6 +2512,9 @@
 [submodule "na/fu/uup"]
 	path = na/fu/uup
 	url = .
+[submodule "na/nf/rbm"]
+	path = na/nf/rbm
+	url = .
 [submodule "nb/ax/gtc"]
 	path = nb/ax/gtc
 	url = .
