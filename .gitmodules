@@ -16270,6 +16270,9 @@
 [submodule "mn/gu/mvl"]
 	path = mn/gu/mvl
 	url = .
+[submodule "mn/kn/rmp"]
+	path = mn/kn/rmp
+	url = .
 [submodule "mn/ni/uvh"]
 	path = mn/ni/uvh
 	url = .
