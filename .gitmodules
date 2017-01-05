@@ -25375,6 +25375,9 @@
 [submodule "sb/ro/qxu"]
 	path = sb/ro/qxu
 	url = .
+[submodule "sb/ti/nqg"]
+	path = sb/ti/nqg
+	url = .
 [submodule "sb/vl/mvi"]
 	path = sb/vl/mvi
 	url = .
