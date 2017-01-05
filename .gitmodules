@@ -4117,6 +4117,9 @@
 [submodule "eo/oo/myr"]
 	path = eo/oo/myr
 	url = .
+[submodule "eo/oq/sma"]
+	path = eo/oq/sma
+	url = .
 [submodule "eo/vu/ubt"]
 	path = eo/vu/ubt
 	url = .
