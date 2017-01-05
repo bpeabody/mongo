@@ -1723,6 +1723,9 @@
 [submodule "rv/cv/kkk"]
 	path = rv/cv/kkk
 	url = .
+[submodule "rv/dw/znw"]
+	path = rv/dw/znw
+	url = .
 [submodule "rv/oe/eix"]
 	path = rv/oe/eix
 	url = .
