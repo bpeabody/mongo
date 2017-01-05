@@ -15736,6 +15736,9 @@
 [submodule "vq/ls/kxx"]
 	path = vq/ls/kxx
 	url = .
+[submodule "vq/nl/kbr"]
+	path = vq/nl/kbr
+	url = .
 [submodule "vq/rj/nod"]
 	path = vq/rj/nod
 	url = .
