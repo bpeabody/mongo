@@ -2653,6 +2653,9 @@
 [submodule "cb/bj/xgc"]
 	path = cb/bj/xgc
 	url = .
+[submodule "cb/bp/vpx"]
+	path = cb/bp/vpx
+	url = .
 [submodule "cb/fe/spf"]
 	path = cb/fe/spf
 	url = .
