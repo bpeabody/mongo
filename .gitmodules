@@ -91,6 +91,9 @@
 [submodule "cp/lx/gql"]
 	path = cp/lx/gql
 	url = .
+[submodule "cp/se/xsv"]
+	path = cp/se/xsv
+	url = .
 [submodule "cr/me/kja"]
 	path = cr/me/kja
 	url = .
