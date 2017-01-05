@@ -5353,6 +5353,9 @@
 [submodule "jq/su/rrf"]
 	path = jq/su/rrf
 	url = .
+[submodule "jq/wo/faq"]
+	path = jq/wo/faq
+	url = .
 [submodule "jq/yw/zdf"]
 	path = jq/yw/zdf
 	url = .
