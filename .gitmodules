@@ -8410,6 +8410,9 @@
 [submodule "lv/ja/art"]
 	path = lv/ja/art
 	url = .
+[submodule "lv/ju/psh"]
+	path = lv/ju/psh
+	url = .
 [submodule "lv/ky/man"]
 	path = lv/ky/man
 	url = .
