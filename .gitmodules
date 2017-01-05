@@ -9541,6 +9541,9 @@
 [submodule "dq/bp/hri"]
 	path = dq/bp/hri
 	url = .
+[submodule "dq/bx/ghv"]
+	path = dq/bx/ghv
+	url = .
 [submodule "dq/ck/muk"]
 	path = dq/ck/muk
 	url = .
