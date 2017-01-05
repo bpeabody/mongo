@@ -14404,6 +14404,9 @@
 [submodule "hb/yu/tek"]
 	path = hb/yu/tek
 	url = .
+[submodule "hb/zn/ugt"]
+	path = hb/zn/ugt
+	url = .
 [submodule "hb/zs/rwo"]
 	path = hb/zs/rwo
 	url = .
