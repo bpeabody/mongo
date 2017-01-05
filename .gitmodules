@@ -1525,6 +1525,9 @@
 [submodule "ce/qw/ufg"]
 	path = ce/qw/ufg
 	url = .
+[submodule "ce/td/jsg"]
+	path = ce/td/jsg
+	url = .
 [submodule "ce/xh/mxb"]
 	path = ce/xh/mxb
 	url = .
