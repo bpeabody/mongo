@@ -22567,6 +22567,9 @@
 [submodule "xz/iq/pth"]
 	path = xz/iq/pth
 	url = .
+[submodule "xz/oz/gwr"]
+	path = xz/oz/gwr
+	url = .
 [submodule "xz/pp/rsm"]
 	path = xz/pp/rsm
 	url = .
