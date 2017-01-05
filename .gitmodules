@@ -3250,6 +3250,9 @@
 [submodule "bh/fx/fui"]
 	path = bh/fx/fui
 	url = .
+[submodule "bh/gs/vgn"]
+	path = bh/gs/vgn
+	url = .
 [submodule "bh/jc/lfl"]
 	path = bh/jc/lfl
 	url = .
