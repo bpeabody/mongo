@@ -63175,6 +63175,9 @@
 [submodule "ym/ky/qgj"]
 	path = ym/ky/qgj
 	url = .
+[submodule "ym/lf/njx"]
+	path = ym/lf/njx
+	url = .
 [submodule "ym/lu/lzy"]
 	path = ym/lu/lzy
 	url = .
