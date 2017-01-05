@@ -5953,6 +5953,9 @@
 [submodule "mx/nl/uyd"]
 	path = mx/nl/uyd
 	url = .
+[submodule "mx/sq/mvm"]
+	path = mx/sq/mvm
+	url = .
 [submodule "mx/un/nui"]
 	path = mx/un/nui
 	url = .
