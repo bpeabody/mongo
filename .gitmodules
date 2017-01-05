@@ -4171,6 +4171,9 @@
 [submodule "bo/kb/ptg"]
 	path = bo/kb/ptg
 	url = .
+[submodule "bo/ki/iya"]
+	path = bo/ki/iya
+	url = .
 [submodule "bo/lj/dzs"]
 	path = bo/lj/dzs
 	url = .
