@@ -1825,6 +1825,9 @@
 [submodule "ap/qb/ets"]
 	path = ap/qb/ets
 	url = .
+[submodule "ap/qq/hfq"]
+	path = ap/qq/hfq
+	url = .
 [submodule "ap/rj/ikk"]
 	path = ap/rj/ikk
 	url = .
