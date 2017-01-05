@@ -48796,6 +48796,9 @@
 [submodule "rj/cq/ncg"]
 	path = rj/cq/ncg
 	url = .
+[submodule "rj/db/wsa"]
+	path = rj/db/wsa
+	url = .
 [submodule "rj/de/hit"]
 	path = rj/de/hit
 	url = .
