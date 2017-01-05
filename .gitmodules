@@ -33100,6 +33100,9 @@
 [submodule "oa/va/dho"]
 	path = oa/va/dho
 	url = .
+[submodule "oa/vk/ygd"]
+	path = oa/vk/ygd
+	url = .
 [submodule "oa/vu/wqm"]
 	path = oa/vu/wqm
 	url = .
