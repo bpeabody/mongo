@@ -42838,6 +42838,9 @@
 [submodule "ui/hj/rli"]
 	path = ui/hj/rli
 	url = .
+[submodule "ui/im/ebm"]
+	path = ui/im/ebm
+	url = .
 [submodule "ui/iw/udn"]
 	path = ui/iw/udn
 	url = .
