@@ -24088,6 +24088,9 @@
 [submodule "yr/id/loc"]
 	path = yr/id/loc
 	url = .
+[submodule "yr/js/yvv"]
+	path = yr/js/yvv
+	url = .
 [submodule "yr/kd/cdq"]
 	path = yr/kd/cdq
 	url = .
