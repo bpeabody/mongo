@@ -2281,6 +2281,9 @@
 [submodule "em/ck/sxc"]
 	path = em/ck/sxc
 	url = .
+[submodule "em/fl/ffb"]
+	path = em/fl/ffb
+	url = .
 [submodule "em/fq/tbd"]
 	path = em/fq/tbd
 	url = .
