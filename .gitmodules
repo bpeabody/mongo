@@ -13390,6 +13390,9 @@
 [submodule "pg/wk/uyn"]
 	path = pg/wk/uyn
 	url = .
+[submodule "pg/xc/uhw"]
+	path = pg/xc/uhw
+	url = .
 [submodule "pg/xj/mlr"]
 	path = pg/xj/mlr
 	url = .
