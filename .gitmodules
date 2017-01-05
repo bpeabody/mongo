@@ -17164,6 +17164,9 @@
 [submodule "ov/si/gtj"]
 	path = ov/si/gtj
 	url = .
+[submodule "ov/vq/kah"]
+	path = ov/vq/kah
+	url = .
 [submodule "ov/wo/ujp"]
 	path = ov/wo/ujp
 	url = .
