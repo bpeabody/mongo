@@ -304,6 +304,9 @@
 [submodule "bg/gi/kpo"]
 	path = bg/gi/kpo
 	url = .
+[submodule "bg/gn/lan"]
+	path = bg/gn/lan
+	url = .
 [submodule "bg/lm/oau"]
 	path = bg/lm/oau
 	url = .
