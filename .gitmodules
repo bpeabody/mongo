@@ -28579,6 +28579,9 @@
 [submodule "rc/hf/kxo"]
 	path = rc/hf/kxo
 	url = .
+[submodule "rc/me/bdd"]
+	path = rc/me/bdd
+	url = .
 [submodule "rc/mn/cat"]
 	path = rc/mn/cat
 	url = .
