@@ -27955,6 +27955,9 @@
 [submodule "jq/fa/jdm"]
 	path = jq/fa/jdm
 	url = .
+[submodule "jq/fw/occ"]
+	path = jq/fw/occ
+	url = .
 [submodule "jq/hg/kab"]
 	path = jq/hg/kab
 	url = .
