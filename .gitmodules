@@ -29911,6 +29911,9 @@
 [submodule "lg/mg/wda"]
 	path = lg/mg/wda
 	url = .
+[submodule "lg/mh/fad"]
+	path = lg/mh/fad
+	url = .
 [submodule "lg/mk/pgg"]
 	path = lg/mk/pgg
 	url = .
