@@ -8065,6 +8065,9 @@
 [submodule "ev/mz/mas"]
 	path = ev/mz/mas
 	url = .
+[submodule "ev/pa/sme"]
+	path = ev/pa/sme
+	url = .
 [submodule "ev/pe/oem"]
 	path = ev/pe/oem
 	url = .
