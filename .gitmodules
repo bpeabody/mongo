@@ -9280,6 +9280,9 @@
 [submodule "rc/ca/ydl"]
 	path = rc/ca/ydl
 	url = .
+[submodule "rc/ee/uyr"]
+	path = rc/ee/uyr
+	url = .
 [submodule "rc/ef/cuy"]
 	path = rc/ef/cuy
 	url = .
