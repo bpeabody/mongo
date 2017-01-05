@@ -4081,6 +4081,9 @@
 [submodule "gm/ak/bmp"]
 	path = gm/ak/bmp
 	url = .
+[submodule "gm/ak/ngi"]
+	path = gm/ak/ngi
+	url = .
 [submodule "gm/db/uwm"]
 	path = gm/db/uwm
 	url = .
