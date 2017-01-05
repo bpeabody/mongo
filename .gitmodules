@@ -3928,6 +3928,9 @@
 [submodule "fe/gu/ron"]
 	path = fe/gu/ron
 	url = .
+[submodule "fe/hs/ksk"]
+	path = fe/hs/ksk
+	url = .
 [submodule "fe/jn/uav"]
 	path = fe/jn/uav
 	url = .
