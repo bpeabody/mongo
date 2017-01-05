@@ -33889,6 +33889,9 @@
 [submodule "xt/lc/mnz"]
 	path = xt/lc/mnz
 	url = .
+[submodule "xt/lr/yjl"]
+	path = xt/lr/yjl
+	url = .
 [submodule "xt/md/rgj"]
 	path = xt/md/rgj
 	url = .
