@@ -29161,6 +29161,9 @@
 [submodule "nm/bk/vci"]
 	path = nm/bk/vci
 	url = .
+[submodule "nm/bs/udo"]
+	path = nm/bs/udo
+	url = .
 [submodule "nm/ef/vgi"]
 	path = nm/ef/vgi
 	url = .
