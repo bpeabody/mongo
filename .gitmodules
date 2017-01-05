@@ -12529,6 +12529,9 @@
 [submodule "hb/wu/yaq"]
 	path = hb/wu/yaq
 	url = .
+[submodule "hb/xq/xyk"]
+	path = hb/xq/xyk
+	url = .
 [submodule "hb/zs/rwo"]
 	path = hb/zs/rwo
 	url = .
