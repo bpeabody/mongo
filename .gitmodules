@@ -3970,6 +3970,9 @@
 [submodule "vr/zr/mrj"]
 	path = vr/zr/mrj
 	url = .
+[submodule "vs/mo/nnx"]
+	path = vs/mo/nnx
+	url = .
 [submodule "vt/dr/xqr"]
 	path = vt/dr/xqr
 	url = .
