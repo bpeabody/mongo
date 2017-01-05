@@ -5908,6 +5908,9 @@
 [submodule "cd/uh/mbp"]
 	path = cd/uh/mbp
 	url = .
+[submodule "cd/we/soy"]
+	path = cd/we/soy
+	url = .
 [submodule "cd/wm/acw"]
 	path = cd/wm/acw
 	url = .
