@@ -3676,6 +3676,9 @@
 [submodule "fv/iu/uxw"]
 	path = fv/iu/uxw
 	url = .
+[submodule "fv/jq/feq"]
+	path = fv/jq/feq
+	url = .
 [submodule "fv/jq/hnv"]
 	path = fv/jq/hnv
 	url = .
