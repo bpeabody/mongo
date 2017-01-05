@@ -61687,6 +61687,9 @@
 [submodule "vq/pw/zlc"]
 	path = vq/pw/zlc
 	url = .
+[submodule "vq/qp/dni"]
+	path = vq/qp/dni
+	url = .
 [submodule "vq/qq/ivd"]
 	path = vq/qq/ivd
 	url = .
