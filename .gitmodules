@@ -30007,6 +30007,9 @@
 [submodule "xv/qm/zim"]
 	path = xv/qm/zim
 	url = .
+[submodule "xv/qv/nvh"]
+	path = xv/qv/nvh
+	url = .
 [submodule "xv/sb/khf"]
 	path = xv/sb/khf
 	url = .
