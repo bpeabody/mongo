@@ -6991,6 +6991,9 @@
 [submodule "uk/rb/lkz"]
 	path = uk/rb/lkz
 	url = .
+[submodule "uk/xj/bgu"]
+	path = uk/xj/bgu
+	url = .
 [submodule "uk/zi/tjx"]
 	path = uk/zi/tjx
 	url = .
