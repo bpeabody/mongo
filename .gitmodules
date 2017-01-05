@@ -193,6 +193,9 @@
 [submodule "gs/tv/wqq"]
 	path = gs/tv/wqq
 	url = .
+[submodule "gv/mw/qwz"]
+	path = gv/mw/qwz
+	url = .
 [submodule "gv/oi/sph"]
 	path = gv/oi/sph
 	url = .
