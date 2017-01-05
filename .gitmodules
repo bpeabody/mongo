@@ -1327,6 +1327,9 @@
 [submodule "av/ha/thl"]
 	path = av/ha/thl
 	url = .
+[submodule "av/if/pyv"]
+	path = av/if/pyv
+	url = .
 [submodule "av/jt/zin"]
 	path = av/jt/zin
 	url = .
