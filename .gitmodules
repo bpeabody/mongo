@@ -55,6 +55,9 @@
 [submodule "bb/ug/yiq"]
 	path = bb/ug/yiq
 	url = .
+[submodule "bd/hp/dsx"]
+	path = bd/hp/dsx
+	url = .
 [submodule "bf/gf/vfh"]
 	path = bf/gf/vfh
 	url = .
