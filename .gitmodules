@@ -5299,6 +5299,9 @@
 [submodule "dp/no/pgu"]
 	path = dp/no/pgu
 	url = .
+[submodule "dp/pg/dnf"]
+	path = dp/pg/dnf
+	url = .
 [submodule "dp/pz/qjf"]
 	path = dp/pz/qjf
 	url = .
