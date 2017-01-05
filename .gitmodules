@@ -7069,6 +7069,9 @@
 [submodule "fv/qa/hgd"]
 	path = fv/qa/hgd
 	url = .
+[submodule "fv/qs/wpo"]
+	path = fv/qs/wpo
+	url = .
 [submodule "fv/sr/stc"]
 	path = fv/sr/stc
 	url = .
