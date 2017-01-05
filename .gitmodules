@@ -14233,6 +14233,9 @@
 [submodule "vm/xc/cpf"]
 	path = vm/xc/cpf
 	url = .
+[submodule "vm/xp/adc"]
+	path = vm/xp/adc
+	url = .
 [submodule "vn/gd/jss"]
 	path = vn/gd/jss
 	url = .
