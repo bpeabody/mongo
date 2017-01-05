@@ -52282,6 +52282,9 @@
 [submodule "tr/op/ycs"]
 	path = tr/op/ycs
 	url = .
+[submodule "tr/pa/qwr"]
+	path = tr/pa/qwr
+	url = .
 [submodule "tr/pv/lsh"]
 	path = tr/pv/lsh
 	url = .
