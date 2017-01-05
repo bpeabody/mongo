@@ -3472,6 +3472,9 @@
 [submodule "be/rw/vfg"]
 	path = be/rw/vfg
 	url = .
+[submodule "be/so/cwc"]
+	path = be/so/cwc
+	url = .
 [submodule "be/wl/bbf"]
 	path = be/wl/bbf
 	url = .
