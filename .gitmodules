@@ -65485,6 +65485,9 @@
 [submodule "xv/rq/djq"]
 	path = xv/rq/djq
 	url = .
+[submodule "xv/rv/lqj"]
+	path = xv/rv/lqj
+	url = .
 [submodule "xv/sb/khf"]
 	path = xv/sb/khf
 	url = .
