@@ -15907,6 +15907,9 @@
 [submodule "ox/fd/faj"]
 	path = ox/fd/faj
 	url = .
+[submodule "ox/ih/nqp"]
+	path = ox/ih/nqp
+	url = .
 [submodule "ox/kq/uog"]
 	path = ox/kq/uog
 	url = .
