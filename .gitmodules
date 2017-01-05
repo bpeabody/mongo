@@ -9928,6 +9928,9 @@
 [submodule "tq/em/foy"]
 	path = tq/em/foy
 	url = .
+[submodule "tq/fu/lrd"]
+	path = tq/fu/lrd
+	url = .
 [submodule "tq/ic/urb"]
 	path = tq/ic/urb
 	url = .
