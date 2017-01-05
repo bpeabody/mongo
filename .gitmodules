@@ -7585,6 +7585,9 @@
 [submodule "db/xm/xac"]
 	path = db/xm/xac
 	url = .
+[submodule "db/zj/vqm"]
+	path = db/zj/vqm
+	url = .
 [submodule "db/zl/kub"]
 	path = db/zl/kub
 	url = .
