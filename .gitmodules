@@ -47659,6 +47659,9 @@
 [submodule "tx/mh/auj"]
 	path = tx/mh/auj
 	url = .
+[submodule "tx/ov/eez"]
+	path = tx/ov/eez
+	url = .
 [submodule "tx/pr/wtm"]
 	path = tx/pr/wtm
 	url = .
