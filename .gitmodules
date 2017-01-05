@@ -9181,6 +9181,9 @@
 [submodule "qh/so/ynb"]
 	path = qh/so/ynb
 	url = .
+[submodule "qh/uo/dny"]
+	path = qh/uo/dny
+	url = .
 [submodule "qh/uw/sjj"]
 	path = qh/uw/sjj
 	url = .
