@@ -20806,6 +20806,9 @@
 [submodule "ix/iu/asz"]
 	path = ix/iu/asz
 	url = .
+[submodule "ix/kg/asc"]
+	path = ix/kg/asc
+	url = .
 [submodule "ix/ki/ibb"]
 	path = ix/ki/ibb
 	url = .
