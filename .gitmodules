@@ -19972,6 +19972,9 @@
 [submodule "nk/ua/cmg"]
 	path = nk/ua/cmg
 	url = .
+[submodule "nk/uz/kli"]
+	path = nk/uz/kli
+	url = .
 [submodule "nk/vf/gln"]
 	path = nk/vf/gln
 	url = .
