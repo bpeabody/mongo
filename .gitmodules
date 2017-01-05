@@ -63112,6 +63112,9 @@
 [submodule "wo/cu/arz"]
 	path = wo/cu/arz
 	url = .
+[submodule "wo/cv/bov"]
+	path = wo/cv/bov
+	url = .
 [submodule "wo/ec/uwx"]
 	path = wo/ec/uwx
 	url = .
