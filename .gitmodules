@@ -5728,6 +5728,9 @@
 [submodule "sd/vb/gsg"]
 	path = sd/vb/gsg
 	url = .
+[submodule "se/ed/kgb"]
+	path = se/ed/kgb
+	url = .
 [submodule "se/fb/lgi"]
 	path = se/fb/lgi
 	url = .
