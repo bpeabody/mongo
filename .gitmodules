@@ -66139,6 +66139,9 @@
 [submodule "xd/pc/wxq"]
 	path = xd/pc/wxq
 	url = .
+[submodule "xd/px/gnr"]
+	path = xd/px/gnr
+	url = .
 [submodule "xd/py/jia"]
 	path = xd/py/jia
 	url = .
