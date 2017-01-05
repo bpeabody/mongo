@@ -4879,6 +4879,9 @@
 [submodule "eb/cm/rxb"]
 	path = eb/cm/rxb
 	url = .
+[submodule "eb/eb/nef"]
+	path = eb/eb/nef
+	url = .
 [submodule "eb/ei/cvx"]
 	path = eb/ei/cvx
 	url = .
