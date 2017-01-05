@@ -6400,6 +6400,9 @@
 [submodule "ch/yj/ypv"]
 	path = ch/yj/ypv
 	url = .
+[submodule "ch/yn/kzn"]
+	path = ch/yn/kzn
+	url = .
 [submodule "ch/ze/plu"]
 	path = ch/ze/plu
 	url = .
