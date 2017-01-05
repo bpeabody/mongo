@@ -2446,6 +2446,9 @@
 [submodule "he/sp/goo"]
 	path = he/sp/goo
 	url = .
+[submodule "he/uv/zuq"]
+	path = he/uv/zuq
+	url = .
 [submodule "he/vt/ukx"]
 	path = he/vt/ukx
 	url = .
