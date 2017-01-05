@@ -871,6 +871,9 @@
 [submodule "bf/gf/vfh"]
 	path = bf/gf/vfh
 	url = .
+[submodule "bf/iu/end"]
+	path = bf/iu/end
+	url = .
 [submodule "bf/km/vso"]
 	path = bf/km/vso
 	url = .
