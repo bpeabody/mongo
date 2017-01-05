@@ -1792,6 +1792,9 @@
 [submodule "fq/gf/qzt"]
 	path = fq/gf/qzt
 	url = .
+[submodule "fq/jg/yzt"]
+	path = fq/jg/yzt
+	url = .
 [submodule "fq/kv/gul"]
 	path = fq/kv/gul
 	url = .
