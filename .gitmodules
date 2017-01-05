@@ -181,6 +181,9 @@
 [submodule "re/py/ktl"]
 	path = re/py/ktl
 	url = .
+[submodule "ri/rp/cjx"]
+	path = ri/rp/cjx
+	url = .
 [submodule "rr/or/vhq"]
 	path = rr/or/vhq
 	url = .
