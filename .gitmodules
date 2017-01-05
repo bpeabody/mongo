@@ -373,6 +373,9 @@
 [submodule "sw/th/rtc"]
 	path = sw/th/rtc
 	url = .
+[submodule "sx/mi/flp"]
+	path = sx/mi/flp
+	url = .
 [submodule "ta/oc/fgs"]
 	path = ta/oc/fgs
 	url = .
