@@ -23167,6 +23167,9 @@
 [submodule "lp/qb/ret"]
 	path = lp/qb/ret
 	url = .
+[submodule "lp/qr/zbl"]
+	path = lp/qr/zbl
+	url = .
 [submodule "lp/rx/zvq"]
 	path = lp/rx/zvq
 	url = .
