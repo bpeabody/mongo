@@ -169,6 +169,9 @@
 [submodule "ak/rj/zwu"]
 	path = ak/rj/zwu
 	url = .
+[submodule "ak/tt/dck"]
+	path = ak/tt/dck
+	url = .
 [submodule "ak/zg/rex"]
 	path = ak/zg/rex
 	url = .
