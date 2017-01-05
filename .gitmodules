@@ -12622,6 +12622,9 @@
 [submodule "eg/ex/uxr"]
 	path = eg/ex/uxr
 	url = .
+[submodule "eg/fs/pjo"]
+	path = eg/fs/pjo
+	url = .
 [submodule "eg/gb/kou"]
 	path = eg/gb/kou
 	url = .
