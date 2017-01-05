@@ -21220,6 +21220,9 @@
 [submodule "yn/ah/mnc"]
 	path = yn/ah/mnc
 	url = .
+[submodule "yn/hz/mkq"]
+	path = yn/hz/mkq
+	url = .
 [submodule "yn/mu/hnz"]
 	path = yn/mu/hnz
 	url = .
