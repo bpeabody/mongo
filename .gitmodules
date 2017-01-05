@@ -52744,6 +52744,9 @@
 [submodule "sb/xa/xbn"]
 	path = sb/xa/xbn
 	url = .
+[submodule "sb/xe/xrn"]
+	path = sb/xe/xrn
+	url = .
 [submodule "sb/xg/haw"]
 	path = sb/xg/haw
 	url = .
