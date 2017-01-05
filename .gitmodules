@@ -1681,6 +1681,9 @@
 [submodule "bi/kc/rba"]
 	path = bi/kc/rba
 	url = .
+[submodule "bi/ne/kwp"]
+	path = bi/ne/kwp
+	url = .
 [submodule "bi/ow/kdk"]
 	path = bi/ow/kdk
 	url = .
