@@ -9601,6 +9601,9 @@
 [submodule "nb/mr/ete"]
 	path = nb/mr/ete
 	url = .
+[submodule "nb/ms/pkh"]
+	path = nb/ms/pkh
+	url = .
 [submodule "nb/sh/esv"]
 	path = nb/sh/esv
 	url = .
