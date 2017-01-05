@@ -10183,6 +10183,9 @@
 [submodule "xu/fe/gyu"]
 	path = xu/fe/gyu
 	url = .
+[submodule "xu/lr/izs"]
+	path = xu/lr/izs
+	url = .
 [submodule "xu/us/hul"]
 	path = xu/us/hul
 	url = .
