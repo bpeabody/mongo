@@ -4870,6 +4870,9 @@
 [submodule "ds/it/eva"]
 	path = ds/it/eva
 	url = .
+[submodule "ds/ko/pek"]
+	path = ds/ko/pek
+	url = .
 [submodule "ds/ma/jzx"]
 	path = ds/ma/jzx
 	url = .
