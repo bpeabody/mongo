@@ -19315,6 +19315,9 @@
 [submodule "is/lz/jub"]
 	path = is/lz/jub
 	url = .
+[submodule "is/nb/njc"]
+	path = is/nb/njc
+	url = .
 [submodule "is/nc/waf"]
 	path = is/nc/waf
 	url = .
