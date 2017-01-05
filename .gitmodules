@@ -7042,6 +7042,9 @@
 [submodule "da/fu/dyw"]
 	path = da/fu/dyw
 	url = .
+[submodule "da/fy/ufl"]
+	path = da/fy/ufl
+	url = .
 [submodule "da/gk/keh"]
 	path = da/gk/keh
 	url = .
