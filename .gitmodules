@@ -1663,6 +1663,9 @@
 [submodule "bw/tw/lht"]
 	path = bw/tw/lht
 	url = .
+[submodule "bw/uz/lmc"]
+	path = bw/uz/lmc
+	url = .
 [submodule "bw/wk/zyf"]
 	path = bw/wk/zyf
 	url = .
