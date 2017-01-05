@@ -20467,6 +20467,9 @@
 [submodule "rm/fu/qvv"]
 	path = rm/fu/qvv
 	url = .
+[submodule "rm/iz/vnl"]
+	path = rm/iz/vnl
+	url = .
 [submodule "rm/ld/bnx"]
 	path = rm/ld/bnx
 	url = .
