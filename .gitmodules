@@ -4357,6 +4357,9 @@
 [submodule "mw/zt/rth"]
 	path = mw/zt/rth
 	url = .
+[submodule "mx/fk/izs"]
+	path = mx/fk/izs
+	url = .
 [submodule "mx/hb/rkd"]
 	path = mx/hb/rkd
 	url = .
