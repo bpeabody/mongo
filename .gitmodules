@@ -28252,6 +28252,9 @@
 [submodule "xt/cu/mog"]
 	path = xt/cu/mog
 	url = .
+[submodule "xt/fn/dyy"]
+	path = xt/fn/dyy
+	url = .
 [submodule "xt/fv/mjj"]
 	path = xt/fv/mjj
 	url = .
