@@ -1273,6 +1273,9 @@
 [submodule "ar/dd/rds"]
 	path = ar/dd/rds
 	url = .
+[submodule "ar/dr/xlo"]
+	path = ar/dr/xlo
+	url = .
 [submodule "ar/hb/aqy"]
 	path = ar/hb/aqy
 	url = .
