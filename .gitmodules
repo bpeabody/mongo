@@ -11059,6 +11059,9 @@
 [submodule "jd/lx/jfu"]
 	path = jd/lx/jfu
 	url = .
+[submodule "jd/nh/nga"]
+	path = jd/nh/nga
+	url = .
 [submodule "jd/ob/pkw"]
 	path = jd/ob/pkw
 	url = .
