@@ -14356,6 +14356,9 @@
 [submodule "vs/fl/mcy"]
 	path = vs/fl/mcy
 	url = .
+[submodule "vs/gd/wux"]
+	path = vs/gd/wux
+	url = .
 [submodule "vs/hv/oua"]
 	path = vs/hv/oua
 	url = .
