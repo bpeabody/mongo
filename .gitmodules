@@ -1123,6 +1123,9 @@
 [submodule "fw/dz/otp"]
 	path = fw/dz/otp
 	url = .
+[submodule "fw/oy/vlr"]
+	path = fw/oy/vlr
+	url = .
 [submodule "fw/rb/rqe"]
 	path = fw/rb/rqe
 	url = .
