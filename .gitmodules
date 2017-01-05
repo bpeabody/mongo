@@ -20413,6 +20413,9 @@
 [submodule "wt/do/nis"]
 	path = wt/do/nis
 	url = .
+[submodule "wt/dw/lbs"]
+	path = wt/dw/lbs
+	url = .
 [submodule "wt/ih/uxg"]
 	path = wt/ih/uxg
 	url = .
