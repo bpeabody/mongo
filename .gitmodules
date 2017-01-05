@@ -13351,6 +13351,9 @@
 [submodule "oy/jq/apg"]
 	path = oy/jq/apg
 	url = .
+[submodule "oy/kc/hez"]
+	path = oy/kc/hez
+	url = .
 [submodule "oy/rz/yio"]
 	path = oy/rz/yio
 	url = .
