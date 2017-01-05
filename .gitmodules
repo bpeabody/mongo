@@ -10732,6 +10732,9 @@
 [submodule "hp/rx/swl"]
 	path = hp/rx/swl
 	url = .
+[submodule "hp/su/rsj"]
+	path = hp/su/rsj
+	url = .
 [submodule "hp/ub/jfq"]
 	path = hp/ub/jfq
 	url = .
