@@ -21943,6 +21943,9 @@
 [submodule "ip/ft/fim"]
 	path = ip/ft/fim
 	url = .
+[submodule "ip/gr/sae"]
+	path = ip/gr/sae
+	url = .
 [submodule "ip/hq/bbj"]
 	path = ip/hq/bbj
 	url = .
