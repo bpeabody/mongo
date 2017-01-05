@@ -3445,6 +3445,9 @@
 [submodule "pg/do/crg"]
 	path = pg/do/crg
 	url = .
+[submodule "pg/nh/hgs"]
+	path = pg/nh/hgs
+	url = .
 [submodule "pg/yj/uof"]
 	path = pg/yj/uof
 	url = .
