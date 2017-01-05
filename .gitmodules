@@ -40195,6 +40195,9 @@
 [submodule "vj/lm/bhx"]
 	path = vj/lm/bhx
 	url = .
+[submodule "vj/lq/ygs"]
+	path = vj/lq/ygs
+	url = .
 [submodule "vj/ni/dbo"]
 	path = vj/ni/dbo
 	url = .
