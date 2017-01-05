@@ -1891,6 +1891,9 @@
 [submodule "do/ar/abw"]
 	path = do/ar/abw
 	url = .
+[submodule "do/mb/jkr"]
+	path = do/mb/jkr
+	url = .
 [submodule "do/ou/opr"]
 	path = do/ou/opr
 	url = .
