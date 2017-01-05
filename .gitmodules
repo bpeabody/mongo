@@ -20785,6 +20785,9 @@
 [submodule "ui/mn/ngw"]
 	path = ui/mn/ngw
 	url = .
+[submodule "ui/ni/wkz"]
+	path = ui/ni/wkz
+	url = .
 [submodule "ui/rn/peq"]
 	path = ui/rn/peq
 	url = .
