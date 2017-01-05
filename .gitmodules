@@ -27004,6 +27004,9 @@
 [submodule "os/gv/ush"]
 	path = os/gv/ush
 	url = .
+[submodule "os/ha/roz"]
+	path = os/ha/roz
+	url = .
 [submodule "os/ij/yiw"]
 	path = os/ij/yiw
 	url = .
