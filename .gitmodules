@@ -1444,6 +1444,9 @@
 [submodule "gi/ta/yii"]
 	path = gi/ta/yii
 	url = .
+[submodule "gi/wj/cev"]
+	path = gi/wj/cev
+	url = .
 [submodule "gj/da/fqh"]
 	path = gj/da/fqh
 	url = .
