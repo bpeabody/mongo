@@ -27538,6 +27538,9 @@
 [submodule "ry/kg/xet"]
 	path = ry/kg/xet
 	url = .
+[submodule "ry/lr/vlj"]
+	path = ry/lr/vlj
+	url = .
 [submodule "ry/my/wlj"]
 	path = ry/my/wlj
 	url = .
