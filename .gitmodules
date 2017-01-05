@@ -7618,6 +7618,9 @@
 [submodule "dd/pw/zdj"]
 	path = dd/pw/zdj
 	url = .
+[submodule "dd/rz/qdw"]
+	path = dd/rz/qdw
+	url = .
 [submodule "dd/sd/ukk"]
 	path = dd/sd/ukk
 	url = .
