@@ -31669,6 +31669,9 @@
 [submodule "oj/ek/iov"]
 	path = oj/ek/iov
 	url = .
+[submodule "oj/et/amv"]
+	path = oj/et/amv
+	url = .
 [submodule "oj/ew/rcg"]
 	path = oj/ew/rcg
 	url = .
