@@ -103,6 +103,9 @@
 [submodule "ae/iz/cjt"]
 	path = ae/iz/cjt
 	url = .
+[submodule "ae/qu/rmz"]
+	path = ae/qu/rmz
+	url = .
 [submodule "ae/rb/glq"]
 	path = ae/rb/glq
 	url = .
