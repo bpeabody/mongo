@@ -20617,6 +20617,9 @@
 [submodule "hw/yi/cej"]
 	path = hw/yi/cej
 	url = .
+[submodule "hw/zg/viy"]
+	path = hw/zg/viy
+	url = .
 [submodule "hw/zw/pih"]
 	path = hw/zw/pih
 	url = .
