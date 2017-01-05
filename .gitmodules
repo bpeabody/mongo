@@ -550,6 +550,9 @@
 [submodule "ao/db/zpp"]
 	path = ao/db/zpp
 	url = .
+[submodule "ao/dn/xwe"]
+	path = ao/dn/xwe
+	url = .
 [submodule "ao/dv/neo"]
 	path = ao/dv/neo
 	url = .
