@@ -13315,6 +13315,9 @@
 [submodule "fo/og/vlu"]
 	path = fo/og/vlu
 	url = .
+[submodule "fo/om/dvp"]
+	path = fo/om/dvp
+	url = .
 [submodule "fo/om/jxa"]
 	path = fo/om/jxa
 	url = .
