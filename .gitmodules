@@ -15109,6 +15109,9 @@
 [submodule "pf/jr/vjq"]
 	path = pf/jr/vjq
 	url = .
+[submodule "pf/kd/pei"]
+	path = pf/kd/pei
+	url = .
 [submodule "pf/ko/foq"]
 	path = pf/ko/foq
 	url = .
