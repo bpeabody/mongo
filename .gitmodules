@@ -32971,6 +32971,9 @@
 [submodule "sm/bd/ext"]
 	path = sm/bd/ext
 	url = .
+[submodule "sm/bu/qci"]
+	path = sm/bu/qci
+	url = .
 [submodule "sm/gr/bxe"]
 	path = sm/gr/bxe
 	url = .
