@@ -11233,6 +11233,9 @@
 [submodule "qn/zk/lni"]
 	path = qn/zk/lni
 	url = .
+[submodule "qo/gs/wlq"]
+	path = qo/gs/wlq
+	url = .
 [submodule "qo/rt/fir"]
 	path = qo/rt/fir
 	url = .
