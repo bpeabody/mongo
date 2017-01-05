@@ -24187,6 +24187,9 @@
 [submodule "qo/rt/fir"]
 	path = qo/rt/fir
 	url = .
+[submodule "qo/sd/ijh"]
+	path = qo/sd/ijh
+	url = .
 [submodule "qo/sk/wsu"]
 	path = qo/sk/wsu
 	url = .
