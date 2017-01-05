@@ -14950,6 +14950,9 @@
 [submodule "fi/ls/ogz"]
 	path = fi/ls/ogz
 	url = .
+[submodule "fi/me/gkx"]
+	path = fi/me/gkx
+	url = .
 [submodule "fi/mr/ssh"]
 	path = fi/mr/ssh
 	url = .
