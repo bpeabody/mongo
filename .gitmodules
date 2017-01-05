@@ -18691,6 +18691,9 @@
 [submodule "gd/ru/mcu"]
 	path = gd/ru/mcu
 	url = .
+[submodule "gd/sv/ggz"]
+	path = gd/sv/ggz
+	url = .
 [submodule "gd/te/aon"]
 	path = gd/te/aon
 	url = .
