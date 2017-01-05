@@ -6397,6 +6397,9 @@
 [submodule "yw/vr/cad"]
 	path = yw/vr/cad
 	url = .
+[submodule "yx/bf/xic"]
+	path = yx/bf/xic
+	url = .
 [submodule "yx/dl/dmn"]
 	path = yx/dl/dmn
 	url = .
