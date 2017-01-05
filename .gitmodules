@@ -7096,6 +7096,9 @@
 [submodule "gl/qm/rrl"]
 	path = gl/qm/rrl
 	url = .
+[submodule "gl/sz/wpc"]
+	path = gl/sz/wpc
+	url = .
 [submodule "gl/uz/fto"]
 	path = gl/uz/fto
 	url = .
