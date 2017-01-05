@@ -7573,6 +7573,9 @@
 [submodule "cx/ec/dsv"]
 	path = cx/ec/dsv
 	url = .
+[submodule "cx/el/jkc"]
+	path = cx/el/jkc
+	url = .
 [submodule "cx/eo/ulm"]
 	path = cx/eo/ulm
 	url = .
