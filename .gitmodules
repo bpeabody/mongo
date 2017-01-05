@@ -14608,6 +14608,9 @@
 [submodule "ru/xb/kxf"]
 	path = ru/xb/kxf
 	url = .
+[submodule "rv/ch/etb"]
+	path = rv/ch/etb
+	url = .
 [submodule "rv/cv/kkk"]
 	path = rv/cv/kkk
 	url = .
