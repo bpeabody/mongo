@@ -42109,6 +42109,9 @@
 [submodule "yj/ud/msg"]
 	path = yj/ud/msg
 	url = .
+[submodule "yj/va/nlk"]
+	path = yj/va/nlk
+	url = .
 [submodule "yj/wz/dyj"]
 	path = yj/wz/dyj
 	url = .
