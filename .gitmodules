@@ -11569,6 +11569,9 @@
 [submodule "mf/nq/vze"]
 	path = mf/nq/vze
 	url = .
+[submodule "mf/or/cyx"]
+	path = mf/or/cyx
+	url = .
 [submodule "mf/pw/sbx"]
 	path = mf/pw/sbx
 	url = .
