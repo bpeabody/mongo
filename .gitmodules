@@ -12526,6 +12526,9 @@
 [submodule "xa/qh/rhq"]
 	path = xa/qh/rhq
 	url = .
+[submodule "xa/qi/vif"]
+	path = xa/qi/vif
+	url = .
 [submodule "xa/xx/owx"]
 	path = xa/xx/owx
 	url = .
