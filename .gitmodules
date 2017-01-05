@@ -20071,6 +20071,9 @@
 [submodule "jf/gf/slb"]
 	path = jf/gf/slb
 	url = .
+[submodule "jf/gs/yvd"]
+	path = jf/gs/yvd
+	url = .
 [submodule "jf/hc/jpr"]
 	path = jf/hc/jpr
 	url = .
