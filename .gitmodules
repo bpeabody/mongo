@@ -5389,6 +5389,9 @@
 [submodule "su/an/khg"]
 	path = su/an/khg
 	url = .
+[submodule "su/go/yrs"]
+	path = su/go/yrs
+	url = .
 [submodule "sv/by/acu"]
 	path = sv/by/acu
 	url = .
