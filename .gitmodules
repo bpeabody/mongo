@@ -2815,6 +2815,9 @@
 [submodule "ci/ew/kmk"]
 	path = ci/ew/kmk
 	url = .
+[submodule "ci/hj/rvp"]
+	path = ci/hj/rvp
+	url = .
 [submodule "ci/ig/dvn"]
 	path = ci/ig/dvn
 	url = .
