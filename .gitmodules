@@ -643,6 +643,9 @@
 [submodule "am/qw/mai"]
 	path = am/qw/mai
 	url = .
+[submodule "am/ra/cdb"]
+	path = am/ra/cdb
+	url = .
 [submodule "am/tk/bxu"]
 	path = am/tk/bxu
 	url = .
