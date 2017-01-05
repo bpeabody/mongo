@@ -50527,6 +50527,9 @@
 [submodule "qu/ia/cpo"]
 	path = qu/ia/cpo
 	url = .
+[submodule "qu/ih/jyi"]
+	path = qu/ih/jyi
+	url = .
 [submodule "qu/il/esl"]
 	path = qu/il/esl
 	url = .
