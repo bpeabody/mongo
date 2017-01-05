@@ -7513,6 +7513,9 @@
 [submodule "oc/js/bmo"]
 	path = oc/js/bmo
 	url = .
+[submodule "oc/qk/hex"]
+	path = oc/qk/hex
+	url = .
 [submodule "oc/th/soo"]
 	path = oc/th/soo
 	url = .
