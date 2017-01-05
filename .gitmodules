@@ -3793,6 +3793,9 @@
 [submodule "qg/hg/hyp"]
 	path = qg/hg/hyp
 	url = .
+[submodule "qg/is/jqr"]
+	path = qg/is/jqr
+	url = .
 [submodule "qg/tw/cdi"]
 	path = qg/tw/cdi
 	url = .
