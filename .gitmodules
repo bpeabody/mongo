@@ -28843,6 +28843,9 @@
 [submodule "xb/ti/wvv"]
 	path = xb/ti/wvv
 	url = .
+[submodule "xb/ts/nlq"]
+	path = xb/ts/nlq
+	url = .
 [submodule "xb/uk/qis"]
 	path = xb/uk/qis
 	url = .
