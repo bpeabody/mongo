@@ -23695,6 +23695,9 @@
 [submodule "ln/ka/vwh"]
 	path = ln/ka/vwh
 	url = .
+[submodule "ln/la/lng"]
+	path = ln/la/lng
+	url = .
 [submodule "ln/mz/bil"]
 	path = ln/mz/bil
 	url = .
