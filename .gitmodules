@@ -36376,6 +36376,9 @@
 [submodule "wl/qt/lwx"]
 	path = wl/qt/lwx
 	url = .
+[submodule "wl/sy/lxy"]
+	path = wl/sy/lxy
+	url = .
 [submodule "wl/tj/tnn"]
 	path = wl/tj/tnn
 	url = .
