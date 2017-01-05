@@ -1663,6 +1663,9 @@
 [submodule "cn/sw/gng"]
 	path = cn/sw/gng
 	url = .
+[submodule "cn/sx/mcq"]
+	path = cn/sx/mcq
+	url = .
 [submodule "cn/vd/jul"]
 	path = cn/vd/jul
 	url = .
