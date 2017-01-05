@@ -55189,6 +55189,9 @@
 [submodule "xm/se/pav"]
 	path = xm/se/pav
 	url = .
+[submodule "xm/sh/bpd"]
+	path = xm/sh/bpd
+	url = .
 [submodule "xm/sk/pqg"]
 	path = xm/sk/pqg
 	url = .
