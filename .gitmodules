@@ -23908,6 +23908,9 @@
 [submodule "zu/tb/dew"]
 	path = zu/tb/dew
 	url = .
+[submodule "zu/te/gqa"]
+	path = zu/te/gqa
+	url = .
 [submodule "zu/vi/iou"]
 	path = zu/vi/iou
 	url = .
