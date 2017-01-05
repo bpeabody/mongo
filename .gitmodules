@@ -6409,6 +6409,9 @@
 [submodule "cw/if/ylq"]
 	path = cw/if/ylq
 	url = .
+[submodule "cw/jl/aoy"]
+	path = cw/jl/aoy
+	url = .
 [submodule "cw/ju/gxf"]
 	path = cw/ju/gxf
 	url = .
