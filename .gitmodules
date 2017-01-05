@@ -5308,6 +5308,9 @@
 [submodule "dm/pq/lpj"]
 	path = dm/pq/lpj
 	url = .
+[submodule "dm/pv/cgn"]
+	path = dm/pv/cgn
+	url = .
 [submodule "dm/qa/npi"]
 	path = dm/qa/npi
 	url = .
