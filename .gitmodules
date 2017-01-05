@@ -5794,6 +5794,9 @@
 [submodule "cz/oz/boe"]
 	path = cz/oz/boe
 	url = .
+[submodule "cz/qt/zrw"]
+	path = cz/qt/zrw
+	url = .
 [submodule "cz/tm/xsv"]
 	path = cz/tm/xsv
 	url = .
