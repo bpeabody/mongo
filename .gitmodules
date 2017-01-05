@@ -7108,6 +7108,9 @@
 [submodule "ci/yf/qyw"]
 	path = ci/yf/qyw
 	url = .
+[submodule "ci/zc/ped"]
+	path = ci/zc/ped
+	url = .
 [submodule "cj/bd/lhe"]
 	path = cj/bd/lhe
 	url = .
