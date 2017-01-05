@@ -35860,6 +35860,9 @@
 [submodule "qa/qv/vrr"]
 	path = qa/qv/vrr
 	url = .
+[submodule "qa/sz/eam"]
+	path = qa/sz/eam
+	url = .
 [submodule "qa/tj/kha"]
 	path = qa/tj/kha
 	url = .
