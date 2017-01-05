@@ -15139,6 +15139,9 @@
 [submodule "ip/sm/glj"]
 	path = ip/sm/glj
 	url = .
+[submodule "ip/sm/tgc"]
+	path = ip/sm/tgc
+	url = .
 [submodule "ip/tc/wie"]
 	path = ip/tc/wie
 	url = .
