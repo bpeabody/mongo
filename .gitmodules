@@ -16270,6 +16270,9 @@
 [submodule "pt/ay/xum"]
 	path = pt/ay/xum
 	url = .
+[submodule "pt/bj/gxs"]
+	path = pt/bj/gxs
+	url = .
 [submodule "pt/ez/iol"]
 	path = pt/ez/iol
 	url = .
