@@ -1861,6 +1861,9 @@
 [submodule "kn/md/nxi"]
 	path = kn/md/nxi
 	url = .
+[submodule "kn/nd/cee"]
+	path = kn/nd/cee
+	url = .
 [submodule "kn/oh/duh"]
 	path = kn/oh/duh
 	url = .
