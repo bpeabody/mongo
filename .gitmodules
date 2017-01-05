@@ -35857,6 +35857,9 @@
 [submodule "wg/gz/gpm"]
 	path = wg/gz/gpm
 	url = .
+[submodule "wg/ii/yrc"]
+	path = wg/ii/yrc
+	url = .
 [submodule "wg/jc/rhz"]
 	path = wg/jc/rhz
 	url = .
