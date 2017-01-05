@@ -19,6 +19,9 @@
 [submodule "dk/vu/dzc"]
 	path = dk/vu/dzc
 	url = .
+[submodule "dl/pt/yqs"]
+	path = dl/pt/yqs
+	url = .
 [submodule "ef/lf/tes"]
 	path = ef/lf/tes
 	url = .
