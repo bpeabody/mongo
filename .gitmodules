@@ -2485,6 +2485,9 @@
 [submodule "bi/kc/rba"]
 	path = bi/kc/rba
 	url = .
+[submodule "bi/ki/mny"]
+	path = bi/ki/mny
+	url = .
 [submodule "bi/mf/twu"]
 	path = bi/mf/twu
 	url = .
