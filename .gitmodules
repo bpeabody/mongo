@@ -50788,6 +50788,9 @@
 [submodule "yz/nt/xaf"]
 	path = yz/nt/xaf
 	url = .
+[submodule "yz/oc/gpu"]
+	path = yz/oc/gpu
+	url = .
 [submodule "yz/pf/mvw"]
 	path = yz/pf/mvw
 	url = .
