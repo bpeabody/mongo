@@ -15934,6 +15934,9 @@
 [submodule "ib/gz/wcc"]
 	path = ib/gz/wcc
 	url = .
+[submodule "ib/ha/gls"]
+	path = ib/ha/gls
+	url = .
 [submodule "ib/hc/whx"]
 	path = ib/hc/whx
 	url = .
