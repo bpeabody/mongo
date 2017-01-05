@@ -7576,6 +7576,9 @@
 [submodule "pf/iw/zxd"]
 	path = pf/iw/zxd
 	url = .
+[submodule "pf/ko/foq"]
+	path = pf/ko/foq
+	url = .
 [submodule "pf/ob/psu"]
 	path = pf/ob/psu
 	url = .
