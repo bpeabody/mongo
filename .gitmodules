@@ -27454,6 +27454,9 @@
 [submodule "jq/uh/pbo"]
 	path = jq/uh/pbo
 	url = .
+[submodule "jq/vu/isb"]
+	path = jq/vu/isb
+	url = .
 [submodule "jq/wo/faq"]
 	path = jq/wo/faq
 	url = .
