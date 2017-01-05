@@ -15556,6 +15556,9 @@
 [submodule "sz/vt/omx"]
 	path = sz/vt/omx
 	url = .
+[submodule "ta/db/kge"]
+	path = ta/db/kge
+	url = .
 [submodule "ta/de/tjl"]
 	path = ta/de/tjl
 	url = .
