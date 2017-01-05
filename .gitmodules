@@ -3808,6 +3808,9 @@
 [submodule "kr/ti/amb"]
 	path = kr/ti/amb
 	url = .
+[submodule "kr/um/div"]
+	path = kr/um/div
+	url = .
 [submodule "kr/xa/eok"]
 	path = kr/xa/eok
 	url = .
