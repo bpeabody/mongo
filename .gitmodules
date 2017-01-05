@@ -1309,6 +1309,9 @@
 [submodule "as/hs/emb"]
 	path = as/hs/emb
 	url = .
+[submodule "as/hx/ccu"]
+	path = as/hx/ccu
+	url = .
 [submodule "as/hz/bup"]
 	path = as/hz/bup
 	url = .
