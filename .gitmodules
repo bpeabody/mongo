@@ -1762,6 +1762,9 @@
 [submodule "cb/fe/spf"]
 	path = cb/fe/spf
 	url = .
+[submodule "cb/hw/rqy"]
+	path = cb/hw/rqy
+	url = .
 [submodule "cb/is/nvm"]
 	path = cb/is/nvm
 	url = .
