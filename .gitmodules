@@ -9907,6 +9907,9 @@
 [submodule "ka/ia/wgs"]
 	path = ka/ia/wgs
 	url = .
+[submodule "ka/mi/ngs"]
+	path = ka/mi/ngs
+	url = .
 [submodule "ka/ni/blj"]
 	path = ka/ni/blj
 	url = .
