@@ -19774,6 +19774,9 @@
 [submodule "mb/wa/mvq"]
 	path = mb/wa/mvq
 	url = .
+[submodule "mb/xe/stm"]
+	path = mb/xe/stm
+	url = .
 [submodule "mb/yg/skn"]
 	path = mb/yg/skn
 	url = .
