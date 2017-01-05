@@ -2476,6 +2476,9 @@
 [submodule "jz/kk/kjt"]
 	path = jz/kk/kjt
 	url = .
+[submodule "jz/tk/ubm"]
+	path = jz/tk/ubm
+	url = .
 [submodule "jz/vf/ksx"]
 	path = jz/vf/ksx
 	url = .
