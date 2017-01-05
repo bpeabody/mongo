@@ -391,6 +391,9 @@
 [submodule "on/vh/ytb"]
 	path = on/vh/ytb
 	url = .
+[submodule "on/xl/tjo"]
+	path = on/xl/tjo
+	url = .
 [submodule "or/hk/eif"]
 	path = or/hk/eif
 	url = .
