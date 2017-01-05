@@ -42688,6 +42688,9 @@
 [submodule "qh/cb/dhs"]
 	path = qh/cb/dhs
 	url = .
+[submodule "qh/cr/qeu"]
+	path = qh/cr/qeu
+	url = .
 [submodule "qh/cx/ayl"]
 	path = qh/cx/ayl
 	url = .
