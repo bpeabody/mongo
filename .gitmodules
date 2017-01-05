@@ -5938,6 +5938,9 @@
 [submodule "fo/ws/rkm"]
 	path = fo/ws/rkm
 	url = .
+[submodule "fo/yp/tse"]
+	path = fo/yp/tse
+	url = .
 [submodule "fp/cn/kya"]
 	path = fp/cn/kya
 	url = .
