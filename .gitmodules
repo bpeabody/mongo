@@ -4615,6 +4615,9 @@
 [submodule "dr/nr/zly"]
 	path = dr/nr/zly
 	url = .
+[submodule "dr/nz/izk"]
+	path = dr/nz/izk
+	url = .
 [submodule "dr/pl/pao"]
 	path = dr/pl/pao
 	url = .
