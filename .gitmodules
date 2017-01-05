@@ -6697,6 +6697,9 @@
 [submodule "cm/xi/gdv"]
 	path = cm/xi/gdv
 	url = .
+[submodule "cm/yk/rgz"]
+	path = cm/yk/rgz
+	url = .
 [submodule "cm/zl/kaf"]
 	path = cm/zl/kaf
 	url = .
