@@ -21559,6 +21559,9 @@
 [submodule "ms/kc/jka"]
 	path = ms/kc/jka
 	url = .
+[submodule "ms/kf/bdq"]
+	path = ms/kf/bdq
+	url = .
 [submodule "ms/kn/mnh"]
 	path = ms/kn/mnh
 	url = .
