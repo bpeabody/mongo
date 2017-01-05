@@ -11932,6 +11932,9 @@
 [submodule "xo/pv/glv"]
 	path = xo/pv/glv
 	url = .
+[submodule "xo/sl/fzh"]
+	path = xo/sl/fzh
+	url = .
 [submodule "xo/yr/tex"]
 	path = xo/yr/tex
 	url = .
