@@ -784,6 +784,9 @@
 [submodule "bm/wm/znx"]
 	path = bm/wm/znx
 	url = .
+[submodule "bm/ww/lae"]
+	path = bm/ww/lae
+	url = .
 [submodule "bm/xk/mhl"]
 	path = bm/xk/mhl
 	url = .
