@@ -44731,6 +44731,9 @@
 [submodule "rd/if/upv"]
 	path = rd/if/upv
 	url = .
+[submodule "rd/io/ryx"]
+	path = rd/io/ryx
+	url = .
 [submodule "rd/ip/rjk"]
 	path = rd/ip/rjk
 	url = .
