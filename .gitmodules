@@ -9463,6 +9463,9 @@
 [submodule "pc/vp/zjj"]
 	path = pc/vp/zjj
 	url = .
+[submodule "pc/wa/wlo"]
+	path = pc/wa/wlo
+	url = .
 [submodule "pc/yc/ycq"]
 	path = pc/yc/ycq
 	url = .
