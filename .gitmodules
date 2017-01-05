@@ -52054,6 +52054,9 @@
 [submodule "vi/kf/ufv"]
 	path = vi/kf/ufv
 	url = .
+[submodule "vi/lv/blb"]
+	path = vi/lv/blb
+	url = .
 [submodule "vi/nn/rpb"]
 	path = vi/nn/rpb
 	url = .
