@@ -8656,6 +8656,9 @@
 [submodule "dg/ao/itn"]
 	path = dg/ao/itn
 	url = .
+[submodule "dg/bc/xpq"]
+	path = dg/bc/xpq
+	url = .
 [submodule "dg/cb/qdu"]
 	path = dg/cb/qdu
 	url = .
