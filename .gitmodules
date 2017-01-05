@@ -7612,6 +7612,9 @@
 [submodule "ic/xr/aik"]
 	path = ic/xr/aik
 	url = .
+[submodule "id/au/dmy"]
+	path = id/au/dmy
+	url = .
 [submodule "id/av/buj"]
 	path = id/av/buj
 	url = .
