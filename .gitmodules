@@ -12493,6 +12493,9 @@
 [submodule "mf/ik/uzo"]
 	path = mf/ik/uzo
 	url = .
+[submodule "mf/kk/xvk"]
+	path = mf/kk/xvk
+	url = .
 [submodule "mf/nq/vze"]
 	path = mf/nq/vze
 	url = .
