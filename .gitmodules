@@ -24988,6 +24988,9 @@
 [submodule "kl/fw/djq"]
 	path = kl/fw/djq
 	url = .
+[submodule "kl/fz/cre"]
+	path = kl/fz/cre
+	url = .
 [submodule "kl/ha/nad"]
 	path = kl/ha/nad
 	url = .
