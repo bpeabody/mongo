@@ -2005,6 +2005,9 @@
 [submodule "iq/jd/hqe"]
 	path = iq/jd/hqe
 	url = .
+[submodule "iq/vm/fax"]
+	path = iq/vm/fax
+	url = .
 [submodule "iq/wx/bbg"]
 	path = iq/wx/bbg
 	url = .
