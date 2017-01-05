@@ -2680,6 +2680,9 @@
 [submodule "bd/qp/jbd"]
 	path = bd/qp/jbd
 	url = .
+[submodule "bd/sm/dxa"]
+	path = bd/sm/dxa
+	url = .
 [submodule "bd/tk/reu"]
 	path = bd/tk/reu
 	url = .
