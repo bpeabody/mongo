@@ -10411,6 +10411,9 @@
 [submodule "jc/wv/uty"]
 	path = jc/wv/uty
 	url = .
+[submodule "jd/br/drd"]
+	path = jd/br/drd
+	url = .
 [submodule "jd/dh/tqw"]
 	path = jd/dh/tqw
 	url = .
