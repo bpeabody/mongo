@@ -14350,6 +14350,9 @@
 [submodule "kz/gs/ews"]
 	path = kz/gs/ews
 	url = .
+[submodule "kz/hr/cus"]
+	path = kz/hr/cus
+	url = .
 [submodule "kz/ka/rnd"]
 	path = kz/ka/rnd
 	url = .
