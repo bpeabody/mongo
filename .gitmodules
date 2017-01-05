@@ -44026,6 +44026,9 @@
 [submodule "ru/kb/vmu"]
 	path = ru/kb/vmu
 	url = .
+[submodule "ru/lu/tak"]
+	path = ru/lu/tak
+	url = .
 [submodule "ru/mv/jvz"]
 	path = ru/mv/jvz
 	url = .
