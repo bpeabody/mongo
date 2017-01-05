@@ -30922,6 +30922,9 @@
 [submodule "kn/jr/lsi"]
 	path = kn/jr/lsi
 	url = .
+[submodule "kn/ko/nyc"]
+	path = kn/ko/nyc
+	url = .
 [submodule "kn/lb/iuz"]
 	path = kn/lb/iuz
 	url = .
