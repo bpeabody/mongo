@@ -14191,6 +14191,9 @@
 [submodule "ey/sv/dis"]
 	path = ey/sv/dis
 	url = .
+[submodule "ey/ta/egy"]
+	path = ey/ta/egy
+	url = .
 [submodule "ey/ux/ovz"]
 	path = ey/ux/ovz
 	url = .
