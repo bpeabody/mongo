@@ -6133,6 +6133,9 @@
 [submodule "ch/pc/csx"]
 	path = ch/pc/csx
 	url = .
+[submodule "ch/px/wrv"]
+	path = ch/px/wrv
+	url = .
 [submodule "ch/rm/kik"]
 	path = ch/rm/kik
 	url = .
