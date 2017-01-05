@@ -26095,6 +26095,9 @@
 [submodule "ry/ss/gmj"]
 	path = ry/ss/gmj
 	url = .
+[submodule "ry/ub/wqy"]
+	path = ry/ub/wqy
+	url = .
 [submodule "ry/ur/ysa"]
 	path = ry/ur/ysa
 	url = .
