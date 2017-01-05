@@ -3769,6 +3769,9 @@
 [submodule "wi/lb/rmf"]
 	path = wi/lb/rmf
 	url = .
+[submodule "wi/nd/xty"]
+	path = wi/nd/xty
+	url = .
 [submodule "wj/fx/une"]
 	path = wj/fx/une
 	url = .
