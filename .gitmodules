@@ -11500,6 +11500,9 @@
 [submodule "ic/bm/lcn"]
 	path = ic/bm/lcn
 	url = .
+[submodule "ic/gx/rsg"]
+	path = ic/gx/rsg
+	url = .
 [submodule "ic/iy/pkl"]
 	path = ic/iy/pkl
 	url = .
