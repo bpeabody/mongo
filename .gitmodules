@@ -3361,6 +3361,9 @@
 [submodule "dn/ia/iwf"]
 	path = dn/ia/iwf
 	url = .
+[submodule "dn/ih/nnb"]
+	path = dn/ih/nnb
+	url = .
 [submodule "dn/qb/ogh"]
 	path = dn/qb/ogh
 	url = .
