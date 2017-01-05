@@ -24484,6 +24484,9 @@
 [submodule "mi/wb/bts"]
 	path = mi/wb/bts
 	url = .
+[submodule "mi/wi/syk"]
+	path = mi/wi/syk
+	url = .
 [submodule "mi/wj/izz"]
 	path = mi/wj/izz
 	url = .
