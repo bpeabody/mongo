@@ -37000,6 +37000,9 @@
 [submodule "ta/dw/udq"]
 	path = ta/dw/udq
 	url = .
+[submodule "ta/er/qyp"]
+	path = ta/er/qyp
+	url = .
 [submodule "ta/ev/nfa"]
 	path = ta/ev/nfa
 	url = .
