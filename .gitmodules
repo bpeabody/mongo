@@ -7531,6 +7531,9 @@
 [submodule "de/dd/ekh"]
 	path = de/dd/ekh
 	url = .
+[submodule "de/dq/hse"]
+	path = de/dq/hse
+	url = .
 [submodule "de/eq/qqr"]
 	path = de/eq/qqr
 	url = .
