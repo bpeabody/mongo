@@ -5698,6 +5698,9 @@
 [submodule "ca/gz/lax"]
 	path = ca/gz/lax
 	url = .
+[submodule "ca/jq/srk"]
+	path = ca/jq/srk
+	url = .
 [submodule "ca/js/fsp"]
 	path = ca/js/fsp
 	url = .
