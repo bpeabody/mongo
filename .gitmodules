@@ -29938,6 +29938,9 @@
 [submodule "zx/kz/ido"]
 	path = zx/kz/ido
 	url = .
+[submodule "zx/ly/yyo"]
+	path = zx/ly/yyo
+	url = .
 [submodule "zx/ma/kmj"]
 	path = zx/ma/kmj
 	url = .
