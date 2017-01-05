@@ -40084,6 +40084,9 @@
 [submodule "zi/aa/vbc"]
 	path = zi/aa/vbc
 	url = .
+[submodule "zi/cl/sws"]
+	path = zi/cl/sws
+	url = .
 [submodule "zi/fb/bcm"]
 	path = zi/fb/bcm
 	url = .
