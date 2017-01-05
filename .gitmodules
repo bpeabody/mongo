@@ -43909,6 +43909,9 @@
 [submodule "qw/at/kus"]
 	path = qw/at/kus
 	url = .
+[submodule "qw/ce/uke"]
+	path = qw/ce/uke
+	url = .
 [submodule "qw/cq/mhw"]
 	path = qw/cq/mhw
 	url = .
