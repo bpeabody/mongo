@@ -39961,6 +39961,9 @@
 [submodule "pm/ee/hkx"]
 	path = pm/ee/hkx
 	url = .
+[submodule "pm/ej/jsi"]
+	path = pm/ej/jsi
+	url = .
 [submodule "pm/ew/iix"]
 	path = pm/ew/iix
 	url = .
