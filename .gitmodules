@@ -4069,6 +4069,9 @@
 [submodule "np/hp/zbv"]
 	path = np/hp/zbv
 	url = .
+[submodule "np/mi/umv"]
+	path = np/mi/umv
+	url = .
 [submodule "np/mp/dgs"]
 	path = np/mp/dgs
 	url = .
