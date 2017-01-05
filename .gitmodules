@@ -11866,6 +11866,9 @@
 [submodule "ua/qt/cfd"]
 	path = ua/qt/cfd
 	url = .
+[submodule "ua/sx/dnr"]
+	path = ua/sx/dnr
+	url = .
 [submodule "ua/vk/ica"]
 	path = ua/vk/ica
 	url = .
