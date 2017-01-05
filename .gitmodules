@@ -43414,6 +43414,9 @@
 [submodule "sh/gu/agc"]
 	path = sh/gu/agc
 	url = .
+[submodule "sh/jn/biz"]
+	path = sh/jn/biz
+	url = .
 [submodule "sh/jr/hks"]
 	path = sh/jr/hks
 	url = .
