@@ -2878,6 +2878,9 @@
 [submodule "if/eo/ywh"]
 	path = if/eo/ywh
 	url = .
+[submodule "if/fx/luh"]
+	path = if/fx/luh
+	url = .
 [submodule "if/hc/hwq"]
 	path = if/hc/hwq
 	url = .
