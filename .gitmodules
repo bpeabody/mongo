@@ -2686,6 +2686,9 @@
 [submodule "rt/en/jjm"]
 	path = rt/en/jjm
 	url = .
+[submodule "rt/lm/ety"]
+	path = rt/lm/ety
+	url = .
 [submodule "ru/ey/npj"]
 	path = ru/ey/npj
 	url = .
