@@ -25540,6 +25540,9 @@
 [submodule "qd/fk/hne"]
 	path = qd/fk/hne
 	url = .
+[submodule "qd/hx/fuo"]
+	path = qd/hx/fuo
+	url = .
 [submodule "qd/id/ika"]
 	path = qd/id/ika
 	url = .
