@@ -25363,6 +25363,9 @@
 [submodule "jg/li/vrd"]
 	path = jg/li/vrd
 	url = .
+[submodule "jg/lo/jcz"]
+	path = jg/lo/jcz
+	url = .
 [submodule "jg/lx/bed"]
 	path = jg/lx/bed
 	url = .
