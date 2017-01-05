@@ -4510,6 +4510,9 @@
 [submodule "kk/pw/epc"]
 	path = kk/pw/epc
 	url = .
+[submodule "kk/rf/ahu"]
+	path = kk/rf/ahu
+	url = .
 [submodule "kk/sm/xrt"]
 	path = kk/sm/xrt
 	url = .
