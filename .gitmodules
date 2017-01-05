@@ -1288,6 +1288,9 @@
 [submodule "ap/yo/sxq"]
 	path = ap/yo/sxq
 	url = .
+[submodule "ap/yz/ikg"]
+	path = ap/yz/ikg
+	url = .
 [submodule "ap/zf/avk"]
 	path = ap/zf/avk
 	url = .
