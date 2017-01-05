@@ -24490,6 +24490,9 @@
 [submodule "xc/xl/vqk"]
 	path = xc/xl/vqk
 	url = .
+[submodule "xd/ct/xfz"]
+	path = xd/ct/xfz
+	url = .
 [submodule "xd/gw/lke"]
 	path = xd/gw/lke
 	url = .
