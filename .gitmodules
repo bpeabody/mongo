@@ -2362,6 +2362,9 @@
 [submodule "gp/mr/mji"]
 	path = gp/mr/mji
 	url = .
+[submodule "gp/qy/yql"]
+	path = gp/qy/yql
+	url = .
 [submodule "gp/wz/ttk"]
 	path = gp/wz/ttk
 	url = .
