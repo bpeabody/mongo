@@ -4027,6 +4027,9 @@
 [submodule "mh/fx/vrg"]
 	path = mh/fx/vrg
 	url = .
+[submodule "mh/nh/noc"]
+	path = mh/nh/noc
+	url = .
 [submodule "mh/or/hfq"]
 	path = mh/or/hfq
 	url = .
