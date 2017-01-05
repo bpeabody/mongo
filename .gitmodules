@@ -1735,6 +1735,9 @@
 [submodule "lg/aw/oqg"]
 	path = lg/aw/oqg
 	url = .
+[submodule "lg/of/gmu"]
+	path = lg/of/gmu
+	url = .
 [submodule "lh/bg/hqq"]
 	path = lh/bg/hqq
 	url = .
