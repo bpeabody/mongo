@@ -8836,6 +8836,9 @@
 [submodule "sv/go/mvu"]
 	path = sv/go/mvu
 	url = .
+[submodule "sv/mm/ryh"]
+	path = sv/mm/ryh
+	url = .
 [submodule "sv/nl/zbc"]
 	path = sv/nl/zbc
 	url = .
