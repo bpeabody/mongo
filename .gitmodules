@@ -8863,6 +8863,9 @@
 [submodule "na/gb/edk"]
 	path = na/gb/edk
 	url = .
+[submodule "na/hu/szo"]
+	path = na/hu/szo
+	url = .
 [submodule "na/nf/rbm"]
 	path = na/nf/rbm
 	url = .
