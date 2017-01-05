@@ -2959,6 +2959,9 @@
 [submodule "az/xv/mmp"]
 	path = az/xv/mmp
 	url = .
+[submodule "az/yr/fzg"]
+	path = az/yr/fzg
+	url = .
 [submodule "az/yx/gdm"]
 	path = az/yx/gdm
 	url = .
