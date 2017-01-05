@@ -35011,6 +35011,9 @@
 [submodule "qn/sl/qib"]
 	path = qn/sl/qib
 	url = .
+[submodule "qn/sz/hvo"]
+	path = qn/sz/hvo
+	url = .
 [submodule "qn/ud/uae"]
 	path = qn/ud/uae
 	url = .
