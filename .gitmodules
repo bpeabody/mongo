@@ -3472,6 +3472,9 @@
 [submodule "vp/ww/gqd"]
 	path = vp/ww/gqd
 	url = .
+[submodule "vq/cz/jiz"]
+	path = vq/cz/jiz
+	url = .
 [submodule "vq/hw/xzz"]
 	path = vq/hw/xzz
 	url = .
