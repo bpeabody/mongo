@@ -9472,6 +9472,9 @@
 [submodule "yu/kg/wwm"]
 	path = yu/kg/wwm
 	url = .
+[submodule "yu/lk/svk"]
+	path = yu/lk/svk
+	url = .
 [submodule "yu/yf/xas"]
 	path = yu/yf/xas
 	url = .
