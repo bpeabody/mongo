@@ -16747,6 +16747,9 @@
 [submodule "hl/ln/cgn"]
 	path = hl/ln/cgn
 	url = .
+[submodule "hl/nd/cof"]
+	path = hl/nd/cof
+	url = .
 [submodule "hl/nv/vij"]
 	path = hl/nv/vij
 	url = .
