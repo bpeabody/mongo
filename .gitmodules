@@ -17677,6 +17677,9 @@
 [submodule "ne/dp/dna"]
 	path = ne/dp/dna
 	url = .
+[submodule "ne/fo/dyi"]
+	path = ne/fo/dyi
+	url = .
 [submodule "ne/gm/ysy"]
 	path = ne/gm/ysy
 	url = .
