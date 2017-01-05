@@ -32320,6 +32320,9 @@
 [submodule "ot/sn/phj"]
 	path = ot/sn/phj
 	url = .
+[submodule "ot/sp/ysi"]
+	path = ot/sp/ysi
+	url = .
 [submodule "ot/tk/cfl"]
 	path = ot/tk/cfl
 	url = .
