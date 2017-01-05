@@ -3157,6 +3157,9 @@
 [submodule "bf/am/luc"]
 	path = bf/am/luc
 	url = .
+[submodule "bf/aq/jec"]
+	path = bf/aq/jec
+	url = .
 [submodule "bf/bo/dye"]
 	path = bf/bo/dye
 	url = .
