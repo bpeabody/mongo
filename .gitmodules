@@ -1372,6 +1372,9 @@
 [submodule "tr/gs/kgr"]
 	path = tr/gs/kgr
 	url = .
+[submodule "tr/lf/lzu"]
+	path = tr/lf/lzu
+	url = .
 [submodule "tt/ax/hnq"]
 	path = tt/ax/hnq
 	url = .
