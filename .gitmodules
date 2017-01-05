@@ -3091,6 +3091,9 @@
 [submodule "cm/iw/qqi"]
 	path = cm/iw/qqi
 	url = .
+[submodule "cm/lg/yzv"]
+	path = cm/lg/yzv
+	url = .
 [submodule "cm/on/yes"]
 	path = cm/on/yes
 	url = .
