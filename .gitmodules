@@ -9547,6 +9547,9 @@
 [submodule "hd/mu/pbe"]
 	path = hd/mu/pbe
 	url = .
+[submodule "hd/ns/mbb"]
+	path = hd/ns/mbb
+	url = .
 [submodule "hd/oq/qyg"]
 	path = hd/oq/qyg
 	url = .
