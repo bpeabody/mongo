@@ -61669,6 +61669,9 @@
 [submodule "vu/mo/qfi"]
 	path = vu/mo/qfi
 	url = .
+[submodule "vu/mp/arl"]
+	path = vu/mp/arl
+	url = .
 [submodule "vu/ol/ahf"]
 	path = vu/ol/ahf
 	url = .
