@@ -33148,6 +33148,9 @@
 [submodule "mg/qs/pvi"]
 	path = mg/qs/pvi
 	url = .
+[submodule "mg/sd/aei"]
+	path = mg/sd/aei
+	url = .
 [submodule "mg/ti/aoq"]
 	path = mg/ti/aoq
 	url = .
