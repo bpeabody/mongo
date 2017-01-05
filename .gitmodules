@@ -760,6 +760,9 @@
 [submodule "ry/kg/xet"]
 	path = ry/kg/xet
 	url = .
+[submodule "ry/my/wlj"]
+	path = ry/my/wlj
+	url = .
 [submodule "se/qx/wac"]
 	path = se/qx/wac
 	url = .
