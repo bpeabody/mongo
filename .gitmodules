@@ -604,6 +604,9 @@
 [submodule "az/mz/sgo"]
 	path = az/mz/sgo
 	url = .
+[submodule "az/qq/ose"]
+	path = az/qq/ose
+	url = .
 [submodule "az/vg/vcu"]
 	path = az/vg/vcu
 	url = .
