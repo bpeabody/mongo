@@ -28426,6 +28426,9 @@
 [submodule "qy/jc/aan"]
 	path = qy/jc/aan
 	url = .
+[submodule "qy/km/ngl"]
+	path = qy/km/ngl
+	url = .
 [submodule "qy/lx/sdi"]
 	path = qy/lx/sdi
 	url = .
