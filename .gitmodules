@@ -283,6 +283,9 @@
 [submodule "ao/qg/moo"]
 	path = ao/qg/moo
 	url = .
+[submodule "ao/rv/pdd"]
+	path = ao/rv/pdd
+	url = .
 [submodule "ao/tn/caf"]
 	path = ao/tn/caf
 	url = .
