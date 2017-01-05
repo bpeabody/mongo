@@ -4261,6 +4261,9 @@
 [submodule "do/ta/tey"]
 	path = do/ta/tey
 	url = .
+[submodule "do/ve/ero"]
+	path = do/ve/ero
+	url = .
 [submodule "do/wz/fgi"]
 	path = do/wz/fgi
 	url = .
