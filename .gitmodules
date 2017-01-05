@@ -9709,6 +9709,9 @@
 [submodule "ml/xu/jnc"]
 	path = ml/xu/jnc
 	url = .
+[submodule "mm/bj/hag"]
+	path = mm/bj/hag
+	url = .
 [submodule "mm/bt/hmo"]
 	path = mm/bt/hmo
 	url = .
