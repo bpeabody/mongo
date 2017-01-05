@@ -8632,6 +8632,9 @@
 [submodule "jo/nc/vqh"]
 	path = jo/nc/vqh
 	url = .
+[submodule "jo/ne/ddu"]
+	path = jo/ne/ddu
+	url = .
 [submodule "jo/ou/rtf"]
 	path = jo/ou/rtf
 	url = .
