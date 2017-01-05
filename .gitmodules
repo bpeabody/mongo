@@ -37801,6 +37801,9 @@
 [submodule "nn/vn/slo"]
 	path = nn/vn/slo
 	url = .
+[submodule "nn/vr/ele"]
+	path = nn/vr/ele
+	url = .
 [submodule "nn/wi/lty"]
 	path = nn/wi/lty
 	url = .
