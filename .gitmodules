@@ -4072,6 +4072,9 @@
 [submodule "ft/it/gny"]
 	path = ft/it/gny
 	url = .
+[submodule "ft/jv/jcq"]
+	path = ft/jv/jcq
+	url = .
 [submodule "ft/ky/bdb"]
 	path = ft/ky/bdb
 	url = .
