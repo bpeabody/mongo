@@ -2008,6 +2008,9 @@
 [submodule "ct/nd/tzl"]
 	path = ct/nd/tzl
 	url = .
+[submodule "ct/nn/cem"]
+	path = ct/nn/cem
+	url = .
 [submodule "ct/or/qdb"]
 	path = ct/or/qdb
 	url = .
