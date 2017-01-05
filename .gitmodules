@@ -17521,6 +17521,9 @@
 [submodule "in/qe/oom"]
 	path = in/qe/oom
 	url = .
+[submodule "in/qm/vgk"]
+	path = in/qm/vgk
+	url = .
 [submodule "in/ra/ibg"]
 	path = in/ra/ibg
 	url = .
