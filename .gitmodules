@@ -48688,6 +48688,9 @@
 [submodule "vv/oq/baa"]
 	path = vv/oq/baa
 	url = .
+[submodule "vv/ph/eux"]
+	path = vv/ph/eux
+	url = .
 [submodule "vv/qe/xai"]
 	path = vv/qe/xai
 	url = .
