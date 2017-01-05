@@ -796,6 +796,9 @@
 [submodule "aw/kp/hct"]
 	path = aw/kp/hct
 	url = .
+[submodule "aw/ov/odc"]
+	path = aw/ov/odc
+	url = .
 [submodule "ax/ak/dty"]
 	path = ax/ak/dty
 	url = .
