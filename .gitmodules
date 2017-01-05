@@ -4024,6 +4024,9 @@
 [submodule "bm/jx/jgc"]
 	path = bm/jx/jgc
 	url = .
+[submodule "bm/ka/xug"]
+	path = bm/ka/xug
+	url = .
 [submodule "bm/kh/jam"]
 	path = bm/kh/jam
 	url = .
