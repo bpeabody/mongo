@@ -7477,6 +7477,9 @@
 [submodule "cy/li/rmu"]
 	path = cy/li/rmu
 	url = .
+[submodule "cy/lm/lpu"]
+	path = cy/lm/lpu
+	url = .
 [submodule "cy/mn/srg"]
 	path = cy/mn/srg
 	url = .
