@@ -14845,6 +14845,9 @@
 [submodule "ho/pj/dpx"]
 	path = ho/pj/dpx
 	url = .
+[submodule "ho/qw/yzn"]
+	path = ho/qw/yzn
+	url = .
 [submodule "ho/sg/pwu"]
 	path = ho/sg/pwu
 	url = .
