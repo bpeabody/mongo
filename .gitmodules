@@ -62293,6 +62293,9 @@
 [submodule "vc/gu/obv"]
 	path = vc/gu/obv
 	url = .
+[submodule "vc/hh/wyu"]
+	path = vc/hh/wyu
+	url = .
 [submodule "vc/hk/tvj"]
 	path = vc/hk/tvj
 	url = .
