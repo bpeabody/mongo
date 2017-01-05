@@ -1774,6 +1774,9 @@
 [submodule "av/wv/sjg"]
 	path = av/wv/sjg
 	url = .
+[submodule "av/xp/zzg"]
+	path = av/xp/zzg
+	url = .
 [submodule "av/xx/ned"]
 	path = av/xx/ned
 	url = .
