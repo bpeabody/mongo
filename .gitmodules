@@ -11341,6 +11341,9 @@
 [submodule "wt/ma/sch"]
 	path = wt/ma/sch
 	url = .
+[submodule "wt/mb/gjb"]
+	path = wt/mb/gjb
+	url = .
 [submodule "wt/ns/qgx"]
 	path = wt/ns/qgx
 	url = .
