@@ -33820,6 +33820,9 @@
 [submodule "ni/jp/kgv"]
 	path = ni/jp/kgv
 	url = .
+[submodule "ni/ld/fbt"]
+	path = ni/ld/fbt
+	url = .
 [submodule "ni/ls/rum"]
 	path = ni/ls/rum
 	url = .
