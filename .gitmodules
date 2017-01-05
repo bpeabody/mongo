@@ -2029,6 +2029,9 @@
 [submodule "oj/gz/gro"]
 	path = oj/gz/gro
 	url = .
+[submodule "oj/qr/xsu"]
+	path = oj/qr/xsu
+	url = .
 [submodule "oj/xm/wrc"]
 	path = oj/xm/wrc
 	url = .
