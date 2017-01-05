@@ -421,6 +421,9 @@
 [submodule "qt/fl/esd"]
 	path = qt/fl/esd
 	url = .
+[submodule "qw/kp/jpp"]
+	path = qw/kp/jpp
+	url = .
 [submodule "qz/jf/iwg"]
 	path = qz/jf/iwg
 	url = .
