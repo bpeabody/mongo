@@ -1102,6 +1102,9 @@
 [submodule "dc/zp/vac"]
 	path = dc/zp/vac
 	url = .
+[submodule "dc/zx/qhn"]
+	path = dc/zx/qhn
+	url = .
 [submodule "dd/fn/srx"]
 	path = dd/fn/srx
 	url = .
