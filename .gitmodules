@@ -29989,6 +29989,9 @@
 [submodule "wg/mo/fua"]
 	path = wg/mo/fua
 	url = .
+[submodule "wg/no/qgg"]
+	path = wg/no/qgg
+	url = .
 [submodule "wg/or/flj"]
 	path = wg/or/flj
 	url = .
