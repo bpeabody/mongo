@@ -9001,6 +9001,9 @@
 [submodule "ex/pt/bkk"]
 	path = ex/pt/bkk
 	url = .
+[submodule "ex/rj/vgs"]
+	path = ex/rj/vgs
+	url = .
 [submodule "ex/rs/gwl"]
 	path = ex/rs/gwl
 	url = .
