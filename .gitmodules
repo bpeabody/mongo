@@ -8980,6 +8980,9 @@
 [submodule "ej/kf/ioy"]
 	path = ej/kf/ioy
 	url = .
+[submodule "ej/kl/nru"]
+	path = ej/kl/nru
+	url = .
 [submodule "ej/kv/mus"]
 	path = ej/kv/mus
 	url = .
