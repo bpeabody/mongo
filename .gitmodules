@@ -50656,6 +50656,9 @@
 [submodule "ty/kl/vdo"]
 	path = ty/kl/vdo
 	url = .
+[submodule "ty/mp/fej"]
+	path = ty/mp/fej
+	url = .
 [submodule "ty/nm/xgv"]
 	path = ty/nm/xgv
 	url = .
