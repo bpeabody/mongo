@@ -4225,6 +4225,9 @@
 [submodule "ir/dx/enz"]
 	path = ir/dx/enz
 	url = .
+[submodule "ir/eb/wjp"]
+	path = ir/eb/wjp
+	url = .
 [submodule "ir/fa/cih"]
 	path = ir/fa/cih
 	url = .
