@@ -36724,6 +36724,9 @@
 [submodule "oc/ku/qvj"]
 	path = oc/ku/qvj
 	url = .
+[submodule "oc/kx/aur"]
+	path = oc/kx/aur
+	url = .
 [submodule "oc/ky/agt"]
 	path = oc/ky/agt
 	url = .
