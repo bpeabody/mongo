@@ -22600,6 +22600,9 @@
 [submodule "uv/sm/jkr"]
 	path = uv/sm/jkr
 	url = .
+[submodule "uv/sy/cap"]
+	path = uv/sy/cap
+	url = .
 [submodule "uv/vn/wcn"]
 	path = uv/vn/wcn
 	url = .
