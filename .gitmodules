@@ -14317,6 +14317,9 @@
 [submodule "ox/lt/jst"]
 	path = ox/lt/jst
 	url = .
+[submodule "ox/nf/lab"]
+	path = ox/nf/lab
+	url = .
 [submodule "ox/nl/kcc"]
 	path = ox/nl/kcc
 	url = .
