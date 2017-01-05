@@ -15904,6 +15904,9 @@
 [submodule "rc/zk/mwp"]
 	path = rc/zk/mwp
 	url = .
+[submodule "rd/ad/xny"]
+	path = rd/ad/xny
+	url = .
 [submodule "rd/ca/bei"]
 	path = rd/ca/bei
 	url = .
