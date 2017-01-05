@@ -23095,6 +23095,9 @@
 [submodule "jk/uv/avw"]
 	path = jk/uv/avw
 	url = .
+[submodule "jk/vo/mno"]
+	path = jk/vo/mno
+	url = .
 [submodule "jk/vs/cih"]
 	path = jk/vs/cih
 	url = .
