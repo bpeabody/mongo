@@ -9616,6 +9616,9 @@
 [submodule "fy/jb/yni"]
 	path = fy/jb/yni
 	url = .
+[submodule "fy/kb/ngn"]
+	path = fy/kb/ngn
+	url = .
 [submodule "fy/lk/sso"]
 	path = fy/lk/sso
 	url = .
