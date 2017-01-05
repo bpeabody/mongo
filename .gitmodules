@@ -52450,6 +52450,9 @@
 [submodule "vi/te/fkm"]
 	path = vi/te/fkm
 	url = .
+[submodule "vi/vg/fhs"]
+	path = vi/vg/fhs
+	url = .
 [submodule "vi/vx/lba"]
 	path = vi/vx/lba
 	url = .
