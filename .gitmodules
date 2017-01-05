@@ -54445,6 +54445,9 @@
 [submodule "xv/qv/nvh"]
 	path = xv/qv/nvh
 	url = .
+[submodule "xv/rq/djq"]
+	path = xv/rq/djq
+	url = .
 [submodule "xv/sb/khf"]
 	path = xv/sb/khf
 	url = .
