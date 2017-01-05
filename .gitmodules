@@ -3424,6 +3424,9 @@
 [submodule "lb/bx/eqm"]
 	path = lb/bx/eqm
 	url = .
+[submodule "lb/uo/bkz"]
+	path = lb/uo/bkz
+	url = .
 [submodule "lb/vf/lpd"]
 	path = lb/vf/lpd
 	url = .
