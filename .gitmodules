@@ -21805,6 +21805,9 @@
 [submodule "hi/no/fve"]
 	path = hi/no/fve
 	url = .
+[submodule "hi/ny/lnr"]
+	path = hi/ny/lnr
+	url = .
 [submodule "hi/oj/ajd"]
 	path = hi/oj/ajd
 	url = .
