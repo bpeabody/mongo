@@ -14044,6 +14044,9 @@
 [submodule "lv/nk/gvb"]
 	path = lv/nk/gvb
 	url = .
+[submodule "lv/sv/lws"]
+	path = lv/sv/lws
+	url = .
 [submodule "lv/ur/xvy"]
 	path = lv/ur/xvy
 	url = .
