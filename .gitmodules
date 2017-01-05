@@ -6964,6 +6964,9 @@
 [submodule "cq/pu/zzn"]
 	path = cq/pu/zzn
 	url = .
+[submodule "cq/qc/bsa"]
+	path = cq/qc/bsa
+	url = .
 [submodule "cq/rg/vnb"]
 	path = cq/rg/vnb
 	url = .
