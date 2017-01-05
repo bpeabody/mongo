@@ -30034,6 +30034,9 @@
 [submodule "lx/ba/acs"]
 	path = lx/ba/acs
 	url = .
+[submodule "lx/bl/awk"]
+	path = lx/bl/awk
+	url = .
 [submodule "lx/co/whu"]
 	path = lx/co/whu
 	url = .
