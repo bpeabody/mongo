@@ -61039,6 +61039,9 @@
 [submodule "vj/ni/dwj"]
 	path = vj/ni/dwj
 	url = .
+[submodule "vj/nn/flk"]
+	path = vj/nn/flk
+	url = .
 [submodule "vj/on/mms"]
 	path = vj/on/mms
 	url = .
