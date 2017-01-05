@@ -19108,6 +19108,9 @@
 [submodule "hw/cs/iha"]
 	path = hw/cs/iha
 	url = .
+[submodule "hw/en/mbv"]
+	path = hw/en/mbv
+	url = .
 [submodule "hw/ff/eeu"]
 	path = hw/ff/eeu
 	url = .
