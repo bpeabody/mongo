@@ -52615,6 +52615,9 @@
 [submodule "xm/jr/qhp"]
 	path = xm/jr/qhp
 	url = .
+[submodule "xm/ka/lbc"]
+	path = xm/ka/lbc
+	url = .
 [submodule "xm/kx/jxb"]
 	path = xm/kx/jxb
 	url = .
