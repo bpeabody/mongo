@@ -2209,6 +2209,9 @@
 [submodule "be/cv/cwb"]
 	path = be/cv/cwb
 	url = .
+[submodule "be/do/xbe"]
+	path = be/do/xbe
+	url = .
 [submodule "be/dp/mlj"]
 	path = be/dp/mlj
 	url = .
