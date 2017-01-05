@@ -61900,6 +61900,9 @@
 [submodule "vq/kv/hzo"]
 	path = vq/kv/hzo
 	url = .
+[submodule "vq/kx/fit"]
+	path = vq/kx/fit
+	url = .
 [submodule "vq/lr/mrv"]
 	path = vq/lr/mrv
 	url = .
