@@ -12202,6 +12202,9 @@
 [submodule "ew/ld/qkw"]
 	path = ew/ld/qkw
 	url = .
+[submodule "ew/li/jsg"]
+	path = ew/li/jsg
+	url = .
 [submodule "ew/mm/yda"]
 	path = ew/mm/yda
 	url = .
