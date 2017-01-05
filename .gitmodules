@@ -4753,6 +4753,9 @@
 [submodule "df/dt/fgo"]
 	path = df/dt/fgo
 	url = .
+[submodule "df/eq/yaw"]
+	path = df/eq/yaw
+	url = .
 [submodule "df/gx/vpr"]
 	path = df/gx/vpr
 	url = .
