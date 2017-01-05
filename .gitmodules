@@ -9991,6 +9991,9 @@
 [submodule "mz/lh/pzc"]
 	path = mz/lh/pzc
 	url = .
+[submodule "mz/lv/bos"]
+	path = mz/lv/bos
+	url = .
 [submodule "mz/pv/xgq"]
 	path = mz/pv/xgq
 	url = .
