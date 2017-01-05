@@ -24850,6 +24850,9 @@
 [submodule "xr/df/vip"]
 	path = xr/df/vip
 	url = .
+[submodule "xr/fq/dpr"]
+	path = xr/fq/dpr
+	url = .
 [submodule "xr/gm/txc"]
 	path = xr/gm/txc
 	url = .
