@@ -26104,6 +26104,9 @@
 [submodule "lq/my/dod"]
 	path = lq/my/dod
 	url = .
+[submodule "lq/nb/vla"]
+	path = lq/nb/vla
+	url = .
 [submodule "lq/og/yay"]
 	path = lq/og/yay
 	url = .
