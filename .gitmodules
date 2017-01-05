@@ -5791,6 +5791,9 @@
 [submodule "cd/pr/mwu"]
 	path = cd/pr/mwu
 	url = .
+[submodule "cd/rh/ces"]
+	path = cd/rh/ces
+	url = .
 [submodule "cd/sh/ihe"]
 	path = cd/sh/ihe
 	url = .
