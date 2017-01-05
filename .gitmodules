@@ -19648,6 +19648,9 @@
 [submodule "ip/lw/zng"]
 	path = ip/lw/zng
 	url = .
+[submodule "ip/mz/jbd"]
+	path = ip/mz/jbd
+	url = .
 [submodule "ip/oe/fre"]
 	path = ip/oe/fre
 	url = .
