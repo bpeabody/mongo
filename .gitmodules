@@ -48418,6 +48418,9 @@
 [submodule "yx/bd/xoj"]
 	path = yx/bd/xoj
 	url = .
+[submodule "yx/bf/olb"]
+	path = yx/bf/olb
+	url = .
 [submodule "yx/bf/xic"]
 	path = yx/bf/xic
 	url = .
