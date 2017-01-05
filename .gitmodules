@@ -343,6 +343,9 @@
 [submodule "ka/dj/spy"]
 	path = ka/dj/spy
 	url = .
+[submodule "kd/hs/jzp"]
+	path = kd/hs/jzp
+	url = .
 [submodule "kg/og/owe"]
 	path = kg/og/owe
 	url = .
