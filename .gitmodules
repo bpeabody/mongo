@@ -11194,6 +11194,9 @@
 [submodule "ib/xw/yrd"]
 	path = ib/xw/yrd
 	url = .
+[submodule "ic/ac/jrs"]
+	path = ic/ac/jrs
+	url = .
 [submodule "ic/ay/vxm"]
 	path = ic/ay/vxm
 	url = .
