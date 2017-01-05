@@ -17041,6 +17041,9 @@
 [submodule "ft/ky/bdb"]
 	path = ft/ky/bdb
 	url = .
+[submodule "ft/ld/zpt"]
+	path = ft/ld/zpt
+	url = .
 [submodule "ft/li/ssr"]
 	path = ft/li/ssr
 	url = .
