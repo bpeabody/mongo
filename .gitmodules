@@ -9832,6 +9832,9 @@
 [submodule "kz/rw/kdr"]
 	path = kz/rw/kdr
 	url = .
+[submodule "kz/sb/xyu"]
+	path = kz/sb/xyu
+	url = .
 [submodule "kz/sv/jem"]
 	path = kz/sv/jem
 	url = .
