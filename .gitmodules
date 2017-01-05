@@ -727,6 +727,9 @@
 [submodule "ig/na/bus"]
 	path = ig/na/bus
 	url = .
+[submodule "ii/fe/rbq"]
+	path = ii/fe/rbq
+	url = .
 [submodule "ij/pc/baa"]
 	path = ij/pc/baa
 	url = .
