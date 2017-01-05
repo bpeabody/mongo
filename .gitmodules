@@ -33211,6 +33211,9 @@
 [submodule "sg/ds/fmm"]
 	path = sg/ds/fmm
 	url = .
+[submodule "sg/fa/rqt"]
+	path = sg/fa/rqt
+	url = .
 [submodule "sg/fi/ojl"]
 	path = sg/fi/ojl
 	url = .
