@@ -682,6 +682,9 @@
 [submodule "bn/mh/tvj"]
 	path = bn/mh/tvj
 	url = .
+[submodule "bn/ql/hyj"]
+	path = bn/ql/hyj
+	url = .
 [submodule "bn/wf/mqn"]
 	path = bn/wf/mqn
 	url = .
