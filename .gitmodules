@@ -526,6 +526,9 @@
 [submodule "ay/ca/ezv"]
 	path = ay/ca/ezv
 	url = .
+[submodule "ay/cd/pko"]
+	path = ay/cd/pko
+	url = .
 [submodule "ay/de/wcv"]
 	path = ay/de/wcv
 	url = .
