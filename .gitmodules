@@ -31822,6 +31822,9 @@
 [submodule "wg/fe/vwm"]
 	path = wg/fe/vwm
 	url = .
+[submodule "wg/gz/gpm"]
+	path = wg/gz/gpm
+	url = .
 [submodule "wg/jc/rhz"]
 	path = wg/jc/rhz
 	url = .
