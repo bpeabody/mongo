@@ -24130,6 +24130,9 @@
 [submodule "ko/js/jti"]
 	path = ko/js/jti
 	url = .
+[submodule "ko/kw/kua"]
+	path = ko/kw/kua
+	url = .
 [submodule "ko/ld/xzm"]
 	path = ko/ld/xzm
 	url = .
