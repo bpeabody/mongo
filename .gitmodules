@@ -3973,6 +3973,9 @@
 [submodule "hh/am/rqa"]
 	path = hh/am/rqa
 	url = .
+[submodule "hh/fy/tue"]
+	path = hh/fy/tue
+	url = .
 [submodule "hh/hv/xsw"]
 	path = hh/hv/xsw
 	url = .
