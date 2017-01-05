@@ -19009,6 +19009,9 @@
 [submodule "he/gv/vjv"]
 	path = he/gv/vjv
 	url = .
+[submodule "he/ja/hvs"]
+	path = he/ja/hvs
+	url = .
 [submodule "he/jw/uun"]
 	path = he/jw/uun
 	url = .
