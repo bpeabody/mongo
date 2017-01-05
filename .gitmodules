@@ -4072,6 +4072,9 @@
 [submodule "il/lk/iib"]
 	path = il/lk/iib
 	url = .
+[submodule "il/me/klq"]
+	path = il/me/klq
+	url = .
 [submodule "il/ob/uta"]
 	path = il/ob/uta
 	url = .
