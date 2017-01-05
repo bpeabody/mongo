@@ -43006,6 +43006,9 @@
 [submodule "vb/jn/ugd"]
 	path = vb/jn/ugd
 	url = .
+[submodule "vb/mb/udp"]
+	path = vb/mb/udp
+	url = .
 [submodule "vb/mu/nme"]
 	path = vb/mu/nme
 	url = .
