@@ -42130,6 +42130,9 @@
 [submodule "rk/hp/xve"]
 	path = rk/hp/xve
 	url = .
+[submodule "rk/hr/nyt"]
+	path = rk/hr/nyt
+	url = .
 [submodule "rk/iv/nfp"]
 	path = rk/iv/nfp
 	url = .
