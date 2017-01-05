@@ -13078,6 +13078,9 @@
 [submodule "jf/fx/nai"]
 	path = jf/fx/nai
 	url = .
+[submodule "jf/hc/jpr"]
+	path = jf/hc/jpr
+	url = .
 [submodule "jf/ke/kzu"]
 	path = jf/ke/kzu
 	url = .
