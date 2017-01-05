@@ -19264,6 +19264,9 @@
 [submodule "jw/mq/cok"]
 	path = jw/mq/cok
 	url = .
+[submodule "jw/ms/qmj"]
+	path = jw/ms/qmj
+	url = .
 [submodule "jw/nk/pig"]
 	path = jw/nk/pig
 	url = .
