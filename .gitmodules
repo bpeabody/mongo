@@ -1408,6 +1408,9 @@
 [submodule "am/vc/wkc"]
 	path = am/vc/wkc
 	url = .
+[submodule "am/vl/iob"]
+	path = am/vl/iob
+	url = .
 [submodule "am/vn/nbg"]
 	path = am/vn/nbg
 	url = .
