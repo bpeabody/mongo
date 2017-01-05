@@ -65155,6 +65155,9 @@
 [submodule "ya/tq/hsc"]
 	path = ya/tq/hsc
 	url = .
+[submodule "ya/ub/xxn"]
+	path = ya/ub/xxn
+	url = .
 [submodule "ya/xq/gdm"]
 	path = ya/xq/gdm
 	url = .
