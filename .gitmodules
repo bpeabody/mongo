@@ -1915,6 +1915,9 @@
 [submodule "el/nt/aoo"]
 	path = el/nt/aoo
 	url = .
+[submodule "el/qn/gju"]
+	path = el/qn/gju
+	url = .
 [submodule "em/ck/sxc"]
 	path = em/ck/sxc
 	url = .
