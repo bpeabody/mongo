@@ -10126,6 +10126,9 @@
 [submodule "dn/ih/nnb"]
 	path = dn/ih/nnb
 	url = .
+[submodule "dn/jk/bzq"]
+	path = dn/jk/bzq
+	url = .
 [submodule "dn/ko/xlr"]
 	path = dn/ko/xlr
 	url = .
