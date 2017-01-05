@@ -20995,6 +20995,9 @@
 [submodule "hp/hd/qjf"]
 	path = hp/hd/qjf
 	url = .
+[submodule "hp/ht/ajp"]
+	path = hp/ht/ajp
+	url = .
 [submodule "hp/iz/ygs"]
 	path = hp/iz/ygs
 	url = .
