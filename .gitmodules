@@ -24907,6 +24907,9 @@
 [submodule "vu/vj/trf"]
 	path = vu/vj/trf
 	url = .
+[submodule "vu/vx/tso"]
+	path = vu/vx/tso
+	url = .
 [submodule "vv/fw/zqw"]
 	path = vv/fw/zqw
 	url = .
