@@ -45433,6 +45433,9 @@
 [submodule "we/al/svd"]
 	path = we/al/svd
 	url = .
+[submodule "we/ap/fqf"]
+	path = we/ap/fqf
+	url = .
 [submodule "we/bh/rvw"]
 	path = we/bh/rvw
 	url = .
