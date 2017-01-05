@@ -21589,6 +21589,9 @@
 [submodule "or/hk/eif"]
 	path = or/hk/eif
 	url = .
+[submodule "or/iq/xvs"]
+	path = or/iq/xvs
+	url = .
 [submodule "or/kq/bgw"]
 	path = or/kq/bgw
 	url = .
