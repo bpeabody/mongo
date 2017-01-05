@@ -5944,6 +5944,9 @@
 [submodule "yn/mu/hnz"]
 	path = yn/mu/hnz
 	url = .
+[submodule "yn/se/bop"]
+	path = yn/se/bop
+	url = .
 [submodule "yn/vx/ioo"]
 	path = yn/vx/ioo
 	url = .
