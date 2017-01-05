@@ -46186,6 +46186,9 @@
 [submodule "yq/zr/cvz"]
 	path = yq/zr/cvz
 	url = .
+[submodule "yr/ab/vdk"]
+	path = yr/ab/vdk
+	url = .
 [submodule "yr/an/prh"]
 	path = yr/an/prh
 	url = .
