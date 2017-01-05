@@ -832,6 +832,9 @@
 [submodule "kr/ps/iem"]
 	path = kr/ps/iem
 	url = .
+[submodule "ks/td/iaq"]
+	path = ks/td/iaq
+	url = .
 [submodule "kw/zj/bxw"]
 	path = kw/zj/bxw
 	url = .
