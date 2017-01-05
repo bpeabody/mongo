@@ -1195,6 +1195,9 @@
 [submodule "ck/vn/dpb"]
 	path = ck/vn/dpb
 	url = .
+[submodule "cl/ba/lvn"]
+	path = cl/ba/lvn
+	url = .
 [submodule "cl/co/mmh"]
 	path = cl/co/mmh
 	url = .
