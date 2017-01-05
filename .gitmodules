@@ -43615,6 +43615,9 @@
 [submodule "pn/hk/zxy"]
 	path = pn/hk/zxy
 	url = .
+[submodule "pn/hq/ggn"]
+	path = pn/hq/ggn
+	url = .
 [submodule "pn/ih/vcs"]
 	path = pn/ih/vcs
 	url = .
