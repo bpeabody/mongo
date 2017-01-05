@@ -21319,6 +21319,9 @@
 [submodule "sn/xa/jxw"]
 	path = sn/xa/jxw
 	url = .
+[submodule "sn/yb/egw"]
+	path = sn/yb/egw
+	url = .
 [submodule "so/bw/ayw"]
 	path = so/bw/ayw
 	url = .
