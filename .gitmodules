@@ -62080,6 +62080,9 @@
 [submodule "vm/sv/bvw"]
 	path = vm/sv/bvw
 	url = .
+[submodule "vm/sw/heu"]
+	path = vm/sw/heu
+	url = .
 [submodule "vm/tl/ceu"]
 	path = vm/tl/ceu
 	url = .
