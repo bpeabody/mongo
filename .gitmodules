@@ -56092,6 +56092,9 @@
 [submodule "ys/ba/txs"]
 	path = ys/ba/txs
 	url = .
+[submodule "ys/cr/fub"]
+	path = ys/cr/fub
+	url = .
 [submodule "ys/ec/pyy"]
 	path = ys/ec/pyy
 	url = .
