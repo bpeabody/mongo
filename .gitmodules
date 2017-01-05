@@ -28531,6 +28531,9 @@
 [submodule "sx/bo/ilu"]
 	path = sx/bo/ilu
 	url = .
+[submodule "sx/ds/ljc"]
+	path = sx/ds/ljc
+	url = .
 [submodule "sx/eo/lim"]
 	path = sx/eo/lim
 	url = .
