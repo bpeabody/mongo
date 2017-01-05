@@ -9571,6 +9571,9 @@
 [submodule "xd/ki/etr"]
 	path = xd/ki/etr
 	url = .
+[submodule "xd/kj/ynp"]
+	path = xd/kj/ynp
+	url = .
 [submodule "xd/sr/znc"]
 	path = xd/sr/znc
 	url = .
