@@ -16693,6 +16693,9 @@
 [submodule "mo/ix/lal"]
 	path = mo/ix/lal
 	url = .
+[submodule "mo/ln/dhi"]
+	path = mo/ln/dhi
+	url = .
 [submodule "mo/ls/afo"]
 	path = mo/ls/afo
 	url = .
