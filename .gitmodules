@@ -10,6 +10,9 @@
 [submodule "ab/ix/onx"]
 	path = ab/ix/onx
 	url = .
+[submodule "ab/ol/stm"]
+	path = ab/ol/stm
+	url = .
 [submodule "ab/tp/iho"]
 	path = ab/tp/iho
 	url = .
