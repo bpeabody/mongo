@@ -2530,6 +2530,9 @@
 [submodule "ny/yw/hts"]
 	path = ny/yw/hts
 	url = .
+[submodule "nz/kt/rpq"]
+	path = nz/kt/rpq
+	url = .
 [submodule "nz/me/vqh"]
 	path = nz/me/vqh
 	url = .
