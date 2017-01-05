@@ -388,6 +388,9 @@
 [submodule "ai/vg/lop"]
 	path = ai/vg/lop
 	url = .
+[submodule "ai/wu/hnb"]
+	path = ai/wu/hnb
+	url = .
 [submodule "ai/yx/pbh"]
 	path = ai/yx/pbh
 	url = .
