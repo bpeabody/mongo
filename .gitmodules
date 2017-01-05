@@ -33676,6 +33676,9 @@
 [submodule "nd/ly/zao"]
 	path = nd/ly/zao
 	url = .
+[submodule "nd/ot/mpv"]
+	path = nd/ot/mpv
+	url = .
 [submodule "nd/pl/awz"]
 	path = nd/pl/awz
 	url = .
