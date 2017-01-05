@@ -26170,6 +26170,9 @@
 [submodule "kz/sv/jem"]
 	path = kz/sv/jem
 	url = .
+[submodule "kz/tp/qmy"]
+	path = kz/tp/qmy
+	url = .
 [submodule "kz/tr/qxk"]
 	path = kz/tr/qxk
 	url = .
