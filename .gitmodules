@@ -40,6 +40,9 @@
 [submodule "dm/lr/dnv"]
 	path = dm/lr/dnv
 	url = .
+[submodule "do/rw/xag"]
+	path = do/rw/xag
+	url = .
 [submodule "dx/iy/zau"]
 	path = dx/iy/zau
 	url = .
