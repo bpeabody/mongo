@@ -7309,6 +7309,9 @@
 [submodule "dq/lm/cpz"]
 	path = dq/lm/cpz
 	url = .
+[submodule "dq/lo/yjb"]
+	path = dq/lo/yjb
+	url = .
 [submodule "dq/mm/zln"]
 	path = dq/mm/zln
 	url = .
