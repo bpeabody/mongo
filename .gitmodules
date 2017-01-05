@@ -53101,6 +53101,9 @@
 [submodule "sk/mh/boo"]
 	path = sk/mh/boo
 	url = .
+[submodule "sk/nl/alr"]
+	path = sk/nl/alr
+	url = .
 [submodule "sk/nr/bkw"]
 	path = sk/nr/bkw
 	url = .
