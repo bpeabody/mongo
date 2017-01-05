@@ -5653,6 +5653,9 @@
 [submodule "jj/qd/eix"]
 	path = jj/qd/eix
 	url = .
+[submodule "jj/ql/isk"]
+	path = jj/ql/isk
+	url = .
 [submodule "jj/qm/aql"]
 	path = jj/qm/aql
 	url = .
