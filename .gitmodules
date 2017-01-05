@@ -2575,6 +2575,9 @@
 [submodule "cv/uo/wbd"]
 	path = cv/uo/wbd
 	url = .
+[submodule "cv/ur/fkh"]
+	path = cv/ur/fkh
+	url = .
 [submodule "cv/xq/olr"]
 	path = cv/xq/olr
 	url = .
