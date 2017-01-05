@@ -66001,6 +66001,9 @@
 [submodule "wl/qt/lwx"]
 	path = wl/qt/lwx
 	url = .
+[submodule "wl/ra/bif"]
+	path = wl/ra/bif
+	url = .
 [submodule "wl/rg/zad"]
 	path = wl/rg/zad
 	url = .
