@@ -8983,6 +8983,9 @@
 [submodule "sy/oq/lny"]
 	path = sy/oq/lny
 	url = .
+[submodule "sy/po/ygo"]
+	path = sy/po/ygo
+	url = .
 [submodule "sy/xl/wlp"]
 	path = sy/xl/wlp
 	url = .
