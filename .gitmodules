@@ -40177,6 +40177,9 @@
 [submodule "uw/bn/xzs"]
 	path = uw/bn/xzs
 	url = .
+[submodule "uw/bp/ghk"]
+	path = uw/bp/ghk
+	url = .
 [submodule "uw/ec/qcd"]
 	path = uw/ec/qcd
 	url = .
