@@ -553,6 +553,9 @@
 [submodule "bg/uv/ldg"]
 	path = bg/uv/ldg
 	url = .
+[submodule "bh/dd/ero"]
+	path = bh/dd/ero
+	url = .
 [submodule "bh/fc/tfa"]
 	path = bh/fc/tfa
 	url = .
