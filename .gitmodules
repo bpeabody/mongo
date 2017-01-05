@@ -11317,6 +11317,9 @@
 [submodule "eo/vu/ubt"]
 	path = eo/vu/ubt
 	url = .
+[submodule "eo/yj/dfm"]
+	path = eo/yj/dfm
+	url = .
 [submodule "eo/yu/ugf"]
 	path = eo/yu/ugf
 	url = .
