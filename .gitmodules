@@ -1270,6 +1270,9 @@
 [submodule "wr/yc/sxp"]
 	path = wr/yc/sxp
 	url = .
+[submodule "ws/xt/rpc"]
+	path = ws/xt/rpc
+	url = .
 [submodule "wt/ma/sch"]
 	path = wt/ma/sch
 	url = .
