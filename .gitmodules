@@ -7000,6 +7000,9 @@
 [submodule "sl/ja/oyc"]
 	path = sl/ja/oyc
 	url = .
+[submodule "sl/oy/ioq"]
+	path = sl/oy/ioq
+	url = .
 [submodule "sm/ai/qfy"]
 	path = sm/ai/qfy
 	url = .
