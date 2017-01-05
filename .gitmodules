@@ -19807,6 +19807,9 @@
 [submodule "yy/ub/mtr"]
 	path = yy/ub/mtr
 	url = .
+[submodule "yz/fh/nbs"]
+	path = yz/fh/nbs
+	url = .
 [submodule "yz/gr/sal"]
 	path = yz/gr/sal
 	url = .
