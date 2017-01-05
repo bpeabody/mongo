@@ -35278,6 +35278,9 @@
 [submodule "mg/uh/srd"]
 	path = mg/uh/srd
 	url = .
+[submodule "mg/ui/qqk"]
+	path = mg/ui/qqk
+	url = .
 [submodule "mg/vm/mej"]
 	path = mg/vm/mej
 	url = .
