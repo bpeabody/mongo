@@ -16516,6 +16516,9 @@
 [submodule "ge/vm/kqi"]
 	path = ge/vm/kqi
 	url = .
+[submodule "ge/vw/dkc"]
+	path = ge/vw/dkc
+	url = .
 [submodule "ge/xa/mbf"]
 	path = ge/xa/mbf
 	url = .
