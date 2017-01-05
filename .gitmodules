@@ -9769,6 +9769,9 @@
 [submodule "dg/dn/ixg"]
 	path = dg/dn/ixg
 	url = .
+[submodule "dg/do/mkn"]
+	path = dg/do/mkn
+	url = .
 [submodule "dg/dt/ikp"]
 	path = dg/dt/ikp
 	url = .
