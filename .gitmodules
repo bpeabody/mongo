@@ -12298,6 +12298,9 @@
 [submodule "ok/et/tsn"]
 	path = ok/et/tsn
 	url = .
+[submodule "ok/et/vsc"]
+	path = ok/et/vsc
+	url = .
 [submodule "ok/fi/htg"]
 	path = ok/fi/htg
 	url = .
