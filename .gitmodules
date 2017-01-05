@@ -13930,6 +13930,9 @@
 [submodule "ic/ky/xad"]
 	path = ic/ky/xad
 	url = .
+[submodule "ic/lq/mqv"]
+	path = ic/lq/mqv
+	url = .
 [submodule "ic/mf/ugw"]
 	path = ic/mf/ugw
 	url = .
