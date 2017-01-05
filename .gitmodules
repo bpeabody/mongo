@@ -69256,6 +69256,9 @@
 [submodule "zx/sx/brz"]
 	path = zx/sx/brz
 	url = .
+[submodule "zx/ue/eeo"]
+	path = zx/ue/eeo
+	url = .
 [submodule "zx/ul/jgz"]
 	path = zx/ul/jgz
 	url = .
