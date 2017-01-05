@@ -14092,6 +14092,9 @@
 [submodule "ev/ov/peo"]
 	path = ev/ov/peo
 	url = .
+[submodule "ev/oy/vkt"]
+	path = ev/oy/vkt
+	url = .
 [submodule "ev/pa/sme"]
 	path = ev/pa/sme
 	url = .
