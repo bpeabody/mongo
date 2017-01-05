@@ -6019,6 +6019,9 @@
 [submodule "ey/ux/ovz"]
 	path = ey/ux/ovz
 	url = .
+[submodule "ey/ye/pvi"]
+	path = ey/ye/pvi
+	url = .
 [submodule "ey/za/jib"]
 	path = ey/za/jib
 	url = .
