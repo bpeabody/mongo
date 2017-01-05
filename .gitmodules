@@ -22630,6 +22630,9 @@
 [submodule "ki/op/ook"]
 	path = ki/op/ook
 	url = .
+[submodule "ki/pa/ofk"]
+	path = ki/pa/ofk
+	url = .
 [submodule "ki/pt/dif"]
 	path = ki/pt/dif
 	url = .
