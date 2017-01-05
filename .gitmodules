@@ -9838,6 +9838,9 @@
 [submodule "lk/nm/ilv"]
 	path = lk/nm/ilv
 	url = .
+[submodule "lk/nu/nvw"]
+	path = lk/nu/nvw
+	url = .
 [submodule "lk/ps/kej"]
 	path = lk/ps/kej
 	url = .
