@@ -967,6 +967,9 @@
 [submodule "ez/pt/rwn"]
 	path = ez/pt/rwn
 	url = .
+[submodule "ez/tk/eit"]
+	path = ez/tk/eit
+	url = .
 [submodule "fa/vv/mbk"]
 	path = fa/vv/mbk
 	url = .
