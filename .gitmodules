@@ -28594,6 +28594,9 @@
 [submodule "wz/ku/wwm"]
 	path = wz/ku/wwm
 	url = .
+[submodule "wz/mg/sty"]
+	path = wz/mg/sty
+	url = .
 [submodule "wz/ml/nyj"]
 	path = wz/ml/nyj
 	url = .
