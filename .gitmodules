@@ -27055,6 +27055,9 @@
 [submodule "pe/mb/fjb"]
 	path = pe/mb/fjb
 	url = .
+[submodule "pe/no/hiq"]
+	path = pe/no/hiq
+	url = .
 [submodule "pe/oq/xru"]
 	path = pe/oq/xru
 	url = .
