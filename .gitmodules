@@ -2020,6 +2020,9 @@
 [submodule "hl/bd/mrv"]
 	path = hl/bd/mrv
 	url = .
+[submodule "hl/gg/yok"]
+	path = hl/gg/yok
+	url = .
 [submodule "hl/je/yuc"]
 	path = hl/je/yuc
 	url = .
