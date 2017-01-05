@@ -24640,6 +24640,9 @@
 [submodule "jk/ux/cbc"]
 	path = jk/ux/cbc
 	url = .
+[submodule "jk/vm/izo"]
+	path = jk/vm/izo
+	url = .
 [submodule "jk/vo/mno"]
 	path = jk/vo/mno
 	url = .
