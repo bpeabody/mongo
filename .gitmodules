@@ -34243,6 +34243,9 @@
 [submodule "vk/oy/qvb"]
 	path = vk/oy/qvb
 	url = .
+[submodule "vk/pg/kty"]
+	path = vk/pg/kty
+	url = .
 [submodule "vk/rm/nhz"]
 	path = vk/rm/nhz
 	url = .
