@@ -43267,6 +43267,9 @@
 [submodule "qc/nz/yzf"]
 	path = qc/nz/yzf
 	url = .
+[submodule "qc/pc/alk"]
+	path = qc/pc/alk
+	url = .
 [submodule "qc/qj/tub"]
 	path = qc/qj/tub
 	url = .
