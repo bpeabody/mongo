@@ -15730,6 +15730,9 @@
 [submodule "oj/jc/ssu"]
 	path = oj/jc/ssu
 	url = .
+[submodule "oj/lx/mwy"]
+	path = oj/lx/mwy
+	url = .
 [submodule "oj/mf/tzt"]
 	path = oj/mf/tzt
 	url = .
