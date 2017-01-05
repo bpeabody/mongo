@@ -3358,6 +3358,9 @@
 [submodule "bz/tp/dgj"]
 	path = bz/tp/dgj
 	url = .
+[submodule "bz/tw/vgg"]
+	path = bz/tw/vgg
+	url = .
 [submodule "bz/ua/igx"]
 	path = bz/ua/igx
 	url = .
