@@ -34984,6 +34984,9 @@
 [submodule "px/xf/hmi"]
 	path = px/xf/hmi
 	url = .
+[submodule "px/xt/kki"]
+	path = px/xt/kki
+	url = .
 [submodule "px/yc/zwk"]
 	path = px/yc/zwk
 	url = .
