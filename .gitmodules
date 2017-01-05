@@ -8734,6 +8734,9 @@
 [submodule "ki/pt/dif"]
 	path = ki/pt/dif
 	url = .
+[submodule "ki/ql/wuo"]
+	path = ki/ql/wuo
+	url = .
 [submodule "ki/vw/vig"]
 	path = ki/vw/vig
 	url = .
