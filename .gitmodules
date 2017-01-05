@@ -5467,6 +5467,9 @@
 [submodule "rk/ul/ozg"]
 	path = rk/ul/ozg
 	url = .
+[submodule "rk/vy/ohs"]
+	path = rk/vy/ohs
+	url = .
 [submodule "rk/xj/byq"]
 	path = rk/xj/byq
 	url = .
