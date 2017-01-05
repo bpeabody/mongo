@@ -32668,6 +32668,9 @@
 [submodule "og/lx/sml"]
 	path = og/lx/sml
 	url = .
+[submodule "og/mn/etc"]
+	path = og/mn/etc
+	url = .
 [submodule "og/ng/qxa"]
 	path = og/ng/qxa
 	url = .
