@@ -11344,6 +11344,9 @@
 [submodule "hb/kc/uhd"]
 	path = hb/kc/uhd
 	url = .
+[submodule "hb/ki/nyv"]
+	path = hb/ki/nyv
+	url = .
 [submodule "hb/lq/oca"]
 	path = hb/lq/oca
 	url = .
