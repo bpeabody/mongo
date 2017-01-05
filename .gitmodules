@@ -2380,6 +2380,9 @@
 [submodule "uw/kn/fbv"]
 	path = uw/kn/fbv
 	url = .
+[submodule "ux/yw/dnv"]
+	path = ux/yw/dnv
+	url = .
 [submodule "uz/hx/uec"]
 	path = uz/hx/uec
 	url = .
