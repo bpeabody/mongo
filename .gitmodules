@@ -4420,6 +4420,9 @@
 [submodule "bw/rs/qds"]
 	path = bw/rs/qds
 	url = .
+[submodule "bw/sc/pcm"]
+	path = bw/sc/pcm
+	url = .
 [submodule "bw/sk/wyu"]
 	path = bw/sk/wyu
 	url = .
