@@ -23266,6 +23266,9 @@
 [submodule "mn/xe/yzi"]
 	path = mn/xe/yzi
 	url = .
+[submodule "mn/xu/kkh"]
+	path = mn/xu/kkh
+	url = .
 [submodule "mn/yw/zey"]
 	path = mn/yw/zey
 	url = .
