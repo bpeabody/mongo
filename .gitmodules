@@ -3508,6 +3508,9 @@
 [submodule "qx/iv/ewm"]
 	path = qx/iv/ewm
 	url = .
+[submodule "qx/zm/qqj"]
+	path = qx/zm/qqj
+	url = .
 [submodule "qz/bf/lkq"]
 	path = qz/bf/lkq
 	url = .
