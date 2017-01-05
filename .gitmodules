@@ -793,6 +793,9 @@
 [submodule "rr/or/vhq"]
 	path = rr/or/vhq
 	url = .
+[submodule "ru/ey/npj"]
+	path = ru/ey/npj
+	url = .
 [submodule "rv/cv/kkk"]
 	path = rv/cv/kkk
 	url = .
