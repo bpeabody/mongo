@@ -6631,6 +6631,9 @@
 [submodule "tp/qh/kzb"]
 	path = tp/qh/kzb
 	url = .
+[submodule "tp/wh/yuj"]
+	path = tp/wh/yuj
+	url = .
 [submodule "tq/av/uuq"]
 	path = tq/av/uuq
 	url = .
