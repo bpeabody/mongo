@@ -2290,6 +2290,9 @@
 [submodule "eg/mm/kfh"]
 	path = eg/mm/kfh
 	url = .
+[submodule "eg/rq/geg"]
+	path = eg/rq/geg
+	url = .
 [submodule "eg/yd/nxz"]
 	path = eg/yd/nxz
 	url = .
