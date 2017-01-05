@@ -12721,6 +12721,9 @@
 [submodule "lz/yb/exv"]
 	path = lz/yb/exv
 	url = .
+[submodule "lz/yj/vcp"]
+	path = lz/yj/vcp
+	url = .
 [submodule "ma/ay/rzm"]
 	path = ma/ay/rzm
 	url = .
