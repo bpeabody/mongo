@@ -23113,6 +23113,9 @@
 [submodule "mp/ke/xfm"]
 	path = mp/ke/xfm
 	url = .
+[submodule "mp/ky/hwi"]
+	path = mp/ky/hwi
+	url = .
 [submodule "mp/le/tta"]
 	path = mp/le/tta
 	url = .
