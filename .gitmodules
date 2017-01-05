@@ -5830,6 +5830,9 @@
 [submodule "jf/vz/rtu"]
 	path = jf/vz/rtu
 	url = .
+[submodule "jf/wh/drk"]
+	path = jf/wh/drk
+	url = .
 [submodule "jf/wu/dxy"]
 	path = jf/wu/dxy
 	url = .
