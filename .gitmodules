@@ -22636,6 +22636,9 @@
 [submodule "ta/de/tjl"]
 	path = ta/de/tjl
 	url = .
+[submodule "ta/dw/udq"]
+	path = ta/dw/udq
+	url = .
 [submodule "ta/ev/nfa"]
 	path = ta/ev/nfa
 	url = .
