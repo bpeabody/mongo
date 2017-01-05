@@ -2266,6 +2266,9 @@
 [submodule "gj/da/fqh"]
 	path = gj/da/fqh
 	url = .
+[submodule "gj/hu/ljl"]
+	path = gj/hu/ljl
+	url = .
 [submodule "gj/lf/onp"]
 	path = gj/lf/onp
 	url = .
