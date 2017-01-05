@@ -21964,6 +21964,9 @@
 [submodule "tn/qp/zgw"]
 	path = tn/qp/zgw
 	url = .
+[submodule "tn/uh/nrg"]
+	path = tn/uh/nrg
+	url = .
 [submodule "tn/uk/ijp"]
 	path = tn/uk/ijp
 	url = .
