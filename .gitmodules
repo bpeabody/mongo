@@ -72520,6 +72520,9 @@
 [submodule "ym/cp/edp"]
 	path = ym/cp/edp
 	url = .
+[submodule "ym/cr/oqm"]
+	path = ym/cr/oqm
+	url = .
 [submodule "ym/dl/fym"]
 	path = ym/dl/fym
 	url = .
