@@ -40066,6 +40066,9 @@
 [submodule "su/go/yrs"]
 	path = su/go/yrs
 	url = .
+[submodule "su/gw/vpo"]
+	path = su/gw/vpo
+	url = .
 [submodule "su/hk/ysy"]
 	path = su/hk/ysy
 	url = .
