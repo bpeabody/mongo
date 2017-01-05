@@ -3862,6 +3862,9 @@
 [submodule "li/cd/lfw"]
 	path = li/cd/lfw
 	url = .
+[submodule "li/gb/mou"]
+	path = li/gb/mou
+	url = .
 [submodule "li/sx/rtz"]
 	path = li/sx/rtz
 	url = .
