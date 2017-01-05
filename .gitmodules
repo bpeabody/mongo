@@ -10942,6 +10942,9 @@
 [submodule "ex/sk/vid"]
 	path = ex/sk/vid
 	url = .
+[submodule "ex/sv/djv"]
+	path = ex/sv/djv
+	url = .
 [submodule "ex/ue/tqm"]
 	path = ex/ue/tqm
 	url = .
