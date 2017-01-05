@@ -7114,6 +7114,9 @@
 [submodule "ei/nt/zkm"]
 	path = ei/nt/zkm
 	url = .
+[submodule "ei/od/sjk"]
+	path = ei/od/sjk
+	url = .
 [submodule "ei/oe/nbj"]
 	path = ei/oe/nbj
 	url = .
