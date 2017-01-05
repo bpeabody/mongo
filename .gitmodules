@@ -54934,6 +54934,9 @@
 [submodule "sf/jm/eop"]
 	path = sf/jm/eop
 	url = .
+[submodule "sf/kk/oya"]
+	path = sf/kk/oya
+	url = .
 [submodule "sf/lo/yyh"]
 	path = sf/lo/yyh
 	url = .
