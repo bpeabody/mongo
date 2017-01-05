@@ -25330,6 +25330,9 @@
 [submodule "ka/nk/kbi"]
 	path = ka/nk/kbi
 	url = .
+[submodule "ka/nu/utk"]
+	path = ka/nu/utk
+	url = .
 [submodule "ka/oc/wmo"]
 	path = ka/oc/wmo
 	url = .
