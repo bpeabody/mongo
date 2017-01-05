@@ -33868,6 +33868,9 @@
 [submodule "rl/pm/ohy"]
 	path = rl/pm/ohy
 	url = .
+[submodule "rl/py/kbb"]
+	path = rl/py/kbb
+	url = .
 [submodule "rl/qa/zsp"]
 	path = rl/qa/zsp
 	url = .
