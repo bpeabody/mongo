@@ -9532,6 +9532,9 @@
 [submodule "vj/fm/ifx"]
 	path = vj/fm/ifx
 	url = .
+[submodule "vj/sc/adw"]
+	path = vj/sc/adw
+	url = .
 [submodule "vj/wo/coz"]
 	path = vj/wo/coz
 	url = .
