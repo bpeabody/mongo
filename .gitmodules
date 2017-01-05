@@ -13909,6 +13909,9 @@
 [submodule "sl/lb/tgi"]
 	path = sl/lb/tgi
 	url = .
+[submodule "sl/nb/qpb"]
+	path = sl/nb/qpb
+	url = .
 [submodule "sl/oy/ioq"]
 	path = sl/oy/ioq
 	url = .
