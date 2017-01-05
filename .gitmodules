@@ -38191,6 +38191,9 @@
 [submodule "nu/le/dry"]
 	path = nu/le/dry
 	url = .
+[submodule "nu/ly/wmj"]
+	path = nu/ly/wmj
+	url = .
 [submodule "nu/ml/eea"]
 	path = nu/ml/eea
 	url = .
