@@ -53584,6 +53584,9 @@
 [submodule "wj/qk/lrm"]
 	path = wj/qk/lrm
 	url = .
+[submodule "wj/ri/ilr"]
+	path = wj/ri/ilr
+	url = .
 [submodule "wj/rl/rky"]
 	path = wj/rl/rky
 	url = .
