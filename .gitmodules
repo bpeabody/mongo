@@ -7918,6 +7918,9 @@
 [submodule "dq/yo/cri"]
 	path = dq/yo/cri
 	url = .
+[submodule "dq/zz/ora"]
+	path = dq/zz/ora
+	url = .
 [submodule "dr/ad/bei"]
 	path = dr/ad/bei
 	url = .
