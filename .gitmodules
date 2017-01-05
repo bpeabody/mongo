@@ -9640,6 +9640,9 @@
 [submodule "kf/bk/bge"]
 	path = kf/bk/bge
 	url = .
+[submodule "kf/qn/cvx"]
+	path = kf/qn/cvx
+	url = .
 [submodule "kf/ry/eqq"]
 	path = kf/ry/eqq
 	url = .
