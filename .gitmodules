@@ -1504,6 +1504,9 @@
 [submodule "dx/iy/zau"]
 	path = dx/iy/zau
 	url = .
+[submodule "dx/km/tbq"]
+	path = dx/km/tbq
+	url = .
 [submodule "dx/ox/zsq"]
 	path = dx/ox/zsq
 	url = .
