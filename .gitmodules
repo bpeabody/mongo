@@ -5935,6 +5935,9 @@
 [submodule "is/ac/lkn"]
 	path = is/ac/lkn
 	url = .
+[submodule "is/ir/uhi"]
+	path = is/ir/uhi
+	url = .
 [submodule "is/jy/ezs"]
 	path = is/jy/ezs
 	url = .
