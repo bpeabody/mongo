@@ -5830,6 +5830,9 @@
 [submodule "nf/oc/yeb"]
 	path = nf/oc/yeb
 	url = .
+[submodule "nf/va/oyf"]
+	path = nf/va/oyf
+	url = .
 [submodule "nf/ya/qmo"]
 	path = nf/ya/qmo
 	url = .
