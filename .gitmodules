@@ -47233,6 +47233,9 @@
 [submodule "vq/tp/upm"]
 	path = vq/tp/upm
 	url = .
+[submodule "vq/wt/ndy"]
+	path = vq/wt/ndy
+	url = .
 [submodule "vq/yp/uqa"]
 	path = vq/yp/uqa
 	url = .
