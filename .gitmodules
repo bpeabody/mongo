@@ -823,6 +823,9 @@
 [submodule "hj/iu/lij"]
 	path = hj/iu/lij
 	url = .
+[submodule "hj/ob/krn"]
+	path = hj/ob/krn
+	url = .
 [submodule "hl/rf/ocp"]
 	path = hl/rf/ocp
 	url = .
