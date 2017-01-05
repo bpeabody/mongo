@@ -25264,6 +25264,9 @@
 [submodule "nj/qi/ewp"]
 	path = nj/qi/ewp
 	url = .
+[submodule "nj/rg/uif"]
+	path = nj/rg/uif
+	url = .
 [submodule "nj/sl/gra"]
 	path = nj/sl/gra
 	url = .
