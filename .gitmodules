@@ -37513,6 +37513,9 @@
 [submodule "rb/ie/rlc"]
 	path = rb/ie/rlc
 	url = .
+[submodule "rb/ih/ksu"]
+	path = rb/ih/ksu
+	url = .
 [submodule "rb/je/qke"]
 	path = rb/je/qke
 	url = .
