@@ -24370,6 +24370,9 @@
 [submodule "ib/nb/jrb"]
 	path = ib/nb/jrb
 	url = .
+[submodule "ib/nu/sxr"]
+	path = ib/nu/sxr
+	url = .
 [submodule "ib/od/gre"]
 	path = ib/od/gre
 	url = .
