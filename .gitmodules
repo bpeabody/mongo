@@ -20518,6 +20518,9 @@
 [submodule "qm/fl/xks"]
 	path = qm/fl/xks
 	url = .
+[submodule "qm/jr/dkl"]
+	path = qm/jr/dkl
+	url = .
 [submodule "qm/kb/apr"]
 	path = qm/kb/apr
 	url = .
