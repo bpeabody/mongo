@@ -10903,6 +10903,9 @@
 [submodule "nn/ra/evb"]
 	path = nn/ra/evb
 	url = .
+[submodule "nn/rx/zks"]
+	path = nn/rx/zks
+	url = .
 [submodule "nn/tb/vqx"]
 	path = nn/tb/vqx
 	url = .
