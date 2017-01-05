@@ -7297,6 +7297,9 @@
 [submodule "cn/sx/mcq"]
 	path = cn/sx/mcq
 	url = .
+[submodule "cn/tt/lyn"]
+	path = cn/tt/lyn
+	url = .
 [submodule "cn/vd/jul"]
 	path = cn/vd/jul
 	url = .
