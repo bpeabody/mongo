@@ -24724,6 +24724,9 @@
 [submodule "qr/rm/vmj"]
 	path = qr/rm/vmj
 	url = .
+[submodule "qr/tq/lrg"]
+	path = qr/tq/lrg
+	url = .
 [submodule "qr/vo/xjc"]
 	path = qr/vo/xjc
 	url = .
