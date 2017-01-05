@@ -583,6 +583,9 @@
 [submodule "bj/em/jzh"]
 	path = bj/em/jzh
 	url = .
+[submodule "bj/ig/hye"]
+	path = bj/ig/hye
+	url = .
 [submodule "bj/qn/vtt"]
 	path = bj/qn/vtt
 	url = .
