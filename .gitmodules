@@ -808,6 +808,9 @@
 [submodule "aw/bj/cti"]
 	path = aw/bj/cti
 	url = .
+[submodule "aw/br/xfa"]
+	path = aw/br/xfa
+	url = .
 [submodule "aw/ey/psz"]
 	path = aw/ey/psz
 	url = .
