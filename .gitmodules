@@ -1237,6 +1237,9 @@
 [submodule "av/dn/eyi"]
 	path = av/dn/eyi
 	url = .
+[submodule "av/fe/ugz"]
+	path = av/fe/ugz
+	url = .
 [submodule "av/ha/thl"]
 	path = av/ha/thl
 	url = .
