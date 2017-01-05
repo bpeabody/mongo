@@ -5857,6 +5857,9 @@
 [submodule "oj/eg/qdj"]
 	path = oj/eg/qdj
 	url = .
+[submodule "oj/gj/cmh"]
+	path = oj/gj/cmh
+	url = .
 [submodule "oj/gz/gro"]
 	path = oj/gz/gro
 	url = .
