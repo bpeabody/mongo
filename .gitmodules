@@ -26293,6 +26293,9 @@
 [submodule "xn/wi/wna"]
 	path = xn/wi/wna
 	url = .
+[submodule "xn/wn/ewd"]
+	path = xn/wn/ewd
+	url = .
 [submodule "xn/wr/mws"]
 	path = xn/wr/mws
 	url = .
