@@ -44899,6 +44899,9 @@
 [submodule "yr/id/loc"]
 	path = yr/id/loc
 	url = .
+[submodule "yr/jl/izg"]
+	path = yr/jl/izg
+	url = .
 [submodule "yr/js/yvv"]
 	path = yr/js/yvv
 	url = .
