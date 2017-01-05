@@ -14677,6 +14677,9 @@
 [submodule "ib/et/xmc"]
 	path = ib/et/xmc
 	url = .
+[submodule "ib/gz/wcc"]
+	path = ib/gz/wcc
+	url = .
 [submodule "ib/hc/whx"]
 	path = ib/hc/whx
 	url = .
