@@ -55054,6 +55054,9 @@
 [submodule "sk/pa/fgj"]
 	path = sk/pa/fgj
 	url = .
+[submodule "sk/pc/dye"]
+	path = sk/pc/dye
+	url = .
 [submodule "sk/pm/ioy"]
 	path = sk/pm/ioy
 	url = .
