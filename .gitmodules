@@ -42280,6 +42280,9 @@
 [submodule "xt/lr/yjl"]
 	path = xt/lr/yjl
 	url = .
+[submodule "xt/mb/rrg"]
+	path = xt/mb/rrg
+	url = .
 [submodule "xt/md/rgj"]
 	path = xt/md/rgj
 	url = .
