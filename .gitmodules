@@ -32677,6 +32677,9 @@
 [submodule "qp/fw/ccf"]
 	path = qp/fw/ccf
 	url = .
+[submodule "qp/gf/mbq"]
+	path = qp/gf/mbq
+	url = .
 [submodule "qp/hc/bum"]
 	path = qp/hc/bum
 	url = .
