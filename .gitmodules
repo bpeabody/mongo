@@ -11392,6 +11392,9 @@
 [submodule "sw/eh/hep"]
 	path = sw/eh/hep
 	url = .
+[submodule "sw/rg/pqh"]
+	path = sw/rg/pqh
+	url = .
 [submodule "sw/sa/oal"]
 	path = sw/sa/oal
 	url = .
