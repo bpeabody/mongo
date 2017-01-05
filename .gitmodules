@@ -35413,6 +35413,9 @@
 [submodule "ov/da/wwf"]
 	path = ov/da/wwf
 	url = .
+[submodule "ov/gj/dgo"]
+	path = ov/gj/dgo
+	url = .
 [submodule "ov/gy/rjb"]
 	path = ov/gy/rjb
 	url = .
