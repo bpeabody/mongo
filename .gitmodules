@@ -988,6 +988,9 @@
 [submodule "go/gc/yhq"]
 	path = go/gc/yhq
 	url = .
+[submodule "go/hr/ioy"]
+	path = go/hr/ioy
+	url = .
 [submodule "go/xl/lqm"]
 	path = go/xl/lqm
 	url = .
