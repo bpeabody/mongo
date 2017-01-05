@@ -18883,6 +18883,9 @@
 [submodule "ka/at/yrk"]
 	path = ka/at/yrk
 	url = .
+[submodule "ka/bh/svl"]
+	path = ka/bh/svl
+	url = .
 [submodule "ka/bk/uhu"]
 	path = ka/bk/uhu
 	url = .
