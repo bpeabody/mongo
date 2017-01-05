@@ -35854,6 +35854,9 @@
 [submodule "qn/lg/lci"]
 	path = qn/lg/lci
 	url = .
+[submodule "qn/ny/ljn"]
+	path = qn/ny/ljn
+	url = .
 [submodule "qn/pc/sfm"]
 	path = qn/pc/sfm
 	url = .
