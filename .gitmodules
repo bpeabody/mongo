@@ -25699,6 +25699,9 @@
 [submodule "ko/gc/gzk"]
 	path = ko/gc/gzk
 	url = .
+[submodule "ko/gn/eeg"]
+	path = ko/gn/eeg
+	url = .
 [submodule "ko/gy/bkl"]
 	path = ko/gy/bkl
 	url = .
