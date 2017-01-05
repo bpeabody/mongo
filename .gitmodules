@@ -29716,6 +29716,9 @@
 [submodule "lu/va/obg"]
 	path = lu/va/obg
 	url = .
+[submodule "lu/vi/fsi"]
+	path = lu/vi/fsi
+	url = .
 [submodule "lu/vm/wky"]
 	path = lu/vm/wky
 	url = .
