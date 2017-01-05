@@ -115,6 +115,9 @@
 [submodule "bc/ew/mzq"]
 	path = bc/ew/mzq
 	url = .
+[submodule "bc/pg/ysc"]
+	path = bc/pg/ysc
+	url = .
 [submodule "bd/hp/dsx"]
 	path = bd/hp/dsx
 	url = .
