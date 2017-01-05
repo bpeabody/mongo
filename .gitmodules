@@ -2041,6 +2041,9 @@
 [submodule "ra/jf/cbq"]
 	path = ra/jf/cbq
 	url = .
+[submodule "ra/qt/aux"]
+	path = ra/qt/aux
+	url = .
 [submodule "ra/um/jno"]
 	path = ra/um/jno
 	url = .
