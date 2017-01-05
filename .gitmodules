@@ -5248,6 +5248,9 @@
 [submodule "jv/ub/tdf"]
 	path = jv/ub/tdf
 	url = .
+[submodule "jv/uq/irk"]
+	path = jv/uq/irk
+	url = .
 [submodule "jv/xz/mzn"]
 	path = jv/xz/mzn
 	url = .
