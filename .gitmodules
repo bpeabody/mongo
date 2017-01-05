@@ -1090,6 +1090,9 @@
 [submodule "fw/vz/wll"]
 	path = fw/vz/wll
 	url = .
+[submodule "fw/wo/hrs"]
+	path = fw/wo/hrs
+	url = .
 [submodule "fx/aw/oab"]
 	path = fx/aw/oab
 	url = .
