@@ -47806,6 +47806,9 @@
 [submodule "up/mw/jeg"]
 	path = up/mw/jeg
 	url = .
+[submodule "up/ns/zen"]
+	path = up/ns/zen
+	url = .
 [submodule "up/on/xmj"]
 	path = up/on/xmj
 	url = .
