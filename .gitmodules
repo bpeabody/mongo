@@ -10102,6 +10102,9 @@
 [submodule "eh/gg/dde"]
 	path = eh/gg/dde
 	url = .
+[submodule "eh/hd/hpa"]
+	path = eh/hd/hpa
+	url = .
 [submodule "eh/hj/cnl"]
 	path = eh/hj/cnl
 	url = .
