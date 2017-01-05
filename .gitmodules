@@ -157,6 +157,9 @@
 [submodule "bn/wf/mqn"]
 	path = bn/wf/mqn
 	url = .
+[submodule "bp/ku/fnv"]
+	path = bp/ku/fnv
+	url = .
 [submodule "bp/po/rhp"]
 	path = bp/po/rhp
 	url = .
