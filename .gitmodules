@@ -2404,6 +2404,9 @@
 [submodule "be/dv/vue"]
 	path = be/dv/vue
 	url = .
+[submodule "be/fi/woc"]
+	path = be/fi/woc
+	url = .
 [submodule "be/fv/vky"]
 	path = be/fv/vky
 	url = .
