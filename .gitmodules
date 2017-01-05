@@ -52132,6 +52132,9 @@
 [submodule "vj/lq/ygs"]
 	path = vj/lq/ygs
 	url = .
+[submodule "vj/mv/cvt"]
+	path = vj/mv/cvt
+	url = .
 [submodule "vj/ni/dbo"]
 	path = vj/ni/dbo
 	url = .
