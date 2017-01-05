@@ -8092,6 +8092,9 @@
 [submodule "mz/pv/xgq"]
 	path = mz/pv/xgq
 	url = .
+[submodule "mz/ti/elo"]
+	path = mz/ti/elo
+	url = .
 [submodule "mz/xb/tta"]
 	path = mz/xb/tta
 	url = .
