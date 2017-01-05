@@ -10900,6 +10900,9 @@
 [submodule "oy/ez/pkm"]
 	path = oy/ez/pkm
 	url = .
+[submodule "oy/rz/yio"]
+	path = oy/rz/yio
+	url = .
 [submodule "oy/xs/wvp"]
 	path = oy/xs/wvp
 	url = .
