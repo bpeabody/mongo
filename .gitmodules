@@ -19705,6 +19705,9 @@
 [submodule "nj/el/peb"]
 	path = nj/el/peb
 	url = .
+[submodule "nj/gf/sgd"]
+	path = nj/gf/sgd
+	url = .
 [submodule "nj/gv/hpv"]
 	path = nj/gv/hpv
 	url = .
