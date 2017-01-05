@@ -40039,6 +40039,9 @@
 [submodule "ts/gj/toa"]
 	path = ts/gj/toa
 	url = .
+[submodule "ts/gm/hrk"]
+	path = ts/gm/hrk
+	url = .
 [submodule "ts/ia/sso"]
 	path = ts/ia/sso
 	url = .
