@@ -163,6 +163,9 @@
 [submodule "ok/ce/akb"]
 	path = ok/ce/akb
 	url = .
+[submodule "om/qv/cyr"]
+	path = om/qv/cyr
+	url = .
 [submodule "ov/ct/cda"]
 	path = ov/ct/cda
 	url = .
