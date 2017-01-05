@@ -30097,6 +30097,9 @@
 [submodule "we/qk/loo"]
 	path = we/qk/loo
 	url = .
+[submodule "we/so/sht"]
+	path = we/so/sht
+	url = .
 [submodule "we/ss/hlq"]
 	path = we/ss/hlq
 	url = .
