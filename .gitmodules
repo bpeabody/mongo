@@ -22696,6 +22696,9 @@
 [submodule "nx/ld/hnf"]
 	path = nx/ld/hnf
 	url = .
+[submodule "nx/lq/omu"]
+	path = nx/lq/omu
+	url = .
 [submodule "nx/ls/qzh"]
 	path = nx/ls/qzh
 	url = .
