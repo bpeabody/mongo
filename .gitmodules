@@ -9112,6 +9112,9 @@
 [submodule "oy/ef/ukh"]
 	path = oy/ef/ukh
 	url = .
+[submodule "oy/ez/pkm"]
+	path = oy/ez/pkm
+	url = .
 [submodule "oy/xs/wvp"]
 	path = oy/xs/wvp
 	url = .
