@@ -29995,6 +29995,9 @@
 [submodule "ky/ty/ukc"]
 	path = ky/ty/ukc
 	url = .
+[submodule "ky/uc/laf"]
+	path = ky/uc/laf
+	url = .
 [submodule "ky/ut/vox"]
 	path = ky/ut/vox
 	url = .
