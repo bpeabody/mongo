@@ -2029,6 +2029,9 @@
 [submodule "gb/ac/ljd"]
 	path = gb/ac/ljd
 	url = .
+[submodule "gb/as/zkw"]
+	path = gb/as/zkw
+	url = .
 [submodule "gb/bn/zgq"]
 	path = gb/bn/zgq
 	url = .
