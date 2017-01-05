@@ -11887,6 +11887,9 @@
 [submodule "od/fm/prp"]
 	path = od/fm/prp
 	url = .
+[submodule "od/gd/txl"]
+	path = od/gd/txl
+	url = .
 [submodule "od/hg/qkf"]
 	path = od/hg/qkf
 	url = .
