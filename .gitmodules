@@ -1291,6 +1291,9 @@
 [submodule "vr/zr/mrj"]
 	path = vr/zr/mrj
 	url = .
+[submodule "vu/ba/jql"]
+	path = vu/ba/jql
+	url = .
 [submodule "vv/xk/bft"]
 	path = vv/xk/bft
 	url = .
