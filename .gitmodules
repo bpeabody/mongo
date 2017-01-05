@@ -121,6 +121,9 @@
 [submodule "ak/af/wwz"]
 	path = ak/af/wwz
 	url = .
+[submodule "ak/jf/oer"]
+	path = ak/jf/oer
+	url = .
 [submodule "ak/rj/zwu"]
 	path = ak/rj/zwu
 	url = .
