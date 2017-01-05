@@ -7807,6 +7807,9 @@
 [submodule "lk/sc/pqm"]
 	path = lk/sc/pqm
 	url = .
+[submodule "lk/sn/irn"]
+	path = lk/sn/irn
+	url = .
 [submodule "lk/tc/czj"]
 	path = lk/tc/czj
 	url = .
