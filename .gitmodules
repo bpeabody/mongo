@@ -19504,6 +19504,9 @@
 [submodule "sg/ud/aed"]
 	path = sg/ud/aed
 	url = .
+[submodule "sg/ut/dhr"]
+	path = sg/ut/dhr
+	url = .
 [submodule "sg/ux/kgs"]
 	path = sg/ux/kgs
 	url = .
