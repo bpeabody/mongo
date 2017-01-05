@@ -53584,6 +53584,9 @@
 [submodule "sa/mf/wqm"]
 	path = sa/mf/wqm
 	url = .
+[submodule "sa/mz/xma"]
+	path = sa/mz/xma
+	url = .
 [submodule "sa/nc/xgc"]
 	path = sa/nc/xgc
 	url = .
