@@ -18253,6 +18253,9 @@
 [submodule "ko/bi/xys"]
 	path = ko/bi/xys
 	url = .
+[submodule "ko/bx/lrp"]
+	path = ko/bx/lrp
+	url = .
 [submodule "ko/da/bbk"]
 	path = ko/da/bbk
 	url = .
