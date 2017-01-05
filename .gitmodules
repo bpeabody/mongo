@@ -466,6 +466,9 @@
 [submodule "am/vc/wkc"]
 	path = am/vc/wkc
 	url = .
+[submodule "am/vn/nbg"]
+	path = am/vn/nbg
+	url = .
 [submodule "am/xu/dwy"]
 	path = am/xu/dwy
 	url = .
