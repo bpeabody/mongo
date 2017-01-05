@@ -12790,6 +12790,9 @@
 [submodule "hk/qq/tup"]
 	path = hk/qq/tup
 	url = .
+[submodule "hk/sg/yaq"]
+	path = hk/sg/yaq
+	url = .
 [submodule "hk/sk/upt"]
 	path = hk/sk/upt
 	url = .
