@@ -11791,6 +11791,9 @@
 [submodule "sh/dh/dyt"]
 	path = sh/dh/dyt
 	url = .
+[submodule "sh/gb/xyr"]
+	path = sh/gb/xyr
+	url = .
 [submodule "sh/gu/agc"]
 	path = sh/gu/agc
 	url = .
