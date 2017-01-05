@@ -17380,6 +17380,9 @@
 [submodule "ii/bl/tdy"]
 	path = ii/bl/tdy
 	url = .
+[submodule "ii/bu/eld"]
+	path = ii/bu/eld
+	url = .
 [submodule "ii/bu/ppj"]
 	path = ii/bu/ppj
 	url = .
