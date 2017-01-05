@@ -1864,6 +1864,9 @@
 [submodule "eh/iu/vlw"]
 	path = eh/iu/vlw
 	url = .
+[submodule "eh/jo/qwo"]
+	path = eh/jo/qwo
+	url = .
 [submodule "eh/ur/hiv"]
 	path = eh/ur/hiv
 	url = .
