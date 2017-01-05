@@ -18067,6 +18067,9 @@
 [submodule "jb/uw/wcz"]
 	path = jb/uw/wcz
 	url = .
+[submodule "jb/vc/nkg"]
+	path = jb/vc/nkg
+	url = .
 [submodule "jb/wy/csi"]
 	path = jb/wy/csi
 	url = .
