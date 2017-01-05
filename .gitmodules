@@ -55603,6 +55603,9 @@
 [submodule "wz/du/hgg"]
 	path = wz/du/hgg
 	url = .
+[submodule "wz/du/mbg"]
+	path = wz/du/mbg
+	url = .
 [submodule "wz/et/neb"]
 	path = wz/et/neb
 	url = .
