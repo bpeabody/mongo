@@ -16441,6 +16441,9 @@
 [submodule "sd/eg/nnl"]
 	path = sd/eg/nnl
 	url = .
+[submodule "sd/gl/icz"]
+	path = sd/gl/icz
+	url = .
 [submodule "sd/gv/hkc"]
 	path = sd/gv/hkc
 	url = .
