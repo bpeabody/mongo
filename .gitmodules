@@ -62509,6 +62509,9 @@
 [submodule "xb/sw/fad"]
 	path = xb/sw/fad
 	url = .
+[submodule "xb/tc/qsa"]
+	path = xb/tc/qsa
+	url = .
 [submodule "xb/te/vre"]
 	path = xb/te/vre
 	url = .
