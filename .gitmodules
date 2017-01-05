@@ -3886,6 +3886,9 @@
 [submodule "jz/tk/ubm"]
 	path = jz/tk/ubm
 	url = .
+[submodule "jz/tn/rke"]
+	path = jz/tn/rke
+	url = .
 [submodule "jz/vf/ksx"]
 	path = jz/vf/ksx
 	url = .
