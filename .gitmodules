@@ -31732,6 +31732,9 @@
 [submodule "wd/hk/inr"]
 	path = wd/hk/inr
 	url = .
+[submodule "wd/jg/aiz"]
+	path = wd/jg/aiz
+	url = .
 [submodule "wd/jo/bmd"]
 	path = wd/jo/bmd
 	url = .
