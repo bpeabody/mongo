@@ -32200,6 +32200,9 @@
 [submodule "oh/xb/ewi"]
 	path = oh/xb/ewi
 	url = .
+[submodule "oh/zx/beo"]
+	path = oh/zx/beo
+	url = .
 [submodule "oi/az/gsb"]
 	path = oi/az/gsb
 	url = .
