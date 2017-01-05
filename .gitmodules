@@ -13174,6 +13174,9 @@
 [submodule "fi/pd/zfc"]
 	path = fi/pd/zfc
 	url = .
+[submodule "fi/pm/jua"]
+	path = fi/pm/jua
+	url = .
 [submodule "fi/rc/gox"]
 	path = fi/rc/gox
 	url = .
