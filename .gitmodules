@@ -463,6 +463,9 @@
 [submodule "ml/kw/rwl"]
 	path = ml/kw/rwl
 	url = .
+[submodule "mm/yv/fno"]
+	path = mm/yv/fno
+	url = .
 [submodule "mo/ei/xti"]
 	path = mo/ei/xti
 	url = .
