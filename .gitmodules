@@ -9994,6 +9994,9 @@
 [submodule "ef/nu/xaj"]
 	path = ef/nu/xaj
 	url = .
+[submodule "ef/pj/lto"]
+	path = ef/pj/lto
+	url = .
 [submodule "ef/qd/qvb"]
 	path = ef/qd/qvb
 	url = .
