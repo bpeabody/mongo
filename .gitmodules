@@ -8791,6 +8791,9 @@
 [submodule "fa/ye/alv"]
 	path = fa/ye/alv
 	url = .
+[submodule "fb/cj/ysd"]
+	path = fb/cj/ysd
+	url = .
 [submodule "fb/di/fqf"]
 	path = fb/di/fqf
 	url = .
