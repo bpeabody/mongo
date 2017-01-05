@@ -21415,6 +21415,9 @@
 [submodule "kl/ka/vzj"]
 	path = kl/ka/vzj
 	url = .
+[submodule "kl/ke/dep"]
+	path = kl/ke/dep
+	url = .
 [submodule "kl/nj/hve"]
 	path = kl/nj/hve
 	url = .
