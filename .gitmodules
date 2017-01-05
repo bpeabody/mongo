@@ -20866,6 +20866,9 @@
 [submodule "jn/mw/hvg"]
 	path = jn/mw/hvg
 	url = .
+[submodule "jn/mz/bmo"]
+	path = jn/mz/bmo
+	url = .
 [submodule "jn/om/svx"]
 	path = jn/om/svx
 	url = .
