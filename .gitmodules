@@ -8059,6 +8059,9 @@
 [submodule "en/yw/ozc"]
 	path = en/yw/ozc
 	url = .
+[submodule "eo/ao/rpy"]
+	path = eo/ao/rpy
+	url = .
 [submodule "eo/ay/xej"]
 	path = eo/ay/xej
 	url = .
