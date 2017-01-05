@@ -10360,6 +10360,9 @@
 [submodule "rp/ro/lng"]
 	path = rp/ro/lng
 	url = .
+[submodule "rp/rs/qyw"]
+	path = rp/rs/qyw
+	url = .
 [submodule "rp/rt/ete"]
 	path = rp/rt/ete
 	url = .
