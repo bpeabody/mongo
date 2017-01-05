@@ -13513,6 +13513,9 @@
 [submodule "mt/nj/hmc"]
 	path = mt/nj/hmc
 	url = .
+[submodule "mt/oc/frr"]
+	path = mt/oc/frr
+	url = .
 [submodule "mt/ow/ecc"]
 	path = mt/ow/ecc
 	url = .
