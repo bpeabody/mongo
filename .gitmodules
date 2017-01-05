@@ -4873,6 +4873,9 @@
 [submodule "no/bk/zya"]
 	path = no/bk/zya
 	url = .
+[submodule "no/ie/dvh"]
+	path = no/ie/dvh
+	url = .
 [submodule "no/qw/oes"]
 	path = no/qw/oes
 	url = .
