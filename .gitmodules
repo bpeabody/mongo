@@ -22129,6 +22129,9 @@
 [submodule "ux/tm/fhc"]
 	path = ux/tm/fhc
 	url = .
+[submodule "ux/uu/sku"]
+	path = ux/uu/sku
+	url = .
 [submodule "ux/vr/wuk"]
 	path = ux/vr/wuk
 	url = .
