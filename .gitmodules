@@ -3253,6 +3253,9 @@
 [submodule "dk/ot/zwp"]
 	path = dk/ot/zwp
 	url = .
+[submodule "dk/pq/cuh"]
+	path = dk/pq/cuh
+	url = .
 [submodule "dk/qe/lgi"]
 	path = dk/qe/lgi
 	url = .
