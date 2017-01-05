@@ -7696,6 +7696,9 @@
 [submodule "pj/qn/agm"]
 	path = pj/qn/agm
 	url = .
+[submodule "pj/vt/hnu"]
+	path = pj/vt/hnu
+	url = .
 [submodule "pk/qa/udr"]
 	path = pk/qa/udr
 	url = .
