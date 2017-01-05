@@ -11206,6 +11206,9 @@
 [submodule "sl/pm/fik"]
 	path = sl/pm/fik
 	url = .
+[submodule "sl/pq/vzi"]
+	path = sl/pq/vzi
+	url = .
 [submodule "sl/yz/gas"]
 	path = sl/yz/gas
 	url = .
