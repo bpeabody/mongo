@@ -16240,6 +16240,9 @@
 [submodule "xy/ug/mhq"]
 	path = xy/ug/mhq
 	url = .
+[submodule "xy/xk/voc"]
+	path = xy/xk/voc
+	url = .
 [submodule "xy/xv/tcg"]
 	path = xy/xv/tcg
 	url = .
