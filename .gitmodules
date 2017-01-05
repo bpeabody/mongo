@@ -4522,6 +4522,9 @@
 [submodule "gd/ek/rem"]
 	path = gd/ek/rem
 	url = .
+[submodule "gd/kz/yne"]
+	path = gd/kz/yne
+	url = .
 [submodule "gd/te/aon"]
 	path = gd/te/aon
 	url = .
