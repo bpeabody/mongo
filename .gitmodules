@@ -20020,6 +20020,9 @@
 [submodule "hy/se/nlt"]
 	path = hy/se/nlt
 	url = .
+[submodule "hy/sl/ntp"]
+	path = hy/sl/ntp
+	url = .
 [submodule "hy/sz/fsm"]
 	path = hy/sz/fsm
 	url = .
