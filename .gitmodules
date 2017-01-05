@@ -48256,6 +48256,9 @@
 [submodule "zd/eq/qlu"]
 	path = zd/eq/qlu
 	url = .
+[submodule "zd/fx/bgm"]
+	path = zd/fx/bgm
+	url = .
 [submodule "zd/gd/nhc"]
 	path = zd/gd/nhc
 	url = .
