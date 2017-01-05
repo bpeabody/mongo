@@ -3895,6 +3895,9 @@
 [submodule "bn/br/ujz"]
 	path = bn/br/ujz
 	url = .
+[submodule "bn/ci/lmn"]
+	path = bn/ci/lmn
+	url = .
 [submodule "bn/eu/rsb"]
 	path = bn/eu/rsb
 	url = .
