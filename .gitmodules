@@ -982,6 +982,9 @@
 [submodule "ib/ep/owd"]
 	path = ib/ep/owd
 	url = .
+[submodule "ib/hc/whx"]
+	path = ib/hc/whx
+	url = .
 [submodule "ic/jg/yci"]
 	path = ic/jg/yci
 	url = .
