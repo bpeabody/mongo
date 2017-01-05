@@ -28723,6 +28723,9 @@
 [submodule "ng/wz/pzc"]
 	path = ng/wz/pzc
 	url = .
+[submodule "ng/xg/yin"]
+	path = ng/xg/yin
+	url = .
 [submodule "ng/xr/ifr"]
 	path = ng/xr/ifr
 	url = .
