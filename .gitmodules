@@ -15490,6 +15490,9 @@
 [submodule "kf/qn/cvx"]
 	path = kf/qn/cvx
 	url = .
+[submodule "kf/qz/vqu"]
+	path = kf/qz/vqu
+	url = .
 [submodule "kf/ry/eqq"]
 	path = kf/ry/eqq
 	url = .
