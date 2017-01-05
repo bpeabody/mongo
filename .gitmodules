@@ -1324,6 +1324,9 @@
 [submodule "tn/ku/lqh"]
 	path = tn/ku/lqh
 	url = .
+[submodule "tp/ew/hok"]
+	path = tp/ew/hok
+	url = .
 [submodule "tq/em/foy"]
 	path = tq/em/foy
 	url = .
