@@ -6880,6 +6880,9 @@
 [submodule "ch/wq/cjh"]
 	path = ch/wq/cjh
 	url = .
+[submodule "ch/wz/mzz"]
+	path = ch/wz/mzz
+	url = .
 [submodule "ch/xq/yvg"]
 	path = ch/xq/yvg
 	url = .
