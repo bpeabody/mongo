@@ -15529,6 +15529,9 @@
 [submodule "fq/fo/wns"]
 	path = fq/fo/wns
 	url = .
+[submodule "fq/fq/cvg"]
+	path = fq/fq/cvg
+	url = .
 [submodule "fq/fz/bbx"]
 	path = fq/fz/bbx
 	url = .
