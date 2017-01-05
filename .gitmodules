@@ -259,6 +259,9 @@
 [submodule "ai/ir/zjr"]
 	path = ai/ir/zjr
 	url = .
+[submodule "ai/it/jso"]
+	path = ai/it/jso
+	url = .
 [submodule "ai/kf/vjj"]
 	path = ai/kf/vjj
 	url = .
