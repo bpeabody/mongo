@@ -1183,6 +1183,9 @@
 [submodule "kd/mq/wbd"]
 	path = kd/mq/wbd
 	url = .
+[submodule "kg/oa/eur"]
+	path = kg/oa/eur
+	url = .
 [submodule "kg/og/owe"]
 	path = kg/og/owe
 	url = .
