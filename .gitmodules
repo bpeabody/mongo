@@ -7120,6 +7120,9 @@
 [submodule "eh/gg/dde"]
 	path = eh/gg/dde
 	url = .
+[submodule "eh/hj/cnl"]
+	path = eh/hj/cnl
+	url = .
 [submodule "eh/iq/xkk"]
 	path = eh/iq/xkk
 	url = .
