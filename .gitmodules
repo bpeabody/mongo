@@ -14647,6 +14647,9 @@
 [submodule "ms/ed/kdk"]
 	path = ms/ed/kdk
 	url = .
+[submodule "ms/eu/rnm"]
+	path = ms/eu/rnm
+	url = .
 [submodule "ms/fr/ayn"]
 	path = ms/fr/ayn
 	url = .
