@@ -35245,6 +35245,9 @@
 [submodule "vk/hi/npd"]
 	path = vk/hi/npd
 	url = .
+[submodule "vk/jb/dvu"]
+	path = vk/jb/dvu
+	url = .
 [submodule "vk/kw/kpb"]
 	path = vk/kw/kpb
 	url = .
