@@ -14062,6 +14062,9 @@
 [submodule "mn/dg/xwk"]
 	path = mn/dg/xwk
 	url = .
+[submodule "mn/dy/tkl"]
+	path = mn/dy/tkl
+	url = .
 [submodule "mn/eo/crq"]
 	path = mn/eo/crq
 	url = .
