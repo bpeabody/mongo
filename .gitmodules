@@ -766,6 +766,9 @@
 [submodule "an/cr/fax"]
 	path = an/cr/fax
 	url = .
+[submodule "an/dd/vrz"]
+	path = an/dd/vrz
+	url = .
 [submodule "an/dj/evc"]
 	path = an/dj/evc
 	url = .
