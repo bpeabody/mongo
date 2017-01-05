@@ -3010,6 +3010,9 @@
 [submodule "pc/yc/ycq"]
 	path = pc/yc/ycq
 	url = .
+[submodule "pd/cl/xgk"]
+	path = pd/cl/xgk
+	url = .
 [submodule "pd/ds/acp"]
 	path = pd/ds/acp
 	url = .
