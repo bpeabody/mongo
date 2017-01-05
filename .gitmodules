@@ -40984,6 +40984,9 @@
 [submodule "ui/ec/lvf"]
 	path = ui/ec/lvf
 	url = .
+[submodule "ui/ef/yfk"]
+	path = ui/ef/yfk
+	url = .
 [submodule "ui/gu/sot"]
 	path = ui/gu/sot
 	url = .
