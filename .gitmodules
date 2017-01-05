@@ -23338,6 +23338,9 @@
 [submodule "jy/lt/wkr"]
 	path = jy/lt/wkr
 	url = .
+[submodule "jy/nb/nug"]
+	path = jy/nb/nug
+	url = .
 [submodule "jy/nh/tzc"]
 	path = jy/nh/tzc
 	url = .
