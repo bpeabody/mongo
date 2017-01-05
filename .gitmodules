@@ -6175,6 +6175,9 @@
 [submodule "cl/le/qhr"]
 	path = cl/le/qhr
 	url = .
+[submodule "cl/lr/tmj"]
+	path = cl/lr/tmj
+	url = .
 [submodule "cl/pc/ilx"]
 	path = cl/pc/ilx
 	url = .
