@@ -10615,6 +10615,9 @@
 [submodule "do/mb/jkr"]
 	path = do/mb/jkr
 	url = .
+[submodule "do/mh/rpg"]
+	path = do/mh/rpg
+	url = .
 [submodule "do/oc/nmy"]
 	path = do/oc/nmy
 	url = .
