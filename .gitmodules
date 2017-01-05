@@ -17173,6 +17173,9 @@
 [submodule "lx/ik/sio"]
 	path = lx/ik/sio
 	url = .
+[submodule "lx/kb/wrf"]
+	path = lx/kb/wrf
+	url = .
 [submodule "lx/mj/hod"]
 	path = lx/mj/hod
 	url = .
