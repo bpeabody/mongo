@@ -70,6 +70,9 @@
 [submodule "cr/me/kja"]
 	path = cr/me/kja
 	url = .
+[submodule "cx/rr/dky"]
+	path = cx/rr/dky
+	url = .
 [submodule "cy/ev/krb"]
 	path = cy/ev/krb
 	url = .
