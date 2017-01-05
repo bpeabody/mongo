@@ -18670,6 +18670,9 @@
 [submodule "he/sp/goo"]
 	path = he/sp/goo
 	url = .
+[submodule "he/tp/dgn"]
+	path = he/tp/dgn
+	url = .
 [submodule "he/tu/zih"]
 	path = he/tu/zih
 	url = .
