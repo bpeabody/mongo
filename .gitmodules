@@ -310,6 +310,9 @@
 [submodule "as/ps/ecd"]
 	path = as/ps/ecd
 	url = .
+[submodule "as/qj/gmi"]
+	path = as/qj/gmi
+	url = .
 [submodule "as/rp/svt"]
 	path = as/rp/svt
 	url = .
