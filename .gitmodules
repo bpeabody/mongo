@@ -9925,6 +9925,9 @@
 [submodule "df/ro/sxi"]
 	path = df/ro/sxi
 	url = .
+[submodule "df/ry/ezj"]
+	path = df/ry/ezj
+	url = .
 [submodule "df/ss/jez"]
 	path = df/ss/jez
 	url = .
