@@ -16705,6 +16705,9 @@
 [submodule "pk/mo/zkf"]
 	path = pk/mo/zkf
 	url = .
+[submodule "pk/pa/eou"]
+	path = pk/pa/eou
+	url = .
 [submodule "pk/qa/udr"]
 	path = pk/qa/udr
 	url = .
