@@ -27160,6 +27160,9 @@
 [submodule "lj/rr/vng"]
 	path = lj/rr/vng
 	url = .
+[submodule "lj/vp/djv"]
+	path = lj/vp/djv
+	url = .
 [submodule "lj/xg/yho"]
 	path = lj/xg/yho
 	url = .
