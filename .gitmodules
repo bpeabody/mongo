@@ -118,6 +118,9 @@
 [submodule "ag/il/ynt"]
 	path = ag/il/ynt
 	url = .
+[submodule "ag/sk/xef"]
+	path = ag/sk/xef
+	url = .
 [submodule "ag/tm/tbh"]
 	path = ag/tm/tbh
 	url = .
