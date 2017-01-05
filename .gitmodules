@@ -1951,6 +1951,9 @@
 [submodule "pm/lh/gar"]
 	path = pm/lh/gar
 	url = .
+[submodule "pn/oz/izu"]
+	path = pn/oz/izu
+	url = .
 [submodule "pp/hu/cof"]
 	path = pp/hu/cof
 	url = .
