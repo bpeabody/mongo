@@ -6043,6 +6043,9 @@
 [submodule "ko/zm/rjh"]
 	path = ko/zm/rjh
 	url = .
+[submodule "kp/au/rot"]
+	path = kp/au/rot
+	url = .
 [submodule "kp/jm/zzy"]
 	path = kp/jm/zzy
 	url = .
