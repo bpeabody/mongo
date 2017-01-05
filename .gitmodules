@@ -27349,6 +27349,9 @@
 [submodule "pl/qx/rnn"]
 	path = pl/qx/rnn
 	url = .
+[submodule "pl/sz/oyo"]
+	path = pl/sz/oyo
+	url = .
 [submodule "pl/td/akd"]
 	path = pl/td/akd
 	url = .
