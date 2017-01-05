@@ -3676,6 +3676,9 @@
 [submodule "dk/uv/oba"]
 	path = dk/uv/oba
 	url = .
+[submodule "dk/vl/gtx"]
+	path = dk/vl/gtx
+	url = .
 [submodule "dk/vt/jmd"]
 	path = dk/vt/jmd
 	url = .
