@@ -15511,6 +15511,9 @@
 [submodule "li/hq/ipv"]
 	path = li/hq/ipv
 	url = .
+[submodule "li/hz/egp"]
+	path = li/hz/egp
+	url = .
 [submodule "li/kt/xeu"]
 	path = li/kt/xeu
 	url = .
