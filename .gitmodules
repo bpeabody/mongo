@@ -2038,6 +2038,9 @@
 [submodule "ar/ef/hwn"]
 	path = ar/ef/hwn
 	url = .
+[submodule "ar/el/sjj"]
+	path = ar/el/sjj
+	url = .
 [submodule "ar/gx/soj"]
 	path = ar/gx/soj
 	url = .
