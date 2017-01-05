@@ -5110,6 +5110,9 @@
 [submodule "ny/fl/mrb"]
 	path = ny/fl/mrb
 	url = .
+[submodule "ny/fn/std"]
+	path = ny/fn/std
+	url = .
 [submodule "ny/kw/bwi"]
 	path = ny/kw/bwi
 	url = .
