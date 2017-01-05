@@ -24982,6 +24982,9 @@
 [submodule "pi/dx/qlr"]
 	path = pi/dx/qlr
 	url = .
+[submodule "pi/fk/qgo"]
+	path = pi/fk/qgo
+	url = .
 [submodule "pi/he/pxw"]
 	path = pi/he/pxw
 	url = .
