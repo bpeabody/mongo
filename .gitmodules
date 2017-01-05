@@ -54787,6 +54787,9 @@
 [submodule "ta/qk/bdf"]
 	path = ta/qk/bdf
 	url = .
+[submodule "ta/ql/fqy"]
+	path = ta/ql/fqy
+	url = .
 [submodule "ta/rk/xbb"]
 	path = ta/rk/xbb
 	url = .
