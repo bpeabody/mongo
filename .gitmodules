@@ -27058,6 +27058,9 @@
 [submodule "sm/vg/tep"]
 	path = sm/vg/tep
 	url = .
+[submodule "sm/vi/jnz"]
+	path = sm/vi/jnz
+	url = .
 [submodule "sm/wq/zjj"]
 	path = sm/wq/zjj
 	url = .
