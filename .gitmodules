@@ -54496,6 +54496,9 @@
 [submodule "vy/lr/dpn"]
 	path = vy/lr/dpn
 	url = .
+[submodule "vy/ma/ozw"]
+	path = vy/ma/ozw
+	url = .
 [submodule "vy/mh/geq"]
 	path = vy/mh/geq
 	url = .
