@@ -40897,6 +40897,9 @@
 [submodule "si/so/xjn"]
 	path = si/so/xjn
 	url = .
+[submodule "si/tc/uty"]
+	path = si/tc/uty
+	url = .
 [submodule "si/uz/elt"]
 	path = si/uz/elt
 	url = .
