@@ -7330,6 +7330,9 @@
 [submodule "kh/pb/pjm"]
 	path = kh/pb/pjm
 	url = .
+[submodule "kh/pt/ioh"]
+	path = kh/pt/ioh
+	url = .
 [submodule "kh/rd/zme"]
 	path = kh/rd/zme
 	url = .
