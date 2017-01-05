@@ -25762,6 +25762,9 @@
 [submodule "oa/dv/yri"]
 	path = oa/dv/yri
 	url = .
+[submodule "oa/fj/ugy"]
+	path = oa/fj/ugy
+	url = .
 [submodule "oa/fu/wwz"]
 	path = oa/fu/wwz
 	url = .
