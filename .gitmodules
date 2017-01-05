@@ -10030,6 +10030,9 @@
 [submodule "ot/xi/fbx"]
 	path = ot/xi/fbx
 	url = .
+[submodule "ot/xr/fuk"]
+	path = ot/xr/fuk
+	url = .
 [submodule "ot/yd/gdj"]
 	path = ot/yd/gdj
 	url = .
