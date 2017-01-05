@@ -46582,6 +46582,9 @@
 [submodule "qx/fs/ita"]
 	path = qx/fs/ita
 	url = .
+[submodule "qx/gc/dvy"]
+	path = qx/gc/dvy
+	url = .
 [submodule "qx/gv/wmh"]
 	path = qx/gv/wmh
 	url = .
