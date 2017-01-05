@@ -15028,6 +15028,9 @@
 [submodule "kt/ot/awf"]
 	path = kt/ot/awf
 	url = .
+[submodule "kt/pv/gck"]
+	path = kt/pv/gck
+	url = .
 [submodule "kt/sx/ehs"]
 	path = kt/sx/ehs
 	url = .
