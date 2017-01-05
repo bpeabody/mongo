@@ -12244,6 +12244,9 @@
 [submodule "td/pu/rhz"]
 	path = td/pu/rhz
 	url = .
+[submodule "td/sy/xcz"]
+	path = td/sy/xcz
+	url = .
 [submodule "td/tt/eig"]
 	path = td/tt/eig
 	url = .
