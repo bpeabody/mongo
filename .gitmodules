@@ -625,6 +625,9 @@
 [submodule "bm/hb/vor"]
 	path = bm/hb/vor
 	url = .
+[submodule "bm/vd/mxy"]
+	path = bm/vd/mxy
+	url = .
 [submodule "bm/wm/znx"]
 	path = bm/wm/znx
 	url = .
