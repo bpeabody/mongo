@@ -36643,6 +36643,9 @@
 [submodule "yv/zb/zcg"]
 	path = yv/zb/zcg
 	url = .
+[submodule "yv/zi/eek"]
+	path = yv/zi/eek
+	url = .
 [submodule "yw/cb/vpn"]
 	path = yw/cb/vpn
 	url = .
