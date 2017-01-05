@@ -3874,6 +3874,9 @@
 [submodule "il/ob/uta"]
 	path = il/ob/uta
 	url = .
+[submodule "il/st/gzi"]
+	path = il/st/gzi
+	url = .
 [submodule "im/cb/hrk"]
 	path = im/cb/hrk
 	url = .
