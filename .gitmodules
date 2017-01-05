@@ -41647,6 +41647,9 @@
 [submodule "qm/bk/wxf"]
 	path = qm/bk/wxf
 	url = .
+[submodule "qm/bp/att"]
+	path = qm/bp/att
+	url = .
 [submodule "qm/cc/mfm"]
 	path = qm/cc/mfm
 	url = .
