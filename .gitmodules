@@ -3892,6 +3892,9 @@
 [submodule "fs/vh/xqg"]
 	path = fs/vh/xqg
 	url = .
+[submodule "fs/wc/aoi"]
+	path = fs/wc/aoi
+	url = .
 [submodule "fs/yz/zve"]
 	path = fs/yz/zve
 	url = .
