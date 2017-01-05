@@ -24295,6 +24295,9 @@
 [submodule "wt/rn/xel"]
 	path = wt/rn/xel
 	url = .
+[submodule "wt/vs/uec"]
+	path = wt/vs/uec
+	url = .
 [submodule "wt/zi/jpq"]
 	path = wt/zi/jpq
 	url = .
