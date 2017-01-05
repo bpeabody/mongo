@@ -14503,6 +14503,9 @@
 [submodule "tz/cc/juy"]
 	path = tz/cc/juy
 	url = .
+[submodule "tz/fq/ihv"]
+	path = tz/fq/ihv
+	url = .
 [submodule "tz/fw/biu"]
 	path = tz/fw/biu
 	url = .
