@@ -4177,6 +4177,9 @@
 [submodule "bu/no/voo"]
 	path = bu/no/voo
 	url = .
+[submodule "bu/oc/qaz"]
+	path = bu/oc/qaz
+	url = .
 [submodule "bu/pc/tpi"]
 	path = bu/pc/tpi
 	url = .
