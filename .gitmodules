@@ -13255,6 +13255,9 @@
 [submodule "et/jd/edv"]
 	path = et/jd/edv
 	url = .
+[submodule "et/jh/wpu"]
+	path = et/jh/wpu
+	url = .
 [submodule "et/la/shi"]
 	path = et/la/shi
 	url = .
