@@ -481,6 +481,9 @@
 [submodule "la/hm/zbs"]
 	path = la/hm/zbs
 	url = .
+[submodule "la/kd/nbw"]
+	path = la/kd/nbw
+	url = .
 [submodule "lb/bx/eqm"]
 	path = lb/bx/eqm
 	url = .
