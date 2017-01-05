@@ -4012,6 +4012,9 @@
 [submodule "ev/ce/cys"]
 	path = ev/ce/cys
 	url = .
+[submodule "ev/ce/ecp"]
+	path = ev/ce/ecp
+	url = .
 [submodule "ev/co/nst"]
 	path = ev/co/nst
 	url = .
