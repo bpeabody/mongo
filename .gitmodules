@@ -48184,6 +48184,9 @@
 [submodule "vc/gt/gqo"]
 	path = vc/gt/gqo
 	url = .
+[submodule "vc/gu/obv"]
+	path = vc/gu/obv
+	url = .
 [submodule "vc/hk/tvj"]
 	path = vc/hk/tvj
 	url = .
