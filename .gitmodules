@@ -4951,6 +4951,9 @@
 [submodule "es/cy/txn"]
 	path = es/cy/txn
 	url = .
+[submodule "es/fn/rim"]
+	path = es/fn/rim
+	url = .
 [submodule "es/ge/vcv"]
 	path = es/ge/vcv
 	url = .
