@@ -8335,6 +8335,9 @@
 [submodule "lh/rm/hmk"]
 	path = lh/rm/hmk
 	url = .
+[submodule "lh/ts/mel"]
+	path = lh/ts/mel
+	url = .
 [submodule "lh/zm/jvb"]
 	path = lh/zm/jvb
 	url = .
