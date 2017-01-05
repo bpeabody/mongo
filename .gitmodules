@@ -30829,6 +30829,9 @@
 [submodule "qk/ax/lrx"]
 	path = qk/ax/lrx
 	url = .
+[submodule "qk/bv/yos"]
+	path = qk/bv/yos
+	url = .
 [submodule "qk/dc/ywi"]
 	path = qk/dc/ywi
 	url = .
