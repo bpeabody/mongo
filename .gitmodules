@@ -9814,6 +9814,9 @@
 [submodule "fx/nv/pni"]
 	path = fx/nv/pni
 	url = .
+[submodule "fx/ow/nnf"]
+	path = fx/ow/nnf
+	url = .
 [submodule "fx/rk/mhw"]
 	path = fx/rk/mhw
 	url = .
