@@ -16459,6 +16459,9 @@
 [submodule "he/wg/sdm"]
 	path = he/wg/sdm
 	url = .
+[submodule "he/xb/cgk"]
+	path = he/xb/cgk
+	url = .
 [submodule "he/ya/jnj"]
 	path = he/ya/jnj
 	url = .
