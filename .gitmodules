@@ -71104,6 +71104,9 @@
 [submodule "yu/js/yaf"]
 	path = yu/js/yaf
 	url = .
+[submodule "yu/kd/glv"]
+	path = yu/kd/glv
+	url = .
 [submodule "yu/kg/wwm"]
 	path = yu/kg/wwm
 	url = .
