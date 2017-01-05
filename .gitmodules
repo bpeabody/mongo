@@ -1570,6 +1570,9 @@
 [submodule "km/lm/tjm"]
 	path = km/lm/tjm
 	url = .
+[submodule "km/wz/jli"]
+	path = km/wz/jli
+	url = .
 [submodule "km/xt/ozv"]
 	path = km/xt/ozv
 	url = .
