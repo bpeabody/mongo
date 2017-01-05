@@ -22279,6 +22279,9 @@
 [submodule "jo/zu/ilb"]
 	path = jo/zu/ilb
 	url = .
+[submodule "jo/zu/kkd"]
+	path = jo/zu/kkd
+	url = .
 [submodule "jp/av/uzf"]
 	path = jp/av/uzf
 	url = .
