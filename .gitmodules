@@ -21766,6 +21766,9 @@
 [submodule "li/fp/ycc"]
 	path = li/fp/ycc
 	url = .
+[submodule "li/fu/ilo"]
+	path = li/fu/ilo
+	url = .
 [submodule "li/gb/mou"]
 	path = li/gb/mou
 	url = .
