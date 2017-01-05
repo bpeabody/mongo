@@ -409,6 +409,9 @@
 [submodule "bl/tx/toa"]
 	path = bl/tx/toa
 	url = .
+[submodule "bm/go/vbn"]
+	path = bm/go/vbn
+	url = .
 [submodule "bm/hb/vor"]
 	path = bm/hb/vor
 	url = .
