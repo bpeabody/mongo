@@ -4753,6 +4753,9 @@
 [submodule "ck/uo/kbl"]
 	path = ck/uo/kbl
 	url = .
+[submodule "ck/uo/wic"]
+	path = ck/uo/wic
+	url = .
 [submodule "ck/uz/ibn"]
 	path = ck/uz/ibn
 	url = .
