@@ -11428,6 +11428,9 @@
 [submodule "hi/mq/agl"]
 	path = hi/mq/agl
 	url = .
+[submodule "hi/mz/ccf"]
+	path = hi/mz/ccf
+	url = .
 [submodule "hi/nk/dht"]
 	path = hi/nk/dht
 	url = .
