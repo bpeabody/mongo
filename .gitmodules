@@ -7444,6 +7444,9 @@
 [submodule "ye/ib/wmo"]
 	path = ye/ib/wmo
 	url = .
+[submodule "ye/wb/cob"]
+	path = ye/wb/cob
+	url = .
 [submodule "ye/yg/mwo"]
 	path = ye/yg/mwo
 	url = .
