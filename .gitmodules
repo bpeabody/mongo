@@ -34291,6 +34291,9 @@
 [submodule "md/jq/iqp"]
 	path = md/jq/iqp
 	url = .
+[submodule "md/kq/gas"]
+	path = md/kq/gas
+	url = .
 [submodule "md/li/cem"]
 	path = md/li/cem
 	url = .
