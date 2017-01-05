@@ -2074,6 +2074,9 @@
 [submodule "cf/dr/phu"]
 	path = cf/dr/phu
 	url = .
+[submodule "cf/eb/lsy"]
+	path = cf/eb/lsy
+	url = .
 [submodule "cf/fl/xqd"]
 	path = cf/fl/xqd
 	url = .
