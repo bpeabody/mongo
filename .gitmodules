@@ -1435,6 +1435,9 @@
 [submodule "lh/jz/qip"]
 	path = lh/jz/qip
 	url = .
+[submodule "lh/zm/jvb"]
+	path = lh/zm/jvb
+	url = .
 [submodule "li/cd/lfw"]
 	path = li/cd/lfw
 	url = .
