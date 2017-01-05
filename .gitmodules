@@ -841,6 +841,9 @@
 [submodule "ap/ov/ebi"]
 	path = ap/ov/ebi
 	url = .
+[submodule "ap/sw/uze"]
+	path = ap/sw/uze
+	url = .
 [submodule "ap/ua/qtm"]
 	path = ap/ua/qtm
 	url = .
