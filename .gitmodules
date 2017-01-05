@@ -17023,6 +17023,9 @@
 [submodule "ge/xa/mbf"]
 	path = ge/xa/mbf
 	url = .
+[submodule "ge/xm/fxc"]
+	path = ge/xm/fxc
+	url = .
 [submodule "ge/xv/gvm"]
 	path = ge/xv/gvm
 	url = .
