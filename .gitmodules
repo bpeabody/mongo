@@ -27259,6 +27259,9 @@
 [submodule "kp/uq/ksl"]
 	path = kp/uq/ksl
 	url = .
+[submodule "kp/ze/hmo"]
+	path = kp/ze/hmo
+	url = .
 [submodule "kq/at/equ"]
 	path = kq/at/equ
 	url = .
