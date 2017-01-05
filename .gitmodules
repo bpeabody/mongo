@@ -58906,6 +58906,9 @@
 [submodule "wi/ur/veg"]
 	path = wi/ur/veg
 	url = .
+[submodule "wi/vo/pve"]
+	path = wi/vo/pve
+	url = .
 [submodule "wi/vq/gha"]
 	path = wi/vq/gha
 	url = .
