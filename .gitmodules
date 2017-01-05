@@ -24277,6 +24277,9 @@
 [submodule "or/ob/yia"]
 	path = or/ob/yia
 	url = .
+[submodule "or/of/ydc"]
+	path = or/of/ydc
+	url = .
 [submodule "or/ou/kcu"]
 	path = or/ou/kcu
 	url = .
