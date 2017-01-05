@@ -7006,6 +7006,9 @@
 [submodule "mm/bw/hot"]
 	path = mm/bw/hot
 	url = .
+[submodule "mm/gi/ggc"]
+	path = mm/gi/ggc
+	url = .
 [submodule "mm/hd/rkl"]
 	path = mm/hd/rkl
 	url = .
