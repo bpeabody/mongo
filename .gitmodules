@@ -26500,6 +26500,9 @@
 [submodule "it/by/xos"]
 	path = it/by/xos
 	url = .
+[submodule "it/cj/vmk"]
+	path = it/cj/vmk
+	url = .
 [submodule "it/cr/ytx"]
 	path = it/cr/ytx
 	url = .
