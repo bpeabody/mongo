@@ -42640,6 +42640,9 @@
 [submodule "ps/nz/xrf"]
 	path = ps/nz/xrf
 	url = .
+[submodule "ps/ov/exq"]
+	path = ps/ov/exq
+	url = .
 [submodule "ps/pb/chz"]
 	path = ps/pb/chz
 	url = .
