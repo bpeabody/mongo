@@ -2038,6 +2038,9 @@
 [submodule "ax/po/fqx"]
 	path = ax/po/fqx
 	url = .
+[submodule "ax/qg/doy"]
+	path = ax/qg/doy
+	url = .
 [submodule "ax/rb/iad"]
 	path = ax/rb/iad
 	url = .
