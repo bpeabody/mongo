@@ -27925,6 +27925,9 @@
 [submodule "za/rg/nfn"]
 	path = za/rg/nfn
 	url = .
+[submodule "za/sg/nqn"]
+	path = za/sg/nqn
+	url = .
 [submodule "za/sz/dqb"]
 	path = za/sz/dqb
 	url = .
