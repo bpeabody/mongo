@@ -41239,6 +41239,9 @@
 [submodule "pk/uz/gob"]
 	path = pk/uz/gob
 	url = .
+[submodule "pk/vf/zmn"]
+	path = pk/vf/zmn
+	url = .
 [submodule "pk/vk/vmi"]
 	path = pk/vk/vmi
 	url = .
