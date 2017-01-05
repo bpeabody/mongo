@@ -38752,6 +38752,9 @@
 [submodule "wc/yj/txl"]
 	path = wc/yj/txl
 	url = .
+[submodule "wd/as/avl"]
+	path = wd/as/avl
+	url = .
 [submodule "wd/ed/gft"]
 	path = wd/ed/gft
 	url = .
