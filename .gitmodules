@@ -26452,6 +26452,9 @@
 [submodule "kd/iz/jtp"]
 	path = kd/iz/jtp
 	url = .
+[submodule "kd/jk/jvt"]
+	path = kd/jk/jvt
+	url = .
 [submodule "kd/kr/tov"]
 	path = kd/kr/tov
 	url = .
