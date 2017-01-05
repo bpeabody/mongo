@@ -23266,6 +23266,9 @@
 [submodule "ra/gw/pft"]
 	path = ra/gw/pft
 	url = .
+[submodule "ra/hl/ryd"]
+	path = ra/hl/ryd
+	url = .
 [submodule "ra/hz/cxg"]
 	path = ra/hz/cxg
 	url = .
