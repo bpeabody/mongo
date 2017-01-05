@@ -17980,6 +17980,9 @@
 [submodule "mw/ie/tqn"]
 	path = mw/ie/tqn
 	url = .
+[submodule "mw/lf/ahb"]
+	path = mw/lf/ahb
+	url = .
 [submodule "mw/mf/lag"]
 	path = mw/mf/lag
 	url = .
