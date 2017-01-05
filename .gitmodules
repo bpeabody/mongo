@@ -2992,6 +2992,9 @@
 [submodule "dv/ht/zzj"]
 	path = dv/ht/zzj
 	url = .
+[submodule "dv/ng/jsc"]
+	path = dv/ng/jsc
+	url = .
 [submodule "dv/wz/xxu"]
 	path = dv/wz/xxu
 	url = .
