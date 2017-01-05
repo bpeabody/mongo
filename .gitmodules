@@ -12976,6 +12976,9 @@
 [submodule "hw/xk/obv"]
 	path = hw/xk/obv
 	url = .
+[submodule "hw/yi/cej"]
+	path = hw/yi/cej
+	url = .
 [submodule "hx/bg/aah"]
 	path = hx/bg/aah
 	url = .
