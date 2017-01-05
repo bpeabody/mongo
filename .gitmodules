@@ -1609,6 +1609,9 @@
 [submodule "cm/wq/rdy"]
 	path = cm/wq/rdy
 	url = .
+[submodule "cn/dv/yld"]
+	path = cn/dv/yld
+	url = .
 [submodule "cn/ee/jzo"]
 	path = cn/ee/jzo
 	url = .
