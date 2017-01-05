@@ -45223,6 +45223,9 @@
 [submodule "xd/ko/sgx"]
 	path = xd/ko/sgx
 	url = .
+[submodule "xd/mn/okm"]
+	path = xd/mn/okm
+	url = .
 [submodule "xd/mx/afc"]
 	path = xd/mx/afc
 	url = .
