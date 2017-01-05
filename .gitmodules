@@ -7882,6 +7882,9 @@
 [submodule "ri/rp/cjx"]
 	path = ri/rp/cjx
 	url = .
+[submodule "ri/xz/bmm"]
+	path = ri/xz/bmm
+	url = .
 [submodule "ri/yk/gtb"]
 	path = ri/yk/gtb
 	url = .
