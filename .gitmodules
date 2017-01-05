@@ -12358,6 +12358,9 @@
 [submodule "ui/lp/oky"]
 	path = ui/lp/oky
 	url = .
+[submodule "ui/rn/peq"]
+	path = ui/rn/peq
+	url = .
 [submodule "ui/sz/htx"]
 	path = ui/sz/htx
 	url = .
