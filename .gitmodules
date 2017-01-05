@@ -8368,6 +8368,9 @@
 [submodule "qy/vd/gyr"]
 	path = qy/vd/gyr
 	url = .
+[submodule "qy/zr/abo"]
+	path = qy/zr/abo
+	url = .
 [submodule "qz/bf/lkq"]
 	path = qz/bf/lkq
 	url = .
