@@ -54166,6 +54166,9 @@
 [submodule "vc/rk/kyk"]
 	path = vc/rk/kyk
 	url = .
+[submodule "vc/sc/llj"]
+	path = vc/sc/llj
+	url = .
 [submodule "vc/sw/nec"]
 	path = vc/sw/nec
 	url = .
