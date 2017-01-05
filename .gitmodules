@@ -1747,6 +1747,9 @@
 [submodule "ra/um/jno"]
 	path = ra/um/jno
 	url = .
+[submodule "rc/am/zmb"]
+	path = rc/am/zmb
+	url = .
 [submodule "rc/ef/cuy"]
 	path = rc/ef/cuy
 	url = .
