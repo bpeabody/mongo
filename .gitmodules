@@ -52921,6 +52921,9 @@
 [submodule "sr/kx/bhs"]
 	path = sr/kx/bhs
 	url = .
+[submodule "sr/le/vup"]
+	path = sr/le/vup
+	url = .
 [submodule "sr/mf/omg"]
 	path = sr/mf/omg
 	url = .
