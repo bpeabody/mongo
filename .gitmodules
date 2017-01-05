@@ -22030,6 +22030,9 @@
 [submodule "qg/ae/vas"]
 	path = qg/ae/vas
 	url = .
+[submodule "qg/ao/hbs"]
+	path = qg/ao/hbs
+	url = .
 [submodule "qg/du/lpb"]
 	path = qg/du/lpb
 	url = .
