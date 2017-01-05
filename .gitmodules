@@ -39034,6 +39034,9 @@
 [submodule "tq/sc/noa"]
 	path = tq/sc/noa
 	url = .
+[submodule "tq/sn/krp"]
+	path = tq/sn/krp
+	url = .
 [submodule "tq/tl/nfq"]
 	path = tq/tl/nfq
 	url = .
