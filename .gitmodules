@@ -40927,6 +40927,9 @@
 [submodule "ot/ge/pvm"]
 	path = ot/ge/pvm
 	url = .
+[submodule "ot/hn/tzx"]
+	path = ot/hn/tzx
+	url = .
 [submodule "ot/ht/xhd"]
 	path = ot/ht/xhd
 	url = .
