@@ -72619,6 +72619,9 @@
 [submodule "xz/bm/wsh"]
 	path = xz/bm/wsh
 	url = .
+[submodule "xz/bn/iic"]
+	path = xz/bn/iic
+	url = .
 [submodule "xz/eh/ruz"]
 	path = xz/eh/ruz
 	url = .
