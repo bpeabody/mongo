@@ -2851,6 +2851,9 @@
 [submodule "ft/io/kvp"]
 	path = ft/io/kvp
 	url = .
+[submodule "ft/it/gny"]
+	path = ft/it/gny
+	url = .
 [submodule "ft/ky/bdb"]
 	path = ft/ky/bdb
 	url = .
