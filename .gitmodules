@@ -1963,6 +1963,9 @@
 [submodule "cl/zj/kao"]
 	path = cl/zj/kao
 	url = .
+[submodule "cm/cr/iux"]
+	path = cm/cr/iux
+	url = .
 [submodule "cm/iw/qqi"]
 	path = cm/iw/qqi
 	url = .
