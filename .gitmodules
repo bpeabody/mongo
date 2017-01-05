@@ -5929,6 +5929,9 @@
 [submodule "mj/yb/rtq"]
 	path = mj/yb/rtq
 	url = .
+[submodule "mj/yq/epc"]
+	path = mj/yq/epc
+	url = .
 [submodule "mj/za/rkk"]
 	path = mj/za/rkk
 	url = .
