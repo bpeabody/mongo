@@ -28426,6 +28426,9 @@
 [submodule "xo/eb/gto"]
 	path = xo/eb/gto
 	url = .
+[submodule "xo/gl/gcx"]
+	path = xo/gl/gcx
+	url = .
 [submodule "xo/gn/ixe"]
 	path = xo/gn/ixe
 	url = .
