@@ -1687,6 +1687,9 @@
 [submodule "dw/po/tuv"]
 	path = dw/po/tuv
 	url = .
+[submodule "dw/pz/kbu"]
+	path = dw/pz/kbu
+	url = .
 [submodule "dw/vx/xdf"]
 	path = dw/vx/xdf
 	url = .
