@@ -30754,6 +30754,9 @@
 [submodule "ry/cz/apn"]
 	path = ry/cz/apn
 	url = .
+[submodule "ry/do/mhp"]
+	path = ry/do/mhp
+	url = .
 [submodule "ry/dt/gck"]
 	path = ry/dt/gck
 	url = .
