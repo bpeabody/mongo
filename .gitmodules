@@ -71002,6 +71002,9 @@
 [submodule "yj/au/egt"]
 	path = yj/au/egt
 	url = .
+[submodule "yj/bo/cuy"]
+	path = yj/bo/cuy
+	url = .
 [submodule "yj/bz/jdu"]
 	path = yj/bz/jdu
 	url = .
