@@ -14680,6 +14680,9 @@
 [submodule "fn/kt/rqk"]
 	path = fn/kt/rqk
 	url = .
+[submodule "fn/lt/hpe"]
+	path = fn/lt/hpe
+	url = .
 [submodule "fn/ml/ixa"]
 	path = fn/ml/ixa
 	url = .
