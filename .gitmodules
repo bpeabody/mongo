@@ -5071,6 +5071,9 @@
 [submodule "qv/vp/lva"]
 	path = qv/vp/lva
 	url = .
+[submodule "qv/xi/qaj"]
+	path = qv/xi/qaj
+	url = .
 [submodule "qv/yn/gje"]
 	path = qv/yn/gje
 	url = .
