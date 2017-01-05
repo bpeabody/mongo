@@ -589,6 +589,9 @@
 [submodule "jj/vc/pii"]
 	path = jj/vc/pii
 	url = .
+[submodule "jl/my/ovh"]
+	path = jl/my/ovh
+	url = .
 [submodule "jl/xg/jto"]
 	path = jl/xg/jto
 	url = .
