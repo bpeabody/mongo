@@ -12802,6 +12802,9 @@
 [submodule "no/rs/krw"]
 	path = no/rs/krw
 	url = .
+[submodule "no/wd/dae"]
+	path = no/wd/dae
+	url = .
 [submodule "no/wo/sxg"]
 	path = no/wo/sxg
 	url = .
