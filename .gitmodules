@@ -1966,6 +1966,9 @@
 [submodule "as/or/bgh"]
 	path = as/or/bgh
 	url = .
+[submodule "as/ot/qks"]
+	path = as/ot/qks
+	url = .
 [submodule "as/ps/ecd"]
 	path = as/ps/ecd
 	url = .
