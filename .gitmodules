@@ -1417,6 +1417,9 @@
 [submodule "fp/ye/prp"]
 	path = fp/ye/prp
 	url = .
+[submodule "fq/gf/qzt"]
+	path = fq/gf/qzt
+	url = .
 [submodule "fq/kv/gul"]
 	path = fq/kv/gul
 	url = .
