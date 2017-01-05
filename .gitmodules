@@ -12067,6 +12067,9 @@
 [submodule "uw/lb/vlf"]
 	path = uw/lb/vlf
 	url = .
+[submodule "uw/lk/irr"]
+	path = uw/lk/irr
+	url = .
 [submodule "uw/pv/daq"]
 	path = uw/pv/daq
 	url = .
