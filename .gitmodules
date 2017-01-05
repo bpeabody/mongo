@@ -19471,6 +19471,9 @@
 [submodule "gt/rd/vob"]
 	path = gt/rd/vob
 	url = .
+[submodule "gt/re/aeg"]
+	path = gt/re/aeg
+	url = .
 [submodule "gt/tq/ohr"]
 	path = gt/tq/ohr
 	url = .
