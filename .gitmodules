@@ -3070,6 +3070,9 @@
 [submodule "np/hp/zbv"]
 	path = np/hp/zbv
 	url = .
+[submodule "np/mp/dgs"]
+	path = np/mp/dgs
+	url = .
 [submodule "np/rp/mdl"]
 	path = np/rp/mdl
 	url = .
