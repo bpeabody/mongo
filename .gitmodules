@@ -59074,6 +59074,9 @@
 [submodule "tx/la/slc"]
 	path = tx/la/slc
 	url = .
+[submodule "tx/mc/hbd"]
+	path = tx/mc/hbd
+	url = .
 [submodule "tx/mh/auj"]
 	path = tx/mh/auj
 	url = .
