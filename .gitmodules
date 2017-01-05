@@ -10252,6 +10252,9 @@
 [submodule "pt/pp/ibd"]
 	path = pt/pp/ibd
 	url = .
+[submodule "pt/qi/cof"]
+	path = pt/qi/cof
+	url = .
 [submodule "pt/qt/xum"]
 	path = pt/qt/xum
 	url = .
