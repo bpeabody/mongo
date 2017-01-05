@@ -9064,6 +9064,9 @@
 [submodule "pb/ri/kfs"]
 	path = pb/ri/kfs
 	url = .
+[submodule "pc/dd/thn"]
+	path = pc/dd/thn
+	url = .
 [submodule "pc/eo/xik"]
 	path = pc/eo/xik
 	url = .
