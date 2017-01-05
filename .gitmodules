@@ -58777,6 +58777,9 @@
 [submodule "wz/na/vrm"]
 	path = wz/na/vrm
 	url = .
+[submodule "wz/os/vaa"]
+	path = wz/os/vaa
+	url = .
 [submodule "wz/pr/rwr"]
 	path = wz/pr/rwr
 	url = .
