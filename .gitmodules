@@ -25906,6 +25906,9 @@
 [submodule "io/tx/eso"]
 	path = io/tx/eso
 	url = .
+[submodule "io/uo/swk"]
+	path = io/uo/swk
+	url = .
 [submodule "io/vk/eqf"]
 	path = io/vk/eqf
 	url = .
