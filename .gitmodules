@@ -5524,6 +5524,9 @@
 [submodule "eg/rq/geg"]
 	path = eg/rq/geg
 	url = .
+[submodule "eg/ul/kgv"]
+	path = eg/ul/kgv
+	url = .
 [submodule "eg/xi/cwu"]
 	path = eg/xi/cwu
 	url = .
