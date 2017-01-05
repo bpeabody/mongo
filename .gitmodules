@@ -7000,6 +7000,9 @@
 [submodule "pd/yi/sde"]
 	path = pd/yi/sde
 	url = .
+[submodule "pe/gr/eyl"]
+	path = pe/gr/eyl
+	url = .
 [submodule "pe/jg/zut"]
 	path = pe/jg/zut
 	url = .
