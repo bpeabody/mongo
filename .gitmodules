@@ -26272,6 +26272,9 @@
 [submodule "pa/ox/spq"]
 	path = pa/ox/spq
 	url = .
+[submodule "pa/pn/com"]
+	path = pa/pn/com
+	url = .
 [submodule "pa/qe/lor"]
 	path = pa/qe/lor
 	url = .
