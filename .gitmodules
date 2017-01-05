@@ -13264,6 +13264,9 @@
 [submodule "hb/rw/dln"]
 	path = hb/rw/dln
 	url = .
+[submodule "hb/ve/sxu"]
+	path = hb/ve/sxu
+	url = .
 [submodule "hb/vn/qkz"]
 	path = hb/vn/qkz
 	url = .
