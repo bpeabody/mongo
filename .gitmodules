@@ -7501,6 +7501,9 @@
 [submodule "hk/qq/tup"]
 	path = hk/qq/tup
 	url = .
+[submodule "hk/sk/upt"]
+	path = hk/sk/upt
+	url = .
 [submodule "hk/uc/xti"]
 	path = hk/uc/xti
 	url = .
