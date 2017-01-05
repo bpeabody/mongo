@@ -15289,6 +15289,9 @@
 [submodule "fi/vj/wrn"]
 	path = fi/vj/wrn
 	url = .
+[submodule "fi/vp/gvf"]
+	path = fi/vp/gvf
+	url = .
 [submodule "fi/xc/fzj"]
 	path = fi/xc/fzj
 	url = .
