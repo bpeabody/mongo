@@ -1216,6 +1216,9 @@
 [submodule "av/ay/jwk"]
 	path = av/ay/jwk
 	url = .
+[submodule "av/bf/his"]
+	path = av/bf/his
+	url = .
 [submodule "av/bp/soa"]
 	path = av/bp/soa
 	url = .
