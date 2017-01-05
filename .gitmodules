@@ -47254,6 +47254,9 @@
 [submodule "ra/sp/ief"]
 	path = ra/sp/ief
 	url = .
+[submodule "ra/ug/wmi"]
+	path = ra/ug/wmi
+	url = .
 [submodule "ra/um/jno"]
 	path = ra/um/jno
 	url = .
