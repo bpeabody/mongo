@@ -31585,6 +31585,9 @@
 [submodule "nu/ir/vqh"]
 	path = nu/ir/vqh
 	url = .
+[submodule "nu/kx/xme"]
+	path = nu/kx/xme
+	url = .
 [submodule "nu/lb/vqa"]
 	path = nu/lb/vqa
 	url = .
