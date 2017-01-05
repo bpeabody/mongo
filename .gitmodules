@@ -7120,6 +7120,9 @@
 [submodule "yh/ci/kjo"]
 	path = yh/ci/kjo
 	url = .
+[submodule "yh/rq/ovq"]
+	path = yh/rq/ovq
+	url = .
 [submodule "yh/um/yzh"]
 	path = yh/um/yzh
 	url = .
