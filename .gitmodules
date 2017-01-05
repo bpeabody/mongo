@@ -9139,6 +9139,9 @@
 [submodule "jv/no/vqn"]
 	path = jv/no/vqn
 	url = .
+[submodule "jv/qx/qip"]
+	path = jv/qx/qip
+	url = .
 [submodule "jv/tz/hnz"]
 	path = jv/tz/hnz
 	url = .
