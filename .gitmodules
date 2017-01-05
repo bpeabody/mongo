@@ -13201,6 +13201,9 @@
 [submodule "vr/cs/zyu"]
 	path = vr/cs/zyu
 	url = .
+[submodule "vr/du/kow"]
+	path = vr/du/kow
+	url = .
 [submodule "vr/ec/hol"]
 	path = vr/ec/hol
 	url = .
