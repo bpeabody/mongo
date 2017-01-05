@@ -11314,6 +11314,9 @@
 [submodule "hs/nc/mmm"]
 	path = hs/nc/mmm
 	url = .
+[submodule "hs/ne/ews"]
+	path = hs/ne/ews
+	url = .
 [submodule "hs/nq/veh"]
 	path = hs/nq/veh
 	url = .
