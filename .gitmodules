@@ -22681,6 +22681,9 @@
 [submodule "kh/tz/ddk"]
 	path = kh/tz/ddk
 	url = .
+[submodule "kh/uq/uol"]
+	path = kh/uq/uol
+	url = .
 [submodule "kh/ur/iqx"]
 	path = kh/ur/iqx
 	url = .
