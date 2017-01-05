@@ -4540,6 +4540,9 @@
 [submodule "np/se/nik"]
 	path = np/se/nik
 	url = .
+[submodule "nq/is/wab"]
+	path = nq/is/wab
+	url = .
 [submodule "nq/wl/pcz"]
 	path = nq/wl/pcz
 	url = .
