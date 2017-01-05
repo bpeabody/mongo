@@ -30352,6 +30352,9 @@
 [submodule "oi/bg/bwo"]
 	path = oi/bg/bwo
 	url = .
+[submodule "oi/bq/xtd"]
+	path = oi/bq/xtd
+	url = .
 [submodule "oi/bz/cty"]
 	path = oi/bz/cty
 	url = .
