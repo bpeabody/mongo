@@ -32227,6 +32227,9 @@
 [submodule "mj/ke/hqp"]
 	path = mj/ke/hqp
 	url = .
+[submodule "mj/ki/ovi"]
+	path = mj/ki/ovi
+	url = .
 [submodule "mj/ld/fxf"]
 	path = mj/ld/fxf
 	url = .
