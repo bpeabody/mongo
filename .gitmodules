@@ -46480,6 +46480,9 @@
 [submodule "sl/be/dym"]
 	path = sl/be/dym
 	url = .
+[submodule "sl/bg/ory"]
+	path = sl/bg/ory
+	url = .
 [submodule "sl/ci/nmn"]
 	path = sl/ci/nmn
 	url = .
