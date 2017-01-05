@@ -3406,6 +3406,9 @@
 [submodule "ko/ji/xmq"]
 	path = ko/ji/xmq
 	url = .
+[submodule "ko/jq/hby"]
+	path = ko/jq/hby
+	url = .
 [submodule "ko/ld/xzm"]
 	path = ko/ld/xzm
 	url = .
