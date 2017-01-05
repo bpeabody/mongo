@@ -6430,6 +6430,9 @@
 [submodule "ht/ay/baj"]
 	path = ht/ay/baj
 	url = .
+[submodule "ht/bl/lqa"]
+	path = ht/bl/lqa
+	url = .
 [submodule "ht/ff/dne"]
 	path = ht/ff/dne
 	url = .
