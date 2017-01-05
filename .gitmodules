@@ -18322,6 +18322,9 @@
 [submodule "pf/vj/bqe"]
 	path = pf/vj/bqe
 	url = .
+[submodule "pf/wm/fug"]
+	path = pf/wm/fug
+	url = .
 [submodule "pg/ad/tjp"]
 	path = pg/ad/tjp
 	url = .
