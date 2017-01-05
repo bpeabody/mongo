@@ -3040,6 +3040,9 @@
 [submodule "cy/yz/gcj"]
 	path = cy/yz/gcj
 	url = .
+[submodule "cz/ai/yzc"]
+	path = cz/ai/yzc
+	url = .
 [submodule "cz/dk/uee"]
 	path = cz/dk/uee
 	url = .
