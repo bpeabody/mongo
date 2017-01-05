@@ -3118,6 +3118,9 @@
 [submodule "ga/fs/ast"]
 	path = ga/fs/ast
 	url = .
+[submodule "ga/mk/wbw"]
+	path = ga/mk/wbw
+	url = .
 [submodule "ga/nb/kbd"]
 	path = ga/nb/kbd
 	url = .
