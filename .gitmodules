@@ -7270,6 +7270,9 @@
 [submodule "cq/rj/vfy"]
 	path = cq/rj/vfy
 	url = .
+[submodule "cq/su/cwd"]
+	path = cq/su/cwd
+	url = .
 [submodule "cq/ue/fud"]
 	path = cq/ue/fud
 	url = .
