@@ -2050,6 +2050,9 @@
 [submodule "bq/cn/qcf"]
 	path = bq/cn/qcf
 	url = .
+[submodule "bq/co/nkw"]
+	path = bq/co/nkw
+	url = .
 [submodule "bq/eu/ced"]
 	path = bq/eu/ced
 	url = .
