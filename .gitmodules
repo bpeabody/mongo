@@ -4627,6 +4627,9 @@
 [submodule "ek/bh/rli"]
 	path = ek/bh/rli
 	url = .
+[submodule "ek/dl/qnq"]
+	path = ek/dl/qnq
+	url = .
 [submodule "ek/ep/dbp"]
 	path = ek/ep/dbp
 	url = .
