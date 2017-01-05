@@ -3475,6 +3475,9 @@
 [submodule "dt/mo/iko"]
 	path = dt/mo/iko
 	url = .
+[submodule "dt/qc/bar"]
+	path = dt/qc/bar
+	url = .
 [submodule "dt/vm/dll"]
 	path = dt/vm/dll
 	url = .
