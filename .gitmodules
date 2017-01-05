@@ -9334,6 +9334,9 @@
 [submodule "oe/qt/gef"]
 	path = oe/qt/gef
 	url = .
+[submodule "oe/vd/lla"]
+	path = oe/vd/lla
+	url = .
 [submodule "oe/vi/xfd"]
 	path = oe/vi/xfd
 	url = .
