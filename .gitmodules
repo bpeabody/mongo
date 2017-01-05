@@ -10003,6 +10003,9 @@
 [submodule "rw/bn/tkh"]
 	path = rw/bn/tkh
 	url = .
+[submodule "rw/ej/wai"]
+	path = rw/ej/wai
+	url = .
 [submodule "rw/fw/kps"]
 	path = rw/fw/kps
 	url = .
