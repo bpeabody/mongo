@@ -6424,6 +6424,9 @@
 [submodule "cp/tk/vlw"]
 	path = cp/tk/vlw
 	url = .
+[submodule "cp/ub/fjz"]
+	path = cp/ub/fjz
+	url = .
 [submodule "cp/ui/wbq"]
 	path = cp/ui/wbq
 	url = .
