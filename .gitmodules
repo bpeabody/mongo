@@ -5374,6 +5374,9 @@
 [submodule "fl/gn/jhn"]
 	path = fl/gn/jhn
 	url = .
+[submodule "fl/hm/aeu"]
+	path = fl/hm/aeu
+	url = .
 [submodule "fl/ie/fnh"]
 	path = fl/ie/fnh
 	url = .
