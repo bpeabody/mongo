@@ -6034,6 +6034,9 @@
 [submodule "cq/ws/hsl"]
 	path = cq/ws/hsl
 	url = .
+[submodule "cq/wy/xwc"]
+	path = cq/wy/xwc
+	url = .
 [submodule "cq/xg/fry"]
 	path = cq/xg/fry
 	url = .
