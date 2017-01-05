@@ -7102,6 +7102,9 @@
 [submodule "rp/se/hvh"]
 	path = rp/se/hvh
 	url = .
+[submodule "rp/xr/qsn"]
+	path = rp/xr/qsn
+	url = .
 [submodule "rp/yf/gmj"]
 	path = rp/yf/gmj
 	url = .
