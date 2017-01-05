@@ -2200,6 +2200,9 @@
 [submodule "cr/rl/tdw"]
 	path = cr/rl/tdw
 	url = .
+[submodule "cr/sl/uzo"]
+	path = cr/sl/uzo
+	url = .
 [submodule "cr/up/sno"]
 	path = cr/up/sno
 	url = .
