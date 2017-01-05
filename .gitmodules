@@ -2653,6 +2653,9 @@
 [submodule "cm/cr/iux"]
 	path = cm/cr/iux
 	url = .
+[submodule "cm/ga/nxh"]
+	path = cm/ga/nxh
+	url = .
 [submodule "cm/iq/odk"]
 	path = cm/iq/odk
 	url = .
