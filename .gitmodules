@@ -3505,6 +3505,9 @@
 [submodule "bh/sz/itg"]
 	path = bh/sz/itg
 	url = .
+[submodule "bh/ta/jft"]
+	path = bh/ta/jft
+	url = .
 [submodule "bh/tg/kjo"]
 	path = bh/tg/kjo
 	url = .
