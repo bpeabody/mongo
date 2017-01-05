@@ -27319,6 +27319,9 @@
 [submodule "qt/pg/ccg"]
 	path = qt/pg/ccg
 	url = .
+[submodule "qt/qz/ynz"]
+	path = qt/qz/ynz
+	url = .
 [submodule "qt/rg/nnu"]
 	path = qt/rg/nnu
 	url = .
