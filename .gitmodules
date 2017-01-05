@@ -28144,6 +28144,9 @@
 [submodule "zz/ex/awk"]
 	path = zz/ex/awk
 	url = .
+[submodule "zz/fd/fxu"]
+	path = zz/fd/fxu
+	url = .
 [submodule "zz/oh/djd"]
 	path = zz/oh/djd
 	url = .
