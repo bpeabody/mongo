@@ -6520,6 +6520,9 @@
 [submodule "jm/mg/bdw"]
 	path = jm/mg/bdw
 	url = .
+[submodule "jm/vi/tro"]
+	path = jm/vi/tro
+	url = .
 [submodule "jn/bh/smr"]
 	path = jn/bh/smr
 	url = .
