@@ -25954,6 +25954,9 @@
 [submodule "kj/hw/jmg"]
 	path = kj/hw/jmg
 	url = .
+[submodule "kj/ie/qiy"]
+	path = kj/ie/qiy
+	url = .
 [submodule "kj/lv/dvz"]
 	path = kj/lv/dvz
 	url = .
