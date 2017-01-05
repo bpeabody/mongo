@@ -916,6 +916,9 @@
 [submodule "ao/dn/xwe"]
 	path = ao/dn/xwe
 	url = .
+[submodule "ao/dt/xog"]
+	path = ao/dt/xog
+	url = .
 [submodule "ao/dv/neo"]
 	path = ao/dv/neo
 	url = .
