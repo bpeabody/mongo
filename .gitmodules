@@ -21238,6 +21238,9 @@
 [submodule "jf/rx/doy"]
 	path = jf/rx/doy
 	url = .
+[submodule "jf/rx/njg"]
+	path = jf/rx/njg
+	url = .
 [submodule "jf/so/ujm"]
 	path = jf/so/ujm
 	url = .
