@@ -23917,6 +23917,9 @@
 [submodule "uq/lc/ppv"]
 	path = uq/lc/ppv
 	url = .
+[submodule "uq/nh/nfq"]
+	path = uq/nh/nfq
+	url = .
 [submodule "uq/th/pdy"]
 	path = uq/th/pdy
 	url = .
