@@ -51127,6 +51127,9 @@
 [submodule "yj/zu/jxt"]
 	path = yj/zu/jxt
 	url = .
+[submodule "yk/cd/ota"]
+	path = yk/cd/ota
+	url = .
 [submodule "yk/cr/ewj"]
 	path = yk/cr/ewj
 	url = .
