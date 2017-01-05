@@ -36370,6 +36370,9 @@
 [submodule "nn/dd/sim"]
 	path = nn/dd/sim
 	url = .
+[submodule "nn/dd/wfp"]
+	path = nn/dd/wfp
+	url = .
 [submodule "nn/ec/zcg"]
 	path = nn/ec/zcg
 	url = .
