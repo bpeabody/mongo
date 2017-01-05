@@ -109,6 +109,9 @@
 [submodule "as/ps/ecd"]
 	path = as/ps/ecd
 	url = .
+[submodule "at/ce/kma"]
+	path = at/ce/kma
+	url = .
 [submodule "au/cv/tai"]
 	path = au/cv/tai
 	url = .
