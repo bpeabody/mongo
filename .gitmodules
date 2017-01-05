@@ -20488,6 +20488,9 @@
 [submodule "ip/ux/xfc"]
 	path = ip/ux/xfc
 	url = .
+[submodule "ip/wh/syt"]
+	path = ip/wh/syt
+	url = .
 [submodule "ip/xd/yty"]
 	path = ip/xd/yty
 	url = .
