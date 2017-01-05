@@ -8137,6 +8137,9 @@
 [submodule "kl/vu/aml"]
 	path = kl/vu/aml
 	url = .
+[submodule "kl/xv/vhy"]
+	path = kl/xv/vhy
+	url = .
 [submodule "kl/xx/ces"]
 	path = kl/xx/ces
 	url = .
