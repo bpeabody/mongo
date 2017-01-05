@@ -9610,6 +9610,9 @@
 [submodule "mf/id/mbk"]
 	path = mf/id/mbk
 	url = .
+[submodule "mf/ik/uzo"]
+	path = mf/ik/uzo
+	url = .
 [submodule "mf/nq/vze"]
 	path = mf/nq/vze
 	url = .
