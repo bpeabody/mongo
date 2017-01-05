@@ -52900,6 +52900,9 @@
 [submodule "vm/ag/pot"]
 	path = vm/ag/pot
 	url = .
+[submodule "vm/bb/qkb"]
+	path = vm/bb/qkb
+	url = .
 [submodule "vm/bg/wcw"]
 	path = vm/bg/wcw
 	url = .
