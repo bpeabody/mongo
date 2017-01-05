@@ -4981,6 +4981,9 @@
 [submodule "mq/st/agr"]
 	path = mq/st/agr
 	url = .
+[submodule "mq/yv/gcp"]
+	path = mq/yv/gcp
+	url = .
 [submodule "mq/yz/dzb"]
 	path = mq/yz/dzb
 	url = .
