@@ -27976,6 +27976,9 @@
 [submodule "mb/yg/skn"]
 	path = mb/yg/skn
 	url = .
+[submodule "mb/yn/xrk"]
+	path = mb/yn/xrk
+	url = .
 [submodule "mc/am/cws"]
 	path = mc/am/cws
 	url = .
