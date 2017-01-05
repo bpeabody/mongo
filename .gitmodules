@@ -60244,6 +60244,9 @@
 [submodule "yr/lf/kit"]
 	path = yr/lf/kit
 	url = .
+[submodule "yr/li/nmd"]
+	path = yr/li/nmd
+	url = .
 [submodule "yr/os/wbw"]
 	path = yr/os/wbw
 	url = .
