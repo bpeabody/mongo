@@ -340,6 +340,9 @@
 [submodule "fr/mo/brt"]
 	path = fr/mo/brt
 	url = .
+[submodule "fs/bj/zmw"]
+	path = fs/bj/zmw
+	url = .
 [submodule "fs/lr/yer"]
 	path = fs/lr/yer
 	url = .
