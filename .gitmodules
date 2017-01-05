@@ -13489,6 +13489,9 @@
 [submodule "ox/wc/upa"]
 	path = ox/wc/upa
 	url = .
+[submodule "ox/yl/ntr"]
+	path = ox/yl/ntr
+	url = .
 [submodule "ox/zd/nok"]
 	path = ox/zd/nok
 	url = .
