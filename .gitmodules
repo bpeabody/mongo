@@ -7399,6 +7399,9 @@
 [submodule "so/bw/ayw"]
 	path = so/bw/ayw
 	url = .
+[submodule "so/sf/dik"]
+	path = so/sf/dik
+	url = .
 [submodule "so/uu/ulj"]
 	path = so/uu/ulj
 	url = .
