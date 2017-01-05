@@ -10435,6 +10435,9 @@
 [submodule "sw/sa/oal"]
 	path = sw/sa/oal
 	url = .
+[submodule "sw/tf/iox"]
+	path = sw/tf/iox
+	url = .
 [submodule "sw/th/rtc"]
 	path = sw/th/rtc
 	url = .
