@@ -3814,6 +3814,9 @@
 [submodule "eq/gc/byp"]
 	path = eq/gc/byp
 	url = .
+[submodule "eq/id/thi"]
+	path = eq/id/thi
+	url = .
 [submodule "eq/io/des"]
 	path = eq/io/des
 	url = .
