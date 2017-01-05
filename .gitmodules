@@ -23443,6 +23443,9 @@
 [submodule "sf/gw/jjf"]
 	path = sf/gw/jjf
 	url = .
+[submodule "sf/lo/yyh"]
+	path = sf/lo/yyh
+	url = .
 [submodule "sf/mm/yhg"]
 	path = sf/mm/yhg
 	url = .
