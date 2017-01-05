@@ -12634,6 +12634,9 @@
 [submodule "ri/rp/cjx"]
 	path = ri/rp/cjx
 	url = .
+[submodule "ri/us/qdo"]
+	path = ri/us/qdo
+	url = .
 [submodule "ri/xz/bmm"]
 	path = ri/xz/bmm
 	url = .
