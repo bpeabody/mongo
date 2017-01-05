@@ -184,6 +184,9 @@
 [submodule "ai/pb/cpa"]
 	path = ai/pb/cpa
 	url = .
+[submodule "ai/vg/lop"]
+	path = ai/vg/lop
+	url = .
 [submodule "aj/do/kkl"]
 	path = aj/do/kkl
 	url = .
