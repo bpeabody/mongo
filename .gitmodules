@@ -6550,6 +6550,9 @@
 [submodule "zj/fw/emf"]
 	path = zj/fw/emf
 	url = .
+[submodule "zj/ib/pqs"]
+	path = zj/ib/pqs
+	url = .
 [submodule "zj/kp/kbl"]
 	path = zj/kp/kbl
 	url = .
