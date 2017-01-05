@@ -14662,6 +14662,9 @@
 [submodule "jd/es/zfa"]
 	path = jd/es/zfa
 	url = .
+[submodule "jd/gk/zpp"]
+	path = jd/gk/zpp
+	url = .
 [submodule "jd/ju/fsy"]
 	path = jd/ju/fsy
 	url = .
