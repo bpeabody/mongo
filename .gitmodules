@@ -20776,6 +20776,9 @@
 [submodule "pi/ci/okp"]
 	path = pi/ci/okp
 	url = .
+[submodule "pi/cn/fjh"]
+	path = pi/cn/fjh
+	url = .
 [submodule "pi/cn/jvn"]
 	path = pi/cn/jvn
 	url = .
