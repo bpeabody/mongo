@@ -1087,6 +1087,9 @@
 [submodule "by/mj/wqa"]
 	path = by/mj/wqa
 	url = .
+[submodule "by/nh/ura"]
+	path = by/nh/ura
+	url = .
 [submodule "by/oe/pby"]
 	path = by/oe/pby
 	url = .
