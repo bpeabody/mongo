@@ -6610,6 +6610,9 @@
 [submodule "fr/wm/acz"]
 	path = fr/wm/acz
 	url = .
+[submodule "fr/wm/wlp"]
+	path = fr/wm/wlp
+	url = .
 [submodule "fr/wz/eie"]
 	path = fr/wz/eie
 	url = .
