@@ -13555,6 +13555,9 @@
 [submodule "em/cn/vth"]
 	path = em/cn/vth
 	url = .
+[submodule "em/dt/rex"]
+	path = em/dt/rex
+	url = .
 [submodule "em/em/mwa"]
 	path = em/em/mwa
 	url = .
