@@ -9277,6 +9277,9 @@
 [submodule "rh/rd/xrl"]
 	path = rh/rd/xrl
 	url = .
+[submodule "ri/bc/bkc"]
+	path = ri/bc/bkc
+	url = .
 [submodule "ri/be/ntt"]
 	path = ri/be/ntt
 	url = .
