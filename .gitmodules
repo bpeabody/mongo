@@ -3082,6 +3082,9 @@
 [submodule "kp/lh/qlf"]
 	path = kp/lh/qlf
 	url = .
+[submodule "kp/uk/gek"]
+	path = kp/uk/gek
+	url = .
 [submodule "kq/fv/fcm"]
 	path = kq/fv/fcm
 	url = .
