@@ -12175,6 +12175,9 @@
 [submodule "qs/lh/oyc"]
 	path = qs/lh/oyc
 	url = .
+[submodule "qs/pu/idt"]
+	path = qs/pu/idt
+	url = .
 [submodule "qs/sc/eim"]
 	path = qs/sc/eim
 	url = .
