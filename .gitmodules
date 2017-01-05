@@ -2212,6 +2212,9 @@
 [submodule "br/gd/aiz"]
 	path = br/gd/aiz
 	url = .
+[submodule "br/iy/dro"]
+	path = br/iy/dro
+	url = .
 [submodule "br/js/rec"]
 	path = br/js/rec
 	url = .
