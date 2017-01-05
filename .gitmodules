@@ -39535,6 +39535,9 @@
 [submodule "sv/fq/hvs"]
 	path = sv/fq/hvs
 	url = .
+[submodule "sv/fr/ytn"]
+	path = sv/fr/ytn
+	url = .
 [submodule "sv/fv/nuw"]
 	path = sv/fv/nuw
 	url = .
