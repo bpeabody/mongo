@@ -9613,6 +9613,9 @@
 [submodule "fn/ee/lcb"]
 	path = fn/ee/lcb
 	url = .
+[submodule "fn/fa/zgq"]
+	path = fn/fa/zgq
+	url = .
 [submodule "fn/fc/bdz"]
 	path = fn/fc/bdz
 	url = .
