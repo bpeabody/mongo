@@ -19558,6 +19558,9 @@
 [submodule "sj/gs/wmr"]
 	path = sj/gs/wmr
 	url = .
+[submodule "sj/ie/ely"]
+	path = sj/ie/ely
+	url = .
 [submodule "sj/kk/ylb"]
 	path = sj/kk/ylb
 	url = .
