@@ -6220,6 +6220,9 @@
 [submodule "de/xi/nhv"]
 	path = de/xi/nhv
 	url = .
+[submodule "de/yy/vky"]
+	path = de/yy/vky
+	url = .
 [submodule "df/bf/rcc"]
 	path = df/bf/rcc
 	url = .
