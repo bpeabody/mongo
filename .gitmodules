@@ -5689,6 +5689,9 @@
 [submodule "bx/pq/dcr"]
 	path = bx/pq/dcr
 	url = .
+[submodule "bx/qa/yrv"]
+	path = bx/qa/yrv
+	url = .
 [submodule "bx/rr/orb"]
 	path = bx/rr/orb
 	url = .
