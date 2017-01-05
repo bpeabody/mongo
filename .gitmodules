@@ -24886,6 +24886,9 @@
 [submodule "rb/qs/poo"]
 	path = rb/qs/poo
 	url = .
+[submodule "rb/rf/alk"]
+	path = rb/rf/alk
+	url = .
 [submodule "rb/rl/bvp"]
 	path = rb/rl/bvp
 	url = .
